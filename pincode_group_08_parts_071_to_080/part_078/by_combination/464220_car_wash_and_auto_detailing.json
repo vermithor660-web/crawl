@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wheelwashhub",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "464220",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Behlot Rd, Ganj Basoda, Madhya Pradesh 464221",
+    "area": "464220",
+    "latitude": 23.855057499999997,
+    "longitude": 77.94669859999999,
+    "place_id": "ChIJ8WPT2wxXeTkRL6o9iNRVosM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8WPT2wxXeTkRL6o9iNRVosM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:46:10"
+  },
+  {
+    "business_name": "CarzSpa - Car Detailing, PPF and Ceramic Coating Studio, Raipur",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto restoration service, Car detailing service, Vehicle wrapping service",
+    "pincode": "464220",
+    "phone_number": "+91 80 3775 9676",
+    "website": "https://studios.carzspa.com/carzspa/raipur/raipura/carzspa-in-raipura-raipur--70bcae0a-f09e-4b6d-9440-5ea50176badd/home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sasa Automobile, Ring Road No. 1, Agroha Colony, Changurabhata, Raipur, Chhattisgarh 492013",
+    "area": "Agroha Colony, Changurabhata",
+    "latitude": 21.2336031,
+    "longitude": 81.5943071,
+    "place_id": "ChIJudlVP7LdKDoRgTFOrvU-_OY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJudlVP7LdKDoRgTFOrvU-_OY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:46:12"
+  }
+]

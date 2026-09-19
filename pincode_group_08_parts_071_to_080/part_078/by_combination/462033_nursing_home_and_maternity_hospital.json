@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Northwest Healthcare Center",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home",
+    "pincode": "462033",
+    "phone_number": "N/A",
+    "website": "https://northwesthealthcare.net/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "6440 W 34th St, Indianapolis, IN 46224, United States",
+    "area": "Northwest High School",
+    "latitude": 39.8166072,
+    "longitude": -86.2730083,
+    "place_id": "ChIJA2vYmMGpbIgRlcuQwywsvpY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA2vYmMGpbIgRlcuQwywsvpY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:02:27"
+  },
+  {
+    "business_name": "Castleton Health Care Center",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Rehabilitation center",
+    "all_categories": "Rehabilitation center",
+    "pincode": "462033",
+    "phone_number": "N/A",
+    "website": "http://castletonhcc.com/",
+    "rating": 4.5,
+    "reviews_count": 112,
+    "address": "7630 E 86th St, Indianapolis, IN 46256, United States",
+    "area": "I-69/Fall Creek",
+    "latitude": 39.9130523,
+    "longitude": -86.03356579999999,
+    "place_id": "ChIJU3L8ycpMa4gR-kAbHEq8J-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU3L8ycpMa4gR-kAbHEq8J-w",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:02:27"
+  }
+]

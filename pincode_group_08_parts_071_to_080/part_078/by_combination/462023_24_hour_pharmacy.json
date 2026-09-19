@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aanav medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "462023",
+    "phone_number": "+91 97559 12055",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Nayapura Kolar Rd, Rajharsh Colony, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "area": "Rajharsh Colony, Kolar Rd",
+    "latitude": 23.161683099999998,
+    "longitude": 77.42380519999999,
+    "place_id": "ChIJo9GJPwBDfDkRHSc-uLbt7u0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo9GJPwBDfDkRHSc-uLbt7u0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:50:49"
+  },
+  {
+    "business_name": "YASH MEDICAL STORES",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "462023",
+    "phone_number": "+91 74411 31688",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "near Hanuman mandir, Priyanka Nagar, Lalita Nagar, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "area": "Priyanka Nagar, Lalita Nagar, Kolar Rd",
+    "latitude": 23.1591721,
+    "longitude": 77.41805889999999,
+    "place_id": "ChIJY0VcD6dFfDkRnNSIaWUY7MA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY0VcD6dFfDkRnNSIaWUY7MA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:50:49"
+  }
+]

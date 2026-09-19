@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VOM LOGISTICS",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service, Logistics service",
+    "pincode": "462023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "A/E 160, Ayodhya Phase 3, Sector A, Rajeev Nagar, Ayodhya Nagar, Bhopal, Madhya Pradesh 462022",
+    "area": "Ayodhya Phase 3, Sector A, Rajeev Nagar, Ayodhya Nagar",
+    "latitude": 23.2619169,
+    "longitude": 77.4723483,
+    "place_id": "ChIJSRIdoKBrfDkROCoXvYCMzQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSRIdoKBrfDkROCoXvYCMzQs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:51:09"
+  },
+  {
+    "business_name": "just logistics",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "462023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "CRWS Colony, Nishatpura, Bhopal, Madhya Pradesh 462010",
+    "area": "CRWS Colony, Nishatpura",
+    "latitude": 23.286265699999998,
+    "longitude": 77.436521,
+    "place_id": "ChIJQ1V3SExpfDkRjJqImk1aLl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ1V3SExpfDkRjJqImk1aLl8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:51:10"
+  }
+]

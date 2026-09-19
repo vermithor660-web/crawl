@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Cars Bhopal",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "462026",
+    "phone_number": "+91 62628 44611",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "shop no.2, H.no 53, Narmadapuram Rd, Adarsh Nagar, Ahmedpur Kalan, Bagmugaliya, Bhopal, Madhya Pradesh 462026",
+    "area": "Adarsh Nagar, Ahmedpur Kalan, Bagmugaliya",
+    "latitude": 23.188407299999998,
+    "longitude": 77.4519952,
+    "place_id": "ChIJhSt-F8JDfDkRARl-rVajuLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhSt-F8JDfDkRARl-rVajuLk",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:54:53"
+  },
+  {
+    "business_name": "Renault Bhopal New",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Renault dealer",
+    "all_categories": "Renault dealer, Car dealer",
+    "pincode": "462026",
+    "phone_number": "+91 92892 20871",
+    "website": "https://www.renault.co.in/",
+    "rating": 4.7,
+    "reviews_count": 2011,
+    "address": "Khasra No. 292, 5F88+8PQ, Misrod, Bhopal, Madhya Pradesh 462026",
+    "area": "Misrod",
+    "latitude": 23.165812499999998,
+    "longitude": 77.4668125,
+    "place_id": "ChIJ24Nkj-JpfDkR9Qe97_61ujA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ24Nkj-JpfDkR9Qe97_61ujA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:54:54"
+  }
+]

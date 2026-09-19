@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonu Chaat corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "462022",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "7F3G+3JC, Kalpana Nagar, Bhopal, Madhya Pradesh 462022",
+    "area": "Kalpana Nagar",
+    "latitude": 23.2526764,
+    "longitude": 77.4765287,
+    "place_id": "ChIJ8ZXsmNxBfDkR1Lg1DLP0lO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ZXsmNxBfDkR1Lg1DLP0lO0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:48:37"
+  },
+  {
+    "business_name": "indian chaat house",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "462022",
+    "phone_number": "+91 86025 31949",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "SF k21 food court second floor aashima anupma mall, Narmadapuram Rd, Bhopal, Madhya Pradesh 462026",
+    "area": "Danish Nagar, Bagmugaliya",
+    "latitude": 23.1832602,
+    "longitude": 77.4567424,
+    "place_id": "ChIJ0zP9QtJDfDkRzQ-rkB0qmb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0zP9QtJDfDkRzQ-rkB0qmb4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:48:39"
+  }
+]

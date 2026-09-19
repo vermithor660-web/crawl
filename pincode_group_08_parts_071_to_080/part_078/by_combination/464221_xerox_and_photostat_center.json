@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Photo Copy Centre",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "464221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "R59P+8V9, Rasoolpur, Madhya Pradesh 464221",
+    "area": "464221",
+    "latitude": 23.8182761,
+    "longitude": 78.1872273,
+    "place_id": "ChIJDdHS0sROeTkRckTRohFOaX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDdHS0sROeTkRckTRohFOaX8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:48:38"
+  },
+  {
+    "business_name": "photocopy shop",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "464221",
+    "phone_number": "+91 62606 75753",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "shop no 6, Nagar Palika, near by Hospital Road, Ganj Basoda, Madhya Pradesh 464221",
+    "area": "464221",
+    "latitude": 23.849282,
+    "longitude": 77.9325637,
+    "place_id": "ChIJX9YkRNxXeTkR2sXK-EQb1VU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX9YkRNxXeTkR2sXK-EQb1VU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:48:40"
+  }
+]

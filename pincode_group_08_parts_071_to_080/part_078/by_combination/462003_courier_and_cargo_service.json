@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trackon courier",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "462003",
+    "phone_number": "+91 91310 43028",
+    "website": "http://trackoncourier.com/",
+    "rating": 4.2,
+    "reviews_count": 69,
+    "address": "Vineet Kunj, plot 2, and, opposite CI square, near Ambi wine shop, Vineet Kunj, Danish Kunj, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "area": "Vineet Kunj, Danish Kunj, Kolar Rd",
+    "latitude": 23.1717688,
+    "longitude": 77.41705929999999,
+    "place_id": "ChIJg7AORwVDfDkR-oQmd0uV4X4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7AORwVDfDkR-oQmd0uV4X4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:36:34"
+  },
+  {
+    "business_name": "Shri Pankaj Transport Company",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Trucking company",
+    "all_categories": "Trucking company, Transportation service",
+    "pincode": "462003",
+    "phone_number": "+91 98932 55838",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 18,
+    "address": "28, Pradhan Bhawan, Mangalwara Rd,Itwara Rd, Mangalwara Thana, Mangalwara, Azad Market, Peer Gate Area, Bhopal, Madhya Pradesh 462001",
+    "area": "Mangalwara Thana, Mangalwara, Azad Market, Peer Gate Area",
+    "latitude": 23.261249799999998,
+    "longitude": 77.4055487,
+    "place_id": "ChIJPdnCmCNofDkRRKY1rcyhYEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPdnCmCNofDkRRKY1rcyhYEc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:36:34"
+  }
+]

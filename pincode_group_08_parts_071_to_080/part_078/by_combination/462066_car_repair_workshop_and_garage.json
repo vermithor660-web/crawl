@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mega Motors",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "462066",
+    "phone_number": "+91 94160 13800",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 116,
+    "address": "HSIIDC, Plot No. 10, Murthal, Sonipat, Haryana 131039",
+    "area": "462066",
+    "latitude": 29.022463499999997,
+    "longitude": 77.0688667,
+    "place_id": "ChIJvUAwEQixDTkRYEvR8idq_-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvUAwEQixDTkRYEvR8idq_-M",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:27:42"
+  },
+  {
+    "business_name": "Supermechanic",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "462066",
+    "phone_number": "N/A",
+    "website": "https://www.supermechanic.in/",
+    "rating": 1,
+    "reviews_count": 7,
+    "address": "Unit 3, 4, Lal Bahadur Shastri Marg, Kamani, Kurla West, Saki Naka, Mumbai, Maharashtra 400070",
+    "area": "Kamani, Kurla West, Saki Naka",
+    "latitude": 19.0853337,
+    "longitude": 72.887444,
+    "place_id": "ChIJVVWGl5LI5zsR50KMVPIFCEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVWGl5LI5zsR50KMVPIFCEI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:27:43"
+  }
+]

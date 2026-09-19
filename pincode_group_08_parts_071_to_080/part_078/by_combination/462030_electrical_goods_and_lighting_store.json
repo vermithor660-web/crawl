@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Sharda Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Electronics store",
+    "pincode": "462030",
+    "phone_number": "+91 86020 46980",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nearby Airtel tower, Housing Board Colony 1, Madhya Pradesh 466001",
+    "area": "Housing Board Colony 1",
+    "latitude": 23.214205099999997,
+    "longitude": 77.1065441,
+    "place_id": "ChIJb8Twynz1fDkR4HwmZdZlMIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb8Twynz1fDkR4HwmZdZlMIo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:58:55"
+  },
+  {
+    "business_name": "Shri Sawariya Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "462030",
+    "phone_number": "+91 99814 66993",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Kalka square, Hemu Kalani, Bairagarh, Bhopal, Madhya Pradesh 462030",
+    "area": "Hemu Kalani, Bairagarh",
+    "latitude": 23.2706023,
+    "longitude": 77.33356669999999,
+    "place_id": "ChIJORU4c6BnfDkRJBq5OLlZoR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJORU4c6BnfDkRJBq5OLlZoR8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:58:55"
+  }
+]

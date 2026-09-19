@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nupur Enterprises",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Commercial printer",
+    "all_categories": "Commercial printer",
+    "pincode": "462030",
+    "phone_number": "+91 99078 07771",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "DK 1/316, Near MPEG office, Kolar road Bhopal, Bhopal, Madhya Pradesh 462042",
+    "area": "Danish Kunj, Kolar Rd",
+    "latitude": 23.1723634,
+    "longitude": 77.4226882,
+    "place_id": "ChIJe0f0indDfDkR0sad9C_U-Yw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe0f0indDfDkR0sad9C_U-Yw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:59:33"
+  },
+  {
+    "business_name": "Shri Vishwakarma Printers",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Offset Printer",
+    "all_categories": "Offset Printer, Bookbinder, Graphic designer, Print shop",
+    "pincode": "462030",
+    "phone_number": "+91 92295 01929",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "106, Jhulelal Market Main Rd, Gandhi Nagar, Bhopal, Madhya Pradesh 462036",
+    "area": "Gandhi Nagar",
+    "latitude": 23.3000492,
+    "longitude": 77.3443154,
+    "place_id": "ChIJpZ_j-01mfDkRu9q-nbI3xUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpZ_j-01mfDkRu9q-nbI3xUM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:59:33"
+  }
+]

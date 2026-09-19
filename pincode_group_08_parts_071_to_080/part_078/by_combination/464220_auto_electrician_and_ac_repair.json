@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AC repair and car electrical works",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "464220",
+    "phone_number": "+91 77097 92632",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 37,
+    "address": "Sr 89 /1, Bhairnala, Pune - Solapur Rd, Fatima Nagar, SRPF, Wanowrie, Pune, Maharashtra 411013",
+    "area": "Fatima Nagar, SRPF, Wanowrie",
+    "latitude": 18.5062167,
+    "longitude": 73.90337629999999,
+    "place_id": "ChIJlVnEYMbBwjsRJUDtDsWo7qU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlVnEYMbBwjsRJUDtDsWo7qU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:46:13"
+  },
+  {
+    "business_name": "A.S. Auto Electrical Works",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Electrical repair shop",
+    "all_categories": "Electrical repair shop",
+    "pincode": "464220",
+    "phone_number": "+91 93900 84149",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Saraswati Nagar, Chandrapuri Colony, L. B. Nagar, Hyderabad, Telangana 500074",
+    "area": "Saraswati Nagar, Chandrapuri Colony, L. B. Nagar",
+    "latitude": 17.3428748,
+    "longitude": 78.5567227,
+    "place_id": "ChIJ4Swu76iYyzsRQZDeNj7wIwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Swu76iYyzsRQZDeNj7wIwI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:46:15"
+  }
+]

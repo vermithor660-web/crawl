@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agrawal restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "464001",
+    "phone_number": "+91 79746 68425",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 71,
+    "address": "GQ6Q+2QX, Sanchi Rd, Shastri Nagar, Vidisha, Madhya Pradesh 464001",
+    "area": "Shastri Nagar",
+    "latitude": 23.5101135,
+    "longitude": 77.789469,
+    "place_id": "ChIJBYY-RFkFfDkR_Cdn17eWws0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBYY-RFkFfDkR_Cdn17eWws0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:38:36"
+  },
+  {
+    "business_name": "Peter England Menswear Exclusive Showroom",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store, Tuxedo shop",
+    "pincode": "464001",
+    "phone_number": "N/A",
+    "website": "https://vidisha.peterengland.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ground Floor, Main, Sanchi Rd, Shastri Nagar, Vidisha, Madhya Pradesh 464001",
+    "area": "Shastri Nagar",
+    "latitude": 23.517679899999997,
+    "longitude": 77.7973343,
+    "place_id": "ChIJXfsk_LAFfDkReipk5oY-U9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXfsk_LAFfDkReipk5oY-U9Y",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:38:38"
+  }
+]

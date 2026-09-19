@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vegito Foods & Spices",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Spices Wholesaler",
+    "pincode": "462024",
+    "phone_number": "N/A",
+    "website": "https://www.vegitofoodsandspices.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G-2, 184/A, Synergy Residency, Kanadia Main Rd, Gokul Nagar, Indore, Madhya Pradesh 452001",
+    "area": "Gokul Nagar",
+    "latitude": 22.7262552,
+    "longitude": 75.9302088,
+    "place_id": "ChIJody5pc3jYjkR2BfGkxoEO2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJody5pc3jYjkR2BfGkxoEO2k",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:52:29"
+  },
+  {
+    "business_name": "GreenTokri Farms Pvt Ltd",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Supplier",
+    "all_categories": "Supplier, Food products supplier, Natural goods store, Produce market, Produce wholesaler, Store, Fruits & Vegetable Wholesaler",
+    "pincode": "462024",
+    "phone_number": "+91 97637 17960",
+    "website": "https://greentokri.com/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "S. No. 21/3, Behind Vitthalanjan Wedding Hall, near Vidyankur School, Sainikwadi, Wadgaon Sheri, Pune, Maharashtra 411014",
+    "area": "Sainikwadi, Wadgaon Sheri",
+    "latitude": 18.552416,
+    "longitude": 73.91669,
+    "place_id": "ChIJtwl6dwTBwjsRqw6X5mjU5eg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtwl6dwTBwjsRqw6X5mjU5eg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:52:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Panchsheel",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Finishing materials supplier",
+    "all_categories": "Finishing materials supplier, Industrial chemicals wholesaler, Metal supplier",
+    "pincode": "462003",
+    "phone_number": "+91 98270 12482",
+    "website": "https://panchsheel.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Krishnanchal Complex, C-2, Pari Bazar Rd, Kohefiza, Bhopal, Madhya Pradesh 462001",
+    "area": "Kohefiza",
+    "latitude": 23.263692,
+    "longitude": 77.38928059999999,
+    "place_id": "ChIJifYzSSVofDkRRUINh6KP-xo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJifYzSSVofDkRRUINh6KP-xo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:36:41"
+  },
+  {
+    "business_name": "Krishnra Chemicals & Plastic",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Plastic Wholesaler",
+    "all_categories": "Plastic Wholesaler, Cleaning Services",
+    "pincode": "462003",
+    "phone_number": "+91 755 644 0444",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Nehru nagar, B-23, Main Rd No. 3, near Old Zone 06 office, Nehru Nagar, Kotra Sultanabad, Bhopal, Madhya Pradesh 462003",
+    "area": "Nehru Nagar, Kotra Sultanabad",
+    "latitude": 23.213894,
+    "longitude": 77.3937081,
+    "place_id": "ChIJp6_dCdtCfDkRS3bmgKz0rjU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp6_dCdtCfDkRS3bmgKz0rjU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:36:43"
+  }
+]

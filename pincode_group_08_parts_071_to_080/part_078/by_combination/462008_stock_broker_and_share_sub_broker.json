@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GOPOCKET - Share Trading and Training Centre",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Online Share Trading Center",
+    "pincode": "462008",
+    "phone_number": "+91 99407 50690",
+    "website": "https://gopocket.in/",
+    "rating": 4.5,
+    "reviews_count": 44,
+    "address": "J.V.L. Arcade, 18/199, N Usman Rd, Parthsarathy Puram, Parthasarathi Puram, T. Nagar, Chennai, Tamil Nadu 600017",
+    "area": "Parthsarathy Puram, Parthasarathi Puram, T. Nagar",
+    "latitude": 13.0529072,
+    "longitude": 80.23413479999999,
+    "place_id": "ChIJxXf7vVhmUjoRg34L1Af6Soc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxXf7vVhmUjoRg34L1Af6Soc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:40:23"
+  },
+  {
+    "business_name": "MoneyWorks4Me - SEBI Registered Investment Adviser",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service, Financial consultant",
+    "pincode": "462008",
+    "phone_number": "+91 98603 59463",
+    "website": "https://www.moneyworks4me.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "C/o The Alchemists Ark Pvt. Ltd. B-101, \"Signet Corner\" Building, Baner, Pune, Maharashtra 411069",
+    "area": "Balewadi Phata, Baner",
+    "latitude": 18.5639403,
+    "longitude": 73.7829647,
+    "place_id": "ChIJY4xo4c2-wjsR5CsuqBGnup4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY4xo4c2-wjsR5CsuqBGnup4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:40:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji dhava",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "464113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HQ6R+X86, Vidisha Rd, Dhol Khedi, Madhya Pradesh 464001",
+    "area": "464113",
+    "latitude": 23.5624184,
+    "longitude": 77.7907742,
+    "place_id": "ChIJS5l6RQAFfDkRS2Lw1IXiOI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS5l6RQAFfDkRS2Lw1IXiOI4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:42:15"
+  },
+  {
+    "business_name": "Amol Dhaba And Family Restorent",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "464113",
+    "phone_number": "+91 98275 31075",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Bhopal, Sagar Rd, near by Harsh Vihar Colony, Vidisha, Madhya Pradesh 464001",
+    "area": "464113",
+    "latitude": 23.5261082,
+    "longitude": 77.8481584,
+    "place_id": "ChIJd0Mnv18DfDkR6L5NnYIVXRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd0Mnv18DfDkR6L5NnYIVXRc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:42:16"
+  }
+]

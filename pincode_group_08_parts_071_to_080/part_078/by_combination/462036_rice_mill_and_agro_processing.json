@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Umiya Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "462036",
+    "phone_number": "+91 92282 33073",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "125/126, G.I.D.C. Estate, Kalol, Gujarat 382725",
+    "area": "G.I.D.C. Estate",
+    "latitude": 23.2299933,
+    "longitude": 72.50894199999999,
+    "place_id": "ChIJRwkTt0glXDkRZsYuenqBvt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRwkTt0glXDkRZsYuenqBvt8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:05:27"
+  },
+  {
+    "business_name": "Jagat Agrotech Pvt. Ltd.",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "462036",
+    "phone_number": "+91 99984 91327",
+    "website": "https://www.jagatagrotech.com/",
+    "rating": 4.7,
+    "reviews_count": 23,
+    "address": "Plot No. 1375, Road, Naiku, Radhu, Gujarat 387560",
+    "area": "Naiku",
+    "latitude": 22.7153937,
+    "longitude": 72.5792623,
+    "place_id": "ChIJ3RSxUnHzXjkRZRoDvOwtlDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3RSxUnHzXjkRZRoDvOwtlDw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:05:27"
+  }
+]

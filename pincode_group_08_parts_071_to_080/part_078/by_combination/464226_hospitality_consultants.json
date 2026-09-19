@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yari QualiTech",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Business management consultant, Certification agency",
+    "pincode": "464226",
+    "phone_number": "+91 75663 55111",
+    "website": "https://yariqualitech.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Sapna Chambers, 201, 12 1, South Tukoganj, Indore, Madhya Pradesh 452001",
+    "area": "South Tukoganj",
+    "latitude": 22.7152015,
+    "longitude": 75.87501449999999,
+    "place_id": "ChIJi2X1nFn9YjkRb1bxzAK5m4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi2X1nFn9YjkRb1bxzAK5m4Q",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:52:08"
+  },
+  {
+    "business_name": "The Tender Star",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "464226",
+    "phone_number": "+91 96755 55549",
+    "website": "https://thetenderstar.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no. 6, Hamidia Rd, near Hamidia Hospital, Hotel Shagun, Nakkar Khana, Peer Gate, Bhopal, Madhya Pradesh 462001",
+    "area": "Hotel Shagun, Nakkar Khana, Peer Gate",
+    "latitude": 23.2583771,
+    "longitude": 77.39530959999999,
+    "place_id": "ChIJbfhn8XhpfDkReotalrWSCto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbfhn8XhpfDkReotalrWSCto",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:52:08"
+  }
+]

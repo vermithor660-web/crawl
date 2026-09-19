@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiva Prajapati",
+    "search_category": "Shops",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop",
+    "pincode": "464226",
+    "phone_number": "+91 91795 03779",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Shop N 01, Berasiya Road, Vidisha, Khamkheda, Madhya Pradesh 464226",
+    "area": "464226",
+    "latitude": 23.5846069,
+    "longitude": 77.6341028,
+    "place_id": "ChIJay8g_nYLfDkRBO8ewiphm7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJay8g_nYLfDkRBO8ewiphm7o",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:52:45"
+  },
+  {
+    "business_name": "Lodhi Amit",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "464226",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HP4J+XFQ, Vidisha, Chhirkheda, Madhya Pradesh 464226",
+    "area": "464226",
+    "latitude": 23.557461399999998,
+    "longitude": 77.7312336,
+    "place_id": "ChIJByjBAgAPfDkR1VKgtx1wW-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJByjBAgAPfDkR1VKgtx1wW-s",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:52:45"
+  }
+]

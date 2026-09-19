@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kushwaha Auto",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "463106",
+    "phone_number": "+91 99778 90628",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Bus Stand, Tikankhedi, Berasia, Madhya Pradesh 463106",
+    "area": "463106",
+    "latitude": 23.621859999999998,
+    "longitude": 77.4306861,
+    "place_id": "ChIJrYMbHst3fDkR23voGVbW2I0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrYMbHst3fDkR23voGVbW2I0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:35:20"
+  },
+  {
+    "business_name": "Shree Maa Sharda Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "463106",
+    "phone_number": "+91 97555 17874",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Chopati, Ashta, Kaji Khedi, Madhya Pradesh 466116",
+    "area": "Chopati",
+    "latitude": 23.0353772,
+    "longitude": 76.7134966,
+    "place_id": "ChIJdXv2P8HFfDkRWKkfRkUmGP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdXv2P8HFfDkRWKkfRkUmGP0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:35:22"
+  }
+]

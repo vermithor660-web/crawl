@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Space Advertising(Basant Kumar)",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising service",
+    "all_categories": "Advertising service",
+    "pincode": "462027",
+    "phone_number": "+91 88189 33873",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "S.N.7 Near Danik Bhaskar Beside BDA, Press Complex M P Nagar Zone 1 Bhopal, Bhopal, Madhya Pradesh 462011",
+    "area": "Shikhar Varta, Zone-I, Maharana Pratap Nagar",
+    "latitude": 23.2393623,
+    "longitude": 77.4322284,
+    "place_id": "ChIJs6RcT2RCfDkRCjxq0QiznF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6RcT2RCfDkRCjxq0QiznF4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:57:56"
+  },
+  {
+    "business_name": "Print Ad",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Branding agency",
+    "all_categories": "Branding agency",
+    "pincode": "462027",
+    "phone_number": "+91 83193 07487",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Patel Complex, 238, in front of DB Mall, Near Hotel Surendra Vilas, Zone-I, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "Near Hotel Surendra Vilas, Zone-I, Maharana Pratap Nagar",
+    "latitude": 23.2330582,
+    "longitude": 77.43180389999999,
+    "place_id": "ChIJm00SXQBDfDkR6oO1KrNCFtM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm00SXQBDfDkR6oO1KrNCFtM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:57:58"
+  }
+]

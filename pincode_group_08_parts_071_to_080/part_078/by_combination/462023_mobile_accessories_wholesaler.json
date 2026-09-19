@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Mobile Shop",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "462023",
+    "phone_number": "+91 79745 89677",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "7F42+9MC, Raisen Rd, Kochar Glass Industries Chouraha,Industries Area, Govindpura, Bhopal, Madhya Pradesh 462023",
+    "area": "Kochar Glass Industries Chouraha,Industries Area, Govindpura",
+    "latitude": 23.255939899999998,
+    "longitude": 77.451655,
+    "place_id": "ChIJi1BmDQpCfDkRbg4WH1leFaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi1BmDQpCfDkRbg4WH1leFaw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:51:46"
+  },
+  {
+    "business_name": "Rajesh Mobile Shop",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "462023",
+    "phone_number": "+91 98934 56377",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Railway Station, Semra, Bhopal, Madhya Pradesh 462010",
+    "area": "Railway Station, Semra",
+    "latitude": 23.2703174,
+    "longitude": 77.4311968,
+    "place_id": "ChIJP44Sks5pfDkRn-mIgYEDCZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP44Sks5pfDkRn-mIgYEDCZ8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:51:49"
+  }
+]

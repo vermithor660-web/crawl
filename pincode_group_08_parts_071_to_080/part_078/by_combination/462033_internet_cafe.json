@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MRK ENTERPRISES",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "462033",
+    "phone_number": "+91 84628 16710",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "3, New Abbas Ali Nagar Rd, Abbas Nagar, Gandhi Nagar, Bhopal, Madhya Pradesh 462036",
+    "area": "Abbas Nagar, Gandhi Nagar",
+    "latitude": 23.3121081,
+    "longitude": 77.3529842,
+    "place_id": "ChIJJwrccwBnfDkRarIZw5svQv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJwrccwBnfDkRarIZw5svQv8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:03:16"
+  },
+  {
+    "business_name": "MP-online (E-mitra)",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "462033",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "EWS/28, Abbas Nagar, Gondermau, Bhopal, Madhya Pradesh 462036",
+    "area": "Abbas Nagar, Gondermau",
+    "latitude": 23.3080707,
+    "longitude": 77.356183,
+    "place_id": "ChIJZ4OlO5BnfDkRLhcON6P87Wk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4OlO5BnfDkRLhcON6P87Wk",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:03:16"
+  }
+]

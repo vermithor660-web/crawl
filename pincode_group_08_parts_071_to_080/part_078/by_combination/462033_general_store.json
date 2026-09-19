@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DG Market",
+    "search_category": "General Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Convenience store, Dollar store, Drug store, Gift shop, Party store, Produce market, Toy store",
+    "pincode": "462033",
+    "phone_number": "N/A",
+    "website": "https://www.dollargeneral.com/store-directory/in/indianapolis/12188",
+    "rating": 3.7,
+    "reviews_count": 842,
+    "address": "2710 W 16th St, Indianapolis, IN 46222, United States",
+    "area": "West Side",
+    "latitude": 39.7882809,
+    "longitude": -86.205911,
+    "place_id": "ChIJTUbnKgVXa4gRkQaf6YPdL0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTUbnKgVXa4gRkQaf6YPdL0M",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:02:05"
+  },
+  {
+    "business_name": "Tiwari Ji General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "462033",
+    "phone_number": "+91 99934 47237",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 17,
+    "address": "4G45+R3W, Mahaveer Nagar, Industrial Area, Mandideep, Bhopal, Madhya Pradesh 462046",
+    "area": "Mahaveer Nagar, Industrial Area, Mandideep",
+    "latitude": 23.1071115,
+    "longitude": 77.5076967,
+    "place_id": "ChIJ3xoxWU5GfDkRLyGqfJXIAAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3xoxWU5GfDkRLyGqfJXIAAo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:02:05"
+  }
+]

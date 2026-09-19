@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Jadon warehouse in vidisha",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "464001",
+    "phone_number": "+91 72408 31937",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Karariya choraha, Vidisha, Karahi, Madhya Pradesh 464226",
+    "area": "Karariya choraha",
+    "latitude": 23.602445499999998,
+    "longitude": 77.75094849999999,
+    "place_id": "ChIJabk2HHcHfDkRQJOtaX1Dg3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJabk2HHcHfDkRQJOtaX1Dg3c",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:40:02"
+  },
+  {
+    "business_name": "AGROSPACE STEADING PVT.LTD.",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "464001",
+    "phone_number": "N/A",
+    "website": "https://agrospace.in/",
+    "rating": 4.3,
+    "reviews_count": 9,
+    "address": "Ralamandal Gaon, Dist. - Dewas, Indore, Dewas, Madhya Pradesh 455001",
+    "area": "464001",
+    "latitude": 23.1396372,
+    "longitude": 75.987613,
+    "place_id": "ChIJN5R-0JRtYzkRtbkREm_Uy64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN5R-0JRtYzkRtbkREm_Uy64",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:40:03"
+  }
+]

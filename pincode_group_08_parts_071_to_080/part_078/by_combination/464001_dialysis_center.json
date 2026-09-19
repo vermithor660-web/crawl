@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samarpan Health Care Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "464001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "GRJJ+58V, Sagar Rd, Dabar, Vidisha, Madhya Pradesh 464001",
+    "area": "Dabar",
+    "latitude": 23.530490999999998,
+    "longitude": 77.8307852,
+    "place_id": "ChIJGz2wKHoEfDkRmw4A6y4lXC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGz2wKHoEfDkRmw4A6y4lXC8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:38:56"
+  },
+  {
+    "business_name": "District Hospital, Raisen",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "464001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 4,
+    "address": "8QMJ+77M Raisen District Hospital, State Hwy 19, Raisen, Madhya Pradesh 464551",
+    "area": "464001",
+    "latitude": 23.3332716,
+    "longitude": 77.78056509999999,
+    "place_id": "ChIJT1thcMUZfDkRVXH27eNKCFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT1thcMUZfDkRVXH27eNKCFM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:38:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi Sharma",
+    "search_category": "PPC Advertising Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, E-commerce service, Graphic designer, Website designer",
+    "pincode": "462041",
+    "phone_number": "+91 79876 98156",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "LIG - 98, Ayodhya Phase 3, Sector A, Rajeev Nagar, Ayodhya Nagar, Bhopal, Madhya Pradesh 462022",
+    "area": "Ayodhya Phase 3, Sector A, Rajeev Nagar, Ayodhya Nagar",
+    "latitude": 23.262532999999998,
+    "longitude": 77.4717654,
+    "place_id": "ChIJ9-xVfg9rfDkRfqN3h_LkmeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9-xVfg9rfDkRfqN3h_LkmeU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:15:14"
+  },
+  {
+    "business_name": "Quexzel Inc",
+    "search_category": "PPC Advertising Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Marketing agency",
+    "pincode": "462041",
+    "phone_number": "+91 74289 19044",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "202, Sector A, Awadhpuri, BHEL, Bhopal, Madhya Pradesh 462022",
+    "area": "Sector A, Rajeev Nagar, BHEL",
+    "latitude": 23.2615096,
+    "longitude": 77.4713056,
+    "place_id": "ChIJIX0BEMprfDkRnP3ANSe7-to",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIX0BEMprfDkRnP3ANSe7-to",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:15:15"
+  }
+]

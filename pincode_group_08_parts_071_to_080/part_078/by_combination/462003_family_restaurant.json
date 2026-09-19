@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Radhe Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "462003",
+    "phone_number": "+91 93991 80278",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No.140, Nehru Nagar, Bhopal, Madhya Pradesh 462003",
+    "area": "Nehru Nagar",
+    "latitude": 23.2103121,
+    "longitude": 77.39536129999999,
+    "place_id": "ChIJY9CNefFDfDkRMxbWCXpt3ZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY9CNefFDfDkRMxbWCXpt3ZQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:35:14"
+  },
+  {
+    "business_name": "The House Of Value",
+    "search_category": "Family Restaurant",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant, Cafe",
+    "pincode": "462003",
+    "phone_number": "+91 75579 69278",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "The house of value Resturant & Cafe, Nehru Nagar, Bhopal, Madhya Pradesh 462003",
+    "area": "Nehru Nagar",
+    "latitude": 23.2061524,
+    "longitude": 77.4008597,
+    "place_id": "ChIJzYWm-99CfDkRlibrA9IswDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzYWm-99CfDkRlibrA9IswDI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:35:14"
+  }
+]

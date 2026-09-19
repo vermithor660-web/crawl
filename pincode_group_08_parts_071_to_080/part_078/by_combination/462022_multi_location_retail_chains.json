@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hathkargha Stores",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "462022",
+    "phone_number": "+91 98739 08933",
+    "website": "https://www.hathkarghastores.org/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "A1, Chhatrasal Nagar Rd, Phase 1, Sector A, Indrapuri, Bhopal, Madhya Pradesh 462022",
+    "area": "Phase 1, Sector A, Indrapuri",
+    "latitude": 23.2570548,
+    "longitude": 77.46081079999999,
+    "place_id": "ChIJEy2WfjdDfDkRDP0HiZMTKZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEy2WfjdDfDkRDP0HiZMTKZE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:50:19"
+  },
+  {
+    "business_name": "AMAZON EASY STORE-GOPAL ENTERPRISES Statinoery SuperStore",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Cell phone accessory store, Courier service, Custom t-shirt store, Festival, General store, Gift shop, Perfume store, Print shop, Scrapbooking store",
+    "pincode": "462022",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Ruchi Lifescape, Jatkhedi, Bhopal, Madhya Pradesh 462047",
+    "area": "Ruchi Lifescape, Jatkhedi",
+    "latitude": 23.1729754,
+    "longitude": 77.4768271,
+    "place_id": "ChIJOT6S0MtBfDkRwo7-Re3_olI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOT6S0MtBfDkRwo7-Re3_olI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:50:19"
+  }
+]

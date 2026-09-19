@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Personaltuition(cbse/isc)",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "462047",
+    "phone_number": "+91 70434 23808",
+    "website": "https://chemeducator.wordpress.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "phase2, Sagar Pearl, B5 609, Jatkhedi, Bhopal, Madhya Pradesh 462047",
+    "area": "Jatkhedi",
+    "latitude": 23.1722263,
+    "longitude": 77.46604049999999,
+    "place_id": "ChIJR3GuDJBDfDkR3tSl2dX2W-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR3GuDJBDfDkR3tSl2dX2W-M",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:26:24"
+  },
+  {
+    "business_name": "PCM CLASSES",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "462047",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Misrod Rd, Patel Market, Misrod, Bhopal, Madhya Pradesh 462026",
+    "area": "Patel Market, Misrod",
+    "latitude": 23.1621384,
+    "longitude": 77.46934949999999,
+    "place_id": "ChIJvwqouOBHfDkRJHLTmNMiNBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvwqouOBHfDkRJHLTmNMiNBU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:26:27"
+  }
+]

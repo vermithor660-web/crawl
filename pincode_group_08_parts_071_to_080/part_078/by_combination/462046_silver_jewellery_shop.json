@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hardev Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "462046",
+    "phone_number": "+91 74891 46277",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Ward No 5, Durga Chowk, Shaniwar Market, opposite to Khandelwal Medical, Vidya Nagar, Mandideep, Bhopal, Madhya Pradesh 462046",
+    "area": "Vidya Nagar, Mandideep",
+    "latitude": 23.1009277,
+    "longitude": 77.50967279999999,
+    "place_id": "ChIJ84PSwm9HfDkR7ZQRGmYdC4A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ84PSwm9HfDkR7ZQRGmYdC4A",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:23:24"
+  },
+  {
+    "business_name": "Alankar Jewelers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "462046",
+    "phone_number": "+91 74802 33244",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "shop no 13, Sheetal city, Gajju Pipaliya Rd, near Hanuman temple, Vidya Nagar, Mandideep, Bhopal, Madhya Pradesh 462046",
+    "area": "Vidya Nagar, Mandideep",
+    "latitude": 23.0948103,
+    "longitude": 77.5075782,
+    "place_id": "ChIJNzwHo7hHfDkRI0oAb827Gv4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNzwHo7hHfDkRI0oAb827Gv4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:23:24"
+  }
+]

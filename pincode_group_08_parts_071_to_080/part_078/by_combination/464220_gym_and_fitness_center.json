@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Ram Fitness Center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center, Gymnastics club",
+    "pincode": "464220",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "First Floor, Shri Ram Tower, GulabGanj, Madhya Pradesh 464220",
+    "area": "464220",
+    "latitude": 23.6834319,
+    "longitude": 77.9095237,
+    "place_id": "ChIJvYMVvmH_ezkRaMp8PpiXJNA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvYMVvmH_ezkRaMp8PpiXJNA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:46:09"
+  },
+  {
+    "business_name": "Patel sports House",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Sporting goods store",
+    "all_categories": "Sporting goods store",
+    "pincode": "464220",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": 3,
+    "address": "Aishwarya complex, Basoda - Bareth Rd, in front of block office, Ganj Basoda, Madhya Pradesh 464221",
+    "area": "464220",
+    "latitude": 23.8522729,
+    "longitude": 77.93854689999999,
+    "place_id": "ChIJe2vmAaNXeTkRaW21hcPt8oE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe2vmAaNXeTkRaW21hcPt8oE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:46:11"
+  }
+]

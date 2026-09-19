@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gorantla consultancy services",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Registration office",
+    "all_categories": "Registration office",
+    "pincode": "464111",
+    "phone_number": "+91 94401 76172",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Bazar Rd, beside register office, Nandigama, Andhra Pradesh 521185",
+    "area": "464111",
+    "latitude": 16.7741529,
+    "longitude": 80.2864365,
+    "place_id": "ChIJD6E9hPy9NToRt0ELBaasD1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6E9hPy9NToRt0ELBaasD1U",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:41:42"
+  },
+  {
+    "business_name": "TaxIndia24 (Business Registration Consultant)",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "464111",
+    "phone_number": "+91 97610 00459",
+    "website": "https://taxindia24.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "B-42, Nagla Padi, Indra Puri, New Agra Colony, Agra, Uttar Pradesh 282005",
+    "area": "Nagla Padi, Indra Puri, New Agra Colony",
+    "latitude": 27.212473199999998,
+    "longitude": 78.00828249999999,
+    "place_id": "ChIJX65hG1R3dDkR4ESKG1p8AWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX65hG1R3dDkR4ESKG1p8AWY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:41:43"
+  }
+]

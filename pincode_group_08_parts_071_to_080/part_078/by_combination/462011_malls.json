@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Arcade",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "462011",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "165,166, Ram Gopal Maheshwari Marg, Zone-I, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "Zone-I, Maharana Pratap Nagar",
+    "latitude": 23.2356707,
+    "longitude": 77.4334896,
+    "place_id": "ChIJ1xtuW2ZCfDkRg5O3G9I0abc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1xtuW2ZCfDkRg5O3G9I0abc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:44:35"
+  },
+  {
+    "business_name": "Amanora Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Outlet mall",
+    "pincode": "462011",
+    "phone_number": "+91 20 6726 7888",
+    "website": "http://amanoramall.com/",
+    "rating": 4.4,
+    "reviews_count": 82481,
+    "address": "Mundwa -Kharadi Rd, Amanora Park Town, Hadapsar, Pune, Maharashtra 411028",
+    "area": "Amanora Park Town, Hadapsar",
+    "latitude": 18.518534,
+    "longitude": 73.9350918,
+    "place_id": "ChIJbYPmohLBwjsRvHK8CFQ6Kd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbYPmohLBwjsRvHK8CFQ6Kd8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:44:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Fitness Planet",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "462030",
+    "phone_number": "+91 97134 46121",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "G-09, Shikhar Enclave, Panchwati Colony, Kailash Nagar, Airport Road, Bhopal, Madhya Pradesh 462030",
+    "area": "Panchwati Colony, Kailash Nagar, Airport Road",
+    "latitude": 23.2799272,
+    "longitude": 77.3452269,
+    "place_id": "ChIJA0CQ4ztnfDkR83b8fMZguos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA0CQ4ztnfDkR83b8fMZguos",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:58:44"
+  },
+  {
+    "business_name": "Colosseum Gymnasium Airport road",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "462030",
+    "phone_number": "+91 94259 54541",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Aditya Avenue, Bairagarh, Bhopal, Madhya Pradesh 462030",
+    "area": "Aditya Avenue, Bairagarh",
+    "latitude": 23.2868894,
+    "longitude": 77.3536735,
+    "place_id": "ChIJj3SbS7ZnfDkRbereYmQvD58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj3SbS7ZnfDkRbereYmQvD58",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:58:45"
+  }
+]

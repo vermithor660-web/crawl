@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Phone Store",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "463106",
+    "phone_number": "+91 90987 07666",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JCCM+H6Q, Berasia, Tikankhedi, Madhya Pradesh 463106",
+    "area": "463106",
+    "latitude": 23.6214564,
+    "longitude": 77.4331085,
+    "place_id": "ChIJ79zEOQB3fDkRHgo1HzgsdF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ79zEOQB3fDkRHgo1HzgsdF0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:36:02"
+  },
+  {
+    "business_name": "Vaishnavi Mobile Repairing And Accessories",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "463106",
+    "phone_number": "+91 75810 78105",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "01, Phase-1, Rohit Nagar, Bawadiya Kalan, Gulmohar Colony, Bhopal, Madhya Pradesh 462039",
+    "area": "Phase-1, Rohit Nagar, Bawadiya Kalan, Gulmohar Colony",
+    "latitude": 23.183039299999997,
+    "longitude": 77.43804899999999,
+    "place_id": "ChIJcxlIZkNDfDkRkhLmSZ0cvcA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcxlIZkNDfDkRkhLmSZ0cvcA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:36:05"
+  }
+]

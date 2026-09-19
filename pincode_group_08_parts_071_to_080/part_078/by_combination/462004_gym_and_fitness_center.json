@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eternity fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center",
+    "pincode": "462004",
+    "phone_number": "+91 70678 65384",
+    "website": "http://eternityfitnessclub.com/",
+    "rating": 4.9,
+    "reviews_count": 25,
+    "address": "Building no 276 2nd floor, Bharat Nagar Rd, Karamveer Nagar, Bharat Nagar, Indrapuri, Bhopal, Madhya Pradesh 462021",
+    "area": "Karamveer Nagar, Bharat Nagar, Indrapuri",
+    "latitude": 23.259378899999998,
+    "longitude": 77.46091539999999,
+    "place_id": "ChIJMQEEA99pfDkRNflzhvKRoVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMQEEA99pfDkRNflzhvKRoVQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:37:33"
+  },
+  {
+    "business_name": "Kasrat The Fitness Studio",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "462004",
+    "phone_number": "+91 99778 30302",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "C-12 Padmanabh Nagar Opposite Om Hospital Prabhat Square, Bhopal, Madhya Pradesh 462023",
+    "area": "Arun Nagar, New Subhash Nagar, Old Subhash Nagar Colony, Govindpura",
+    "latitude": 23.250902399999998,
+    "longitude": 77.4313028,
+    "place_id": "ChIJcXmRJP9pfDkRdUzI4ZXNkVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcXmRJP9pfDkRdUzI4ZXNkVI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:37:34"
+  }
+]

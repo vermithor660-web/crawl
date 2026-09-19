@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Atithi Parlour & Home Service",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "462008",
+    "phone_number": "+91 97131 50869",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near SBI ATM, New Subhash Nagar, Padmanabh Nagar, Old Subhash Nagar, Bhopal, Madhya Pradesh 462023",
+    "area": "New Subhash Nagar, Padmanabh Nagar, Old Subhash Nagar",
+    "latitude": 23.2481916,
+    "longitude": 77.43092,
+    "place_id": "ChIJMfFyVflDfDkRM8ais-C9PoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMfFyVflDfDkRM8ais-C9PoM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:39:51"
+  },
+  {
+    "business_name": "Solution Hub",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "462008",
+    "phone_number": "+91 91110 21110",
+    "website": "https://www.hotfrog.in/company/d37f13914bf3502134e73ae0e1008297/solution-hub/bhopal/spa-services",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "H.I.G - 53 Old, Subhash Nagar Rd, near Railway Crossing, New Subhash Nagar, Jahangirabad, Bhopal, Madhya Pradesh 462023",
+    "area": "New Subhash Nagar, Jahangirabad",
+    "latitude": 23.2479592,
+    "longitude": 77.4300116,
+    "place_id": "ChIJB4yZ09tDfDkR5fkivyRqrdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB4yZ09tDfDkR5fkivyRqrdM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:39:51"
+  }
+]

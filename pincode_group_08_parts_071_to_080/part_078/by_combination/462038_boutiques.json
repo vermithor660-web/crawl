@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "N.K. Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "462038",
+    "phone_number": "+91 98264 69875",
+    "website": "https://docs.google.com/forms/d/e/1FAIpQLSc0MQ25HcQk4qh6D45vsqYSnwBP-oz6ibASlNFKPUVZfRpimw/viewform?vc=0&c=0&w=1&flr=0",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Phase 2, LIG 12, Vishwakarma Nagar Rd, Viswakarma Nagar, Karond, Bhopal, Madhya Pradesh 462038",
+    "area": "Viswakarma Nagar, Karond",
+    "latitude": 23.292925699999998,
+    "longitude": 77.4105159,
+    "place_id": "ChIJgUxk865pfDkRy58Tb32YJy4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgUxk865pfDkRy58Tb32YJy4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:08:01"
+  },
+  {
+    "business_name": "Tarashi Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "462038",
+    "phone_number": "+91 87704 72582",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1 Gautam Complex Shiv Nagar Colony, Berasia Rd, Karond Chouraha, Bhopal, Madhya Pradesh 462038",
+    "area": "Karond Chouraha, Murli Nagar, Karond",
+    "latitude": 23.298392699999997,
+    "longitude": 77.40414439999999,
+    "place_id": "ChIJHcX1-SJpfDkR4OFDlDAWI5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHcX1-SJpfDkR4OFDlDAWI5g",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:08:01"
+  }
+]

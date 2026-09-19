@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chirag Children Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "462100",
+    "phone_number": "+91 95223 15222",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 86,
+    "address": "Plot No. 11, Sant Kanwar Ram Nagar, D- Sector, Berasia Rd, Bhopal, Madhya Pradesh 462100",
+    "area": "Firdous Nagar",
+    "latitude": 23.2814922,
+    "longitude": 77.40336309999999,
+    "place_id": "ChIJy0pvsFtpfDkRyKpMP1LaKRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy0pvsFtpfDkRyKpMP1LaKRA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:29:29"
+  },
+  {
+    "business_name": "Muskan Children's & General Hospital Bhopal",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "462100",
+    "phone_number": "+91 70204 00692",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Dig Bunglow, H No 147, Green Park Colony, Main Road, Berasia Rd, opposite Hero Showroom, Bhopal, Madhya Pradesh 462001",
+    "area": "DIG Bunglow, Green Park Colony, Jamalpura",
+    "latitude": 23.276794199999998,
+    "longitude": 77.402918,
+    "place_id": "ChIJlZMFkYFpfDkR2vRTC4g1QKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlZMFkYFpfDkR2vRTC4g1QKE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:29:30"
+  }
+]

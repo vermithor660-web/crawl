@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kreative Events",
+    "search_category": "Media and Event",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "462066",
+    "phone_number": "+91 98550 07777",
+    "website": "https://www.thekreativeevents.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "28/1, Industrial Area Phase II, Chandigarh, 160002",
+    "area": "Industrial Area Phase II",
+    "latitude": 30.700560999999997,
+    "longitude": 76.7898603,
+    "place_id": "ChIJq8Pa8vLsDzkR3WOrnxKq3KM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq8Pa8vLsDzkR3WOrnxKq3KM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:28:17"
+  },
+  {
+    "business_name": "PRP Group (PR Professionals)",
+    "search_category": "Media and Event",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Public relations firm",
+    "pincode": "462066",
+    "phone_number": "+91 77019 77957",
+    "website": "https://www.prprofessionals.in/?utm_source=google&utm_medium=maps&utm_campaign=google_maps",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2nd floor, JMD Regent Plaza, Mehrauli-Gurgaon Rd, Sikanderpur, Sector 26, Gurugram, Haryana 122001",
+    "area": "Sikanderpur, Sector 26",
+    "latitude": 28.481126999999997,
+    "longitude": 77.10042299999999,
+    "place_id": "ChIJ5xa_x8oeDTkRqI9YN_FH5kQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5xa_x8oeDTkRqI9YN_FH5kQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:28:17"
+  }
+]

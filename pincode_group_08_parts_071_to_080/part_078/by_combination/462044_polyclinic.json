@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wellcare polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "462044",
+    "phone_number": "+91 70894 45500",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SHOP NO.02, PLOT NO.32, near Sharda school, BARKHEDI KALAN, Ratibad, Sikandarabad, Madhya Pradesh 462044",
+    "area": "BARKHEDI KALAN",
+    "latitude": 23.1748346,
+    "longitude": 77.3094674,
+    "place_id": "ChIJ56V1vG1dfDkRHEvfeALh-hc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ56V1vG1dfDkRHEvfeALh-hc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:19:48"
+  },
+  {
+    "business_name": "Generic medical store",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "462044",
+    "phone_number": "+91 80858 93019",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 67,
+    "address": "Ecogreen Shop No 10, Ayodhya Bypass Road, Kolua Kalan Rd, near Zindal Hospital, Bhopal, Madhya Pradesh 462041",
+    "area": "Eco Green City",
+    "latitude": 23.280948499999997,
+    "longitude": 77.44426,
+    "place_id": "ChIJ9TiWGDNpfDkRpg2qgxteVa4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9TiWGDNpfDkRpg2qgxteVa4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:19:50"
+  }
+]

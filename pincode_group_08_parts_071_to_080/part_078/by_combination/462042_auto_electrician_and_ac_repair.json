@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Famous art electrician",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "462042",
+    "phone_number": "+91 91741 94983",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Fast flour, Deep Complex, near Bank of India, Vidya Nagar, Mandideep, Bhopal, Madhya Pradesh 462046",
+    "area": "Vidya Nagar, Mandideep",
+    "latitude": 23.101855,
+    "longitude": 77.5134118,
+    "place_id": "ChIJ2TzJdbJHfDkRqfq42Mtbf38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2TzJdbJHfDkRqfq42Mtbf38",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:16:07"
+  },
+  {
+    "business_name": "Krown Nissan",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto parts store, Auto Accessories Store",
+    "pincode": "462042",
+    "phone_number": "+91 82919 50835",
+    "website": "https://dealers.nissan.in/krown-nissan-nissan-workshop-madhya-pradesh-bhopal-462047/Home",
+    "rating": 4.9,
+    "reviews_count": 47,
+    "address": "No. 42, Gram, Patwari Halka, KHASRA NO. 79, 10/4/1, near Little Flower School, Misrod, Kolar, Bhopal, Madhya Pradesh 462047",
+    "area": "Misrod",
+    "latitude": 23.1632371,
+    "longitude": 77.46608049999999,
+    "place_id": "ChIJi9jYb3lFfDkRE1j208Wg4YU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi9jYb3lFfDkRE1j208Wg4YU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:16:08"
+  }
+]

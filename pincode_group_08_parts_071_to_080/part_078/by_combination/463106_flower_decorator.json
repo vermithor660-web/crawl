@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rakesh flowers",
+    "search_category": "Flower Decorator",
+    "primary_category": "Wholesale florist",
+    "all_categories": "Wholesale florist",
+    "pincode": "463106",
+    "phone_number": "+91 79876 28743",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kamali Mandir Rd, Itwara, Ghora Nakkas, Peer Gate Area, Bhopal, Madhya Pradesh 462001",
+    "area": "Itwara, Ghora Nakkas, Peer Gate Area",
+    "latitude": 23.263572,
+    "longitude": 77.40459609999999,
+    "place_id": "ChIJt--k6JFpfDkRAw5bZzO2TYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt--k6JFpfDkRAw5bZzO2TYU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:35:43"
+  },
+  {
+    "business_name": "Ashok Flowers Merchant",
+    "search_category": "Flower Decorator",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Dried flower shop, Florist",
+    "pincode": "463106",
+    "phone_number": "+91 96443 67772",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "26, Itwara, Ghora Nakkas, Peer Gate Area, Bhopal, Madhya Pradesh 462001",
+    "area": "Itwara, Ghora Nakkas, Peer Gate Area",
+    "latitude": 23.263227399999998,
+    "longitude": 77.4052557,
+    "place_id": "ChIJQ7lMOSNofDkRVHp_cI_Chlw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ7lMOSNofDkRVHp_cI_Chlw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:35:44"
+  }
+]

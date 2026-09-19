@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swastik marketing",
+    "search_category": "Waterproofing Contractor",
+    "primary_category": "Construction Material Wholesaler",
+    "all_categories": "Construction Material Wholesaler",
+    "pincode": "462008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "LIG 81, ward 43, Old Subhash Nagar Colony, Govindpura, Bhopal, Madhya Pradesh 462023",
+    "area": "ward 43, Old Subhash Nagar Colony, Govindpura",
+    "latitude": 23.2489797,
+    "longitude": 77.4343734,
+    "place_id": "ChIJR21ZPFVDfDkR3hhU1gyX4j0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR21ZPFVDfDkR3hhU1gyX4j0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:39:49"
+  },
+  {
+    "business_name": "Astral Pipes",
+    "search_category": "Waterproofing Contractor",
+    "primary_category": "Waterproofing service",
+    "all_categories": "Waterproofing service, Pipe Manufacturer, Pipes Wholesaler, Building materials store",
+    "pincode": "462008",
+    "phone_number": "+91 99077 41999",
+    "website": "https://www.astralltd.com/astral-pipes/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bajaj Tower, 2 & 3, Raisen Rd, near HDFC Bank, Punjabi Bagh, Lala Lajpat Rai Colony, Bhopal, Madhya Pradesh 462023",
+    "area": "Punjabi Bagh, Lala Lajpat Rai Colony",
+    "latitude": 23.2531599,
+    "longitude": 77.4339528,
+    "place_id": "ChIJW_BJKRBDfDkR5MfzfV4EDH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW_BJKRBDfDkR5MfzfV4EDH0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:39:50"
+  }
+]

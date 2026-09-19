@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CEDMAP",
+    "search_category": "Tradeshows",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "462027",
+    "phone_number": "N/A",
+    "website": "http://cedmapindia.mp.gov.in/",
+    "rating": 4,
+    "reviews_count": 213,
+    "address": "16-A, Arera Hills, Bhopal, Madhya Pradesh 462011",
+    "area": "Arera Hills",
+    "latitude": 23.242936999999998,
+    "longitude": 77.42451729999999,
+    "place_id": "ChIJPc75zolCfDkRClN0Vm6u81w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPc75zolCfDkRClN0Vm6u81w",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:57:55"
+  },
+  {
+    "business_name": "TEDxShahpura Lake",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "462027",
+    "phone_number": "N/A",
+    "website": "https://www.tedxshahpuralake.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "TEDxShahpura Lake, 462027, India",
+    "area": "462027",
+    "latitude": 23.1994097,
+    "longitude": 77.4058914,
+    "place_id": "ChIJdzZE5TnNkWER_hrvUq19nLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdzZE5TnNkWER_hrvUq19nLs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:57:55"
+  }
+]

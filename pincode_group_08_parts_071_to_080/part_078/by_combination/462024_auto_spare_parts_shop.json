@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vehicle hub",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "462024",
+    "phone_number": "+91 78289 40670",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "E-6, Arera Colony, Bhopal, Madhya Pradesh 462016",
+    "area": "E-6, Arera Colony",
+    "latitude": 23.211912299999998,
+    "longitude": 77.43657809999999,
+    "place_id": "ChIJdVN5jZdDfDkRat4wy_tpSf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdVN5jZdDfDkRat4wy_tpSf8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:52:56"
+  },
+  {
+    "business_name": "Sahu Auto Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Hardware store",
+    "pincode": "462024",
+    "phone_number": "+91 96692 21229",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 28, Habib Gang Naka, Durga Nagar Slums, Habib Ganj, Bhopal, Madhya Pradesh 462024",
+    "area": "Durga Nagar Slums, Habib Ganj",
+    "latitude": 23.2150222,
+    "longitude": 77.4423868,
+    "place_id": "ChIJrfL_JzRDfDkRLA2hZ-AgFu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrfL_JzRDfDkRLA2hZ-AgFu4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:52:59"
+  }
+]

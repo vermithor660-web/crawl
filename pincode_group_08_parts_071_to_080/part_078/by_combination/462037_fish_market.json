@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Patel Market",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "462037",
+    "phone_number": "+91 95115 42084",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1127,
+    "address": "7CXM+Q28, Opp. Patel Market, Bhanpur, Bhopal, Madhya Pradesh 462038",
+    "area": "Opp. Patel Market, Bhanpur",
+    "latitude": 23.299418,
+    "longitude": 77.4325633,
+    "place_id": "ChIJv0ohrKlpfDkRa8rDEE3PO7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv0ohrKlpfDkRa8rDEE3PO7Q",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:05:46"
+  },
+  {
+    "business_name": "Malwa Chicken Shop Market",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop",
+    "pincode": "462037",
+    "phone_number": "+91 84350 70484",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 30,
+    "address": "New Bhanpur Bridge Rd, 180 Feet Rd, Berasia Rd, Krishna Nagar Rd, opp. Best Price Bhavan, Bhanpur, Bhopal, Madhya Pradesh 462001",
+    "area": "Bhanpur",
+    "latitude": 23.295019,
+    "longitude": 77.4192885,
+    "place_id": "ChIJ8bZ-CFRofDkRLPBxw1fNjyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8bZ-CFRofDkRLPBxw1fNjyc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:05:46"
+  }
+]

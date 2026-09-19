@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sood Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Gents Tailor",
+    "all_categories": "Gents Tailor",
+    "pincode": "462003",
+    "phone_number": "+91 98260 74142",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 126,
+    "address": "Link Rd 1, New Market, Roshanpura, TT Nagar, Bhopal, Madhya Pradesh 462003",
+    "area": "New Market, Roshanpura, TT Nagar",
+    "latitude": 23.235596599999997,
+    "longitude": 77.40151259999999,
+    "place_id": "ChIJQUI9_r1CfDkRXRTelcXWJuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQUI9_r1CfDkRXRTelcXWJuw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:35:21"
+  },
+  {
+    "business_name": "Kv Designer Studio",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Designer Clothing Store",
+    "pincode": "462003",
+    "phone_number": "+91 89639 94249",
+    "website": "https://www.instagram.com/invites/contact/?i=v7hdmplaaxuq&utm_content=k84pimr",
+    "rating": 4.9,
+    "reviews_count": 20,
+    "address": "H.No, 120, Nehru Nagar, Gomti Colony, Bhopal, Madhya Pradesh 462003",
+    "area": "Nehru Nagar, Gomti Colony",
+    "latitude": 23.2154483,
+    "longitude": 77.39644969999999,
+    "place_id": "ChIJKfC8wPZDfDkRgXbXGoPw6bY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKfC8wPZDfDkRgXbXGoPw6bY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:35:21"
+  }
+]

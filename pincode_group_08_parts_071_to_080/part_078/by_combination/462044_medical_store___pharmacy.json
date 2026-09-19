@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhopal Medical Store, Neelbad",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "462044",
+    "phone_number": "+91 90286 34179",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "G-38, New Shopping complex, Mini stadium, Nathu Barkheda Rd, Neelbad, Bhopal, Madhya Pradesh 462044",
+    "area": "462044",
+    "latitude": 23.1980824,
+    "longitude": 77.3399623,
+    "place_id": "ChIJWd9msrBdfDkRwogLvOgyUWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWd9msrBdfDkRwogLvOgyUWA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:19:41"
+  },
+  {
+    "business_name": "H.C. medical store (barkhedi medical store)",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "462044",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "116 barkhadi near, Bhadbhada Rd, Barkhedi Kalan, Kopal, Bhopal, Madhya Pradesh 462044",
+    "area": "Barkhedi Kalan, Kopal",
+    "latitude": 23.204242,
+    "longitude": 77.3597672,
+    "place_id": "ChIJO6scwiBdfDkRUQBGZW8sNQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO6scwiBdfDkRUQBGZW8sNQ4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:19:41"
+  }
+]

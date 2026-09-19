@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bachpan Stores",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "462038",
+    "phone_number": "+91 99938 66737",
+    "website": "https://www.bachpanglobal.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "17, Lakherapura, Bhopal, Madhya Pradesh 462001",
+    "area": "Old City, Lakherapura, Azad Market, Peer Gate Area",
+    "latitude": 23.2589449,
+    "longitude": 77.4001121,
+    "place_id": "ChIJAQAA8B9ofDkRiNhQ9fspVns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAA8B9ofDkRiNhQ9fspVns",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:07:56"
+  },
+  {
+    "business_name": "Sanjay Dresses",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store, Clothing store",
+    "pincode": "462038",
+    "phone_number": "+91 94253 72916",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "7C62+5R7, Marvadi Rd, Loha Marketing, Jumerati Gate, Azad Market, Peer Gate Area, Bhopal, Madhya Pradesh 462001",
+    "area": "Loha Marketing, Jumerati Gate, Azad Market, Peer Gate Area",
+    "latitude": 23.2604006,
+    "longitude": 77.4020425,
+    "place_id": "ChIJAQAAcBhofDkR8cmHq-9ti3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAcBhofDkR8cmHq-9ti3E",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:07:57"
+  }
+]

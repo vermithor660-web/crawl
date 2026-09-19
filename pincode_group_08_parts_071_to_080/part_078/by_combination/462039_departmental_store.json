@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grocery Point",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "462039",
+    "phone_number": "+91 62656 19911",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 16,
+    "address": "D-411, BDA Colony, Salaiya, Bhopal, Madhya Pradesh 462039",
+    "area": "BDA Colony, Salaiya",
+    "latitude": 23.1635685,
+    "longitude": 77.4483288,
+    "place_id": "ChIJJekKhrFFfDkRRZSPyZWHgyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJekKhrFFfDkRRZSPyZWHgyA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:09:37"
+  },
+  {
+    "business_name": "Krishna Super Bazar",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "462039",
+    "phone_number": "+91 73541 00296",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 12,
+    "address": "Shop no, 112, Kolar Rd, Danish Chouraha, Aashirwad Colony, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "area": "Danish Chouraha, Aashirwad Colony, Kolar Rd",
+    "latitude": 23.1717582,
+    "longitude": 77.4187501,
+    "place_id": "ChIJvaBDInFDfDkRr3XojaLk52Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvaBDInFDfDkRr3XojaLk52Q",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:09:38"
+  }
+]

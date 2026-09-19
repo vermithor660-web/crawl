@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bombay Branded Shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Leather goods store",
+    "pincode": "462008",
+    "phone_number": "+91 91114 81627",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "36, Jail Rd, C.L.Colony, Jahangirabad, Bhopal, Madhya Pradesh 462001",
+    "area": "C.L.Colony, Jahangirabad",
+    "latitude": 23.246779699999998,
+    "longitude": 77.4166642,
+    "place_id": "ChIJU-_dFtVDfDkRy3-cCXUCTNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU-_dFtVDfDkRy3-cCXUCTNc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:39:10"
+  },
+  {
+    "business_name": "Trends Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "462008",
+    "phone_number": "+91 95892 29563",
+    "website": "https://stores.trends-footwear.com/trends-footwear-rrl-footprint-aashima-mall-bhopal-shoe-shop-danish-nagar-bhopal-484482/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.3,
+    "reviews_count": 1031,
+    "address": "Upper Ground, Aashima Mall, Narmadapuram Rd, near Paras Harmitage, Danish Nagar, Bagmugaliya, Bhopal, Madhya Pradesh 462026",
+    "area": "Danish Nagar, Bagmugaliya",
+    "latitude": 23.1827675,
+    "longitude": 77.4562626,
+    "place_id": "ChIJzesW8OhDfDkRHVhnJe41PDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzesW8OhDfDkRHVhnJe41PDY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:39:11"
+  }
+]

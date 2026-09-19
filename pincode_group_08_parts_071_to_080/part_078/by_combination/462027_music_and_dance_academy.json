@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nrityakala Dance Studio",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Training center",
+    "pincode": "462027",
+    "phone_number": "+91 87707 49535",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 57,
+    "address": "Nrityakala Dance Studio, Gulabi Nagar, Om Nagar, BHEL Sangam Colony, Bagmugaliya, Bhopal, Madhya Pradesh 462043",
+    "area": "Gulabi Nagar, Om Nagar, BHEL Sangam Colony, Bagmugaliya",
+    "latitude": 23.1922711,
+    "longitude": 77.4663308,
+    "place_id": "ChIJMzVBN75DfDkREP-ku2yQLOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMzVBN75DfDkREP-ku2yQLOI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:57:29"
+  },
+  {
+    "business_name": "Shyamal Dance Academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school",
+    "pincode": "462027",
+    "phone_number": "+91 94256 05592",
+    "website": "https://shyamal-dance-academy2.odoo.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "E-6/R6, near Sai Baba Board, E-6, Arera Colony, Bhopal, Madhya Pradesh 462016",
+    "area": "E-6, Arera Colony",
+    "latitude": 23.2052025,
+    "longitude": 77.4373014,
+    "place_id": "ChIJq80_aPZDfDkR9skbezv8aXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq80_aPZDfDkR9skbezv8aXY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:57:31"
+  }
+]

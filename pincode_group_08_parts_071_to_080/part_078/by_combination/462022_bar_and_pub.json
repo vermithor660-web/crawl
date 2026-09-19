@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "777 Family Restro Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "462022",
+    "phone_number": "+91 89847 60777",
+    "website": "https://www.instagram.com/sagedesigno?igsh=bXYzZHh1d24xbW9y",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "4th Floor, Croma Showroom, Narmadapuram Rd, near D Mart, Chinar Fortune City, Bhopal, Madhya Pradesh 462026",
+    "area": "Chinar Fortune City",
+    "latitude": 23.1862314,
+    "longitude": 77.452433,
+    "place_id": "ChIJ6cw3oFtDfDkRJ4lhYgDQiUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6cw3oFtDfDkRJ4lhYgDQiUA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:48:39"
+  },
+  {
+    "business_name": "Turning point family restaurant and bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar & grill",
+    "all_categories": "Bar & grill, Restaurant",
+    "pincode": "462022",
+    "phone_number": "+91 99818 69946",
+    "website": "https://turningpointfamilyrestaurantandbar.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Plot no.-17&18, First Floor, Shiva Royal Court, Bawadiya Kalan, Bhopal, Madhya Pradesh 462039",
+    "area": "Bawadiya Kalan, Salaiya",
+    "latitude": 23.17642,
+    "longitude": 77.4365701,
+    "place_id": "ChIJSQBLCYhDfDkRwOlYMvbN-4k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSQBLCYhDfDkRwOlYMvbN-4k",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:48:39"
+  }
+]

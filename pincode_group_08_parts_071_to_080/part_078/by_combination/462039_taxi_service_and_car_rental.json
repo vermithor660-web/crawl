@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LG Cab Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Minibus taxi service, Tour operator, Transportation service, Travel agency",
+    "pincode": "462039",
+    "phone_number": "+91 78696 92563",
+    "website": "https://www.lgcabservice.in/",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Office No 11, Banjari Choraha, near Hanuman Mandir, Banjari Colony, Mahabali Nagar, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "area": "Banjari Colony, Mahabali Nagar, Kolar Rd",
+    "latitude": 23.1775651,
+    "longitude": 77.4166327,
+    "place_id": "ChIJTzF_I5lDfDkRizmo1htnyOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTzF_I5lDfDkRizmo1htnyOo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:10:19"
+  },
+  {
+    "business_name": "Royal India Travels Bhopal",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport Shuttle Service Provider, Car leasing service",
+    "pincode": "462039",
+    "phone_number": "+91 70675 92919",
+    "website": "https://www.royalindiagroup.co.in/",
+    "rating": 4.9,
+    "reviews_count": 104,
+    "address": "Shop no 14 sumitra parisar, Nayapura Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "area": "Rajharsh Colony, Kolar Rd",
+    "latitude": 23.1597354,
+    "longitude": 77.4287204,
+    "place_id": "ChIJbTU9aXNDfDkR6z97hZQ4d20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbTU9aXNDfDkR6z97hZQ4d20",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:10:19"
+  }
+]

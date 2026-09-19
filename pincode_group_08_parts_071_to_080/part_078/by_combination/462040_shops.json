@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Salman Shop",
+    "search_category": "Shops",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "462040",
+    "phone_number": "+91 62639 08299",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "4CF3+5RP, 1 IBD, Borda, Bhopal, Madhya Pradesh 462040",
+    "area": "462040",
+    "latitude": 23.1229704,
+    "longitude": 77.4045848,
+    "place_id": "ChIJV34bnI5FfDkR9twk9pjK_98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV34bnI5FfDkR9twk9pjK_98",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:13:27"
+  },
+  {
+    "business_name": "The Raymond shop",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Designer Clothing Store, Dress store, Fabric store, Clothing Accessories Store, Formal Clothing Store, Men's clothing store, Tuxedo shop, Youth clothing store",
+    "pincode": "462040",
+    "phone_number": "+91 80 4493 9067",
+    "website": "https://kolar-rd.myraymond.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Ground Flr Madakini, Windsor Square, Kolar Rd, opp. Ultimate Arcade, Sarvdharm Colony, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "area": "Sarvdharm Colony, Kolar Rd",
+    "latitude": 23.185492699999998,
+    "longitude": 77.4175607,
+    "place_id": "ChIJf_jvnEVDfDkRdjXe_tqSHMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf_jvnEVDfDkRdjXe_tqSHMU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:13:27"
+  }
+]

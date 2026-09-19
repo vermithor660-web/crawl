@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi auto parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "462042",
+    "phone_number": "+91 70001 36290",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop no 42, near Dmart, opp. indian bank, Fine Avenue Phase 1, Lalita Nagar, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "area": "Fine Avenue Phase 1, Lalita Nagar, Kolar Rd",
+    "latitude": 23.162002299999997,
+    "longitude": 77.4146631,
+    "place_id": "ChIJAS418FRDfDkRRQzMw-xzLoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAS418FRDfDkRRQzMw-xzLoU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:16:03"
+  },
+  {
+    "business_name": "SHRI SHIVAY ENTERPRISES",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "462042",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "DK-3, 208/20, Danish Kunj Kolar Rd, F-Sector, Danish Kunj, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "area": "F-Sector, Danish Kunj, Kolar Rd",
+    "latitude": 23.169541499999998,
+    "longitude": 77.4250653,
+    "place_id": "ChIJJTKczlhDfDkRR9m03aE1lw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJTKczlhDfDkRR9m03aE1lw0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:16:03"
+  }
+]

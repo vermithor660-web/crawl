@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Weddings Entertainment",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Service establishment",
+    "pincode": "462045",
+    "phone_number": "+91 88004 45356",
+    "website": "https://weddingsentertainment.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Weddings Entertainment, 462045, India",
+    "area": "462045",
+    "latitude": 27.5565172,
+    "longitude": 79.468025,
+    "place_id": "ChIJBYAkQbVYFU8RoNXvQ_2B0xk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBYAkQbVYFU8RoNXvQ_2B0xk",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:22:19"
+  },
+  {
+    "business_name": "DjVishal Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "DJ service",
+    "all_categories": "DJ service",
+    "pincode": "462045",
+    "phone_number": "+91 80857 16980",
+    "website": "https://djvishal-events.ueniweb.com/",
+    "rating": 4,
+    "reviews_count": 8,
+    "address": "Lig 201 Friday Market Satlapur Mandideep, Mandideep, Madhya Pradesh 464993",
+    "area": "New Satlapur",
+    "latitude": 23.1105148,
+    "longitude": 77.5259645,
+    "place_id": "ChIJT3qs369HfDkRfIMicq5gjYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT3qs369HfDkRfIMicq5gjYA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:22:19"
+  }
+]

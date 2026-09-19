@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "nanisa clothing",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "462101",
+    "phone_number": "N/A",
+    "website": "http://nanisa.store/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "gauri enclave, f101, Om Nagar, Rajharsh Colony, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "area": "Om Nagar, Rajharsh Colony, Kolar Rd",
+    "latitude": 23.1660227,
+    "longitude": 77.42494789999999,
+    "place_id": "ChIJKfn39PhDfDkRnNEeMZd4FDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKfn39PhDfDkRnNEeMZd4FDU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:31:17"
+  },
+  {
+    "business_name": "Jahanvi Collection Best Garments Shop",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "462101",
+    "phone_number": "+91 80857 85763",
+    "website": "https://www.instagram.com/__ram_sharma_09?igsh=bzZibTc1OTNsYXZ2",
+    "rating": 5,
+    "reviews_count": 467,
+    "address": "Berasia Road, Ratua Ratanpur, Bandikhedi, Madhya Pradesh 462101",
+    "area": "462101",
+    "latitude": 23.4688022,
+    "longitude": 77.4076142,
+    "place_id": "ChIJ73PLG4RxfDkRs8wHtmZ1mKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ73PLG4RxfDkRs8wHtmZ1mKc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:31:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aatmaram kirana store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "462016",
+    "phone_number": "+91 77427 09208",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 20,
+    "address": "Block Na, Bhrmi Petrol Pump Ke Samne, 13 Kh 247, Salawas Rd, Tanavra, Jodhpur, Tanawada, Rajasthan 342802",
+    "area": "Tanavra",
+    "latitude": 26.156999799999998,
+    "longitude": 72.9925336,
+    "place_id": "ChIJKdpMfTeJQTkRmSf35tRKed8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKdpMfTeJQTkRmSf35tRKed8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:44:41"
+  },
+  {
+    "business_name": "Tejwani Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "462016",
+    "phone_number": "+91 79995 08001",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C1, Habibganj Naka, near Rani Kamlapati, Durga Nagar Slums, Habib Ganj, Bhopal, Madhya Pradesh 462024",
+    "area": "Durga Nagar Slums, Habib Ganj",
+    "latitude": 23.2156493,
+    "longitude": 77.4422421,
+    "place_id": "ChIJ9wGoPkJDfDkRH-Di4jeebZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9wGoPkJDfDkRH-Di4jeebZY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:44:42"
+  }
+]

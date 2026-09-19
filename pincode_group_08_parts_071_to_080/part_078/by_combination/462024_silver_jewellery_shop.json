@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mayank Jewellers (Silvme)",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "462024",
+    "phone_number": "+91 93005 66323",
+    "website": "https://silvme.com/",
+    "rating": 4.7,
+    "reviews_count": 13,
+    "address": "Shop no-2, Panchvati Market, Saket Nagar, Habib Ganj, Bhopal, Madhya Pradesh 462024",
+    "area": "Panchvati Market, Saket Nagar, Habib Ganj",
+    "latitude": 23.219072699999998,
+    "longitude": 77.45663139999999,
+    "place_id": "ChIJLx9UTDBCfDkRJdvqGpiw3xc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLx9UTDBCfDkRJdvqGpiw3xc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:52:37"
+  },
+  {
+    "business_name": "Studio Shara Handmade Jewelry",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Costume jewelry shop, Jewelry designer, Jewelry manufacturer",
+    "pincode": "462024",
+    "phone_number": "+91 81201 06641",
+    "website": "http://www.sharajewellery.com/",
+    "rating": 4.9,
+    "reviews_count": 55,
+    "address": "Plot 32, 10 No, Krishna Emporio, G-8, behind Starbucks, E-4, Arera Colony, Bhopal, Madhya Pradesh 462016",
+    "area": "E-4, Arera Colony",
+    "latitude": 23.214323399999998,
+    "longitude": 77.4344029,
+    "place_id": "ChIJPRdZUQBqfDkR76c9Jf-Lzb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPRdZUQBqfDkR76c9Jf-Lzb8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:52:37"
+  }
+]

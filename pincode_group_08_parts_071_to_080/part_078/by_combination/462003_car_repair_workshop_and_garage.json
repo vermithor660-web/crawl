@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CLASSIC MOTORS",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto body shop, Auto painting, Mechanic",
+    "pincode": "462003",
+    "phone_number": "+91 89621 41055",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 45,
+    "address": "1km from, Bansal Hospital, Opposite Hotel Western,Mandakni Square, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "area": "Sai Nath Colony, Mahabali Nagar, Kolar Rd",
+    "latitude": 23.1843382,
+    "longitude": 77.4148318,
+    "place_id": "ChIJp1nsAl1FfDkRY7o17rQKkEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp1nsAl1FfDkRY7o17rQKkEU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:35:38"
+  },
+  {
+    "business_name": "GoMechanic - Car Care Centre, Jahangirabad",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "462003",
+    "phone_number": "+91 83989 70970",
+    "website": "https://srd1.onelink.me/7EYj/GMB",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Gurudwara Complex, 7C3C+5RX Raisen Road, Neem Road, Galla Mandi Rd, Jahangirabad, Bhopal, Madhya Pradesh 462008",
+    "area": "Jahangirabad",
+    "latitude": 23.2529167,
+    "longitude": 77.42233039999999,
+    "place_id": "ChIJ84naOYBCfDkRTF36rUSOKDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ84naOYBCfDkRTF36rUSOKDA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:35:41"
+  }
+]

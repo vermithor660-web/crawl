@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Power Zone Auto Electricals Repair",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "462022",
+    "phone_number": "+91 93037 15479",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Shop No 12, Vijay Stambh Commercial Complex, Opposite Axis Bank, Zone-I, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "Opposite Axis Bank, Zone-I, Maharana Pratap Nagar",
+    "latitude": 23.235946499999997,
+    "longitude": 77.4333013,
+    "place_id": "ChIJAQAAwGdCfDkR8k64zHMbZNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAwGdCfDkR8k64zHMbZNg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:49:08"
+  },
+  {
+    "business_name": "Car A/C",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto bodywork mechanic",
+    "all_categories": "Auto bodywork mechanic",
+    "pincode": "462022",
+    "phone_number": "+91 81095 17852",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Near City Hospital, Zone-II, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "Near City Hospital, Zone-II, Maharana Pratap Nagar",
+    "latitude": 23.230325099999998,
+    "longitude": 77.435687,
+    "place_id": "ChIJnXJw0UhDfDkRXE9XuGXBt8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnXJw0UhDfDkRXE9XuGXBt8Y",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:49:08"
+  }
+]

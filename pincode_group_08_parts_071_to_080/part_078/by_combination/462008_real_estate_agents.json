@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jam Jam",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "462008",
+    "phone_number": "+91 94154 12703",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "25-26, 80 Feet Rd, Near Indian Bank, Gyan Kunj, Ashok Vihar, Bhopal, Hinotiya, Madhya Pradesh 462010",
+    "area": "Near Indian Bank, Gyan Kunj, Ashok Vihar",
+    "latitude": 23.2573847,
+    "longitude": 77.4295904,
+    "place_id": "ChIJoZq1sNVpfDkRkqXTZNr8pFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoZq1sNVpfDkRkqXTZNr8pFs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:40:25"
+  },
+  {
+    "business_name": "Pawar Property Dealer Bhopal",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "462008",
+    "phone_number": "+91 70677 02388",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F-50 New Subhash Colony, Subhash Colony, Industrial Area, Ashoka Garden, Bhopal, Madhya Pradesh 462023",
+    "area": "New Subhash Colony, Industrial Area, Ashoka Garden",
+    "latitude": 23.2652832,
+    "longitude": 77.4344684,
+    "place_id": "ChIJcWjcyhhpfDkRHTPYzSP2teQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcWjcyhhpfDkRHTPYzSP2teQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:40:28"
+  }
+]

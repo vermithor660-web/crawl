@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaipur kachori house",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant",
+    "pincode": "462038",
+    "phone_number": "+91 85178 09815",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 67,
+    "address": "Minal gate, Shop no. 57/58 Raj capital Minal shopping street, 1, JK Rd, Minal Residency, Bhopal, Madhya Pradesh 462023",
+    "area": "Minal Residency",
+    "latitude": 23.2680564,
+    "longitude": 77.4575804,
+    "place_id": "ChIJdUpGQQBpfDkRxaDHdg-64WA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdUpGQQBpfDkRxaDHdg-64WA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:07:48"
+  },
+  {
+    "business_name": "Sagar Gaire, DIG Bunglow, Berasia Road",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "462038",
+    "phone_number": "+91 94253 14095",
+    "website": "http://www.sagargairefastfoodcorner.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "12 Berasia Road Near V-Mart Sant Kanwar Ram Nagar, DIG Bunglow, Bhopal, Madhya Pradesh 462100",
+    "area": "DIG Bunglow, Firdous Nagar",
+    "latitude": 23.281748999999998,
+    "longitude": 77.4035193,
+    "place_id": "ChIJyYHYhUFofDkRUZXcvsIoDh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyYHYhUFofDkRUZXcvsIoDh8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:07:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Sugary House",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "462023",
+    "phone_number": "+91 87208 23952",
+    "website": "https://instagram.com/thesugaryhouse_?igshid=14mqw2lp3ldc8",
+    "rating": 4.8,
+    "reviews_count": 25,
+    "address": "132 Private, M P E B Colony, Govindpura, Bhopal, Madhya Pradesh 462023",
+    "area": "M P E B Colony, Govindpura",
+    "latitude": 23.259866199999998,
+    "longitude": 77.4449565,
+    "place_id": "ChIJl_gSKTNpfDkR7qzeQp-iP1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_gSKTNpfDkR7qzeQp-iP1M",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:50:31"
+  },
+  {
+    "business_name": "Cherry on Top",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "462023",
+    "phone_number": "+91 98265 04393",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 70,
+    "address": "H33, Apsara Complex, Sector A, Indrapuri, Bhopal, Madhya Pradesh 462022",
+    "area": "Apsara Complex, Sector A, Indrapuri",
+    "latitude": 23.255015,
+    "longitude": 77.460105,
+    "place_id": "ChIJSd2uAgBDfDkRmm1FAWYT6gU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSd2uAgBDfDkRmm1FAWYT6gU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:50:32"
+  }
+]

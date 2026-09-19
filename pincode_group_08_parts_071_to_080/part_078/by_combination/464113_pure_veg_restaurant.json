@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naitik jain bhojnalay",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "464113",
+    "phone_number": "+91 93408 09503",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "GRF7+8J4, Station Rd, Madhav Ganj, Baripura, Vidisha, Madhya Pradesh 464001",
+    "area": "Madhav Ganj, Baripura",
+    "latitude": 23.5232518,
+    "longitude": 77.814071,
+    "place_id": "ChIJAzBqg2AEfDkRkplEWiYZuPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAzBqg2AEfDkRkplEWiYZuPI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:42:10"
+  },
+  {
+    "business_name": "Maharashtra Bhojnalay",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "464113",
+    "phone_number": "+91 81092 52787",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 14,
+    "address": "GRF7+5G3, Hospital Rd, Madhav Ganj, Baripura, Vidisha, Madhya Pradesh 464001",
+    "area": "Madhav Ganj, Baripura",
+    "latitude": 23.5228857,
+    "longitude": 77.8137927,
+    "place_id": "ChIJq4NxKl4EfDkR8I5U80mXLSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq4NxKl4EfDkR8I5U80mXLSU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:42:13"
+  }
+]

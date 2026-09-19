@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Humming Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event management company",
+    "pincode": "464220",
+    "phone_number": "+91 88847 52613",
+    "website": "https://humming-events.ueniweb.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Tansen Nagar, Gwalior, Madhya Pradesh 474002",
+    "area": "Tansen Nagar",
+    "latitude": 26.2286315,
+    "longitude": 78.17723649999999,
+    "place_id": "ChIJu_3nYIbHdjkRNn4k0EbaQko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu_3nYIbHdjkRNn4k0EbaQko",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:46:38"
+  },
+  {
+    "business_name": "CELEBRATORS Events & Wedding Planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, DJ service, Event management company, Event planner, Religious destination, Wedding venue",
+    "pincode": "464220",
+    "phone_number": "+91 96682 08777",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Grand Rd, Near Indian bank, Puri, Odisha 752001",
+    "area": "464220",
+    "latitude": 19.8079091,
+    "longitude": 85.8215851,
+    "place_id": "ChIJXWyYY8HHGToRcebNKJU91qw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXWyYY8HHGToRcebNKJU91qw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:46:41"
+  }
+]

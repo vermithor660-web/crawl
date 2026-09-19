@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.P.Tourism ISBT Counter",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "462023",
+    "phone_number": "+91 98263 63695",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 10,
+    "address": "Bus Stand, Shop No - 22 ISBT, Habib Ganj, Bhopal, Madhya Pradesh 462024",
+    "area": "Habib Ganj",
+    "latitude": 23.2296254,
+    "longitude": 77.4430567,
+    "place_id": "ChIJ2wZsoEFCfDkR8pZ7NJWFcFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wZsoEFCfDkR8pZ7NJWFcFQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:51:06"
+  },
+  {
+    "business_name": "Verma Travels, ISBT",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "462023",
+    "phone_number": "+91 78791 22122",
+    "website": "http://verma.vermatravelsindia.com/",
+    "rating": 2.7,
+    "reviews_count": 491,
+    "address": "Unnamed Road, 462023, Habib Ganj, Bhopal, Madhya Pradesh 462024",
+    "area": "Habib Ganj",
+    "latitude": 23.228482399999997,
+    "longitude": 77.4424228,
+    "place_id": "ChIJv8bpTlhDfDkRi0fEpKCYL2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv8bpTlhDfDkRi0fEpKCYL2Y",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:51:06"
+  }
+]

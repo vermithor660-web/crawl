@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PATHAK MULTISPECIALITY HOSPITAL",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "462026",
+    "phone_number": "+91 94250 16264",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "B-14,First Floor Ganesh nagar road, near, Narmadapuram Rd, near by hotel urban house, Bagh swaniya, Bhopal, Madhya Pradesh 462026",
+    "area": "Shri Rameshwaram, Bagh swaniya",
+    "latitude": 23.18141,
+    "longitude": 77.4585201,
+    "place_id": "ChIJp9Ubj0tDfDkRAff3OFAKcOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp9Ubj0tDfDkRAff3OFAKcOg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:54:41"
+  },
+  {
+    "business_name": "Sahara Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Hospital, Orthopedic clinic, Orthopedic surgeon",
+    "pincode": "462026",
+    "phone_number": "+91 755 427 0008",
+    "website": "https://www.saharafracturehospital.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "near Water Tank, Vidya Nagar, Bhopal, Madhya Pradesh 462026",
+    "area": "Vidya Nagar",
+    "latitude": 23.1955481,
+    "longitude": 77.4478754,
+    "place_id": "ChIJMQlql8dDfDkRXO-PeUgkcAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMQlql8dDfDkRXO-PeUgkcAI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:54:41"
+  }
+]

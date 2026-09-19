@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nupur Wood Traders",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Lumber store",
+    "all_categories": "Lumber store, Hardware store",
+    "pincode": "462010",
+    "phone_number": "+91 98260 76557",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Plot No. 167, Shop No. 5, Obedulla Ganj Rd, Near Sargam Cinema, Zone-II, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "Near Sargam Cinema, Zone-II, Maharana Pratap Nagar",
+    "latitude": 23.2282962,
+    "longitude": 77.4361718,
+    "place_id": "ChIJAQAAwGdCfDkRUtRx9r5Tv9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAwGdCfDkRUtRx9r5Tv9s",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:41:37"
+  },
+  {
+    "business_name": "M/S Jain Plywood & Hardware",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Lumber store",
+    "all_categories": "Lumber store, Hardware store",
+    "pincode": "462010",
+    "phone_number": "+91 90745 20911",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 27,
+    "address": "4, Ayodhya Bypass Rd, Santoshi Vihar Colony, Paras Nagar, Ayodhya Nagar, Bhopal, Madhya Pradesh 462041",
+    "area": "Santoshi Vihar Colony, Paras Nagar, Ayodhya Nagar",
+    "latitude": 23.2682248,
+    "longitude": 77.4689025,
+    "place_id": "ChIJM0otFfhpfDkRPmuQCVXzzI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM0otFfhpfDkRPmuQCVXzzI8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:41:41"
+  }
+]

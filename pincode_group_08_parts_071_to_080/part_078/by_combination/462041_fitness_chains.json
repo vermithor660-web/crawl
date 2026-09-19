@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SK Soni Gold Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "462041",
+    "phone_number": "+91 78059 32393",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "7F67+FGG, Chatrasaal Nagar Rd, Karamveer Nagar, Sector B, Ayodhya Nagar, Bhopal, Madhya Pradesh 462022",
+    "area": "Karamveer Nagar, Sector B, Ayodhya Nagar",
+    "latitude": 23.2611818,
+    "longitude": 77.4638164,
+    "place_id": "ChIJs_TtL_xpfDkRrJ-bEyhMMNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs_TtL_xpfDkRrJ-bEyhMMNY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:14:04"
+  },
+  {
+    "business_name": "MY GYM",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "462041",
+    "phone_number": "+91 98263 20307",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "31, Iqbal Nager, Ashoka Garden, Bhopal, Madhya Pradesh 462023",
+    "area": "Ashoka Garden",
+    "latitude": 23.2565466,
+    "longitude": 77.4307786,
+    "place_id": "ChIJb758bdZpfDkRMKGfzY65vTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb758bdZpfDkRMKGfzY65vTU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:14:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stylish Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "462023",
+    "phone_number": "+91 99937 80440",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FF-59, Minal Shopping Complex, Minal Residency, Bhopal, Madhya Pradesh 462023",
+    "area": "Minal Residency",
+    "latitude": 23.268915999999997,
+    "longitude": 77.4569975,
+    "place_id": "ChIJ9SwbMNJpfDkR-vQCpiew5mg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9SwbMNJpfDkR-vQCpiew5mg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:50:48"
+  },
+  {
+    "business_name": "Designer Clothing Brand | Mayrake Aura Private Limited | India",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Designer Clothing Store, Clothing Accessories Store",
+    "pincode": "462023",
+    "phone_number": "+91 97527 54702",
+    "website": "https://mayrake.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "E-6/24, near Assumption Church, behind 11 Number Ondoor, E-6, Arera Colony, Bhopal, Madhya Pradesh 462027",
+    "area": "E-6, Arera Colony",
+    "latitude": 23.211731099999998,
+    "longitude": 77.440834,
+    "place_id": "ChIJ5aOzolFDfDkRutDlLNZ4d3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5aOzolFDfDkRutDlLNZ4d3A",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:50:48"
+  }
+]

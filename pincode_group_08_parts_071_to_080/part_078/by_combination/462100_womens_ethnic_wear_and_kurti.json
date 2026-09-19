@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Riwaaz",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Bridal shop, Clothing store, Dress store, Outlet mall, Designer Clothing Store",
+    "pincode": "462100",
+    "phone_number": "+91 78883 47117",
+    "website": "https://shreeriwaaz.com/",
+    "rating": 4.8,
+    "reviews_count": 138,
+    "address": "3012-3013, Arya College Rd, opposite Lallan Vala peer, Pathran Wala Khoo, Kharar, Punjab 140301",
+    "area": "Pathran Wala Khoo",
+    "latitude": 30.7436324,
+    "longitude": 76.64740379999999,
+    "place_id": "ChIJBUBCHwPvDzkRXdAnlb5vlYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUBCHwPvDzkRXdAnlb5vlYI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:29:18"
+  },
+  {
+    "business_name": "W for Woman Elante Mall",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Cosmetics store, Plus Size Clothing Store, Shoe store, Western apparel store, Clothing store",
+    "pincode": "462100",
+    "phone_number": "+91 172 401 3292",
+    "website": "https://wforwoman.com/",
+    "rating": 4,
+    "reviews_count": 32,
+    "address": "Shop 205, 2nd Flr, Elante Mall, Ginger Hotel Rd, Industrial Area Phase I, Chandigarh, 160002",
+    "area": "Industrial Area Phase I",
+    "latitude": 30.7061228,
+    "longitude": 76.8009565,
+    "place_id": "ChIJ--B-ZunsDzkRXki4ULVa17Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ--B-ZunsDzkRXki4ULVa17Q",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:29:18"
+  }
+]

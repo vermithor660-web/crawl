@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anil Kirana Store",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "463111",
+    "phone_number": "+91 87189 10530",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vidisha Rd, Imalia Narendra, Madhya Pradesh 463106",
+    "area": "463111",
+    "latitude": 23.6274899,
+    "longitude": 77.4923002,
+    "place_id": "ChIJRZuNcfV1fDkR6MoOah3O0Ng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRZuNcfV1fDkR6MoOah3O0Ng",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:36:51"
+  },
+  {
+    "business_name": "Mumkids (Kids Wear & Accessories)",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store, Baby clothing store, Baby store, Boutique, Clothing store, Dress store",
+    "pincode": "463111",
+    "phone_number": "+91 98109 09107",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no. 5, Mini Market, Bhai Parmanand Colony, Mukherjee Nagar, Delhi, 110033",
+    "area": "Bhai Parmanand Colony, Mukherjee Nagar",
+    "latitude": 28.7101445,
+    "longitude": 77.2053797,
+    "place_id": "ChIJ7_FCDq79DDkRXswMlgV20Ps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7_FCDq79DDkRXswMlgV20Ps",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:36:54"
+  }
+]

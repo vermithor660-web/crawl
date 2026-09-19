@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "athrav hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "462038",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H40 shddhi vinayank, mohali, Ayodhya Bypass Rd, near vinus hospital, Bhopal, Madhya Pradesh 462038",
+    "area": "Rusalli, Karond",
+    "latitude": 23.3028759,
+    "longitude": 77.40091869999999,
+    "place_id": "ChIJOarTBEFpfDkRdea0LS_I5L0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOarTBEFpfDkRdea0LS_I5L0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:08:49"
+  },
+  {
+    "business_name": "New Shanti puram",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "462038",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8C58+M32, Navi Bagh, Bhopal, Madhya Pradesh 462038",
+    "area": "Navi Bagh",
+    "latitude": 23.3091769,
+    "longitude": 77.415098,
+    "place_id": "ChIJh53vRwBpfDkRLkHnK5eFRsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh53vRwBpfDkRLkHnK5eFRsY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:08:49"
+  }
+]

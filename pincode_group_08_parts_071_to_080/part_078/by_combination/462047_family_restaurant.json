@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NH 46 bypass kitchen",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "462047",
+    "phone_number": "+91 93400 97142",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Bhopal bypass, nh46, 11 mile, near HP petrol pump, Bhopal, Madhya Pradesh 462047",
+    "area": "Indus Towne, Ratanpur Sadak",
+    "latitude": 23.143715099999998,
+    "longitude": 77.4869818,
+    "place_id": "ChIJuZFiE_FHfDkROPl9vTS9aQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuZFiE_FHfDkROPl9vTS9aQk",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:25:20"
+  },
+  {
+    "business_name": "Ghar Ka Khana Tiffin Services",
+    "search_category": "Family Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "462047",
+    "phone_number": "+91 96366 28076",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 25,
+    "address": "Signature 360, 15, Tribhuwam Vihar, Katara Hills, Bagli Village, Bhopal, Madhya Pradesh 462043",
+    "area": "Tribhuwam Vihar, Katara Hills, Bagli Village",
+    "latitude": 23.173838,
+    "longitude": 77.5053925,
+    "place_id": "ChIJubTCQVdBfDkRg6GEheqbH1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJubTCQVdBfDkRg6GEheqbH1k",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:25:23"
+  }
+]

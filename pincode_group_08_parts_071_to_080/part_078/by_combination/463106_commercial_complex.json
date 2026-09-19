@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anshul Textile",
+    "search_category": "Commercial Complex",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "463106",
+    "phone_number": "+91 62602 49307",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 9, Bus Stand, Choraha. Narsinghar Road, near Complex, Berasia, Tikankhedi, Madhya Pradesh 463106",
+    "area": "463106",
+    "latitude": 23.6221417,
+    "longitude": 77.4298828,
+    "place_id": "ChIJC2lJacl3fDkRpuWie7tx3f4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC2lJacl3fDkRpuWie7tx3f4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:36:31"
+  },
+  {
+    "business_name": "UBS Rajit Traders Ratua",
+    "search_category": "Commercial Complex",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "463106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "FC59+FCM, Ratua Ratanpur, Madhya Pradesh 462101",
+    "area": "463106",
+    "latitude": 23.458711299999997,
+    "longitude": 77.4185584,
+    "place_id": "ChIJzaqUHABxfDkRb53IXcBr2sE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzaqUHABxfDkRb53IXcBr2sE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:36:33"
+  }
+]

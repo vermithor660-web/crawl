@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe HIGHWAY POINT",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "462024",
+    "phone_number": "+91 88277 00537",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 27,
+    "address": "infront of Aashirwad Dhaba, Selfie Bridge(Patel Chouraha, Obaidullaganj, Madhya Pradesh 464990",
+    "area": "462024",
+    "latitude": 23.0015033,
+    "longitude": 77.6051435,
+    "place_id": "ChIJhc1T4gE3fDkREP3lACspEUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhc1T4gE3fDkREP3lACspEUk",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:52:28"
+  },
+  {
+    "business_name": "Indraprastha Naveen Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Vegetarian restaurant",
+    "pincode": "462024",
+    "phone_number": "+91 94797 67372",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 335,
+    "address": "8RG8+2JC, Gairatganj Rd, Khargawali, Madhya Pradesh 464551",
+    "area": "462024",
+    "latitude": 23.325073699999997,
+    "longitude": 77.81651839999999,
+    "place_id": "ChIJcUKltd0YfDkRSmoMzlvHn1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcUKltd0YfDkRSmoMzlvHn1M",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:52:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditya Automotive",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "462023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Shop no.4, Basant vihar colony, DRM 80 feet road, Berkheda, Bhopal, Madhya Pradesh 462022",
+    "area": "Berkheda",
+    "latitude": 23.218525399999997,
+    "longitude": 77.4779713,
+    "place_id": "ChIJM0y5Ac1BfDkR_nN-WULX7o0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM0y5Ac1BfDkR_nN-WULX7o0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:51:01"
+  },
+  {
+    "business_name": "Jai maa kali car wash and service",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "462023",
+    "phone_number": "+91 97136 09030",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "7F4H+H6R, Mohan Nagar, Ayodhya Nagar, Bhopal, Madhya Pradesh 462022",
+    "area": "Mohan Nagar, Ayodhya Nagar",
+    "latitude": 23.2564767,
+    "longitude": 77.4780217,
+    "place_id": "ChIJtR4OsP1BfDkR0AQbyUk_6XM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtR4OsP1BfDkR0AQbyUk_6XM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:51:01"
+  }
+]

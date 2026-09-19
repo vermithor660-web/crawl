@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shyam Guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "462024",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Railway Colony, Habib Ganj, Bhopal, Madhya Pradesh 462026",
+    "area": "Railway Colony, Habib Ganj",
+    "latitude": 23.211165599999998,
+    "longitude": 77.4510741,
+    "place_id": "ChIJW1hz0aRDfDkRRZJBgmjlQEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1hz0aRDfDkRRZJBgmjlQEg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:53:26"
+  },
+  {
+    "business_name": "CSIR-AMPRI GUEST HOUSE",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "462024",
+    "phone_number": "+91 755 248 5253",
+    "website": "https://ampri.res.in/?page_id=911",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Regional Research Laboratory Campus, Habib Ganj, Bhopal, Madhya Pradesh 462026",
+    "area": "Regional Research Laboratory Campus, Habib Ganj",
+    "latitude": 23.208425599999998,
+    "longitude": 77.4479697,
+    "place_id": "ChIJ9-5Mu8pDfDkRj4XgeSbrP3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9-5Mu8pDfDkRj4XgeSbrP3o",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:53:26"
+  }
+]

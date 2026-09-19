@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lk2 foods ( cloud kitchen)",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "462016",
+    "phone_number": "+91 98266 87888",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "252, E-3, Arera Colony, Bhopal, Madhya Pradesh 462016",
+    "area": "E-3, Arera Colony",
+    "latitude": 23.216095199999998,
+    "longitude": 77.4368136,
+    "place_id": "ChIJCV6kuoFDfDkRNkfWKJldwq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCV6kuoFDfDkRNkfWKJldwq4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:44:53"
+  },
+  {
+    "business_name": "The Foodie Monster Cafe Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "462016",
+    "phone_number": "+91 88899 66675",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop No. G9, Westend Plaza, Chunabhatti Kolar Rd, Chuna Bhatti, Bhopal, Madhya Pradesh 462016",
+    "area": "Chuna Bhatti",
+    "latitude": 23.198954,
+    "longitude": 77.4170343,
+    "place_id": "ChIJq1Krp3lDfDkRm04irsltoJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq1Krp3lDfDkRm04irsltoJ4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:44:54"
+  }
+]

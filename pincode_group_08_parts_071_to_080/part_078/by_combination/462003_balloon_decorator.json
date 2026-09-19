@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balloon decoration bhopal",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "462003",
+    "phone_number": "+91 62638 84161",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Indus Empire, Shahpura, Bhopal, Madhya Pradesh 462016",
+    "area": "Indus Empire, Shahpura",
+    "latitude": 23.1901244,
+    "longitude": 77.4242558,
+    "place_id": "ChIJk2GgebFDfDkRUBd0f4jVdPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk2GgebFDfDkRUBd0f4jVdPE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:36:08"
+  },
+  {
+    "business_name": "New Bombay General Stores",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party store",
+    "all_categories": "Party store, Craft store, Home goods store, General store, Toy store",
+    "pincode": "462003",
+    "phone_number": "+91 755 254 2750",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "56, Kotwali Rd, Near old Allahabad Bank, Itwara, Azad Market, Peer Gate Area, Bhopal, Madhya Pradesh 462001",
+    "area": "Itwara, Azad Market, Peer Gate Area",
+    "latitude": 23.259622699999998,
+    "longitude": 77.4037501,
+    "place_id": "ChIJIUX5MyJofDkRRz6-YLaxSVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIUX5MyJofDkRRz6-YLaxSVw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:36:10"
+  }
+]

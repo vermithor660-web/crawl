@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Moh Ethnic Store",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "462036",
+    "phone_number": "+91 98267 04447",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "ds square, A 48, Vijay Nagar, Lalghati, Bhopal, Madhya Pradesh 462030",
+    "area": "Vijay Nagar, Lalghati",
+    "latitude": 23.275916499999997,
+    "longitude": 77.36752039999999,
+    "place_id": "ChIJgZSLZuJnfDkRQKwoE0ZFj0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZSLZuJnfDkRQKwoE0ZFj0Q",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:04:10"
+  },
+  {
+    "business_name": "Vastra विला",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "462036",
+    "phone_number": "+91 88890 06941",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Vastra villa boutique, near Rishi Villas Colony, Gandhi Nagar, Bhopal, Madhya Pradesh 462036",
+    "area": "Gandhi Nagar",
+    "latitude": 23.3052332,
+    "longitude": 77.352396,
+    "place_id": "ChIJxRJfuIJnfDkRXK1IHfYiwxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxRJfuIJnfDkRXK1IHfYiwxk",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:04:10"
+  }
+]

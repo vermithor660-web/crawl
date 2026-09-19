@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madan Lal Phool Bhandhar",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Flower delivery",
+    "pincode": "462008",
+    "phone_number": "+91 89829 99318",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "2, Bal Niketan Building, Trust Market, Kamali Mandir Rd, Itwara, Ghora Nakkas, Peer Gate Area, Bhopal, Madhya Pradesh 462001",
+    "area": "Itwara, Ghora Nakkas, Peer Gate Area",
+    "latitude": 23.2636514,
+    "longitude": 77.4048219,
+    "place_id": "ChIJ8RgjJSNofDkRAAAAsKbj4Ws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8RgjJSNofDkRAAAAsKbj4Ws",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:39:57"
+  },
+  {
+    "business_name": "Gurunanak Modikhana",
+    "search_category": "Flower Decorator",
+    "primary_category": "Embroidery shop",
+    "all_categories": "Embroidery shop",
+    "pincode": "462008",
+    "phone_number": "+91 755 400 4772",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 36,
+    "address": "11, Laxmi Complex, Lalwani Press Rd, Itwara, Azad Market, Peer Gate Area, Bhopal, Madhya Pradesh 462001",
+    "area": "Itwara, Azad Market, Peer Gate Area",
+    "latitude": 23.2605032,
+    "longitude": 77.40346629999999,
+    "place_id": "ChIJO4XJ-SVofDkR9WHX6bZ8mWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO4XJ-SVofDkR9WHX6bZ8mWY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:39:58"
+  }
+]

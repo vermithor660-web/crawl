@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vasundharam Poly Clinic & Pharmacy",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "462023",
+    "phone_number": "+91 79096 19693",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MIG/D-59, Road, Ayodhya Nagar Sector D, Ahinsa Vihar Colony, Ayodhya Nagar, Bhopal, Madhya Pradesh 462041",
+    "area": "Ayodhya Nagar Sector D, Ahinsa Vihar Colony, Ayodhya Nagar",
+    "latitude": 23.274795299999997,
+    "longitude": 77.4692778,
+    "place_id": "ChIJl24WeABpfDkR-UZfMd8FpKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl24WeABpfDkR-UZfMd8FpKY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:50:57"
+  },
+  {
+    "business_name": "janseva poly clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "462023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7CF7+HQ3, JP Nagar, Bhopal, Madhya Pradesh 462001",
+    "area": "JP Nagar",
+    "latitude": 23.2738786,
+    "longitude": 77.4144334,
+    "place_id": "ChIJAQAACzdofDkRbb2smacfKxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAACzdofDkRbb2smacfKxY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:50:57"
+  }
+]

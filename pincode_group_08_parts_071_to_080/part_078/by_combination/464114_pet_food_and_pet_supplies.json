@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sardar Ji Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "464114",
+    "phone_number": "+91 80537 36304",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6hv8 H45, Vidisha, Pyasi, Madhya Pradesh 464228",
+    "area": "464114",
+    "latitude": 24.2443688,
+    "longitude": 77.56570099999999,
+    "place_id": "ChIJzZXicfnJezkRyn4yOgljZN8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzZXicfnJezkRyn4yOgljZN8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:43:57"
+  },
+  {
+    "business_name": "Sardar Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "464114",
+    "phone_number": "+91 70279 45441",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6hw8 3x7, Semalkhedi, Pyasi, Madhya Pradesh 464228",
+    "area": "464114",
+    "latitude": 24.2440478,
+    "longitude": 77.56824259999999,
+    "place_id": "ChIJ1U3WeprJezkRfNUwAKuTzVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1U3WeprJezkRfNUwAKuTzVw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:43:57"
+  }
+]

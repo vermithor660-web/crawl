@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SPRING BOUTIQUES & GARMENTS",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "462003",
+    "phone_number": "+91 91794 22678",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "House No.219, Kotra Sultanabad, Bhopal, Madhya Pradesh 462003",
+    "area": "Kotra Sultanabad",
+    "latitude": 23.216071799999998,
+    "longitude": 77.39458429999999,
+    "place_id": "ChIJbWmKz11DfDkRwT78sZrCwh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbWmKz11DfDkRwT78sZrCwh0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:35:24"
+  },
+  {
+    "business_name": "Neha (Home) Boutique Centre",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "462003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Block-9, Sahyadri Parishar, Sh-43, Bhadbhada Rd, Shastri Nagar, Bhopal, Madhya Pradesh 462003",
+    "area": "Shastri Nagar",
+    "latitude": 23.22392,
+    "longitude": 77.38829,
+    "place_id": "ChIJP1xz6AtDfDkRiT3Vil6vGLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP1xz6AtDfDkRiT3Vil6vGLI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:35:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beauty Parlour (Anita Kushwaha)",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "462101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "Berasia, Tikankhedi, Madhya Pradesh 463106",
+    "area": "462101",
+    "latitude": 23.6243332,
+    "longitude": 77.43276519999999,
+    "place_id": "ChIJD8xkKCl2fDkRMQe3bCNNUwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD8xkKCl2fDkRMQe3bCNNUwM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:31:49"
+  },
+  {
+    "business_name": "Pooja beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "462101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GC84+5GX, Harrakheda, Madhya Pradesh 462101",
+    "area": "462101",
+    "latitude": 23.515486199999998,
+    "longitude": 77.4063625,
+    "place_id": "ChIJe2F9OABxfDkRyrvK_rA4Xtc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe2F9OABxfDkRyrvK_rA4Xtc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:31:49"
+  }
+]

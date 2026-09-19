@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohan Medical Hall IISER",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "462066",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "Shop no 1 shopping complex IISER Bhauri, Bhopal, Madhya Pradesh 462066",
+    "area": "462066",
+    "latitude": 23.285266399999998,
+    "longitude": 77.27417849999999,
+    "place_id": "ChIJVcT-OtVhfDkRci7PWizThBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVcT-OtVhfDkRci7PWizThBM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:27:30"
+  },
+  {
+    "business_name": "Zero Miles Janarogyam Generic Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "462066",
+    "phone_number": "+91 93022 62423",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Shop No. 5, Sagar Homes 1, near by Bapu Ki Kutia, Sarvdharm, Sarvdharm Colony, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "area": "Sarvdharm, Sarvdharm Colony, Kolar Rd",
+    "latitude": 23.1871519,
+    "longitude": 77.41707199999999,
+    "place_id": "ChIJRVwIoUFDfDkRsgF8BDbKL78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRVwIoUFDfDkRsgF8BDbKL78",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:27:30"
+  }
+]

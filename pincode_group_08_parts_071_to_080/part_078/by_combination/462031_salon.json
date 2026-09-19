@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aarushi Beauty Salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Health and beauty shop",
+    "pincode": "462031",
+    "phone_number": "+91 73899 54787",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Aero City Pipalner, H No 1 Aerocity, Airport Rd, near Signature park, Peepalner Village, Gandhi Nagar, Bhopal, Madhya Pradesh 462036",
+    "area": "Peepalner Village, Gandhi Nagar",
+    "latitude": 23.3095554,
+    "longitude": 77.3375792,
+    "place_id": "ChIJmWM9IgBnfDkR3LnZkyigeHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmWM9IgBnfDkR3LnZkyigeHg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:01:03"
+  },
+  {
+    "business_name": "CHANGE Salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon, Facial spa, Nail salon, Reflexologist, Spa, Waxing hair removal service",
+    "pincode": "462031",
+    "phone_number": "+91 88888 08255",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 1090,
+    "address": "7 & 8, 1st Floor, Manik, West High Court, near Orange City Hospital, Tatya Tope Nagar, Nagpur, Maharashtra 440015",
+    "area": "Tatya Tope Nagar, Pratap Nagar",
+    "latitude": 21.1147123,
+    "longitude": 79.0647506,
+    "place_id": "ChIJL2sfV3-_1DsRZF4mBLgE4No",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL2sfV3-_1DsRZF4mBLgE4No",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:01:03"
+  }
+]

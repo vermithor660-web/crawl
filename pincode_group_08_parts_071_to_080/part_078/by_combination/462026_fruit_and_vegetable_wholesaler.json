@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rambhaji",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Produce market",
+    "all_categories": "Produce market",
+    "pincode": "462026",
+    "phone_number": "+91 86410 70156",
+    "website": "https://www.rambhaji.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop no.1, Nav Door Sanchar Colony Gulmohar, Plot no. 1, Gulmohar Main Rd, Shahpura, Bhopal, Madhya Pradesh 462039",
+    "area": "Shahpura",
+    "latitude": 23.1897888,
+    "longitude": 77.4359503,
+    "place_id": "ChIJ71tu9DRDfDkRXWZshbvks2w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ71tu9DRDfDkRXWZshbvks2w",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:54:13"
+  },
+  {
+    "business_name": "Shop",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruits & Vegetable Wholesaler",
+    "all_categories": "Fruits & Vegetable Wholesaler",
+    "pincode": "462026",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5CCR+5Q5, Rohit Nagar Phase 1, Aakriti Ecocity, Salaiya, Bhopal, Madhya Pradesh 462039",
+    "area": "Rohit Nagar Phase 1, Aakriti Ecocity, Salaiya",
+    "latitude": 23.1703975,
+    "longitude": 77.4419712,
+    "place_id": "ChIJPfrfeQBDfDkRxLkCRaDZI60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPfrfeQBDfDkRxLkCRaDZI60",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:54:15"
+  }
+]

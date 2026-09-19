@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAHAKAL ENTERPRISES CREAM BELL ICE CREAM",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "464113",
+    "phone_number": "N/A",
+    "website": "https://www.creambell.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GRM5+9WC, Vaishali Nagar Main Rd, Vaishali Nagar, Vidisha, Madhya Pradesh 464001",
+    "area": "Vaishali Nagar",
+    "latitude": 23.5334273,
+    "longitude": 77.8097674,
+    "place_id": "ChIJPyS0bgAFfDkRYwy3wFDkcgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPyS0bgAFfDkRYwy3wFDkcgk",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:42:15"
+  },
+  {
+    "business_name": "Dairy & Desserts Hub (Amul Ice Creams and Products)",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "464113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 48,
+    "address": "Shop no 17, Yuvraj club, Sherpura, Vidisha, Madhya Pradesh 464001",
+    "area": "Sherpura",
+    "latitude": 23.5211328,
+    "longitude": 77.81538119999999,
+    "place_id": "ChIJh8okqTsFfDkRrPxRR7FRvbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh8okqTsFfDkRrPxRR7FRvbA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:42:17"
+  }
+]

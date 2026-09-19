@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SNR Kia - Koh-E-Fiza",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "462045",
+    "phone_number": "+91 91711 51313",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "A-16, Main Rd, Housing Board Colony, Bhopal, Madhya Pradesh 462001",
+    "area": "Housing Board Colony",
+    "latitude": 23.267299299999998,
+    "longitude": 77.3784886,
+    "place_id": "ChIJBzOqunVpfDkRjweLx0YNu1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBzOqunVpfDkRjweLx0YNu1o",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:21:53"
+  },
+  {
+    "business_name": "Patna Car Bazaar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "462045",
+    "phone_number": "+91 91998 29877",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 304,
+    "address": "Sri Ram Mairege Hall, behind Alankar Business Center, opp. Udayan Hospital, Sri Krishna Nagar, Kidwaipuri, Patna, Bihar 800001",
+    "area": "Sri Krishna Nagar, Kidwaipuri",
+    "latitude": 25.6193314,
+    "longitude": 85.1226014,
+    "place_id": "ChIJTYVL825Z7TkRKTBdNfyoGBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTYVL825Z7TkRKTBdNfyoGBA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:21:55"
+  }
+]

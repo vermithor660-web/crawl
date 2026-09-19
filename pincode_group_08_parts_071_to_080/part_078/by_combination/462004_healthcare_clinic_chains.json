@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chirayu hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "462004",
+    "phone_number": "+91 98260 90034",
+    "website": "http://www.chirayuhospital.com/",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "7/B, Laxmi Narayan Niwas, Malipura Rd, beside Chirayu Hospital, Nakkar Khana, Peer Gate, Bhopal, Madhya Pradesh 462001",
+    "area": "Nakkar Khana, Peer Gate",
+    "latitude": 23.2580963,
+    "longitude": 77.39714049999999,
+    "place_id": "ChIJ4SeHjAtpfDkRbNJ8TSLIkXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4SeHjAtpfDkRbNJ8TSLIkXw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:37:31"
+  },
+  {
+    "business_name": "ZINDAGI HOSPITAL",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "462004",
+    "phone_number": "+91 755 420 9933",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "B-82, 83, Ayodhya Bypass Rd, Bhawanidham Phase-1, Chhatrapati Nagar, Narela Shankri, Ayodhya Nagar, Bhopal, Madhya Pradesh 462041",
+    "area": "Bhawanidham Phase-1, Chhatrapati Nagar, Narela Shankri, Ayodhya Nagar",
+    "latitude": 23.269543499999997,
+    "longitude": 77.46737279999999,
+    "place_id": "ChIJT6RvOvhpfDkR0lXmbJciymQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6RvOvhpfDkR0lXmbJciymQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:37:31"
+  }
+]

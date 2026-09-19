@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRASTUT Home Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home improvement store",
+    "all_categories": "Home improvement store, Interior Decorator, Linens store",
+    "pincode": "462027",
+    "phone_number": "+91 84350 70707",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 170,
+    "address": "Sahyog Vihar, 20, Bawadiya Kalan, Bhopal, Madhya Pradesh 462039",
+    "area": "Nav Door Sanchar Nagar, Rohit Nagar, Bawadiya Kalan, Gulmohar Colony",
+    "latitude": 23.1865477,
+    "longitude": 77.4345615,
+    "place_id": "ChIJveZfwKJDfDkRa-xY0iACMCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJveZfwKJDfDkRa-xY0iACMCk",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:57:23"
+  },
+  {
+    "business_name": "Decor Live Beautiful",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Business related",
+    "all_categories": "Business related",
+    "pincode": "462027",
+    "phone_number": "+91 74156 85704",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "E-2, Arera Colony, Bhopal, Madhya Pradesh 462016",
+    "area": "E-2, Arera Colony",
+    "latitude": 23.219990199999998,
+    "longitude": 77.43454539999999,
+    "place_id": "ChIJzR8ioFpCfDkRbKVrEx_fOtA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzR8ioFpCfDkRbKVrEx_fOtA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:57:23"
+  }
+]

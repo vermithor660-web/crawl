@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D Trousseau",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "462020",
+    "phone_number": "+91 80543 40088",
+    "website": "https://www.facebook.com/Dtrousseau/?ref=settings",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ground Floor, 215 Sector 7, Panchkula, Haryana 134109",
+    "area": "Budanpur",
+    "latitude": 30.705242799999997,
+    "longitude": 76.8456451,
+    "place_id": "ChIJE6PXcj-TDzkRT0wBJwcEz-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE6PXcj-TDzkRT0wBJwcEz-A",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:47:44"
+  },
+  {
+    "business_name": "Trousseau & Trinkets",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "462020",
+    "phone_number": "+91 89104 46923",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "122, Jadavgarh Colony, Haltu, Kolkata, West Bengal 700078",
+    "area": "Jadavgarh Colony, Haltu",
+    "latitude": 22.5078256,
+    "longitude": 88.379716,
+    "place_id": "ChIJ_YIdib1xAjoRGSVSk9hF53Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_YIdib1xAjoRGSVSk9hF53Y",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:47:45"
+  }
+]

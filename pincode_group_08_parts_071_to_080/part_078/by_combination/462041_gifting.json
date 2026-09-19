@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hari prem traders",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "462041",
+    "phone_number": "+91 97547 63966",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "shop no 10, Narela Shankari Rd, Narela, Chhatrapati Nagar, Durgesh Vihar, Ayodhya Nagar, Bhopal, Madhya Pradesh 462041",
+    "area": "Narela, Chhatrapati Nagar, Durgesh Vihar, Ayodhya Nagar",
+    "latitude": 23.267926499999998,
+    "longitude": 77.4671824,
+    "place_id": "ChIJoUnGSvhpfDkRHmHSLA8-K7k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoUnGSvhpfDkRHmHSLA8-K7k",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:14:39"
+  },
+  {
+    "business_name": "Wall Stars",
+    "search_category": "Gifting",
+    "primary_category": "Poster store",
+    "all_categories": "Poster store",
+    "pincode": "462041",
+    "phone_number": "+91 77229 94470",
+    "website": "https://wallstars.in/",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "Ayodhya F-3, LA-45, By Pass Road, Rajeev Nagar, Sector A, Rajeev Nagar, Ayodhya Nagar, Bhopal, Madhya Pradesh 462041",
+    "area": "Rajeev Nagar, Sector A, Rajeev Nagar, Ayodhya Nagar",
+    "latitude": 23.2612491,
+    "longitude": 77.473244,
+    "place_id": "ChIJE95omMJzfKMRj9WcVn0ncr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE95omMJzfKMRj9WcVn0ncr8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:14:41"
+  }
+]

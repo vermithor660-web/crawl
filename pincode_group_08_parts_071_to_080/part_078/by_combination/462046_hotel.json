@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Meri & Residency",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "462046",
+    "phone_number": "+91 90394 08329",
+    "website": "https://hotelmeri24.com/",
+    "rating": 4.8,
+    "reviews_count": 81,
+    "address": "No-30, Narmadapuram Rd, near Satyam Showroom, Nirmal Estate, Koushal Nagar, Misrod, Bhopal, Madhya Pradesh 462047",
+    "area": "Nirmal Estate, Koushal Nagar, Misrod",
+    "latitude": 23.1500465,
+    "longitude": 77.4774673,
+    "place_id": "ChIJywQORvVHfDkRpEOSER0tPHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJywQORvVHfDkRpEOSER0tPHg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:24:16"
+  },
+  {
+    "business_name": "The Homely stay (Hotel/Homestay) all essential amenities.",
+    "search_category": "Hotel",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "462046",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "inside Sheetal Heights, Misrod, Bhopal, Madhya Pradesh 462043",
+    "area": "Misrod",
+    "latitude": 23.154054199999997,
+    "longitude": 77.4718333,
+    "place_id": "ChIJm2IbTjFHfDkRzc59RQobcOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm2IbTjFHfDkRzc59RQobcOw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:24:20"
+  }
+]

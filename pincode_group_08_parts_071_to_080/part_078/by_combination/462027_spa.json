@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mamta Spa Mp Nagar",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "462027",
+    "phone_number": "+91 92886 76775",
+    "website": "https://mamta.spaclub.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "240, opposite DB Mall Square, near Lemon Tree Hotel, Near Hotel Surendra Vilas, Zone-I, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "Near Hotel Surendra Vilas, Zone-I, Maharana Pratap Nagar",
+    "latitude": 23.233591699999998,
+    "longitude": 77.4312836,
+    "place_id": "ChIJEzly97lDfDkRPIpM21ohqno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEzly97lDfDkRPIpM21ohqno",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:57:12"
+  },
+  {
+    "business_name": "Ikigai spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "462027",
+    "phone_number": "+91 90390 09201",
+    "website": "https://www.ikigaispa.in/",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "DB City Mall, Zone-I, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "DB City Mall, Zone-I, Maharana Pratap Nagar",
+    "latitude": 23.232698,
+    "longitude": 77.42985639999999,
+    "place_id": "ChIJV_WqA4FDfDkRlXtOaH2qf7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_WqA4FDfDkRlXtOaH2qf7I",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:57:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "24\\7FOOD EX",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "462024",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/sagedesigno?igsh=bXYzZHh1d24xbW9y",
+    "rating": 2.8,
+    "reviews_count": 67,
+    "address": "Habib Ganj, Bhopal, Madhya Pradesh 462016",
+    "area": "Habib Ganj",
+    "latitude": 23.220685099999997,
+    "longitude": 77.43925639999999,
+    "place_id": "ChIJNTu8aklDfDkRtnXiqyPuFm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNTu8aklDfDkRtnXiqyPuFm4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:52:29"
+  },
+  {
+    "business_name": "Gyani De Chole Bhature",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant",
+    "pincode": "462024",
+    "phone_number": "+91 88390 45158",
+    "website": "https://www.facebook.com/Gyanijicholebhature/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "01/A, 01A, Vijay Market Square, Vijay Market, BHEL, Sector A, Berkheda, Bhopal, Madhya Pradesh 462022",
+    "area": "Vijay Market, BHEL, Sector A, Berkheda",
+    "latitude": 23.2287267,
+    "longitude": 77.4663461,
+    "place_id": "ChIJdYOkMyFCfDkRMWDoqZdIRGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdYOkMyFCfDkRMWDoqZdIRGM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:52:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RANJEET TRANSPORT COMPNY",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "464220",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HITKARNI DHARMASHALA, Mill Rd, Ganj Basoda, Madhya Pradesh 464221",
+    "area": "464220",
+    "latitude": 23.8451494,
+    "longitude": 77.942836,
+    "place_id": "ChIJIR_q5e1XeTkRtUJqDTZH4PY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIR_q5e1XeTkRtUJqDTZH4PY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:46:16"
+  },
+  {
+    "business_name": "New Mahaveer Transport Co. Of Bharat",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "464220",
+    "phone_number": "+91 93008 95454",
+    "website": "https://nmtcindia.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ganj Basoda, Madhya Pradesh 464221",
+    "area": "464220",
+    "latitude": 23.854266,
+    "longitude": 77.9369584,
+    "place_id": "ChIJAQCcaPtXeTkRTwBKI9eJjx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQCcaPtXeTkRTwBKI9eJjx8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:46:18"
+  }
+]

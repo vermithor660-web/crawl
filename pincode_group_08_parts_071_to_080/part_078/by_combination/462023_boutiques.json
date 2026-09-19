@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sakhi Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "462023",
+    "phone_number": "+91 79748 38942",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "5 H, 52, B L Gupta Colony, Ashoka Garden, Bhopal, Madhya Pradesh 462023",
+    "area": "B L Gupta Colony, Ashoka Garden",
+    "latitude": 23.256771399999998,
+    "longitude": 77.43261799999999,
+    "place_id": "ChIJ-fTmKtRDfDkRIFu5Om20HAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fTmKtRDfDkRIFu5Om20HAE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:50:48"
+  },
+  {
+    "business_name": "Polka Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "462023",
+    "phone_number": "+91 92005 94171",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "B-39, beside Dr. Vandana Clinic, ward 43, Ambedkar colony, Old Subhash Nagar, Bhopal, Madhya Pradesh 462023",
+    "area": "ward 43, Ambedkar colony, Old Subhash Nagar",
+    "latitude": 23.249230999999998,
+    "longitude": 77.4362134,
+    "place_id": "ChIJz7thD01DfDkRbe1VMgHwvm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz7thD01DfDkRbe1VMgHwvm4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:50:49"
+  }
+]

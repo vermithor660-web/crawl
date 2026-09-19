@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashok Fruit & Juice Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Confectionery store, Ice cream shop, Soft drinks shop",
+    "pincode": "464221",
+    "phone_number": "+91 95497 01111",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 483,
+    "address": "Ashok Fruit & Juice Centre, behind Amrit Kaur Hospital(Extended Block), Champa Nagar, Beawar, Rajasthan 305901",
+    "area": "Champa Nagar",
+    "latitude": 26.1072852,
+    "longitude": 74.31705099999999,
+    "place_id": "ChIJT6Rozq1waTkRK0mRcFR8O9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6Rozq1waTkRK0mRcFR8O9w",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:47:33"
+  },
+  {
+    "business_name": "NECTAR CAFE",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "464221",
+    "phone_number": "+91 85990 15366",
+    "website": "http://www.nectarcafe.in/",
+    "rating": 4.8,
+    "reviews_count": 85,
+    "address": "Amrit Guest House, Dindayal Chowk, Shiv Dayal Nagar, Harmu Housing Colony, Argora, Ranchi, Jharkhand 834002",
+    "area": "Shiv Dayal Nagar, Harmu Housing Colony, Argora",
+    "latitude": 23.3543319,
+    "longitude": 85.2996991,
+    "place_id": "ChIJsVem8sHj9DkRUTWFVKl_nDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsVem8sHj9DkRUTWFVKl_nDg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:47:33"
+  }
+]

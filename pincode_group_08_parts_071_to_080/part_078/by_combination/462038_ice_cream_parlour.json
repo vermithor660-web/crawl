@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bherunath Icecream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "462038",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sukhi Sewania, Bhopal, Madhya Pradesh 462010",
+    "area": "462038",
+    "latitude": 23.356513,
+    "longitude": 77.485131,
+    "place_id": "ChIJgxaI7-drfDkRUJ56oWakuWI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgxaI7-drfDkRUJ56oWakuWI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:07:49"
+  },
+  {
+    "business_name": "Tirupati Top N Town",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "462038",
+    "phone_number": "+91 755 428 6106",
+    "website": "http://www.topntown.in/",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "19, Berasia Rd, Near Pipal Square, Murli Nagar, Nishatpura, Bhopal, Madhya Pradesh 462038",
+    "area": "Near Pipal Square, Murli Nagar, Nishatpura",
+    "latitude": 23.30047,
+    "longitude": 77.4043086,
+    "place_id": "ChIJMXhL8kJofDkRuT5FKbXnIbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMXhL8kJofDkRuT5FKbXnIbg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:07:51"
+  }
+]

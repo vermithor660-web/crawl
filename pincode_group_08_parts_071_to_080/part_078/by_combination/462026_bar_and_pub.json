@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Club Obello bhopal",
+    "search_category": "Bar and Pub",
+    "primary_category": "Club",
+    "all_categories": "Club, Bar & grill",
+    "pincode": "462026",
+    "phone_number": "+91 90094 44454",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 142,
+    "address": "3rd Floor, Aashima Mall, FC-11, Narmadapuram Rd, Bawadies Kala, Danish Nagar, Bawaria Kalan, Bhopal, Madhya Pradesh 462026",
+    "area": "Bawadies Kala, Danish Nagar, Bawaria Kalan",
+    "latitude": 23.182192999999998,
+    "longitude": 77.4560913,
+    "place_id": "ChIJpROYbJhDfDkRb0wBTwDgUac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpROYbJhDfDkRb0wBTwDgUac",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:54:27"
+  },
+  {
+    "business_name": "Sherwoods - Multi Cuisine Restaurant and Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Eclectic restaurant",
+    "all_categories": "Eclectic restaurant",
+    "pincode": "462026",
+    "phone_number": "+91 92442 91400",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 1188,
+    "address": "Plot No.2/110, Canal Road, near Viceroy Park, Tilak Nagar, Bawadiya Kalan, Gulmohar Colony, Bhopal, Madhya Pradesh 462039",
+    "area": "Tilak Nagar, Bawadiya Kalan, Gulmohar Colony",
+    "latitude": 23.188161299999997,
+    "longitude": 77.4392933,
+    "place_id": "ChIJWyEZPI5DfDkRVKBlHZtS75k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWyEZPI5DfDkRVKBlHZtS75k",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:54:28"
+  }
+]

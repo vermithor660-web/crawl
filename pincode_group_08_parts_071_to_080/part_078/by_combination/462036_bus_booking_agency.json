@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A To Z Communication Services",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Railway Ticket Agent",
+    "all_categories": "Railway Ticket Agent, Airline ticket agency, Cell phone store, Computer service, Courier service, Life insurance agency, Mobile phone repair shop, Print shop, Public utility, Stationery store, Travel services, Typist, Wholesaler",
+    "pincode": "462036",
+    "phone_number": "+91 98270 97860",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "79W3+HP7, Airport Rd, Suvidha Vihar,By Pass, New Central Jail, Gandhi Nagar, Bhopal, Madhya Pradesh 462030",
+    "area": "Suvidha Vihar,By Pass, New Central Jail, Gandhi Nagar",
+    "latitude": 23.296419399999998,
+    "longitude": 77.35429189999999,
+    "place_id": "ChIJd6UTsUpmfDkRLhNW3oPpoUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd6UTsUpmfDkRLhNW3oPpoUc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:04:29"
+  },
+  {
+    "business_name": "Madhya bharat travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus charter",
+    "all_categories": "Bus charter",
+    "pincode": "462036",
+    "phone_number": "+91 87709 47324",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Vallabh Nagar, Block A, Vijay Nagar, Lalghati, Bhopal, Madhya Pradesh 462030",
+    "area": "Vallabh Nagar, Block A, Vijay Nagar, Lalghati",
+    "latitude": 23.2738123,
+    "longitude": 77.3682486,
+    "place_id": "ChIJuSLTJgBnfDkR_utvGJVePQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuSLTJgBnfDkR_utvGJVePQY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:04:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ankush Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Head and neck surgeon",
+    "all_categories": "Head and neck surgeon, Surgeon",
+    "pincode": "462030",
+    "phone_number": "+91 95893 44227",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Avantika Parisar, 2/1, Gufa Mandir Rd, near Domino's pizza, Lalghati Square, Kollu Kheri, Lalghati, Bhopal, Madhya Pradesh 462001",
+    "area": "Lalghati Square, Kollu Kheri, Lalghati",
+    "latitude": 23.2742784,
+    "longitude": 77.37183979999999,
+    "place_id": "ChIJX8v5w91nfDkR85THHgdLbq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX8v5w91nfDkR85THHgdLbq8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:58:41"
+  },
+  {
+    "business_name": "Dr.Rakesh Kumar MBBS, MS .ENT, DHA , MHA . DEAN Academic MC Bhopal",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Otolaryngology clinic",
+    "pincode": "462030",
+    "phone_number": "+91 94243 07170",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "32, 33, Saidham Colony, Plot No. F 31, Netaji Housing Co Op Society, Mahabali Nagar, Neelbad, Bhopal, Madhya Pradesh 462042",
+    "area": "Netaji Housing Co Op Society, Mahabali Nagar, Neelbad",
+    "latitude": 23.1809481,
+    "longitude": 77.4172308,
+    "place_id": "ChIJhSI3kpRDfDkRlQO8svFsL9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhSI3kpRDfDkRlQO8svFsL9w",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:58:41"
+  }
+]

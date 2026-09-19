@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhishek florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Balloon artist, Balloon store, Boutique, Dried flower shop, Flower delivery, Flower designer, Wedding planner, Wedding store",
+    "pincode": "462023",
+    "phone_number": "+91 95849 80267",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 8,
+    "address": "next to Canara Bank, Narela Sankari, Chhatrapati Nagar, Paras Nagar, Ayodhya Bypass, Bhopal, Madhya Pradesh 462041",
+    "area": "Narela Sankari, Chhatrapati Nagar, Paras Nagar, Ayodhya Bypass",
+    "latitude": 23.2676417,
+    "longitude": 77.4674244,
+    "place_id": "ChIJJ5MJRUlpfDkRzYHH8hSUG2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ5MJRUlpfDkRzYHH8hSUG2k",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:51:27"
+  },
+  {
+    "business_name": "Rahul Flower Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "462023",
+    "phone_number": "+91 62628 47576",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No. 01, Piplani, BHEL, Bhopal, Madhya Pradesh 462022",
+    "area": "Piplani, BHEL",
+    "latitude": 23.2392906,
+    "longitude": 77.47304369999999,
+    "place_id": "ChIJSco1LJ5BfDkRklIMZ2KmIno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSco1LJ5BfDkRklIMZ2KmIno",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:51:27"
+  }
+]

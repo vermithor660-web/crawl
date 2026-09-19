@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tirupati Hostel",
+    "search_category": "PG",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "462066",
+    "phone_number": "+91 79878 99738",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "H.No.7, Tirupati Hostel, Bhadbhada Rd, near Radharaman College, near Patel College, Ratibad, Madhya Pradesh 462044",
+    "area": "462066",
+    "latitude": 23.163424,
+    "longitude": 77.332486,
+    "place_id": "ChIJqZ78DEVdfDkRmvAgYr4F9Ts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZ78DEVdfDkRmvAgYr4F9Ts",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:28:13"
+  },
+  {
+    "business_name": "THE INDIAN PG HOSTEL",
+    "search_category": "PG",
+    "primary_category": "Residents association",
+    "all_categories": "Residents association",
+    "pincode": "462066",
+    "phone_number": "+91 88399 41202",
+    "website": "https://sites.google.com/d/1GS0NjxJVrdgJbYGLjR9x6ASszzMqskvF/p/1rmbhm6AuwqcQP6xP6y3Tnc2RXweY7evP/edit",
+    "rating": 4.8,
+    "reviews_count": 32,
+    "address": "A-76, Airport Rd, behind OF FARARI COMPLEX, BSF Colony, Deen Dayal Nagar, Gwalior, Madhya Pradesh 474020",
+    "area": "BSF Colony, Deen Dayal Nagar",
+    "latitude": 26.268472,
+    "longitude": 78.21585259999999,
+    "place_id": "ChIJQ4QiQerBdjkRo7hwFd2MPJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4QiQerBdjkRo7hwFd2MPJE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:28:14"
+  }
+]

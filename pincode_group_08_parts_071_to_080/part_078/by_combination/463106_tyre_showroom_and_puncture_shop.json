@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Meena Enterprises",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "463106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JCHM+45R, Bhopal Rd, Berasia, Tikankhedi, Madhya Pradesh 463106",
+    "area": "463106",
+    "latitude": 23.6278532,
+    "longitude": 77.4328851,
+    "place_id": "ChIJwQmSDwB3fDkRrvH6HPG9WBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQmSDwB3fDkRrvH6HPG9WBk",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:35:16"
+  },
+  {
+    "business_name": "BKT Tyre House (Mudra TYRE)",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "463106",
+    "phone_number": "+91 78793 77888",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Agrawal Dharamshala Building, Chhola Rd, Categorised Market, JP Nagar, Bhopal, Madhya Pradesh 462001",
+    "area": "Categorised Market, JP Nagar",
+    "latitude": 23.270653799999998,
+    "longitude": 77.4120318,
+    "place_id": "ChIJqRYaLiNpfDkRPGA2h2yv7sQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqRYaLiNpfDkRPGA2h2yv7sQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:35:18"
+  }
+]

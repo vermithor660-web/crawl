@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Super Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "462046",
+    "phone_number": "+91 81203 93000",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 312,
+    "address": "Patel Nagar, Industrial Area, Mandideep, Bhopal, Madhya Pradesh 462046",
+    "area": "Patel Nagar, Industrial Area, Mandideep",
+    "latitude": 23.0929385,
+    "longitude": 77.51655699999999,
+    "place_id": "ChIJjyoyTstHfDkR75VDZwl3gyU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjyoyTstHfDkR75VDZwl3gyU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:23:06"
+  },
+  {
+    "business_name": "S.S. MILK PARLOUR",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "462046",
+    "phone_number": "+91 88789 72944",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Nh12, near Bharat Medical, Mandideep, Simrai, Madhya Pradesh 464993",
+    "area": "Mandideep",
+    "latitude": 23.0489423,
+    "longitude": 77.5493211,
+    "place_id": "ChIJK7kQ5sBJfDkRuS1f42F98hU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK7kQ5sBJfDkRuS1f42F98hU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:23:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Moosa Eyecare Center",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "462038",
+    "phone_number": "+91 99812 96524",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "Shop No- 7, Housing Board Square, Berasia Road, Bhopal, Madhya Pradesh 462038",
+    "area": "Gas Quarters, Karond",
+    "latitude": 23.2950151,
+    "longitude": 77.4034867,
+    "place_id": "ChIJB4e_Z15ofDkRCkRjwG0GQYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB4e_Z15ofDkRCkRjwG0GQYo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:08:05"
+  },
+  {
+    "business_name": "Neelkanth Diagnostics Sadhna Eye Care",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "462038",
+    "phone_number": "+91 99714 50295",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "79, New Bhanpur Bridge Rd, Radha Krishna Colony, Karond, Bhopal, Madhya Pradesh 462038",
+    "area": "Radha Krishna Colony, Karond",
+    "latitude": 23.3031178,
+    "longitude": 77.41063869999999,
+    "place_id": "ChIJMYqDkhxpfDkRPhDWxtzyUY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMYqDkhxpfDkRPhDWxtzyUY0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:08:05"
+  }
+]

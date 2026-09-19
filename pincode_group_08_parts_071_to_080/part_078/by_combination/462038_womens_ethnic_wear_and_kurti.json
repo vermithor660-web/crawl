@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shrishti Fashion",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "462038",
+    "phone_number": "+91 98260 62043",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bhawani Dham Phase 2, Shop No 3 Near Canara Bank Ayodhya Bypass, Bhopl, Bhopal, Madhya Pradesh 462041",
+    "area": "Narela Sankari, Chhatrapati Nagar, Paras Nagar, Ayodhya Nagar",
+    "latitude": 23.2678916,
+    "longitude": 77.46752459999999,
+    "place_id": "ChIJL5hXSfhpfDkRQMSU97ELc3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5hXSfhpfDkRQMSU97ELc3c",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:07:53"
+  },
+  {
+    "business_name": "Vedaas Fashion Studio",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "462038",
+    "phone_number": "+91 98106 78177",
+    "website": "https://vedaas.co/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "First Floor, no. 104E & 17A, Sagar High St, K-Sector, Ayodhya Nagar, Bhopal, Madhya Pradesh 462041",
+    "area": "K-Sector, Ayodhya Nagar",
+    "latitude": 23.2799458,
+    "longitude": 77.4530332,
+    "place_id": "ChIJJWNq3YNpfDkRtG4-U_wyOUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJWNq3YNpfDkRtG4-U_wyOUc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:07:53"
+  }
+]

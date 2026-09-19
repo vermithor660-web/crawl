@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahil chicken shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "464221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P6F8+2GP, Sagar Rd, Kasba Bagrod, Madhya Pradesh 464334",
+    "area": "464221",
+    "latitude": 23.7225869,
+    "longitude": 78.2163222,
+    "place_id": "ChIJN7FRQ2VLeTkRfjKoOIvnH7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN7FRQ2VLeTkRfjKoOIvnH7g",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:47:28"
+  },
+  {
+    "business_name": "Maya Machinery Store",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store, Auto parts store",
+    "pincode": "464221",
+    "phone_number": "+91 92007 13779",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Divine Rd, Ichhawar, Madhya Pradesh 466115",
+    "area": "464221",
+    "latitude": 23.0239031,
+    "longitude": 77.0191858,
+    "place_id": "ChIJN-3itK_6fDkRu1zi1N4HtC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN-3itK_6fDkRu1zi1N4HtC0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:47:29"
+  }
+]

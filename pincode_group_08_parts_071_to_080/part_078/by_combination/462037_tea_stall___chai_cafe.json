@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pharmacy chai wala",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "462037",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "behind galla mandi, Bhanpur, Bhopal, Madhya Pradesh 462001",
+    "area": "Bhanpur",
+    "latitude": 23.2897332,
+    "longitude": 77.4140453,
+    "place_id": "ChIJjyBg-qFpfDkRSp5EnghwTPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjyBg-qFpfDkRSp5EnghwTPA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:05:50"
+  },
+  {
+    "business_name": "Teen yaar cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "462037",
+    "phone_number": "+91 97554 37154",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 20,
+    "address": "Shop no. 24&25, Ayodhya Bypass Rd, behind elegant business square, Peoples Campus, Bhanpur, Bhopal, Madhya Pradesh 462037",
+    "area": "Peoples Campus, Bhanpur",
+    "latitude": 23.3026341,
+    "longitude": 77.4244834,
+    "place_id": "ChIJmy016PJpfDkRvH42knsXLkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmy016PJpfDkRvH42knsXLkM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:05:51"
+  }
+]

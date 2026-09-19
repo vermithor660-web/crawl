@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Kirpa Tent House And Kirana Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "464113",
+    "phone_number": "+91 62668 10165",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop N 01 Khamkheda Road Vidisha Khamkheda, Road, Vidisha, Bagri, Madhya Pradesh 464001",
+    "area": "464113",
+    "latitude": 23.568225899999998,
+    "longitude": 77.7679165,
+    "place_id": "ChIJZWI6CRYHfDkRLGyCHOUuXVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZWI6CRYHfDkRLGyCHOUuXVo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:42:02"
+  },
+  {
+    "business_name": "Ashish General store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "464113",
+    "phone_number": "+91 95751 34836",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "shivaji chowk, Vidisha, Madhya Pradesh 464001",
+    "area": "shivaji chowk",
+    "latitude": 23.5223059,
+    "longitude": 77.8060613,
+    "place_id": "ChIJUVSTfAwFfDkR0wdIOpWT-7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUVSTfAwFfDkR0wdIOpWT-7U",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:42:04"
+  }
+]

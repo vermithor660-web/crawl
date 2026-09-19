@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivshankar hardware and electrical",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "462066",
+    "phone_number": "+91 90093 91086",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mungaliya Chhap, Bhopal, Madhya Pradesh 462044",
+    "area": "462066",
+    "latitude": 23.2275459,
+    "longitude": 77.3005044,
+    "place_id": "ChIJNVmcgMRdfDkRPtfH4BzExRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNVmcgMRdfDkRPtfH4BzExRw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:27:51"
+  },
+  {
+    "business_name": "Karan sales",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "462066",
+    "phone_number": "+91 88781 68002",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhauri, Bhopal, Madhya Pradesh 462030",
+    "area": "462066",
+    "latitude": 23.2648631,
+    "longitude": 77.2945127,
+    "place_id": "ChIJvZXE_PVnfDkR-osAO3QyaBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvZXE_PVnfDkR-osAO3QyaBQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:27:51"
+  }
+]

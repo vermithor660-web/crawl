@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sethani Sarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "462042",
+    "phone_number": "+91 98274 49698",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Om Complex, 6, Kolar Rd, opp. Bima Kunj, Aashirwad Colony, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "area": "Aashirwad Colony, Kolar Rd",
+    "latitude": 23.179642599999998,
+    "longitude": 77.41769169999999,
+    "place_id": "ChIJ7a4kys1DfDkRt5FQQEigXf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7a4kys1DfDkRt5FQQEigXf0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:15:39"
+  },
+  {
+    "business_name": "Rang Malhar Boutique in Kolar, Bhopal",
+    "search_category": "Saree Showroom",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Fabric product manufacturer",
+    "pincode": "462042",
+    "phone_number": "+91 98934 22812",
+    "website": "https://rangmalhar.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Guru Kripa Tower, 9, Sarvdharm, Shalimar Garden, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "area": "Sarvdharm, Shalimar Garden, Kolar Rd",
+    "latitude": 23.186234799999998,
+    "longitude": 77.41699249999999,
+    "place_id": "ChIJPcMviwxDfDkRK7ZfPGTZdyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPcMviwxDfDkRK7ZfPGTZdyE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:15:40"
+  }
+]

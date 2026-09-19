@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goyal Pesticides",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "464113",
+    "phone_number": "+91 98936 10005",
+    "website": "http://goyalpesticide.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sanchi Rd, Shastri Nagar, Vidisha, Rangai, Madhya Pradesh 464001",
+    "area": "Shastri Nagar",
+    "latitude": 23.5160889,
+    "longitude": 77.7958766,
+    "place_id": "ChIJcTXLOv8EfDkRC6srTUcO8gw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcTXLOv8EfDkRC6srTUcO8gw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:43:41"
+  },
+  {
+    "business_name": "Yash Pesticides",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "464113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "HQ3X+63R, Bais, Madhya Pradesh 464001",
+    "area": "464113",
+    "latitude": 23.5528147,
+    "longitude": 77.7975948,
+    "place_id": "ChIJQ5jWUwAFfDkRUeAyiJ22zXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ5jWUwAFfDkRUeAyiJ22zXM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:43:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Digital Marketing Agency",
+    "search_category": "SEO Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "464001",
+    "phone_number": "+91 99817 69097",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Digital Marketing Agency, 464001, India",
+    "area": "464001",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJP6QxABNalUERgS2TwNY8YgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP6QxABNalUERgS2TwNY8YgE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:40:07"
+  },
+  {
+    "business_name": "INFO TECH GUIDE DIGITAL MARKETING AGENCY",
+    "search_category": "SEO Agencies",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "464001",
+    "phone_number": "+91 62077 18248",
+    "website": "http://www.infotechguide.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Andar Dhala, near Growth Finance Hub, Shanti Nagar, Siwan, Bihar 841226",
+    "area": "Shanti Nagar",
+    "latitude": 26.212218999999997,
+    "longitude": 84.3533831,
+    "place_id": "ChIJl_xxyvf5kjkRLZYJJkGGoEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_xxyvf5kjkRLZYJJkGGoEE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:40:09"
+  }
+]

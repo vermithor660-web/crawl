@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Job hub hr recruitment agency",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter",
+    "pincode": "462024",
+    "phone_number": "+91 73492 87268",
+    "website": "https://www.jobhubhr.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2nd Floor, SKY ONE, No1, Lunkad Sky Lounge, Kalyani Nagar, Pune, Maharashtra 411006",
+    "area": "Lunkad Sky Lounge, Kalyani Nagar",
+    "latitude": 18.5434633,
+    "longitude": 73.90406209999999,
+    "place_id": "ChIJEdM5s4bBwjsRwIve9WNORwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEdM5s4bBwjsRwIve9WNORwE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:53:48"
+  },
+  {
+    "business_name": "12thMEN Consultant",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "462024",
+    "phone_number": "+91 95844 22424",
+    "website": "http://www.12thmen.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "E4, Arera Colony, Bhopal, Madhya Pradesh 462016",
+    "area": "E-4, Arera Colony",
+    "latitude": 23.2126606,
+    "longitude": 77.4314254,
+    "place_id": "ChIJJ2iDpVlDfDkRw4L9Q-K7i_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2iDpVlDfDkRw4L9Q-K7i_Y",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:53:50"
+  }
+]

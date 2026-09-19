@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky gents beauty parlour",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "464221",
+    "phone_number": "+91 98270 98457",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 29,
+    "address": "Maruti Suzuki showroom, ke pass pass, Lal Bagh, Ganj Basoda, Naseedpur, Madhya Pradesh 464221",
+    "area": "Lal Bagh",
+    "latitude": 23.8649588,
+    "longitude": 77.9451034,
+    "place_id": "ChIJTZW-yv1ZeTkRrn_S-fu1zXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTZW-yv1ZeTkRrn_S-fu1zXA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:48:18"
+  },
+  {
+    "business_name": "Krishna Hair Cutting Salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "464221",
+    "phone_number": "+91 89821 83484",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 15, Bareth Rd, near by St Joseph School, Ganj Basoda, Naseedpur, Madhya Pradesh 464221",
+    "area": "464221",
+    "latitude": 23.8667265,
+    "longitude": 77.9462204,
+    "place_id": "ChIJ6YiWEMJZeTkRpFoboAXdq2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6YiWEMJZeTkRpFoboAXdq2A",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:48:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHRI RADHE KRISHNA ENTERPRISES",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "462100",
+    "phone_number": "+91 70671 72525",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 01, Geetanjali Collage, PGBT College Rd, Sri Nagar Colony, Bhopal, Madhya Pradesh 462100",
+    "area": "Sri Nagar Colony",
+    "latitude": 23.2808365,
+    "longitude": 77.3998055,
+    "place_id": "ChIJOXmTmEJpfDkRZmP-N_12KUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOXmTmEJpfDkRZmP-N_12KUQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:30:21"
+  },
+  {
+    "business_name": "Excellence It Services",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service",
+    "pincode": "462100",
+    "phone_number": "+91 98671 41988",
+    "website": "https://excellenceitservices.com/",
+    "rating": 4.9,
+    "reviews_count": 758,
+    "address": "Office No 15, Chandrabhaga C H S, Plot No 14, Sector 35, Kamothe, Panvel, Maharashtra 410209",
+    "area": "Sector 35, Kamothe, Panvel",
+    "latitude": 19.022565,
+    "longitude": 73.088225,
+    "place_id": "ChIJWezF29fp5zsRth3QscC0T80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWezF29fp5zsRth3QscC0T80",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:30:22"
+  }
+]

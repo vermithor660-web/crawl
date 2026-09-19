@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tribhuvan Restaurant and Cafe Pure Veg",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "462022",
+    "phone_number": "+91 90398 93317",
+    "website": "https://www.instagram.com/tribhuvan_restaurant_and_cafe?igsh=MTZkcmdwZG1hdXJwNQ==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5GH6+2J6, NH-46, Bhopal Byp, in front of Indian oil Petrol pump, near Maa sharda warehouse, Barrai, Bhopal, Madhya Pradesh 462043",
+    "area": "462022",
+    "latitude": 23.177587799999998,
+    "longitude": 77.5113863,
+    "place_id": "ChIJq7ZJB9FBfDkRfpMvNnm7op8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq7ZJB9FBfDkRfpMvNnm7op8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:48:34"
+  },
+  {
+    "business_name": "Vinayak Veg family Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Breakfast restaurant, Family restaurant",
+    "pincode": "462022",
+    "phone_number": "+91 99267 04783",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 334,
+    "address": "6GQ6+VQ5, Khajurikala, Bhopal, Madhya Pradesh 462022",
+    "area": "Khajurikala",
+    "latitude": 23.239639099999998,
+    "longitude": 77.5119781,
+    "place_id": "ChIJJeetQcpBfDkRHXYy3-cuswo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJeetQcpBfDkRHXYy3-cuswo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:48:37"
+  }
+]

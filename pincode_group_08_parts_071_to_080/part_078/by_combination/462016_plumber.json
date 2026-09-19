@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goeasy household service and maintenance",
+    "search_category": "Plumber",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "462016",
+    "phone_number": "+91 90097 75566",
+    "website": "https://www.goeasyservices.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6FJ5+M5G, Kalibadi Rd, near Natraj Petrol Pump, Sector A, Berkheda, Bhopal, Madhya Pradesh 462001",
+    "area": "Sector A, Berkheda",
+    "latitude": 23.2316875,
+    "longitude": 77.4579375,
+    "place_id": "ChIJSXIlA7ULTSURA3AUh_QXqOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSXIlA7ULTSURA3AUh_QXqOg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:45:32"
+  },
+  {
+    "business_name": "VRENOVATE IN",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Appliance repair service, Bathroom remodeler, Carpenter, Electrician, Interior designer, Kitchen remodeler, Real Estate Builders & Construction Company, Repair service",
+    "pincode": "462016",
+    "phone_number": "+91 92447 74122",
+    "website": "https://vrenovate.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Building no 2, 1st Floor, Ishwar Nagar, Gulmohar Colony, Bhopal, Madhya Pradesh 462039",
+    "area": "Ishwar Nagar, Gulmohar Colony",
+    "latitude": 23.1930797,
+    "longitude": 77.43872569999999,
+    "place_id": "ChIJp2xyI_1DfDkR2_KcIr5a8Qo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp2xyI_1DfDkR2_KcIr5a8Qo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:45:34"
+  }
+]

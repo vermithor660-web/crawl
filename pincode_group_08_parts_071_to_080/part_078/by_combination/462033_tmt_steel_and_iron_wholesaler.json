@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alfa Steel",
+    "search_category": "TMT Steel and Iron Wholesaler",
+    "primary_category": "Steel distributor",
+    "all_categories": "Steel distributor, Iron & Steel Store, Pipe supplier",
+    "pincode": "462033",
+    "phone_number": "+91 99728 01023",
+    "website": "https://alfasteels.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Naaz Complex, 1/2, 3rd Cross Rd, Kumbarpet, Kalasipalyam New Extension, Kalasipalya, Bengaluru, Karnataka 560002",
+    "area": "Kumbarpet, Kalasipalyam New Extension, Kalasipalya",
+    "latitude": 12.962852,
+    "longitude": 77.5821126,
+    "place_id": "ChIJbYyhtQ4-rjsR4UFiBPuwp_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbYyhtQ4-rjsR4UFiBPuwp_E",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:02:46"
+  },
+  {
+    "business_name": "TMT Suppliers",
+    "search_category": "TMT Steel and Iron Wholesaler",
+    "primary_category": "Iron & Steel Store",
+    "all_categories": "Iron & Steel Store",
+    "pincode": "462033",
+    "phone_number": "+91 79827 59388",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SHOP-28, Ashok Marg, C Scheme, Ashok Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "C Scheme, Ashok Nagar",
+    "latitude": 26.915325199999998,
+    "longitude": 75.8014647,
+    "place_id": "ChIJVxGpNgG0bTkRYvcYqIUv5ZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVxGpNgG0bTkRYvcYqIUv5ZY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:02:49"
+  }
+]

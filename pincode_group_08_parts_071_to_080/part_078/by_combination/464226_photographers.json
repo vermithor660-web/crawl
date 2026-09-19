@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivay photography",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "464226",
+    "phone_number": "+91 79992 56219",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sanchi, Madhya Pradesh 464661",
+    "area": "464226",
+    "latitude": 23.487316399999997,
+    "longitude": 77.7418306,
+    "place_id": "ChIJser9FvUPfDkR7-Lw8oYHmkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJser9FvUPfDkR7-Lw8oYHmkg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:52:02"
+  },
+  {
+    "business_name": "giftscape",
+    "search_category": "Photographers",
+    "primary_category": "Photographer",
+    "all_categories": "Photographer",
+    "pincode": "464226",
+    "phone_number": "+91 79748 21676",
+    "website": "http://giftscape.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shastri Nagar, Mendki, Vidisha, Madhya Pradesh 464001",
+    "area": "Shastri Nagar",
+    "latitude": 23.515317,
+    "longitude": 77.79512849999999,
+    "place_id": "ChIJPcY3VNkFfDkRaqM9_2VOHx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPcY3VNkFfDkRaqM9_2VOHx4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:52:02"
+  }
+]

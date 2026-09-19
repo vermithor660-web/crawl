@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devicezon",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer Hardware Company, Computer networking service, Computer service, Computer software store, Computer store, Computer support and services, Computer Wholesaler, Used computer store",
+    "pincode": "462022",
+    "phone_number": "+91 91118 88422",
+    "website": "http://www.devicezon.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No, B-17, Narmadapuram Rd, near Aashima Mall, Chinar Fortune City, Bhopal, Madhya Pradesh 462026",
+    "area": "Chinar Fortune City",
+    "latitude": 23.179181,
+    "longitude": 77.455522,
+    "place_id": "ChIJDUQZWHE2fDkRXsEmvuFbgXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDUQZWHE2fDkRXsEmvuFbgXo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:49:49"
+  },
+  {
+    "business_name": "DM Tech Supports",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Mobile phone repair shop",
+    "pincode": "462022",
+    "phone_number": "+91 91318 05646",
+    "website": "https://www.dmtechsupports.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "5, near Gourav Dairy, Jubali Gate, Sector C, Indrapuri, Bhopal, Madhya Pradesh 462022",
+    "area": "Jubali Gate, Sector C, Indrapuri",
+    "latitude": 23.2518896,
+    "longitude": 77.4645812,
+    "place_id": "ChIJJ6ZkRjVpfDkR5GJJgCjKTYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6ZkRjVpfDkR5GJJgCjKTYU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:49:49"
+  }
+]

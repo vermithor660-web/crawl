@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "manish pathology lab",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Blood testing service",
+    "all_categories": "Blood testing service",
+    "pincode": "462024",
+    "phone_number": "+91 94259 99012",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 27,
+    "address": "barkheda, pathani, bhel, Bhopal, Madhya Pradesh 462022",
+    "area": "bhel",
+    "latitude": 23.2143964,
+    "longitude": 77.4731726,
+    "place_id": "ChIJ30w74ExBfDkR1Yj80rweM1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ30w74ExBfDkR1Yj80rweM1s",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:52:49"
+  },
+  {
+    "business_name": "General diagnostic blood collection center",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Blood testing service",
+    "all_categories": "Blood testing service",
+    "pincode": "462024",
+    "phone_number": "+91 91790 04949",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "150, 2, near guru dwara, Saket Nagar, Habib Ganj, Bhopal, Madhya Pradesh 462024",
+    "area": "Saket Nagar, Habib Ganj",
+    "latitude": 23.216417,
+    "longitude": 77.45823,
+    "place_id": "ChIJnZ7691JDfDkRntCa0zB7Q2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnZ7691JDfDkRntCa0zB7Q2c",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:52:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sabji mandi",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "462022",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6F8C+RPJ Pathania chauraha, Laharpur Rd, Barkhera Pathani, Bhopal, Madhya Pradesh 462022",
+    "area": "Barkhera Pathani",
+    "latitude": 23.2170444,
+    "longitude": 77.4715791,
+    "place_id": "ChIJpeALjRZBfDkRoOdq_lyTVZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpeALjRZBfDkRoOdq_lyTVZA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:50:18"
+  },
+  {
+    "business_name": "Bhopal mandi (day)",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "462022",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1.5,
+    "reviews_count": 2,
+    "address": "Princeton House, 1, Kasturba Market, N-2, Habib Ganj, Bhopal, Madhya Pradesh 462024",
+    "area": "Kasturba Market, N-2, Habib Ganj",
+    "latitude": 23.223407899999998,
+    "longitude": 77.4442765,
+    "place_id": "ChIJuRANEABDfDkR5PhO1dYv6ck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuRANEABDfDkR5PhO1dYv6ck",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:50:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chhola Bazar",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "462011",
+    "phone_number": "+91 74156 07503",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 863,
+    "address": "7CG8+W54, Main Rd, Kainchi Chola, Navjivan Colony, Bhanpur, Bhopal, Madhya Pradesh 462001",
+    "area": "Kainchi Chola, Navjivan Colony, Bhanpur",
+    "latitude": 23.277263299999998,
+    "longitude": 77.41545889999999,
+    "place_id": "ChIJDy0o0zdofDkRyY1GjbLZ5jA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDy0o0zdofDkRyY1GjbLZ5jA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:44:39"
+  },
+  {
+    "business_name": "Kasturba Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Wholesale Market / Mandi",
+    "all_categories": "Wholesale Market / Mandi",
+    "pincode": "462011",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "N-2, Habib Ganj, Bhopal, Madhya Pradesh 462024",
+    "area": "Kasturba Market, N-2, Habib Ganj",
+    "latitude": 23.222743299999998,
+    "longitude": 77.4447393,
+    "place_id": "ChIJV_dHcUhCfDkR5z_6JgkTNbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_dHcUhCfDkR5z_6JgkTNbY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:44:39"
+  }
+]

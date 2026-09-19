@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Glass House",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop, Hardware store",
+    "pincode": "464113",
+    "phone_number": "+91 94068 57542",
+    "website": "https://jsdl.in/DT-99QIMMAQMIY",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Nayapura Rd, Dhan Mandi, Mandsaur, Madhya Pradesh 458002",
+    "area": "Dhan Mandi",
+    "latitude": 24.0635048,
+    "longitude": 75.0684109,
+    "place_id": "ChIJR5N-r-QtZDkRIde_oBnDSiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR5N-r-QtZDkRIde_oBnDSiA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:42:48"
+  },
+  {
+    "business_name": "Royal Glass Design",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop, Hardware store",
+    "pincode": "464113",
+    "phone_number": "+91 94393 68086",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "63, Cuttack - Puri Rd, Near Fly Over Bridge, Jharapada, Bhubaneswar, Odisha 751006",
+    "area": "Jharapada",
+    "latitude": 20.276699999999998,
+    "longitude": 85.85348359999999,
+    "place_id": "ChIJuVSU_KugGToRoDxybRAkfVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuVSU_KugGToRoDxybRAkfVM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:42:48"
+  }
+]

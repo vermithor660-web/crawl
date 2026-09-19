@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AMC - Akssons Multispeciality Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Medical Center",
+    "pincode": "462043",
+    "phone_number": "+91 99204 54333",
+    "website": "https://www.akssonshealthcare.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 2&3 Ground Floor And Basement, Acme Ozone, Khewra Circle Rd, Manpada, Thane West, Mumbai, Thane, Maharashtra 400610",
+    "area": "Manpada, Thane West",
+    "latitude": 19.2325257,
+    "longitude": 72.9717884,
+    "place_id": "ChIJr_OeY7y75zsR7ZvW4J8hrno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr_OeY7y75zsR7ZvW4J8hrno",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:17:57"
+  },
+  {
+    "business_name": "Wellcare Medical Center",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "462043",
+    "phone_number": "+91 755 352 7921",
+    "website": "https://www.wellcaremedicalcenter.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "b288, in front of Bansal hospital, opposite MPEB office, Nabard Officers Colony, Sector A, Shahpura, Bhopal, Madhya Pradesh 462039",
+    "area": "Nabard Officers Colony, Sector A, Shahpura",
+    "latitude": 23.199759999999998,
+    "longitude": 77.42171789999999,
+    "place_id": "ChIJ86JGwU9DfDkRcKfuKwD1370",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ86JGwU9DfDkRcKfuKwD1370",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:17:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky Enterprises",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Appliance store",
+    "pincode": "463111",
+    "phone_number": "+91 97706 33500",
+    "website": "https://www.instagram.com/lucky_e_bike?igsh=MXN1a3JhMXR6c2V6eQ==",
+    "rating": 4.9,
+    "reviews_count": 29,
+    "address": "Shop No 02, Ward No 08, mahaneem Chouraha, Post, बमूरी, Dangarwada, Karahiya, Madhya Pradesh 464111",
+    "area": "बमूरी",
+    "latitude": 23.8115517,
+    "longitude": 77.53802069999999,
+    "place_id": "ChIJzwUj5ASNezkRuIuy76eI-b0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzwUj5ASNezkRuIuy76eI-b0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:37:14"
+  },
+  {
+    "business_name": "Baba Cycle Service",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "463111",
+    "phone_number": "+91 91655 47105",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 01, Basoda Road, in front of Depika Mobile Shop, Pipaldhar, Bhaironbag, Madhya Pradesh 464113",
+    "area": "463111",
+    "latitude": 23.748430799999998,
+    "longitude": 77.64699019999999,
+    "place_id": "ChIJIe_9yyzzezkRiUo34Aux_-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIe_9yyzzezkRiUo34Aux_-s",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:37:14"
+  }
+]

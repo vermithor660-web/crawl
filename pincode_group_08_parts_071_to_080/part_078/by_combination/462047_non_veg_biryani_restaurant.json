@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HAPPY'S RESTUARANT (VEG AND NONVEG)",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "462047",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "bhel, Pakshi Vihar, Berkheda, Bhopal, Madhya Pradesh 462022",
+    "area": "Pakshi Vihar, Berkheda",
+    "latitude": 23.2183833,
+    "longitude": 77.4756252,
+    "place_id": "ChIJkxB7JnJBfDkRhBbfSG6vk0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkxB7JnJBfDkRhBbfSG6vk0M",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:25:15"
+  },
+  {
+    "business_name": "Surya Dhaba",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant",
+    "pincode": "462047",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "5GV6+89J, Jhagaria,raisen by pass, Madhya Pradesh 462022",
+    "area": "462047",
+    "latitude": 23.1933406,
+    "longitude": 77.5108821,
+    "place_id": "ChIJ8SpnhtVBfDkRUFEGqIREoV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8SpnhtVBfDkRUFEGqIREoV8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:25:15"
+  }
+]

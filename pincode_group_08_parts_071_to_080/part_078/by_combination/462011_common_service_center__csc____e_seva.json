@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tamilnadu e-Sevai centre",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "462011",
+    "phone_number": "+91 1800 425 1333",
+    "website": "https://www.tnesevai.tn.gov.in/Citizen/PortalLogin.aspx",
+    "rating": 2.6,
+    "reviews_count": null,
+    "address": "3, Sydenhams Rd, Subramania Salai, Periamet, Kannappar Thidal, Chennai, Tamil Nadu 600003",
+    "area": "Periamet, Kannappar Thidal",
+    "latitude": 13.08725,
+    "longitude": 80.270139,
+    "place_id": "ChIJZ369kM5lUjoRIEDYwRJP8Zo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ369kM5lUjoRIEDYwRJP8Zo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:44:08"
+  },
+  {
+    "business_name": "Krishna Enterprises CSC centre Thaltej",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Computer networking service",
+    "all_categories": "Computer networking service",
+    "pincode": "462011",
+    "phone_number": "+91 81888 08768",
+    "website": "https://krishna-enterprises-csc.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Krishna enterprises, Hinglaj Complex, thaltej gam, Ahmedabad, Gujarat 380059",
+    "area": "thaltej gam",
+    "latitude": 23.050148999999998,
+    "longitude": 72.5106497,
+    "place_id": "ChIJ-ZFMeQCbXjkRjrDahni1THA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ZFMeQCbXjkRjrDahni1THA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:44:09"
+  }
+]

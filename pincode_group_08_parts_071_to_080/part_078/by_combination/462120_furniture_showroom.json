@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Godrej Interio",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Kitchen furniture store, Kitchen remodeler, Mattress store, Office furniture store",
+    "pincode": "462120",
+    "phone_number": "+91 98260 24029",
+    "website": "https://www.godrejinterio.com/",
+    "rating": 4.1,
+    "reviews_count": 188,
+    "address": "Gangotri Complex, New Market, STT Nagar, TT Nagar, Bhopal, Madhya Pradesh 462003",
+    "area": "New Market, STT Nagar, TT Nagar",
+    "latitude": 23.2346948,
+    "longitude": 77.39817479999999,
+    "place_id": "ChIJ0VJNKLxCfDkRW8VO56XezA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0VJNKLxCfDkRW8VO56XezA0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:33:44"
+  },
+  {
+    "business_name": "Rentbuddy - FURNITURE & APPLIANCES RENTAL SERVICES",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture Rental Store",
+    "all_categories": "Furniture Rental Store",
+    "pincode": "462120",
+    "phone_number": "+91 87705 42530",
+    "website": "https://rentbuddy.in/",
+    "rating": 4.6,
+    "reviews_count": 16,
+    "address": "House No. 81, behind DRM Office, near Vyanjan Restaurant, Sector 1 Shakti Nagar, Shakti Nagar, Habib Ganj, Bhopal, Madhya Pradesh 462026",
+    "area": "Sector 1 Shakti Nagar, Shakti Nagar, Habib Ganj",
+    "latitude": 23.217188,
+    "longitude": 77.4489226,
+    "place_id": "ChIJT4flZldDfDkRGzLgwqGEalE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT4flZldDfDkRGzLgwqGEalE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:33:47"
+  }
+]

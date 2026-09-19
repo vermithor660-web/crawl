@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Ajay kumar Dermatologist",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist",
+    "pincode": "462041",
+    "phone_number": "+91 93407 88869",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Apurva Enclave, opp. Bhavani Dham Phase 1, Narela Sankari, Chhatrapati Nagar, Narela zode, Ayodhya Bypass, Bhopal, Madhya Pradesh 462041",
+    "area": "Narela Sankari, Chhatrapati Nagar, Narela zode, Ayodhya Bypass",
+    "latitude": 23.2685302,
+    "longitude": 77.46654529999999,
+    "place_id": "ChIJ5XFLCyNpfDkRQYDIyLfAG08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5XFLCyNpfDkRQYDIyLfAG08",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:13:56"
+  },
+  {
+    "business_name": "Skinport Bhopal - Advance Hair Laser Studio",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Laser hair removal service",
+    "all_categories": "Laser hair removal service",
+    "pincode": "462041",
+    "phone_number": "+91 98261 06663",
+    "website": "https://skinport.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "80-81, First Floor, Minal Mall, JK Rd, Minal Residency, Bhopal, Madhya Pradesh 462023",
+    "area": "Minal Residency",
+    "latitude": 23.2688177,
+    "longitude": 77.4573614,
+    "place_id": "ChIJOyyeeaZpfDkRtBXY0Iv_Img",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOyyeeaZpfDkRtBXY0Iv_Img",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:13:58"
+  }
+]

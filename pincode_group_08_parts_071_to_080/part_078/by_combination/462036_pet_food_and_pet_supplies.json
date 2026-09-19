@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goswami pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "462036",
+    "phone_number": "+91 88278 36911",
+    "website": "https://www.instagram.com/goswami_pet_shop_1120?igsh=bjlvbDR1bmUzdTR0",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no 01, Lalghati Chouraha, Vijay Nagar, Lalghati, Bhopal, Madhya Pradesh 462030",
+    "area": "Lalghati Chouraha, Vijay Nagar, Lalghati",
+    "latitude": 23.2742899,
+    "longitude": 77.36994659999999,
+    "place_id": "ChIJycbjxsVnfDkR2yILIqF_aeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJycbjxsVnfDkR2yILIqF_aeU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:03:52"
+  },
+  {
+    "business_name": "Bark N Bite Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet store",
+    "pincode": "462036",
+    "phone_number": "+91 80065 53393",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 196,
+    "address": "134, Chakrata Rd, opposite Doon School, Bindaal Pal, Khurbura Mohalla, Dehradun, Uttarakhand 248001",
+    "area": "Bindaal Pal, Khurbura Mohalla",
+    "latitude": 30.3296666,
+    "longitude": 78.03039179999999,
+    "place_id": "ChIJVy0Fd5IpCTkR_tWsStki8l4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVy0Fd5IpCTkR_tWsStki8l4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:03:54"
+  }
+]

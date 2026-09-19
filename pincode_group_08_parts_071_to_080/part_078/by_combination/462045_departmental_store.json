@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mansi General Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "462045",
+    "phone_number": "+91 95794 64081",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Radhapuram Colony, Indus Towne, Srikrishnapuram, Bhopal, Madhya Pradesh 462046",
+    "area": "Radhapuram Colony, Indus Towne, Srikrishnapuram",
+    "latitude": 23.1214934,
+    "longitude": 77.4947808,
+    "place_id": "ChIJO9Y39PlHfDkRNY7KsrvZF5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO9Y39PlHfDkRNY7KsrvZF5w",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:21:15"
+  },
+  {
+    "business_name": "Rahul Stationery & General Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store, Grocery store",
+    "pincode": "462045",
+    "phone_number": "+91 96444 57313",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Patel Nagar, Ward Number 21, Mandideep, Bhopal, Madhya Pradesh 462046",
+    "area": "Patel Nagar, Ward Number 21, Mandideep",
+    "latitude": 23.092618299999998,
+    "longitude": 77.5193958,
+    "place_id": "ChIJZYpJhstHfDkRWVr9CTkdRbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZYpJhstHfDkRWVr9CTkdRbM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:21:15"
+  }
+]

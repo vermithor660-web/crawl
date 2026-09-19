@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amrit Consultancy Pvt Ltd",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "462002",
+    "phone_number": "N/A",
+    "website": "http://www.amritconsultancy.com/",
+    "rating": 4.4,
+    "reviews_count": 28,
+    "address": "153, Guru Arcade, Ram Gopal Maheshwari Marg, Near City Bank, Zone-I, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "Near City Bank, Zone-I, Maharana Pratap Nagar",
+    "latitude": 23.2349908,
+    "longitude": 77.43418249999999,
+    "place_id": "ChIJ02HKVwdDfDkRVbGZiwTiPkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02HKVwdDfDkRVbGZiwTiPkw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:34:21"
+  },
+  {
+    "business_name": "Chouhan & company",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "462002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Zone 2, Sudarshan Palace, Plot No. 196, Mp Nagar Zon 2, M P Nagar, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "M P Nagar, Maharana Pratap Nagar",
+    "latitude": 23.2279417,
+    "longitude": 77.4375056,
+    "place_id": "ChIJ7d0TFENCfDkRh5bU6cV2iFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7d0TFENCfDkRh5bU6cV2iFk",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:34:21"
+  }
+]

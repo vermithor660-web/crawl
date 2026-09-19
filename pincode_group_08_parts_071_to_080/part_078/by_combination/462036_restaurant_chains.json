@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chilli & Cheese",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe",
+    "pincode": "462036",
+    "phone_number": "+91 89538 16919",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 322,
+    "address": "Shop W-12, G floor, Siddharaj Z Square, Gandhi Nagar, Kudasan, Gandhinagar, Gujarat 382421",
+    "area": "Gandhi Nagar, Kudasan",
+    "latitude": 23.1749396,
+    "longitude": 72.6295512,
+    "place_id": "ChIJwRFUluIrXDkRPJjlYgX0B5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwRFUluIrXDkRPJjlYgX0B5A",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:04:01"
+  },
+  {
+    "business_name": "Punjabi tadka family restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "462036",
+    "phone_number": "+91 91049 95022",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 710,
+    "address": "Punjabi tadka, near hotel Siddharth inn, Vavol, Gandhinagar, Gujarat 382016",
+    "area": "Vavol",
+    "latitude": 23.2337116,
+    "longitude": 72.6186139,
+    "place_id": "ChIJl-cB0GQrXDkRVBe5zYc6TMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-cB0GQrXDkRVBe5zYc6TMY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:04:01"
+  }
+]

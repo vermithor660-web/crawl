@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manish Traders",
+    "search_category": "Granite Dealer",
+    "primary_category": "Marble contractor",
+    "all_categories": "Marble contractor, Stone supplier, Tile store",
+    "pincode": "462038",
+    "phone_number": "+91 755 273 4671",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7CQ3+X7Q, Berasia Rd, Devki Nagar, Karond, Bhopal, Madhya Pradesh 462038",
+    "area": "Devki Nagar, Karond",
+    "latitude": 23.2899741,
+    "longitude": 77.4032251,
+    "place_id": "ChIJ89vzEV1ofDkRFo_GA60Ns04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ89vzEV1ofDkRFo_GA60Ns04",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:08:25"
+  },
+  {
+    "business_name": "Neelam Marbles",
+    "search_category": "Granite Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Hardware store, Marble contractor",
+    "pincode": "462038",
+    "phone_number": "+91 94793 12866",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "146 Berasia Rd Green Park Colony, Chouksey Nagar, Qazi Camp, Bhopal, Madhya Pradesh 462001",
+    "area": "DIG Bunglow, Chouksey Nagar, Qazi Camp",
+    "latitude": 23.277025599999998,
+    "longitude": 77.40302559999999,
+    "place_id": "ChIJVQEInj9ofDkR0C0OUVOPx-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQEInj9ofDkR0C0OUVOPx-Y",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:08:27"
+  }
+]

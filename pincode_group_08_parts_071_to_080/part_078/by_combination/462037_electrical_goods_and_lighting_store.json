@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sineco Mart",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Wholesaler household appliances",
+    "all_categories": "Wholesaler household appliances, Electrical products wholesaler, Electronics manufacturer, Light bulb supplier",
+    "pincode": "462037",
+    "phone_number": "+91 88396 30975",
+    "website": "N/A",
+    "rating": 2.1,
+    "reviews_count": 22,
+    "address": "Plot No 58, Mittal College Road, in front of Royal Homes, Bhopal, Madhya Pradesh 462038",
+    "area": "Sukh Sagar Phase 4, Bhanpur",
+    "latitude": 23.3086047,
+    "longitude": 77.4170548,
+    "place_id": "ChIJ4Vc_ljppfDkRf5wOFO2lwCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Vc_ljppfDkRf5wOFO2lwCo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:06:29"
+  },
+  {
+    "business_name": "Anukya Technologies",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics manufacturer",
+    "all_categories": "Electronics manufacturer, Electrical equipment supplier, Electrical products wholesaler, Electronics Company, Electronics wholesaler, Light bulb supplier, Lighting manufacturer, Lighting store, Lighting products wholesaler, Research and product development",
+    "pincode": "462037",
+    "phone_number": "+91 93404 05953",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2nd Floor, Shikha Tower 80ft, Overbridge Road, opp. HP Petro; Pump, Chola, Bhopal, Madhya Pradesh 462001",
+    "area": "Chola, Bhanpur",
+    "latitude": 23.2918563,
+    "longitude": 77.4152142,
+    "place_id": "ChIJ7ZCkQc1pfDkRgpfauYMpEw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7ZCkQc1pfDkRgpfauYMpEw8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:06:32"
+  }
+]

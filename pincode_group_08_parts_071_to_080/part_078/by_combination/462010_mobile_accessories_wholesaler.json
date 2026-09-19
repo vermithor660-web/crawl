@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mobile Shop",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Electronics wholesaler, Mobile phone repair shop",
+    "pincode": "462010",
+    "phone_number": "+91 99810 45014",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "17/2 Sunita Tower, Bhawani dham, Nizamuddin Rd, Bhopal, Madhya Pradesh 462041",
+    "area": "Bhawani Dham, Phase 2, Paras Nagar, Ayodhya Nagar",
+    "latitude": 23.266987099999998,
+    "longitude": 77.46703099999999,
+    "place_id": "ChIJAb15CuNpfDkR8UINnN5mLV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAb15CuNpfDkR8UINnN5mLV0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:42:13"
+  },
+  {
+    "business_name": "Rajak Mobile",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store, Cell phone store, Mobile phone repair shop",
+    "pincode": "462010",
+    "phone_number": "+91 79999 86536",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mig 34, A Sector, Sonagiri, Bhopal, Madhya Pradesh 462022",
+    "area": "A Sector, Sonagiri",
+    "latitude": 23.2508622,
+    "longitude": 77.47157539999999,
+    "place_id": "ChIJqYsrcuBBfDkRB9h1vh4HWzI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqYsrcuBBfDkRB9h1vh4HWzI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:42:13"
+  }
+]

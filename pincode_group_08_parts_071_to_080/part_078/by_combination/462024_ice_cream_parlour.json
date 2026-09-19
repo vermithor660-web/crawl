@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Top N Town - Om Bakery & Ice Cream Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "462024",
+    "phone_number": "+91 755 404 6600",
+    "website": "http://www.topntown.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "179, 9B Saket Nagar, Habib Ganj, Bhopal, Madhya Pradesh 462024",
+    "area": "9B Saket Nagar, Habib Ganj",
+    "latitude": 23.2090282,
+    "longitude": 77.44929259999999,
+    "place_id": "ChIJi2uolnxDfDkRYo39caGJoUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi2uolnxDfDkRYo39caGJoUE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:52:32"
+  },
+  {
+    "business_name": "Naturals Ice Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Sweet shop, Dessert restaurant, Dessert shop, Frozen dessert supplier, Indian sweets shop",
+    "pincode": "462024",
+    "phone_number": "+91 91750 11819",
+    "website": "https://naturalicecreams.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "S17, Karishma HSG SOC, Shop No. 8, 2, Karve Rd, near SANGAM PRESS, Kothrud, Pune, Maharashtra 411038",
+    "area": "Kothrud Industrial Area, Kothrud",
+    "latitude": 18.5033167,
+    "longitude": 73.8216235,
+    "place_id": "ChIJqySfZcC_wjsRZbJ2MClvLHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqySfZcC_wjsRZbJ2MClvLHE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:52:34"
+  }
+]

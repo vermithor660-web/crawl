@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yoga class",
+    "search_category": "Yoga Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "462031",
+    "phone_number": "+91 94065 40594",
+    "website": "https://rejuvenate-yoga.netlify.app/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Building No 81, Post 3EME centre, Raksha Vihar, Sector C, Bairagarh, Bhopal, Madhya Pradesh 462031",
+    "area": "Raksha Vihar, Sector C, Bairagarh",
+    "latitude": 23.3010509,
+    "longitude": 77.3179519,
+    "place_id": "ChIJg0sljpRnfDkRdzo2DNli88o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg0sljpRnfDkRdzo2DNli88o",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:00:41"
+  },
+  {
+    "business_name": "Inner Warriors Zumba and Fitness studio",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "462031",
+    "phone_number": "+91 89594 06516",
+    "website": "https://www.instagram.com/invites/contact/?igsh=hmrehfa2a9ah&utm_content=vogo4os",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H 10, opposite Mukita international school, Behata, Bairagarh, Bhopal, Madhya Pradesh 462030",
+    "area": "Behata, Bairagarh",
+    "latitude": 23.2671657,
+    "longitude": 77.33688959999999,
+    "place_id": "ChIJj5rtBexnfDkREdz9N0D7X4k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj5rtBexnfDkREdz9N0D7X4k",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:00:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHREEJI MEDICAL STORE",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "462042",
+    "phone_number": "+91 99816 19855",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Shop no. 3, A-Sector Banjari, near Dussehra maidan, Banjari Colony, Aashirwad Colony, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "area": "Banjari Colony, Aashirwad Colony, Kolar Rd",
+    "latitude": 23.1774314,
+    "longitude": 77.4164393,
+    "place_id": "ChIJIZJdjV5DfDkRvCQHB4gRlYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIZJdjV5DfDkRvCQHB4gRlYw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:15:58"
+  },
+  {
+    "business_name": "Kolar Medical & Surgical",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Surgical supply store",
+    "pincode": "462042",
+    "phone_number": "+91 755 422 8555",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 4,
+    "address": "Shop No 4 C 30, Kolar Road Beside J.K. Hospital, Sector C Sarvdharm, Shirdipuram, Bhopal, Madhya Pradesh 462042",
+    "area": "Shirdipuram, Kolar Rd",
+    "latitude": 23.1795942,
+    "longitude": 77.4264934,
+    "place_id": "ChIJLSxlfZ5DfDkRYEKsTtARYuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLSxlfZ5DfDkRYEKsTtARYuM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:16:00"
+  }
+]

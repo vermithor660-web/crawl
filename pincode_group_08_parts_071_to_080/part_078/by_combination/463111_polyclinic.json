@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chahak Child Care Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Pediatrician",
+    "pincode": "463111",
+    "phone_number": "+91 70498 55446",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Block No.3, MIG 11, Ratnagiri, Piplani, BHEL, Bhopal, Madhya Pradesh 462022",
+    "area": "Ratnagiri, Piplani, BHEL",
+    "latitude": 23.250688699999998,
+    "longitude": 77.47968689999999,
+    "place_id": "ChIJpdqQ9HNBfDkRtJ_QbY0TaSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpdqQ9HNBfDkRtJ_QbY0TaSg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:37:05"
+  },
+  {
+    "business_name": "Bhopal Medical Agencies",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "463111",
+    "phone_number": "+91 755 420 2178",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G-11/A, Hamidia Rd, Ibrahimganj, Bhopal, Madhya Pradesh 462001",
+    "area": "Ibrahimganj",
+    "latitude": 23.265449,
+    "longitude": 77.40482399999999,
+    "place_id": "ChIJXRcZ2zxofDkRCBjV840vB08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXRcZ2zxofDkRCBjV840vB08",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:37:06"
+  }
+]

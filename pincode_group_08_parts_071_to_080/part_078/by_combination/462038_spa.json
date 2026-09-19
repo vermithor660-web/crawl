@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Glow R Family Salon and Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "462038",
+    "phone_number": "+91 74008 19241",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3, Radha Krishna Colony, Goya colony, Karond, Bhopal, Madhya Pradesh 462038",
+    "area": "Radha Krishna Colony, Goya colony, Karond",
+    "latitude": 23.3029531,
+    "longitude": 77.4109606,
+    "place_id": "ChIJCazzCQBpfDkRzFnuGsB2SZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCazzCQBpfDkRzFnuGsB2SZE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:08:36"
+  },
+  {
+    "business_name": "H&M Spa and saloon",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "462038",
+    "phone_number": "N/A",
+    "website": "http://hmspaa.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gate no 4, hotel Mangalam paradise, infornt of Sai marriage garden, 3rd floor, Minal Residency, Bhopal, Madhya Pradesh 462010",
+    "area": "New Minal Residency, Minal Residency",
+    "latitude": 23.279524,
+    "longitude": 77.4495874,
+    "place_id": "ChIJzWEcMQBpfDkRxLEQ4GlBUSM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzWEcMQBpfDkRxLEQ4GlBUSM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:08:38"
+  }
+]

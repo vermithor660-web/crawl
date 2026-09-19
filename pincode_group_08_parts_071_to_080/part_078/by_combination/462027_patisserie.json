@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sourdoh",
+    "search_category": "Patisserie",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "462027",
+    "phone_number": "+91 93029 91771",
+    "website": "https://www.instagram.com/sourdohindia/",
+    "rating": 4.6,
+    "reviews_count": 71,
+    "address": "Second Floor, DB City Mall, in-front of Reliance Digital, DB City Mall, Zone-I, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "DB City Mall, Zone-I, Maharana Pratap Nagar",
+    "latitude": 23.2334104,
+    "longitude": 77.4296478,
+    "place_id": "ChIJw_BLeOpDfDkRUyUxd_zv4FU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw_BLeOpDfDkRUyUxd_zv4FU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:56:18"
+  },
+  {
+    "business_name": "Darsh Day 2 Day",
+    "search_category": "Patisserie",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "462027",
+    "phone_number": "+91 99776 04501",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "G5, Lotus Plaza, Shri Rameshwaram, Bagmugaliya, Bhopal, Madhya Pradesh 462043",
+    "area": "Shri Rameshwaram, Bagmugaliya",
+    "latitude": 23.180287699999997,
+    "longitude": 77.4807304,
+    "place_id": "ChIJHWGv1aJBfDkRxjiX6HwuAMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHWGv1aJBfDkRxjiX6HwuAMA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:56:18"
+  }
+]

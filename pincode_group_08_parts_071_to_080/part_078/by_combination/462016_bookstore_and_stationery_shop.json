@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHIVAM ENTERPRISES",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store",
+    "pincode": "462016",
+    "phone_number": "+91 755 242 0037",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "no market, 12, Bhopal, Madhya Pradesh 462016",
+    "area": "E-6, Arera Colony",
+    "latitude": 23.204815999999997,
+    "longitude": 77.437265,
+    "place_id": "ChIJqQ9AaLJDfDkRFE73J55bdoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqQ9AaLJDfDkRFE73J55bdoU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:46:00"
+  },
+  {
+    "business_name": "TRIPATHI SERVICE",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "462016",
+    "phone_number": "+91 87709 04856",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "J-330 SHOP NO, 3, E-6, Arera Colony, Bhopal, Madhya Pradesh 462016",
+    "area": "E-6, Arera Colony",
+    "latitude": 23.2061478,
+    "longitude": 77.44158,
+    "place_id": "ChIJ3xPXY7NDfDkR_XW78JP6tIc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3xPXY7NDfDkR_XW78JP6tIc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:46:02"
+  }
+]

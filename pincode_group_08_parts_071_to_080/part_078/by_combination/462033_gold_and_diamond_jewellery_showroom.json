@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Diamond And Gold Jewellery",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "462033",
+    "phone_number": "+91 98110 19010",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No: D-2/4, Krishan Nagar, Block D, Krishna Nagar, Delhi, 110051",
+    "area": "Block D, Krishna Nagar",
+    "latitude": 28.6597634,
+    "longitude": 77.2804866,
+    "place_id": "ChIJxfDqi5v8DDkRNA2ZBv12634",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxfDqi5v8DDkRNA2ZBv12634",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:02:18"
+  },
+  {
+    "business_name": "City Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "462033",
+    "phone_number": "+91 94384 00021",
+    "website": "http://www.cityjewellers.co/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Rajmahal square, Plot No. 150/C, near Ganguram Sweets, Ashok Nagar, Bhubaneswar, Odisha 751009",
+    "area": "Ashok Nagar",
+    "latitude": 20.2628229,
+    "longitude": 85.8381107,
+    "place_id": "ChIJqYLdVi-nGToRe2K4YiOcGGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqYLdVi-nGToRe2K4YiOcGGU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:02:19"
+  }
+]

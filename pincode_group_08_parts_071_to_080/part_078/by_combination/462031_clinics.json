@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "462031",
+    "phone_number": "+91 89628 47354",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "882V+QG6, Jhulelal Market Main Rd, Gandhi Nagar, Bhopal, Madhya Pradesh 462036",
+    "area": "Gandhi Nagar",
+    "latitude": 23.3019142,
+    "longitude": 77.3437677,
+    "place_id": "ChIJ0e8_4FFmfDkRv8HmNO3ibvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0e8_4FFmfDkRv8HmNO3ibvM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:00:34"
+  },
+  {
+    "business_name": "Yog Deep Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "462031",
+    "phone_number": "+91 99070 07622",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "882V+H9R, Tagore Ward, Gandhi Nagar, Bhopal, Madhya Pradesh 462036",
+    "area": "Tagore Ward, Gandhi Nagar",
+    "latitude": 23.3014901,
+    "longitude": 77.3433759,
+    "place_id": "ChIJMx-15VFmfDkRrHbo-F6z3pc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMx-15VFmfDkRrHbo-F6z3pc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:00:34"
+  }
+]

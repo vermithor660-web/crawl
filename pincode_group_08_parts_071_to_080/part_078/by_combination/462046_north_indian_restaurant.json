@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Brunch House 2.0",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "462046",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Plot 6, Mandideep, Bhopal, Madhya Pradesh 462046",
+    "area": "Mandideep",
+    "latitude": 23.0966339,
+    "longitude": 77.5176453,
+    "place_id": "ChIJ__8LcUtGfDkRSiPRuvGKp6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__8LcUtGfDkRSiPRuvGKp6I",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:23:16"
+  },
+  {
+    "business_name": "Chulha Choka",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "462046",
+    "phone_number": "+91 98932 74911",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "jod, Mandideep, Nanakhedi, Obaidullaganj, Madhya Pradesh 464993",
+    "area": "jod, Mandideep",
+    "latitude": 23.034853299999998,
+    "longitude": 77.5615631,
+    "place_id": "ChIJqbcsJABBfDkRf61kwHG7Jw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqbcsJABBfDkRf61kwHG7Jw4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:23:16"
+  }
+]

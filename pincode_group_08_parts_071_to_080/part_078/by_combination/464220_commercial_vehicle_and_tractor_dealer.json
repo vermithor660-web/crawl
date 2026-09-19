@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Farmtrac Showroom",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "464220",
+    "phone_number": "+91 79879 64520",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sagar Road, Radha Krishna Puram, Raisen, Madhya Pradesh 464551",
+    "area": "Radha Krishna Puram",
+    "latitude": 23.327805599999998,
+    "longitude": 77.8045704,
+    "place_id": "ChIJbY3us78ZfDkRGMD0TYyu76w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbY3us78ZfDkRGMD0TYyu76w",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:46:12"
+  },
+  {
+    "business_name": "Farmtrac Tractor - Bharat tractor agencies",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "464220",
+    "phone_number": "N/A",
+    "website": "https://www.farmtracagri.com/in/en/dealers/bharat-tractor-agencies-laxmangarh/",
+    "rating": 4.1,
+    "reviews_count": 31,
+    "address": "RJ SH 44, Laxmangarh, Lachhmangarh, Rajasthan 321607",
+    "area": "464220",
+    "latitude": 27.3654883,
+    "longitude": 76.86577439999999,
+    "place_id": "ChIJJS4CxO71cjkRmZ1ddsdZoqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJS4CxO71cjkRmZ1ddsdZoqg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:46:13"
+  }
+]

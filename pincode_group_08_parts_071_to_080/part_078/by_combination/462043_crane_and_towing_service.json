@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju Motors garage",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Auto machine shop, Car repair and maintenance service",
+    "pincode": "462043",
+    "phone_number": "+91 93143 77702",
+    "website": "https://www.rajucraneservice.com/",
+    "rating": 4.3,
+    "reviews_count": 99,
+    "address": "Near jamna colony,sec-1, Sikar Rd, near beed ka balaji mandir, Radha Govind Colony, Jaipur, Rajasthan 302039",
+    "area": "Jamuna Colony, Radha Govind Colony, Dahar Ka Balaji",
+    "latitude": 26.958398499999998,
+    "longitude": 75.7734349,
+    "place_id": "ChIJVQvBE62zbTkRwWo1jsfTJxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQvBE62zbTkRwWo1jsfTJxI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:18:08"
+  },
+  {
+    "business_name": "Carson's Towing LLC",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment, Locksmith",
+    "pincode": "462043",
+    "phone_number": "N/A",
+    "website": "https://emergencytowingindianapolis.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Carson's Towing LLC, 462043, India",
+    "area": "462043",
+    "latitude": 40.005987999999995,
+    "longitude": -85.951831,
+    "place_id": "ChIJV0ajDLjnqUsR7EqyUGscxQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV0ajDLjnqUsR7EqyUGscxQ8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:18:10"
+  }
+]

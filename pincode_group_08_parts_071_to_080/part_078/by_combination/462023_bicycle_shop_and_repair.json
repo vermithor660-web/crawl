@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tiwari Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop, Auto repair shop",
+    "pincode": "462023",
+    "phone_number": "+91 92294 44292",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Shop No:25, Eastern Rd of BHEL, Subhash Market, Bharati Niketan, Govindpura, Bhopal, Madhya Pradesh 462023",
+    "area": "Subhash Market, Bharati Niketan, Govindpura",
+    "latitude": 23.2368497,
+    "longitude": 77.4475216,
+    "place_id": "ChIJ30ULzBRCfDkRRFyGXXbPhE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ30ULzBRCfDkRRFyGXXbPhE0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:51:05"
+  },
+  {
+    "business_name": "Global Self Drive Car & Bike Rental",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "462023",
+    "phone_number": "+91 98938 70519",
+    "website": "http://globalselfdrivecarrental.in.net/",
+    "rating": 4.9,
+    "reviews_count": 42,
+    "address": "Shop No G2, Indrapuri C sector, Sector C, Indrapuri, Bhopal, Madhya Pradesh 462023",
+    "area": "Indrapuri C sector, Sector C, Indrapuri",
+    "latitude": 23.2525592,
+    "longitude": 77.46517779999999,
+    "place_id": "ChIJWS3Gc1tDfDkRhVI07MJyMos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWS3Gc1tDfDkRhVI07MJyMos",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:51:07"
+  }
+]

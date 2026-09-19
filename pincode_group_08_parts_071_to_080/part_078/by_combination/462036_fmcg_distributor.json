@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harsh Trading Company",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Distributor",
+    "all_categories": "FMCG Distributor",
+    "pincode": "462036",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "54/47, Lalghati Rd, Singarcholi, Data Colony, Lalghati, Bhopal, Madhya Pradesh 462030",
+    "area": "Singarcholi, Data Colony, Lalghati",
+    "latitude": 23.2847522,
+    "longitude": 77.3563391,
+    "place_id": "ChIJ__8PLc9nfDkRtvYgYaby42Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__8PLc9nfDkRtvYgYaby42Y",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:03:53"
+  },
+  {
+    "business_name": "Amrut Papad - Madhu Gruh Udhyog",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Manufacturer",
+    "all_categories": "FMCG Manufacturer",
+    "pincode": "462036",
+    "phone_number": "+91 94292 07654",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Survey no 491, Valad, Gujarat 382355",
+    "area": "462036",
+    "latitude": 23.137108299999998,
+    "longitude": 72.6835674,
+    "place_id": "ChIJ203CNj2BXjkROfLt4Rh0qe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ203CNj2BXjkROfLt4Rh0qe4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:03:54"
+  }
+]

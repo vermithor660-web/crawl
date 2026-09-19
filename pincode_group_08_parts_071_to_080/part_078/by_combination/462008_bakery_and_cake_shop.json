@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baker's Hand",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "462008",
+    "phone_number": "+91 92854 23893",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "HIG-35, Arun Nagar, New Subhash Nagar, Old Subhash Nagar Colony, Govindpura, Bhopal, Madhya Pradesh 462023",
+    "area": "Arun Nagar, New Subhash Nagar, Old Subhash Nagar Colony, Govindpura",
+    "latitude": 23.2501714,
+    "longitude": 77.4318961,
+    "place_id": "ChIJfaacCehDfDkRZYQYEhrg0HE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfaacCehDfDkRZYQYEhrg0HE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:38:56"
+  },
+  {
+    "business_name": "Cake o holics",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "462008",
+    "phone_number": "+91 98270 17882",
+    "website": "https://www.instagram.com/cake_o_holics_bhopal?igsh=ODcxeTJhMmtzemN3",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "House no 16, gondi, Lala Wali Gali, near aam wali masjid, Jahangirabad, Bhopal, Madhya Pradesh 462001",
+    "area": "Jahangirabad",
+    "latitude": 23.259871999999998,
+    "longitude": 77.41533679999999,
+    "place_id": "ChIJh6Adh_ZpfDkRTMVeFwLGwUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh6Adh_ZpfDkRTMVeFwLGwUE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:38:56"
+  }
+]

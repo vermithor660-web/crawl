@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R.R. Diagnostic Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "462066",
+    "phone_number": "+91 95755 65708",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "B-block, Surbhi Raghu Plaza, G-23, in front of Durga Mandir Manohar Dairy, Ghora Nakkas, Peer Gate Area, Bhopal, Madhya Pradesh 462001",
+    "area": "Ghora Nakkas, Peer Gate Area",
+    "latitude": 23.263998299999997,
+    "longitude": 77.40756209999999,
+    "place_id": "ChIJW4Ik7TdpfDkRgz_e5GlvpgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW4Ik7TdpfDkRgz_e5GlvpgE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:27:36"
+  },
+  {
+    "business_name": "Mirza Diagnostic Center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "462066",
+    "phone_number": "+91 80086 83029",
+    "website": "https://mirzadiagnostics.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Bazar Ghat, New Mallepally, Hyderabad, Telangana 500001",
+    "area": "Bazar Ghat, New Mallepally",
+    "latitude": 17.3912445,
+    "longitude": 78.4585209,
+    "place_id": "ChIJcQdIJxKXyzsRnNFhyz69gAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQdIJxKXyzsRnNFhyz69gAo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:27:36"
+  }
+]

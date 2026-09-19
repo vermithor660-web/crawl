@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Toothopia Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dentist",
+    "all_categories": "Dentist",
+    "pincode": "462047",
+    "phone_number": "+91 73851 19620",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "D2/205-C, Narmadapuram Rd, Danish Nagar, Bagmugaliya, Bhopal, Madhya Pradesh 462026",
+    "area": "Danish Nagar, Bagmugaliya",
+    "latitude": 23.1858883,
+    "longitude": 77.4592011,
+    "place_id": "ChIJ1dejbONDfDkRPV_rkswZIOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1dejbONDfDkRPV_rkswZIOo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:25:37"
+  },
+  {
+    "business_name": "Ramraika Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "462047",
+    "phone_number": "+91 94256 11990",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FF 09, Rishi Business Park, Narmadapuram Rd, Misrod, Bhopal, Madhya Pradesh 462047",
+    "area": "Misrod",
+    "latitude": 23.1679057,
+    "longitude": 77.4641297,
+    "place_id": "ChIJndVJ3qJDfDkRtqjpfS0fAEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJndVJ3qJDfDkRtqjpfS0fAEU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:25:37"
+  }
+]

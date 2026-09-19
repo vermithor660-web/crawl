@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Annushree hotel and restaurants",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Family restaurant, Hotel, North Indian restaurant, South Indian restaurant, Vegetarian restaurant",
+    "pincode": "464111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Kurwai road, Sironj, Madhya Pradesh 464228",
+    "area": "464111",
+    "latitude": 24.1056851,
+    "longitude": 77.7239709,
+    "place_id": "ChIJBUVvRgDDezkRW1SGdSP9dTM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUVvRgDDezkRW1SGdSP9dTM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:40:27"
+  },
+  {
+    "business_name": "Namkeen Store",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "464111",
+    "phone_number": "+91 84629 06987",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 05, Shubash Nagar, Vidisha, Madhya Pradesh 464001",
+    "area": "Shubash Nagar",
+    "latitude": 23.529089499999998,
+    "longitude": 77.8280403,
+    "place_id": "ChIJe4jFhIkFfDkROOj6N0yRvdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe4jFhIkFfDkROOj6N0yRvdc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:40:29"
+  }
+]

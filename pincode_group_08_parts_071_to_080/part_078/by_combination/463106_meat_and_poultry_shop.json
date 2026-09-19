@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bombay chicken shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "463106",
+    "phone_number": "+91 93019 01900",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Berasia Rd, Sindhi Colony, Ibrahimganj, Bhopal, Madhya Pradesh 462001",
+    "area": "Sindhi Colony, Ibrahimganj",
+    "latitude": 23.2697838,
+    "longitude": 77.4011311,
+    "place_id": "ChIJIaOzKABpfDkRizL2cF06di4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIaOzKABpfDkRizL2cF06di4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:34:42"
+  },
+  {
+    "business_name": "Om Traders",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "463106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhopal Rd, in front of Laxmi Narayan Sharma Krishi Upaj Mandi Gate, Dist, Berasia, Tikankhedi, Madhya Pradesh 463106",
+    "area": "Dist",
+    "latitude": 23.6198338,
+    "longitude": 77.4302186,
+    "place_id": "ChIJfyDXBwJ3fDkRI-vRb_1LH6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfyDXBwJ3fDkRI-vRb_1LH6U",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:34:44"
+  }
+]

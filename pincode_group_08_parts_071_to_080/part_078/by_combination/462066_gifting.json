@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IGP",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, E-commerce service",
+    "pincode": "462066",
+    "phone_number": "+91 22 4343 3333",
+    "website": "https://www.igp.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "2nd Floor, A Wing, Times Square Building, Unit No. 2, Andheri - Kurla Rd, Marol, Andheri East, Powai, Mumbai, Maharashtra 400059",
+    "area": "Yadav Nagar, Chandivali, Powai",
+    "latitude": 19.1143136,
+    "longitude": 72.8926113,
+    "place_id": "ChIJa--xCgzI5zsRUdichacuNCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa--xCgzI5zsRUdichacuNCg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:28:16"
+  },
+  {
+    "business_name": "Shiv Shakti Stationery and Gift Items",
+    "search_category": "Gifting",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "462066",
+    "phone_number": "+91 79995 02257",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward no. 3, near Hanuman Mandir and IISER, Bhauri, Bhopal, Madhya Pradesh 462030",
+    "area": "462066",
+    "latitude": 23.278357999999997,
+    "longitude": 77.27640029999999,
+    "place_id": "ChIJka6CPdBgfDkRlnlwgkYgU6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJka6CPdBgfDkRlnlwgkYgU6M",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:28:16"
+  }
+]

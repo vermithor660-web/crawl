@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apollo Pharmacy Gulmohar",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Baby store, Health and beauty shop, Herbal medicine store, Medical equipment supplier, Sports nutrition store, Surgical supply store, Vitamin & supplements store",
+    "pincode": "462016",
+    "phone_number": "+91 79 4281 2480",
+    "website": "https://www.apollopharmacy.in/",
+    "rating": 3.5,
+    "reviews_count": 40,
+    "address": "Shop No.2, Ground Floor, Rama Arcade, Plot No.G-2/221, Ishwar Nagar, Gulmohar Colony, Bhopal, Madhya Pradesh 462039",
+    "area": "Ishwar Nagar, Gulmohar Colony",
+    "latitude": 23.1925857,
+    "longitude": 77.43537049999999,
+    "place_id": "ChIJkZIEBpNDfDkRNYvESa_6ks8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZIEBpNDfDkRNYvESa_6ks8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:45:07"
+  },
+  {
+    "business_name": "MAA HARSIDDHI MEDICAL",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "462016",
+    "phone_number": "+91 99770 56129",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Meena chouraha Bypass, Bhopal, Acharpura, Madhya Pradesh 462038",
+    "area": "462016",
+    "latitude": 23.3346712,
+    "longitude": 77.3638782,
+    "place_id": "ChIJlXJ0q1ZofDkRWBDwWZM2i3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlXJ0q1ZofDkRWBDwWZM2i3U",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:45:08"
+  }
+]

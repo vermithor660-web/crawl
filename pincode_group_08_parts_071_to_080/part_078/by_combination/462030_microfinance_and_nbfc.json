@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shriram Transport Finance",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Financial consultant",
+    "pincode": "462030",
+    "phone_number": "N/A",
+    "website": "https://www.shriramfinance.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "1 Narula Complex 131 Hoshangabad Road Opposite Fci Builing, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "Zone-II, Maharana Pratap Nagar",
+    "latitude": 23.229308,
+    "longitude": 77.4359204,
+    "place_id": "ChIJT9zbZ11CfDkRU5P98pMc2xY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT9zbZ11CfDkRU5P98pMc2xY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:59:40"
+  },
+  {
+    "business_name": "Muthoot Finance",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution",
+    "pincode": "462030",
+    "phone_number": "+91 755 426 6698",
+    "website": "https://www.muthootfinance.com/",
+    "rating": 4.1,
+    "reviews_count": 28,
+    "address": "First Floor, Singhai Tower, A-26, Raisen Rd, Indrapuri A sector, Sector A, Indrapuri, Bhopal, Madhya Pradesh 462022",
+    "area": "Indrapuri A sector, Sector A, Indrapuri",
+    "latitude": 23.2514917,
+    "longitude": 77.4577496,
+    "place_id": "ChIJSQC_swhCfDkRqEy0z69OMA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSQC_swhCfDkRqEy0z69OMA4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:59:41"
+  }
+]

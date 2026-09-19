@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bahadur Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "462027",
+    "phone_number": "+91 97704 41722",
+    "website": "https://bahadur-restaurant.grexa.site/",
+    "rating": 4.6,
+    "reviews_count": 156,
+    "address": "shop no 18, colony, Jagannath Puri, near Durga mandir, Neelbad, Madhya Pradesh 462044",
+    "area": "462027",
+    "latitude": 23.1951628,
+    "longitude": 77.3493726,
+    "place_id": "ChIJBZBi-0ZdfDkRML8jz2Eacy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZBi-0ZdfDkRML8jz2Eacy0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:56:21"
+  },
+  {
+    "business_name": "RAJABHOJ UNLIMITED BUFFET",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Buffet restaurant",
+    "all_categories": "Buffet restaurant",
+    "pincode": "462027",
+    "phone_number": "+91 98270 94898",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 112,
+    "address": "Shop No. 17, MP Nagar Zone-I, Zone-I, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "MP Nagar Zone-I, Zone-I, Maharana Pratap Nagar",
+    "latitude": 23.233763699999997,
+    "longitude": 77.43203369999999,
+    "place_id": "ChIJy17x9qdDfDkRoDIfPbiQtcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy17x9qdDfDkRoDIfPbiQtcg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:56:21"
+  }
+]

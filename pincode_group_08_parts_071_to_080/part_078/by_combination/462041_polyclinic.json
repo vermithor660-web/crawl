@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Health Care Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "462041",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7FHC+WRR, ISRO Colony, Ayodhya Bypass, Bhopal, Madhya Pradesh 462041",
+    "area": "ISRO Colony, Ayodhya Bypass",
+    "latitude": 23.2798706,
+    "longitude": 77.47200099999999,
+    "place_id": "ChIJt44evB9qfDkR_GeiS46jAJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt44evB9qfDkR_GeiS46jAJU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:13:59"
+  },
+  {
+    "business_name": "shree shae poly clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "462041",
+    "phone_number": "+91 97700 90092",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4, Parshwanath Jain Mandir Rd, ISRO Colony, Ayodhya Nagar, Bhopal, Madhya Pradesh 462041",
+    "area": "ISRO Colony, Ayodhya Nagar",
+    "latitude": 23.277742999999997,
+    "longitude": 77.47158929999999,
+    "place_id": "ChIJZzVcOB5qfDkRYGfA8JYDw9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZzVcOB5qfDkRYGfA8JYDw9g",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:13:59"
+  }
+]

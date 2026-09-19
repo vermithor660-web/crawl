@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Ambe Market",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "462045",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "4GMM+79H, Chikload Road, Bhojpur Rd, Gram Bangrasia, Bangrasia, Bhopal, Madhya Pradesh 462045",
+    "area": "Gram Bangrasia, Bangrasia",
+    "latitude": 23.1334195,
+    "longitude": 77.53355789999999,
+    "place_id": "ChIJRTJG4w1HfDkRkQmF09LFssg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRTJG4w1HfDkRkQmF09LFssg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:23:01"
+  },
+  {
+    "business_name": "Shriji traders घर संसार बर्तन भंडार",
+    "search_category": "Malls",
+    "primary_category": "Outlet mall",
+    "all_categories": "Outlet mall",
+    "pincode": "462045",
+    "phone_number": "+91 89892 81984",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Bangrasia, Bhopal, Madhya Pradesh 462045",
+    "area": "Bangrasia",
+    "latitude": 23.1338209,
+    "longitude": 77.53164749999999,
+    "place_id": "ChIJIzJp3KRHfDkRfAUgv7OwYRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIzJp3KRHfDkRfAUgv7OwYRY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:23:01"
+  }
+]

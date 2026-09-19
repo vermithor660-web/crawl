@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ankit Mponline",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "462031",
+    "phone_number": "+91 97700 73430",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 3,
+    "address": "B no 26 /1, near Sharma Kirana Store, Neelgiri Colony, CTO Colony, Bairagarh, Bhopal, Madhya Pradesh 462030",
+    "area": "Neelgiri Colony, CTO Colony, Bairagarh",
+    "latitude": 23.2796406,
+    "longitude": 77.3400198,
+    "place_id": "ChIJF3l_S6RnfDkRAAAAMJ6BGiY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF3l_S6RnfDkRAAAAMJ6BGiY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:01:53"
+  },
+  {
+    "business_name": "Taurus bpo",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "462031",
+    "phone_number": "+91 86410 64966",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "2nd Floor, Workie techpark, AB Rd, Opposite C-21 Mall, Scheme No 54, Indore, Madhya Pradesh 452010",
+    "area": "Opposite C-21 Mall, Scheme No 54",
+    "latitude": 22.7455297,
+    "longitude": 75.89242279999999,
+    "place_id": "ChIJJyE-KJz9YjkREafltiS8feI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJyE-KJz9YjkREafltiS8feI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:01:55"
+  }
+]

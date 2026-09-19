@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nashville Audio Rental",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Audiovisual equipment rental service",
+    "all_categories": "Audiovisual equipment rental service, Audio visual consultant, Event technology service, Party equipment rental service",
+    "pincode": "462031",
+    "phone_number": "N/A",
+    "website": "http://www.nashvilleaudiorental.com/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "2935 Hillhurst Dr, Nashville, TN 37207, United States",
+    "area": "East Nashville",
+    "latitude": 36.226084,
+    "longitude": -86.7658939,
+    "place_id": "ChIJVyT2epcReAkRcNHVXmBnHVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVyT2epcReAkRcNHVXmBnHVU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:01:12"
+  },
+  {
+    "business_name": "Holiday villa",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Holiday apartment rental",
+    "all_categories": "Holiday apartment rental",
+    "pincode": "462031",
+    "phone_number": "+91 95890 85671",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 71,
+    "address": "77QW+5PC, Bhopal, Madhya Pradesh 462030",
+    "area": "462031",
+    "latitude": 23.2879343,
+    "longitude": 77.29675399999999,
+    "place_id": "ChIJ-3m_C5dnfDkRMOQcufEuy1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-3m_C5dnfDkRMOQcufEuy1s",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:01:13"
+  }
+]

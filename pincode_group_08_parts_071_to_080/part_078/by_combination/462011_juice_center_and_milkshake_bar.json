@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kolkata juice and Shakes",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "462011",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "155b, Mahatma Gandhi Rd, Block C, Jorasanko, Kolkata, West Bengal 700073",
+    "area": "Block C, Jorasanko",
+    "latitude": 22.5794191,
+    "longitude": 88.35836169999999,
+    "place_id": "ChIJU7SzGAB3AjoR7fAlo3sim5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU7SzGAB3AjoR7fAlo3sim5U",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:42:55"
+  },
+  {
+    "business_name": "The Roll Point",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "462011",
+    "phone_number": "+91 97138 73326",
+    "website": "https://instagram.com/therollpointt?igshid=NTc4MTIwNjQ2YQ==",
+    "rating": 4.8,
+    "reviews_count": 37,
+    "address": "Shop No. 3, Shabri Complex, Zone 2, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "Zone 2, Maharana Pratap Nagar",
+    "latitude": 23.230093,
+    "longitude": 77.4363791,
+    "place_id": "ChIJ_y1Zl1FDfDkRUJ6k0PRpSd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_y1Zl1FDfDkRUJ6k0PRpSd8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:42:55"
+  }
+]

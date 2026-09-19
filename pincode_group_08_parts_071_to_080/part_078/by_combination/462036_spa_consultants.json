@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Caama International Spa",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Day spa, Massage spa, Massage therapist",
+    "pincode": "462036",
+    "phone_number": "+91 80 6548 9524",
+    "website": "https://www.caamainternationalspa.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2nd Floor, Elixir Prime Business, PDPU Rd, Raysan, Gandhinagar, Gujarat 382426",
+    "area": "462036",
+    "latitude": 23.1572961,
+    "longitude": 72.6576264,
+    "place_id": "ChIJOwURqMiBXjkRaJrjAHNpP88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOwURqMiBXjkRaJrjAHNpP88",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:04:49"
+  },
+  {
+    "business_name": "Sumala international spa",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa and health club",
+    "all_categories": "Spa and health club",
+    "pincode": "462036",
+    "phone_number": "+91 92139 31664",
+    "website": "https://sumala-international-spa.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pramukh Anand Orbit Mall, 109-110, near Domino's Pizza, Dakshin Bhojnam, Kudasan, Gandhinagar, Gujarat 382421",
+    "area": "Dakshin Bhojnam, Kudasan",
+    "latitude": 23.1850053,
+    "longitude": 72.630605,
+    "place_id": "ChIJDau1tYorXDkRoBMDeeKX6pw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDau1tYorXDkRoBMDeeKX6pw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:04:49"
+  }
+]

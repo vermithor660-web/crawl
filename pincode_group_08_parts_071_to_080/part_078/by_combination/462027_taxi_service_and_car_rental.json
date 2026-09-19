@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mangalam Tours And Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "462027",
+    "phone_number": "+91 96692 85999",
+    "website": "https://mangalam-tours-travels.vercel.app/",
+    "rating": 5,
+    "reviews_count": 81,
+    "address": "Bhagat Singh Market, 5-A, Shaheed Bhagat Singh Market, Indrapuri A sector, Sector A, Indrapuri, Bhopal, Madhya Pradesh 462022",
+    "area": "Shaheed Bhagat Singh Market, Indrapuri A sector, Sector A, Indrapuri",
+    "latitude": 23.251808099999998,
+    "longitude": 77.4597666,
+    "place_id": "ChIJ2ZnnkWlDfDkRgsyeAeMGfdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ZnnkWlDfDkRgsyeAeMGfdw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:56:53"
+  },
+  {
+    "business_name": "Mahakal taxi service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "462027",
+    "phone_number": "N/A",
+    "website": "https://mahakalbhopaltaxi.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "house no 331dholekhadan, Badagarh chicile addhar sompny ka paas, Bhopal, Madhya Pradesh 462042",
+    "area": "Bairagarh Chichali, Kolar Rd",
+    "latitude": 23.1501833,
+    "longitude": 77.41500309999999,
+    "place_id": "ChIJz33m7LBFfDkRAFXzHEDgE4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz33m7LBFfDkRAFXzHEDgE4c",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:56:56"
+  }
+]

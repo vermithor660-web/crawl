@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RM Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "462023",
+    "phone_number": "+91 97360 31602",
+    "website": "http://rmchemicals.in/",
+    "rating": 4,
+    "reviews_count": 38,
+    "address": "Hadbast No-214, Hill Top Industrial Area, Near EPIP - Phase 1 Near village Bhatoli Kalan, Jhar Majri, Himachal Pradesh 173205",
+    "area": "462023",
+    "latitude": 30.9356631,
+    "longitude": 76.8412036,
+    "place_id": "ChIJoc95F8yLDzkRj9-O1GiFplI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoc95F8yLDzkRj9-O1GiFplI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:52:02"
+  },
+  {
+    "business_name": "Indo Fills Industries",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "462023",
+    "phone_number": "+91 731 493 2799",
+    "website": "https://indofills.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "48, Survey No. 79/1, Panchal Compound, Dewas Naka, Lasudia Mori, Indore, Madhya Pradesh 452010",
+    "area": "Dewas Naka, Lasudia Mori",
+    "latitude": 22.7808165,
+    "longitude": 75.9073323,
+    "place_id": "ChIJ0-rcOb0dYzkRD4gzHMma_yA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-rcOb0dYzkRD4gzHMma_yA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:52:02"
+  }
+]

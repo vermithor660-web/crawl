@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aashiyana Real Estate",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Industrial real estate agency",
+    "all_categories": "Industrial real estate agency",
+    "pincode": "462024",
+    "phone_number": "N/A",
+    "website": "https://aashiyanarealestate.technograde.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "A-88 A, Narmadapuram Rd, Sector vidhya nagar, Vidya Nagar, Bhopal, Madhya Pradesh 462026",
+    "area": "Sector vidhya nagar, Vidya Nagar",
+    "latitude": 23.197928899999997,
+    "longitude": 77.4482256,
+    "place_id": "ChIJFwcf-hxDfDkRlLXPGta50zo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFwcf-hxDfDkRlLXPGta50zo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:53:51"
+  },
+  {
+    "business_name": "Property lab",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "462024",
+    "phone_number": "+91 88198 61011",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "bus stop, Plot no. 30 ISBT, Bhopal, Madhya Pradesh 462024",
+    "area": "Habib Ganj",
+    "latitude": 23.230637899999998,
+    "longitude": 77.4432039,
+    "place_id": "ChIJQ-wlTqZDfDkRLvI72tTR5n0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ-wlTqZDfDkRLvI72tTR5n0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:53:53"
+  }
+]

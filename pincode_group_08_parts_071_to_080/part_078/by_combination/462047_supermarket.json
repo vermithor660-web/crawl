@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chouhan Smoking Zone",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "462047",
+    "phone_number": "+91 98267 80948",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 27,
+    "address": "210, Narmadapuram Rd, Misrod, Bhopal, Madhya Pradesh 462047",
+    "area": "Misrod",
+    "latitude": 23.1637485,
+    "longitude": 77.4683852,
+    "place_id": "ChIJ7yd_cQBEfDkRqMxBGwZxMGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7yd_cQBEfDkRqMxBGwZxMGQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:25:04"
+  },
+  {
+    "business_name": "Reliance Smart Point",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "462047",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 106,
+    "address": "Coral Woods, 11 rishi buissness park, Narmadapuram Rd, Misrod, Bhopal, Madhya Pradesh 462047",
+    "area": "Misrod",
+    "latitude": 23.1681061,
+    "longitude": 77.4642001,
+    "place_id": "ChIJUeLf7RRDfDkRiz3enWh1bl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUeLf7RRDfDkRiz3enWh1bl4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:25:04"
+  }
+]

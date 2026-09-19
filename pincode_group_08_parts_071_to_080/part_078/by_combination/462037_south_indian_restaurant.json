@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shikha fast food and south Indian",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant",
+    "pincode": "462037",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "7CR8+W52, Bhanpur, Bhopal, Madhya Pradesh 462001",
+    "area": "Bhanpur",
+    "latitude": 23.2922501,
+    "longitude": 77.41539929999999,
+    "place_id": "ChIJLXnaMwBpfDkRHz-oDVAg58o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXnaMwBpfDkRHz-oDVAg58o",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:05:53"
+  },
+  {
+    "business_name": "Uttar dakshin zayka",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "462037",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "8C33+755, Karond Chouraha, Karond, Bhopal, Madhya Pradesh 462038",
+    "area": "Karond Chouraha, Karond",
+    "latitude": 23.303136499999997,
+    "longitude": 77.4029704,
+    "place_id": "ChIJAXdZJABpfDkRduElHrKcjtM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAXdZJABpfDkRduElHrKcjtM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:05:53"
+  }
+]

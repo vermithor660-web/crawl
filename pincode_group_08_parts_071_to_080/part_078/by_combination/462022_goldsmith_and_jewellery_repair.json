@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Varsha jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "462022",
+    "phone_number": "+91 88717 08423",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shope no 7, Narmada valley complex, Khajuri Kalan Rd, Regal Town, Awadhpuri, Bhopal, Madhya Pradesh 462022",
+    "area": "Regal Town, Awadhpuri",
+    "latitude": 23.237804399999998,
+    "longitude": 77.4973871,
+    "place_id": "ChIJX8aBRfZBfDkR7yhx4Wr_eLY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX8aBRfZBfDkR7yhx4Wr_eLY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:48:44"
+  },
+  {
+    "business_name": "Suraj laser solding",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry repair service",
+    "all_categories": "Jewelry repair service",
+    "pincode": "462022",
+    "phone_number": "+91 84629 26910",
+    "website": "https://surajlasersolding.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Shop no.3, Pipal chowk, Jama Masjid, Itwara, sarafa bazar, Peer Gate Area, Bhopal, Madhya Pradesh 462001",
+    "area": "Jama Masjid, Itwara, sarafa bazar, Peer Gate Area",
+    "latitude": 23.2581299,
+    "longitude": 77.4020465,
+    "place_id": "ChIJ4fjjInRpfDkR80XG4Iz8CJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4fjjInRpfDkR80XG4Iz8CJA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:48:46"
+  }
+]

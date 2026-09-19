@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nath Automotives",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Motor vehicle dealer",
+    "all_categories": "Motor vehicle dealer, Battery Wholesaler",
+    "pincode": "462003",
+    "phone_number": "+91 97706 59595",
+    "website": "http://www.nathautomotives.com//",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Mandakini Square, Shop No 25, TRIPHORA TOWER, Kolar Rd, opp. Khadim's, near Agrawal Sarees, Bhopal, Madhya Pradesh 462042",
+    "area": "Shalimar Garden, Kolar Rd",
+    "latitude": 23.1852663,
+    "longitude": 77.41692189999999,
+    "place_id": "ChIJsyifaT9DfDkRSpemw9IJYDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsyifaT9DfDkRSpemw9IJYDk",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:35:43"
+  },
+  {
+    "business_name": "A M Power System",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store",
+    "pincode": "462003",
+    "phone_number": "+91 98273 44768",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 12,
+    "address": "Shop No. 2, B-12, Raisen Rd, near PNB, Govind Garden, Govindpura, Bhopal, Madhya Pradesh 462023",
+    "area": "Govind Garden, Govindpura",
+    "latitude": 23.2529222,
+    "longitude": 77.437575,
+    "place_id": "ChIJT66GmHdCfDkRmtotvcuJYZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT66GmHdCfDkRmtotvcuJYZE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:35:45"
+  }
+]

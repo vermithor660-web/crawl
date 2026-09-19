@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AV Steels",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Roofing contractor",
+    "all_categories": "Roofing contractor",
+    "pincode": "464111",
+    "phone_number": "+91 74404 77567",
+    "website": "http://avsteels.in/",
+    "rating": 4.9,
+    "reviews_count": 29,
+    "address": "Kachnar Plaza, 54, Vijay Nagar, Jabalpur, Madhya Pradesh 482002",
+    "area": "Yashwar Nagar, Kanchan Vihar, Vijay Nagar",
+    "latitude": 23.188798,
+    "longitude": 79.9022262,
+    "place_id": "ChIJASD8QtGxgTkRqGHdad4D7Zo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJASD8QtGxgTkRqGHdad4D7Zo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:41:44"
+  },
+  {
+    "business_name": "Malwa Iron Industry",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Iron works",
+    "all_categories": "Iron works",
+    "pincode": "464111",
+    "phone_number": "+91 98267 58727",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "3MWW+C65, Sironj, Madhya Pradesh 464228",
+    "area": "464111",
+    "latitude": 24.0960221,
+    "longitude": 77.69560589999999,
+    "place_id": "ChIJcZm1ZZ_DezkR_w1_niPFHfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcZm1ZZ_DezkR_w1_niPFHfs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:41:47"
+  }
+]

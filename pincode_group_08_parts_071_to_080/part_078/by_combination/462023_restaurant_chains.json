@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eighteen Calories",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Health food restaurant",
+    "all_categories": "Health food restaurant",
+    "pincode": "462023",
+    "phone_number": "+91 97528 38784",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 20,
+    "address": "Neeraja Nagar Phase 2, Bharat Nagar, Indrapuri, Bhopal, Madhya Pradesh 462023",
+    "area": "Neeraja Nagar Phase 2, Bharat Nagar, Indrapuri",
+    "latitude": 23.261128199999998,
+    "longitude": 77.4596601,
+    "place_id": "ChIJNVpP4ZBpfDkR-1zZfy8YRSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNVpP4ZBpfDkR-1zZfy8YRSE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:50:36"
+  },
+  {
+    "business_name": "Lakhera ji canteen & nashta Ghar No ,1",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "462023",
+    "phone_number": "+91 79870 43673",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop number 45, number 1, Ibrahimganj, Bhopal, Madhya Pradesh 462001",
+    "area": "Ibrahimganj",
+    "latitude": 23.2660195,
+    "longitude": 77.4037835,
+    "place_id": "ChIJ72dpQi5pfDkRmVi6UetD3FI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ72dpQi5pfDkRmVi6UetD3FI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:50:39"
+  }
+]

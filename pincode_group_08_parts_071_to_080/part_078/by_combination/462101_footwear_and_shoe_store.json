@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AAO Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "462101",
+    "phone_number": "+91 99771 35439",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Shop No 15, Main Rd, near by Bus Stop, Berasia, Tikankhedi, Madhya Pradesh 463106",
+    "area": "462101",
+    "latitude": 23.6217203,
+    "longitude": 77.4312467,
+    "place_id": "ChIJo_pCLwB3fDkR8PaswP_wmmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo_pCLwB3fDkR8PaswP_wmmg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:31:12"
+  },
+  {
+    "business_name": "Salman Boot House",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "462101",
+    "phone_number": "+91 98267 55142",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 7,
+    "address": "79CV+88V, Kumhar Pura Road, Old Ghalla Bazar, Shajanabad, Niyamatpura, Idgah Hills, Bhopal, Madhya Pradesh 462001",
+    "area": "Old Ghalla Bazar, Shajanabad, Niyamatpura, Idgah Hills",
+    "latitude": 23.2708616,
+    "longitude": 77.39329169999999,
+    "place_id": "ChIJ_VQpyBNofDkR7mQw5ljFYtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_VQpyBNofDkR7mQw5ljFYtQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:31:14"
+  }
+]

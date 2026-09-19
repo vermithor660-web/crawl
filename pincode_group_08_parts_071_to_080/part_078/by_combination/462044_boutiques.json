@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Viyomika Collection",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "462044",
+    "phone_number": "+91 75098 09117",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No 02 K K Tower, Barkhedi Kalan, Neelbad Rd, opp. Swami Vivekanand College, Kopal, Bhopal, Madhya Pradesh 462044",
+    "area": "Kopal",
+    "latitude": 23.2005417,
+    "longitude": 77.354385,
+    "place_id": "ChIJP1M6MeddfDkRaktfbP1Qyiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP1M6MeddfDkRaktfbP1Qyiw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:19:41"
+  },
+  {
+    "business_name": "Fashion Manor",
+    "search_category": "Boutiques",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, Market",
+    "pincode": "462044",
+    "phone_number": "+91 89593 54157",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 48,
+    "address": "Shop No .G-9, Maharani Laxmi Bai Shopping Complex, Neelbad Square, Bhopal, Neelbad, Madhya Pradesh 462044",
+    "area": "Neelbad Square",
+    "latitude": 23.1928582,
+    "longitude": 77.34309669999999,
+    "place_id": "ChIJN_wCGABdfDkRm6_7WkBJ_uA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN_wCGABdfDkRm6_7WkBJ_uA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:19:43"
+  }
+]

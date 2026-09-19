@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Shyam Provision Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "462041",
+    "phone_number": "+91 70244 79475",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bhawani Dham, 60, Narela Sankari, Bhopal, Madhya Pradesh 462041",
+    "area": "Narela Sankari, Narela Shankri, Ayodhya Nagar",
+    "latitude": 23.2691902,
+    "longitude": 77.4648181,
+    "place_id": "ChIJP8MLXENpfDkRtda0R_whlcw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP8MLXENpfDkRtda0R_whlcw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:13:28"
+  },
+  {
+    "business_name": "Jai Balajee Grocery and General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "462041",
+    "phone_number": "+91 98270 90929",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Krishna Dham Society, ISRO Colony, Ayodhya Nagar, Bhopal, Madhya Pradesh 462041",
+    "area": "ISRO Colony, Ayodhya Nagar",
+    "latitude": 23.272949,
+    "longitude": 77.4730653,
+    "place_id": "ChIJL3mde6NrfDkRX7KmQndsZW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL3mde6NrfDkRX7KmQndsZW8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:13:28"
+  }
+]

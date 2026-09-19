@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Darbar",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "462027",
+    "phone_number": "+91 98262 88187",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "L7, Sagar Kunj, Mahabali Nagar, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "area": "Sagar Kunj, Mahabali Nagar, Kolar Rd",
+    "latitude": 23.1802997,
+    "longitude": 77.41722539999999,
+    "place_id": "ChIJjXBccbZDfDkRx0uBVv5-XZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXBccbZDfDkRx0uBVv5-XZU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:56:19"
+  },
+  {
+    "business_name": "Chai Ho Jaye",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea Stall / Chai Cafe",
+    "all_categories": "Tea Stall / Chai Cafe",
+    "pincode": "462027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "2, Narmadapuram Rd, Bawadiya Kalan, Misrod, Bhopal, Madhya Pradesh 462026",
+    "area": "Bawadiya Kalan, Misrod",
+    "latitude": 23.191941,
+    "longitude": 77.450515,
+    "place_id": "ChIJAQAdywFEfDkRNdAlp827Aqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAdywFEfDkRNdAlp827Aqk",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:56:22"
+  }
+]

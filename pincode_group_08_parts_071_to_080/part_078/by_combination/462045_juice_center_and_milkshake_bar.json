@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juice Den",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "462045",
+    "phone_number": "+91 89683 05688",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 138,
+    "address": "Scf 4, Vip Galleria Market, VIP Rd, Zirakpur, Punjab 140603",
+    "area": "462045",
+    "latitude": 30.636476899999998,
+    "longitude": 76.8101121,
+    "place_id": "ChIJ51ykIRfrDzkRwLIvqpnNKNA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ51ykIRfrDzkRwLIvqpnNKNA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:21:24"
+  },
+  {
+    "business_name": "Prezzed Juicery",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Health food restaurant",
+    "pincode": "462045",
+    "phone_number": "N/A",
+    "website": "http://www.prezzedjuicery.com/",
+    "rating": 4.4,
+    "reviews_count": 240,
+    "address": "No.43, 1st Block Koramangala, Koramangala, Bengaluru, Karnataka 560034",
+    "area": "1st Block Koramangala, Koramangala",
+    "latitude": 12.929283799999999,
+    "longitude": 77.6344412,
+    "place_id": "ChIJWfcSCK0VrjsRt2HiBjAlKHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWfcSCK0VrjsRt2HiBjAlKHw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:21:24"
+  }
+]

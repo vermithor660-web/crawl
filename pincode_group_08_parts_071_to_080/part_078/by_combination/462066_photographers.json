@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Love Photo Studio",
+    "search_category": "Photographers",
+    "primary_category": "Wedding photographer",
+    "all_categories": "Wedding photographer",
+    "pincode": "462066",
+    "phone_number": "N/A",
+    "website": "https://www.lovephotostudio.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ard no. 3, near IISER colleg, Bhopal, Madhya Pradesh 462030",
+    "area": "462066",
+    "latitude": 23.278079599999998,
+    "longitude": 77.2776931,
+    "place_id": "ChIJgzpIlozE4AwR-qkUHdqlyd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgzpIlozE4AwR-qkUHdqlyd0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:28:12"
+  },
+  {
+    "business_name": "Ckstudio Ltd.",
+    "search_category": "Photographers",
+    "primary_category": "Photographer",
+    "all_categories": "Photographer, Advertising Photographer, Photo shop, Photography service, Photography studio",
+    "pincode": "462066",
+    "phone_number": "+91 87002 58773",
+    "website": "https://ckstudio.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "1666/1, near Hanuman Temple, Govindpuri Extension, Kalkaji, New Delhi, Delhi 110019",
+    "area": "Govindpuri Extension, Kalkaji",
+    "latitude": 28.5346317,
+    "longitude": 77.2598927,
+    "place_id": "ChIJtTFtYrHjDDkR2_jz4GhFvQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtTFtYrHjDDkR2_jz4GhFvQs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:28:14"
+  }
+]

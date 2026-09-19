@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Accounts Solution",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "462038",
+    "phone_number": "+91 99819 91945",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Indra vihar colony, Indra vihar colony, C-128, Airport Rd, Lalghati, Bhopal, Madhya Pradesh 462030",
+    "area": "Lalghati",
+    "latitude": 23.2790832,
+    "longitude": 77.3572298,
+    "place_id": "ChIJ7zJBN5VpfDkRHDwv5bMeylM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7zJBN5VpfDkRHDwv5bMeylM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:08:49"
+  },
+  {
+    "business_name": "Consultancy",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "462038",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6CQJ+6VV, Indira Press Complex, Zone-I, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "Indira Press Complex, Zone-I, Maharana Pratap Nagar",
+    "latitude": 23.238113,
+    "longitude": 77.432161,
+    "place_id": "ChIJ6yEV8s5DfDkRQchQlw4FfII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6yEV8s5DfDkRQchQlw4FfII",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:08:49"
+  }
+]

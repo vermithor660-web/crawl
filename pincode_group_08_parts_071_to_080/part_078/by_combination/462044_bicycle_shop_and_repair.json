@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bike Studio",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "462044",
+    "phone_number": "+91 97694 41031",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "26, Kolar Rd, Deepak Society, Chuna Bhatti, Bhopal, Madhya Pradesh 462016",
+    "area": "Deepak Society, Chuna Bhatti",
+    "latitude": 23.2001968,
+    "longitude": 77.41663439999999,
+    "place_id": "ChIJfc381FBCfDkRICAej-g9dfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfc381FBCfDkRICAej-g9dfE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:19:59"
+  },
+  {
+    "business_name": "CycleWalaHub",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "462044",
+    "phone_number": "+91 755 353 8914",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jain Tower, Comfort Plaza, Plot No 2, Square, near Bharat Petrol Pump, Near Sai Mandir, Nehru Nagar, Bhopal, Madhya Pradesh 462003",
+    "area": "Near Sai Mandir, Nehru Nagar",
+    "latitude": 23.212735199999997,
+    "longitude": 77.3925716,
+    "place_id": "ChIJNQM8xilDfDkRgaidTG4MC5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNQM8xilDfDkRgaidTG4MC5o",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:19:59"
+  }
+]

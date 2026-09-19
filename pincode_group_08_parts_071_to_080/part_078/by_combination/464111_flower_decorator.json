@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suman Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "464111",
+    "phone_number": "+91 88895 19049",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 04, Lateri Road, in front of Mansapuran Mandir, Sironj, Madhya Pradesh 464228",
+    "area": "464111",
+    "latitude": 24.0970153,
+    "longitude": 77.6837032,
+    "place_id": "ChIJfxw7mHfDezkRwk3N2o9LiAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfxw7mHfDezkRwk3N2o9LiAs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:41:19"
+  },
+  {
+    "business_name": "Amit Flower House",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer",
+    "pincode": "464111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Near Markfed Gowdown, Sirhind Bassi Road, Nothern Railway Line, near Ropar Bus stand, near Ropar Adda Bus stand, Sirhind, Punjab 140406",
+    "area": "Star Colony, Brahman Majra",
+    "latitude": 30.628152699999998,
+    "longitude": 76.3885047,
+    "place_id": "ChIJB21xTDkfEDkRSbA-gBq0e7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB21xTDkfEDkRSbA-gBq0e7s",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:41:20"
+  }
+]

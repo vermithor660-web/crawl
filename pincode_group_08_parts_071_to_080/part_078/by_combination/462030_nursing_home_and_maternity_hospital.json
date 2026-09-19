@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajdeep Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "462030",
+    "phone_number": "+91 73540 62233",
+    "website": "http://splstudios.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "54 55, Main Rd, near sant kutiya, Block A, Gayatri Colony, Bairagarh, Bhopal, Madhya Pradesh 462030",
+    "area": "Block A, Gayatri Colony, Bairagarh",
+    "latitude": 23.2725859,
+    "longitude": 77.34440479999999,
+    "place_id": "ChIJ-Q_JtKJnfDkRm0UVwZ-iu6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Q_JtKJnfDkRm0UVwZ-iu6Y",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:58:35"
+  },
+  {
+    "business_name": "Lotus Hospital & Maternity Centre",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Diabetologist, Doctor, Obstetrician-gynecologist, Gynecologist, Infectious disease physician, Maternity Centre, Pediatric clinic, Physiotherapist, Private hospital",
+    "pincode": "462030",
+    "phone_number": "+91 755 409 3322",
+    "website": "http://www.lotushospitalbhopal.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "M 351, Rajharsh Colony, near kolar thana, opposite amrashree marriage garden, Lalita Nagar, Kolar Rd, Nayapura, Bhopal, Madhya Pradesh 462042",
+    "area": "Rajved Colony, Lalita Nagar, Kolar Rd",
+    "latitude": 23.166646,
+    "longitude": 77.41588159999999,
+    "place_id": "ChIJw27czH9DfDkRSNDGgsfgSmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw27czH9DfDkRSNDGgsfgSmg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:58:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ma Vaishno Hotel",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Breakfast restaurant",
+    "pincode": "462026",
+    "phone_number": "+91 95843 91807",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Khajoori Sadak, Madhya Pradesh 462030",
+    "area": "462026",
+    "latitude": 23.241811,
+    "longitude": 77.242969,
+    "place_id": "ChIJQfDUVoBgfDkRlMdNvCc6jUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQfDUVoBgfDkRlMdNvCc6jUI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:54:29"
+  },
+  {
+    "business_name": "SMACK FOOD TRUCK BHOPAL",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "462026",
+    "phone_number": "+91 70001 48407",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 112,
+    "address": "Hawkers Corner, Campion School Rd, Shahpura, Bhopal, Madhya Pradesh 462016",
+    "area": "Shahpura",
+    "latitude": 23.2056175,
+    "longitude": 77.42631589999999,
+    "place_id": "ChIJ1Z1zyN9DfDkRJ7EyIhVWL5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Z1zyN9DfDkRJ7EyIhVWL5Y",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:54:30"
+  }
+]

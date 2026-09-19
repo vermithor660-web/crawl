@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Waffle Co.",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Dessert restaurant",
+    "all_categories": "Dessert restaurant",
+    "pincode": "462047",
+    "phone_number": "+91 74408 48558",
+    "website": "https://www.thewafffleco.in/",
+    "rating": 4.9,
+    "reviews_count": 593,
+    "address": "Mahendra Business Square, Shop No. 5, Block No. 1, Plot No. 3, Bhopal, Madhya Pradesh 462039",
+    "area": "Aakriti Ecocity, Salaiya",
+    "latitude": 23.1769797,
+    "longitude": 77.4391648,
+    "place_id": "ChIJz7F7Tg9DfDkRcP2DjbJdCrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz7F7Tg9DfDkRcP2DjbJdCrg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:25:20"
+  },
+  {
+    "business_name": "The Belgian Waffle Co.",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Cafe, Cake shop, Family restaurant, Dessert restaurant",
+    "pincode": "462047",
+    "phone_number": "+91 86570 64365",
+    "website": "https://thebelgianwaffle.co/",
+    "rating": 4.6,
+    "reviews_count": 144,
+    "address": "SHOP NO. 8 BLOCK 4, Mahendra square, Bawadiya Kalan, Salaiya, Bhopal, Madhya Pradesh 462039",
+    "area": "Bawadiya Kalan, Salaiya",
+    "latitude": 23.1770694,
+    "longitude": 77.4386444,
+    "place_id": "ChIJf9E894BDfDkRz68uQ189kf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf9E894BDfDkRz68uQ189kf8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:25:22"
+  }
+]

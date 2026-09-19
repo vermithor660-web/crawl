@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tarayka Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "462031",
+    "phone_number": "+91 79786 99686",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop no. 5, Ground Floor, Virasha STC, beside Bata Showroom, Rohit Nagar, Bawadiya Kalan, Gulmohar Colony, Bhopal, Madhya Pradesh 462026",
+    "area": "Rohit Nagar, Bawadiya Kalan, Gulmohar Colony",
+    "latitude": 23.179695,
+    "longitude": 77.4380458,
+    "place_id": "ChIJYXwYll9DfDkR4rWpsTVaCqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYXwYll9DfDkR4rWpsTVaCqU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:00:31"
+  },
+  {
+    "business_name": "Gods gift dresses",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "462031",
+    "phone_number": "+91 73892 97767",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Shop.no.24.sant hirdaram complex, Bairagarh, Bhopal, Madhya Pradesh 462031",
+    "area": "Block A, Hemu Kalani, Bairagarh",
+    "latitude": 23.270819,
+    "longitude": 77.33961,
+    "place_id": "ChIJYVjICoNnfDkRBJIT58hYYZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYVjICoNnfDkRBJIT58hYYZ8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:00:32"
+  }
+]

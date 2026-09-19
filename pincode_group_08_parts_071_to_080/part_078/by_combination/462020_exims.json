@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A S Exim",
+    "search_category": "EXIMS",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "462020",
+    "phone_number": "+91 82329 10912",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "67/17, Strand Rd, Jorabagan, Kolkata, West Bengal 700006",
+    "area": "Jorabagan",
+    "latitude": 22.5931061,
+    "longitude": 88.3529392,
+    "place_id": "ChIJNdS59a13AjoR49SGBPcWJLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNdS59a13AjoR49SGBPcWJLs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:48:16"
+  },
+  {
+    "business_name": "Exim Power Solutions",
+    "search_category": "EXIMS",
+    "primary_category": "Machinery parts manufacturer",
+    "all_categories": "Machinery parts manufacturer",
+    "pincode": "462020",
+    "phone_number": "+91 98111 16029",
+    "website": "https://www.eximpowers.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Mohan Villa, 80 B, Iskcon Temple Rd, Sant Nagar, East of Kailash, New Delhi, Delhi 110065",
+    "area": "Sant Nagar, East of Kailash",
+    "latitude": 28.5560182,
+    "longitude": 77.2502942,
+    "place_id": "ChIJobrE3pHjDDkRBtxyfaC6usI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJobrE3pHjDDkRBtxyfaC6usI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:48:16"
+  }
+]

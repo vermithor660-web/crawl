@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "solanki ji event planner",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist",
+    "pincode": "462046",
+    "phone_number": "+91 78280 50297",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "EMX 09, Indus Towne, Bhopal, Madhya Pradesh 462047",
+    "area": "Indus Towne, Hari Ganga Nagar",
+    "latitude": 23.1311558,
+    "longitude": 77.48890569999999,
+    "place_id": "ChIJn34F5y5HfDkRvwlz31HIFUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn34F5y5HfDkRvwlz31HIFUI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:24:14"
+  },
+  {
+    "business_name": "Party Shop",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party store",
+    "all_categories": "Party store",
+    "pincode": "462046",
+    "phone_number": "+91 755 271 3137",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No 3, Laxmi Complex, Lalwani Press Rd, Itwara, Azad Market, Peer Gate Area, Bhopal, Madhya Pradesh 462001",
+    "area": "Itwara, Azad Market, Peer Gate Area",
+    "latitude": 23.2603024,
+    "longitude": 77.4031789,
+    "place_id": "ChIJVVVVxSNofDkRGVOLEwsuPV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVxSNofDkRGVOLEwsuPV0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:24:15"
+  }
+]

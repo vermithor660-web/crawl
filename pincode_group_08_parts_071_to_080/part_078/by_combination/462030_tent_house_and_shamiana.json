@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karan Event and tent house,",
+    "search_category": "Tent House and Shamiana",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "462030",
+    "phone_number": "+91 79873 08179",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rahul Nagar, Beta Gaon Rd, Behata, Bairagarh, Bhopal, Madhya Pradesh 462030",
+    "area": "Behata, Bairagarh",
+    "latitude": 23.2644238,
+    "longitude": 77.33633859999999,
+    "place_id": "ChIJGU7hpaVnfDkRWGgHiqanNPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGU7hpaVnfDkRWGgHiqanNPc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:59:16"
+  },
+  {
+    "business_name": "Shobha tent house",
+    "search_category": "Tent House and Shamiana",
+    "primary_category": "Business related",
+    "all_categories": "Business related",
+    "pincode": "462030",
+    "phone_number": "+91 98260 86739",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "24, BDA Complex, Saket Nagar, Habib Ganj, Bhopal, Madhya Pradesh 462024",
+    "area": "Saket Nagar, Habib Ganj",
+    "latitude": 23.2087821,
+    "longitude": 77.4559001,
+    "place_id": "ChIJ4TvYHs1DfDkReEw-c9rllfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4TvYHs1DfDkReEw-c9rllfE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:59:17"
+  }
+]

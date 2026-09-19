@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Famous Fish And Chicken Market",
+    "search_category": "Fish Market",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "462101",
+    "phone_number": "+91 86024 72226",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhopal Rd, New Bus Stand, Berasia, Madhya Pradesh 463106",
+    "area": "462101",
+    "latitude": 23.6222922,
+    "longitude": 77.42848029999999,
+    "place_id": "ChIJ-ckQ7KZ3fDkRa8ICsU0RVeI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ckQ7KZ3fDkRa8ICsU0RVeI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:30:56"
+  },
+  {
+    "business_name": "Abhijeet jaat",
+    "search_category": "Fish Market",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service, Farmers' market",
+    "pincode": "462101",
+    "phone_number": "+91 89640 63519",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kotra Chopra, Madhya Pradesh 462101",
+    "area": "462101",
+    "latitude": 23.4498113,
+    "longitude": 77.45298679999999,
+    "place_id": "ChIJ4dZz-nBxfDkRFQV2c4_uqYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4dZz-nBxfDkRFQV2c4_uqYk",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:30:56"
+  }
+]

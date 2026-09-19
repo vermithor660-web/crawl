@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SMT Cargo & Transport Co.",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "462044",
+    "phone_number": "+91 755 424 2548",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shop No. 3, Industrial Area,, Raisen Rd, Sector A, Govindpura, Bhopal, Madhya Pradesh 462023",
+    "area": "Sector A, Govindpura",
+    "latitude": 23.2545477,
+    "longitude": 77.4484014,
+    "place_id": "ChIJcdNKyApCfDkRHhVGCIPEpmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcdNKyApCfDkRHhVGCIPEpmw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:20:03"
+  },
+  {
+    "business_name": "Gwala Transport Service",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "462044",
+    "phone_number": "+91 93018 70229",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "JK Rd, Govindpura, Bhopal, Madhya Pradesh 462023",
+    "area": "Govindpura",
+    "latitude": 23.256442999999997,
+    "longitude": 77.45304999999999,
+    "place_id": "ChIJpW5p_wlCfDkRS4ktSYe1wu0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpW5p_wlCfDkRS4ktSYe1wu0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:20:04"
+  }
+]

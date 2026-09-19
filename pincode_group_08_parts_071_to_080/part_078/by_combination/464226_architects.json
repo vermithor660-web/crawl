@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TNCP CONSULTANT",
+    "search_category": "Architects",
+    "primary_category": "Engineering consultant",
+    "all_categories": "Engineering consultant, Architectural designer, Building designer, Civil engineer, Drafting Service Center, Land surveyor",
+    "pincode": "464226",
+    "phone_number": "+91 79747 19839",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ahmadpur Rd, Puranpura, Vidisha, Madhya Pradesh 464001",
+    "area": "Puranpura",
+    "latitude": 23.5160773,
+    "longitude": 77.8208011,
+    "place_id": "ChIJR9t9cAAFfDkRE6DtiCdSdcY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR9t9cAAFfDkRE6DtiCdSdcY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:51:50"
+  },
+  {
+    "business_name": "Mehak consultant & Architect",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect, Civil engineering company",
+    "pincode": "464226",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Gali No.4, near Indian Bank, Durga Nagar, Vidisha, Madhya Pradesh 464001",
+    "area": "Durga Nagar",
+    "latitude": 23.5124012,
+    "longitude": 77.8165084,
+    "place_id": "ChIJA7kOK24FfDkR3N0hngEcvKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA7kOK24FfDkR3N0hngEcvKY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:51:50"
+  }
+]

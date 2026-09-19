@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Seed Store",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Agricultural Seed Store",
+    "all_categories": "Agricultural Seed Store",
+    "pincode": "462002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "New Sabji Market, 6, Hamidia Rd, Gurudwara Market, Ghora Nakkas, Peer Gate Area, Bhopal, Madhya Pradesh 462001",
+    "area": "Gurudwara Market, Ghora Nakkas, Peer Gate Area",
+    "latitude": 23.2631081,
+    "longitude": 77.4071204,
+    "place_id": "ChIJK8LonyRofDkRkDq1VBZnqno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK8LonyRofDkRkDq1VBZnqno",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:33:13"
+  },
+  {
+    "business_name": "Anand Poha",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Tea house, Vegetarian restaurant",
+    "pincode": "462002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "6CHP+R49, Near Pragati Petrol Pump, Zone-II, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "Near Pragati Petrol Pump, Zone-II, Maharana Pratap Nagar",
+    "latitude": 23.2295372,
+    "longitude": 77.43536639999999,
+    "place_id": "ChIJHWCgJV1CfDkR0Q18jSXE0ds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHWCgJV1CfDkR0Q18jSXE0ds",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:33:13"
+  }
+]

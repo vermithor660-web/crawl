@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mishra Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "464224",
+    "phone_number": "+91 93022 31522",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Makroniya, Madhya Pradesh 470004",
+    "area": "464224",
+    "latitude": 23.853078999999997,
+    "longitude": 78.793274,
+    "place_id": "ChIJSTCeCKDReDkRlcXgqeNGTl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSTCeCKDReDkRlcXgqeNGTl4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:50:16"
+  },
+  {
+    "business_name": "Lala Jain caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Restaurant supply store",
+    "all_categories": "Restaurant supply store",
+    "pincode": "464224",
+    "phone_number": "+91 85030 77740",
+    "website": "http://www.lalajaincaterers.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward no 18, girls school, gali, kila road, Housing Colony, Bhind, Madhya Pradesh 477001",
+    "area": "Housing Colony",
+    "latitude": 26.5609975,
+    "longitude": 78.7930153,
+    "place_id": "ChIJ9bNfqT97djkRPeoGoQRPYfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bNfqT97djkRPeoGoQRPYfE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:50:17"
+  }
+]
