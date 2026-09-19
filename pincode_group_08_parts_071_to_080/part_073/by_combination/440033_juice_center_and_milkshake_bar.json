@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Burhanpur juice center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop",
+    "pincode": "440033",
+    "phone_number": "+91 80105 61338",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 258,
+    "address": "high school, Lad apartment, N Ambazari Rd, opp. dharampeth, Dharampeth, Nagpur, Maharashtra 440010",
+    "area": "Khare Town, Dharampeth",
+    "latitude": 21.1369808,
+    "longitude": 79.0651656,
+    "place_id": "ChIJr9gkop3B1DsRniyVGAR1BZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr9gkop3B1DsRniyVGAR1BZ4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:05:16"
+  },
+  {
+    "business_name": "Laxmi juice and milk shake centre",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "440033",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "101, S Ambazari Rd, Parsodi, Subhash Nagar, Trimurti Nagar, Nagpur, Maharashtra 440022",
+    "area": "Parsodi, Subhash Nagar, Trimurti Nagar",
+    "latitude": 21.121954499999998,
+    "longitude": 79.0480166,
+    "place_id": "ChIJz4bPKlvB1DsRRQlkXZxxIDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4bPKlvB1DsRRQlkXZxxIDk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:05:16"
+  }
+]

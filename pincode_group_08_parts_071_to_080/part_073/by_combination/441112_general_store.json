@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S K Cosmetic",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "441112",
+    "phone_number": "+91 91687 31055",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 3 Bazar Chowk, Main Road, Kelod, Maharashtra 441112",
+    "area": "441112",
+    "latitude": 21.4611968,
+    "longitude": 78.8771718,
+    "place_id": "ChIJLSuqYSvj1DsRl0VnNgL_fCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLSuqYSvj1DsRl0VnNgL_fCU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:36:56"
+  },
+  {
+    "business_name": "Hariom Telecom and General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "441112",
+    "phone_number": "+91 87888 63422",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Hanuman Mandir, Khangaon, Maharashtra 441107",
+    "area": "441112",
+    "latitude": 21.4291405,
+    "longitude": 78.9234099,
+    "place_id": "ChIJ3XjGXVbj1DsRHJ3BLtwHN-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3XjGXVbj1DsRHJ3BLtwHN-w",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:36:58"
+  }
+]

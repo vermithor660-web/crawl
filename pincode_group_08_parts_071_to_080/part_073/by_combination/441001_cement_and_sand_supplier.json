@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pooja Traders",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "441001",
+    "phone_number": "+91 77980 94585",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "JN Road,Opp. Alpha Medicose,Friday Market, Kamptee, Maharashtra 441001",
+    "area": "Manappuram",
+    "latitude": 21.2151087,
+    "longitude": 79.1927862,
+    "place_id": "ChIJgVEAPwTG1DsROYt1c0S7KJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgVEAPwTG1DsROYt1c0S7KJw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:15:39"
+  },
+  {
+    "business_name": "Arora Group Sandmines",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "441001",
+    "phone_number": "+91 33 4053 9999",
+    "website": "http://www.sandmines.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "1809, 18th Floor, SRIJAN CORPORATE PARK, Plot Plot G2, GP Block, Sector V, Bidhannagar, Kolkata, West Bengal 700091",
+    "area": "GP Block, Sector V, Bidhannagar",
+    "latitude": 22.5688209,
+    "longitude": 88.4344088,
+    "place_id": "ChIJVVVVVa51AjoRM5QwIPfHPZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVa51AjoRM5QwIPfHPZU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:15:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Pooja Moje(Chincholkar)",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "440037",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "First floor shop no. FF 2A, Om enclave appartment, near Besa, Near Besa Masjid, Square, Besa, Besa Pipla, Maharashtra 440037",
+    "area": "Near Besa Masjid, Square, Besa",
+    "latitude": 21.0843952,
+    "longitude": 79.0954464,
+    "place_id": "ChIJTZaSSMC_1DsRw2hY9nWsklc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTZaSSMC_1DsRw2hY9nWsklc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:13:27"
+  },
+  {
+    "business_name": "Vasant Medical Agencies",
+    "search_category": "Polyclinic",
+    "primary_category": "Pharmaceutical Products Wholesaler",
+    "all_categories": "Pharmaceutical Products Wholesaler",
+    "pincode": "440037",
+    "phone_number": "+91 99230 17017",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "vasant medical agencies, Besa Rd, Revati Nagar, Omkar Nagar, Besa Pipla, Maharashtra 440037",
+    "area": "Revati Nagar, Omkar Nagar",
+    "latitude": 21.087777,
+    "longitude": 79.08961699999999,
+    "place_id": "ChIJ4aviIT2_1DsRycLFx8Zmk9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4aviIT2_1DsRycLFx8Zmk9A",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:13:28"
+  }
+]

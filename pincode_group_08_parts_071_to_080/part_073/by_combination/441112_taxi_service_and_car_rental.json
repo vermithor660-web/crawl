@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taxi Service Pune Punam Cab",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency, Minibus taxi service, Taxi stand",
+    "pincode": "441112",
+    "phone_number": "+91 76666 31451",
+    "website": "http://punamcab.com/",
+    "rating": 5,
+    "reviews_count": 418,
+    "address": "Flat no.104, Simran Park Building, 9, Samrat Ashok Rd, opposite water tank, Bombay Sappers Colony, Aga Nagar, Wadgaon Sheri, Pune, Maharashtra 411014",
+    "area": "Bombay Sappers Colony, Aga Nagar, Wadgaon Sheri",
+    "latitude": 18.561503,
+    "longitude": 73.92721039999999,
+    "place_id": "ChIJedGPxJTBwjsRmh7YXT7Nm9k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJedGPxJTBwjsRmh7YXT7Nm9k",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:37:31"
+  },
+  {
+    "business_name": "Taxi Services",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "441112",
+    "phone_number": "+91 88882 77814",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "13, behind Bank Of Maharashtra, Karve Nagar, Somalwada, Nagpur, Maharashtra 440025",
+    "area": "Karve Nagar, Somalwada",
+    "latitude": 21.091220099999997,
+    "longitude": 79.06682959999999,
+    "place_id": "ChIJgTvbJFG_1DsRWY0ilQIRWX0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgTvbJFG_1DsRWY0ilQIRWX0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:37:31"
+  }
+]

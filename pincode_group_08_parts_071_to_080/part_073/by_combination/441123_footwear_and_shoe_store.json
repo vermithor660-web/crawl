@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "H.M.Shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "441123",
+    "phone_number": "+91 97654 26612",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 5,
+    "address": "Shop No. 05, Mahajan Complex, Godhani Road, Zingabai Takli, Nagpur, Maharashtra 440030",
+    "area": "Gayatri Nagar, Zingabai Takli",
+    "latitude": 21.1951739,
+    "longitude": 79.0700336,
+    "place_id": "ChIJCfWddXTB1DsRK1WGS1Q-AvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCfWddXTB1DsRK1WGS1Q-AvU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:42:28"
+  },
+  {
+    "business_name": "Your choice the footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "441123",
+    "phone_number": "+91 93707 93683",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 6,
+    "address": "Road, Geeta Nagar, Faras, Zingabai Takli, Nagpur, Maharashtra 440030",
+    "area": "Geeta Nagar, Faras, Zingabai Takli",
+    "latitude": 21.1917314,
+    "longitude": 79.0753364,
+    "place_id": "ChIJr3tefwDB1DsRwZtB0vpIeeg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr3tefwDB1DsRwZtB0vpIeeg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:42:28"
+  }
+]

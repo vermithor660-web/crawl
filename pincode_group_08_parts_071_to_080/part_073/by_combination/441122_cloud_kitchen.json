@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Backyard Dine",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "441122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Wardha Rd, near Narayana Vidyalayam, opp. Banjara’s Chulla, Nagpur, Maharashtra 440015",
+    "area": "441122",
+    "latitude": 21.059231099999998,
+    "longitude": 79.0567518,
+    "place_id": "ChIJi0f3CyS_1DsR9Dt9DPPvnKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi0f3CyS_1DsR9Dt9DPPvnKM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:40:34"
+  },
+  {
+    "business_name": "Indu's Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "441122",
+    "phone_number": "+91 73876 46527",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Paradise Urban Glory/ RAI IMPERIAL II, Wardha Road, Road, opposite to Hotel Le Meridien, Panjari farm, Nagpur, Maharashtra 441108",
+    "area": "441122",
+    "latitude": 21.0412757,
+    "longitude": 79.05425129999999,
+    "place_id": "ChIJr801oiW_1DsRF20kzRMYGhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr801oiW_1DsRF20kzRMYGhA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:40:34"
+  }
+]

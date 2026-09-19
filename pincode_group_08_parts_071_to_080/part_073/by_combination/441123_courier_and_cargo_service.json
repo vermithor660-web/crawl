@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tej Couriers",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "441123",
+    "phone_number": "+91 231 255 0022",
+    "website": "https://www.tejcouriers.com/",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Th. Hingna, Wadi, Maharashtra 440023",
+    "area": "Th. Hingna, Wadi",
+    "latitude": 21.1532719,
+    "longitude": 79.01030399999999,
+    "place_id": "ChIJsyH6GIXq1DsRzoQfStBsJVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsyH6GIXq1DsRzoQfStBsJVg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:43:38"
+  },
+  {
+    "business_name": "Godhni Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "441123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 17,
+    "address": "6367+PH4, W C L Colony, Godhni, Godhani (Railway), Maharashtra 441123",
+    "area": "W C L Colony, Godhni",
+    "latitude": 21.2117582,
+    "longitude": 79.0639425,
+    "place_id": "ChIJiwb6FoHB1DsRRWY0aVFxwDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiwb6FoHB1DsRRWY0aVFxwDM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:43:38"
+  }
+]

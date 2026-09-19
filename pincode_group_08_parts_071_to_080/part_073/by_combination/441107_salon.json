@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prince Hair Dresses",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "441107",
+    "phone_number": "+91 95795 86141",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mahajan Layout, Saoner Rd, Saoner, Maharashtra 441107",
+    "area": "441107",
+    "latitude": 21.385948799999998,
+    "longitude": 78.9225323,
+    "place_id": "ChIJt6upTBrl1DsR_ZN0BavhV2w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt6upTBrl1DsR_ZN0BavhV2w",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:28:37"
+  },
+  {
+    "business_name": "Embellish the unisex salon patansaongi",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "441107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Sai baba society, 2nd floor Grampanchyat Road, Patansaongi, Maharashtra 441113",
+    "area": "441107",
+    "latitude": 21.331563799999998,
+    "longitude": 79.01858469999999,
+    "place_id": "ChIJTRzpvIXn1DsRw2ImtehRBiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTRzpvIXn1DsRw2ImtehRBiI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:28:39"
+  }
+]

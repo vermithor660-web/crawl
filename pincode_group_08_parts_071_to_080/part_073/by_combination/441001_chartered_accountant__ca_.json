@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TKKS & Co.",
+    "search_category": "Chartered Accountant (CA)",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "441001",
+    "phone_number": "+91 78880 37013",
+    "website": "https://www.tkks.co/",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "Meherbaba Complex, 225-e, Marg, Gokulpeth, Nagpur, Maharashtra 440010",
+    "area": "Gokulpeth",
+    "latitude": 21.144043999999997,
+    "longitude": 79.0608068,
+    "place_id": "ChIJFcjXl57B1DsR9Z_SF9L7wew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFcjXl57B1DsR9Z_SF9L7wew",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:16:16"
+  },
+  {
+    "business_name": "Vijaywargi Khabiya And Saoji",
+    "search_category": "Chartered Accountant (CA)",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant",
+    "pincode": "441001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3rd Floor, MG House, Ravindra Nath Tagore Marg, above Axis Bank, Civil Lines, Nagpur, Maharashtra 440001",
+    "area": "Civil Lines",
+    "latitude": 21.149403799999998,
+    "longitude": 79.0739943,
+    "place_id": "ChIJAQCQJPLA1DsRf8MmGglO3r0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQCQJPLA1DsRf8MmGglO3r0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:16:16"
+  }
+]

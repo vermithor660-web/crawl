@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Appointments Today",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Call center",
+    "all_categories": "Call center, Consultant, Marketing agency",
+    "pincode": "441110",
+    "phone_number": "N/A",
+    "website": "http://www.appointmentstoday.net/",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "19609 Puritas Ave, Cleveland, OH 44135, United States",
+    "area": "Hopkins",
+    "latitude": 41.4339146,
+    "longitude": -81.8388094,
+    "place_id": "ChIJi96aKhztMIgRv8mMlNI_VWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi96aKhztMIgRv8mMlNI_VWA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:35:02"
+  },
+  {
+    "business_name": "Your Corporate Concierge, LLC",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "441110",
+    "phone_number": "N/A",
+    "website": "https://www.yccambassador.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "10574 Ravenna Rd Ste 1A, Twinsburg, OH 44087, United States",
+    "area": "441110",
+    "latitude": 41.327536699999996,
+    "longitude": -81.461739,
+    "place_id": "ChIJxd5p8-whMYgRBB0iF5wQEeI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxd5p8-whMYgRBB0iF5wQEeI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:35:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ENT ONE Clinics",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "440036",
+    "phone_number": "+91 86005 28504",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "3rd floor, Shewalkar Arcade, W High Ct Rd, Laxmibhavan Square, Dharampeth, Nagpur, Maharashtra 440010",
+    "area": "Laxmibhavan Square, Dharampeth",
+    "latitude": 21.140004299999998,
+    "longitude": 79.06018019999999,
+    "place_id": "ChIJHadouwPB1DsRIo7CXGdZ2tQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHadouwPB1DsRIo7CXGdZ2tQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:11:32"
+  },
+  {
+    "business_name": "Dubewar Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "440036",
+    "phone_number": "+91 97674 49544",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 8,
+    "address": "Near Dubewar Clinic, 52, Gopal Nagar Main Road, Gopal Nagar, 2nd Bus Stop, Vijay Nagar, Gayatri Nagar, Pratap Nagar, Nagpur, Maharashtra 440022",
+    "area": "Vijay Nagar, Gayatri Nagar, Pratap Nagar",
+    "latitude": 21.1165439,
+    "longitude": 79.0518282,
+    "place_id": "ChIJcbOCaRC_1DsReDY8mHUIBH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcbOCaRC_1DsReDY8mHUIBH0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:11:32"
+  }
+]

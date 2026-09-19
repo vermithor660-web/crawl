@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nazim Auto Deals",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Auto parts store, Car Dealers",
+    "pincode": "441102",
+    "phone_number": "+91 94231 34149",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Kamptee Rd, Indra Chowk,, opposite Lamba Petrol Pump, Nagpur, Maharashtra 440014",
+    "area": "New Indora",
+    "latitude": 21.1743165,
+    "longitude": 79.1013438,
+    "place_id": "ChIJ262PJynB1DsR7sFq8fRJoGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ262PJynB1DsR7sFq8fRJoGY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:19:10"
+  },
+  {
+    "business_name": "Hindusthan Auto Deals",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Car rental agency, Truck rental agency",
+    "pincode": "441102",
+    "phone_number": "+91 98900 72287",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "SHOP NO. B-14, KAILASPATI APPT., KAMPTEE ROAD., near Gamdoor Restaurant, Nagpur, Maharashtra 440017",
+    "area": "Buddha Nagar, Balabhaupeth",
+    "latitude": 21.175981999999998,
+    "longitude": 79.10508399999999,
+    "place_id": "ChIJ4SYqDCzB1DsR9guZRfvn-kM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4SYqDCzB1DsR9guZRfvn-kM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:19:10"
+  }
+]

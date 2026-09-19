@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Super Xerox",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Copy shop",
+    "all_categories": "Copy shop",
+    "pincode": "440036",
+    "phone_number": "+91 84838 75503",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 8,
+    "address": "43C4+99C, Gopal Nagar Main Rd, Mate Chowk, Pratap Nagar, Nagpur, Maharashtra 440022",
+    "area": "Mate Chowk, Pratap Nagar",
+    "latitude": 21.1209311,
+    "longitude": 79.0558929,
+    "place_id": "ChIJ0wrLX3jA1DsRbWFcCvk72MQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0wrLX3jA1DsRbWFcCvk72MQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:12:20"
+  },
+  {
+    "business_name": "Jaya Xerox Center",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "440036",
+    "phone_number": "+91 97632 86649",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Plot no 5, L.I.C Colony, Khamla Rd, near Durga Mata Mandir, LIC Colony, Surendra Nagar, Vivekanand Nagar, Nagpur, Maharashtra 440015",
+    "area": "LIC Colony, Surendra Nagar, Vivekanand Nagar",
+    "latitude": 21.118339499999998,
+    "longitude": 79.06912609999999,
+    "place_id": "ChIJM2uP0QC_1DsRgMY7o8HKRuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM2uP0QC_1DsRgMY7o8HKRuw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:12:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THAKURJI NASTA AND CHAT CENTRE",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "440034",
+    "phone_number": "+91 99708 64582",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 02, Gaware House, Hudkeshwar Rd, Sai Nagar 01, Nagpur, Maharashtra 440034",
+    "area": "Sai Nagar 01",
+    "latitude": 21.090341499999997,
+    "longitude": 79.1236785,
+    "place_id": "ChIJYayEtpK51DsROqDDBUzM0WE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYayEtpK51DsROqDDBUzM0WE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:07:18"
+  },
+  {
+    "business_name": "Mumbai Chat & Juice Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Dessert shop, Soft drinks shop",
+    "pincode": "440034",
+    "phone_number": "+91 73853 58455",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "43MG+PHR, Central Bazar Road, Gandhi bagh, Ramdaspeth, Nagpur, Maharashtra 440010",
+    "area": "Gandhi bagh, Ramdaspeth",
+    "latitude": 21.1343522,
+    "longitude": 79.0763861,
+    "place_id": "ChIJRZiDJJDA1DsRZRZA81V2yGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRZiDJJDA1DsRZRZA81V2yGI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:07:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wani",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "440033",
+    "phone_number": "+91 22 6852 6666",
+    "website": "https://amul.com/m/amul-scooping-parlours",
+    "rating": 3.9,
+    "reviews_count": 119,
+    "address": "43R8+CMQ, traffic park square, Dharampeth, Nagpur, Maharashtra 440010",
+    "area": "Dharampeth",
+    "latitude": 21.141076599999998,
+    "longitude": 79.0667404,
+    "place_id": "ChIJPweG-YrA1DsRWjYi-jejS50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPweG-YrA1DsRWjYi-jejS50",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:05:08"
+  },
+  {
+    "business_name": "Amul Dairy Delight",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "440033",
+    "phone_number": "+91 98341 55309",
+    "website": "https://amul-dairy-delight.localo.site/?utm_source=google_profile&utm_campaign=localo&utm_medium=mainlink",
+    "rating": 4.8,
+    "reviews_count": 12,
+    "address": "Sulochna Building, Sant Gadge Nagar, Nagpur, Maharashtra 440036",
+    "area": "Sant Gadge Nagar",
+    "latitude": 21.1200208,
+    "longitude": 79.021975,
+    "place_id": "ChIJdZn3fQDB1DsRzSrI1jLOdgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZn3fQDB1DsRzSrI1jLOdgE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:05:09"
+  }
+]

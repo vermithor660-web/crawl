@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree OM ELECTRONIC,ELECTRICAL & REPARING",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronic parts supplier",
+    "all_categories": "Electronic parts supplier, Electrical supply store, Electronics repair shop, Repair service",
+    "pincode": "441101",
+    "phone_number": "+91 99221 53342",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "shop no 9, Ambedkar market, Satava Mata mandir road, near bus stand, Saoner, Maharashtra 441107",
+    "area": "441101",
+    "latitude": 21.3840218,
+    "longitude": 78.9242989,
+    "place_id": "ChIJhU5oPgDl1DsRnzH7Ov4QMEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhU5oPgDl1DsRnzH7Ov4QMEE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:17:24"
+  },
+  {
+    "business_name": "TheElectroots",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical equipment supplier",
+    "all_categories": "Electrical equipment supplier",
+    "pincode": "441101",
+    "phone_number": "N/A",
+    "website": "https://theelectroots.odoo.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward No.03, Shinde House, Kumbahre Layout, behind Railway Station, Saoner, Maharashtra 441107",
+    "area": "441101",
+    "latitude": 21.3869127,
+    "longitude": 78.9261294,
+    "place_id": "ChIJoxjbCu_l1DsR3RQC8kXQBeQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoxjbCu_l1DsR3RQC8kXQBeQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:17:24"
+  }
+]

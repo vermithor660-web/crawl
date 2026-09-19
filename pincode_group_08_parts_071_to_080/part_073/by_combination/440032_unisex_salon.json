@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Glow & Go unisex salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "440032",
+    "phone_number": "+91 91468 73875",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "in front of Bindiya store, Jagnath Budhwari, Tandapeth, Nagpur, Maharashtra 400002",
+    "area": "Jagnath Budhwari, Tandapeth",
+    "latitude": 21.1567761,
+    "longitude": 79.1057293,
+    "place_id": "ChIJp2xntjDB1DsRY49BZKO6oug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp2xntjDB1DsRY49BZKO6oug",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:04:11"
+  },
+  {
+    "business_name": "My Fair Unisex Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Beauty supply store, Hair removal service",
+    "pincode": "440032",
+    "phone_number": "+91 99603 70172",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "81 A, opp. Mayur Mangal Karyalay, Ganesh Nagar, Azamshah Layout, Nagpur, Maharashtra 440024",
+    "area": "Ganesh Nagar, Azamshah Layout",
+    "latitude": 21.1365367,
+    "longitude": 79.11617269999999,
+    "place_id": "ChIJxxQKtDfH1DsRt7xTa6PaIiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxxQKtDfH1DsRt7xTa6PaIiA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:04:14"
+  }
+]

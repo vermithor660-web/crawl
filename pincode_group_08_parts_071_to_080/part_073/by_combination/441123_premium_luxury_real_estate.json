@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Empyrean grande",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Apartment complex",
+    "all_categories": "Apartment complex",
+    "pincode": "441123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 39,
+    "address": "22C4+G6H, Unnamed Road, Maharashtra 441122",
+    "area": "441123",
+    "latitude": 21.0213045,
+    "longitude": 79.0055959,
+    "place_id": "ChIJE2mDb7yX1DsRySryW378QIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE2mDb7yX1DsRySryW378QIE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:43:43"
+  },
+  {
+    "business_name": "Pratiksha NX",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Condominium complex",
+    "all_categories": "Condominium complex",
+    "pincode": "441123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "6328+JJF, Bapu Nagar, Zingabai Takli, Nagpur, Maharashtra 440030",
+    "area": "Bapu Nagar, Zingabai Takli",
+    "latitude": 21.201593,
+    "longitude": 79.06636,
+    "place_id": "ChIJSfYmCdjB1DsR78DlXXWwl2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSfYmCdjB1DsR78DlXXWwl2E",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:43:44"
+  }
+]

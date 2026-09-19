@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa gayatri jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Goldsmith, Silversmith",
+    "pincode": "440032",
+    "phone_number": "+91 80 6548 7579",
+    "website": "https://www.maagayatrijewellers.in/",
+    "rating": 4.3,
+    "reviews_count": 12,
+    "address": "Gurupooja Enclave, Shani Mandir Road, zenda Chowk, Mahal, Nagpur, Maharashtra 440032",
+    "area": "zenda Chowk, Mahal",
+    "latitude": 21.142313299999998,
+    "longitude": 79.11183,
+    "place_id": "ChIJrZO3BUvH1DsRwsgkeHHzz8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZO3BUvH1DsRwsgkeHHzz8s",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:03:31"
+  },
+  {
+    "business_name": "Pant Jewelers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry repair service",
+    "all_categories": "Jewelry repair service, Goldsmith, Jewelry designer, Jewelry manufacturer, Jewelry store",
+    "pincode": "440032",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Haryana House, Naik Galli, Sarafa Bazar, Itwari, Nagpur, Maharashtra 440002",
+    "area": "Sarafa Bazar, Itwari",
+    "latitude": 21.1536983,
+    "longitude": 79.1102183,
+    "place_id": "ChIJTzauA7fH1DsRFS44qI0hqvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTzauA7fH1DsRFS44qI0hqvY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:03:31"
+  }
+]

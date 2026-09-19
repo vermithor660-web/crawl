@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Desi Zaiqa By Element Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Fast food restaurant",
+    "pincode": "440036",
+    "phone_number": "+91 87677 55951",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 125,
+    "address": "shop no.9, T Point, The Yummy Yard, Ambazari - Hingna Rd, near Priyadarshni Girls Hostel, Nagpur, Maharashtra 440036",
+    "area": "Parsodi, Jalvihar Colony",
+    "latitude": 21.1212713,
+    "longitude": 79.03102059999999,
+    "place_id": "ChIJU46KpeG_1DsR9nRsdQqk0IM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU46KpeG_1DsR9nRsdQqk0IM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:11:12"
+  },
+  {
+    "business_name": "Purwa Metals",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Kitchen supply store",
+    "all_categories": "Kitchen supply store",
+    "pincode": "440036",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Tinnal Chowk, Jagnath Budhwari, Itwari, Nagpur, Maharashtra 440002",
+    "area": "Jagnath Budhwari, Itwari",
+    "latitude": 21.1553336,
+    "longitude": 79.1064497,
+    "place_id": "ChIJH3ctVMzA1DsRUBajQc5xPkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH3ctVMzA1DsRUBajQc5xPkg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:11:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe Dreams",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "441109",
+    "phone_number": "+91 78430 50880",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 11,
+    "address": "Government Engineering College,Khapri Punarwasan, Nagpur, Maharashtra 441108",
+    "area": "New Khapri",
+    "latitude": 21.0512055,
+    "longitude": 79.06007029999999,
+    "place_id": "ChIJCV1M8Lu_1DsRGd2W7ePnDpk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCV1M8Lu_1DsRGd2W7ePnDpk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:31:39"
+  },
+  {
+    "business_name": "Carnival Dlite",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Family restaurant",
+    "pincode": "441109",
+    "phone_number": "+91 74208 17001",
+    "website": "https://pcards.org/carnival.resort-54774954",
+    "rating": 4.2,
+    "reviews_count": 274,
+    "address": "Carnival Resort, Beside Raisoni MBA College, Near Madhav Nagari isasani, Hingna road, 19, Nagpur, Maharashtra 441110",
+    "area": "441109",
+    "latitude": 21.086398,
+    "longitude": 78.9918431,
+    "place_id": "ChIJVWcTagmV1DsRrLNTbhFShi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVWcTagmV1DsRrLNTbhFShi8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:31:39"
+  }
+]

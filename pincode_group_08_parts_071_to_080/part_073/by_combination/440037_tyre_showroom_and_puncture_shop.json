@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Tyres",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "440037",
+    "phone_number": "+91 98909 02404",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Wardha Rd, Mihan, Nagpur, Khapri, Maharashtra 441108",
+    "area": "Mihan",
+    "latitude": 21.0561237,
+    "longitude": 79.0545834,
+    "place_id": "ChIJJ-_oP1u-1DsRQH7R2_0-OOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ-_oP1u-1DsRQH7R2_0-OOg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:13:34"
+  },
+  {
+    "business_name": "RK TYRES",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service, Tire shop",
+    "pincode": "440037",
+    "phone_number": "+91 82379 98454",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ramteke Nagar, Beltarodi Rd, Manish Nagar, Besa, Nagpur, Maharashtra 440027",
+    "area": "Manish Nagar, Besa",
+    "latitude": 21.094979499999997,
+    "longitude": 79.087266,
+    "place_id": "ChIJSWb6tGq_1DsRlNScuFUAKgQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSWb6tGq_1DsRlNScuFUAKgQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:13:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NAFS House",
+    "search_category": "Junior College and Degree College",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "440032",
+    "phone_number": "+91 90750 46101",
+    "website": "http://www.nafsindia.com/",
+    "rating": 4.5,
+    "reviews_count": 511,
+    "address": "NAFS House, Plot No. 101, Reshim Bagh, Nagpur, Maharashtra 440024",
+    "area": "Reshim Bagh",
+    "latitude": 21.1309464,
+    "longitude": 79.11079,
+    "place_id": "ChIJHTJ1o7LA1DsRErtSPLDPcak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHTJ1o7LA1DsRErtSPLDPcak",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:04:28"
+  },
+  {
+    "business_name": "Kalasagar Chitrakala Mahavidyalaya",
+    "search_category": "Junior College and Degree College",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "440032",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "33, Ganeshpeth Colony, Nagpur, Maharashtra 440018",
+    "area": "Ganeshpeth Colony",
+    "latitude": 21.1434024,
+    "longitude": 79.0972824,
+    "place_id": "ChIJv09-4Q_B1DsRL8M9PpAju_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv09-4Q_B1DsRL8M9PpAju_g",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:04:28"
+  }
+]

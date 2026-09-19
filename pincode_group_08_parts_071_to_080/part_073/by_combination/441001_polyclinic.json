@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aziz poly clinic and hijama center",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "441001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Behinde cure medical, near kolsatal majid, Maharashtra 441001",
+    "area": "Shiv Panchayat Nagar",
+    "latitude": 21.2205929,
+    "longitude": 79.19754879999999,
+    "place_id": "ChIJEa2wwS_H1DsR8l3eNeP0AnU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEa2wwS_H1DsR8l3eNeP0AnU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:15:21"
+  },
+  {
+    "business_name": "Punit Medical Stores",
+    "search_category": "Polyclinic",
+    "primary_category": "Pharmaceutical Products Wholesaler",
+    "all_categories": "Pharmaceutical Products Wholesaler, Pharmacy",
+    "pincode": "441001",
+    "phone_number": "+91 712 276 5484",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Sandesh Dawa Bazar, near Haj House, Ganjipeth, Gandhibagh, Nagpur, Maharashtra 440018",
+    "area": "Ganjipeth, Gandhibagh",
+    "latitude": 21.15027,
+    "longitude": 79.099125,
+    "place_id": "ChIJsRkkvsjA1DsR_ziNUE_47zA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsRkkvsjA1DsR_ziNUE_47zA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:15:23"
+  }
+]

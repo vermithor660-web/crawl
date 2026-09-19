@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "90Degree Unisex Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "440033",
+    "phone_number": "+91 89890 28756",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop no.7 yadav bhavan, Mata Mandir Rd, Dharampeth, Nagpur, Maharashtra 440010",
+    "area": "Dharampeth",
+    "latitude": 21.140822399999998,
+    "longitude": 79.0630334,
+    "place_id": "ChIJx4aDMRLB1DsRhe9F9nLcPLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx4aDMRLB1DsRhe9F9nLcPLo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:06:06"
+  },
+  {
+    "business_name": "The One Unisex Saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "440033",
+    "phone_number": "+91 95884 35182",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot no: 155, near Shivaji Skating Ground, Gandhi Nagar, Nagpur, Maharashtra 440010",
+    "area": "Gandhi Nagar",
+    "latitude": 21.1340474,
+    "longitude": 79.05432739999999,
+    "place_id": "ChIJCSvnK6LB1DsR4biZWALFe6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCSvnK6LB1DsR4biZWALFe6g",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:06:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reliance Guest House Nagpur",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodging",
+    "all_categories": "Lodging",
+    "pincode": "441104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 58,
+    "address": "Tahsil - Mouda, 5979+5PW,Village Dahali, Mouda - Ramtek Road, Dist, Maharashtra 441104",
+    "area": "441104",
+    "latitude": 21.1629875,
+    "longitude": 79.36932809999999,
+    "place_id": "ChIJtQfBvUHL1DsR9ABtGzP2ZbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQfBvUHL1DsR9ABtGzP2ZbU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:23:13"
+  },
+  {
+    "business_name": "Simnan Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "441104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "4CX2+3JV, Mouda Bypass Rd, Mauda, Mouda, Maharashtra 441104",
+    "area": "441104",
+    "latitude": 21.1477476,
+    "longitude": 79.4015409,
+    "place_id": "ChIJ688w5101KzoRW06QwGBaxXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ688w5101KzoRW06QwGBaxXs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:23:13"
+  }
+]

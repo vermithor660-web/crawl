@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naitik Flower And Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "441105",
+    "phone_number": "+91 99210 67399",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "5453+V5H, Rambhaji Rd, Itwari, Panchpaoli, Chidabai Peth, Golibar Chowk, Hansapuri, Nagpur, Maharashtra 440018",
+    "area": "Itwari, Panchpaoli, Chidabai Peth, Golibar Chowk, Hansapuri",
+    "latitude": 21.159694899999998,
+    "longitude": 79.1029709,
+    "place_id": "ChIJ_WQ1kdHA1DsRzk1IgTHAj8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_WQ1kdHA1DsRzk1IgTHAj8o",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:25:03"
+  },
+  {
+    "business_name": "Shree Gurudew Pushap Bhandar",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "441105",
+    "phone_number": "+91 84830 07005",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "94FX+5X5, Bajar Chowk, Parshivni, Maharashtra 441105",
+    "area": "441105",
+    "latitude": 21.372879299999997,
+    "longitude": 79.14997439999999,
+    "place_id": "ChIJ2--rCLLb1DsRj3q_k9K0Sv4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2--rCLLb1DsRj3q_k9K0Sv4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:25:05"
+  }
+]

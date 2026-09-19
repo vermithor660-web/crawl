@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laggad Kirana Shop Saoner",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "441107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9WR6+9Q9, Saoner, Maharashtra 441107",
+    "area": "441107",
+    "latitude": 21.3909208,
+    "longitude": 78.9119913,
+    "place_id": "ChIJBfUFNRPl1DsR1XPVuKZUaBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfUFNRPl1DsR1XPVuKZUaBw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:27:41"
+  },
+  {
+    "business_name": "Madekar kirana stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "441107",
+    "phone_number": "+91 7113 232 309",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bazar, Chowk, Saoner, Nagpur, Maharashtra 441107",
+    "area": "441107",
+    "latitude": 21.3858787,
+    "longitude": 78.9161987,
+    "place_id": "ChIJIzkGRw_k1DsRM2rvGFswPNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIzkGRw_k1DsRM2rvGFswPNU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:27:42"
+  }
+]

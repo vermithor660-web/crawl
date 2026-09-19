@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CAP BOYS HOSTEL, NAGPUR",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "440023",
+    "phone_number": "N/A",
+    "website": "http://capfoundation.in/",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "5234+F8M, Vayusena Nagar, Wadi, Maharashtra 440023",
+    "area": "Vayusena Nagar",
+    "latitude": 21.153724399999998,
+    "longitude": 79.0057975,
+    "place_id": "ChIJP1Xqr4_q1DsRUuGe_8fkXcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP1Xqr4_q1DsRUuGe_8fkXcc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:52:31"
+  },
+  {
+    "business_name": "Bombay Hotelware",
+    "search_category": "Hostels",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "440023",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rokde Sadan, beside Hotel India Sun, opposite Hotel Amir, Bhavsar Chowk, Gandhibagh, Nagpur, Maharashtra 440002",
+    "area": "Bhavsar Chowk, Gandhibagh",
+    "latitude": 21.1505437,
+    "longitude": 79.1087751,
+    "place_id": "ChIJN_8OOcvA1DsR95aDMu0Z7Es",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN_8OOcvA1DsR95aDMu0Z7Es",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:52:33"
+  }
+]

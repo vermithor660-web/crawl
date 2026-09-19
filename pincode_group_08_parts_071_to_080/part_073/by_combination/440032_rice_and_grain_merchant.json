@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhanguru Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Cosmetics store, General store, Grocery delivery service, Supermarket",
+    "pincode": "440032",
+    "phone_number": "+91 94221 49029",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Futana Oli, behind nehru putla, Itwari, Nagpur, Maharashtra 440002",
+    "area": "Itwari",
+    "latitude": 21.155381,
+    "longitude": 79.1132258,
+    "place_id": "ChIJdW27sjPH1DsRKLB80aUdk7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdW27sjPH1DsRKLB80aUdk7w",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:03:17"
+  },
+  {
+    "business_name": "Dadumal Motumal",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "440032",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "101, shanti sadan, Bhandara Rd, Itwari, Nagpur, Maharashtra 440002",
+    "area": "Ladpura, Itwari",
+    "latitude": 21.1544864,
+    "longitude": 79.11352629999999,
+    "place_id": "ChIJjyhEzArH1DsRJdhZbszSE0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjyhEzArH1DsRJdhZbszSE0Q",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:03:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hungry Eyes",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fast food restaurant",
+    "pincode": "441123",
+    "phone_number": "+91 93704 40767",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 1232,
+    "address": "Mount Rd, Sadar, Nagpur, Maharashtra 440001",
+    "area": "Sadar",
+    "latitude": 21.158405,
+    "longitude": 79.0812909,
+    "place_id": "ChIJHdHyLOTA1DsRhdM6xI96Vuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHdHyLOTA1DsRhdM6xI96Vuw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:42:20"
+  },
+  {
+    "business_name": "Babbu Plaza",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Non Vegetarian Restaurant",
+    "pincode": "441123",
+    "phone_number": "+91 93703 21070",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 1120,
+    "address": "Shop.No.G6, Anjuman Complex, Chindwada Road, Sadar, Nagpur, Maharashtra 440001",
+    "area": "Koradi Colony",
+    "latitude": 21.164042,
+    "longitude": 79.0797223,
+    "place_id": "ChIJ31Ntt-PA1DsRSOBrRROjQsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ31Ntt-PA1DsRSOBrRROjQsg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:42:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EVENT PLANET",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Audiovisual equipment rental service, Caterer, Corporate gift supplier, Event planner, Event venue, Event technology service, Wedding service, Wedding venue",
+    "pincode": "440032",
+    "phone_number": "+91 93692 13200",
+    "website": "http://www.eventplanet.in/",
+    "rating": 4.9,
+    "reviews_count": 241,
+    "address": "2/209, Vikaskhand 2, Vikas Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vikaskhand 2, Vikas Khand, Gomti Nagar",
+    "latitude": 26.850008,
+    "longitude": 80.996115,
+    "place_id": "ChIJp78JYAvjmzkRSKljLAzNFM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp78JYAvjmzkRSKljLAzNFM8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:04:19"
+  },
+  {
+    "business_name": "Shaadi Baraati",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "440032",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Aashiyana Apartments, 243, Lendra Park, Ramdaspeth, Nagpur, Maharashtra 440010",
+    "area": "Lendra Park, Ramdaspeth",
+    "latitude": 21.1355164,
+    "longitude": 79.0702706,
+    "place_id": "ChIJXR_AUQDB1DsRPkxaZkxPHsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXR_AUQDB1DsRPkxaZkxPHsQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:04:20"
+  }
+]

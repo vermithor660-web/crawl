@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "magneto salon&spa",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "441113",
+    "phone_number": "+91 95952 46052",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "ans school k paas, opp ans school dahegao khaparkheda road, Dahegaon Rd, Nagpur, Maharashtra 441113",
+    "area": "441113",
+    "latitude": 21.2896063,
+    "longitude": 79.0866463,
+    "place_id": "ChIJcefE383D1DsRw6cu49gx1wM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcefE383D1DsRw6cu49gx1wM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:39:31"
+  },
+  {
+    "business_name": "Lucky Salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hair salon",
+    "pincode": "441113",
+    "phone_number": "+91 98818 02603",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Wakipura, Patansaongi, Maharashtra 441113",
+    "area": "Wakipura",
+    "latitude": 21.3299322,
+    "longitude": 79.0226969,
+    "place_id": "ChIJg0tdiWaX1DsR9-gjAhOXF7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg0tdiWaX1DsR9-gjAhOXF7U",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:39:32"
+  }
+]

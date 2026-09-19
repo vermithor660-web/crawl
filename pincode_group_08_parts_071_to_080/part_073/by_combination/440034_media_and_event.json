@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Xtract Content",
+    "search_category": "Media and Event",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "440034",
+    "phone_number": "+91 74984 14188",
+    "website": "http://xtractcontent.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near, VCA Ground Rd, beside Lotus Court, Collectors Colony, apartment, Civil Lines, Nagpur, Maharashtra 440001",
+    "area": "Collectors Colony, apartment, Civil Lines",
+    "latitude": 21.155861599999998,
+    "longitude": 79.0771578,
+    "place_id": "ChIJv0QB9n_B1DsRfsTXoyjThqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv0QB9n_B1DsRfsTXoyjThqI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:08:19"
+  },
+  {
+    "business_name": "Tronical Music Studio",
+    "search_category": "Media and Event",
+    "primary_category": "Music producer",
+    "all_categories": "Music producer, Live music venue",
+    "pincode": "440034",
+    "phone_number": "+91 70584 49258",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "869, Malagi Nagar, Ashirwad Nagar, Nagpur, Maharashtra 440024",
+    "area": "Malagi Nagar, Ashirwad Nagar",
+    "latitude": 21.111331,
+    "longitude": 79.1190986,
+    "place_id": "ChIJHVU27iG51DsRnUy_bfwaR2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHVU27iG51DsRnUy_bfwaR2E",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:08:20"
+  }
+]

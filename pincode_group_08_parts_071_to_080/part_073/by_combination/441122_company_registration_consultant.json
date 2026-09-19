@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tata Consultancy Services",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "441122",
+    "phone_number": "N/A",
+    "website": "https://www.tcs.com/",
+    "rating": 4.4,
+    "reviews_count": 1944,
+    "address": "MIHAN, Nagpur, Telhara, Maharashtra 441108",
+    "area": "MIHAN, Nagpur",
+    "latitude": 21.0561798,
+    "longitude": 79.02099419999999,
+    "place_id": "ChIJUcyEoie-1DsRE8Q2PAwBdNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUcyEoie-1DsRE8Q2PAwBdNU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:41:46"
+  },
+  {
+    "business_name": "Company Registration | Legal Pillers",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Service establishment",
+    "pincode": "441122",
+    "phone_number": "N/A",
+    "website": "http://www.legalpillers.com/",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "Company Registration | Legal Pillers, 441122, India",
+    "area": "441122",
+    "latitude": 28.6268329,
+    "longitude": 77.2781646,
+    "place_id": "ChIJI6_3r7vjDDkRH3GsXjC3Lxg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI6_3r7vjDDkRH3GsXjC3Lxg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:41:46"
+  }
+]

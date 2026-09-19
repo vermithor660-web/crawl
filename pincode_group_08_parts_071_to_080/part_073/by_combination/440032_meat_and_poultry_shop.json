@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madne Mutton And Chicken",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "440032",
+    "phone_number": "+91 99396 57663",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "bus stop, Plot No 53, Gopan Nagar 2nd, Vijay Nagar, Gayatri Nagar, Pratap Nagar, Nagpur, Maharashtra 440022",
+    "area": "Vijay Nagar, Gayatri Nagar, Pratap Nagar",
+    "latitude": 21.1167224,
+    "longitude": 79.0519131,
+    "place_id": "ChIJ3SDW-iO_1DsRi5EvaJbkRUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3SDW-iO_1DsRi5EvaJbkRUg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:03:17"
+  },
+  {
+    "business_name": "FreshMeatBucket Non-Veg Store",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Chicken shop, Fish processing, Fried chicken takeaway, Non Vegetarian Restaurant, Seafood market",
+    "pincode": "440032",
+    "phone_number": "+91 94250 32877",
+    "website": "https://www.freshmeatbucket.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "39, near TilakPath, Bhoi Mohalla, Indore, Madhya Pradesh 452007",
+    "area": "Bhoi Mohalla",
+    "latitude": 22.7222238,
+    "longitude": 75.85584949999999,
+    "place_id": "ChIJfZcMRmD9YjkRAMYgRV7_ly4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfZcMRmD9YjkRAMYgRV7_ly4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:03:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAM Marketing",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "440033",
+    "phone_number": "+91 94236 30033",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "191, Shivchhaya, LIT Road, Ram Nagar, Nagpur, Maharashtra 440033",
+    "area": "Ram Nagar",
+    "latitude": 21.1439244,
+    "longitude": 79.05519369999999,
+    "place_id": "ChIJh_3Wb13A1DsRbwufmPuoT5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh_3Wb13A1DsRbwufmPuoT5U",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:05:13"
+  },
+  {
+    "business_name": "Manshree Traders",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler, Clothing wholesaler",
+    "pincode": "440033",
+    "phone_number": "+91 86691 46596",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "D-12, Ajay Nagar, opp. Mahendrashwari Medical Store, Ambazari Hill Top, Nagpur, Maharashtra 440033",
+    "area": "Ambazari Hill Top, Yashwant Nagar",
+    "latitude": 21.1359742,
+    "longitude": 79.0508297,
+    "place_id": "ChIJsfHq1cPB1DsRfD6bUjRgKWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsfHq1cPB1DsRfD6bUjRgKWk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:05:14"
+  }
+]

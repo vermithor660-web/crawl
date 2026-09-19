@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CodeKaroYaaro",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "441109",
+    "phone_number": "+91 80109 96763",
+    "website": "https://www.codekaroyaaro.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ward No. 4, Sant Nagar, Annamod KhaperKheda, Savner, Maharashtra 441102",
+    "area": "441109",
+    "latitude": 21.2771883,
+    "longitude": 79.1108211,
+    "place_id": "ChIJwx_xmTjF1DsRDiQT77tsWsM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwx_xmTjF1DsRDiQT77tsWsM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:32:40"
+  },
+  {
+    "business_name": "K Point Computer",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "441109",
+    "phone_number": "+91 95619 30370",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "44J5+J2P, Dasra Rd, near honda shworoom, Mahal, Nagpur, Maharashtra 440032",
+    "area": "Mahal",
+    "latitude": 21.142105,
+    "longitude": 79.1064012,
+    "place_id": "ChIJa4frMADB1DsRyM4GKAksKQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa4frMADB1DsRyM4GKAksKQ4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:32:40"
+  }
+]

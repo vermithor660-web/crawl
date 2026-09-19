@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Over Night Courier",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "440036",
+    "phone_number": "+91 5165 271 764",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": null,
+    "address": "56, Hingna Rd, Sai Nagar, S R P Camp, Digdoh, Maharashtra 440016",
+    "area": "Sai Nagar, S R P Camp",
+    "latitude": 21.113040299999998,
+    "longitude": 79.0070897,
+    "place_id": "ChIJM5LNg02V1DsRmSwTJGPIEVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5LNg02V1DsRmSwTJGPIEVs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:12:30"
+  },
+  {
+    "business_name": "Shree Maruti Courier Service - Digdoh",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "440036",
+    "phone_number": "+91 93251 78593",
+    "website": "https://nearme.shreemaruti.com/locator/nagpur/Digdoh/shree-maruti-courier-service-in-Digdoh-nagpur--1xZpXJ/home",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "First Floor, Sharma Complex, House No 991, Plot No 3, nearby Mahindra Tractor factory, Sai Nagar, Digdoh, Nagpur, Maharashtra 440016",
+    "area": "Sai Nagar, S R P Camp",
+    "latitude": 21.1132153,
+    "longitude": 79.0075659,
+    "place_id": "ChIJOXvmjCGV1DsRN1fX48LGViU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOXvmjCGV1DsRN1fX48LGViU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:12:30"
+  }
+]

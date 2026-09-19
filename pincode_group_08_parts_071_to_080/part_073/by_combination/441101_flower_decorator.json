@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Phool Bhandar (साई फूल भंडार)",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer, Flower delivery, Flower market, Wholesale florist",
+    "pincode": "441101",
+    "phone_number": "+91 73871 24060",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, opp. of Nehru Market, near Bus Stand, Saoner, Maharashtra 441107",
+    "area": "441101",
+    "latitude": 21.384749499999998,
+    "longitude": 78.92423169999999,
+    "place_id": "ChIJPcZfkqHl1DsR2qmIPN9VaIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPcZfkqHl1DsR2qmIPN9VaIM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:17:41"
+  },
+  {
+    "business_name": "Jam Jam Traders",
+    "search_category": "Flower Decorator",
+    "primary_category": "Building materials market",
+    "all_categories": "Building materials market",
+    "pincode": "441101",
+    "phone_number": "+91 92734 08740",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 13,
+    "address": "saoner, beside central Bank, nagpur, Maharashtra 441107",
+    "area": "441101",
+    "latitude": 21.383276,
+    "longitude": 78.92648799999999,
+    "place_id": "ChIJKWaD5gLk1DsRv-QAqfYvD6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKWaD5gLk1DsRv-QAqfYvD6U",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:17:44"
+  }
+]

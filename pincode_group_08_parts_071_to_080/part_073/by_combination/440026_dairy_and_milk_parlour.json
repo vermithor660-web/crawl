@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A K MART AMUL SHOP",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Ice cream shop",
+    "pincode": "440026",
+    "phone_number": "+91 712 301 3209",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "A K Mart, 1287/B, Chhenwada Road, near Safeway motors, Jafar Nagar, New Mankapur, Nagpur, Maharashtra 440030",
+    "area": "Jafar Nagar, New Mankapur",
+    "latitude": 21.1860476,
+    "longitude": 79.0787221,
+    "place_id": "ChIJBwI40xPB1DsRNWqssrJDKmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBwI40xPB1DsRNWqssrJDKmY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:57:28"
+  },
+  {
+    "business_name": "SHRI KRISHNA DUDH DAIRY AND SWEETY MART",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Dairy",
+    "pincode": "440026",
+    "phone_number": "+91 94230 54675",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "TILAK WARD, RAMTEK, Nagpur, Maharashtra 441106",
+    "area": "440026",
+    "latitude": 21.394533,
+    "longitude": 79.318058,
+    "place_id": "ChIJg-9yAb7T1DsRBc8KMYxEhd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg-9yAb7T1DsRBc8KMYxEhd8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:57:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eden Garden Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "440025",
+    "phone_number": "+91 97646 46973",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 1000,
+    "address": "636H+W44, NH 47, Bokara, Maharashtra 441111",
+    "area": "440025",
+    "latitude": 21.2122638,
+    "longitude": 79.0778364,
+    "place_id": "ChIJoYvzTZ3B1DsR-iSmykuMdw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoYvzTZ3B1DsR-iSmykuMdw4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:55:45"
+  },
+  {
+    "business_name": "Nila's Kitchen",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Biryani restaurant, Chicken restaurant, Food manufacturer, Indian restaurant, Maharashtrian Restaurant, Takeout restaurant, Non Vegetarian Restaurant, North Indian restaurant, Meal delivery",
+    "pincode": "440025",
+    "phone_number": "+91 95034 15590",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 17,
+    "address": "3/21. Taywade Nagar 2, New, Prithviraj Nagar, Beltarodi, Besa Pipla, Maharashtra 440037",
+    "area": "Prithviraj Nagar, Beltarodi",
+    "latitude": 21.072951099999997,
+    "longitude": 79.0769153,
+    "place_id": "ChIJlwOiZyO_1DsRzlbri_FJSJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlwOiZyO_1DsRzlbri_FJSJY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:55:47"
+  }
+]

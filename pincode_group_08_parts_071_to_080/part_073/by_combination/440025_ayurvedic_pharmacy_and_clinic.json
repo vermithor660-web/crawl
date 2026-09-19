@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganraj Medico",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store",
+    "pincode": "440025",
+    "phone_number": "+91 94221 70998",
+    "website": "https://www.ganrajmedico.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "1, Kadam Complex, Nanded Bus Stand Rd, opp. Sashkiya Ayurvedic Rughnalay, Nanded, Maharashtra 431601",
+    "area": "Khadakpura",
+    "latitude": 19.1579449,
+    "longitude": 77.3063925,
+    "place_id": "ChIJt9IwxmnW0TsRQeCPDkMmzd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt9IwxmnW0TsRQeCPDkMmzd4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:56:02"
+  },
+  {
+    "business_name": "Jain Medical Stores",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "440025",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 7,
+    "address": "43MH+W9W, Lokmat Square, Ramdaspeth, Nagpur, Maharashtra 440012",
+    "area": "Lokmat Square, Ramdaspeth",
+    "latitude": 21.1348609,
+    "longitude": 79.0784573,
+    "place_id": "ChIJZ5OxIwLB1DsRocC541YluoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ5OxIwLB1DsRocC541YluoM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:56:02"
+  }
+]

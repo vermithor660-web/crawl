@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dube Bear shop",
+    "search_category": "Shops",
+    "primary_category": "Wine store",
+    "all_categories": "Wine store",
+    "pincode": "441107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 19,
+    "address": "9WMF+JH9, Saoner, Maharashtra 441107",
+    "area": "441107",
+    "latitude": 21.3840331,
+    "longitude": 78.923985,
+    "place_id": "ChIJS8yEdGXl1DsRkOQ_EY3Kx1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS8yEdGXl1DsRkOQ_EY3Kx1Q",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:29:32"
+  },
+  {
+    "business_name": "Shop No.02, Gol Market",
+    "search_category": "Shops",
+    "primary_category": "Shops",
+    "all_categories": "Shops",
+    "pincode": "441107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gol Market, Saoner, Maharashtra 441107",
+    "area": "441107",
+    "latitude": 21.3856581,
+    "longitude": 78.9165203,
+    "place_id": "ChIJ5bgVRA_k1DsRxz9ARMIP9kM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5bgVRA_k1DsRxz9ARMIP9kM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:29:34"
+  }
+]

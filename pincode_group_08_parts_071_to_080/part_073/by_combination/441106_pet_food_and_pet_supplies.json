@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DK’s Pet villa",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Bird shop",
+    "all_categories": "Bird shop",
+    "pincode": "441106",
+    "phone_number": "+91 94043 13438",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 51,
+    "address": "Khamtalao Road, Narkesari ward, Bhandara, Maharashtra 441904",
+    "area": "Narkesari ward",
+    "latitude": 21.1717952,
+    "longitude": 79.6550725,
+    "place_id": "ChIJXXXQwwY_KzoRyNN_lhQJD7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXXXQwwY_KzoRyNN_lhQJD7Q",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:25:58"
+  },
+  {
+    "business_name": "Vidarbha Pets And Aquarium House",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "441106",
+    "phone_number": "+91 86684 99210",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 84,
+    "address": "Dr.zakir husaeen ward khantalaw, Madhav Nagar, Bhandara, Maharashtra 441904",
+    "area": "Madhav Nagar",
+    "latitude": 21.1704461,
+    "longitude": 79.65128299999999,
+    "place_id": "ChIJdxWMR00_KzoRxPL0LnccivI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdxWMR00_KzoRxPL0LnccivI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:25:58"
+  }
+]

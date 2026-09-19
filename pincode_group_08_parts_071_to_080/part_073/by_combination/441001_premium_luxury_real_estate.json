@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Orange City Heights",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "441001",
+    "phone_number": "+91 98607 69876",
+    "website": "https://maitreyadevelopers.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Nagpur, Kamptee Rd, near edify school, Khairy, Maharashtra 440029",
+    "area": "441001",
+    "latitude": 21.2098506,
+    "longitude": 79.15749629999999,
+    "place_id": "ChIJFzshSwfH1DsRoilgMhOXp6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFzshSwfH1DsRoilgMhOXp6E",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:16:22"
+  },
+  {
+    "business_name": "Premier Properties",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "441001",
+    "phone_number": "+91 96254 38388",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Block B, Sewak Park, Dwarka, Delhi, 110059",
+    "area": "Block B, Sewak Park, Dwarka",
+    "latitude": 28.616610299999998,
+    "longitude": 77.0356734,
+    "place_id": "ChIJW3TImjcFDTkROuPaQhxryhw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW3TImjcFDTkROuPaQhxryhw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:16:22"
+  }
+]

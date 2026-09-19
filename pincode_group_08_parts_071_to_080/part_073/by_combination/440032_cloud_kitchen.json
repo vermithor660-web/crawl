@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Angel Refrigeration & Engineering Works",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Kitchen furniture store",
+    "all_categories": "Kitchen furniture store",
+    "pincode": "440032",
+    "phone_number": "+91 95957 69615",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Nara Rd, Jaripatka, Nagpur, Maharashtra 440014",
+    "area": "Jaripatka",
+    "latitude": 21.1799984,
+    "longitude": 79.0941175,
+    "place_id": "ChIJbWniySTB1DsRQImobItmVfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbWniySTB1DsRQImobItmVfY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:03:26"
+  },
+  {
+    "business_name": "Rai's Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "440032",
+    "phone_number": "+91 82374 17701",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 53,
+    "address": "Manav Seva Nagar, Nagpur, Maharashtra 440013",
+    "area": "Manav Seva Nagar",
+    "latitude": 21.1716706,
+    "longitude": 79.0423088,
+    "place_id": "ChIJtQLOTADB1DsRi_4pRoTQ2Tc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQLOTADB1DsRi_4pRoTQ2Tc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:03:26"
+  }
+]

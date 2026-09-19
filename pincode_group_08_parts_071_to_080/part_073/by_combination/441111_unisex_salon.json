@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Excellent Men's Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "441111",
+    "phone_number": "+91 97413 27475",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 189,
+    "address": "1st Floor, 12, 1st Cross Rd, Navodaya Nagar, JP Nagar 7th Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+    "area": "Navodaya Nagar, JP Nagar 7th Phase, J. P. Nagar",
+    "latitude": 12.882755699999999,
+    "longitude": 77.58324019999999,
+    "place_id": "ChIJSxN_UUYVrjsReK7zIw-qykU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSxN_UUYVrjsReK7zIw-qykU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:36:02"
+  },
+  {
+    "business_name": "Top Man Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "441111",
+    "phone_number": "+91 77748 62999",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Adarsha Nagar, Vidhya Nagar, Bokara, Maharashtra 441111",
+    "area": "Adarsha Nagar, Vidhya Nagar",
+    "latitude": 21.2207679,
+    "longitude": 79.0796872,
+    "place_id": "ChIJi9V_YdnD1DsRcwPBUGe1njE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi9V_YdnD1DsRcwPBUGe1njE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:36:03"
+  }
+]

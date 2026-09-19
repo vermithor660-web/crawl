@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hyderabad Pan Mahal",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Tobacco shop",
+    "all_categories": "Tobacco shop",
+    "pincode": "441110",
+    "phone_number": "+91 98495 99111",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "#11-4-21/22 Bazar Ghat X Road, Kondapur, Hanuman Nagar, Telangana 500084",
+    "area": "Kondapur, Hanuman Nagar, Shilpa Hills",
+    "latitude": 17.467913199999998,
+    "longitude": 78.3669354,
+    "place_id": "ChIJCX7IqzSSyzsRZgsBIr8dZ3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCX7IqzSSyzsRZgsBIr8dZ3E",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:33:21"
+  },
+  {
+    "business_name": "Pawan Pan",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "441110",
+    "phone_number": "+91 99716 83617",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Shop no 10, Market, Club Rd, West Punjabi Bagh, Punjabi Bagh, Delhi, 110026",
+    "area": "West Punjabi Bagh, Punjabi Bagh",
+    "latitude": 28.665992499999998,
+    "longitude": 77.126111,
+    "place_id": "ChIJW-uAneUDDTkRJRZx9MGQW-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-uAneUDDTkRJRZx9MGQW-4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:33:22"
+  }
+]

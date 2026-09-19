@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramtek Bus stand",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus depot",
+    "all_categories": "Bus depot",
+    "pincode": "441106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "98W9+35F Bus Stand, MH SH 249, Ramtek, Maharashtra 441106",
+    "area": "441106",
+    "latitude": 21.395676899999998,
+    "longitude": 79.3170963,
+    "place_id": "ChIJK4FRp97T1DsRrvjUuywEAgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK4FRp97T1DsRrvjUuywEAgA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:26:32"
+  },
+  {
+    "business_name": "Jai Durga Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Airline ticket agency",
+    "all_categories": "Airline ticket agency, Bus ticket agency, Tour agency, Railway Ticket Agent",
+    "pincode": "441106",
+    "phone_number": "+91 99239 08738",
+    "website": "http://jaidurgabus.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "762R+J24, NEAR JAI DURGA MANGAL KARYALAYA J.N. ROAD KANDRI (KANHAN), NAGPUR, Maharashtra 441401",
+    "area": "441106",
+    "latitude": 21.2515136,
+    "longitude": 79.2400637,
+    "place_id": "ChIJc3E6Lx_P1DsRi0sC0L4LrAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc3E6Lx_P1DsRi0sC0L4LrAI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:26:32"
+  }
+]

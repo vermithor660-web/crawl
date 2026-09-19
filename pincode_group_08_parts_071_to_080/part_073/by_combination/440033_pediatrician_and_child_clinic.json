@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Girish Subramaniam Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "440033",
+    "phone_number": "+91 712 661 6268",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 97,
+    "address": "At 3rd Floor, Midas Heights, Central Bazar Road, Ramdaspeth, Nagpur, Maharashtra 440010",
+    "area": "Ramdaspeth",
+    "latitude": 21.1340121,
+    "longitude": 79.0755642,
+    "place_id": "ChIJAQAAAI_A1DsRQ56XyHXIul4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAI_A1DsRQ56XyHXIul4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:05:39"
+  },
+  {
+    "business_name": "Dr Sanjay Marathe",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "440033",
+    "phone_number": "+91 86685 02436",
+    "website": "http://www.marathechildcarehospital.com/",
+    "rating": 4.5,
+    "reviews_count": 46,
+    "address": "3rd Floor, Ashirwad Complex, Marathe Child Care Hospital, near Somalwar School, Ramdaspeth, Nagpur, Maharashtra 440010",
+    "area": "Ramdaspeth",
+    "latitude": 21.134157899999998,
+    "longitude": 79.0741709,
+    "place_id": "ChIJAQAAAI_A1DsR4Cn4lrMZewc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAI_A1DsR4Cn4lrMZewc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:05:39"
+  }
+]

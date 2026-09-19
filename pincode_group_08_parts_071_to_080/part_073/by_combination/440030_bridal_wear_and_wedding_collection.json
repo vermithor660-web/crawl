@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ivaan Rental",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Wedding dress rental service",
+    "all_categories": "Wedding dress rental service",
+    "pincode": "440030",
+    "phone_number": "+91 83800 38337",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Flat no.201, Om aradhay apartment, Godhani Road, Padmavati Nagar, Godhani (Railway), Maharashtra 441123",
+    "area": "Padmavati Nagar",
+    "latitude": 21.212082,
+    "longitude": 79.06252119999999,
+    "place_id": "ChIJq8W_NKzB1DsR1ozZmiMscaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq8W_NKzB1DsR1ozZmiMscaA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:01:38"
+  },
+  {
+    "business_name": "Janessa - Picture Perfect Wedding",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Wedding service",
+    "all_categories": "Wedding service, Wedding planner",
+    "pincode": "440030",
+    "phone_number": "+91 95794 31849",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Flat no. 101, Diwan Park Lane Apartment, Katol Bypass Rd, beside St. Vincent Pallotti School, Mahanubhav Nagar, Nagpur, Maharashtra 440013",
+    "area": "Mahanubhav Nagar, Gorewada",
+    "latitude": 21.189745199999997,
+    "longitude": 79.05833129999999,
+    "place_id": "ChIJGRortr7B1DsRyUncqFZEBAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRortr7B1DsRyUncqFZEBAQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:01:38"
+  }
+]

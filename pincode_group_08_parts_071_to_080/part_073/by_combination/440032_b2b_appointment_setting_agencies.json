@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Webmobilez Inc",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Employment consultant",
+    "all_categories": "Employment consultant, Service establishment",
+    "pincode": "440032",
+    "phone_number": "+91 96424 64660",
+    "website": "http://webmobilez.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Webmobilez Inc, 440032, India",
+    "area": "440032",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ1_wj78WQyzsRrzbgc8i6BYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_wj78WQyzsRrzbgc8i6BYE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:05:02"
+  },
+  {
+    "business_name": "Leadsinfotech",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "440032",
+    "phone_number": "+91 97673 94968",
+    "website": "http://leadsinfotech.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Surya Tower 3, opp. MIET College, Bhandara, Shahapur, Maharashtra 441906",
+    "area": "440032",
+    "latitude": 21.1532004,
+    "longitude": 79.5785532,
+    "place_id": "ChIJ_wANcp45KzoR13xG0tvCF_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_wANcp45KzoR13xG0tvCF_E",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:05:02"
+  }
+]

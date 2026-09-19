@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kishor Books & Stationers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Pen store",
+    "all_categories": "Pen store",
+    "pincode": "441110",
+    "phone_number": "+91 96376 87820",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Plot no 3 Meshram layout Near CRPF gate, Ambazari - Hingna Rd, Nagpur, Maharashtra 441110",
+    "area": "Lokmanya Nagar",
+    "latitude": 21.1076038,
+    "longitude": 79.0014556,
+    "place_id": "ChIJ5a9bLkmV1DsR6pMG23YULHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5a9bLkmV1DsR6pMG23YULHg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:34:32"
+  },
+  {
+    "business_name": "Vijay Book Depot & Stationers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "441110",
+    "phone_number": "+91 98119 29129",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 393,
+    "address": "Basement, Dough & Cream, A5-7, Chaudhary Balbir Singh Marg, A5 Block, A 5 Block, Paschim Vihar, Delhi, 110063",
+    "area": "A5 Block, A 5 Block, Paschim Vihar",
+    "latitude": 28.674901199999997,
+    "longitude": 77.103698,
+    "place_id": "ChIJjwtr7IkDDTkRRFgZIArT_gM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjwtr7IkDDTkRRFgZIArT_gM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:34:34"
+  }
+]

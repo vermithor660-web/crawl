@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vedbill",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "441104",
+    "phone_number": "+91 79750 31741",
+    "website": "https://vedbill.com/",
+    "rating": 5,
+    "reviews_count": 18,
+    "address": "Blooming Dell Lay Out, 38/1, Sarjapur - Marathahalli Rd, Kaikondrahalli, Sarjapur, Bengaluru, Karnataka 560035",
+    "area": "Kaikondrahalli",
+    "latitude": 12.9168858,
+    "longitude": 77.67753619999999,
+    "place_id": "ChIJRTvFo40TrjsRNp6Zy3a1d9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRTvFo40TrjsRNp6Zy3a1d9M",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:23:28"
+  },
+  {
+    "business_name": "Apna Billbook",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "441104",
+    "phone_number": "+91 75359 41006",
+    "website": "https://apnabillbook.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "19th Floor, 197, Palm Olympia, Tower 8, Tower 8, Gaur City 2, Ghaziabad, Uttar Pradesh 201009",
+    "area": "Sector 16C, Gaur City 2",
+    "latitude": 28.6183472,
+    "longitude": 77.4214516,
+    "place_id": "ChIJ4UcNxSjvDDkRV_QxbZXeJwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4UcNxSjvDDkRV_QxbZXeJwM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:23:28"
+  }
+]

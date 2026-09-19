@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sigma Crane Systems",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "441122",
+    "phone_number": "+91 91120 36577",
+    "website": "https://sigmacranesystems.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Main St, MIDC, Sukali, Umari, Maharashtra 441122",
+    "area": "MIDC",
+    "latitude": 20.923853299999998,
+    "longitude": 78.9633285,
+    "place_id": "ChIJFy50fTOZ1DsRcS7Y36v-Rt0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFy50fTOZ1DsRcS7Y36v-Rt0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:41:50"
+  },
+  {
+    "business_name": "St. Vincent Pallotti College of Engineering and Technology",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "441122",
+    "phone_number": "+91 94236 83433",
+    "website": "https://www.stvincentngp.edu.in/",
+    "rating": 4.3,
+    "reviews_count": 1735,
+    "address": "Wardha Road, Gavsi-Manapur., Nagpur, Maharashtra 441108",
+    "area": "441122",
+    "latitude": 21.0046708,
+    "longitude": 79.0477332,
+    "place_id": "ChIJ7f07sMa91DsRXuyjb7ZOllE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7f07sMa91DsRXuyjb7ZOllE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:41:52"
+  }
+]

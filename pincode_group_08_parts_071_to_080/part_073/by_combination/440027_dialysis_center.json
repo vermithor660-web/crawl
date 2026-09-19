@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Jaydeep Dalvi",
+    "search_category": "Dialysis Center",
+    "primary_category": "Urologist",
+    "all_categories": "Urologist, Doctor, Emergency care service, Infectious disease physician, Medical Center, Medical clinic, Men's health physician, Pain management physician, Surgeon, Surgical center",
+    "pincode": "440027",
+    "phone_number": "+91 92255 73443",
+    "website": "https://drjaydeepdalvi.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "33PV+927 Besa-Pipla Road, new manish nagar Besa, Beltarodi Rd, near haldiram, Nagpur, Maharashtra 440037",
+    "area": "Nilkamal Society, Besa",
+    "latitude": 21.086003599999998,
+    "longitude": 79.0925784,
+    "place_id": "ChIJw-W5VgC_1DsRsFhoeL2BET4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-W5VgC_1DsRsFhoeL2BET4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:59:55"
+  },
+  {
+    "business_name": "Kidney Clinic",
+    "search_category": "Dialysis Center",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "440027",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5, Manewada Rd, Swaraj Nagar, Manish Nagar, Somalwada, Nagpur, Maharashtra 440027",
+    "area": "Swaraj Nagar, Manish Nagar, Somalwada",
+    "latitude": 21.1012615,
+    "longitude": 79.0932856,
+    "place_id": "ChIJB8kq1ka_1DsR4Q4G58ar4ko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8kq1ka_1DsR4Q4G58ar4ko",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:59:55"
+  }
+]

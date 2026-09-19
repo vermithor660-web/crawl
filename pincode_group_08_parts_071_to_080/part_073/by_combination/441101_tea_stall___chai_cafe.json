@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AK CHAI WALA",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Coffee shop",
+    "pincode": "441101",
+    "phone_number": "+91 87677 07687",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chhatrapati shivaji maharaj square, near by tidke fabrication, Saoner, Maharashtra 441107",
+    "area": "441101",
+    "latitude": 21.3923484,
+    "longitude": 78.91750689999999,
+    "place_id": "ChIJx1yHNgDl1DsR7I76nXr1GzA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx1yHNgDl1DsR7I76nXr1GzA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:16:48"
+  },
+  {
+    "business_name": "Kaka Ki Ketali",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Coffee shop",
+    "pincode": "441101",
+    "phone_number": "+91 99707 29248",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Saoner, Maharashtra 441107",
+    "area": "441101",
+    "latitude": 21.3829584,
+    "longitude": 78.9293067,
+    "place_id": "ChIJAeaCtP7n1DsRHjP4gkiEkCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAeaCtP7n1DsRHjP4gkiEkCQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:16:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Origin Designs",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "441113",
+    "phone_number": "+91 80071 80800",
+    "website": "http://origindesigns.co.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "29, Abhayankar Nagar, Behind Petrol Pump, Nagpur-440010, Nagpur, Maharashtra 440010",
+    "area": "Bajaj Nagar",
+    "latitude": 21.1262306,
+    "longitude": 79.05912479999999,
+    "place_id": "ChIJRV-u4mPA1DsRwAvbdwiOYow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRV-u4mPA1DsRwAvbdwiOYow",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:39:28"
+  },
+  {
+    "business_name": "Akira decor - Best Interior Decor in Nagpur",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Interior Decorator, Home improvement store",
+    "pincode": "441113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NH 47, near RELIANCE PETROL PUMP, Dahegaon (Rangari), Nagpur, Maharashtra 441113",
+    "area": "441113",
+    "latitude": 21.285454299999998,
+    "longitude": 79.08184659999999,
+    "place_id": "ChIJ4RC_O3zD1DsRpFEWG-7gZJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4RC_O3zD1DsRpFEWG-7gZJU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:39:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jay Xerox",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "440025",
+    "phone_number": "+91 98503 13171",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 16,
+    "address": "Jay Xerox, Pragati Colony, Chatrapati Nagar, Nagpur, Maharashtra 440015",
+    "area": "Pragati Colony, Chatrapati Nagar",
+    "latitude": 21.1106513,
+    "longitude": 79.072651,
+    "place_id": "ChIJeemlz0u_1DsR7MaDttXkIqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeemlz0u_1DsR7MaDttXkIqU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:56:52"
+  },
+  {
+    "business_name": "Copy Court",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Copy shop",
+    "all_categories": "Copy shop",
+    "pincode": "440025",
+    "phone_number": "+91 96650 52874",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Krishi Bhawan, 4, Ravindra Nath Tagore Marg, opposite Tehsil Office, Collectors Colony, Civil Lines, Nagpur, Maharashtra 440001",
+    "area": "Collectors Colony, Civil Lines",
+    "latitude": 21.1541206,
+    "longitude": 79.0750479,
+    "place_id": "ChIJAQAAwPPA1DsRoWkN4RhMtec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAwPPA1DsRoWkN4RhMtec",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:56:53"
+  }
+]

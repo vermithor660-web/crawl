@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Shaunak Mokadam",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "441123",
+    "phone_number": "+91 712 252 5839",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Anjani Eye Hospital, 20, Farmland Central Bazar Road, Ramdaspeth, Ramdaspeth, Nagpur, Maharashtra 440010",
+    "area": "New Ramdaspeth",
+    "latitude": 21.1350877,
+    "longitude": 79.0772631,
+    "place_id": "ChIJAQAAAI_A1DsRbl62e7HrgE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAI_A1DsRbl62e7HrgE8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:42:36"
+  },
+  {
+    "business_name": "St. Luke's Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "441123",
+    "phone_number": "+91 4562 280 140",
+    "website": "http://www.josepheye.in/",
+    "rating": 4.8,
+    "reviews_count": 58,
+    "address": "Anna Nagar, Virudhunagar, Tamil Nadu 626001",
+    "area": "Anna Nagar",
+    "latitude": 9.580228499999999,
+    "longitude": 77.95863,
+    "place_id": "ChIJN_c7FpMsATsRUguE4nwMBKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN_c7FpMsATsRUguE4nwMBKk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:42:39"
+  }
+]

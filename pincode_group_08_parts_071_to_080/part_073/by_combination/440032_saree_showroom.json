@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shobha Saree Center",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Fabric store, Men's clothing store, Saree Shop",
+    "pincode": "440032",
+    "phone_number": "+91 91121 81501",
+    "website": "https://shobha-saree-center.grexa.site/",
+    "rating": 3.6,
+    "reviews_count": 55,
+    "address": "Suraj Bhavan Tilak Road, Chowk, Mahal, Nagpur, Maharashtra 440032",
+    "area": "Mahal",
+    "latitude": 21.145032399999998,
+    "longitude": 79.1077481,
+    "place_id": "ChIJTxetdrXA1DsRJ0zZVG8zojc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTxetdrXA1DsRJ0zZVG8zojc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:03:27"
+  },
+  {
+    "business_name": "Rokde Bandhu",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "440032",
+    "phone_number": "+91 98225 64406",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 224,
+    "address": "pillo no 117, Plot no 1165, Central Ave, opposite Saini Travels, Near Hotel India Sun, Gandhibagh, Nagpur, Maharashtra 440002",
+    "area": "Near Hotel India Sun, Gandhibagh",
+    "latitude": 21.1502223,
+    "longitude": 79.1073241,
+    "place_id": "ChIJ9b8jsJTB1DsR7HtuyYmT7vg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9b8jsJTB1DsR7HtuyYmT7vg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:03:27"
+  }
+]

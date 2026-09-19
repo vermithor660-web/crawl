@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.M.Traders",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "441104",
+    "phone_number": "+91 93264 11811",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "flot number 33, 1, Khat Rd, Vaishali Nagar, Friends Colony, Madhav Nagar, Bhandara, Maharashtra 441904",
+    "area": "Vaishali Nagar, Friends Colony, Madhav Nagar",
+    "latitude": 21.1735062,
+    "longitude": 79.64696909999999,
+    "place_id": "ChIJ7Ugj_5U5KzoRrct8dng3QhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Ugj_5U5KzoRrct8dng3QhU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:23:41"
+  },
+  {
+    "business_name": "Super Weldmesh Private Limited",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "441104",
+    "phone_number": "+91 98222 72577",
+    "website": "https://www.superweldmesh.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MAA UMIYA, Bhandara Road MALGAON KAPSI, Plot 183/184, Nagpur, Maharashtra 441202",
+    "area": "441104",
+    "latitude": 21.1415418,
+    "longitude": 79.2050783,
+    "place_id": "ChIJeyowGdrJ1DsRV_jnLZVPGns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeyowGdrJ1DsRV_jnLZVPGns",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:23:42"
+  }
+]

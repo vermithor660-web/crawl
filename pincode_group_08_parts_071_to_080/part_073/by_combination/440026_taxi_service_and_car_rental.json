@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vikki tours and travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Car rental agency, Taxi service, Tour agency, Tour operator, Travel agency",
+    "pincode": "440026",
+    "phone_number": "+91 70203 51793",
+    "website": "https://vikkitoursandtravels.com/",
+    "rating": 5,
+    "reviews_count": 217,
+    "address": "Rani Durgawati Chowk, Rani Durgawati Nagar, Nagpur, Maharashtra 440017",
+    "area": "Rani Durgawati Chowk, Rani Durgawati Nagar",
+    "latitude": 21.1738233,
+    "longitude": 79.1176495,
+    "place_id": "ChIJRVUx-lrH1DsRf6W6w0jt5UE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRVUx-lrH1DsRf6W6w0jt5UE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:58:09"
+  },
+  {
+    "business_name": "Shubham Cab Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "440026",
+    "phone_number": "+91 99222 40194",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 53,
+    "address": "Jaripatka, Nagpur, Maharashtra 440014",
+    "area": "Jaripatka",
+    "latitude": 21.1808028,
+    "longitude": 79.093493,
+    "place_id": "ChIJ____vyLB1DsRnK7dDTRItlg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____vyLB1DsRnK7dDTRItlg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:58:09"
+  }
+]

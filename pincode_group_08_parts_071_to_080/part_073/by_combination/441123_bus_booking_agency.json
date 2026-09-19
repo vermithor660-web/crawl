@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shrikant Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator, Bus tour agency, Tourist information center",
+    "pincode": "441123",
+    "phone_number": "+91 712 276 9730",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "New Cotton Market Road, Ganesh Peth, near Hotel Rahul, Nagpur, Maharashtra 440018",
+    "area": "Ganeshpeth Colony",
+    "latitude": 21.1399456,
+    "longitude": 79.0956301,
+    "place_id": "ChIJlyzWeLnA1DsR7Oa0Yic4Ksg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlyzWeLnA1DsR7Oa0Yic4Ksg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:42:54"
+  },
+  {
+    "business_name": "Vijayant Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "441123",
+    "phone_number": "N/A",
+    "website": "https://www.vijayanttravels.com/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Sharma Bhawan, 29/1, Central Ave, Gitanjali Talkies, Near, Nagpur, Maharashtra 440018",
+    "area": "Gitanjali Talkies, Near",
+    "latitude": 21.1526311,
+    "longitude": 79.0978895,
+    "place_id": "ChIJ9XS_FvHB1DsRGtcL8REsTdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9XS_FvHB1DsRGtcL8REsTdE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:42:54"
+  }
+]

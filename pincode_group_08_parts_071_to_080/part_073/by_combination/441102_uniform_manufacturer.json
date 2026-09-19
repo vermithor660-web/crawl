@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ND Company",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Sportswear store",
+    "all_categories": "Sportswear store",
+    "pincode": "441102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 36,
+    "address": "P/N 572, Kamptee Rd, Yadav Nagar, Ekta Colony, Nagpur, Maharashtra 440026",
+    "area": "Yadav Nagar, Ekta Colony",
+    "latitude": 21.1795403,
+    "longitude": 79.1181422,
+    "place_id": "ChIJgX3cBOTH1DsRwE2a1TWBnx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgX3cBOTH1DsRwE2a1TWBnx4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:18:52"
+  },
+  {
+    "business_name": "MAXMILLORS sports wear",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "441102",
+    "phone_number": "+91 91304 60146",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 321,
+    "address": "Kamagar nagar square, near shivhare atta chaki, Deepak Nagar, Dixit Nagar, Nagpur, Maharashtra 440026",
+    "area": "Deepak Nagar, Dixit Nagar",
+    "latitude": 21.1880684,
+    "longitude": 79.1159026,
+    "place_id": "ChIJPavUGqTH1DsRTOkGZgN1APk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPavUGqTH1DsRTOkGZgN1APk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:18:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhi Event planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "440036",
+    "phone_number": "+91 88055 89358",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "plot no 45, Main Raod, Datey Layout, Jaitala, Nagpur, Maharashtra 440036",
+    "area": "Datey Layout, Jaitala",
+    "latitude": 21.1064605,
+    "longitude": 79.02750139999999,
+    "place_id": "ChIJ932UKPu_1DsRQB-I1csE5Gk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ932UKPu_1DsRQB-I1csE5Gk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:12:04"
+  },
+  {
+    "business_name": "AB Event’s",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "440036",
+    "phone_number": "+91 95030 85617",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "370A, Kamgar Colony, Subhash Nagar, Trimurti Nagar, Nagpur, Maharashtra 440022",
+    "area": "Kamgar Colony, Subhash Nagar, Trimurti Nagar",
+    "latitude": 21.1200241,
+    "longitude": 79.04355369999999,
+    "place_id": "ChIJkQK05_3B1DsRNBKPdih2ZJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkQK05_3B1DsRNBKPdih2ZJA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:12:05"
+  }
+]

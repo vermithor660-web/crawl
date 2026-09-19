@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BOMBAY BATTERIES",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "441123",
+    "phone_number": "+91 93269 24896",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Go Gas Pillar, No. 37, Kamptee Rd, Teka Naka, Nagpur, Maharashtra 17",
+    "area": "Teka Naka",
+    "latitude": 21.181796,
+    "longitude": 79.1137909,
+    "place_id": "ChIJLYT9dNLG1DsRsUt9DMK4kaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLYT9dNLG1DsRsUt9DMK4kaY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:42:48"
+  },
+  {
+    "business_name": "NITIN AUTO DEAL",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "441123",
+    "phone_number": "+91 94221 12841",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 10,
+    "address": "20, Kamptee Rd, Buddha Nagar, Balabhaupeth, Nagpur, Maharashtra 440017",
+    "area": "Buddha Nagar, Balabhaupeth",
+    "latitude": 21.1751839,
+    "longitude": 79.10362479999999,
+    "place_id": "ChIJ3VKLlujB1DsRJr4EMcDcc0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3VKLlujB1DsRJr4EMcDcc0Y",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:42:49"
+  }
+]

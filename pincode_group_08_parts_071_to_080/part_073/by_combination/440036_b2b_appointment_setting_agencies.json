@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Agency Consulting",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Service establishment",
+    "pincode": "440036",
+    "phone_number": "N/A",
+    "website": "http://theagencyconsulting.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "The Agency Consulting, 440036, India",
+    "area": "440036",
+    "latitude": 33.5125975,
+    "longitude": -112.3641844,
+    "place_id": "ChIJ1b6RRiKlK4cR_hgxx0cCxrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1b6RRiKlK4cR_hgxx0cCxrk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:12:47"
+  },
+  {
+    "business_name": "Access Right Services",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter",
+    "pincode": "440036",
+    "phone_number": "+91 712 355 0513",
+    "website": "http://www.accessright.in/",
+    "rating": 4.5,
+    "reviews_count": 17,
+    "address": "first floor, 146, Katol Rd, Narmada Colony, Nagpur, Maharashtra 440013",
+    "area": "Narmada Colony",
+    "latitude": 21.1783164,
+    "longitude": 79.0418222,
+    "place_id": "ChIJcx56I0TB1DsRVtwQhs989JQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcx56I0TB1DsRVtwQhs989JQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:12:49"
+  }
+]

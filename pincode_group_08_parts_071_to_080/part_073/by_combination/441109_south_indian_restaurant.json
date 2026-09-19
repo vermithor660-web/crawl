@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel embassy",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Family restaurant, South Indian restaurant",
+    "pincode": "441109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Chicholi (CT), Maharashtra 441102",
+    "area": "441109",
+    "latitude": 21.2754877,
+    "longitude": 79.1144733,
+    "place_id": "ChIJnbycT4PE1DsRHgnpSj5bes8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnbycT4PE1DsRHgnpSj5bes8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:31:40"
+  },
+  {
+    "business_name": "Jai Bhole Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant",
+    "pincode": "441109",
+    "phone_number": "+91 85528 93747",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Chandkapur, Chicholi (CT), Maharashtra 441102",
+    "area": "441109",
+    "latitude": 21.277806599999998,
+    "longitude": 79.1115678,
+    "place_id": "ChIJxdc8EZ3E1DsRo-G9TmnNyrs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxdc8EZ3E1DsRo-G9TmnNyrs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:31:40"
+  }
+]

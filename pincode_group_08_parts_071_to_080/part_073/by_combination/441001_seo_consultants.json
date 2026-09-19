@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GrowwithBA",
+    "search_category": "SEO Consultants",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Service establishment",
+    "pincode": "441001",
+    "phone_number": "+91 88883 24275",
+    "website": "https://growwithba.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GrowwithBA, 441001, India",
+    "area": "441001",
+    "latitude": 21.1420145,
+    "longitude": 79.0836666,
+    "place_id": "ChIJ87SlQVyemYIRUfk-TcGAfKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ87SlQVyemYIRUfk-TcGAfKI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:16:31"
+  },
+  {
+    "business_name": "SEO Company Asia",
+    "search_category": "SEO Consultants",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Advertising agency, Service establishment, Marketing agency, Website designer",
+    "pincode": "441001",
+    "phone_number": "N/A",
+    "website": "https://www.seocompany.asia/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "SEO Company Asia, 441001, India",
+    "area": "441001",
+    "latitude": 45.050399899999995,
+    "longitude": -47.802320699999996,
+    "place_id": "ChIJearmoK37DDkRdi5RfiP4B-k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJearmoK37DDkRdi5RfiP4B-k",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:16:34"
+  }
+]

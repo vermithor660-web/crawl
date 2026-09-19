@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "441109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Opposite Nakade Medical Khaperkheda Near Chemri Gate main Road Khaperkheda, Dist, Nagpur, Maharashtra 441102",
+    "area": "441109",
+    "latitude": 21.2767059,
+    "longitude": 79.112916,
+    "place_id": "ChIJBS9kpbzD1DsRsZqGv5NrB-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBS9kpbzD1DsRsZqGv5NrB-I",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:31:52"
+  },
+  {
+    "business_name": "New Laxmi Optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "441109",
+    "phone_number": "+91 99702 93311",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Opposte Anjali Eye Hospital, 20, Central Bazar Road, Gandhi bagh, Ramdaspeth, Nagpur, Maharashtra 440010",
+    "area": "Gandhi bagh, Ramdaspeth",
+    "latitude": 21.1348225,
+    "longitude": 79.0759468,
+    "place_id": "ChIJA9sXS5DA1DsREKCqln5woQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA9sXS5DA1DsREKCqln5woQw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:31:53"
+  }
+]

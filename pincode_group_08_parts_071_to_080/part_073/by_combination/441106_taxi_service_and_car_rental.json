@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vandana Tour And Travels Nagpur",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "441106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H B town, Bhandara Rd, Nagpur, Wadoda, Maharashtra 441104",
+    "area": "441106",
+    "latitude": 21.1366792,
+    "longitude": 79.3222449,
+    "place_id": "ChIJ6bzOuqjL1DsRMWNUhja5_kU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6bzOuqjL1DsRMWNUhja5_kU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:26:32"
+  },
+  {
+    "business_name": "Bhandara cab booking service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "441106",
+    "phone_number": "+91 98601 96616",
+    "website": "http://bhandaracab-29ca68.netlify.app/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "pesh hospital, near bhandara, Sahakar Nagar, Bhandara, Maharashtra 441904",
+    "area": "Sahakar Nagar",
+    "latitude": 21.1786647,
+    "longitude": 79.65139359999999,
+    "place_id": "ChIJ13MVNfY_KzoRgWnY-HJgy6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ13MVNfY_KzoRgWnY-HJgy6c",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:26:34"
+  }
+]

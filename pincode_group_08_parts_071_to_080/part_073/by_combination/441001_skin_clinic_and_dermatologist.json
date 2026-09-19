@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Shilpi's Skin & Hair Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Dermatologist",
+    "pincode": "441001",
+    "phone_number": "+91 90113 13277",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Sonar Oli, Sarafa Bazar, Kamptee, Maharashtra 441001",
+    "area": "Sarafa Bazar",
+    "latitude": 21.2242712,
+    "longitude": 79.1893608,
+    "place_id": "ChIJrbN5gvrF1DsRy3TyF1ifrcA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrbN5gvrF1DsRy3TyF1ifrcA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:15:19"
+  },
+  {
+    "business_name": "Ramtekes' Skin & Heart Associates",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic",
+    "pincode": "441001",
+    "phone_number": "+91 76661 58621",
+    "website": "https://www.ramtekesskinandheartassociates.in/",
+    "rating": 5,
+    "reviews_count": 82,
+    "address": "Block No. 1, Kalmiya Tower, Orange City Park, Kamtee, Yerkheda, Nagpur, Maharashtra 441001",
+    "area": "Kamtee",
+    "latitude": 21.2144332,
+    "longitude": 79.1674613,
+    "place_id": "ChIJaW5sJunH1DsRHNxpoIEt9zw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaW5sJunH1DsRHNxpoIEt9zw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:15:19"
+  }
+]

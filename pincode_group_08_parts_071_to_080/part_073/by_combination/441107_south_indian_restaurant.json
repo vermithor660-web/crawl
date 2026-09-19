@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aadi's South Indian Resturant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, North Indian restaurant, Vegetarian restaurant",
+    "pincode": "441107",
+    "phone_number": "+91 77968 13419",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Katol Bypass Rd, beside Pooja kata, Aadissouthindianrestaurant, Wadi, Maharashtra 440023",
+    "area": "Aadissouthindianrestaurant, Wadi",
+    "latitude": 21.1552284,
+    "longitude": 79.0047805,
+    "place_id": "ChIJj3qmd8Pr1DsRwN18uoabbTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj3qmd8Pr1DsRwN18uoabbTE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:27:52"
+  },
+  {
+    "business_name": "Srinivasa South Indian",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "441107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "38, Chhindwara Rd, Adarsha Nagar, Vidhya Nagar, Bokara, Maharashtra 441111",
+    "area": "Adarsha Nagar, Vidhya Nagar",
+    "latitude": 21.2206907,
+    "longitude": 79.0803147,
+    "place_id": "ChIJW-JKIHLD1DsRmlTJ4kw-nfM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-JKIHLD1DsRmlTJ4kw-nfM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:27:52"
+  }
+]

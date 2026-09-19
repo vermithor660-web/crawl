@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pohewala",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "440036",
+    "phone_number": "+91 77700 03094",
+    "website": "http://www.pohewala.com/",
+    "rating": 4.1,
+    "reviews_count": 1120,
+    "address": "Metro Station, Wasudev Nagar, Wasudev nagar, Hingna Rd, Hingna, Nagpur, Maharashtra 440036",
+    "area": "Hingna",
+    "latitude": 21.1198485,
+    "longitude": 79.02143559999999,
+    "place_id": "ChIJm8ZMSenB1DsR7YT2kRqzqME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm8ZMSenB1DsR7YT2kRqzqME",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:11:11"
+  },
+  {
+    "business_name": "Senior New Famous Swadist Panipuri",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "440036",
+    "phone_number": "+91 70571 40011",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "W High Ct Rd, Bajaj Nagar, Nagpur, Maharashtra 440010",
+    "area": "Bajaj Nagar",
+    "latitude": 21.1281511,
+    "longitude": 79.0635551,
+    "place_id": "ChIJibCeWxTB1DsR03n7Q1wjlHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJibCeWxTB1DsR03n7Q1wjlHE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:11:13"
+  }
+]

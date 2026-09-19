@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjivan Homoeo clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "441109",
+    "phone_number": "+91 76203 09399",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 11,
+    "address": "Plot no. 59-D, lane no.3 Uday Nagar Road, Mankapur Ring Rd, Nagpur, Maharashtra 440024",
+    "area": "Ambika Nagar, Ayodhya nagar",
+    "latitude": 21.1062624,
+    "longitude": 79.1102415,
+    "place_id": "ChIJd0zpybq51DsRf_z8G3wETVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd0zpybq51DsRf_z8G3wETVg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:31:54"
+  },
+  {
+    "business_name": "Namma homeopathy hospital",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "441109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "43PH+6Q9, Lokmat Square, Ramdaspeth, Nagpur, Maharashtra 440012",
+    "area": "Lokmat Square, Ramdaspeth",
+    "latitude": 21.135541,
+    "longitude": 79.0794785,
+    "place_id": "ChIJf1niUwDB1DsRLF49fbC7ANk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf1niUwDB1DsRLF49fbC7ANk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:31:56"
+  }
+]

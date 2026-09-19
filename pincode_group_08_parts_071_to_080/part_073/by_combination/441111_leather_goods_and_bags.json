@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Leather Home",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "441111",
+    "phone_number": "+91 11 2581 9904",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "5636/77, Regar Pura, Karol Bagh West Extension Area, Nehru Nagar, Regar Pura, Karol Bagh, New Delhi, Delhi, 110005",
+    "area": "Karol Bagh West Extension Area, Nehru Nagar, Regar Pura, Karol Bagh",
+    "latitude": 28.6503338,
+    "longitude": 77.1855011,
+    "place_id": "ChIJ_____5wCDTkRIh48mEGrXqs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____5wCDTkRIh48mEGrXqs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:35:27"
+  },
+  {
+    "business_name": "Leather Lounge",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store, Bag shop",
+    "pincode": "441111",
+    "phone_number": "+91 40 6668 5845",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Shop No. 12, Model House, Lakshmi Narsimha Nagar Rd, Dwarakapuri, Punjagutta, Hyderabad, Telangana 500082",
+    "area": "Dwarakapuri, Punjagutta",
+    "latitude": 17.4241411,
+    "longitude": 78.45323719999999,
+    "place_id": "ChIJv2a_kEqXyzsRYCVEuW-ouXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2a_kEqXyzsRYCVEuW-ouXE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:35:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uday Vaidya",
+    "search_category": "Exporters",
+    "primary_category": "Vehicle Exporter",
+    "all_categories": "Vehicle Exporter",
+    "pincode": "441106",
+    "phone_number": "+91 97302 03459",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shivani, Maharashtra 441106",
+    "area": "441106",
+    "latitude": 21.3948677,
+    "longitude": 79.4723082,
+    "place_id": "ChIJgVhVYQAvKzoRzLT9HpB2NMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgVhVYQAvKzoRzLT9HpB2NMo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:27:32"
+  },
+  {
+    "business_name": "Blueroots Global",
+    "search_category": "Exporters",
+    "primary_category": "Import export company",
+    "all_categories": "Import export company",
+    "pincode": "441106",
+    "phone_number": "+91 97665 11665",
+    "website": "https://www.bluerootsglobal.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NH249, Maharashtra 441914",
+    "area": "441106",
+    "latitude": 21.3904154,
+    "longitude": 79.6059203,
+    "place_id": "ChIJe8bJH0klKzoRQE-qwodsuvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe8bJH0klKzoRQE-qwodsuvo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:27:33"
+  }
+]

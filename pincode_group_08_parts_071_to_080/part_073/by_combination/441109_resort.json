@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Plumeria farm's",
+    "search_category": "Resort",
+    "primary_category": "Farmstay",
+    "all_categories": "Farmstay",
+    "pincode": "441109",
+    "phone_number": "+91 93091 62975",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "32, 1 road, Soholi, Parshivni, Maharashtra 441102",
+    "area": "441109",
+    "latitude": 21.2789334,
+    "longitude": 79.1325662,
+    "place_id": "ChIJ45a8gQ_P1DsRrCdp7ehfw3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ45a8gQ_P1DsRrCdp7ehfw3A",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:32:35"
+  },
+  {
+    "business_name": "Aranyaani Resort Pench",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Banquet hall, Restaurant, Wildlife and safari park",
+    "pincode": "441109",
+    "phone_number": "+91 88887 70066",
+    "website": "http://www.aranyaaniresortpench.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Pench National Park, Kurai, Turiya, Madhya Pradesh 480881",
+    "area": "441109",
+    "latitude": 21.739695899999997,
+    "longitude": 79.36185909999999,
+    "place_id": "ChIJo0sQ--0z1TsRdayI_SNc6o0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo0sQ--0z1TsRdayI_SNc6o0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:32:35"
+  }
+]

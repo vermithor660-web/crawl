@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Dairy Express (Mother Dairy Outlet)",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "441106",
+    "phone_number": "+91 87886 69494",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Beside Tehshil Office Mouda On Old Nagpur - Bhandara Road, bypass, Mouda, Maharashtra 441104",
+    "area": "441106",
+    "latitude": 21.147302699999997,
+    "longitude": 79.40260549999999,
+    "place_id": "ChIJB6NrqZQ1KzoRT09mRq7mlMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB6NrqZQ1KzoRT09mRq7mlMU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:27:38"
+  },
+  {
+    "business_name": "Multi Services",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Office supply store",
+    "all_categories": "Office supply store, Stationery store",
+    "pincode": "441106",
+    "phone_number": "+91 99755 19130",
+    "website": "https://multiservices.click/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Collector Square, Santaji Nagar, Bhandara, Maharashtra 441904",
+    "area": "Santaji Nagar",
+    "latitude": 21.166699899999998,
+    "longitude": 79.6522762,
+    "place_id": "ChIJT-pcZLo_KzoRc8oRmPBvQvs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT-pcZLo_KzoRc8oRmPBvQvs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:27:40"
+  }
+]

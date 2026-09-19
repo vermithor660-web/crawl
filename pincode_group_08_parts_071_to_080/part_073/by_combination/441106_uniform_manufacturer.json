@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chintu Garments",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing manufacturer",
+    "all_categories": "Clothing manufacturer",
+    "pincode": "441106",
+    "phone_number": "+91 99235 32994",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "N 79°20, Chacher 21°16'31.5, 06.4\"E, Maharashtra 441106",
+    "area": "441106",
+    "latitude": 21.275339,
+    "longitude": 79.3349422,
+    "place_id": "ChIJxQ-_2eDN1DsR5s1VVGJeIHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxQ-_2eDN1DsR5s1VVGJeIHY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:26:12"
+  },
+  {
+    "business_name": "Adarsh Sports",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Store",
+    "all_categories": "Store, Sports Accessories Wholesaler",
+    "pincode": "441106",
+    "phone_number": "+91 70574 20405",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Shantinath Rd, Azad Ward, Ramtek, Maharashtra 441106",
+    "area": "Azad Ward",
+    "latitude": 21.402176,
+    "longitude": 79.3267456,
+    "place_id": "ChIJ27jpLJrT1DsRAAAAMDFsimY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ27jpLJrT1DsRAAAAMDFsimY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:26:15"
+  }
+]

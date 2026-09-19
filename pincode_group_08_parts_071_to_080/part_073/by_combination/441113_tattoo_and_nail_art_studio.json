@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pavan's Tattoo Art Studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo and piercing shop",
+    "all_categories": "Tattoo and piercing shop, Body piercing shop, Tattoo removal service",
+    "pincode": "441113",
+    "phone_number": "+91 90490 92813",
+    "website": "https://pavans-tattoo-art-studio.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Pal chowk, Sanghani building, N.M.D, College Road, Ramnagar, Gondia, Maharashtra 441614",
+    "area": "Ramnagar",
+    "latitude": 21.4641357,
+    "longitude": 80.1893145,
+    "place_id": "ChIJZdHypX2pKzoRMTDSGI9dt-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZdHypX2pKzoRMTDSGI9dt-s",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:39:33"
+  },
+  {
+    "business_name": "Lr Tattoo",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo and piercing shop",
+    "all_categories": "Tattoo and piercing shop, Tattoo artist, Tattoo shop",
+    "pincode": "441113",
+    "phone_number": "+91 80876 25989",
+    "website": "https://lrtattoo.wixsite.com/my-site",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "PRABHU NAGAR, near swami samarth mandir, Zingabai Takli, Nagpur, Maharashtra 440030",
+    "area": "Zingabai Takli",
+    "latitude": 21.1963451,
+    "longitude": 79.06749239999999,
+    "place_id": "ChIJu55HFgDB1DsRcHwhsQmFvr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu55HFgDB1DsRcHwhsQmFvr0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:39:36"
+  }
+]

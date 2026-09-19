@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "440034",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "45F6+XX7, Symbiosis College Rd, Wathoda Layout, Bidgaon-Tarodi Kh.-Pandhurna, Maharashtra 441202",
+    "area": "Wathoda Layout",
+    "latitude": 21.124917999999997,
+    "longitude": 79.1624118,
+    "place_id": "ChIJaxtsv-y51DsRLVyJtw3CFVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaxtsv-y51DsRLVyJtw3CFVA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:07:43"
+  },
+  {
+    "business_name": "Evergreen Automobile",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Auto bodywork mechanic, Auto broker, Auto painting, Auto repair shop, RV repair shop, Towing service",
+    "pincode": "440034",
+    "phone_number": "+91 86570 63111",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "45W4+2HF, Railway Station Rd, Bhandewadi, Pardi, Nagpur, Maharashtra 440035",
+    "area": "Bhandewadi, Pardi",
+    "latitude": 21.146176,
+    "longitude": 79.1572542,
+    "place_id": "ChIJpTiP6XfH1DsRYvntc0hX_YE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpTiP6XfH1DsRYvntc0hX_YE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:07:43"
+  }
+]

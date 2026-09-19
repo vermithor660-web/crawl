@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Engineering Works",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Engineer",
+    "all_categories": "Engineer, Machine workshop",
+    "pincode": "440032",
+    "phone_number": "+91 80 4605 1712",
+    "website": "https://www.jainengineering.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ladpura, Queta Colony, Lakadganj, Nagpur, Maharashtra 440008",
+    "area": "Ladpura, Queta Colony, Lakadganj",
+    "latitude": 21.1534261,
+    "longitude": 79.1158583,
+    "place_id": "ChIJR_lDz9HA1DsRh1P2hx9gVy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_lDz9HA1DsRh1P2hx9gVy0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:04:47"
+  },
+  {
+    "business_name": "Magod Laser Machining Private Limited",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Laser Cutting Service Provider",
+    "all_categories": "Laser Cutting Service Provider, Metal fabricator, 3D printing service",
+    "pincode": "440032",
+    "phone_number": "+91 95133 93351",
+    "website": "http://www.magodlaser.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Plot No 72, KIADB Industrial Area 2nd Phase Jigani Anekal, Taluk, Bengaluru, Karnataka 560105",
+    "area": "440032",
+    "latitude": 12.777656499999999,
+    "longitude": 77.6336359,
+    "place_id": "ChIJq6qq6g0VrjsRf7PTtCwf2k0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq6g0VrjsRf7PTtCwf2k0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:04:47"
+  }
+]

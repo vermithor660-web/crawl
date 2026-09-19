@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Appliance Doctor of NJNY",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Service establishment",
+    "pincode": "441113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Appliance Doctor of NJNY, 441113, India",
+    "area": "441113",
+    "latitude": 40.9837049,
+    "longitude": -74.3884994,
+    "place_id": "ChIJi6EvHGoLDI4RCCVGlmyufGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi6EvHGoLDI4RCCVGlmyufGg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:39:26"
+  },
+  {
+    "business_name": "Vitor Refrigeração Assisténcia Técnica",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service",
+    "pincode": "441113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Retiro, Volta Redonda - Rio de Janeiro, 27277-330, Brazil",
+    "area": "Retiro",
+    "latitude": -22.5016544,
+    "longitude": -44.132714799999995,
+    "place_id": "ChIJD3fMmTSYngARHJZW6msFAFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD3fMmTSYngARHJZW6msFAFA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:39:26"
+  }
+]

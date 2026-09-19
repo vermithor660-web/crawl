@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vanita Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store, Boutique",
+    "pincode": "441201",
+    "phone_number": "+91 99227 33185",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 8, Itwari Peth, Datta Mandir, Itwari Main Rd, Teachers Colony, Nagpur, Umred, Maharashtra 441203",
+    "area": "Teachers Colony",
+    "latitude": 20.849049,
+    "longitude": 79.3211271,
+    "place_id": "ChIJ8QQkUaet1DsRODIC_eX1J8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8QQkUaet1DsRODIC_eX1J8Q",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:44:23"
+  },
+  {
+    "business_name": "SF MENSWEAR",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "441201",
+    "phone_number": "+91 93709 82380",
+    "website": "https://www.youtube.com/@Sf_Mensware_chimur",
+    "rating": 5,
+    "reviews_count": 62,
+    "address": "Main road, opposite bawankar krushi kendra, Nehru Ward, Chimur, Maharashtra 442903",
+    "area": "Nehru Ward",
+    "latitude": 20.4958587,
+    "longitude": 79.37330519999999,
+    "place_id": "ChIJv7YGcwBN0zsR_5g_ZUUaQkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7YGcwBN0zsR_5g_ZUUaQkw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:44:24"
+  }
+]

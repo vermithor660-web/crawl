@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba Flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "441110",
+    "phone_number": "+91 70574 93618",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "11, Erandwana Gaothan, Erandwane, Pune, Maharashtra 411004",
+    "area": "Erandwana Gaothan, Erandwane",
+    "latitude": 18.5055174,
+    "longitude": 73.8337999,
+    "place_id": "ChIJubkA0Iy_wjsRVdcAlY_An9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJubkA0Iy_wjsRVdcAlY_An9g",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:34:54"
+  },
+  {
+    "business_name": "Pooja Oil and Flour",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill, Spice store",
+    "pincode": "441110",
+    "phone_number": "+91 92597 24994",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "452, peer wali gali 3, Arya Nagar, Jwalapur, Uttarakhand 249407",
+    "area": "Arya Nagar",
+    "latitude": 29.9240125,
+    "longitude": 78.1226863,
+    "place_id": "ChIJ2eTDBfZHCTkRwDz5jBhK1Oc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2eTDBfZHCTkRwDz5jBhK1Oc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:34:55"
+  }
+]

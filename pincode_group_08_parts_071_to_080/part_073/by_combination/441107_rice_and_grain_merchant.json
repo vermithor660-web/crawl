@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Darshan Rice Mill",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Rice wholesaler, Wholesale Food Store",
+    "pincode": "441107",
+    "phone_number": "+91 87708 55232",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 10,
+    "address": "MP SH 26, Palari, Seoni, Madhya Pradesh 480661",
+    "area": "Palari",
+    "latitude": 22.072934,
+    "longitude": 79.542985,
+    "place_id": "ChIJ5dGFz1exKjoRni78RhOPLwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5dGFz1exKjoRni78RhOPLwc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:27:45"
+  },
+  {
+    "business_name": "Real Agri Creation",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Agricultural Product Wholesaler",
+    "all_categories": "Agricultural Product Wholesaler",
+    "pincode": "441107",
+    "phone_number": "+91 93716 40280",
+    "website": "https://realagri.in/",
+    "rating": 4.5,
+    "reviews_count": 10,
+    "address": "Shop No. 66, Second Floor, Ghat Road, Subhash Rd, Empress City, Nagpur, Maharashtra 440018",
+    "area": "Cotton Market, Empress City",
+    "latitude": 21.1448444,
+    "longitude": 79.093037,
+    "place_id": "ChIJ7V5-q7jA1DsRGv2Q7hnCMVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7V5-q7jA1DsRGv2Q7hnCMVE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:27:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medplus Ltd",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "440035",
+    "phone_number": "+91 40 6700 6700",
+    "website": "https://www.medplusindia.com/",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "45RC+FH2, Bidgaon Rd, Dighori, Kapsi kh, Maharashtra 440035",
+    "area": "Dighori",
+    "latitude": 21.1411327,
+    "longitude": 79.1713949,
+    "place_id": "ChIJlwBlMvfH1DsR-YAGOSTK3dQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlwBlMvfH1DsR-YAGOSTK3dQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:09:37"
+  },
+  {
+    "business_name": "MedPlus Near Bhawani Hospital Pardi",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store, General store, Medical supply store, Sports nutrition store, Vitamin & supplements store",
+    "pincode": "440035",
+    "phone_number": "+91 85304 22074",
+    "website": "https://www.medplusmart.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "House No. 3648, Matoshree Square, Shop No. 1, 2, & 3, Nagar Bhumapan No. 168 Mouza Punapur, Plot No. 11A, Punapur Rd, nr. Bhawani Hospital, Pardi, Nagpur, Maharashtra 440035",
+    "area": "Pardi",
+    "latitude": 21.1517901,
+    "longitude": 79.1618714,
+    "place_id": "ChIJk1n5dtDH1DsRM2cfaDTrU_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk1n5dtDH1DsRM2cfaDTrU_g",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:09:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M T TRAVELS POINT",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus company",
+    "all_categories": "Bus company",
+    "pincode": "441102",
+    "phone_number": "+91 90829 28548",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mhks Petrol Pump, Kamptee Rd, Nagpur, Bhilgaon, Maharashtra 440029",
+    "area": "441102",
+    "latitude": 21.2053585,
+    "longitude": 79.148527,
+    "place_id": "ChIJ19kYX27H1DsRzrH_kSCzniI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ19kYX27H1DsRzrH_kSCzniI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:19:11"
+  },
+  {
+    "business_name": "Gangeeta school bus services and bhanare tours and travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "441102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kamptee Rd, Pili Nadi, Nagpur, Maharashtra 440026",
+    "area": "Pili Nadi",
+    "latitude": 21.1924395,
+    "longitude": 79.12898349999999,
+    "place_id": "ChIJicRmMVfH1DsRjNFYDBdyY8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJicRmMVfH1DsRjNFYDBdyY8M",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:19:13"
+  }
+]

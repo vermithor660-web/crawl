@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Dudhe Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "441112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FV6G+453, Kelod, Maharashtra 441112",
+    "area": "441112",
+    "latitude": 21.460252099999998,
+    "longitude": 78.87541569999999,
+    "place_id": "ChIJbbLvGQDj1DsRBM6t5Fztico",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbbLvGQDj1DsRBM6t5Fztico",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:37:17"
+  },
+  {
+    "business_name": "Sant Kabir Clinic",
+    "search_category": "Clinics",
+    "primary_category": "General practitioner",
+    "all_categories": "General practitioner",
+    "pincode": "441112",
+    "phone_number": "+91 98229 28350",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9W9M+8MX, Near New Hatment colony, Wcl, Maske-lay-out, Waghoda, Saoner, Nagpur, Maharashtra 441107",
+    "area": "New hatment colony",
+    "latitude": 21.368360799999998,
+    "longitude": 78.93424,
+    "place_id": "ChIJUyB3NJ_m1DsRe9j6K2ecjmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUyB3NJ_m1DsRe9j6K2ecjmI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:37:20"
+  }
+]

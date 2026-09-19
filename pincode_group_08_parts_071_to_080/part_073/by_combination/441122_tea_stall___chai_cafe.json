@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe Chai Lovers",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Tea store",
+    "pincode": "441122",
+    "phone_number": "+91 98668 84001",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Sri Laxmi Nagar Colony, Manikonda, Hyderabad, Telangana 500089",
+    "area": "Sri Laxmi Nagar Colony",
+    "latitude": 17.4063114,
+    "longitude": 78.3730746,
+    "place_id": "ChIJb17d8V-VyzsRBL9T9IPTdvQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb17d8V-VyzsRBL9T9IPTdvQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:40:31"
+  },
+  {
+    "business_name": "Graduate Gudacha Chai lassi",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "441122",
+    "phone_number": "+91 91750 38740",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 6,
+    "address": "Front of, Metro Station, MIHAN, Nagpur, Khapri, Maharashtra 441108",
+    "area": "MIHAN, Nagpur",
+    "latitude": 21.0494071,
+    "longitude": 79.0463023,
+    "place_id": "ChIJYU1CeA2_1DsRAogC2MvnrxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYU1CeA2_1DsRAogC2MvnrxQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:40:34"
+  }
+]

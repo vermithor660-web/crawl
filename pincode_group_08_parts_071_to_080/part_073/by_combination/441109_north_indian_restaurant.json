@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haldiram's",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Breakfast restaurant, Sweet shop, Dessert shop, Fast food restaurant, Health food restaurant, Family restaurant, Indian sweets shop, Restaurant",
+    "pincode": "441109",
+    "phone_number": "+91 70300 00146",
+    "website": "https://www.haldirams.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Plot No. 116/1/1, Saoner Road Beside Naivedyam NorthStar, Nanda, Koradi, Nagpur, Maharashtra 441111",
+    "area": "New Nanda",
+    "latitude": 21.2665731,
+    "longitude": 79.0878998,
+    "place_id": "ChIJPUeRAGXD1DsR7aIoNe46jrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPUeRAGXD1DsR7aIoNe46jrc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:31:40"
+  },
+  {
+    "business_name": "Gill Dhabha Koradi Road",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "441109",
+    "phone_number": "+91 88301 59239",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "38, Chhindwara Rd, Vidhya Nagar, Bokara, Maharashtra 441111",
+    "area": "Vidhya Nagar",
+    "latitude": 21.2174537,
+    "longitude": 79.0802728,
+    "place_id": "ChIJc3mBw9jD1DsRT0hlk4vzTuI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc3mBw9jD1DsRT0hlk4vzTuI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:31:40"
+  }
+]

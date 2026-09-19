@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Joshi's Naturals",
+    "search_category": "Organic Food Store",
+    "primary_category": "Natural goods store",
+    "all_categories": "Natural goods store",
+    "pincode": "440033",
+    "phone_number": "+91 88888 93963",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Plot no 123, W Shankar Nagar Rd, Shankar Nagar, Nagpur, Maharashtra 440010",
+    "area": "Shankar Nagar",
+    "latitude": 21.1320078,
+    "longitude": 79.0602018,
+    "place_id": "ChIJdypwidDB1DsRPPYO7gSgqP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdypwidDB1DsRPPYO7gSgqP8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:05:07"
+  },
+  {
+    "business_name": "The Nature's Bowl",
+    "search_category": "Organic Food Store",
+    "primary_category": "E-commerce service",
+    "all_categories": "E-commerce service, Grocery delivery service",
+    "pincode": "440033",
+    "phone_number": "+91 77678 85222",
+    "website": "http://www.thenaturesbowl.com/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Shankar Nagar Square, Dharampeth, Nagpur, Maharashtra 440010",
+    "area": "Dharampeth",
+    "latitude": 21.1359919,
+    "longitude": 79.06053039999999,
+    "place_id": "ChIJ1_Kjk0TB1DsRjafN877svyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_Kjk0TB1DsRjafN877svyw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:05:09"
+  }
+]

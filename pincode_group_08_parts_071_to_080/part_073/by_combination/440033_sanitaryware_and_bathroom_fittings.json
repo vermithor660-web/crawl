@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "thehome",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store, Home improvement store, Garden, Hardware store",
+    "pincode": "440033",
+    "phone_number": "+91 712 253 1119",
+    "website": "https://thehomeindia.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "48 Hill Road, Gokulpeth, Between, to, Baji Prabhu Deshpande Chowk, Ravi Nagar, Nagpur, Maharashtra 440033",
+    "area": "Ravi Nagar, Ram Nagar",
+    "latitude": 21.1432264,
+    "longitude": 79.0563035,
+    "place_id": "ChIJBW0P07rB1DsRe9xhgEkcF1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBW0P07rB1DsRe9xhgEkcF1w",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:05:55"
+  },
+  {
+    "business_name": "Aquilo Experience Centre - Nagpur",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Bathroom remodeler",
+    "all_categories": "Bathroom remodeler",
+    "pincode": "440033",
+    "phone_number": "+91 93716 38368",
+    "website": "https://www.aquilo.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Himalay Harmony, W High Ct Rd, beside Neeri Gate, Laxminagar, Nagpur, Maharashtra 440022",
+    "area": "Laxminagar",
+    "latitude": 21.1209915,
+    "longitude": 79.064624,
+    "place_id": "ChIJXVS6CYDA1DsRThx-XXC47Gw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXVS6CYDA1DsRThx-XXC47Gw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:05:55"
+  }
+]

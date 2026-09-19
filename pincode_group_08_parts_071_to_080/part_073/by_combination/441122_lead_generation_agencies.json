@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Moris Media",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Public relations firm",
+    "all_categories": "Public relations firm, Service establishment",
+    "pincode": "441122",
+    "phone_number": "+91 80003 34444",
+    "website": "https://morismedia.in/",
+    "rating": 4.9,
+    "reviews_count": 392,
+    "address": "Moris Media, 441122, India",
+    "area": "441122",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJx96B38RCMQERfg0JnX6My5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx96B38RCMQERfg0JnX6My5c",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:42:02"
+  },
+  {
+    "business_name": "Digital Vayapari",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "441122",
+    "phone_number": "+91 98914 33466",
+    "website": "https://www.digitalvayapari.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "B254B, Shiv Mandir Rd, near Bada, GD Colony, Mayur Vihar Phase III, Kondli, New Delhi, Delhi, 110096",
+    "area": "GD Colony, Mayur Vihar Phase III, Kondli",
+    "latitude": 28.612802199999997,
+    "longitude": 77.3269676,
+    "place_id": "ChIJZT_wFUTlDDkRc-1dLC4WbLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZT_wFUTlDDkRc-1dLC4WbLo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:42:03"
+  }
+]

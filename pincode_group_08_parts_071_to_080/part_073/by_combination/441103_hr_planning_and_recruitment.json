@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Recruitment And Hiring Partners",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "441103",
+    "phone_number": "N/A",
+    "website": "https://www.trahp.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "The Recruitment And Hiring Partners, 441103, India",
+    "area": "441103",
+    "latitude": 28.522201799999998,
+    "longitude": 77.40182539999999,
+    "place_id": "ChIJ_685hi-JUEURUb531Qc7Haw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_685hi-JUEURUb531Qc7Haw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:21:48"
+  },
+  {
+    "business_name": "Blue HR Consulting",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "441103",
+    "phone_number": "N/A",
+    "website": "https://bluehr.ca/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Blue HR Consulting, 441103, India",
+    "area": "441103",
+    "latitude": 42.6536024,
+    "longitude": -82.1078758,
+    "place_id": "ChIJv7245k1d0CcRzDbiJU-VTsA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7245k1d0CcRzDbiJU-VTsA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:21:48"
+  }
+]

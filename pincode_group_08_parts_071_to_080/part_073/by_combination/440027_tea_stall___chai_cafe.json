@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Tea Essence",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Tea store",
+    "pincode": "440027",
+    "phone_number": "+91 96374 98072",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Mundvayik Complex, 2A, Manewada Rd, Durga Nagar, Ambika Nagar, Ayodhya nagar, Nagpur, Maharashtra 440024",
+    "area": "Durga Nagar, Ambika Nagar, Ayodhya nagar",
+    "latitude": 21.1144552,
+    "longitude": 79.1043548,
+    "place_id": "ChIJU589IwC_1DsRthuIuCSPEQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU589IwC_1DsRthuIuCSPEQk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:59:32"
+  },
+  {
+    "business_name": "CHAI CHOUPATI",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Fast food restaurant, Indian restaurant, Italian grocery store, Restaurant",
+    "pincode": "440027",
+    "phone_number": "+91 83903 74731",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Beltarodi Rd, Manish Nagar, road, Nagpur, Maharashtra 440037",
+    "area": "Manish Nagar, road",
+    "latitude": 21.0925673,
+    "longitude": 79.0827959,
+    "place_id": "ChIJqTlT04y_1DsRiC7i2uo9DEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqTlT04y_1DsRiC7i2uo9DEI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:59:32"
+  }
+]

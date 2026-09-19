@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M O J & Associates",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant, Service establishment",
+    "pincode": "441108",
+    "phone_number": "N/A",
+    "website": "http://www.mojca.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "M O J & Associates, 441108, India",
+    "area": "441108",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ9Zwow6YXrjsR6HJqA4SOKiY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Zwow6YXrjsR6HJqA4SOKiY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:31:11"
+  },
+  {
+    "business_name": "D S S And Company",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant",
+    "pincode": "441108",
+    "phone_number": "+91 80073 88809",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Rajiv Nagar, Hingna, Wanadongri, Maharashtra 441110",
+    "area": "Rajiv Nagar, Hingna",
+    "latitude": 21.0993301,
+    "longitude": 78.98397369999999,
+    "place_id": "ChIJlZfDMjKV1DsRIUQ6NmspHqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlZfDMjKV1DsRIUQ6NmspHqg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:31:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gangaur",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Sweet shop, Grocery store",
+    "pincode": "440033",
+    "phone_number": "+91 87888 29428",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 251,
+    "address": "43R6+C7X, W High Ct Rd, Near Sudama Talkies, Dharampeth, Nagpur, Maharashtra 440010",
+    "area": "Near Sudama Talkies, Dharampeth",
+    "latitude": 21.1411111,
+    "longitude": 79.060738,
+    "place_id": "ChIJmdi86GDA1DsRnVJ4hhC_BWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmdi86GDA1DsRnVJ4hhC_BWQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:05:19"
+  },
+  {
+    "business_name": "GuniRam's RESTRO CAFE",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "440033",
+    "phone_number": "+91 80070 00557",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "Shop no. 4, house no. 699A kachipura chowk, E High Ct Rd, opposite sanskruti shalini apartment, New Ramdaspeth, Nagpur, Maharashtra 440010",
+    "area": "Shankar Nagar, East Shankar Nagar, New Ramdaspeth",
+    "latitude": 21.1329204,
+    "longitude": 79.0682709,
+    "place_id": "ChIJbbGEOWbB1DsR7Dlbvg4Pfd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbbGEOWbB1DsR7Dlbvg4Pfd0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:05:19"
+  }
+]

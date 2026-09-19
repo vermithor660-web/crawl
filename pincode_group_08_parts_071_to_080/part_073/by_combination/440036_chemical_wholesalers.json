@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vir Sales",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "440036",
+    "phone_number": "+91 80877 10021",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kalyan nagar, Digdoh, Maharashtra 440036",
+    "area": "Kalyan nagar",
+    "latitude": 21.119450699999998,
+    "longitude": 79.0173861,
+    "place_id": "ChIJQRHe8Krq1DsRO2skUhKMVa0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRHe8Krq1DsRO2skUhKMVa0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:12:37"
+  },
+  {
+    "business_name": "Nirmiti Enterprises",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Plating service",
+    "all_categories": "Plating service, Industrial chemicals wholesaler, Metal finisher",
+    "pincode": "440036",
+    "phone_number": "+91 93252 19097",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F 9/2, Hingna Rd, MIDC Industrial Area, Hingna, Nagpur, Maharashtra 441110",
+    "area": "MIDC Industrial Area, Hingna",
+    "latitude": 21.1171667,
+    "longitude": 79.0020777,
+    "place_id": "ChIJXWsyLDaV1DsRj3LFtIgQV8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXWsyLDaV1DsRj3LFtIgQV8Y",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:12:38"
+  }
+]

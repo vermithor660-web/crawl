@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dani Bag House",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "441101",
+    "phone_number": "+91 96650 23249",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "bade complex nr. union bank, Kalmeshwar, Maharashtra 441501",
+    "area": "Kalmeshwar",
+    "latitude": 21.2352421,
+    "longitude": 78.9093564,
+    "place_id": "ChIJGXEBjnrv1DsR94xAVAAW0KM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGXEBjnrv1DsR94xAVAAW0KM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:17:00"
+  },
+  {
+    "business_name": "VIP LOUNGE - MAIN ROAD - SITABULDI - NAGPUR",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Luggage store",
+    "all_categories": "Luggage store, Bag shop",
+    "pincode": "441101",
+    "phone_number": "+91 712 252 3603",
+    "website": "https://vipbags.com/",
+    "rating": 4.5,
+    "reviews_count": 56,
+    "address": "Main Rd, Variety Square, Sitabuldi, Nagpur, Maharashtra 440012",
+    "area": "Variety Square, Sitabuldi",
+    "latitude": 21.1437864,
+    "longitude": 79.08161799999999,
+    "place_id": "ChIJfTAXX5PA1DsReZJFvYJ6NLE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfTAXX5PA1DsReZJFvYJ6NLE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:17:00"
+  }
+]

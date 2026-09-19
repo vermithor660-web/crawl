@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAA Auto Agency",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto electrical service",
+    "all_categories": "Auto electrical service, Auto air conditioning service, Auto parts store, Auto Accessories Store",
+    "pincode": "441105",
+    "phone_number": "+91 82757 87575",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Plot No.14, Teacher Colony, Zafar Nagar Lane No.1, Outer Ring Road, Nagpur, Maharashtra 440013",
+    "area": "Jafar Nagar, New Mankapur",
+    "latitude": 21.1861922,
+    "longitude": 79.0679009,
+    "place_id": "ChIJi9VHyAvB1DsRrYfI7qPw288",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi9VHyAvB1DsRrYfI7qPw288",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:24:38"
+  },
+  {
+    "business_name": "Speedy Fix Auto Repair",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "441105",
+    "phone_number": "+91 81492 60031",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Mumbai - Kolkata Hwy, Nagpur, Lonare, Maharashtra 441111",
+    "area": "441105",
+    "latitude": 21.2428156,
+    "longitude": 79.05007739999999,
+    "place_id": "ChIJe7HrSRzD1DsRUbvgYDJqDKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe7HrSRzD1DsRUbvgYDJqDKU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:24:39"
+  }
+]

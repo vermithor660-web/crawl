@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LAXMI SHOE MALL",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "441109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dahegaon Road, Khaperkheda, Chandkapur, Maharashtra 441102",
+    "area": "441109",
+    "latitude": 21.284277799999998,
+    "longitude": 79.1010134,
+    "place_id": "ChIJg44eEQDD1DsRHjAbIhMMdFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg44eEQDD1DsRHjAbIhMMdFM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:31:49"
+  },
+  {
+    "business_name": "Sanu Shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "441109",
+    "phone_number": "+91 712 254 8749",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 23,
+    "address": "43VM+PPM, Main Rd, Sitabuldi, Nagpur, Maharashtra 440012",
+    "area": "Sitabuldi",
+    "latitude": 21.144343,
+    "longitude": 79.0842894,
+    "place_id": "ChIJ0bj4EcDA1DsRR98nkE42kq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bj4EcDA1DsRR98nkE42kq8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:31:51"
+  }
+]

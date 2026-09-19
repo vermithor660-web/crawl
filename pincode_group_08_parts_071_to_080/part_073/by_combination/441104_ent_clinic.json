@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Sharma Hospital(ENT)",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "441104",
+    "phone_number": "+91 94228 37405",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 30,
+    "address": "Rajiv gandhi square, Civil Line, MSEB Colony, Bhandara, Maharashtra 441904",
+    "area": "Civil Line, MSEB Colony",
+    "latitude": 21.1640625,
+    "longitude": 79.64899319999999,
+    "place_id": "ChIJj7FzcYc_KzoRZayt8nbvayI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj7FzcYc_KzoRZayt8nbvayI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:22:39"
+  },
+  {
+    "business_name": "Sushrut E.N.T. & General Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "441104",
+    "phone_number": "+91 95886 11825",
+    "website": "http://skbchartabletrus.com/",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "3rd Floor, Kaustubha Complex, Rajeev Gandhi Square, SKB CHARETABLE HOSPITAL, Maharashtra 441904",
+    "area": "Madhav Nagar",
+    "latitude": 21.164508599999998,
+    "longitude": 79.64844509999999,
+    "place_id": "ChIJE9XuXQs5KzoR0Q_k1VoqPrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE9XuXQs5KzoR0Q_k1VoqPrc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:22:42"
+  }
+]

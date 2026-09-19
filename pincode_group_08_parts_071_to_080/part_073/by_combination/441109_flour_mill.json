@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Annapurna Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "441109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "74H5+78X, Chandkapur, Maharashtra 441102",
+    "area": "441109",
+    "latitude": 21.2782272,
+    "longitude": 79.10837289999999,
+    "place_id": "ChIJYab6jGLD1DsRb3l0gWo7STw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYab6jGLD1DsRb3l0gWo7STw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:31:32"
+  },
+  {
+    "business_name": "Borgaon Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "441109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "No 62, Gorewada Rd, Borgaon, Gittikhadan, Nagpur, Maharashtra 440013",
+    "area": "Borgaon, Gittikhadan",
+    "latitude": 21.1802614,
+    "longitude": 79.0531654,
+    "place_id": "ChIJ75Cuog3B1DsRKQhD1oQspDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ75Cuog3B1DsRKQhD1oQspDs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:31:34"
+  }
+]

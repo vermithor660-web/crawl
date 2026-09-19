@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganesh Glasses",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass shop",
+    "all_categories": "Glass shop",
+    "pincode": "441123",
+    "phone_number": "+91 93251 80168",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot no. 18, near Bhagyashree Bear bar And Prashant Tuition classes, Gopal Nagar, Gayatri Nagar, Gorle Layout, Nagpur, Maharashtra 440022",
+    "area": "Gopal Nagar, Gayatri Nagar, Gorle Layout",
+    "latitude": 21.1164634,
+    "longitude": 79.0508741,
+    "place_id": "ChIJMZKxRwK_1DsRtWQErznkGzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMZKxRwK_1DsRtWQErznkGzs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:42:58"
+  },
+  {
+    "business_name": "Quality Glass",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Mirror shop",
+    "all_categories": "Mirror shop, Glass shop",
+    "pincode": "441123",
+    "phone_number": "+91 90968 96763",
+    "website": "https://qualityvenetianmirrors.in/",
+    "rating": 4.7,
+    "reviews_count": 41,
+    "address": "Plot no 4 Jaiswal Layout Ward, No 2, Hingna Rd, Wanadongri, Maharashtra 441110",
+    "area": "441123",
+    "latitude": 21.1048135,
+    "longitude": 78.9695271,
+    "place_id": "ChIJNb68ctO_1DsRZJ_1VtbIB4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNb68ctO_1DsRZJ_1VtbIB4M",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:42:58"
+  }
+]

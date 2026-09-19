@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Y2Mart",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "440037",
+    "phone_number": "+91 99750 01000",
+    "website": "http://thaokar.com/y2mart.php",
+    "rating": 4.6,
+    "reviews_count": 15,
+    "address": "34M4+9VX, Besa-Pipla Rd, Besa, Besa Pipla, Maharashtra 440037",
+    "area": "Besa",
+    "latitude": 21.0834799,
+    "longitude": 79.1072411,
+    "place_id": "ChIJdZdj8Sy_1DsRyjEXrxvNu1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZdj8Sy_1DsRyjEXrxvNu1s",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:12:54"
+  },
+  {
+    "business_name": "PURTI SUPER BAZAR",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "440037",
+    "phone_number": "+91 93255 37380",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "Jayanti nagari 7, Besa-Pipla Rd, New Hanuman Nagar, Manewada, Besa Pipla, Maharashtra 440037",
+    "area": "New Hanuman Nagar, Manewada",
+    "latitude": 21.0853111,
+    "longitude": 79.10454589999999,
+    "place_id": "ChIJj1VeQAC_1DsRy1s82LCyoX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1VeQAC_1DsRy1s82LCyoX8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:12:54"
+  }
+]

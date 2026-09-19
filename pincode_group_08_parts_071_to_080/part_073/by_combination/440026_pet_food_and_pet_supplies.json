@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yash Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "440026",
+    "phone_number": "+91 94234 01716",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "53RG+PPF Faras Chowk, 686/A28, Zingabai Takali Rd, Geeta Nagar, Zingabai Takli, Nagpur, Maharashtra 440030",
+    "area": "Geeta Nagar, Zingabai Takli",
+    "latitude": 21.191605199999998,
+    "longitude": 79.0769358,
+    "place_id": "ChIJYcBqn9_B1DsR4gmrdLwzGbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYcBqn9_B1DsR4gmrdLwzGbo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:57:35"
+  },
+  {
+    "business_name": "My Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "440026",
+    "phone_number": "+91 80553 45884",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Manav nagar, Nari Rd, near SBI bank, Sanyal Nagar, Teka Naka, Nagpur, Maharashtra 440026",
+    "area": "Sanyal Nagar, Teka Naka",
+    "latitude": 21.182083,
+    "longitude": 79.1090229,
+    "place_id": "ChIJ-0NRykTB1DsROP77-INS1uA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-0NRykTB1DsROP77-INS1uA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:57:36"
+  }
+]

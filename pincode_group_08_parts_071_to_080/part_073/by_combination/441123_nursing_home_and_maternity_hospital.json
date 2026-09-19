@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Life Care Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "441123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 11,
+    "address": "said see ashram soc, tank road, near z.k lawn, Utthan Nagar, Gorewada, Nagpur, Maharashtra 440013",
+    "area": "Utthan Nagar, Gorewada",
+    "latitude": 21.1898318,
+    "longitude": 79.0504708,
+    "place_id": "ChIJRSfZxJfB1DsRoNc3OM4NUls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRSfZxJfB1DsRoNc3OM4NUls",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:42:35"
+  },
+  {
+    "business_name": "Sanjeevani Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home",
+    "pincode": "441123",
+    "phone_number": "+91 712 278 7071",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Beltarodi Rd, Mahalaxmi Society, Manish Nagar, Somalwada, Nagpur, Maharashtra 440037",
+    "area": "Mahalaxmi Society, Manish Nagar, Somalwada",
+    "latitude": 21.091670999999998,
+    "longitude": 79.0770944,
+    "place_id": "ChIJG6S3msa_1DsRrZJol940q8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6S3msa_1DsRrZJol940q8M",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:42:38"
+  }
+]

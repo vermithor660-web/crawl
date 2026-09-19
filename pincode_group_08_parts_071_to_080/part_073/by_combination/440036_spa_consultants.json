@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nagpur, Maharashtra 440036",
+    "search_category": "Spa Consultants",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "440036",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jaitala, Nagpur, Maharashtra",
+    "area": "Jaitala",
+    "latitude": 21.1028803,
+    "longitude": 79.02777739999999,
+    "place_id": "ChIJg7BWLOW_1DsRx4itdyez_xg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7BWLOW_1DsRx4itdyez_xg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:12:01"
+  },
+  {
+    "business_name": "Shyla VIP Spa",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "440036",
+    "phone_number": "+91 95611 23090",
+    "website": "https://shylavip.spa-center.in/",
+    "rating": 5,
+    "reviews_count": 24,
+    "address": "SN90/91, Chitnavispura, Nagpur, Maharashtra 440018",
+    "area": "Chitnavispura",
+    "latitude": 21.1508279,
+    "longitude": 79.0923955,
+    "place_id": "ChIJ-R46pH_B1DsRIkAAVoAxWks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-R46pH_B1DsRIkAAVoAxWks",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:12:03"
+  }
+]

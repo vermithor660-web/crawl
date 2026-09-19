@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meghna Creations",
+    "search_category": "Saree Showroom",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Clothing Accessories Store, Handicraft Exporter, Saree Shop",
+    "pincode": "440037",
+    "phone_number": "+91 99216 10211",
+    "website": "https://meghnacreations.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Flat No. 702, Majestic court, square, Besa, Besa Pipla, Maharashtra 440037",
+    "area": "square, Besa",
+    "latitude": 21.084728899999998,
+    "longitude": 79.0941395,
+    "place_id": "ChIJowZoyVK_1DsROhbL9SNPLaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJowZoyVK_1DsROhbL9SNPLaQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:13:09"
+  },
+  {
+    "business_name": "Mohini Creation",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop, Clothing store",
+    "pincode": "440037",
+    "phone_number": "+91 98814 37774",
+    "website": "https://youtube.com/@mohinisaree999?si=O09QYRV4LdeyeIWG",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Chatrapati Square, Plot No 42, near Magaldeep Hall, Central Excise Colony, New Sneh Nagar, Nagpur, Maharashtra 440015",
+    "area": "Central Excise Colony, New Sneh Nagar",
+    "latitude": 21.1105087,
+    "longitude": 79.0681465,
+    "place_id": "ChIJken9unm_1DsRKyvwuG_cuz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJken9unm_1DsRKyvwuG_cuz8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:13:10"
+  }
+]

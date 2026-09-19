@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "आंगनवाड़ी",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "441113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "729R+4RF, Gumthi, Maharashtra 441111",
+    "area": "441113",
+    "latitude": 21.2678103,
+    "longitude": 79.04205999999999,
+    "place_id": "ChIJpTYarlnD1DsRZivypl5taDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpTYarlnD1DsRZivypl5taDQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:39:45"
+  },
+  {
+    "business_name": "Podar Jumbo Kids School",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "441113",
+    "phone_number": "N/A",
+    "website": "https://www.jumbokids.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "63GM+4H2, Ganesh Nagari, Bokara, Maharashtra 441111",
+    "area": "Ganesh Nagari",
+    "latitude": 21.225266899999998,
+    "longitude": 79.0838924,
+    "place_id": "ChIJOSer49zD1DsRu_YbmgDA5ZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOSer49zD1DsRu_YbmgDA5ZE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:39:45"
+  }
+]

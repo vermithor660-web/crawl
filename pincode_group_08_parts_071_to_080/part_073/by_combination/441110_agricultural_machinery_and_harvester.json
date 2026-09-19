@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parvati Agro SERVICES",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "441110",
+    "phone_number": "+91 95525 12290",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Shop No 7, New Mondha, Jalna, Maharashtra 431203",
+    "area": "New Mondha",
+    "latitude": 19.8754416,
+    "longitude": 75.89003799999999,
+    "place_id": "ChIJqWBpN4tR2jsRfEH1U5Ws5EI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqWBpN4tR2jsRfEH1U5Ws5EI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:34:54"
+  },
+  {
+    "business_name": "J D AGRO INDIA",
+    "search_category": "Agricultural Machinery and Harvester",
+    "primary_category": "Agricultural machinery manufacturer",
+    "all_categories": "Agricultural machinery manufacturer",
+    "pincode": "441110",
+    "phone_number": "+91 93102 83513",
+    "website": "https://www.jdagroindia.in/",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "4085-4086, near Kunjilal Halwai, Indra Market, Sabzi Mandi Old, Delhi, 110007",
+    "area": "Indra Market, Sabzi Mandi Old",
+    "latitude": 28.669251499999998,
+    "longitude": 77.2060856,
+    "place_id": "ChIJ22ezolr9DDkRG7rPZxqUvUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ22ezolr9DDkRG7rPZxqUvUw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:34:55"
+  }
+]

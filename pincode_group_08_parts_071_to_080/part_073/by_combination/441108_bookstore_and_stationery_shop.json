@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Tulja Associate",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "441108",
+    "phone_number": "+91 93703 59679",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 65,
+    "address": "Parvati Appartment, B-16, Beltarodi Road, near D-Mart, Prithviraj Nagar, Beltarodi, Besa Pipla, Maharashtra 441108",
+    "area": "Prithviraj Nagar, Beltarodi",
+    "latitude": 21.074592799999998,
+    "longitude": 79.077299,
+    "place_id": "ChIJs_tHP2W_1DsRPtEiW8Dj3kA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs_tHP2W_1DsRPtEiW8Dj3kA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:30:54"
+  },
+  {
+    "business_name": "Arun Book Centre",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Bag shop, Fireworks store, Book store",
+    "pincode": "441108",
+    "phone_number": "+91 92252 39945",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 11,
+    "address": "Kulkarni Apartment Building#2, Wardha Rd, Kachore Nagar, Chichbhavan, Beltarodi, Nagpur, Maharashtra 441108",
+    "area": "Kachore Nagar, Chichbhavan, Beltarodi",
+    "latitude": 21.0677466,
+    "longitude": 79.05895,
+    "place_id": "ChIJac8fClS-1DsRCl0pOicG-1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJac8fClS-1DsRCl0pOicG-1w",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:30:54"
+  }
+]

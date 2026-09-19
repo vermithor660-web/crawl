@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Sayams",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Hair removal service, Hair transplantation clinic, Laser hair removal service, Dermatologist, Tattoo removal service",
+    "pincode": "440026",
+    "phone_number": "+91 73044 30246",
+    "website": "http://www.drsayamskinsquare.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Rani durgawati square, Rani Durgawati Nagar, Nagpur, Maharashtra 440017",
+    "area": "Rani Durgawati Nagar",
+    "latitude": 21.1732566,
+    "longitude": 79.1174362,
+    "place_id": "ChIJAft_kKDH1DsRyAqzxzScfJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAft_kKDH1DsRyAqzxzScfJI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:57:57"
+  },
+  {
+    "business_name": "Khandait Skin & Hair Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Hair transplantation clinic, Pediatric dermatologist, Dermatologist",
+    "pincode": "440026",
+    "phone_number": "+91 90222 70336",
+    "website": "https://khandaitskinandhairclinic.com/",
+    "rating": 4.9,
+    "reviews_count": 71,
+    "address": "1st Floor, Shraddha Apartment, U-10, HB Town, Pardi, Nagpur, Maharashtra 440035",
+    "area": "HB Town, Pardi",
+    "latitude": 21.1507105,
+    "longitude": 79.15005049999999,
+    "place_id": "ChIJAf_586rH1DsRN3_YQ1wEnxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAf_586rH1DsRN3_YQ1wEnxQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:57:59"
+  }
+]

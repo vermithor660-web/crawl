@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Villa, Katol",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "441103",
+    "phone_number": "+91 99239 26523",
+    "website": "https://www.instagram.com/chaivilla.katol?igsh=MTZ5azhhNWhqcGRkeg==",
+    "rating": 4.3,
+    "reviews_count": 30,
+    "address": "Shop No. 1, Sontakke Colony, Nagpur Road, near Shree Honda Showroom, Katol, Maharashtra 441302",
+    "area": "441103",
+    "latitude": 21.2636728,
+    "longitude": 78.5949306,
+    "place_id": "ChIJd8PWoktZ1DsRsg8jMBh4wx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd8PWoktZ1DsRsg8jMBh4wx0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:20:29"
+  },
+  {
+    "business_name": "Mr Tea Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "441103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "4JQP+M44, Kondhali, Maharashtra 441103",
+    "area": "441103",
+    "latitude": 21.1386871,
+    "longitude": 78.6356,
+    "place_id": "ChIJr07d9FRf1DsRxJy4Z_pG5Lk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr07d9FRf1DsRxJy4Z_pG5Lk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:20:29"
+  }
+]

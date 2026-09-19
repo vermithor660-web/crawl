@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lakki Beauty Clinic Plus Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Skin care clinic",
+    "pincode": "441123",
+    "phone_number": "+91 93737 88154",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kamatkar House, Godhani Road, Above IDBI Bank, Padmavati Nagar, Godhani (Railway), Maharashtra 441123",
+    "area": "Padmavati Nagar",
+    "latitude": 21.2133543,
+    "longitude": 79.0637611,
+    "place_id": "ChIJX3PwD4DB1DsRACKtobuH0ME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX3PwD4DB1DsRACKtobuH0ME",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:43:06"
+  },
+  {
+    "business_name": "New Look Beauty Parlor",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "441123",
+    "phone_number": "+91 88889 29107",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 23,
+    "address": "7, Godhani Road, Bapu Nagar, Zingabai Takli, Nagpur, Maharashtra 440030",
+    "area": "Bapu Nagar, Zingabai Takli",
+    "latitude": 21.202905599999998,
+    "longitude": 79.0669825,
+    "place_id": "ChIJFRv2gHfB1DsR5Ju4NThDUpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFRv2gHfB1DsR5Ju4NThDUpo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:43:06"
+  }
+]

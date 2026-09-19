@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarvadanya Balloon Shop",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company",
+    "pincode": "441101",
+    "phone_number": "+91 93735 61962",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sarvanda Building, Wagmare Layout, Saoner, Maharashtra 441107",
+    "area": "Wagmare Layout",
+    "latitude": 21.3769498,
+    "longitude": 78.9154346,
+    "place_id": "ChIJUSCJYQDl1DsRAUWhgvHPlk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUSCJYQDl1DsRAUWhgvHPlk8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:17:51"
+  },
+  {
+    "business_name": "DJ Shubham and Event Works",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "DJ service",
+    "all_categories": "DJ service",
+    "pincode": "441101",
+    "phone_number": "+91 77097 35747",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 42,
+    "address": "behind ST Depo Nakshatra colony, Saoner, Maharashtra 441107",
+    "area": "441101",
+    "latitude": 21.3815042,
+    "longitude": 78.92610429999999,
+    "place_id": "ChIJXW4veUfl1DsRHE0Yu9VJvHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXW4veUfl1DsRHE0Yu9VJvHE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:17:51"
+  }
+]

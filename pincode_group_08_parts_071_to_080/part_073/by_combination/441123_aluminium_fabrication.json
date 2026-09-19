@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhanashree Enterprises",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Aluminum window",
+    "all_categories": "Aluminum window, Hardware store, Metal fabricator",
+    "pincode": "441123",
+    "phone_number": "+91 97641 22422",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6365+CP2, Road, Suman Nagari, Godhani (Railway), Maharashtra 441123",
+    "area": "Suman Nagari",
+    "latitude": 21.211014499999997,
+    "longitude": 79.05925069999999,
+    "place_id": "ChIJ2fyF1oDB1DsR05TCj9XbaIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2fyF1oDB1DsR05TCj9XbaIw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:43:44"
+  },
+  {
+    "business_name": "Pramod fabrication",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Metal fabricator",
+    "all_categories": "Metal fabricator",
+    "pincode": "441123",
+    "phone_number": "+91 70202 01590",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Samatha nagar Shivmandir, Prakash Nagar, Nagpur, Maharashtra 440026",
+    "area": "Prakash Nagar",
+    "latitude": 21.2060793,
+    "longitude": 79.0676338,
+    "place_id": "ChIJBacxc0DB1DsRQIGAGr64tGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBacxc0DB1DsRQIGAGr64tGc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:43:45"
+  }
+]

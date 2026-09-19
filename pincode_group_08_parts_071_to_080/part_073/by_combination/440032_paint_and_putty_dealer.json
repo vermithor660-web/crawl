@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "N.S.Sales",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "440032",
+    "phone_number": "+91 84594 98449",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Opposite iqbal decoration, Bhaldarpura, Chhota Loharpura, road, Ganjipeth, Gandhibagh, Nagpur, Maharashtra 440018",
+    "area": "Ganjipeth, Gandhibagh",
+    "latitude": 21.1487514,
+    "longitude": 79.1029784,
+    "place_id": "ChIJw9tOJfHB1DsRFeqNCkjTlKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw9tOJfHB1DsRFeqNCkjTlKE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:04:00"
+  },
+  {
+    "business_name": "Devanjali Paint House",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "440032",
+    "phone_number": "+91 97637 57163",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No.6, Keshav Smruti, Great Nag Road, Ganesh Nagar, Nagpur, Maharashtra 440024",
+    "area": "Juni Shukrawari, Ganesh Nagar, Azamshah Layout",
+    "latitude": 21.1383294,
+    "longitude": 79.1149569,
+    "place_id": "ChIJKUGpLkzH1DsRXkGPwBPiA78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKUGpLkzH1DsRXkGPwBPiA78",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:04:02"
+  }
+]

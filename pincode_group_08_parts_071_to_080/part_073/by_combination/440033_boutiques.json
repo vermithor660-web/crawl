@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prim-Rose Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "440033",
+    "phone_number": "+91 99220 67023",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 37,
+    "address": "Giri Apartment, 152, Hilltop Layout, Hill Top Layout, Ambazari, Nagpur, Maharashtra 440033",
+    "area": "Hilltop Layout, Hill Top Layout, Ambazari",
+    "latitude": 21.1363527,
+    "longitude": 79.04960849999999,
+    "place_id": "ChIJAQB0zm7A1DsRgeMf7lnAnr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQB0zm7A1DsRgeMf7lnAnr4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:05:32"
+  },
+  {
+    "business_name": "Royal Threads",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "440033",
+    "phone_number": "+91 81085 84331",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 11,
+    "address": "17, New Verma Layout, Verma Layout, Sudam Nagar, Ambazari, Nagpur, Maharashtra 440033",
+    "area": "New Verma Layout, Verma Layout, Sudam Nagar, Ambazari",
+    "latitude": 21.135358,
+    "longitude": 79.0469713,
+    "place_id": "ChIJsU6Pga_B1DsRFeYOqrDxt5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsU6Pga_B1DsRFeYOqrDxt5I",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:05:32"
+  }
+]

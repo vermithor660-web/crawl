@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Utkarsh Balloon decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist",
+    "pincode": "441103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "Shree Shani mandir, Shani chowk, Katol, Maharashtra 441302",
+    "area": "441103",
+    "latitude": 21.273289,
+    "longitude": 78.5859566,
+    "place_id": "ChIJX9G1aKRZ1DsRZ66pGyLxEVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX9G1aKRZ1DsRZ66pGyLxEVg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:21:22"
+  },
+  {
+    "business_name": "Decor Planner",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party planner",
+    "all_categories": "Party planner, Balloon artist, Event planner, Wedding service",
+    "pincode": "441103",
+    "phone_number": "+91 83683 92166",
+    "website": "https://decorplanner.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SF 4, A-10, Ankur Vihar, DLF Ankur Vihar, Ghaziabad, Uttar Pradesh 201102",
+    "area": "Ankur Vihar, DLF Ankur Vihar",
+    "latitude": 28.741115399999998,
+    "longitude": 77.263212,
+    "place_id": "ChIJpQHVai-GmWERbM6an2EK4aY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpQHVai-GmWERbM6an2EK4aY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:21:22"
+  }
+]

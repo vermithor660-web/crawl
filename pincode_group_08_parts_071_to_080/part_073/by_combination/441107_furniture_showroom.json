@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ameen Furniture Mart",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "441107",
+    "phone_number": "+91 98603 32918",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "MH SH 248, Kalmeshwar, Kalmeshwar-Bramhni, Maharashtra 441501",
+    "area": "Kalmeshwar",
+    "latitude": 21.2334927,
+    "longitude": 78.9167563,
+    "place_id": "ChIJmSJNJ0Tv1DsRnqK72T2_kUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmSJNJ0Tv1DsRnqK72T2_kUg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:28:37"
+  },
+  {
+    "business_name": "N.R Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "441107",
+    "phone_number": "+91 99703 29876",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Ambika Apartment, Katol Naka Toll Booth, Square, Katol Rd, Makardhokda, Nagpur, Maharashtra 440013",
+    "area": "Makardhokda",
+    "latitude": 21.1830411,
+    "longitude": 79.03452159999999,
+    "place_id": "ChIJDwL6i8PB1DsRIZ9VvVKMA9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDwL6i8PB1DsRIZ9VvVKMA9U",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:28:39"
+  }
+]

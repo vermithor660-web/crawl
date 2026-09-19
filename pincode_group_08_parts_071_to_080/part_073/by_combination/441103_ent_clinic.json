@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Avinash Deshmukh",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "441103",
+    "phone_number": "+91 712 242 4433",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 18,
+    "address": "Renuka Hospital, Plot No 70, Mate Chowk, Abhyankar Nagar, Nagpur, Maharashtra 440010",
+    "area": "Mate Chowk, Abhyankar Nagar",
+    "latitude": 21.1253817,
+    "longitude": 79.05939029999999,
+    "place_id": "ChIJ____z3vA1DsRXyuK1O__duM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____z3vA1DsRXyuK1O__duM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:20:51"
+  },
+  {
+    "business_name": "Dr Devendra Mahore",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "441103",
+    "phone_number": "+91 712 222 0554",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Place No, P-9/A, Baba Farid Nagar, Laxmi Nagar, Nagpur, Maharashtra 440022",
+    "area": "Baba Farid Nagar, Laxmi Nagar",
+    "latitude": 21.1458004,
+    "longitude": 79.0881546,
+    "place_id": "ChIJ0bj4EcDA1DsR2Y2HjOc8uew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bj4EcDA1DsR2Y2HjOc8uew",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:20:51"
+  }
+]

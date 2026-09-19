@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naadbramha Idli Besa Chowk",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Breakfast restaurant, Brunch restaurant, Hotel",
+    "pincode": "440027",
+    "phone_number": "+91 92096 94150",
+    "website": "https://naadbramha.com/",
+    "rating": 4.1,
+    "reviews_count": 106,
+    "address": "Near Besa Masjid, Besa, Besa Pipla, Maharashtra 440037",
+    "area": "Near Besa Masjid, Besa",
+    "latitude": 21.0842131,
+    "longitude": 79.0954745,
+    "place_id": "ChIJv75xzIu_1DsRSTFaiZ809Qs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv75xzIu_1DsRSTFaiZ809Qs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:59:33"
+  },
+  {
+    "business_name": "Shri Sai South Indian Center",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "440027",
+    "phone_number": "+91 96043 08009",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "4389 A24, Kashi Nagar, Bhagwan Nagar, Nagpur, Maharashtra 440027",
+    "area": "Kashi Nagar, Bhagwan Nagar",
+    "latitude": 21.1060232,
+    "longitude": 79.0892647,
+    "place_id": "ChIJNWx8Pwq_1DsRYoJiLqc9wu0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNWx8Pwq_1DsRYoJiLqc9wu0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:59:36"
+  }
+]

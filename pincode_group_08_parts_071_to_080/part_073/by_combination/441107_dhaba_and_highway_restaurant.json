@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PADAM Dhaba & Family Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Family restaurant",
+    "pincode": "441107",
+    "phone_number": "+91 93253 56888",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 87,
+    "address": "Khapa road, Saoner, Ajani, Maharashtra 441107",
+    "area": "441107",
+    "latitude": 21.3932528,
+    "longitude": 78.93345699999999,
+    "place_id": "ChIJ7WKuTqvm1DsRMUJ_nPM6EFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7WKuTqvm1DsRMUJ_nPM6EFs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:27:53"
+  },
+  {
+    "business_name": "Shivraj Family Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "441107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 125,
+    "address": "NH47, Maharashtra 441107",
+    "area": "441107",
+    "latitude": 21.473509999999997,
+    "longitude": 78.7586944,
+    "place_id": "ChIJMSnxI1X91DsRtlMgN946cn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMSnxI1X91DsRtlMgN946cn8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:27:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajesh Car Washing Center.",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Two Wheeler Repair Shop",
+    "pincode": "440025",
+    "phone_number": "+91 98503 09794",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 146,
+    "address": "3, Wardha Rd, Vikas Nagar, Sawarkar Nagar, Samarth Nagar East, Nagpur, Maharashtra 440015",
+    "area": "Vikas Nagar, Sawarkar Nagar, Samarth Nagar East",
+    "latitude": 21.111589,
+    "longitude": 79.070003,
+    "place_id": "ChIJkRNhfnm_1DsRHBlYI0YeLUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkRNhfnm_1DsRHBlYI0YeLUs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:56:11"
+  },
+  {
+    "business_name": "Rajvi car washing centre",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "440025",
+    "phone_number": "+91 78880 90636",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Patil Layout, Indraprastha Nagar, Swavalambi Nagar, Nagpur, Maharashtra 440022",
+    "area": "Patil Layout, Indraprastha Nagar, Swavalambi Nagar",
+    "latitude": 21.1061341,
+    "longitude": 79.040384,
+    "place_id": "ChIJCX94fka_1DsRaOAO4_gfUVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCX94fka_1DsRaOAO4_gfUVE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:56:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cyber Knight Internet Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "440025",
+    "phone_number": "+91 83296 71830",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "06, Besa - Manish Nagar Rd, Nilkamal Housing Society, Manish Nagar, Besa, Nagpur, Maharashtra 440027",
+    "area": "Nilkamal Housing Society, Manish Nagar, Besa",
+    "latitude": 21.0969282,
+    "longitude": 79.0741391,
+    "place_id": "ChIJdVhGvAO_1DsRSIyQMBUyPfg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdVhGvAO_1DsRSIyQMBUyPfg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:56:55"
+  },
+  {
+    "business_name": "Balaji Grahak E Suvidha Kendra",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "440025",
+    "phone_number": "+91 96040 54455",
+    "website": "https://balaji-grahak-e-suvidha.grexa.site/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No 4, RBI Colony, Appt, Jai Prakash Nagar, Sneha Samwardhak Society, Nagpur, Maharashtra 440025",
+    "area": "RBI Colony, Appt, Jai Prakash Nagar, Sneha Samwardhak Society",
+    "latitude": 21.1037981,
+    "longitude": 79.0592277,
+    "place_id": "ChIJd6HXQqa_1DsRZuu25K3VphM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd6HXQqa_1DsRZuu25K3VphM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:56:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cuz Its You",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler, Cosmetics store",
+    "pincode": "440033",
+    "phone_number": "+91 91757 80323",
+    "website": "https://instagram.com/cuz_itsyou_2?igshid=YmMyMTA2M2Y=",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Futala chowk, opp. dhore clinic, futala, Nagpur, Maharashtra 440010",
+    "area": "futala",
+    "latitude": 21.1490385,
+    "longitude": 79.0448151,
+    "place_id": "ChIJlRPlx0XB1DsROpGt6KIT6BQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlRPlx0XB1DsROpGt6KIT6BQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:06:08"
+  },
+  {
+    "business_name": "Durga Alankar Gruh",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "440033",
+    "phone_number": "+91 74499 77000",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ground Floor, shop no 2, Sameep Tower, Plot no 11, opp. Zudio, Shankar Nagar, East Shankar Nagar, Ramdaspeth, Nagpur, Maharashtra 440010",
+    "area": "Shankar Nagar, East Shankar Nagar, Ramdaspeth",
+    "latitude": 21.1344498,
+    "longitude": 79.0683608,
+    "place_id": "ChIJfRbPDL3B1DsRgpbHWUwUTDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRbPDL3B1DsRgpbHWUwUTDM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:06:10"
+  }
+]

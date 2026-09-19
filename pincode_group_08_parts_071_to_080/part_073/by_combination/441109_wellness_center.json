@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aarogya hospital dr manoj pandey",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital equipment and supplies",
+    "all_categories": "Hospital equipment and supplies",
+    "pincode": "441109",
+    "phone_number": "+91 98600 02947",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Shiva Nagar, road, near Sonu honda showroom, Ward Number 2, Khaperkheda, Nagpur, Chandkapur, Maharashtra 441102",
+    "area": "Ward Number 2, Khaperkheda",
+    "latitude": 21.2826871,
+    "longitude": 79.1038935,
+    "place_id": "ChIJx-mdCRHD1DsROI9AwN362D0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx-mdCRHD1DsROI9AwN362D0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:32:30"
+  },
+  {
+    "business_name": "Srishi Wellness",
+    "search_category": "Wellness Center",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "441109",
+    "phone_number": "+91 93731 06265",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nirmal nagri, Bhande Plot, Nagpur, Maharashtra 440024",
+    "area": "Bhande Plot, Nirmal Nagar",
+    "latitude": 21.122981,
+    "longitude": 79.121944,
+    "place_id": "ChIJw3je8ae41DsRf619Jw_pbAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw3je8ae41DsRf619Jw_pbAM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:32:31"
+  }
+]

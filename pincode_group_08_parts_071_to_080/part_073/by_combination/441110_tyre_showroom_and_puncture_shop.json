@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Total Tyre Care",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "441110",
+    "phone_number": "+91 95798 07736",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "Near Sutgirnee, Hingna Rd, Hingna, Nagpur, Wanadongri, Maharashtra 441110",
+    "area": "Hingna",
+    "latitude": 21.0805507,
+    "longitude": 78.97006069999999,
+    "place_id": "ChIJ092rE-OU1DsR8HQ6P9gU7eM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ092rE-OU1DsR8HQ6P9gU7eM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:33:56"
+  },
+  {
+    "business_name": "Kaderiya Tyre Works Shop",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Used tire shop",
+    "all_categories": "Used tire shop",
+    "pincode": "441110",
+    "phone_number": "+91 91304 18828",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 34,
+    "address": "3XX7+2X8, Wanadongri, Maharashtra 441110",
+    "area": "441110",
+    "latitude": 21.0975385,
+    "longitude": 78.9649677,
+    "place_id": "ChIJg9CeDduU1DsRM2r_ezUEKmc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg9CeDduU1DsRM2r_ezUEKmc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:33:56"
+  }
+]

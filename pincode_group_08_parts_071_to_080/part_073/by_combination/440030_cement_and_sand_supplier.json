@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taj Traders",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "440030",
+    "phone_number": "+91 99600 87235",
+    "website": "https://www.instagram.com/tajtraders_01?igsh=a3psc3M3dHFrb21j",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tower Line, Godhani Road, Gorewada, Nagpur, Maharashtra 440030",
+    "area": "Gorewada",
+    "latitude": 21.199269599999997,
+    "longitude": 79.0600994,
+    "place_id": "ChIJoa_E-iXB1DsR1VOwWAjtw6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoa_E-iXB1DsR1VOwWAjtw6k",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:02:06"
+  },
+  {
+    "business_name": "MODERN INFRASTRUCTURE RMC",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Ready mix concrete supplier",
+    "all_categories": "Ready mix concrete supplier",
+    "pincode": "440030",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 12,
+    "address": "128/2 village Jamtha, Wardha Rd, Nagpur, Maharashtra 441108",
+    "area": "440030",
+    "latitude": 21.0024762,
+    "longitude": 79.0403414,
+    "place_id": "ChIJT73B0fi91DsRgLQdJiBxjBc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT73B0fi91DsRgLQdJiBxjBc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:02:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Dipak Engineering Work",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "441106",
+    "phone_number": "+91 70583 49105",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "Ground Floor General Hospital Road, near Sairaj Hero Showroom, MSEB Colony, Bhandara, Maharashtra 441904",
+    "area": "MSEB Colony",
+    "latitude": 21.1620289,
+    "longitude": 79.6566089,
+    "place_id": "ChIJ-7ocUX8_KzoRAYzUInN8jZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-7ocUX8_KzoRAYzUInN8jZw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:26:32"
+  },
+  {
+    "business_name": "Maruti Suzuki Service (Automotive Manufacturers Pvt. Ltd, Tumsar)",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "441106",
+    "phone_number": "+91 96730 06891",
+    "website": "https://www.automotiveml.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GAT NOS. 1350, PLOT NO. 14, DIST, Tumsar, Maharashtra 441912",
+    "area": "441106",
+    "latitude": 21.3706274,
+    "longitude": 79.7291621,
+    "place_id": "ChIJF3LrACsjKzoR69LUUvDLErE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF3LrACsjKzoR69LUUvDLErE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:26:33"
+  }
+]

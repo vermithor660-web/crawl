@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K S CAR'S SERVICES",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "441111",
+    "phone_number": "+91 93259 96488",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "M.B. Town, Zingabai Takli, Nagpur, Maharashtra 440030",
+    "area": "M.B. Town, Zingabai Takli",
+    "latitude": 21.1942314,
+    "longitude": 79.0742288,
+    "place_id": "ChIJMYDl-nzB1DsRiu7ymE0k5n0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMYDl-nzB1DsRiu7ymE0k5n0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:35:45"
+  },
+  {
+    "business_name": "DHANU CABS SERVICE NAGPUR",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service",
+    "pincode": "441111",
+    "phone_number": "+91 87665 65340",
+    "website": "https://dhanu-tours-and-travels.grexa.site/",
+    "rating": 5,
+    "reviews_count": 103,
+    "address": "Gorewada, Nagpur, Maharashtra 440013",
+    "area": "Gorewada",
+    "latitude": 21.1953349,
+    "longitude": 79.0496963,
+    "place_id": "ChIJwYr8DkPB1DsRJ5-OnZvtmlE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwYr8DkPB1DsRJ5-OnZvtmlE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:35:45"
+  }
+]

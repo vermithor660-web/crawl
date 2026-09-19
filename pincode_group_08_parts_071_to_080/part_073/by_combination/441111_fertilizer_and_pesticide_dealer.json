@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Utkal Enterprises",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store, Agricultural Product Wholesaler, Agrochemicals Supplier, Farm equipment supplier, Garden center, Garden machinery supplier, Pest control service, Agricultural Seed Store",
+    "pincode": "441111",
+    "phone_number": "+91 98612 61116",
+    "website": "https://m.indiamart.com/uttkalenterprises/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Unit-8, durga mandir, PLOT no:- 343/649, opposite of paikanagar, IRC Village, Baramunda, Bhubaneswar, Odisha 751003",
+    "area": "IRC Village, Baramunda",
+    "latitude": 20.2772658,
+    "longitude": 85.8013285,
+    "place_id": "ChIJo0rK0WCnGToRaiFOinWnZpk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo0rK0WCnGToRaiFOinWnZpk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:36:40"
+  },
+  {
+    "business_name": "Prakash Agencies",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural Seed Store",
+    "all_categories": "Agricultural Seed Store, Agricultural Product Wholesaler, Agrochemicals Supplier, Fertilizer Store, Store, Wholesaler",
+    "pincode": "441111",
+    "phone_number": "+91 40 2321 1488",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 59,
+    "address": "# 3-5-825 ,Shop Number 2 Maphar Arcade, Hyderguda Between Axis Bank and Bahar Cafe, Telangana 500029",
+    "area": "Gun Foundry, Basheer Bagh",
+    "latitude": 17.399898699999998,
+    "longitude": 78.4783746,
+    "place_id": "ChIJO_dJut6ZyzsRx6iyW83WygI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_dJut6ZyzsRx6iyW83WygI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:36:41"
+  }
+]

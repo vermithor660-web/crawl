@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Step Inn",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "440033",
+    "phone_number": "+91 98900 14653",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 1170,
+    "address": "Law College Square, W High Ct Rd, opposite Gomti Apartment, Gorepeth, Nagpur, Maharashtra 440010",
+    "area": "Gorepeth",
+    "latitude": 21.1461714,
+    "longitude": 79.06198069999999,
+    "place_id": "ChIJha4_jl7A1DsRx_m-nVoVK8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJha4_jl7A1DsRx_m-nVoVK8o",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:05:18"
+  },
+  {
+    "business_name": "Novelty's Mini Punjab Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Buffet restaurant, Children's party buffet, Chinese restaurant, Sweets and dessert buffet, Indian restaurant, Mughlai restaurant, Wedding buffet",
+    "pincode": "440033",
+    "phone_number": "+91 94225 10363",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Suprabhat Sankul, 5, opp. SNG Basketball Ground, Dharampeth Extension, Nagpur, Maharashtra 440010",
+    "area": "Dharampeth Extension, Shivaji Nagar",
+    "latitude": 21.1392343,
+    "longitude": 79.0593854,
+    "place_id": "ChIJOUjjMGHA1DsREOv8t-aPFwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOUjjMGHA1DsREOv8t-aPFwo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:05:21"
+  }
+]

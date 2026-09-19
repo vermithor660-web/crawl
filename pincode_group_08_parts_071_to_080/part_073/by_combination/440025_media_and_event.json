@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pro Media",
+    "search_category": "Media and Event",
+    "primary_category": "Photography service",
+    "all_categories": "Photography service",
+    "pincode": "440025",
+    "phone_number": "+91 91455 69454",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot 57, Wardha Nagar, Kannamwar Nagar, Somalwada, Nagpur, Maharashtra 440025",
+    "area": "Kannamwar Nagar, Somalwada",
+    "latitude": 21.088843,
+    "longitude": 79.065513,
+    "place_id": "ChIJG6aRDXy_1DsRt2XE2q5KrjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6aRDXy_1DsRt2XE2q5KrjA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:56:45"
+  },
+  {
+    "business_name": "Nagpur Print Pro",
+    "search_category": "Media and Event",
+    "primary_category": "Branding agency",
+    "all_categories": "Branding agency",
+    "pincode": "440025",
+    "phone_number": "+91 83298 01099",
+    "website": "http://www.designblockads.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Pantheon Society, Plot No. 10, behind Punjab National Bank, Rachana Society, Manish Nagar, Branch, Nagpur, Maharashtra 440037",
+    "area": "Rachana Society, Manish Nagar, Branch",
+    "latitude": 21.0921654,
+    "longitude": 79.0743193,
+    "place_id": "ChIJCz-WvWy_1DsRgWpuYxAjBAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCz-WvWy_1DsRgWpuYxAjBAk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:56:47"
+  }
+]

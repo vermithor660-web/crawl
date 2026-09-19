@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alia creation",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "440030",
+    "phone_number": "+91 788 798 8444",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "shop no.8, Shree radhe haritage, Jafar Nagar Lane 3, behind Tirupati Bank, Ahbab Colony, Jafar Nagar, New Mankapur, Nagpur, Maharashtra 440013",
+    "area": "Ahbab Colony, Jafar Nagar, New Mankapur",
+    "latitude": 21.1823919,
+    "longitude": 79.0650768,
+    "place_id": "ChIJtzD1P2vB1DsRL2EqCs4KVCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtzD1P2vB1DsRL2EqCs4KVCc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:01:41"
+  },
+  {
+    "business_name": "Rubaisha Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "440030",
+    "phone_number": "+91 84594 89581",
+    "website": "https://www.instagram.com/rubaisha_boutique/profilecard/?igsh=MXAxZ2h5a2YxaHlnag==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "rajaram society, rose colony, Jafar Nagar, Gorewada, Nagpur, Maharashtra 440013",
+    "area": "Jafar Nagar, Gorewada",
+    "latitude": 21.1889629,
+    "longitude": 79.0649971,
+    "place_id": "ChIJR-xeOgDB1DsR1TDfG0Cqulc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR-xeOgDB1DsR1TDfG0Cqulc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:01:41"
+  }
+]

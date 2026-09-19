@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HR-Recruiter",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter",
+    "pincode": "440032",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "306, Mihan Road, Sitabuldi, Delhi, Nagpur, Maharashtra 440012",
+    "area": "Sitabuldi",
+    "latitude": 21.144464,
+    "longitude": 79.08468979999999,
+    "place_id": "ChIJayQhVdPB1DsRL3HQS0AlxLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJayQhVdPB1DsRL3HQS0AlxLw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:04:42"
+  },
+  {
+    "business_name": "HR Inc Consultants",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Consultant, Employment center, Service establishment, Resume service, Unemployment office",
+    "pincode": "440032",
+    "phone_number": "+91 96000 62138",
+    "website": "https://www.hrincconsultants.com/index.php",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "HR Inc Consultants, 440032, India",
+    "area": "440032",
+    "latitude": 13.043795,
+    "longitude": 80.2339071,
+    "place_id": "ChIJUSQOeMtlUjoRPYLArA-HXE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUSQOeMtlUjoRPYLArA-HXE0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:04:44"
+  }
+]

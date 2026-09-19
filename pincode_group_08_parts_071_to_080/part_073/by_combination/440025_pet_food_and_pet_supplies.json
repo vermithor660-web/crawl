@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swayam Aqua World (Pet Shop)",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "440025",
+    "phone_number": "+91 73872 26043",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "26/T3, Wardha Rd, near SBI ATM, Sita Nagar, Jai Prakash Nagar, Somalwada, Nagpur, Maharashtra 440025",
+    "area": "Sita Nagar, Jai Prakash Nagar, Somalwada",
+    "latitude": 21.103833599999998,
+    "longitude": 79.06795509999999,
+    "place_id": "ChIJX_CXbAC_1DsRu3HZKGwlwl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX_CXbAC_1DsRu3HZKGwlwl8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:55:41"
+  },
+  {
+    "business_name": "GAYATRI'S RABBIT",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store",
+    "pincode": "440025",
+    "phone_number": "+91 94223 91275",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 15,
+    "address": "Abhinav Colony, A/9, Wardha Rd, Rajiv Nagar, Jai Prakash Nagar, Khamla, Nagpur, Maharashtra 440025",
+    "area": "Rajiv Nagar, Jai Prakash Nagar, Khamla",
+    "latitude": 21.102011299999997,
+    "longitude": 79.0662071,
+    "place_id": "ChIJUdY85li_1DsReA8AAjWoGeQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUdY85li_1DsReA8AAjWoGeQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:55:41"
+  }
+]

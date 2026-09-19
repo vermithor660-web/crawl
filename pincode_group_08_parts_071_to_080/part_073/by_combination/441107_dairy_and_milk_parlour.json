@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sachin Milk Form House",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service",
+    "pincode": "441107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CMRG+XXH, Nagpur, Umari, Maharashtra 441306",
+    "area": "441107",
+    "latitude": 21.442441499999997,
+    "longitude": 78.6774829,
+    "place_id": "ChIJQTnax5X_1DsRFYIafRnuORs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQTnax5X_1DsRFYIafRnuORs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:27:42"
+  },
+  {
+    "business_name": "Hole Nivas",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service",
+    "pincode": "441107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "8R6J+57F, Mohpa, Maharashtra 441502",
+    "area": "441107",
+    "latitude": 21.310433399999997,
+    "longitude": 78.83067849999999,
+    "place_id": "ChIJYbIsLTP71DsRWHu1TRPabkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYbIsLTP71DsRWHu1TRPabkg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:27:44"
+  }
+]

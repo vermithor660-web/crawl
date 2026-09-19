@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SMR FURNITURE",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "441110",
+    "phone_number": "+91 93600 03222",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 500,
+    "address": "topanagudi byepass road, punniyavalanpuram, Kavalkinaru, Panagudi, Tamil Nadu 627109",
+    "area": "punniyavalanpuram",
+    "latitude": 8.2920403,
+    "longitude": 77.57255719999999,
+    "place_id": "ChIJU71a5GBhBDsR7oI0NobfVBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU71a5GBhBDsR7oI0NobfVBw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:34:14"
+  },
+  {
+    "business_name": "Bright Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture Rental Store",
+    "all_categories": "Furniture Rental Store",
+    "pincode": "441110",
+    "phone_number": "N/A",
+    "website": "http://brightfurniture.co/",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "PPP6+7V9, Tirunelveli Junction, Tirunelveli, Tamil Nadu 627001",
+    "area": "Tirunelveli Junction",
+    "latitude": 8.735655099999999,
+    "longitude": 77.7122265,
+    "place_id": "ChIJafUILwARBDsRlVsOYfcjXv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJafUILwARBDsRlVsOYfcjXv0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:34:14"
+  }
+]

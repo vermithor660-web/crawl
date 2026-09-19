@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JK Transport Corporation",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "440022",
+    "phone_number": "N/A",
+    "website": "http://jktransport.co.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "27, Transport Nagar, Surya Nagar, Nagpur, Maharashtra 440008",
+    "area": "Transport Nagar, Surya Nagar",
+    "latitude": 21.151591,
+    "longitude": 79.1412703,
+    "place_id": "ChIJE56eOADH1DsRYL74lNiQF4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE56eOADH1DsRYL74lNiQF4E",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:50:53"
+  },
+  {
+    "business_name": "Farmico Cold Chain & Logistics Limited",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "440022",
+    "phone_number": "+91 712 279 0604",
+    "website": "http://www.farmico.co.in/",
+    "rating": 3.1,
+    "reviews_count": 12,
+    "address": "At Mouza& Khasra No. 20/1/A/1 & 20/2A Plot No.1,Lihigaon, Kamptee - Kapsi Rd, Nagpur, Maharashtra 440035",
+    "area": "440022",
+    "latitude": 21.1626369,
+    "longitude": 79.2172672,
+    "place_id": "ChIJNXAbUKnJ1DsR-bv2rFYnL14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNXAbUKnJ1DsR-bv2rFYnL14",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:50:54"
+  }
+]

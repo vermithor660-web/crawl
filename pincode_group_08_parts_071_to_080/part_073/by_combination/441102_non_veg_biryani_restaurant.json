@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taj Chicken Biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "441102",
+    "phone_number": "+91 93738 35092",
+    "website": "https://www.fb.com/TajChickenBiryani",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Tathagat Chowk, Nari, Mankapur Ring Rd, near Sugat Nagar, Police chowki, Nagpur, Maharashtra 440026",
+    "area": "Jagrut Nagar, Police chowki",
+    "latitude": 21.1888664,
+    "longitude": 79.1006106,
+    "place_id": "ChIJCen9tFPB1DsRtCuVOnj1vHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCen9tFPB1DsRtCuVOnj1vHg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:18:39"
+  },
+  {
+    "business_name": "Hotel Haji",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "441102",
+    "phone_number": "+91 91753 95437",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "54F5+54G, Teka Naka, Nagpur, Maharashtra 440017",
+    "area": "Teka Naka",
+    "latitude": 21.1729335,
+    "longitude": 79.1078412,
+    "place_id": "ChIJYbh-zwzB1DsRaDHDjms5dtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYbh-zwzB1DsRaDHDjms5dtk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:18:42"
+  }
+]

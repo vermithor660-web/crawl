@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GoMechanic - Car Helpline Nagpur",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Car repair and maintenance service, Car wash, Mechanic",
+    "pincode": "440037",
+    "phone_number": "+91 83989 70970",
+    "website": "https://srd1.onelink.me/7EYj/GMB",
+    "rating": 2.7,
+    "reviews_count": 3,
+    "address": "Plot No, 9, Manewada Rd, near Ghat, Manewada Chowk, Manewada, Nagpur, Maharashtra 440027",
+    "area": "Manewada Chowk, Manewada",
+    "latitude": 21.1046771,
+    "longitude": 79.10169859999999,
+    "place_id": "ChIJV-bELEm_1DsRM0WMbKCxKrw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV-bELEm_1DsRM0WMbKCxKrw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:13:42"
+  },
+  {
+    "business_name": "Car 'A' Van Automobiles",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Life insurance agency, Wheel alignment service",
+    "pincode": "440037",
+    "phone_number": "+91 93711 03510",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "NIT Complex, Gurudev Nagar Main Rd, Nandanvan, Nagpur, Maharashtra 440024",
+    "area": "Nandanvan",
+    "latitude": 21.130918299999998,
+    "longitude": 79.12003729999999,
+    "place_id": "ChIJ_0CKjlnH1DsRAOwLXKqo4lI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_0CKjlnH1DsRAOwLXKqo4lI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:13:44"
+  }
+]

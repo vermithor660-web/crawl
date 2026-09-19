@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jockey Exclusive Store",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Baby clothing store, Children's clothing store, Lingerie store, Men's clothing store, Sportswear store, Underwear store, Women's clothing store",
+    "pincode": "441105",
+    "phone_number": "+91 712 255 0107",
+    "website": "https://stores.jockey.in/jockey-exclusive-store-sadar-nagpur-18939/home",
+    "rating": 4.7,
+    "reviews_count": 262,
+    "address": "Shop No 5 and 6, ISPCK Centre, opposite Libery Cinema, Sadar, Nagpur, Maharashtra 440001",
+    "area": "Sadar",
+    "latitude": 21.157538,
+    "longitude": 79.079635,
+    "place_id": "ChIJdS1IGBnB1DsRILImyFmUlqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdS1IGBnB1DsRILImyFmUlqQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:24:18"
+  },
+  {
+    "business_name": "Kartik Hosiery",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothing wholesaler",
+    "all_categories": "Clothing wholesaler, Lingerie wholesaler, Underwear store",
+    "pincode": "441105",
+    "phone_number": "+91 98222 73447",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kasarpura Rd, Itwari, Gandhibagh, Nagpur, Maharashtra 440002",
+    "area": "Itwari, Gandhibagh",
+    "latitude": 21.1538231,
+    "longitude": 79.10801909999999,
+    "place_id": "ChIJlTJzdwDB1DsR0Xs2efU04lI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlTJzdwDB1DsR0Xs2efU04lI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:24:20"
+  }
+]

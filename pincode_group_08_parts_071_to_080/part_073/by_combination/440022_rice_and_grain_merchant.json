@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubhlaxmi Food (Sougat Foods)",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "440022",
+    "phone_number": "+91 79728 98280",
+    "website": "https://sougatfoods.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Jalan Industrial Estate Part Of Khasra No 90/01 90/02 Lihi Gaon, Jabalpur Road, Nagpur, Maharashtra 441104",
+    "area": "440022",
+    "latitude": 21.1607284,
+    "longitude": 79.2289024,
+    "place_id": "ChIJU0dr5qHJ1DsR-4D8j5MLFL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU0dr5qHJ1DsR-4D8j5MLFL8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:48:59"
+  },
+  {
+    "business_name": "Nathuji Shravan Grain Merchant",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "440022",
+    "phone_number": "+91 94202 47120",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 14,
+    "address": "57, Central Bazar Road, Shankar Nagar, East Shankar Nagar, Bajaj Nagar, Nagpur, Maharashtra 440010",
+    "area": "Shankar Nagar, East Shankar Nagar, Bajaj Nagar",
+    "latitude": 21.1295748,
+    "longitude": 79.0609647,
+    "place_id": "ChIJeVDb5XzA1DsRHHWCuPE8NRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeVDb5XzA1DsRHHWCuPE8NRs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:49:00"
+  }
+]

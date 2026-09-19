@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC E-Governance Services India Limited",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "440037",
+    "phone_number": "+91 99990 01989",
+    "website": "http://cscegs.in/",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "3rd floor, Electronic Niketan, 6, Lodhi Rd, Gokalpuri, CGO Complex, Pragati Vihar, New Delhi, Delhi 110003",
+    "area": "Gokalpuri, CGO Complex, Pragati Vihar",
+    "latitude": 28.590956799999997,
+    "longitude": 77.22800289999999,
+    "place_id": "ChIJy_nD7P3iDDkRLSylYwQTSYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy_nD7P3iDDkRLSylYwQTSYo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:14:18"
+  },
+  {
+    "business_name": "Apna Online Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "440037",
+    "phone_number": "+91 63536 38983",
+    "website": "https://sites.google.com/view/apnadigiseva",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Razi Residency, 201, Relief Rd, above Vagh-Bakri tea shop, opp. Khadim, Old City, Gheekanta, Lal Darwaja, Ahmedabad, Gujarat 380001",
+    "area": "Old City, Gheekanta, Lal Darwaja",
+    "latitude": 23.0265238,
+    "longitude": 72.5827001,
+    "place_id": "ChIJa-IFhIGFXjkRzzgqiYvmw6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa-IFhIGFXjkRzzgqiYvmw6Q",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:14:19"
+  }
+]

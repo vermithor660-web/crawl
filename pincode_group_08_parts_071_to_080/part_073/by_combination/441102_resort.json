@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel O Sangam Resort & Farm House",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "441102",
+    "phone_number": "+91 124 433 0578",
+    "website": "https://www.oyorooms.com/242004/",
+    "rating": 2.6,
+    "reviews_count": 11,
+    "address": "Plot No.01, behind Mohammad Ali Petrol Pump, Tara Nagar, Kharigoan, Nagpur, Khairy, Maharashtra 440029",
+    "area": "Tara Nagar, Kharigoan",
+    "latitude": 21.2204704,
+    "longitude": 79.1490305,
+    "place_id": "ChIJmTmmas3H1DsR6XPFvDGxq4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmTmmas3H1DsR6XPFvDGxq4E",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:19:36"
+  },
+  {
+    "business_name": "Welcome Farms",
+    "search_category": "Resort",
+    "primary_category": "Farm",
+    "all_categories": "Farm, Event venue, Resort hotel",
+    "pincode": "441102",
+    "phone_number": "+91 95523 33762",
+    "website": "https://www.instagram.com/p/DX3YiaTjALv/?igsh=aG1jNDFtdTU5djgz",
+    "rating": 5,
+    "reviews_count": 24,
+    "address": "NDRF Rd, Suradevi, Maharashtra 441102",
+    "area": "441102",
+    "latitude": 21.2456407,
+    "longitude": 79.1320229,
+    "place_id": "ChIJ7XLmGFfF1DsRmmFYiEBfsqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7XLmGFfF1DsRmmFYiEBfsqk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:19:36"
+  }
+]

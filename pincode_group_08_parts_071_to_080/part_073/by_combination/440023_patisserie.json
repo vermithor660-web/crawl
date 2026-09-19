@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shabana Bakery & Cafe",
+    "search_category": "Patisserie",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "440023",
+    "phone_number": "+91 73856 48481",
+    "website": "http://www.shabanabakery.com/",
+    "rating": 4,
+    "reviews_count": 536,
+    "address": "Dharampeth, Nagpur, Maharashtra 440010",
+    "area": "Dharampeth",
+    "latitude": 21.141527699999997,
+    "longitude": 79.0646134,
+    "place_id": "ChIJdxr1CxTB1DsR1BLG_3TuKag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdxr1CxTB1DsR1BLG_3TuKag",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:51:20"
+  },
+  {
+    "business_name": "ReshBake - Oven Loves Flour",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "440023",
+    "phone_number": "+91 84591 05692",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "Resh Bake, Taj Kirana, Sandipani School Wadi Road, near Pahado Wali Mata Mandir, Ganganagar, Saroj Nagar, Nagpur, Maharashtra 440013",
+    "area": "Ganganagar, Saroj Nagar",
+    "latitude": 21.1722119,
+    "longitude": 79.0291558,
+    "place_id": "ChIJJ04jSkrB1DsRImH--WLUxgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ04jSkrB1DsRImH--WLUxgk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:51:22"
+  }
+]

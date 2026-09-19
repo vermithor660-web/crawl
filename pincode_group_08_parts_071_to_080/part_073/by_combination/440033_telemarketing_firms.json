@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "All Indian IT Services",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Computer support and services, Design agency, Internet marketing service, Software company",
+    "pincode": "440033",
+    "phone_number": "+91 99229 95268",
+    "website": "https://www.allindianitservices.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Plot No 67 Mukhraji Bhavan, opp. Kala Bhavan, Laxminagar, Nagpur, Maharashtra 440010",
+    "area": "Laxminagar",
+    "latitude": 21.1256521,
+    "longitude": 79.0598957,
+    "place_id": "ChIJFe4xTX7A1DsRcDqUfXUNLWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFe4xTX7A1DsRcDqUfXUNLWs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:06:59"
+  },
+  {
+    "business_name": "Digisevaks Nagpur",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "440033",
+    "phone_number": "+91 90964 58449",
+    "website": "https://nagpur.digisevaks.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No. 122, opposite Shivaji Sabhagruh, Om Sai Nagar, Shivaji Nagar, Nagpur, Maharashtra 440010",
+    "area": "Om Sai Nagar, Shivaji Nagar",
+    "latitude": 21.135203699999998,
+    "longitude": 79.0559157,
+    "place_id": "ChIJ3ZA1aXPB1DsR7QEf5HbNm5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ZA1aXPB1DsR7QEf5HbNm5U",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:07:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Elite chai cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "441108",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/elitechaicafe?igsh=MjJpN280eDNhYmVv",
+    "rating": 4.8,
+    "reviews_count": 13,
+    "address": "New Town, Wardhaman Nagar road, Borkhedi, Maharashtra 441108",
+    "area": "441108",
+    "latitude": 20.9320515,
+    "longitude": 79.00845559999999,
+    "place_id": "ChIJ23kn8u6X1DsRBrfn-SnMzIc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ23kn8u6X1DsRBrfn-SnMzIc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:29:42"
+  },
+  {
+    "business_name": "Charcha with Chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "441108",
+    "phone_number": "+91 81497 53085",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Sangam Rd, Wanadongri ct, Wanadongri, Maharashtra 441110",
+    "area": "Wanadongri ct",
+    "latitude": 21.096597,
+    "longitude": 78.970382,
+    "place_id": "ChIJDRKPTwCV1DsRhBs4DqQflak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDRKPTwCV1DsRhBs4DqQflak",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:29:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soft Paint Industries",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint Manufacturer",
+    "all_categories": "Paint Manufacturer",
+    "pincode": "440025",
+    "phone_number": "+91 91122 49955",
+    "website": "http://www.softpaints.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No 37,Baradwari, Kapsi, Bhandara Road, Powari, Maharashtra 440035",
+    "area": "440025",
+    "latitude": 21.155481599999998,
+    "longitude": 79.18261129999999,
+    "place_id": "ChIJV4A6XD7H1DsR0M6joEWifek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4A6XD7H1DsR0M6joEWifek",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:56:22"
+  },
+  {
+    "business_name": "Ajanta Hardware",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "440025",
+    "phone_number": "+91 712 273 5205",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "81-a, Central Ave, Agrasen Square, Gandhibagh, Nagpur, Maharashtra 440032",
+    "area": "Agrasen Square, Gandhibagh",
+    "latitude": 21.1511389,
+    "longitude": 79.1029674,
+    "place_id": "ChIJ0bj4EcDA1DsRn42XDN9NVk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bj4EcDA1DsRn42XDN9NVk8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 08:56:25"
+  }
+]

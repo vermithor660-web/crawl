@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GUDIYA GENERAL STORE AND DAILY NEEDS",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "440035",
+    "phone_number": "+91 70954 26792",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "78, Bhavani nagar, Pardi, Nagpur, Maharashtra 440035",
+    "area": "Bhavani nagar, Pardi",
+    "latitude": 21.153713,
+    "longitude": 79.1644871,
+    "place_id": "ChIJ6YY-dyPH1DsRPKBltal6vSM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6YY-dyPH1DsRPKBltal6vSM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:09:02"
+  },
+  {
+    "business_name": "Megha Kirana And General Store",
+    "search_category": "Provision Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "440035",
+    "phone_number": "+91 98503 41725",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "45JF+48J, Bidgaon-Tarodi Kh.-Pandhurna, Maharashtra 441202",
+    "area": "440035",
+    "latitude": 21.1303286,
+    "longitude": 79.1732531,
+    "place_id": "ChIJ0ZK9zUPH1DsRSPfdSkOkrCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ZK9zUPH1DsRSPfdSkOkrCU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:09:04"
+  }
+]

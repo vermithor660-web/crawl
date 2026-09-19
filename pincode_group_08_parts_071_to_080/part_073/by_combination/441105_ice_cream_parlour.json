@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahalaxmi Ice Cream Center",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "441105",
+    "phone_number": "+91 91461 36948",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward No 4, Chatrapati Chowk, near by Bank Of Maharashtra ATM, Mansar, Maharashtra 441401",
+    "area": "441105",
+    "latitude": 21.395119599999997,
+    "longitude": 79.26253539999999,
+    "place_id": "ChIJ-Xi2oXrR1DsRLiTq8qO3uA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Xi2oXrR1DsRLiTq8qO3uA4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:24:09"
+  },
+  {
+    "business_name": "Top N Town Ice Cream Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "441105",
+    "phone_number": "+91 96733 70004",
+    "website": "http://www.topntown.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "A.Ground, VCA Stadium Complex, 37-38, V.C, Civil Lines, Nagpur, Maharashtra 440001",
+    "area": "V.C, Civil Lines",
+    "latitude": 21.157947099999998,
+    "longitude": 79.0762548,
+    "place_id": "ChIJsxgINOXA1DsRJpvfhMWVn6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxgINOXA1DsRJpvfhMWVn6c",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:24:10"
+  }
+]

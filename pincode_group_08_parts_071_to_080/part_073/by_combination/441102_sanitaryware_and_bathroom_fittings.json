@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khandelwal Traders",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store, Bathroom remodeler, Hardware store, Pipes Wholesaler, Plumber",
+    "pincode": "441102",
+    "phone_number": "+91 81492 82159",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Koradi Rd, Panjara, Nagpur, Maharashtra 441111",
+    "area": "441102",
+    "latitude": 21.2314728,
+    "longitude": 79.083699,
+    "place_id": "ChIJDftrUkXD1DsRyFU9Fcc6KbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDftrUkXD1DsRyFU9Fcc6KbE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:19:15"
+  },
+  {
+    "business_name": "Glaser World Homeware",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Kitchen supply store",
+    "all_categories": "Kitchen supply store",
+    "pincode": "441102",
+    "phone_number": "+91 70667 76626",
+    "website": "https://www.glaserkitchensink.com/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Old Kamptee Rd, opposite Prabhu Automobile, near Bharat Petrol Pump, Om Sai Nagar, Kalmana, Nagpur, Maharashtra 440029",
+    "area": "Om Sai Nagar, Kalmana",
+    "latitude": 21.1760761,
+    "longitude": 79.14815709999999,
+    "place_id": "ChIJz-IcD8LH1DsRVHKIKhweE-k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-IcD8LH1DsRVHKIKhweE-k",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:19:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Urban Rays Event Planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event management company, Event planner, Party planner, Wedding service",
+    "pincode": "440033",
+    "phone_number": "+91 72766 68601",
+    "website": "https://www.instagram.com/theurbanrays_eventplanner",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "Shop No. 4, Yogeshwar Complex, Ravi Nagar, behind old Dhande hospital, Marartoli, Ram Nagar, Nagpur, Maharashtra 440010",
+    "area": "Marartoli, Ram Nagar",
+    "latitude": 21.146407099999998,
+    "longitude": 79.0554937,
+    "place_id": "ChIJG56AHgjB1DsRZvbMqJ1US6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG56AHgjB1DsRZvbMqJ1US6U",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:06:13"
+  },
+  {
+    "business_name": "The Event Story",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "440033",
+    "phone_number": "+91 91563 11151",
+    "website": "https://instagram.com/theeventstory_?igshid=MzRlODBiNWFlZA==",
+    "rating": 4.9,
+    "reviews_count": 69,
+    "address": "JAIN TOWER, 46, Hanuman Mandir Rd, near Dr.Aapte Hospital, Dharampeth, Nagpur, Maharashtra 440020",
+    "area": "Dharampeth",
+    "latitude": 21.1421705,
+    "longitude": 79.06403259999999,
+    "place_id": "ChIJC5tMJ_HB1DsRrt0KvA29U68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC5tMJ_HB1DsRrt0KvA29U68",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:06:13"
+  }
+]

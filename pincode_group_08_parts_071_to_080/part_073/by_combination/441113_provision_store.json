@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "441113",
+    "phone_number": "+91 84079 46403",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Ward no-6, Khaperkheda road, Dahegaon, Nagpur, Maharashtra 441113",
+    "area": "Ward Number 3",
+    "latitude": 21.2946462,
+    "longitude": 79.07909889999999,
+    "place_id": "ChIJJfARUzrD1DsRmSwOhMIFOWI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJfARUzrD1DsRmSwOhMIFOWI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:38:36"
+  },
+  {
+    "business_name": "Reshmi Daily Needs and Refreshment",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "441113",
+    "phone_number": "+91 87884 89169",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 16,
+    "address": "82GP+X88, Patansaongi, Maharashtra 441113",
+    "area": "441113",
+    "latitude": 21.327409799999998,
+    "longitude": 79.0358145,
+    "place_id": "ChIJ___uLkLd1DsR5fMdPtsvQ_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ___uLkLd1DsR5fMdPtsvQ_0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:38:36"
+  }
+]

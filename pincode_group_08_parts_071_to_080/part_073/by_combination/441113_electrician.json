@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "manish kuswaha Electronics",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician, Electronic engineering service",
+    "pincode": "441113",
+    "phone_number": "+91 98343 56734",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "सांवेर, Kawadas, Maharashtra 441113",
+    "area": "441113",
+    "latitude": 21.3174061,
+    "longitude": 79.04796259999999,
+    "place_id": "ChIJ-3vvFlTd1DsRBWXMkkSw3PY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-3vvFlTd1DsRBWXMkkSw3PY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:39:25"
+  },
+  {
+    "business_name": "Shivali Electricals",
+    "search_category": "Electrician",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "441113",
+    "phone_number": "+91 98607 03838",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Plot no 214, Gunjan, main raod mahadula bus stop, koradi, Mahadula, Maharashtra 441111",
+    "area": "441113",
+    "latitude": 21.2490508,
+    "longitude": 79.0853249,
+    "place_id": "ChIJqzgoFL3D1DsRzF2lSL1bMIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqzgoFL3D1DsRzF2lSL1bMIM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:39:25"
+  }
+]
