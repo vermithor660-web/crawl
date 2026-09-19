@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ratlam Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jeweler",
+    "pincode": "456770",
+    "phone_number": "+91 94254 37442",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ward No 11, Naya Bazar, Maksi, Madhya Pradesh 465106",
+    "area": "456770",
+    "latitude": 23.25876,
+    "longitude": 76.1458,
+    "place_id": "ChIJj3P74ntDYzkR9sdgfeKD6eM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj3P74ntDYzkR9sdgfeKD6eM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:29:48"
+  },
+  {
+    "business_name": "Babuji jwellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "456770",
+    "phone_number": "+91 88393 87021",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jain Mandir Road, Maksi, Madhya Pradesh 465106",
+    "area": "456770",
+    "latitude": 23.2578447,
+    "longitude": 76.1468505,
+    "place_id": "ChIJwXOHRS1DYzkROR0xXjhP4uQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwXOHRS1DYzkROR0xXjhP4uQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:29:48"
+  }
+]

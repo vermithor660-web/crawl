@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jay shree mahkal bakery men bus stop",
+    "search_category": "Patisserie",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "456776",
+    "phone_number": "+91 90391 46519",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Bhatpachlana - Runija - Badnawar Rd, Nayapura, Kathodiya Chhota, Badnawar, Madhya Pradesh 454660",
+    "area": "Nayapura, Kathodiya Chhota",
+    "latitude": 23.021324099999998,
+    "longitude": 75.2350883,
+    "place_id": "ChIJW8oU9DHCYzkRHq1BQNMaDMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW8oU9DHCYzkRHq1BQNMaDMo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:33:26"
+  },
+  {
+    "business_name": "Ujjain junction",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "456776",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "27M4+CM, Bheroopada, Madhya Pradesh 454660",
+    "area": "456776",
+    "latitude": 23.033606,
+    "longitude": 75.25662899999999,
+    "place_id": "ChIJ33i7aQDBYzkR9Rxtqq1DTPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ33i7aQDBYzkR9Rxtqq1DTPg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:33:26"
+  }
+]

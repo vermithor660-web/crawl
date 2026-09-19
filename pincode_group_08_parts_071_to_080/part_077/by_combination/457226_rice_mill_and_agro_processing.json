@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree dev ricemill & flour mills",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "457226",
+    "phone_number": "+91 98985 56530",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 19,
+    "address": "GJ SH 178, Dholikuva, Gujarat 396570",
+    "area": "457226",
+    "latitude": 20.831056,
+    "longitude": 73.21505499999999,
+    "place_id": "ChIJLSxhtiWO4DsRWJZYnGIFu5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLSxhtiWO4DsRWJZYnGIFu5c",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:46:17"
+  },
+  {
+    "business_name": "SAWARIYA DAL MILL",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Mill",
+    "all_categories": "Mill",
+    "pincode": "457226",
+    "phone_number": "+91 94253 55041",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ram Mandir, SH 10, Jawahar Nagar, Ratlam, Madhya Pradesh 457001",
+    "area": "Jawahar Nagar",
+    "latitude": 23.3383677,
+    "longitude": 75.0335972,
+    "place_id": "ChIJVVUFmZb-YzkRZkZZJFZchhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVUFmZb-YzkRZkZZJFZchhQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:46:18"
+  }
+]

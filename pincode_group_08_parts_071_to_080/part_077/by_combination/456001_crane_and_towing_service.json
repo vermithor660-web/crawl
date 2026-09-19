@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aman crane service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "456001",
+    "phone_number": "+91 70002 55211",
+    "website": "https://amancraneservice.com/",
+    "rating": 5,
+    "reviews_count": 44,
+    "address": "Neelganga Rd, kanchan Vihar Colony, Shastri Nagar, Ujjain, Madhya Pradesh 456001",
+    "area": "kanchan Vihar Colony, Shastri Nagar",
+    "latitude": 23.1750099,
+    "longitude": 75.77760769999999,
+    "place_id": "ChIJpVDQBQB1YzkRRVZPrQE3YCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpVDQBQB1YzkRRVZPrQE3YCg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:52:59"
+  },
+  {
+    "business_name": "Diamond Motors",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "456001",
+    "phone_number": "+91 99778 57559",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 57,
+    "address": "Neelganga Rd, kanchan Vihar Colony, Keshav Nagar, Ujjain, Madhya Pradesh 456010",
+    "area": "kanchan Vihar Colony, Keshav Nagar",
+    "latitude": 23.1752348,
+    "longitude": 75.7784842,
+    "place_id": "ChIJtXSmlnV1YzkR2CTf9wpfmbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtXSmlnV1YzkR2CTf9wpfmbk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:52:59"
+  }
+]

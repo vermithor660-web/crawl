@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Britina boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "457118",
+    "phone_number": "+91 91098 45427",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "गर्व,किरण k samnay, patidar mohalla, Arjala, Madhya Pradesh 457118",
+    "area": "patidar mohalla",
+    "latitude": 23.681901699999997,
+    "longitude": 75.3063013,
+    "place_id": "ChIJHYV71XcTZDkRQzFYZmkmMKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHYV71XcTZDkRQzFYZmkmMKg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:39:23"
+  },
+  {
+    "business_name": "FASHION GARAGE",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Tuxedo shop",
+    "pincode": "457118",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "35, Kheradiwas, Thawariya bazar, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "area": "Thawariya bazar, Laxman Pura",
+    "latitude": 23.3230555,
+    "longitude": 75.0383298,
+    "place_id": "ChIJxSVmSgD_YzkRU2QVX8t6YTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxSVmSgD_YzkRU2QVX8t6YTQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:39:26"
+  }
+]

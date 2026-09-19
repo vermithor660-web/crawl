@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fit N Fine Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "457226",
+    "phone_number": "+91 75662 53529",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Jaora, Madhya Pradesh 457226",
+    "area": "457226",
+    "latitude": 23.636705799999998,
+    "longitude": 75.1268115,
+    "place_id": "ChIJfVpM8rkbZDkRrPr40KX0EnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfVpM8rkbZDkRrPr40KX0EnQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:45:10"
+  },
+  {
+    "business_name": "She Shine Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "457226",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "J4QF+3W2, Jaora, Madhya Pradesh 457226",
+    "area": "457226",
+    "latitude": 23.6381901,
+    "longitude": 75.1248557,
+    "place_id": "ChIJs3bxNAAbZDkR_m8oItqYVRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs3bxNAAbZDkR_m8oItqYVRk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:45:10"
+  }
+]

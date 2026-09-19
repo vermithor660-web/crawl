@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CM Dialysis Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "457555",
+    "phone_number": "+91 90393 02926",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 11,
+    "address": "Multispecialty Hospital, Kanpur - Sagar Hwy, near Khel Gram, Ambuj Colony, Chhatarpur, Madhya Pradesh 471001",
+    "area": "Ambuj Colony",
+    "latitude": 24.8945105,
+    "longitude": 79.5701723,
+    "place_id": "ChIJVe0q74SXgjkRoLh4MzHuEpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVe0q74SXgjkRoLh4MzHuEpM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:00:21"
+  },
+  {
+    "business_name": "DCDC Kidney Care - Khazrana",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "457555",
+    "phone_number": "N/A",
+    "website": "http://dcdc.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khajrana Rd, near kalaka mata mandir, Ganeshpuri, Khajrana, Indore, Madhya Pradesh 452016",
+    "area": "Ganeshpuri, Khajrana",
+    "latitude": 22.731561799999998,
+    "longitude": 75.91095779999999,
+    "place_id": "ChIJA7jN9bDjYjkR0EgRUa60xiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA7jN9bDjYjkR0EgRUa60xiQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:00:23"
+  }
+]

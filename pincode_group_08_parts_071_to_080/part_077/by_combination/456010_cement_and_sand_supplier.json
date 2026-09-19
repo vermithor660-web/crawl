@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarita Traders",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier, Cement Supplier",
+    "pincode": "456010",
+    "phone_number": "+91 98260 18564",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Maksi Road, Panwasa, 16, Maxi Rd, Pandyakhedi-Rajivratn Nagar, Ujjain, Madhya Pradesh 456010",
+    "area": "Pandyakhedi-Rajivratn Nagar",
+    "latitude": 23.1889109,
+    "longitude": 75.8198489,
+    "place_id": "ChIJXTQdde1zYzkRN8td1KOQFHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXTQdde1zYzkRN8td1KOQFHA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:59:52"
+  },
+  {
+    "business_name": "Ambika Enterprises",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier, Building materials store",
+    "pincode": "456010",
+    "phone_number": "+91 98260 51841",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "142, Main Road, Shastri Nagar, Ujjain, Madhya Pradesh 456010",
+    "area": "Shastri Nagar",
+    "latitude": 23.172767999999998,
+    "longitude": 75.78169,
+    "place_id": "ChIJ265pIGh0YzkRCZb8ZcZ5nY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ265pIGh0YzkRCZb8ZcZ5nY0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:59:53"
+  }
+]

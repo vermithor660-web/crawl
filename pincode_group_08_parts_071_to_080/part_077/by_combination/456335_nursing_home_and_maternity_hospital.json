@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rampure Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Obstetrician-gynecologist",
+    "all_categories": "Obstetrician-gynecologist",
+    "pincode": "456335",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 11,
+    "address": "FMR6+GWJ Dharm nagar, Mahidpur, Madhya Pradesh 456443",
+    "area": "456335",
+    "latitude": 23.491327899999998,
+    "longitude": 75.6622611,
+    "place_id": "ChIJD4jpdeF_ZDkR1i0j4EOeQ54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD4jpdeF_ZDkR1i0j4EOeQ54",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:10:50"
+  },
+  {
+    "business_name": "NAGORI HOSPITAL",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital",
+    "pincode": "456335",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5QGQ+HCJ, Sindhi Colony, Ujjain, Madhya Pradesh 456010",
+    "area": "Sindhi Colony",
+    "latitude": 23.1764665,
+    "longitude": 75.7885163,
+    "place_id": "ChIJB3PSfgB1YzkRcW30herRc2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB3PSfgB1YzkRcW30herRc2g",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:10:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sagar collection uparwada",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "457331",
+    "phone_number": "+91 80877 27125",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "tehsil, gram Post uparwada, Piploda - Jaora Rd, dist, ratlam, Madhya Pradesh 457331",
+    "area": "dist",
+    "latitude": 23.5962875,
+    "longitude": 75.0184708,
+    "place_id": "ChIJ6wfVbSsDZDkR5cAaAZMMdEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6wfVbSsDZDkR5cAaAZMMdEg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:48:23"
+  },
+  {
+    "business_name": "अधिष्टा इंटरप्राइजेस",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store, Warehouse",
+    "pincode": "457331",
+    "phone_number": "+91 73894 32211",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "hotel rituvan ke pass, Jhala choraha, Piploda, Madhya Pradesh 457331",
+    "area": "457331",
+    "latitude": 23.6017713,
+    "longitude": 74.9461721,
+    "place_id": "ChIJgQcwIb6nZjkRWBcSIesHC3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgQcwIb6nZjkRWBcSIesHC3E",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:48:24"
+  }
+]

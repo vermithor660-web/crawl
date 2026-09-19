@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Horizon Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "456664",
+    "phone_number": "+91 96859 18513",
+    "website": "https://indiahorizontravels.com/",
+    "rating": 4.9,
+    "reviews_count": 18,
+    "address": "Ward.13, Madhav, Nagar, Narwar, Madhya Pradesh 456664",
+    "area": "456664",
+    "latitude": 23.0695761,
+    "longitude": 75.9096193,
+    "place_id": "ChIJJa9nGfwTYzkRjZdPRMuMA6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJa9nGfwTYzkRjZdPRMuMA6U",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:24:30"
+  },
+  {
+    "business_name": "Satnam Tour and Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "456664",
+    "phone_number": "+91 88783 32237",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Shivam nagar, Maxi Rd, Shankarpur, Ujjain, Madhya Pradesh 456010",
+    "area": "Shankarpur",
+    "latitude": 23.194103899999998,
+    "longitude": 75.8466715,
+    "place_id": "ChIJ6Sv295lzYzkR_xl0H8nN2PA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Sv295lzYzkR_xl0H8nN2PA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:24:30"
+  }
+]

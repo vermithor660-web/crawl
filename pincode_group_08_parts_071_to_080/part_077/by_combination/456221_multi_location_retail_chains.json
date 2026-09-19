@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fresh Mart",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "456221",
+    "phone_number": "+91 90984 86949",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "RW9G+2JC, Manglaya Sadak, Indore, Madhya Pradesh 453771",
+    "area": "Manglaya Sadak",
+    "latitude": 22.817570399999997,
+    "longitude": 75.9265229,
+    "place_id": "ChIJv2omnOodYzkR9Q-G1skohjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2omnOodYzkR9Q-G1skohjo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:02:47"
+  },
+  {
+    "business_name": "Shree Sai Pharmacy & general Stores",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "456221",
+    "phone_number": "+91 97130 61509",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "EWS,E-11/1, Panchkroshi Marg, Shipra Vihar Section 2, Nagziri, Ujjain, Madhya Pradesh 456010",
+    "area": "Shipra Vihar Section 2, Nagziri",
+    "latitude": 23.139111699999997,
+    "longitude": 75.81100479999999,
+    "place_id": "ChIJv7jtVKhzYzkR6cwliMe-tmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7jtVKhzYzkR6cwliMe-tmE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:02:47"
+  }
+]

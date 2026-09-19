@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Soni & Associates",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "456010",
+    "phone_number": "+91 83590 33979",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 30,
+    "address": "pashpatinath road, near mandigate, Dhan Mandi, Mandsaur, Madhya Pradesh 458002",
+    "area": "Dhan Mandi",
+    "latitude": 24.0594923,
+    "longitude": 75.0699048,
+    "place_id": "ChIJf5yBFTQvZDkRWVoYrw9hXJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5yBFTQvZDkRWVoYrw9hXJA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:59:59"
+  },
+  {
+    "business_name": "SPAN Architects",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect, Architecture firm, Architectural designer, Interior architect office, Interior designer",
+    "pincode": "456010",
+    "phone_number": "+91 731 424 7550",
+    "website": "http://spanarchitects.in/",
+    "rating": 4.6,
+    "reviews_count": 94,
+    "address": "220, Gulmohar Extension, Telephone Nagar, Indore, Madhya Pradesh 452018",
+    "area": "Gulmohar Extension, Telephone Nagar",
+    "latitude": 22.7255526,
+    "longitude": 75.9023765,
+    "place_id": "ChIJmQpmIjz9YjkRa_Av_5aGMjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmQpmIjz9YjkRa_Av_5aGMjo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:59:59"
+  }
+]

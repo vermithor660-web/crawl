@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fiza Auto Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "457340",
+    "phone_number": "+91 97559 47868",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "J4P8+G49, Jaora, Madhya Pradesh 457226",
+    "area": "457340",
+    "latitude": 23.636287799999998,
+    "longitude": 75.1153744,
+    "place_id": "ChIJc4zrluYaZDkRqVWMX9ZvD8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4zrluYaZDkRqVWMX9ZvD8w",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:54:43"
+  },
+  {
+    "business_name": "Haidry Auto mobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "457340",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "J4H6+XM3, Jaora, Madhya Pradesh 457226",
+    "area": "457340",
+    "latitude": 23.6298983,
+    "longitude": 75.1116833,
+    "place_id": "ChIJPTT0CukbZDkRgW5cdD7UgFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPTT0CukbZDkRgW5cdD7UgFo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:54:44"
+  }
+]

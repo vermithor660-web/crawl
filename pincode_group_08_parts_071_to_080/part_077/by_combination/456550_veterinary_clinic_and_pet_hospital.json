@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gov vet hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "456550",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "82GV+H4V, Tarana, Madhya Pradesh 456665",
+    "area": "456550",
+    "latitude": 23.3269324,
+    "longitude": 76.0422529,
+    "place_id": "ChIJu8c_agBnYzkRj8NhgbHGeik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu8c_agBnYzkRj8NhgbHGeik",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:20:31"
+  },
+  {
+    "business_name": "Apna Pet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Emergency veterinarian service",
+    "all_categories": "Emergency veterinarian service",
+    "pincode": "456550",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M2GJ+92J, Jamuniya, Madhya Pradesh 465441",
+    "area": "456550",
+    "latitude": 23.675954599999997,
+    "longitude": 76.0300295,
+    "place_id": "ChIJBT84M3uZZDkR12LZMV17KgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBT84M3uZZDkR12LZMV17KgA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:20:31"
+  }
+]

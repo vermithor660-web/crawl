@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maurya Medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "457226",
+    "phone_number": "+91 88892 88894",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "82VP+34J, 14, Mean road, Indralok Nagar, Jawahar Nagar, Ratlam, Madhya Pradesh 457001",
+    "area": "Indralok Nagar, Jawahar Nagar",
+    "latitude": 23.3470007,
+    "longitude": 75.0351154,
+    "place_id": "ChIJCdMdJej_YzkRhwSmzo_cQb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCdMdJej_YzkRhwSmzo_cQb0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:44:58"
+  },
+  {
+    "business_name": "Par Medicaments",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "457226",
+    "phone_number": "+91 94253 54844",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "82QM+W54, Jawahar Nagar, Ratlam, Madhya Pradesh 457001",
+    "area": "Jawahar Nagar",
+    "latitude": 23.3397616,
+    "longitude": 75.03296209999999,
+    "place_id": "ChIJg4EtF5T-YzkRR5X25XyZwGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg4EtF5T-YzkRR5X25XyZwGw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:44:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wholesale Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Electronics wholesaler",
+    "all_categories": "Electronics wholesaler, Service establishment",
+    "pincode": "456665",
+    "phone_number": "+91 91794 95696",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Wholesale Market, 456665, India",
+    "area": "456665",
+    "latitude": 22.776712699999997,
+    "longitude": 76.84049089999999,
+    "place_id": "ChIJg7OdxDSXfDkRau8W3IersGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7OdxDSXfDkRau8W3IersGU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:27:34"
+  },
+  {
+    "business_name": "Nagaur Mandi Services",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Agricultural Product Wholesaler",
+    "all_categories": "Agricultural Product Wholesaler, Agricultural service, Farmers' market, Spices Wholesaler, Wholesaler",
+    "pincode": "456665",
+    "phone_number": "+91 97837 99627",
+    "website": "https://kumsmerta.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "C-14-15, Krishi Upaj Mandi, Bikaner road, Near Saras Dairy Nagaur, Nagaur, Rajasthan 341001",
+    "area": "Sanjay Colony",
+    "latitude": 27.204742,
+    "longitude": 73.719126,
+    "place_id": "ChIJNTJ66A2RajkRZB87k3WAD0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNTJ66A2RajkRZB87k3WAD0I",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:27:35"
+  }
+]

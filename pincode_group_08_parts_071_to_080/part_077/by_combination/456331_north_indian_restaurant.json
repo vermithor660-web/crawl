@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govind Dhaba Mcleodganj",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "456331",
+    "phone_number": "+91 98171 50218",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 219,
+    "address": "Jogiwara Rd, McLeod Ganj, Dharamshala, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2369905,
+    "longitude": 76.3247825,
+    "place_id": "ChIJwzd4AK5RGzkRbOmuxeuA-iU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzd4AK5RGzkRbOmuxeuA-iU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:08:41"
+  },
+  {
+    "business_name": "Indian kitchen and cafe and (guest house)",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Diner, Guest house",
+    "pincode": "456331",
+    "phone_number": "+91 96225 66581",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "3FFG+QH7, Narbal - Tangmarg Rd, Khwanchipora New Colony, Khawanchipora, Zasapora, Jammu and Kashmir 193402",
+    "area": "Khwanchipora New Colony",
+    "latitude": 34.0744593,
+    "longitude": 74.47647189999999,
+    "place_id": "ChIJ5ZuBBACl4TgRIyE7VscThao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5ZuBBACl4TgRIyE7VscThao",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:08:44"
+  }
+]

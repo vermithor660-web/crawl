@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DR PATEL",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "457441",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "63VX+Q64, Dharad, Madhya Pradesh 457441",
+    "area": "457441",
+    "latitude": 23.2443802,
+    "longitude": 75.09809229999999,
+    "place_id": "ChIJYbMOAwD7YzkRNv1psOQ6dcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYbMOAwD7YzkRNv1psOQ6dcg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:56:26"
+  },
+  {
+    "business_name": "Medical",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "457441",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "55XF+5JV, Dantodiya, Madhya Pradesh 457441",
+    "area": "457441",
+    "latitude": 23.1979899,
+    "longitude": 75.17404379999999,
+    "place_id": "ChIJo4PdUeTvYzkRQjmXiQEIHYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4PdUeTvYzkRQjmXiQEIHYQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:56:28"
+  }
+]

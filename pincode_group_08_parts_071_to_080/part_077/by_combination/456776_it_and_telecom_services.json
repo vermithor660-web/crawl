@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "456776",
+    "phone_number": "+91 94075 65045",
+    "website": "https://bsnl.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Suvidha VIKAS KAILASH CHANDRA KOTHARI, Main Bus Stand Rd, Nayapura, Kathodiya Chhota, Badnawar, Madhya Pradesh 454660",
+    "area": "Nayapura, Kathodiya Chhota",
+    "latitude": 23.0214695,
+    "longitude": 75.2350716,
+    "place_id": "ChIJv9Eo1nfDYzkRbOZd0Ir_Ad0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv9Eo1nfDYzkRbOZd0Ir_Ad0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:34:44"
+  },
+  {
+    "business_name": "Airtel Store - RTMRD Divyanshi Agency Badnagar",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "456776",
+    "phone_number": "+91 91091 53416",
+    "website": "http://www.airtel.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Baijnath Mahadev, Kathodiya Chhota, Badnawar, Madhya Pradesh 454660",
+    "area": "Kathodiya Chhota",
+    "latitude": 23.021314999999998,
+    "longitude": 75.23781199999999,
+    "place_id": "ChIJkWjPYnrDYzkRVJcjG3cddmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkWjPYnrDYzkRVJcjG3cddmo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:34:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhart Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "457555",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8J7J+C5P, Malpura, Madhya Pradesh 457555",
+    "area": "457555",
+    "latitude": 23.313597599999998,
+    "longitude": 74.6304473,
+    "place_id": "ChIJ_3PAF9pLYTkRJfqX4MgW7og",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_3PAF9pLYTkRJfqX4MgW7og",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:59:49"
+  },
+  {
+    "business_name": "Laxmi Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "457555",
+    "phone_number": "+91 98287 55060",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Churada, Kushalgarh, Rajasthan 327801",
+    "area": "457555",
+    "latitude": 23.198449999999998,
+    "longitude": 74.4136092,
+    "place_id": "ChIJYV2-zo8xYTkR2mhrjS1ulkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYV2-zo8xYTkR2mhrjS1ulkg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:59:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahakal Traders",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Indian grocery store",
+    "pincode": "456337",
+    "phone_number": "+91 91119 74665",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "Railway Station, Road, Unhel, Lekodiya Anjana, Madhya Pradesh 456337",
+    "area": "456337",
+    "latitude": 23.3154619,
+    "longitude": 75.4764378,
+    "place_id": "ChIJ3_T1usCPYzkR9sLY23NQVjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3_T1usCPYzkR9sLY23NQVjI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:12:19"
+  },
+  {
+    "business_name": "Manish krishi sewa kendra",
+    "search_category": "Supermarket",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service, Grocery store",
+    "pincode": "456337",
+    "phone_number": "+91 99779 64404",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 5,
+    "address": "Railway Station, Badnagar road, Unhel, Lekodiya Anjana, Madhya Pradesh 456337",
+    "area": "456337",
+    "latitude": 23.315127099999998,
+    "longitude": 75.47883589999999,
+    "place_id": "ChIJVT82G1WOYzkRV97YLeqDSMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVT82G1WOYzkRV97YLeqDSMo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:12:19"
+  }
+]

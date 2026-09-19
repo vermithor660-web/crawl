@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saroj clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "456441",
+    "phone_number": "+91 97703 50830",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "69, Varruchi Marg, near sourabh eye hospital, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010",
+    "area": "Freeganj, Madhav Nagar",
+    "latitude": 23.1793327,
+    "longitude": 75.7919804,
+    "place_id": "ChIJ-VWiIsZ1YzkR0iBP4GFbo1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-VWiIsZ1YzkR0iBP4GFbo1o",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:16:46"
+  },
+  {
+    "business_name": "Dr. S S Chahar pre medical Test center",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "456441",
+    "phone_number": "+91 79004 90281",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 234,
+    "address": "S S CHAHAR PRE MEDICAL CENTER, Plot No. 2, Near Radha swami ashram, Rajeev dropadi vihar, Rohta, Jakhoda, Agra, Uttar Pradesh 282009",
+    "area": "Nainana Jat",
+    "latitude": 27.1080035,
+    "longitude": 77.9876828,
+    "place_id": "ChIJUx1UHr12dDkRTZ7e9tMhmsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUx1UHr12dDkRTZ7e9tMhmsE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:16:47"
+  }
+]

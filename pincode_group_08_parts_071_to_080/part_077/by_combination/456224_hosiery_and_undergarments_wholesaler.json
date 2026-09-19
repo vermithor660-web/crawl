@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.R. Hosiery",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Underwear store",
+    "all_categories": "Underwear store",
+    "pincode": "456224",
+    "phone_number": "+91 99778 29191",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "vardhman complex, 146/7, Madanlal Sharma Marg, near sate gate Road, Kharakua Colony, Ujjain, Madhya Pradesh 456006",
+    "area": "Kharakua Colony",
+    "latitude": 23.187981,
+    "longitude": 75.7752903,
+    "place_id": "ChIJmWsVehB1YzkRy6bfoqpHtew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmWsVehB1YzkRy6bfoqpHtew",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:05:02"
+  },
+  {
+    "business_name": "M.R. Hosiery",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "456224",
+    "phone_number": "+91 99778 29191",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vardhman Complex, 146/7, Madanlal Sharma Marg, Nai Peth, Kamri Marg, Ujjain, Madhya Pradesh 456006",
+    "area": "Nai Peth, Kamri Marg",
+    "latitude": 23.1878593,
+    "longitude": 75.7740918,
+    "place_id": "ChIJhWskTHF1YzkRYkrFtXJEuMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhWskTHF1YzkRYkrFtXJEuMs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:05:02"
+  }
+]

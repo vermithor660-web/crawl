@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radhika Boutique",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer",
+    "pincode": "457226",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "211, Nehru Marg, near bachat bazar, Sailana, Madhya Pradesh 457550",
+    "area": "457226",
+    "latitude": 23.4631854,
+    "longitude": 74.925545,
+    "place_id": "ChIJwwyAfCKrZjkRVu7JiPTEGx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwwyAfCKrZjkRVu7JiPTEGx0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:44:51"
+  },
+  {
+    "business_name": "SEMENS TAILORS",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "457226",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mahavir Complex, Railway Sta Rd, Jaora, Madhya Pradesh 457226",
+    "area": "457226",
+    "latitude": 23.6322527,
+    "longitude": 75.1172479,
+    "place_id": "ChIJPwWQB_0bZDkR4RrsptK1gTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPwWQB_0bZDkR4RrsptK1gTs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:44:51"
+  }
+]

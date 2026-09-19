@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Healing Hands Physiotherapy Centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "456337",
+    "phone_number": "+91 96913 60415",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "577/A, Sethi Nagar, Ujjain, Madhya Pradesh 456010",
+    "area": "Sethi Nagar",
+    "latitude": 23.1761995,
+    "longitude": 75.8056448,
+    "place_id": "ChIJ_WUHICx1YzkR4XRbkzfcLxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_WUHICx1YzkR4XRbkzfcLxk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:13:27"
+  },
+  {
+    "business_name": "Kashi Physiotherapy & Rehabilitation Center",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "456337",
+    "phone_number": "+91 90096 65518",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Dewas Rd, Mahalaxmi Nagar, Abhilasha Colony, Ujjain, Madhya Pradesh 456010",
+    "area": "Mahalaxmi Nagar, Abhilasha Colony",
+    "latitude": 23.1362713,
+    "longitude": 75.8140825,
+    "place_id": "ChIJayROQABzYzkRPtUqCqC6B0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJayROQABzYzkRPtUqCqC6B0g",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:13:27"
+  }
+]

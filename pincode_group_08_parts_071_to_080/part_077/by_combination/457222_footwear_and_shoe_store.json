@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "457222",
+    "phone_number": "+91 98932 51516",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "110, Station Rd, Bapu Nagar, Ratlam, Madhya Pradesh 457001",
+    "area": "Bapu Nagar",
+    "latitude": 23.336416,
+    "longitude": 75.0507045,
+    "place_id": "ChIJ4ffoNDr_YzkRF0IN2IgRj30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ffoNDr_YzkRF0IN2IgRj30",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:43:01"
+  },
+  {
+    "business_name": "Spanian Shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Sportswear store",
+    "all_categories": "Sportswear store",
+    "pincode": "457222",
+    "phone_number": "+91 91115 56237",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gandhi School, Gali Number 1, Ratlam, Madhya Pradesh 457001",
+    "area": "Dhanmandi, Laxman Pura",
+    "latitude": 23.3261573,
+    "longitude": 75.03733919999999,
+    "place_id": "ChIJl3TwZ7P_YzkRyyfn5veGXr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl3TwZ7P_YzkRyyfn5veGXr4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:43:03"
+  }
+]

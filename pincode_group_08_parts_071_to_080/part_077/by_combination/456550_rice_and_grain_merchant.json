@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Loya Industries",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "456550",
+    "phone_number": "+91 94066 26100",
+    "website": "https://loya-industries.ueniweb.com/",
+    "rating": 4.6,
+    "reviews_count": 13,
+    "address": "Shed No 2, Maksi Rd, Industrial Area, Agrasen Nagar, Ujjain, Madhya Pradesh 456010",
+    "area": "Industrial Area, Agrasen Nagar",
+    "latitude": 23.184826299999997,
+    "longitude": 75.8132275,
+    "place_id": "ChIJA9Qqn1lzYzkRStpwgtiDtzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA9Qqn1lzYzkRStpwgtiDtzQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:20:02"
+  },
+  {
+    "business_name": "Kisan Khad Beej Bhandar",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Farm equipment supplier",
+    "all_categories": "Farm equipment supplier",
+    "pincode": "456550",
+    "phone_number": "+91 98267 00777",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "110, Subhas Path, Barnagar, Madhya Pradesh 456771",
+    "area": "456550",
+    "latitude": 23.0483667,
+    "longitude": 75.3785163,
+    "place_id": "ChIJj9hGGre_YzkRMGniKnUARpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9hGGre_YzkRMGniKnUARpE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:20:03"
+  }
+]

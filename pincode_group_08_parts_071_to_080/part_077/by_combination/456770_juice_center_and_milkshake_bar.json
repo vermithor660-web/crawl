@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Happy Sips Juice Shake & Fruits Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Bakery and Cake Shop, Ice cream shop, Soft drinks shop",
+    "pincode": "456770",
+    "phone_number": "+91 63923 20110",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 11,
+    "address": "Shadab Chauraha, Front of Nav Jyoti Hospital, Uttar Pradesh 211015",
+    "area": "Kalindipuram",
+    "latitude": 25.432591,
+    "longitude": 81.78806019999999,
+    "place_id": "ChIJx2-8lzc1hTkRQkm1Iq9afTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx2-8lzc1hTkRQkm1Iq9afTs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:29:39"
+  },
+  {
+    "business_name": "The Takkar Mango Milk Shake",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "456770",
+    "phone_number": "+91 78601 57046",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Ratlam, Road, Mundri, Madhya Pradesh 457001",
+    "area": "456770",
+    "latitude": 23.212449799999998,
+    "longitude": 75.0364551,
+    "place_id": "ChIJ0U5GVU3jYzkRqn0JBkSjXgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0U5GVU3jYzkRqn0JBkSjXgs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:29:39"
+  }
+]

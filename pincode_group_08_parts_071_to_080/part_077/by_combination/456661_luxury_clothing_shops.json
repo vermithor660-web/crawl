@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Isvari Designer Studio",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Women's clothing store",
+    "pincode": "456661",
+    "phone_number": "N/A",
+    "website": "http://isvaristudio.com/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Parasnath City, B 90, Ujjain Dewas Rd, Naagjhiri, Parsvnath City, Ujjain, Madhya Pradesh 456010",
+    "area": "Naagjhiri, Parsvnath City",
+    "latitude": 23.153750799999997,
+    "longitude": 75.8171356,
+    "place_id": "ChIJ9ePGjnVzYzkROuRJR0JTIfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ePGjnVzYzkROuRJR0JTIfw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:22:17"
+  },
+  {
+    "business_name": "Kaya Designer Lounge",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Boutique, Designer Clothing Store",
+    "pincode": "456661",
+    "phone_number": "+91 755 276 6462",
+    "website": "http://www.kayadesignerlounge.com/",
+    "rating": 4.1,
+    "reviews_count": 240,
+    "address": "First Floor, Gurunanak Complex, Main Road, 1, New Market Main Rd, Malviya Nagar, Bhopal, Madhya Pradesh 462003",
+    "area": "Malviya Nagar",
+    "latitude": 23.23537,
+    "longitude": 77.40178759999999,
+    "place_id": "ChIJabW7BpZCfDkRxTV4RA1soqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJabW7BpZCfDkRxTV4RA1soqY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:22:18"
+  }
+]

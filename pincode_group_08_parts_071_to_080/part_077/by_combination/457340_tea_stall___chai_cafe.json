@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KALYUG KI CHAI",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "457340",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "J4M9+5H3, Railway Sta Rd, Jaora, Madhya Pradesh 457226",
+    "area": "457340",
+    "latitude": 23.6328916,
+    "longitude": 75.11892069999999,
+    "place_id": "ChIJaQYVe7YbZDkRyXhJR0bRYjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQYVe7YbZDkRyXhJR0bRYjY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:54:15"
+  },
+  {
+    "business_name": "Patidar rajvadi chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "457340",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Anu krupa architracture Court parisar, Jaora, Madhya Pradesh 457226",
+    "area": "457340",
+    "latitude": 23.6361675,
+    "longitude": 75.1248796,
+    "place_id": "ChIJbaIZLlsbZDkRqJKGAi330Ok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbaIZLlsbZDkRqJKGAi330Ok",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:54:15"
+  }
+]

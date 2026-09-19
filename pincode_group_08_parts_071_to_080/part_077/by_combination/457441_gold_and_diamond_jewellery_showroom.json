@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sajawat Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "457441",
+    "phone_number": "+91 99811 34912",
+    "website": "https://www.instagram.com/sajawatjewellers.ratlam",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "172, Chandni Chowk, Bharava Kui, Bohra Baakhal, Ratlam, Madhya Pradesh 457001",
+    "area": "Bharava Kui, Bohra Baakhal",
+    "latitude": 23.321487299999998,
+    "longitude": 75.035384,
+    "place_id": "ChIJ50D6eCD8YzkRvChkPvekd8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ50D6eCD8YzkRvChkPvekd8E",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:56:16"
+  },
+  {
+    "business_name": "Doshi Jewels Ratlam",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler, Market",
+    "pincode": "457441",
+    "phone_number": "+91 94066 36200",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 55,
+    "address": "78/1, Tripoliya Gate Rd, Bharava Kui, Chandni Chowk, Ratlam, Madhya Pradesh 457001",
+    "area": "Bharava Kui, Chandni Chowk",
+    "latitude": 23.3186864,
+    "longitude": 75.03366079999999,
+    "place_id": "ChIJJ2ihUZ7-YzkRkXt2fFOQAfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2ihUZ7-YzkRkXt2fFOQAfQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:56:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Babji Paints",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "456443",
+    "phone_number": "+91 99260 60112",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "59, Rajendra Marg, Nayapura, Chowk bazaar, Mahidpur, Madhya Pradesh 456443",
+    "area": "Nayapura, Chowk bazaar",
+    "latitude": 23.4880308,
+    "longitude": 75.6563489,
+    "place_id": "ChIJOaUIPpl_ZDkRJBaLrtKAWmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOaUIPpl_ZDkRJBaLrtKAWmU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:18:52"
+  },
+  {
+    "business_name": "Shri Lakhdatar traders",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "456443",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9RX4+8XV, Jagoti, Madhya Pradesh 456550",
+    "area": "456443",
+    "latitude": 23.397994,
+    "longitude": 75.808201,
+    "place_id": "ChIJ2RktRwB9YzkR9qFs71tm5O4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2RktRwB9YzkR9qFs71tm5O4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:18:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vivek Auto Supplier",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "457555",
+    "phone_number": "+91 94798 60160",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mochi Pura, Bohra Baakhal, Ratlam, Madhya Pradesh 457001",
+    "area": "Mochi Pura, Bohra Baakhal",
+    "latitude": 23.3228522,
+    "longitude": 75.04477109999999,
+    "place_id": "ChIJjY-2cNj_YzkRjW_pA3Tvb5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjY-2cNj_YzkRjW_pA3Tvb5M",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:00:29"
+  },
+  {
+    "business_name": "Ranka Automobiles",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "457555",
+    "phone_number": "+91 70006 15545",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "121, Lakkadpitha Road, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "area": "Laxman Pura",
+    "latitude": 23.3224286,
+    "longitude": 75.0287104,
+    "place_id": "ChIJVyZOsUf_YzkRpjDL5bBsi7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVyZOsUf_YzkRpjDL5bBsi7Y",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:00:30"
+  }
+]

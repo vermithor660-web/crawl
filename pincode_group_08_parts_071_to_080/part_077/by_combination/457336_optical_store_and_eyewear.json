@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Optical House",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "457336",
+    "phone_number": "+91 74222 22683",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Neemuch - Mhow Rd, opposite Hotel City Crown, Daloda Chopati, Nai Abaadi, Mandsaur, Madhya Pradesh 458001",
+    "area": "Daloda Chopati, Nai Abaadi",
+    "latitude": 24.0736411,
+    "longitude": 75.0676512,
+    "place_id": "ChIJKcwT9wMsZDkRKUGxNq1KnA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKcwT9wMsZDkRKUGxNq1KnA8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:50:42"
+  },
+  {
+    "business_name": "Shree Sawaliya Building Material",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "457336",
+    "phone_number": "+91 73548 50693",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Bholiya, Kunchrod, Road, Kunchrod, Madhya Pradesh 458895",
+    "area": "457336",
+    "latitude": 23.893778899999997,
+    "longitude": 75.2599378,
+    "place_id": "ChIJYznA7_w_ZDkRCnDQ4jqgvqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYznA7_w_ZDkRCnDQ4jqgvqQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:50:45"
+  }
+]

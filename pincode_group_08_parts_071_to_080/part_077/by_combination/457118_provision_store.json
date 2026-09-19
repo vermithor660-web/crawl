@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tirupati Traders",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "457118",
+    "phone_number": "+91 97520 57591",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sabji Mandi, Tal, Madhya Pradesh 457118",
+    "area": "457118",
+    "latitude": 23.7190993,
+    "longitude": 75.3850861,
+    "place_id": "ChIJp4XyKTFtZDkROXGGR6i0me0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp4XyKTFtZDkROXGGR6i0me0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:39:00"
+  },
+  {
+    "business_name": "Anvi Provision Stores",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "457118",
+    "phone_number": "+91 94248 83909",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Balaji Ka Bagh Rd, Tal, Madhya Pradesh 457118",
+    "area": "457118",
+    "latitude": 23.722136,
+    "longitude": 75.3834035,
+    "place_id": "ChIJD7oegI1tZDkR72BtzX-8jr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD7oegI1tZDkR72BtzX-8jr0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:39:00"
+  }
+]

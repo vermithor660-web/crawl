@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Freshville Frozen & Groceries (Oddiville)",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Grocery store",
+    "pincode": "456770",
+    "phone_number": "N/A",
+    "website": "http://www.oddiville.com/",
+    "rating": 4.5,
+    "reviews_count": 173,
+    "address": "Near Scheme 78 Part 1 Phase 2, Indore, Madhya Pradesh 452010, Indore, Madhya Pradesh 452007",
+    "area": "Scheme 78 Part 1 Phase 2",
+    "latitude": 22.7788671,
+    "longitude": 75.8967815,
+    "place_id": "ChIJ03bPJGH9YjkR_tXmw74hPNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ03bPJGH9YjkR_tXmw74hPNU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:29:36"
+  },
+  {
+    "business_name": "Shree kamalnayan Frozen food LLP",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "456770",
+    "phone_number": "+91 93298 47964",
+    "website": "https://www.shreekamalnayanfrozenfoodllp.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Survey no 1432/2, Bhesa Dabar, Sailana, Bhainsa Dabar, Madhya Pradesh 457550",
+    "area": "456770",
+    "latitude": 23.5118598,
+    "longitude": 74.9532171,
+    "place_id": "ChIJdWvXfkWrZjkRfD3WErCABSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdWvXfkWrZjkRfD3WErCABSY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:29:36"
+  }
+]

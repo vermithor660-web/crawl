@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medical",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "456776",
+    "phone_number": "+91 97530 83434",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5789+RVG, Railway Colony, Runija, Madhya Pradesh 456776",
+    "area": "Railway Colony",
+    "latitude": 23.1670575,
+    "longitude": 75.2697118,
+    "place_id": "ChIJW4UHHw3sYzkRUil69wVvn20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW4UHHw3sYzkRUil69wVvn20",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:33:50"
+  },
+  {
+    "business_name": "Karan x ray",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "456776",
+    "phone_number": "+91 93999 17239",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 76,
+    "address": "14, Shanku Marg, Freeganj, TAMBHAKU BAZAR, Madhav Nagar, Ujjain, Madhya Pradesh 456010",
+    "area": "Freeganj, TAMBHAKU BAZAR, Madhav Nagar",
+    "latitude": 23.1778263,
+    "longitude": 75.7896123,
+    "place_id": "ChIJX_sp8Z51YzkRVOlJ1qX_nnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX_sp8Z51YzkRVOlJ1qX_nnI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:33:53"
+  }
+]

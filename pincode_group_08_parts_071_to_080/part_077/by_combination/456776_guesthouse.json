@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divyanshi Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "456776",
+    "phone_number": "+91 90398 24903",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sardarpura Near Mali Dharmashala, 31, near Gajra Atta Chakki, Dudh Talai, Ujjain, Madhya Pradesh 456001",
+    "area": "Dudh Talai, Malipura",
+    "latitude": 23.180987299999998,
+    "longitude": 75.7796427,
+    "place_id": "ChIJv3P4H0x1YzkRJiHZQ74hO7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv3P4H0x1YzkRJiHZQ74hO7g",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:34:32"
+  },
+  {
+    "business_name": "Aavaas Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "456776",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "House No.25, Street No.6, Mahakal Marg, Kot Mohalla, Suraj Nagar, Ujjain, Madhya Pradesh 456006",
+    "area": "Kot Mohalla, Suraj Nagar",
+    "latitude": 23.1822338,
+    "longitude": 75.77092739999999,
+    "place_id": "ChIJ8ZOA5jd0YzkROQ3MmQCyOMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ZOA5jd0YzkROQ3MmQCyOMc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:34:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree nandika jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "457336",
+    "phone_number": "+91 99934 39307",
+    "website": "https://www.nandikajewellers.in/",
+    "rating": 5,
+    "reviews_count": 29,
+    "address": "Soni gali, kankali chok, malwa, Barod, Madhya Pradesh 465550",
+    "area": "malwa",
+    "latitude": 23.788221,
+    "longitude": 75.8108256,
+    "place_id": "ChIJ88HJjwWNZDkRhu-xm-mmKvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ88HJjwWNZDkRhu-xm-mmKvY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:50:40"
+  },
+  {
+    "business_name": "Shree Ratlam Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "457336",
+    "phone_number": "+91 70249 50367",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XGQ9+6F7, Mahaveer Marg, Gautampura, Runji Gautampura, Madhya Pradesh 453220",
+    "area": "457336",
+    "latitude": 22.9880358,
+    "longitude": 75.518658,
+    "place_id": "ChIJuc-_4FC7YzkROk6jj-73zRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuc-_4FC7YzkROk6jj-73zRA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:50:40"
+  }
+]

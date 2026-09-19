@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganga kirana store Roopakhedi",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "456668",
+    "phone_number": "+91 70470 02828",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Rupakhedi, Chirdi, Madhya Pradesh 456668",
+    "area": "456668",
+    "latitude": 23.477961,
+    "longitude": 75.97309659999999,
+    "place_id": "ChIJ7dP2pARjYzkRP9iCRC_L3l0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7dP2pARjYzkRP9iCRC_L3l0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:27:36"
+  },
+  {
+    "business_name": "Bala Ji Kirna Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "456668",
+    "phone_number": "+91 74403 98943",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Lasuladiya, Lasudiya Amra, Madhya Pradesh 456668",
+    "area": "Lasuladiya",
+    "latitude": 23.5292706,
+    "longitude": 75.9956419,
+    "place_id": "ChIJqSQvrcmfZDkRwb0-gbgJCdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqSQvrcmfZDkRwb0-gbgJCdQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:27:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju Bhai & Brothers",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "456771",
+    "phone_number": "+91 76973 82786",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "B3 Badnagar Bus Stand Mandi, Madhya Pradesh 456771",
+    "area": "456771",
+    "latitude": 23.0475258,
+    "longitude": 75.3733626,
+    "place_id": "ChIJl-jqHGO_YzkRzQfL85x_F74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-jqHGO_YzkRzQfL85x_F74",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:31:29"
+  },
+  {
+    "business_name": "Golden Fruit Center",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruits Wholesaler",
+    "all_categories": "Fruits Wholesaler",
+    "pincode": "456771",
+    "phone_number": "+91 81035 14614",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhargav Chauraha, Jama Masjid, Road, Kamri Marg, Ujjain, Madhya Pradesh 456006",
+    "area": "Kamri Marg",
+    "latitude": 23.190096,
+    "longitude": 75.7726079,
+    "place_id": "ChIJw-UOezp0YzkRVX1ydV5gYt4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-UOezp0YzkRVX1ydV5gYt4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:31:29"
+  }
+]

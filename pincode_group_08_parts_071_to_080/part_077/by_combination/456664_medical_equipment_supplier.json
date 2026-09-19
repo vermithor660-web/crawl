@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M H Medical",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "456664",
+    "phone_number": "+91 97709 57422",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "ke samne, Amaltas Hospital, 5, Ujjain Dewas Rd, Bangar, Dewas, Madhya Pradesh 455001",
+    "area": "456664",
+    "latitude": 23.024340199999997,
+    "longitude": 75.9722214,
+    "place_id": "ChIJF5dg7UoRYzkRU-qiR_K5mKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF5dg7UoRYzkRU-qiR_K5mKg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:24:22"
+  },
+  {
+    "business_name": "RVS MEDICAL STORE AND CLINIC",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "456664",
+    "phone_number": "+91 96917 48955",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ujjain Dewas Rd, Narwar, Ujjain, Madhya Pradesh 456664",
+    "area": "456664",
+    "latitude": 23.0654346,
+    "longitude": 75.9143794,
+    "place_id": "ChIJgUtp0BwTYzkRsSy3yxHbIGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgUtp0BwTYzkRsSy3yxHbIGw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:24:22"
+  }
+]

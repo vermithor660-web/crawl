@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VINAYAK BAKER'S",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "457555",
+    "phone_number": "+91 89899 22075",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "6RHR+68M, Raoti, Madhya Pradesh 457001",
+    "area": "457555",
+    "latitude": 23.228078399999998,
+    "longitude": 74.840789,
+    "place_id": "ChIJxzXIOwBRYTkR6VP5nqFU7aE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxzXIOwBRYTkR6VP5nqFU7aE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:59:54"
+  },
+  {
+    "business_name": "Morvi cake and food zone",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Food court",
+    "pincode": "457555",
+    "phone_number": "+91 87706 23720",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "karnatak chouraha, Bajna, Madhya Pradesh 457555",
+    "area": "457555",
+    "latitude": 23.3099053,
+    "longitude": 74.6333678,
+    "place_id": "ChIJ4bgHVlBLYTkRQZoUZacAYnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4bgHVlBLYTkRQZoUZacAYnw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:59:54"
+  }
+]

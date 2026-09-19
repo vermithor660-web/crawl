@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M/S Jamna Tractors",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer, Agricultural service",
+    "pincode": "456665",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 36,
+    "address": "Shop No 38, Indore - Dhar Rd, nearby Nakoda Honda Showroom, Silver Hills Colony, Dhar, Madhya Pradesh 454001",
+    "area": "Silver Hills Colony",
+    "latitude": 22.6040287,
+    "longitude": 75.3159771,
+    "place_id": "ChIJMY7hid81YjkRgcxd4RY9Dbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMY7hid81YjkRgcxd4RY9Dbw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:26:19"
+  },
+  {
+    "business_name": "Auto deal",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Parking lot",
+    "all_categories": "Parking lot",
+    "pincode": "456665",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vardhmaan nagar, Bapna Park Colony, Ujjain, Madhya Pradesh 456001",
+    "area": "Bapna Park Colony",
+    "latitude": 23.197892,
+    "longitude": 75.79453269999999,
+    "place_id": "ChIJ6Y3cNDp1YzkROIQiKNvO0LI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Y3cNDp1YzkROIQiKNvO0LI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:26:22"
+  }
+]

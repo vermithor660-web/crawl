@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna spice and dry fruits",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Store",
+    "pincode": "456550",
+    "phone_number": "+91 98452 47877",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Holy family School Ramraj, cotton pakka, Sindhanur, Karnataka 584128",
+    "area": "cotton pakka",
+    "latitude": 15.7626175,
+    "longitude": 76.7550993,
+    "place_id": "ChIJM0cBwUfrtzsRJYuasbG0MAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM0cBwUfrtzsRJYuasbG0MAI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:20:01"
+  },
+  {
+    "business_name": "Hadi dry fruits & spices",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Spices Wholesaler",
+    "all_categories": "Spices Wholesaler, Service establishment",
+    "pincode": "456550",
+    "phone_number": "+91 63078 25898",
+    "website": "http://www.haditrading.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hadi dry fruits & spices, 456550, India",
+    "area": "456550",
+    "latitude": 9.8279151,
+    "longitude": 76.92959979999999,
+    "place_id": "ChIJ92CTTuceiGMRscVl6Uz6SEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ92CTTuceiGMRscVl6Uz6SEk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:20:04"
+  }
+]

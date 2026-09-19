@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Agro",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Spices Wholesaler",
+    "pincode": "456661",
+    "phone_number": "+91 98490 01866",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 44,
+    "address": "15-8-130, Gokul Colony, Begum Bazar, Afzal Gunj, Hyderabad, Telangana 500012",
+    "area": "Gokul Colony, Begum Bazar, Afzal Gunj",
+    "latitude": 17.3751049,
+    "longitude": 78.4712907,
+    "place_id": "ChIJ19TJNoGXyzsRmY2-ammaOBc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ19TJNoGXyzsRmY2-ammaOBc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:21:55"
+  },
+  {
+    "business_name": "Batra Stores",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Grocery store, General store, Gourmet grocery store",
+    "pincode": "456661",
+    "phone_number": "+91 93002 11767",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Lalwani Press Rd, Itwara, Azad Market, Peer Gate Area, Bhopal, Madhya Pradesh 462001",
+    "area": "Itwara, Azad Market, Peer Gate Area",
+    "latitude": 23.2613643,
+    "longitude": 77.4032677,
+    "place_id": "ChIJOdi2WCJofDkROsraUfhp8bg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOdi2WCJofDkROsraUfhp8bg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:21:58"
+  }
+]

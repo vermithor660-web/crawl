@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taj Food",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "456771",
+    "phone_number": "+91 89593 46031",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "gudari chouraha, Gudri Chouraha, Khudiram bose chauraha, near malhotra tent house, Kharakua Colony, Ujjain, Madhya Pradesh 456006",
+    "area": "Kharakua Colony",
+    "latitude": 23.184564599999998,
+    "longitude": 75.77179629999999,
+    "place_id": "ChIJL4tQyTt0YzkR0CRt2FV3vIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL4tQyTt0YzkR0CRt2FV3vIg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:31:34"
+  },
+  {
+    "business_name": "Nonveg tanduri junction dhaba",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "456771",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khatsodkhurd, block badnagar, The first dhaba on the left-hand side, just after coming down from the bridge, road, Untwas, Madhya Pradesh 456222",
+    "area": "456771",
+    "latitude": 23.106068999999998,
+    "longitude": 75.4529811,
+    "place_id": "ChIJpVl_plyXYzkRNnQjIu3KFVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpVl_plyXYzkRNnQjIu3KFVE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:31:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apna business",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "456337",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Apna business, 456337, India",
+    "area": "456337",
+    "latitude": 23.1689986,
+    "longitude": 75.7972204,
+    "place_id": "ChIJnxv1sl51YzkRo8r16nzpV58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnxv1sl51YzkRo8r16nzpV58",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:14:10"
+  },
+  {
+    "business_name": "My business point",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Playgroup",
+    "all_categories": "Playgroup, Service establishment",
+    "pincode": "456337",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "My business point, 456337, India",
+    "area": "456337",
+    "latitude": 23.1689986,
+    "longitude": 75.7972204,
+    "place_id": "ChIJkcaQ9DF1YzkRCU4oiBkbP1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkcaQ9DF1YzkRCU4oiBkbP1Q",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:14:12"
+  }
+]

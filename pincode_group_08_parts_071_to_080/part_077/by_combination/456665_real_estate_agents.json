@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parihar Place",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder",
+    "pincode": "456665",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "84MQ+GW5, Dilodri, Madhya Pradesh 456770",
+    "area": "456665",
+    "latitude": 23.333935999999998,
+    "longitude": 76.1394281,
+    "place_id": "ChIJpT3WNgBdYzkRvWfQic8bdT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpT3WNgBdYzkRvWfQic8bdT4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:27:15"
+  },
+  {
+    "business_name": "भदेश्वर भवन",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Equipment rental agency",
+    "all_categories": "Equipment rental agency, Housing development",
+    "pincode": "456665",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chhadawad, Madhya Pradesh 456665",
+    "area": "456665",
+    "latitude": 23.363964199999998,
+    "longitude": 76.04499299999999,
+    "place_id": "ChIJq5yieABnYzkRbsA_2ebIYSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq5yieABnYzkRbsA_2ebIYSE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:27:15"
+  }
+]

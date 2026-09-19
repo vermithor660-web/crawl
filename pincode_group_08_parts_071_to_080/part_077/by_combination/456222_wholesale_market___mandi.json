@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Barnagar mandi Work",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Agricultural Product Wholesaler",
+    "all_categories": "Agricultural Product Wholesaler",
+    "pincode": "456222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 41,
+    "address": "93, Adi, Barnagar, Madhya Pradesh 456771",
+    "area": "456222",
+    "latitude": 23.0632813,
+    "longitude": 75.3725759,
+    "place_id": "ChIJiWeqLtu_YzkRktcaKd6mdAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiWeqLtu_YzkRktcaKd6mdAY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:04:38"
+  },
+  {
+    "business_name": "Shree Shivam Traders",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "456222",
+    "phone_number": "+91 96170 18038",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dhan mandi, Jandla Rd, Barnagar, Madhya Pradesh 456771",
+    "area": "456222",
+    "latitude": 23.0652352,
+    "longitude": 75.3699532,
+    "place_id": "ChIJ66GIC0q_YzkRqFXUSTsE_K0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ66GIC0q_YzkRqFXUSTsE_K0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:04:38"
+  }
+]

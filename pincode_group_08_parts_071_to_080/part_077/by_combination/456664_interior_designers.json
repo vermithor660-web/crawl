@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AS Design Studio | Engineers & Interior Designer",
+    "search_category": "Interior Designers",
+    "primary_category": "Architectural designer",
+    "all_categories": "Architectural designer",
+    "pincode": "456664",
+    "phone_number": "+91 93990 77360",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "A3/206, Dewas Rd, near Nagziri, Adarsh Nagar, Nagziri, thana, Ujjain, Madhya Pradesh 456010",
+    "area": "Adarsh Nagar, Nagziri",
+    "latitude": 23.141305799999998,
+    "longitude": 75.81901409999999,
+    "place_id": "ChIJyWgViv51YzkRTP_QMBkXODQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyWgViv51YzkRTP_QMBkXODQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:24:43"
+  },
+  {
+    "business_name": "Gravity design & construction",
+    "search_category": "Interior Designers",
+    "primary_category": "Architectural designer",
+    "all_categories": "Architectural designer",
+    "pincode": "456664",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "old sabji mandi, 104, Mahakal Marg, Freeganj, Malipura, Ujjain, Madhya Pradesh 456010",
+    "area": "Freeganj, Malipura",
+    "latitude": 23.1801911,
+    "longitude": 75.78965459999999,
+    "place_id": "ChIJa83C_3t1YzkR_cyQYn11bU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa83C_3t1YzkR_cyQYn11bU0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:24:43"
+  }
+]

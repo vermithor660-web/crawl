@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "456335",
+    "phone_number": "+91 94795 42412",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HARISH K JI 302,RAILWAY STATION UNHEL, LEKODA ANJANA, NAGDA, Lekodiya Anjana, Madhya Pradesh 456337",
+    "area": "LEKODA ANJANA, NAGDA",
+    "latitude": 23.305979999999998,
+    "longitude": 75.4764,
+    "place_id": "ChIJ32cRRRWPYzkRAuYMba59esM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ32cRRRWPYzkRAuYMba59esM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:11:48"
+  },
+  {
+    "business_name": "A to Z Mobile",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "456335",
+    "phone_number": "+91 99933 55507",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Mahidpur Rd, Gogapur, Madhya Pradesh 456440",
+    "area": "456335",
+    "latitude": 23.556292499999998,
+    "longitude": 75.51746229999999,
+    "place_id": "ChIJd0A0c61wZDkRauC2gPo99-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd0A0c61wZDkRauC2gPo99-s",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:11:52"
+  }
+]

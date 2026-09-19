@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Gajanand Milk Products Mahidpur",
+    "search_category": "Organic Food Store",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "456335",
+    "phone_number": "+91 98261 84268",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Jaora Rd, Barapathar, Mahidpur, Madhya Pradesh 456443",
+    "area": "Barapathar",
+    "latitude": 23.4821602,
+    "longitude": 75.65052779999999,
+    "place_id": "ChIJ38kHnG5_ZDkRymXyEH_kHaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ38kHnG5_ZDkRymXyEH_kHaQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:10:24"
+  },
+  {
+    "business_name": "MAHESHWARI TRADERS",
+    "search_category": "Organic Food Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Beverage Store",
+    "pincode": "456335",
+    "phone_number": "+91 97139 31778",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ghodapachad Yaswant marg, Old City, Mahidpur, Madhya Pradesh 456443",
+    "area": "Old City",
+    "latitude": 23.485432,
+    "longitude": 75.65585399999999,
+    "place_id": "ChIJs6x7AHB_ZDkR7VOlDJmRDto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6x7AHB_ZDkR7VOlDJmRDto",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:10:25"
+  }
+]

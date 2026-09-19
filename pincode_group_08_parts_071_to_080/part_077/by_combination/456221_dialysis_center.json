@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navjeevan dialysis centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "456221",
+    "phone_number": "+91 95468 05466",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Shiv Mandir Road, Bindusar Bujurg, Siwan, Bihar 841227",
+    "area": "456221",
+    "latitude": 26.236064199999998,
+    "longitude": 84.37478109999999,
+    "place_id": "ChIJJWBBI6n9kjkREH8gnHVFioo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJWBBI6n9kjkREH8gnHVFioo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:01:31"
+  },
+  {
+    "business_name": "Dialysis Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Service establishment",
+    "pincode": "456221",
+    "phone_number": "+91 78638 41059",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Dialysis Center, 456221, India",
+    "area": "456221",
+    "latitude": 28.4922233,
+    "longitude": 77.2137022,
+    "place_id": "ChIJ3VhLP87hDDkRj0sAdXZ7vgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3VhLP87hDDkRj0sAdXZ7vgc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:01:33"
+  }
+]

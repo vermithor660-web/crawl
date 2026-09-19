@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Quality Lassi, Milk Shake, Mango Shake",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "456443",
+    "phone_number": "+91 87370 35555",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "64, Bhawani Ram, Infront of Moti Masjid, Churkhibal, Jalaun, Uttar Pradesh 285123",
+    "area": "Churkhibal",
+    "latitude": 26.1390879,
+    "longitude": 79.33513049999999,
+    "place_id": "ChIJIxsHWSopdjkR29Fe8OC7k8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIxsHWSopdjkR29Fe8OC7k8U",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:18:11"
+  },
+  {
+    "business_name": "Sarkar Juice Centre",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "456443",
+    "phone_number": "+91 89659 22993",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 7,
+    "address": "02 Chak, Nagda - Ujjain Rd, Kamed, Ujjain, Madhya Pradesh 456006",
+    "area": "456443",
+    "latitude": 23.2276755,
+    "longitude": 75.796104,
+    "place_id": "ChIJ8ZqMSCl3YzkRXyLMTlh7ZvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ZqMSCl3YzkRXyLMTlh7ZvI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:18:13"
+  }
+]

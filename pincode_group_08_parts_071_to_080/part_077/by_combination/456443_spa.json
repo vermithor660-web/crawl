@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anmol Jens Parlour",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "456443",
+    "phone_number": "+91 98277 33526",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rupakhedi, Mahidpur Ghosla Rd, Madhya Pradesh 456443",
+    "area": "456443",
+    "latitude": 23.472347499999998,
+    "longitude": 75.7656281,
+    "place_id": "ChIJW1yWh5l_YzkREinsxAMCNW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1yWh5l_YzkREinsxAMCNW0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:19:01"
+  },
+  {
+    "business_name": "Udiwal Cosmetics And Beauty Parlour",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "456443",
+    "phone_number": "+91 98268 58345",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "23, Nagori Gali, Nayapura, Bazaar, Mahidpur, Madhya Pradesh 456443",
+    "area": "Nayapura, Bazaar",
+    "latitude": 23.4871007,
+    "longitude": 75.6569408,
+    "place_id": "ChIJx7xh1s5_ZDkRAQjb2g20ozs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx7xh1s5_ZDkRAQjb2g20ozs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:19:02"
+  }
+]

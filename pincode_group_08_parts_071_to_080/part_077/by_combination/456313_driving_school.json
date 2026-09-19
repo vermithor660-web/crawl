@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harish",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "456313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shakambhari Kanakhedi, Sandla, Madhya Pradesh 456313",
+    "area": "456313",
+    "latitude": 23.314470699999998,
+    "longitude": 75.39740669999999,
+    "place_id": "ChIJ-1n1diONYzkRWtT6l1TRG8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-1n1diONYzkRWtT6l1TRG8g",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:07:18"
+  },
+  {
+    "business_name": "Sainamaina Driving & Pre-Trail Center",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school, Service establishment",
+    "pincode": "456313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sainamaina Driving & Pre-Trail Center, 456313, India",
+    "area": "456313",
+    "latitude": 27.706575899999997,
+    "longitude": 83.3269428,
+    "place_id": "ChIJ3VcrTWzuUasRnyy4ogETMK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3VcrTWzuUasRnyy4ogETMK4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:07:18"
+  }
+]

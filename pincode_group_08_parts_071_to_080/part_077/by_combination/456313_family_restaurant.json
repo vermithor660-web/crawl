@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanwariya restorent &dhabha badagaon",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "456313",
+    "phone_number": "+91 75665 97921",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Unnamed Road, Badagaon, Madhya Pradesh 456337",
+    "area": "456313",
+    "latitude": 23.357584199999998,
+    "longitude": 75.3785228,
+    "place_id": "ChIJTYseo7eLYzkReHunW--_9po",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTYseo7eLYzkReHunW--_9po",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:06:46"
+  },
+  {
+    "business_name": "Hometown cafe",
+    "search_category": "Family Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "456313",
+    "phone_number": "+91 79874 20911",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Nagda Rd, Khachrod, Rama Talai Khacharod Ka, Madhya Pradesh 456224",
+    "area": "456313",
+    "latitude": 23.428579199999998,
+    "longitude": 75.2891138,
+    "place_id": "ChIJSdovUPf1YzkRS0ifaLAhYMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSdovUPf1YzkRS0ifaLAhYMo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:06:46"
+  }
+]

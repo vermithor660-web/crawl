@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cheap Books Store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "456440",
+    "phone_number": "+91 99885 21301",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Cheap books store, opp. Sri sai engg.college, Bungal, Punjab 145002",
+    "area": "456440",
+    "latitude": 32.323643,
+    "longitude": 75.7516227,
+    "place_id": "ChIJX7m-PZyBHDkRcGZ8Uv4vS2w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX7m-PZyBHDkRcGZ8Uv4vS2w",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:15:34"
+  },
+  {
+    "business_name": "Krishna Book Store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "456440",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 30,
+    "address": "Sampatchak, Bihar 800007",
+    "area": "456440",
+    "latitude": 25.5392098,
+    "longitude": 85.17667329999999,
+    "place_id": "ChIJ9bYXqyen8jkRsp4akXXlTv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bYXqyen8jkRsp4akXXlTv8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:15:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjabi Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Dhaba",
+    "pincode": "457222",
+    "phone_number": "+91 99772 43945",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 17,
+    "address": "Padliya, Arniya Gujar, Ratlam, NH-79, Ratlam, Ratlam, Madhya Pradesh 457226",
+    "area": "457222",
+    "latitude": 23.5715959,
+    "longitude": 75.0815243,
+    "place_id": "ChIJzwDtX5IEZDkRHCocK6e2Usc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzwDtX5IEZDkRHCocK6e2Usc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:42:51"
+  },
+  {
+    "business_name": "Pushkar Restaurant (Munna Seth)",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Breakfast restaurant",
+    "pincode": "457222",
+    "phone_number": "+91 88171 81966",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 174,
+    "address": "Railway Colony Main Rd, Ratlam Railway Colony, Railway Colony, Ratlam, Madhya Pradesh 457001",
+    "area": "Ratlam Railway Colony, Railway Colony",
+    "latitude": 23.3452295,
+    "longitude": 75.04703239999999,
+    "place_id": "ChIJo0PRZLj-YzkR18SHli9cEu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo0PRZLj-YzkR18SHli9cEu8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:42:51"
+  }
+]

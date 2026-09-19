@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Local jaora crane service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "457226",
+    "phone_number": "+91 82698 21128",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Ujjain bypass road, choraha, begampura, Jaora, Bhuteda, Madhya Pradesh 457226",
+    "area": "choraha, begampura",
+    "latitude": 23.6093024,
+    "longitude": 75.14987649999999,
+    "place_id": "ChIJKZUKtrkFZDkRIqtVYUx4Sfg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKZUKtrkFZDkRIqtVYUx4Sfg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:45:21"
+  },
+  {
+    "business_name": "Crane service and recovery",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "457226",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "उज्जैन रोड, भूतेड़ा 8 लाइन, Jaora, Bhuteda, Madhya Pradesh 457226",
+    "area": "भूतेड़ा 8 लाइन",
+    "latitude": 23.6036222,
+    "longitude": 75.1538427,
+    "place_id": "ChIJZ-nBD3gFZDkRHImjWYQsDcw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-nBD3gFZDkRHImjWYQsDcw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:45:21"
+  }
+]

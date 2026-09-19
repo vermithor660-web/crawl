@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Chefs Cloud Kitchen.",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "456771",
+    "phone_number": "+91 82996 92109",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "Sundar takig ke peeche, Ved narshing home ke peeche, Up 515, Ab Nagar, Unnao, Uttar Pradesh 209801",
+    "area": "Ab Nagar",
+    "latitude": 26.542267199999998,
+    "longitude": 80.48334419999999,
+    "place_id": "ChIJYQDlihAVnDkRYYXEbwXcGHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYQDlihAVnDkRYYXEbwXcGHw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:31:39"
+  },
+  {
+    "business_name": "Joy's kitchen (cloud kitchen)",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer, Service establishment",
+    "pincode": "456771",
+    "phone_number": "N/A",
+    "website": "https://zomato.onelink.me/xqzv/az5t7fu2",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Joy's kitchen (cloud kitchen), 456771, India",
+    "area": "456771",
+    "latitude": 22.723972699999997,
+    "longitude": 75.86384989999999,
+    "place_id": "ChIJ1bm01Vm1tKARxvO2zvBYrbI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1bm01Vm1tKARxvO2zvBYrbI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:31:39"
+  }
+]

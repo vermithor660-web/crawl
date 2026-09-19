@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aashirwad care",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Pharmacy",
+    "pincode": "457333",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road, Riyawan, Kalukheda, Madhya Pradesh 457340",
+    "area": "457333",
+    "latitude": 23.7245237,
+    "longitude": 75.0387223,
+    "place_id": "ChIJgUiSNQAfZDkRmMG378tcN38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgUiSNQAfZDkRmMG378tcN38",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:48:54"
+  },
+  {
+    "business_name": "रतन श्री मेडिकल ढोढर",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Day care center",
+    "pincode": "457333",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Neemuch - Mhow Rd, near SBI, Dhodar, Madhya Pradesh 457339",
+    "area": "457333",
+    "latitude": 23.7737192,
+    "longitude": 75.1036761,
+    "place_id": "ChIJqZuaatYZZDkRR_qQzJqCuYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZuaatYZZDkRR_qQzJqCuYQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:48:54"
+  }
+]

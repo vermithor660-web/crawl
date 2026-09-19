@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Ganesh Floor Mill",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "457555",
+    "phone_number": "+91 96854 72748",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "210, Lohar Rd, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "area": "Laxman Pura",
+    "latitude": 23.3276064,
+    "longitude": 75.0350151,
+    "place_id": "ChIJ4x2P1Jj-YzkRuaYIulMZXEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4x2P1Jj-YzkRuaYIulMZXEg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:59:52"
+  },
+  {
+    "business_name": "Ganesh Chakki",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Spice store",
+    "all_categories": "Spice store",
+    "pincode": "457555",
+    "phone_number": "+91 99818 84477",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Palace Rd, Jain Colony, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "area": "Jain Colony, Laxman Pura",
+    "latitude": 23.324315799999997,
+    "longitude": 75.04093999999999,
+    "place_id": "ChIJQRRZ96D-YzkRTztzmku6P1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRRZ96D-YzkRTztzmku6P1g",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:59:52"
+  }
+]

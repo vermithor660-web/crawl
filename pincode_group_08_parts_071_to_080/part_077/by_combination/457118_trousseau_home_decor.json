@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Imroz home",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "457118",
+    "phone_number": "+91 87701 24814",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "829Q+CPF, Shanti Nagar, Madhya Pradesh 457001",
+    "area": "Shanti Nagar, Bohra Baakhal",
+    "latitude": 23.3185666,
+    "longitude": 75.03931229999999,
+    "place_id": "ChIJi1q6tqr9YzkRvo2Wp0b4bZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi1q6tqr9YzkRvo2Wp0b4bZc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:40:10"
+  },
+  {
+    "business_name": "V K Home Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "457118",
+    "phone_number": "+91 79997 27615",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Bypass Rd, मिद्तोवं टाउनशिप, Bapu Nagar, Ratlam, Madhya Pradesh 457001",
+    "area": "मिद्तोवं टाउनशिप, Bapu Nagar",
+    "latitude": 23.330204199999997,
+    "longitude": 75.05961099999999,
+    "place_id": "ChIJWeibp77_YzkRbB2EXjr2STU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWeibp77_YzkRbB2EXjr2STU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:40:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kids Zone",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store",
+    "pincode": "456335",
+    "phone_number": "+91 94248 78431",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gandhi Marg, Nayapura, Mahidpur, Madhya Pradesh 456443",
+    "area": "Nayapura",
+    "latitude": 23.4870879,
+    "longitude": 75.656314,
+    "place_id": "ChIJMXsK-YB_ZDkRdnawOqw4440",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMXsK-YB_ZDkRdnawOqw4440",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:10:40"
+  },
+  {
+    "business_name": "Jagdish Kak",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "456335",
+    "phone_number": "+91 98935 24182",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Road, New Shivaji Nagar, Nagda, Mahidpur, Madhya Pradesh 456440",
+    "area": "New Shivaji Nagar",
+    "latitude": 23.5634788,
+    "longitude": 75.50543329999999,
+    "place_id": "ChIJ8cx2281xZDkRcWnoatROFWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8cx2281xZDkRcWnoatROFWk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:10:40"
+  }
+]

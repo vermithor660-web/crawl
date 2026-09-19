@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "कारू लाल सेन",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "457339",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q33H+342, Lasudiya Nathi, Madhya Pradesh 457339",
+    "area": "457339",
+    "latitude": 23.7524589,
+    "longitude": 75.07753319999999,
+    "place_id": "ChIJ9X7m0qoZZDkRdagUSsrqC1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9X7m0qoZZDkRdagUSsrqC1Y",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:52:26"
+  },
+  {
+    "business_name": "The Kingfisher hotel",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "457339",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "MP SH 31A, Phoolpura, Madhya Pradesh 458116",
+    "area": "457339",
+    "latitude": 24.4732158,
+    "longitude": 75.3030536,
+    "place_id": "ChIJT-8WfgXBZTkRmXzI59Qo-EY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT-8WfgXBZTkRmXzI59Qo-EY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:52:27"
+  }
+]

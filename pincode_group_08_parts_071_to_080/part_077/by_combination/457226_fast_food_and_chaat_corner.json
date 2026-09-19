@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RATHORE FAST FOODS",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "457226",
+    "phone_number": "+91 91656 44244",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "No 92, Highway, Pustak Bazar, Mahveer Ganj, in front of Khanda Rd, Bhind, Madhya Pradesh 477001",
+    "area": "Pustak Bazar, Mahveer Ganj",
+    "latitude": 26.5662682,
+    "longitude": 78.7848382,
+    "place_id": "ChIJAxJL8Rh7djkRCe8BOGAI1Js",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAxJL8Rh7djkRCe8BOGAI1Js",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:44:45"
+  },
+  {
+    "business_name": "CHANCHAL RESTAURANT",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Vegetarian restaurant",
+    "pincode": "457226",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 285,
+    "address": "Namli, Madhya Pradesh 457222",
+    "area": "457226",
+    "latitude": 23.4533192,
+    "longitude": 75.0617206,
+    "place_id": "ChIJXYVISC0HZDkRNEIObJYDpD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXYVISC0HZDkRNEIObJYDpD0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:44:47"
+  }
+]

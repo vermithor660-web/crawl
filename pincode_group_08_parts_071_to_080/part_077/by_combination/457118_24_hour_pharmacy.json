@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tarun Medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "457118",
+    "phone_number": "+91 98930 15943",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 7,
+    "address": "82CM+P9C, Chandni Chowk, Silawato Ka Was, Roundabout, Ratlam, Madhya Pradesh 457001",
+    "area": "Silawato Ka Was, Roundabout",
+    "latitude": 23.321821999999997,
+    "longitude": 75.0334024,
+    "place_id": "ChIJ2QvRIJ7-YzkRfNhGM-OzNDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2QvRIJ7-YzkRfNhGM-OzNDw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:39:26"
+  },
+  {
+    "business_name": "Mayank Medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Store",
+    "pincode": "457118",
+    "phone_number": "+91 94248 83715",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 5,
+    "address": "Mhow Road, Fawara Chowk, Mhow Rd, Mhow Road Railway Colony, Ratlam, Madhya Pradesh 457001",
+    "area": "Mhow Road Railway Colony, Samta Nagar",
+    "latitude": 23.3316914,
+    "longitude": 75.0527599,
+    "place_id": "ChIJA4Ov_q7-YzkRI_fBbIXcwxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA4Ov_q7-YzkRI_fBbIXcwxs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:39:26"
+  }
+]

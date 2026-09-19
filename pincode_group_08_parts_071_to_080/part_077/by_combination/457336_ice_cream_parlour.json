@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji kulfi ice-cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "457336",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q4W2+9VM, Dhodar, Madhya Pradesh 457339",
+    "area": "457336",
+    "latitude": 23.7959621,
+    "longitude": 75.1021585,
+    "place_id": "ChIJdRGAfwAjZDkRqL988OQntyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdRGAfwAjZDkRqL988OQntyE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:50:32"
+  },
+  {
+    "business_name": "Sumit",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "457336",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q4F4+3F5, Dhodar, Madhya Pradesh 457339",
+    "area": "457336",
+    "latitude": 23.772639299999998,
+    "longitude": 75.1062273,
+    "place_id": "ChIJcQGwdwAZZDkR01lH4m8B99I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQGwdwAZZDkR01lH4m8B99I",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:50:32"
+  }
+]

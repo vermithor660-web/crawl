@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaivik Jeevan Agro",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Consultant, Organic farm",
+    "pincode": "456440",
+    "phone_number": "+91 83494 15683",
+    "website": "https://jaivikjeevan.farm/",
+    "rating": 4.2,
+    "reviews_count": 29,
+    "address": "Gate no 4, 418 R Near, New Minal Residency, Minal Residency, Bhopal, Madhya Pradesh 462023",
+    "area": "New Minal Residency, Minal Residency",
+    "latitude": 23.2770498,
+    "longitude": 77.44935389999999,
+    "place_id": "ChIJgYYSHexpfDkRmmvhmfMp2W4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgYYSHexpfDkRmmvhmfMp2W4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:14:19"
+  },
+  {
+    "business_name": "ladoory",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health food store",
+    "all_categories": "Health food store",
+    "pincode": "456440",
+    "phone_number": "+91 62661 25600",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "81, Colonies, lakshmi colony, Mahidpur, Madhya Pradesh 456443",
+    "area": "Colonies, lakshmi colony",
+    "latitude": 23.485232099999998,
+    "longitude": 75.6655704,
+    "place_id": "ChIJL5pvs2B_ZDkRgabGep0pILE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5pvs2B_ZDkRgabGep0pILE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:14:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The iconic fitness gym",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "456331",
+    "phone_number": "+91 87702 37592",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "new over bridge k niche, Approach Rd, Dayanand Colony, Nagda, Madhya Pradesh 456335",
+    "area": "Dayanand Colony",
+    "latitude": 23.454739999999997,
+    "longitude": 75.4208847,
+    "place_id": "ChIJ3b9DaMt1ZDkR9YEjcFj4xno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3b9DaMt1ZDkR9YEjcFj4xno",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:09:04"
+  },
+  {
+    "business_name": "THE IRON GARAGE (TIG Gym)",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "456331",
+    "phone_number": "+91 77718 63731",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 69,
+    "address": "Mehidpur Rd, near geeta shree garden, naka, Nagda, Madhya Pradesh 456335",
+    "area": "naka",
+    "latitude": 23.4619635,
+    "longitude": 75.42604,
+    "place_id": "ChIJBVhGzHx1ZDkRR7jzTwI3Jpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBVhGzHx1ZDkRR7jzTwI3Jpo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:09:04"
+  }
+]

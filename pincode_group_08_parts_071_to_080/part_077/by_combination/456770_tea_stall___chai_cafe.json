@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaifeteria Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "456770",
+    "phone_number": "+91 77379 82364",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "New Fatehpura, Panchwati, Udaipur, Rajasthan 313004",
+    "area": "New Fatehpura, Panchwati",
+    "latitude": 24.6011903,
+    "longitude": 73.6883678,
+    "place_id": "ChIJiyxaKHDlZzkRZd86d0Iz1tU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiyxaKHDlZzkRZd86d0Iz1tU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:29:38"
+  },
+  {
+    "business_name": "Super Tea Company",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "456770",
+    "phone_number": "+91 99933 30208",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "51, Bhaat Gali, Bahadurganj, Malipura, Ujjain, Madhya Pradesh 456001",
+    "area": "Bahadurganj, Malipura",
+    "latitude": 23.1834101,
+    "longitude": 75.7788152,
+    "place_id": "ChIJ36eVg8d1YzkR9mgP-N_UGrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ36eVg8d1YzkR9mgP-N_UGrk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:29:41"
+  }
+]

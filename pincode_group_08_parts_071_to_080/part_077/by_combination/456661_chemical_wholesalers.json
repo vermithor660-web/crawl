@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "shri shankeshwar chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer",
+    "pincode": "456661",
+    "phone_number": "+91 87701 22344",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "section 2, B-194/2, Vikramaditya Cloth Market, Ujjain, Madhya Pradesh 456001",
+    "area": "Vikramaditya Cloth Market, Patel Nagar",
+    "latitude": 23.1923933,
+    "longitude": 75.77962459999999,
+    "place_id": "ChIJgW8QT9Z1YzkRMo8iGsPxzM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgW8QT9Z1YzkRMo8iGsPxzM4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:23:31"
+  },
+  {
+    "business_name": "mahakal kripa ind.puspa niranjan",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Industrial chemicals wholesaler",
+    "all_categories": "Industrial chemicals wholesaler",
+    "pincode": "456661",
+    "phone_number": "+91 97539 68007",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "B-51, B-51, Ujjain, Parsvnath City, Ujjain, Madhya Pradesh 456010",
+    "area": "Parsvnath City",
+    "latitude": 23.1502952,
+    "longitude": 75.8169327,
+    "place_id": "ChIJceagN2VzYzkRNkYAj1T9orE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJceagN2VzYzkRNkYAj1T9orE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:23:33"
+  }
+]

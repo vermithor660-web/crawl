@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reliance SMART Bazaar",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Hypermarket",
+    "all_categories": "Hypermarket, Appliance store, Beverage Store, Convenience store, Dairy store, Gourmet grocery store, Health food store, Home goods store, Indian grocery store, Produce market",
+    "pincode": "456001",
+    "phone_number": "+91 1800 891 0001",
+    "website": "https://stores.reliancesmartbazaar.com/reliance-smart-bazaar-hypermarket-kamla-nehru-marg-ujjain-280599/Home",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "Kamla Nehru Marg, Plot No D 9, Cosmos Mall Rd, near Dhanvantari Chikitsa Yojna Kendra, Ujjain, Madhya Pradesh 456010",
+    "area": "Jawahar Nagar",
+    "latitude": 23.1567555,
+    "longitude": 75.794163,
+    "place_id": "ChIJeVVzoS51YzkRyaMXmyERYn0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeVVzoS51YzkRyaMXmyERYn0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:54:33"
+  },
+  {
+    "business_name": "retail fuel",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "456001",
+    "phone_number": "+91 96179 90039",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 316,
+    "address": "ITC Choupal Saagar, Ujjain - Agar Rd, Ujjain, Kamed, Madhya Pradesh 456010",
+    "area": "456001",
+    "latitude": 23.2256805,
+    "longitude": 75.8019358,
+    "place_id": "ChIJvYE0D7R2YzkRgdjzFk9IsGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvYE0D7R2YzkRgdjzFk9IsGU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:54:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harshit Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "456313",
+    "phone_number": "+91 73544 41347",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Harshit Footwear, Bhatpachlana Rd, Bhatpachlana, Madhya Pradesh 456313",
+    "area": "456313",
+    "latitude": 23.2498763,
+    "longitude": 75.29254379999999,
+    "place_id": "ChIJQ1BcFkrtYzkR3jK9DYBx0oE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ1BcFkrtYzkR3jK9DYBx0oE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:06:52"
+  },
+  {
+    "business_name": "AJ footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "456313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "772V+92H, Bhatpachlana - Kamed Rd, Bhatpachlana, Madhya Pradesh 456313",
+    "area": "456313",
+    "latitude": 23.2509482,
+    "longitude": 75.29259619999999,
+    "place_id": "ChIJ5QB1FQDtYzkRNMWIwyVgCf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5QB1FQDtYzkRNMWIwyVgCf0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:06:52"
+  }
+]

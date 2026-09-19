@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ASHAPURA HARDWARE",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "456337",
+    "phone_number": "+91 93438 92944",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "टि. चिरोला कला, तह, वड़नगर, Chirola, जि. उज्जैन (म.प्र 456313",
+    "area": "तह",
+    "latitude": 23.275006899999998,
+    "longitude": 75.4067214,
+    "place_id": "ChIJJ-k37Y2NYzkRqFJwq0Nn_Zw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ-k37Y2NYzkRqFJwq0Nn_Zw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:13:06"
+  },
+  {
+    "business_name": "Malwa Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Building materials store, Furniture store, Paint store, Sofa store",
+    "pincode": "456337",
+    "phone_number": "+91 99936 11811",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6GHC+MQ2, Unhel Road, Bhairavgad Rd, Madhya Pradesh 456337",
+    "area": "456337",
+    "latitude": 23.2291393,
+    "longitude": 75.5218991,
+    "place_id": "ChIJVxRqfe12YzkRwNF-IUib89I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVxRqfe12YzkRwNF-IUib89I",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:13:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Arpit Sharma",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Ophthalmologist, Lasik surgeon",
+    "pincode": "457339",
+    "phone_number": "+91 73890 04919",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 54,
+    "address": "Trimuti Chauraha, Madhya Pradesh 454001",
+    "area": "Trimurti Nagar",
+    "latitude": 22.6026845,
+    "longitude": 75.3129713,
+    "place_id": "ChIJyz9kwV83YjkRNkOVgP5EKCE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyz9kwV83YjkRNkOVgP5EKCE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:52:41"
+  },
+  {
+    "business_name": "Sethiya Eye Care",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Optometrist",
+    "pincode": "457339",
+    "phone_number": "+91 94251 08442",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 72,
+    "address": "Manasa - Piplia Mandi Rd, opp. Gayatri Industry, Piplia Mandi, Madhya Pradesh 458664",
+    "area": "457339",
+    "latitude": 24.206953199999997,
+    "longitude": 75.0120333,
+    "place_id": "ChIJnfAFe6vVZTkREb0W08Hc7lc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnfAFe6vVZTkREb0W08Hc7lc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:52:41"
+  }
+]

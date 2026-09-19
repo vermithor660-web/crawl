@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KADAM SE KADAM",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant, Newspaper publisher",
+    "pincode": "456661",
+    "phone_number": "+91 82369 33167",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nakoda Dham, Ujjain Dewas Rd, Abhilasha Colony, Ujjain, Madhya Pradesh 456010",
+    "area": "Abhilasha Colony",
+    "latitude": 23.1393889,
+    "longitude": 75.8239966,
+    "place_id": "ChIJQep2gUBzYzkRsEokUdpfAqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQep2gUBzYzkRsEokUdpfAqA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:23:42"
+  },
+  {
+    "business_name": "Abhilasha marketing",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "456661",
+    "phone_number": "+91 78981 93414",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "4RV6+5PM, Dewas Rd, Shipra Vihar Section 2, Nagziri, Ujjain, Madhya Pradesh 456010",
+    "area": "Shipra Vihar Section 2, Nagziri",
+    "latitude": 23.1429522,
+    "longitude": 75.8118107,
+    "place_id": "ChIJ0_ZVIwBzYzkRiFB15kPSLHQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0_ZVIwBzYzkRiFB15kPSLHQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:23:42"
+  }
+]

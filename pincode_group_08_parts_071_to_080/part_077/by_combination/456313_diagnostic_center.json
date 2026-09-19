@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mannat medical store",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "456313",
+    "phone_number": "+91 788 020 2160",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "95H5+Q26, Ratlam khachrode main road, Malwasa, Madhya Pradesh 457001",
+    "area": "456313",
+    "latitude": 23.3794085,
+    "longitude": 75.1575311,
+    "place_id": "ChIJi67qGwD3YzkR-oR1NRwgV-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi67qGwD3YzkR-oR1NRwgV-A",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:07:04"
+  },
+  {
+    "business_name": "shivam Medical",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "456313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "974M+R5J, Madawada, Madhya Pradesh 456313",
+    "area": "456313",
+    "latitude": 23.3570939,
+    "longitude": 75.2829046,
+    "place_id": "ChIJAQAAAHD0YzkRRTbrMAR9OA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAHD0YzkRRTbrMAR9OA4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:07:06"
+  }
+]

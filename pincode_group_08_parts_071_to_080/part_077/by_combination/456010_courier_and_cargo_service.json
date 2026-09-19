@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DTDC Courier",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "456010",
+    "phone_number": "+91 91316 65724",
+    "website": "N/A",
+    "rating": 2.1,
+    "reviews_count": null,
+    "address": "11 Tejaji Chok, Madhya Pradesh 456771",
+    "area": "456010",
+    "latitude": 23.0449609,
+    "longitude": 75.3792582,
+    "place_id": "ChIJq-Nqtd6_YzkRGZRxU1UaotE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq-Nqtd6_YzkRGZRxU1UaotE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:00:36"
+  },
+  {
+    "business_name": "KM Cargo and Courier Services",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Airline, Airport, Logistics service, Domestic airport, Freight Forwarding Agency, Transportation service",
+    "pincode": "456010",
+    "phone_number": "+91 99115 00751",
+    "website": "https://www.kmcargoservices.com/",
+    "rating": 4.7,
+    "reviews_count": 110,
+    "address": "1st Floor, Road No. 4, A-104, Street Number 7, opp. Goodluck Hotel, Block RZ, Mahipalpur Extension, Mahipalpur, New Delhi, Delhi 110037",
+    "area": "Block RZ, Mahipalpur Extension, Mahipalpur",
+    "latitude": 28.549590199999997,
+    "longitude": 77.1294546,
+    "place_id": "ChIJoQczHjj9DDkRJ3heW46U9KU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoQczHjj9DDkRJ3heW46U9KU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:00:36"
+  }
+]

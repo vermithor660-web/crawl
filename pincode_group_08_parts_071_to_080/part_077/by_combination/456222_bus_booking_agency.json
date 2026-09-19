@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chartered Bus – Badnagar Bus & Parcel Booking Office",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus company",
+    "all_categories": "Bus company, Bus charter, Bus ticket agency, Bus tour agency, Courier service, Logistics service",
+    "pincode": "456222",
+    "phone_number": "+91 91091 26332",
+    "website": "http://www.charteredbus.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Hotel Dev Palace, 123, Jawahar Marg, Diversion Road, Barnagar, Madhya Pradesh 456771",
+    "area": "Diversion Road",
+    "latitude": 23.048086299999998,
+    "longitude": 75.3742801,
+    "place_id": "ChIJVxpunG-_YzkR-_RfRhY2w0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVxpunG-_YzkR-_RfRhY2w0E",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:03:30"
+  },
+  {
+    "business_name": "shakil travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus company",
+    "all_categories": "Bus company",
+    "pincode": "456222",
+    "phone_number": "+91 94254 94961",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Barnagar, Madhya Pradesh 456771",
+    "area": "456222",
+    "latitude": 23.053283699999998,
+    "longitude": 75.3781908,
+    "place_id": "ChIJCezdmo-_YzkRLCyC2JqwgTg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCezdmo-_YzkRLCyC2JqwgTg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:03:30"
+  }
+]

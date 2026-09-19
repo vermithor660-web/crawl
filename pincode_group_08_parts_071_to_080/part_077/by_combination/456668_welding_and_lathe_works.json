@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Machinary",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Electric motor store, Pipe supplier",
+    "pincode": "456668",
+    "phone_number": "+91 87700 38377",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "Meli Gali, Arya Samaj Marg, Nai Sadak, Ujjain, Madhya Pradesh 456001",
+    "area": "Bahadurganj, Malipura",
+    "latitude": 23.184531099999997,
+    "longitude": 75.7780581,
+    "place_id": "ChIJzRMszDh0YzkRK3aweEedXh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzRMszDh0YzkRK3aweEedXh4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:29:14"
+  },
+  {
+    "business_name": "Keshav Welding Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Iron works",
+    "all_categories": "Iron works",
+    "pincode": "456668",
+    "phone_number": "+91 73545 74305",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.1, Road, Jaora Rd, near by Ramdevji Mandir, Laduna, Madhya Pradesh 458389",
+    "area": "456668",
+    "latitude": 23.983520799999997,
+    "longitude": 75.3547763,
+    "place_id": "ChIJY-qLON1HZDkRq6eqHEX82Jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY-qLON1HZDkRq6eqHEX82Jo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:29:15"
+  }
+]

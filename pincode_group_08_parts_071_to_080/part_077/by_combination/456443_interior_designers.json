@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "yadav painter",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "456443",
+    "phone_number": "+91 91092 32847",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "543/3, Jagoti, Madhya Pradesh 456550",
+    "area": "456443",
+    "latitude": 23.404211699999998,
+    "longitude": 75.80337519999999,
+    "place_id": "ChIJiaWfOnh_YzkRNBiIuG4c80Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiaWfOnh_YzkRNBiIuG4c80Y",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:18:55"
+  },
+  {
+    "business_name": "मां नागणेच्या भवन",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "456443",
+    "phone_number": "+91 70498 68279",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lakhaheda, Madhya Pradesh 456550",
+    "area": "456443",
+    "latitude": 23.3222491,
+    "longitude": 75.8203423,
+    "place_id": "ChIJs26rnMp7YzkR9MVauSNOTPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs26rnMp7YzkR9MVauSNOTPU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:18:55"
+  }
+]

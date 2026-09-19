@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OffiStore",
+    "search_category": "Gifting",
+    "primary_category": "Corporate gift supplier",
+    "all_categories": "Corporate gift supplier, Gift shop",
+    "pincode": "456664",
+    "phone_number": "+91 90099 86226",
+    "website": "https://offistore.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no G2, Sneh Residency, Shri mangal, Scheme No 140, Indore, Madhya Pradesh 452016",
+    "area": "Scheme No 140",
+    "latitude": 22.7132447,
+    "longitude": 75.9130909,
+    "place_id": "ChIJQVHa5jv9YjkRMgj_aWkkfLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQVHa5jv9YjkRMgj_aWkkfLA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:25:00"
+  },
+  {
+    "business_name": "Made 4r U Gifts",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, Corporate gift supplier, Engraver, Print shop, Promotional products supplier",
+    "pincode": "456664",
+    "phone_number": "+91 91654 88200",
+    "website": "https://www.m4ugift.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "5/2, beside Chai Sutta Bar, near LIG Gurudwara, LIG Colony, Indore, Madhya Pradesh 452011",
+    "area": "LIG Colony",
+    "latitude": 22.7344619,
+    "longitude": 75.8897326,
+    "place_id": "ChIJa6dvF7b9YjkRfCI0hYxp54k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa6dvF7b9YjkRfCI0hYxp54k",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:25:00"
+  }
+]

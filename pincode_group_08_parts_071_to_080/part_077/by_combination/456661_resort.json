@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandesari Resort - Urban Luxury, Wrapped in Nature",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Amusement park, Wedding venue",
+    "pincode": "456661",
+    "phone_number": "+91 94259 17870",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Ujjain Dewas Rd, Gram, Chandesari, Chandesara, Madhya Pradesh 456006",
+    "area": "Gram",
+    "latitude": 23.1027651,
+    "longitude": 75.8396174,
+    "place_id": "ChIJzRf4_cQMYzkRcUJObUNKomM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzRf4_cQMYzkRcUJObUNKomM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:23:04"
+  },
+  {
+    "business_name": "Lotus Villa",
+    "search_category": "Resort",
+    "primary_category": "Farmstay",
+    "all_categories": "Farmstay",
+    "pincode": "456661",
+    "phone_number": "+91 92022 03546",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Lotus Villa, Lalpur, Nagzhiri, near Ujjain - Garoth Road, Ujjain, Madhya Pradesh 456010",
+    "area": "456661",
+    "latitude": 23.1471959,
+    "longitude": 75.8438714,
+    "place_id": "ChIJfwHPsGFzYzkRNNolR_RoH9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfwHPsGFzYzkRNNolR_RoH9I",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:23:04"
+  }
+]

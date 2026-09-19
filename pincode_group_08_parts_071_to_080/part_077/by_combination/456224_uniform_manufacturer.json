@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divya creation",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing manufacturer",
+    "all_categories": "Clothing manufacturer",
+    "pincode": "456224",
+    "phone_number": "+91 82392 32825",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "Quarter number 142, TRD railway colony, Dayanand Colony, Nagda, Madhya Pradesh 456335",
+    "area": "Dayanand Colony",
+    "latitude": 23.4561435,
+    "longitude": 75.42266649999999,
+    "place_id": "ChIJqbQXpaB1ZDkRZqRTBWK4ZsA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqbQXpaB1ZDkRZqRTBWK4ZsA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:05:01"
+  },
+  {
+    "business_name": "Maa kripa creation",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing wholesaler",
+    "all_categories": "Clothing wholesaler",
+    "pincode": "456224",
+    "phone_number": "+91 96302 83444",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "varco city, 735, in front of varco city water tank, Nagda, Madhya Pradesh 456335",
+    "area": "Dayanand Colony",
+    "latitude": 23.4561435,
+    "longitude": 75.42266649999999,
+    "place_id": "ChIJ47hY5_x1ZDkRLXl-HJZzeSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ47hY5_x1ZDkRLXl-HJZzeSg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:05:02"
+  }
+]

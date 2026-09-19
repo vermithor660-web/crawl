@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Roop Shree beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "456776",
+    "phone_number": "+91 79741 43440",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sadar bazar, Multhan, Madhya Pradesh 454660",
+    "area": "Sadar bazar",
+    "latitude": 23.074055599999998,
+    "longitude": 75.2092977,
+    "place_id": "ChIJ65Vak03pYzkR5_kjbe3XxI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65Vak03pYzkR5_kjbe3XxI4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:34:18"
+  },
+  {
+    "business_name": "Beauty zone",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "456776",
+    "phone_number": "+91 70007 12713",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Beauty zone Mukherji Marg, Badnawar, Badnawar, Madhya Pradesh 454660",
+    "area": "Nayapura",
+    "latitude": 23.02188,
+    "longitude": 75.2343696,
+    "place_id": "ChIJ_-WmK-vDYzkRfI4znTCnPRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_-WmK-vDYzkRfI4znTCnPRk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:34:19"
+  }
+]

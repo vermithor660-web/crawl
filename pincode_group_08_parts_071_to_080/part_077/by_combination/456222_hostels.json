@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Mahalok palace",
+    "search_category": "Hostels",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "456222",
+    "phone_number": "+91 79997 76709",
+    "website": "http://www.hotelmahalokpalace.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Naliya Bakhal, Haripatak Railway Over Brg, Ujjain, Madhya Pradesh 456006",
+    "area": "Anand Ganj, Suraj Nagar",
+    "latitude": 23.1804156,
+    "longitude": 75.77359349999999,
+    "place_id": "ChIJR3gAp7J1YzkRqhq0qmqYEXI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR3gAp7J1YzkRqhq0qmqYEXI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:03:55"
+  },
+  {
+    "business_name": "Rajvrdhan singh jadhav",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "456222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3J83+W85, Girota, Madhya Pradesh 453220",
+    "area": "456222",
+    "latitude": 23.066907999999998,
+    "longitude": 75.60310199999999,
+    "place_id": "ChIJRcSiBACjYzkRCim4T8A0MsM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRcSiBACjYzkRCim4T8A0MsM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:03:56"
+  }
+]

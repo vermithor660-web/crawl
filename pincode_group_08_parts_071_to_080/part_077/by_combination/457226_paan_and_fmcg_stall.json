@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pavecha kirana stores",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "457226",
+    "phone_number": "+91 94240 46622",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Kalaigar Rd, Bharava Kui, Bohra Baakhal, Ratlam, Madhya Pradesh 457001",
+    "area": "Bharava Kui, Bohra Baakhal",
+    "latitude": 23.320759499999998,
+    "longitude": 75.03839789999999,
+    "place_id": "ChIJWyENAh_9YzkRHLdBfb716po",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWyENAh_9YzkRHLdBfb716po",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:44:40"
+  },
+  {
+    "business_name": "Balaji Paan Center",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop",
+    "pincode": "457226",
+    "phone_number": "+91 85628 39513",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 83,
+    "address": "bus station, near RajRatan misthan bhandar, Paloda, Rajasthan 327605",
+    "area": "457226",
+    "latitude": 23.7650945,
+    "longitude": 74.17711369999999,
+    "place_id": "ChIJUd1LL1weZzkRN5OZTi6kzTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUd1LL1weZzkRN5OZTi6kzTY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:44:40"
+  }
+]

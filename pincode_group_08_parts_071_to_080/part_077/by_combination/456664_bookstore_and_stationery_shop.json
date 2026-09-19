@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amit Book centre",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "456664",
+    "phone_number": "+91 98260 51210",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 1224,
+    "address": "near, Nanda Nagar Main Rd, Teen Puliya, Nanda Nagar, Indore, Madhya Pradesh 452011",
+    "area": "Teen Puliya, Nanda Nagar",
+    "latitude": 22.744189,
+    "longitude": 75.8742075,
+    "place_id": "ChIJn-aS5WD9YjkRrhtjKtfWuoI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn-aS5WD9YjkRrhtjKtfWuoI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:25:07"
+  },
+  {
+    "business_name": "B3 Books",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "456664",
+    "phone_number": "N/A",
+    "website": "http://b3books.in/",
+    "rating": 4.1,
+    "reviews_count": 447,
+    "address": "333/8, near tilak nagar School, Savindnagar, Sector A, Tilak Nagar, Indore, Madhya Pradesh 452018",
+    "area": "Savindnagar, Sector A, Tilak Nagar",
+    "latitude": 22.7199468,
+    "longitude": 75.8986513,
+    "place_id": "ChIJR5siQTP9YjkRyoYhLuiPrX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR5siQTP9YjkRyoYhLuiPrX4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:25:07"
+  }
+]

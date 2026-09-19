@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neelam Car Care",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "456771",
+    "phone_number": "+91 99500 79807",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Badnagar Rd, near sampurn tyre, Badnawar, Madhya Pradesh 454660",
+    "area": "456771",
+    "latitude": 23.022413699999998,
+    "longitude": 75.2558289,
+    "place_id": "ChIJO0weQ2XBYzkRMkxilzTTfso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO0weQ2XBYzkRMkxilzTTfso",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:32:07"
+  },
+  {
+    "business_name": "Vishal AUTO GARRAGE CAR REPAIR",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "456771",
+    "phone_number": "+91 80857 73993",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Mid malwa school, Badi Choupati, Badnawar, Madhya Pradesh 454660",
+    "area": "Badi Choupati",
+    "latitude": 23.023148,
+    "longitude": 75.25614089999999,
+    "place_id": "ChIJcQF0ao7BYzkRj3ktHGOSK_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQF0ao7BYzkRj3ktHGOSK_c",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:32:07"
+  }
+]

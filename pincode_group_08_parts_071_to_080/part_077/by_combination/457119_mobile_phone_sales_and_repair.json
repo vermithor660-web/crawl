@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Friends Mobile Repairing Center",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "457119",
+    "phone_number": "+91 87709 67676",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Goshala Rd, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "area": "Laxman Pura",
+    "latitude": 23.324790399999998,
+    "longitude": 75.02870349999999,
+    "place_id": "ChIJ3erBGRz_YzkRV2EJs0daD1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3erBGRz_YzkRV2EJs0daD1s",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:42:11"
+  },
+  {
+    "business_name": "Rajan Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Electronics store",
+    "pincode": "457119",
+    "phone_number": "+91 97528 10260",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Court gate ke samne, Neemuch City Rd, Neemuch, Madhya Pradesh 458441",
+    "area": "457119",
+    "latitude": 24.45516,
+    "longitude": 74.87404169999999,
+    "place_id": "ChIJ0_-sYwBzZjkRw9d1IoCiVZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0_-sYwBzZjkRw9d1IoCiVZQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:42:11"
+  }
+]

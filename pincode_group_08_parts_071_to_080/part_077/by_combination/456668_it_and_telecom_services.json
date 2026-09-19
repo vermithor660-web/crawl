@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Informant Tech Service Pvt. Ltd",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "456668",
+    "phone_number": "+91 88270 33384",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "33 Ram Prasad Bhargav Marg Kannouj wala Building, Ram Prasad Bhargav Marg, Kamri Marg, Ujjain, Madhya Pradesh 456006",
+    "area": "Kamri Marg",
+    "latitude": 23.1904163,
+    "longitude": 75.77263669999999,
+    "place_id": "ChIJd1EcfTp0YzkRqov-pixn5f0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1EcfTp0YzkRqov-pixn5f0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:29:00"
+  },
+  {
+    "business_name": "Citynet Wireless Broadband Service",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Internet service provider",
+    "pincode": "456668",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Madanlal Sharma Marg, Kharakua Colony, Ujjain, Madhya Pradesh 456006",
+    "area": "Kharakua Colony",
+    "latitude": 23.188001399999997,
+    "longitude": 75.7736929,
+    "place_id": "ChIJOyNIIAR1YzkRQjU22sHhKwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOyNIIAR1YzkRQjU22sHhKwY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:29:00"
+  }
+]

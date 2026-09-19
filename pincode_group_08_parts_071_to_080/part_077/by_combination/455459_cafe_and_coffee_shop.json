@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tea Diaries Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop, Fast food restaurant, Vegetarian restaurant",
+    "pincode": "455459",
+    "phone_number": "+91 88895 54488",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 1260,
+    "address": "8/1, Race Course Rd, Race Course Road, Indore, Madhya Pradesh 452003",
+    "area": "Race Course Road",
+    "latitude": 22.728219499999998,
+    "longitude": 75.8772056,
+    "place_id": "ChIJRWPB0kH9YjkRK8tfOB5CBtg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRWPB0kH9YjkRK8tfOB5CBtg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:49:38"
+  },
+  {
+    "business_name": "Ankit Restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant",
+    "pincode": "455459",
+    "phone_number": "+91 96448 84461",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 60,
+    "address": "Punasa Rd, Dhasad, Madhya Pradesh 455459",
+    "area": "455459",
+    "latitude": 22.380533399999997,
+    "longitude": 76.69903169999999,
+    "place_id": "ChIJ_YgpZWJGfTkRR0phhi_qjwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_YgpZWJGfTkRR0phhi_qjwI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:49:40"
+  }
+]

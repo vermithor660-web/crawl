@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pintu Paan Shop & Genral Stores",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "457550",
+    "phone_number": "+91 91624 99471",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "213, Dibour, Bihar 805125",
+    "area": "457550",
+    "latitude": 24.5839771,
+    "longitude": 85.56606719999999,
+    "place_id": "ChIJj3iWWokJ8zkRyz63rSJTAgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj3iWWokJ8zkRyz63rSJTAgU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:57:57"
+  },
+  {
+    "business_name": "Srinu Padala Pan & Cooldrink Shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop",
+    "pincode": "457550",
+    "phone_number": "+91 83748 99226",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "N.K rajapurm, junction, Nandivada Kurmarajapuram, Andhra Pradesh 532440",
+    "area": "457550",
+    "latitude": 18.6004611,
+    "longitude": 83.7672424,
+    "place_id": "ChIJJd73VTVlPDoRFX2dVvfb8ak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJd73VTVlPDoRFX2dVvfb8ak",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:57:57"
+  }
+]

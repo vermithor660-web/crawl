@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalash Jen's Parlour",
+    "search_category": "Spa",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "456770",
+    "phone_number": "+91 76973 54570",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kanardi, Madhya Pradesh 456770",
+    "area": "456770",
+    "latitude": 23.3527141,
+    "longitude": 76.14649039999999,
+    "place_id": "ChIJkd7vUiNdYzkRP2wfXo83GNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkd7vUiNdYzkRP2wfXo83GNk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:30:27"
+  },
+  {
+    "business_name": "Milk Shope",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "456770",
+    "phone_number": "+91 74152 28061",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "56barandwa, Madhya Pradesh 456770",
+    "area": "56barandwa",
+    "latitude": 23.294302,
+    "longitude": 76.1663958,
+    "place_id": "ChIJ9UQlKnZDYzkR6u_KHXQEWKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9UQlKnZDYzkR6u_KHXQEWKA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:30:27"
+  }
+]

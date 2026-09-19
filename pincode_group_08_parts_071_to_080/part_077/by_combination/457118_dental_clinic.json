@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhatt Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "457118",
+    "phone_number": "+91 87705 72301",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "457118, Atal Dwar Main Road, Narayan Bagh, Indore, Tal, Madhya Pradesh 457118",
+    "area": "Narayan Bagh",
+    "latitude": 23.719439899999998,
+    "longitude": 75.38288829999999,
+    "place_id": "ChIJo0eopRptZDkRQDv2wx_TJEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo0eopRptZDkRQDv2wx_TJEU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:39:28"
+  },
+  {
+    "business_name": "Dr Hitesh Pathak",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "457118",
+    "phone_number": "+91 94254 23819",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 11,
+    "address": "Brahman Boarding,Near Gujrati School New, Road, Ratlam, Madhya Pradesh 457001",
+    "area": "Shastri Nagar",
+    "latitude": 23.3316935,
+    "longitude": 75.0434118,
+    "place_id": "ChIJETEbUQ__YzkR4PjXXWPsROU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJETEbUQ__YzkR4PjXXWPsROU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:39:29"
+  }
+]

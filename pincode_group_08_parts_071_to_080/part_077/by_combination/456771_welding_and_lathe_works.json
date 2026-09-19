@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Babu Bhai Welding Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Welder, Welding supply store",
+    "pincode": "456771",
+    "phone_number": "+91 81097 66809",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Agar Rd, Mohan Nagar, Ujjain, Madhya Pradesh 456001",
+    "area": "Mohan Nagar",
+    "latitude": 23.1979304,
+    "longitude": 75.78538259999999,
+    "place_id": "ChIJCa7hARl0YzkRu17i7rnAEtI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCa7hARl0YzkRu17i7rnAEtI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:33:03"
+  },
+  {
+    "business_name": "Uncle Ji Welding Works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "456771",
+    "phone_number": "+91 90092 91552",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Maksi Rd, Panchkuwa, Shankarpur, Ujjain, Madhya Pradesh 456006",
+    "area": "Panchkuwa, Shankarpur",
+    "latitude": 23.1941906,
+    "longitude": 75.8489718,
+    "place_id": "ChIJraM4sQlzYzkRplw7tUav6KY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJraM4sQlzYzkRplw7tUav6KY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:33:04"
+  }
+]

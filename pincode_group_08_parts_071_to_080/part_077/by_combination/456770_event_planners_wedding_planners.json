@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "WoW Events Wedding Planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event planner, Event management company",
+    "pincode": "456770",
+    "phone_number": "+91 98870 00169",
+    "website": "http://www.woweventindia.in/",
+    "rating": 4.6,
+    "reviews_count": 53,
+    "address": "Shri Ram Colony, Nimbahera, Rajasthan 312601",
+    "area": "Shri Ram Colony",
+    "latitude": 24.618572099999998,
+    "longitude": 74.689463,
+    "place_id": "ChIJz4U-w9MWZjkRrgvmQ0iEA8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4U-w9MWZjkRrgvmQ0iEA8U",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:30:36"
+  },
+  {
+    "business_name": "Mishra Events & Wedding Planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "456770",
+    "phone_number": "+91 92592 40090",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Purani fafond road, near bhole shankar temple infront of sahkari sangh, Sardar Bazar, Hashmat Nagar, Auraiya, Uttar Pradesh 206122",
+    "area": "Sardar Bazar, Hashmat Nagar",
+    "latitude": 26.465882,
+    "longitude": 79.5152111,
+    "place_id": "ChIJPeqImQPznTkRLdkrVYMc8BM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPeqImQPznTkRLdkrVYMc8BM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:30:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D.P. Silver",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "457114",
+    "phone_number": "N/A",
+    "website": "http://www.dpsilver.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "19, Chandni Chowk, Bharava Kui, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "area": "Bharava Kui, Laxman Pura",
+    "latitude": 23.321445699999998,
+    "longitude": 75.03545629999999,
+    "place_id": "ChIJmeijUCv9YzkRCQRA8zC6cqs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmeijUCv9YzkRCQRA8zC6cqs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:37:26"
+  },
+  {
+    "business_name": "SRH | The House Of Silver",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "457114",
+    "phone_number": "+91 92326 89092",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "51, ghas bazaar, opp. Rashtriya vidhyapith school, Bharava Kui, Bohra Baakhal, Ratlam, Madhya Pradesh 457001",
+    "area": "Bharava Kui, Bohra Baakhal",
+    "latitude": 23.3214519,
+    "longitude": 75.0372766,
+    "place_id": "ChIJ20XddJf9YzkRMoyEJWk1nvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ20XddJf9YzkRMoyEJWk1nvk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:37:26"
+  }
+]

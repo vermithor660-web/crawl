@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky Footwear And Papad Achar",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "457119",
+    "phone_number": "+91 88271 45037",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Alot Rd, Tal, Nipaniya Leela, Madhya Pradesh 457119",
+    "area": "457119",
+    "latitude": 23.6590448,
+    "longitude": 75.4638763,
+    "place_id": "ChIJNSLhBmJtZDkRSM6CyACIafo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNSLhBmJtZDkRSM6CyACIafo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:40:52"
+  },
+  {
+    "business_name": "Agrawal Provin Bhandar",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "457119",
+    "phone_number": "+91 99269 92606",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Dilbhar,choraha, Station Rd, Ratlam, Madhya Pradesh 457001",
+    "area": "457119",
+    "latitude": 23.3367541,
+    "longitude": 75.05088359999999,
+    "place_id": "ChIJixGENo3_YzkRECeuC4t_w7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJixGENo3_YzkRECeuC4t_w7s",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:40:55"
+  }
+]

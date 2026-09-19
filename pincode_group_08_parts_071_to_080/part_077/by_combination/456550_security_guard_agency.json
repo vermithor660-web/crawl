@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijaya Security and Allied Services Pvt Ltd",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "456550",
+    "phone_number": "+91 88998 81637",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Road A/2, Harish Chandra Nagar, Dhelwan Main Rd, near Sahara Sandhya Hospital, Patna, Bihar 800030",
+    "area": "New Etwarpur, Sipara",
+    "latitude": 25.5803308,
+    "longitude": 85.1310592,
+    "place_id": "ChIJ15zLR0qn8jkRC_rw-RHPapE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ15zLR0qn8jkRC_rw-RHPapE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:21:31"
+  },
+  {
+    "business_name": "KKAG Security Services Pvt Ltd",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security service",
+    "all_categories": "Security service",
+    "pincode": "456550",
+    "phone_number": "+91 78709 55768",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 17,
+    "address": "Abhinav Mansion, 86,North Side, Jai Prakash Nagar, Patna, Bihar 800025",
+    "area": "Jai Prakash Nagar, AG Colony",
+    "latitude": 25.619181899999997,
+    "longitude": 85.08692769999999,
+    "place_id": "ChIJVfLWVh1X7TkR0V9IQplk8oY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVfLWVh1X7TkR0V9IQplk8oY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:21:31"
+  }
+]

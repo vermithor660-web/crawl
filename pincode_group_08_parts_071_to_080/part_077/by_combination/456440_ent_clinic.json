@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Amit Patidar",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Doctor, Medical clinic, Surgeon",
+    "pincode": "456440",
+    "phone_number": "+91 94259 85259",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 321,
+    "address": "Satsang Sagar Apartment, 102, main gate, opposite SICA School Road, above lenskart showroom, Vijay Nagar, Scheme No 74, Scheme No 54, Indore, Madhya Pradesh 452010",
+    "area": "Vijay Nagar, Scheme No 74, Scheme No 54",
+    "latitude": 22.7562511,
+    "longitude": 75.8906219,
+    "place_id": "ChIJfQlTNWQDYzkRe3xUvDDU7q0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfQlTNWQDYzkRe3xUvDDU7q0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:14:49"
+  },
+  {
+    "business_name": "KRIYANSH E.N.T CLINIC Dr. CHITRANJAN KUMAR, MBBS ,M.S ENT (PMCH )",
+    "search_category": "ENT Clinic",
+    "primary_category": "Otolaryngology clinic",
+    "all_categories": "Otolaryngology clinic",
+    "pincode": "456440",
+    "phone_number": "+91 94719 49132",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 59,
+    "address": "Yaddu Bhawan, Dariyapur Rd, Kurthoul, Patna, Nathupur, Bihar 804453",
+    "area": "Kurthoul",
+    "latitude": 25.5595023,
+    "longitude": 85.1234894,
+    "place_id": "ChIJ3RzjARen8jkRtyPz0HG4HxU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3RzjARen8jkRtyPz0HG4HxU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:14:49"
+  }
+]

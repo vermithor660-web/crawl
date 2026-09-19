@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Insurance point",
+    "search_category": "Insurance Agent",
+    "primary_category": "Health insurance agency",
+    "all_categories": "Health insurance agency",
+    "pincode": "457222",
+    "phone_number": "N/A",
+    "website": "https://sites.google.com/view/insurance-point01/home",
+    "rating": null,
+    "reviews_count": null,
+    "address": "365, Tower Road, Industrial Area Ratlam, Gandhi Nagar, Ratlam, Madhya Pradesh 457001",
+    "area": "Industrial Area Ratlam, Gandhi Nagar",
+    "latitude": 23.354867499999997,
+    "longitude": 75.0498455,
+    "place_id": "ChIJN-EgUlD_YzkRUKbU65uR2Dc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN-EgUlD_YzkRUKbU65uR2Dc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:44:06"
+  },
+  {
+    "business_name": "Star Health & Allied Insurance - Bank Colony, Ratlam",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Health insurance agency, Insurance company",
+    "pincode": "457222",
+    "phone_number": "+91 74124 03757",
+    "website": "https://www.starhealth.in/?utm_source=gmb&utm_medium=organic&utm_campaign=homepageclicks",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2nd Floor, Nazar Bagh, 03, Palace Rd, opp. Essar Petrol Pump, Bank Colony, Shastri Nagar, Ratlam, Madhya Pradesh 457001",
+    "area": "Bank Colony, Shastri Nagar",
+    "latitude": 23.325088299999997,
+    "longitude": 75.0427346,
+    "place_id": "ChIJuTZIl9D_YzkRuZeTflTQlNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuTZIl9D_YzkRuZeTflTQlNs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:44:06"
+  }
+]

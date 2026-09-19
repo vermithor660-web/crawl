@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandra Enterprise",
+    "search_category": "Generator Sales and Rental",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, FMCG Goods Wholesaler",
+    "pincode": "457118",
+    "phone_number": "+91 94251 03432",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Karamdi Rd, near Mahavir Fuels, Ratlam, Madhya Pradesh 457001",
+    "area": "457118",
+    "latitude": 23.3097904,
+    "longitude": 75.03919599999999,
+    "place_id": "ChIJ6cpBpp39YzkRteQLZePKX2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6cpBpp39YzkRteQLZePKX2M",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:40:38"
+  },
+  {
+    "business_name": "Jagmag Generators",
+    "search_category": "Generator Sales and Rental",
+    "primary_category": "Electric generator shop",
+    "all_categories": "Electric generator shop",
+    "pincode": "457118",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "82FW+CQR, Mochi Pura, Shastri Nagar, Ratlam, Madhya Pradesh 457001",
+    "area": "Mochi Pura, Shastri Nagar",
+    "latitude": 23.323609599999997,
+    "longitude": 75.0468899,
+    "place_id": "ChIJiwjJDAD_YzkROMHWB7mYThA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiwjJDAD_YzkROMHWB7mYThA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:40:41"
+  }
+]

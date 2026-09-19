@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Patel Exim",
+    "search_category": "EXIMS",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "456006",
+    "phone_number": "+91 74155 53664",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6XC4+RM7, Bhaisuni, Madhya Pradesh 455001",
+    "area": "456006",
+    "latitude": 23.222065,
+    "longitude": 75.95667,
+    "place_id": "ChIJJ2b6PABvYzkRZQEcc3KwDkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2b6PABvYzkRZQEcc3KwDkM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:58:50"
+  },
+  {
+    "business_name": "Osmed Formulations Pvt. Ltd.",
+    "search_category": "EXIMS",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company",
+    "pincode": "456006",
+    "phone_number": "+91 734 251 3239",
+    "website": "http://www.osmedformulations.com/",
+    "rating": 3.7,
+    "reviews_count": 11,
+    "address": "56 - 57, Maxi Road, Neemanwasa, Industrial Area, Agrasen Nagar, Ujjain, Madhya Pradesh 456010",
+    "area": "Neemanwasa, Industrial Area, Agrasen Nagar",
+    "latitude": 23.175032299999998,
+    "longitude": 75.81385379999999,
+    "place_id": "ChIJ25H5Qo9zYzkR8TPW0ly0wKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ25H5Qo9zYzkR8TPW0ly0wKg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:58:51"
+  }
+]

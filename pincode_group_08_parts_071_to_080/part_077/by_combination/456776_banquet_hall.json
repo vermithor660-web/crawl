@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Dharamshala",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "456776",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "26FM+3J8, Sardar Patel Marg, Badnawar, Madhya Pradesh 454660",
+    "area": "456776",
+    "latitude": 23.0226634,
+    "longitude": 75.2340717,
+    "place_id": "ChIJecvNpjHCYzkRK3r56NfAqiU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJecvNpjHCYzkRK3r56NfAqiU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:34:23"
+  },
+  {
+    "business_name": "Maheshwaram",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "456776",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "26FX+846, Badi Choupati, Badnawar, Madhya Pradesh 454660",
+    "area": "Badi Choupati",
+    "latitude": 23.0232969,
+    "longitude": 75.2477589,
+    "place_id": "ChIJDbq4XQDDYzkRauSlRnj2oGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDbq4XQDDYzkRauSlRnj2oGE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:34:23"
+  }
+]

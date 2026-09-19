@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taxi cab & car Rental mandsaur",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service",
+    "pincode": "457331",
+    "phone_number": "+91 95897 47017",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "BPL Chauraha,sai mandir texi stand, Mandsaur, Madhya Pradesh 458001",
+    "area": "Baser Colony, Police Colony",
+    "latitude": 24.072077,
+    "longitude": 75.071331,
+    "place_id": "ChIJM6It91QtZDkRnt_6LZj1wuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM6It91QtZDkRnt_6LZj1wuc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:47:13"
+  },
+  {
+    "business_name": "Jay Shri Mahakal Travels Ratlam",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "457331",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "82VP+WXP Jay Shri Mahakal Travels, Indira Nagar, Ratlam, Madhya Pradesh 457001",
+    "area": "Indira Nagar",
+    "latitude": 23.3448393,
+    "longitude": 75.0374449,
+    "place_id": "ChIJN2R6XIn_YzkR55Us1cXBIZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN2R6XIn_YzkR55Us1cXBIZY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:47:15"
+  }
+]

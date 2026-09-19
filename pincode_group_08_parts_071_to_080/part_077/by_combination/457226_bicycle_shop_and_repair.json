@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Global E-bike",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electric motor store",
+    "all_categories": "Electric motor store",
+    "pincode": "457226",
+    "phone_number": "+91 89826 01552",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Survey No. 392 Gram Bamankhedi, Jaora, Madhya Pradesh 457226",
+    "area": "457226",
+    "latitude": 23.6535147,
+    "longitude": 75.14197659999999,
+    "place_id": "ChIJgR_Lqv8bZDkRLizumdhUdQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgR_Lqv8bZDkRLizumdhUdQ0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:45:19"
+  },
+  {
+    "business_name": "Shree Charbhuja Cycles",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "457226",
+    "phone_number": "+91 80035 40550",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 15,
+    "address": "Udaipur Road, in front of Insdusind Bank, RSEB Circle, Raza Colony, Sri Nath Nagar, Nimbahera, Rajasthan 312601",
+    "area": "RSEB Circle, Raza Colony, Sri Nath Nagar",
+    "latitude": 24.6187291,
+    "longitude": 74.67654519999999,
+    "place_id": "ChIJf914HOsXZjkRpkUGGigoMD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf914HOsXZjkRpkUGGigoMD8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:45:20"
+  }
+]

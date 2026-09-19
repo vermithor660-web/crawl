@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Solid Fitness Hub NX",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "457114",
+    "phone_number": "+91 96447 45227",
+    "website": "http://www.solidfitnesshub.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Friganj road, Do Batti Rd, Ratlam, Madhya Pradesh 457001",
+    "area": "457114",
+    "latitude": 23.333615299999998,
+    "longitude": 75.0459501,
+    "place_id": "ChIJraL6d0X_YzkR6_wOPxuWVXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJraL6d0X_YzkR6_wOPxuWVXM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:37:42"
+  },
+  {
+    "business_name": "FITNESS WORLD JAORA GYM",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "457114",
+    "phone_number": "+91 94066 86699",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 50,
+    "address": "Fitness World, Gym, Jaora, Madhya Pradesh 457226",
+    "area": "457114",
+    "latitude": 23.6349636,
+    "longitude": 75.1226756,
+    "place_id": "ChIJicurQd8bZDkRf8hxazNcbgg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJicurQd8bZDkRf8hxazNcbgg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:37:42"
+  }
+]

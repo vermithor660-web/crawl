@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Chemist",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store",
+    "pincode": "456313",
+    "phone_number": "+91 99073 25566",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "vasawada petrol pump tower, Near, freeganj, Ujjain, Madhya Pradesh 456010",
+    "area": "freeganj, Madhav Nagar",
+    "latitude": 23.1785155,
+    "longitude": 75.7885226,
+    "place_id": "ChIJAwLm5Wt0YzkRC530-_9K9a0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwLm5Wt0YzkRC530-_9K9a0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:06:57"
+  },
+  {
+    "business_name": "madhopura",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "456313",
+    "phone_number": "N/A",
+    "website": "http://mp.gov.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "47RG+HR8, Madhopura, Madhya Pradesh 456776",
+    "area": "456313",
+    "latitude": 23.1414051,
+    "longitude": 75.2770721,
+    "place_id": "ChIJu1jOKv3rYzkR86hP36I2e1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu1jOKv3rYzkR86hP36I2e1M",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:06:59"
+  }
+]

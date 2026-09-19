@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sawariya Power",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store",
+    "pincode": "456776",
+    "phone_number": "+91 97702 89201",
+    "website": "https://sawariyapower.ueniweb.com/?utm_campaign=gmb",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kavikalidas Path, Barnagar, Madhya Pradesh 456771",
+    "area": "456776",
+    "latitude": 23.046803699999998,
+    "longitude": 75.37823709999999,
+    "place_id": "ChIJC6xUbkG_YzkRUDb88b13Occ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC6xUbkG_YzkRUDb88b13Occ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:34:05"
+  },
+  {
+    "business_name": "Kamdar Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Electronics store",
+    "pincode": "456776",
+    "phone_number": "+91 93019 59515",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near IDBI Bank, Vyas Colony, Barnagar, Badnagar Kasba, Madhya Pradesh 456771",
+    "area": "Vyas Colony",
+    "latitude": 23.0445621,
+    "longitude": 75.374048,
+    "place_id": "ChIJRxgcf76_YzkR6dS5KMrwFQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxgcf76_YzkR6dS5KMrwFQw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:34:05"
+  }
+]

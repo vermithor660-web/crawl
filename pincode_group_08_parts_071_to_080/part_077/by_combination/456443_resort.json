@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Royal Villa & Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "456443",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8RQW+XQ8, Najarpur, Madhya Pradesh 456550",
+    "area": "456443",
+    "latitude": 23.3399076,
+    "longitude": 75.8469429,
+    "place_id": "ChIJFYUsQgB7YzkR4xH9y42wctk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFYUsQgB7YzkR4xH9y42wctk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:19:10"
+  },
+  {
+    "business_name": "Fusion Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Banquet hall, Conference center, Garden, Marriage celebrant, Restaurant, Swimming pool",
+    "pincode": "456443",
+    "phone_number": "+91 99930 26800",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Sanwer, Indore - Ujjain Rd, near Shishu Kunj School, Barodiya Ema, Indore, Madhya Pradesh 453551",
+    "area": "456443",
+    "latitude": 22.854606999999998,
+    "longitude": 75.8514418,
+    "place_id": "ChIJg9cd8BoFYzkRy4UePlF5ZJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg9cd8BoFYzkRy4UePlF5ZJE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:19:12"
+  }
+]

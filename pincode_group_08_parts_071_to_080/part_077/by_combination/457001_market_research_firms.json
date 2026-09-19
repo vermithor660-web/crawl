@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "msrbiz",
+    "search_category": "Market Research Firms",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Health consultant, Herbal medicine store",
+    "pincode": "457001",
+    "phone_number": "+91 86599 00567",
+    "website": "http://www.msrbiz.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "flat:3, navkar aparttment ,, shivpur compound ,,, do batti road, Ratlam, Madhya Pradesh 457001",
+    "area": "Shastri Nagar",
+    "latitude": 23.332793,
+    "longitude": 75.04637799999999,
+    "place_id": "ChIJJ4Vv4KT-YzkRNASAS-QdZUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ4Vv4KT-YzkRNASAS-QdZUs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:37:03"
+  },
+  {
+    "business_name": "RC Market Analytics Pvt. Ltd.",
+    "search_category": "Market Research Firms",
+    "primary_category": "Market researcher",
+    "all_categories": "Market researcher",
+    "pincode": "457001",
+    "phone_number": "+91 98936 85690",
+    "website": "https://www.researchcorridor.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "B-16, Poonam Vihar Colony Rd, Alkapuri, Ratlam, Madhya Pradesh 457001",
+    "area": "Alkapuri",
+    "latitude": 23.3472959,
+    "longitude": 75.0376483,
+    "place_id": "ChIJjSHxKXYDdTkRZUhT_dPy_JE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjSHxKXYDdTkRZUhT_dPy_JE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:37:03"
+  }
+]

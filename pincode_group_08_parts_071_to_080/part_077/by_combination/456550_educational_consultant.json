@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul Sharma's Engineering club",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "456550",
+    "phone_number": "+91 96177 40125",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "GW5V+CM3, Pipliya Rd, Singh Puri, Parsoli, Madhya Pradesh 456550",
+    "area": "Singh Puri",
+    "latitude": 23.5085187,
+    "longitude": 75.9441858,
+    "place_id": "ChIJHwAF8HidZDkRe-jB5WL3dGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHwAF8HidZDkRe-jB5WL3dGI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:21:17"
+  },
+  {
+    "business_name": "Shreeji Studio",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "456550",
+    "phone_number": "+91 91795 93897",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "in front of Court, Nayapura, Tarana, Madhya Pradesh 456665",
+    "area": "Nayapura",
+    "latitude": 23.329705399999998,
+    "longitude": 76.04151499999999,
+    "place_id": "ChIJnSwR2UpnYzkRpwkTC1wlHLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnSwR2UpnYzkRpwkTC1wlHLw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:21:17"
+  }
+]

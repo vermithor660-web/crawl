@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manish balloon decor",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Service establishment",
+    "pincode": "456771",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Manish balloon decor, 456771, India",
+    "area": "456771",
+    "latitude": 22.723972699999997,
+    "longitude": 75.86384989999999,
+    "place_id": "ChIJE11IyJ_9YjkRVgnHYzdvs6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE11IyJ_9YjkRVgnHYzdvs6g",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:32:32"
+  },
+  {
+    "business_name": "Decoration Wala",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "456771",
+    "phone_number": "+91 89829 36667",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CRPF Rd, Nagar Palika Colony, Neemuch Chawni, Neemuch, Madhya Pradesh 458441",
+    "area": "Nagar Palika Colony, Neemuch Chawni",
+    "latitude": 24.463991999999998,
+    "longitude": 74.8636941,
+    "place_id": "ChIJG9PIOylzZjkRO_aI3AoBrn0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9PIOylzZjkRO_aI3AoBrn0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:32:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Watch & Electronics",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Cell phone accessory store, Watch repair service",
+    "pincode": "456664",
+    "phone_number": "+91 98267 62860",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "390, Mahatma Gandhi Rd, Bada Ganpati, Mandir, Indore, Madhya Pradesh 452002",
+    "area": "Bada Ganpati, Mandir",
+    "latitude": 22.7202523,
+    "longitude": 75.84217129999999,
+    "place_id": "ChIJEZRiXG39YjkRjCBiNxSS5SQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEZRiXG39YjkRjCBiNxSS5SQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:24:12"
+  },
+  {
+    "business_name": "Metro Watch Company",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "456664",
+    "phone_number": "+91 98932 84843",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Varruchi Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010",
+    "area": "Freeganj, Madhav Nagar",
+    "latitude": 23.1773201,
+    "longitude": 75.79021329999999,
+    "place_id": "ChIJjTj2REN1YzkRPA6CyGpnBic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjTj2REN1YzkRPA6CyGpnBic",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:24:14"
+  }
+]

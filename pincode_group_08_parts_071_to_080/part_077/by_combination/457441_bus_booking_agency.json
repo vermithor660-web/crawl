@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "बस स्टाप",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "457441",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "52X2+RWC, Undwa, Madhya Pradesh 457001",
+    "area": "457441",
+    "latitude": 23.199564199999998,
+    "longitude": 75.0022529,
+    "place_id": "ChIJr5BueznjYzkRQq-GLS7xhjs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr5BueznjYzkRQq-GLS7xhjs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:56:42"
+  },
+  {
+    "business_name": "AARAMBH ONLINE AND STATIONARY",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Kiosk",
+    "all_categories": "Kiosk, Stationery store, Railway Ticket Agent",
+    "pincode": "457441",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "Panchayat ke pas, Bilpank, Madhya Pradesh 457441",
+    "area": "457441",
+    "latitude": 23.2266329,
+    "longitude": 75.1429972,
+    "place_id": "ChIJabGHf6vlYzkRmlnDV1ZzJF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJabGHf6vlYzkRmlnDV1ZzJF4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:56:42"
+  }
+]

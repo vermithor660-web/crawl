@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Rukmani Traders",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "457340",
+    "phone_number": "+91 83700 59505",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Holi Hanumanji Road, Maota Rd, Madhya Pradesh 457340",
+    "area": "457340",
+    "latitude": 23.7806163,
+    "longitude": 74.97632589999999,
+    "place_id": "ChIJT6UAgUghZDkRTo9SD78b7lg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6UAgUghZDkRTo9SD78b7lg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:54:03"
+  },
+  {
+    "business_name": "Bajrang bazar kalukheda",
+    "search_category": "Departmental Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "457340",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "P2GR+C8F, Kalukheda, Madhya Pradesh 457340",
+    "area": "457340",
+    "latitude": 23.7260615,
+    "longitude": 75.040801,
+    "place_id": "ChIJn_7RnlgfZDkRfLjhBko9RVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn_7RnlgfZDkRfLjhBko9RVo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:54:05"
+  }
+]

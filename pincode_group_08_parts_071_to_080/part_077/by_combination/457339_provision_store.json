@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apna Medical And General Store,Ranayara",
+    "search_category": "Provision Store",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "457339",
+    "phone_number": "+91 97553 75217",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, near Balaji Mandir, Ranayara, Jaora, Madhya Pradesh 457340",
+    "area": "457339",
+    "latitude": 23.7900328,
+    "longitude": 75.0154292,
+    "place_id": "ChIJabx8UVwhZDkRt5vFarj4bMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJabx8UVwhZDkRt5vFarj4bMs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:52:15"
+  },
+  {
+    "business_name": "Sawariya Kangan And General Store",
+    "search_category": "Provision Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "457339",
+    "phone_number": "+91 88276 34572",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "road, Gandhi choraha, Kanser, Kalukheda, Madhya Pradesh 457340",
+    "area": "457339",
+    "latitude": 23.7257209,
+    "longitude": 75.0406459,
+    "place_id": "ChIJc53sNcofZDkR28fZrvUmVGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc53sNcofZDkR28fZrvUmVGc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:52:15"
+  }
+]

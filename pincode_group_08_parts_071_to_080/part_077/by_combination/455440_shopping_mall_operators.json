@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Capital Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "455440",
+    "phone_number": "+91 755 668 0021",
+    "website": "http://www.capitalmalls.co.in/",
+    "rating": 3.8,
+    "reviews_count": 13086,
+    "address": "5F79+PCG, Narmadapuram Rd, Misrod, Bhopal, Madhya Pradesh 462047",
+    "area": "Misrod",
+    "latitude": 23.1643231,
+    "longitude": 77.46857349999999,
+    "place_id": "ChIJgR01iv9DfDkRgFyYYABcoz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgR01iv9DfDkRgFyYYABcoz4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:49:15"
+  },
+  {
+    "business_name": "Aura Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "455440",
+    "phone_number": "N/A",
+    "website": "http://www.auramall.in/",
+    "rating": 3.8,
+    "reviews_count": 15049,
+    "address": "E-8, Trilanga Main Rd, Gulmohar, Arera Colony, Bhopal, Madhya Pradesh 462039",
+    "area": "Gulmohar, Arera Colony",
+    "latitude": 23.189086099999997,
+    "longitude": 77.4337776,
+    "place_id": "ChIJ_y2eFqNDfDkRHH8kUmHWngw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_y2eFqNDfDkRHH8kUmHWngw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:49:15"
+  }
+]

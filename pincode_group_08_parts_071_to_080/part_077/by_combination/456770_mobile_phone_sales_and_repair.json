@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mobile Care",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "456770",
+    "phone_number": "+91 77249 29042",
+    "website": "http://www.mobilecare.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Central jail ke saamne, 117, Main Road, Bhairavgarh, Ujjain, Ganesh Nagar, Madhya Pradesh 456003",
+    "area": "Bhairavgarh",
+    "latitude": 23.2227973,
+    "longitude": 75.7739934,
+    "place_id": "ChIJTzEbe2V3YzkRvQtwPSSVdcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTzEbe2V3YzkRvQtwPSSVdcM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:30:53"
+  },
+  {
+    "business_name": "Ritesh Mobile Repairing",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "456770",
+    "phone_number": "+91 99777 44616",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 9,
+    "address": "5QHR+M6V, Shahid Park, Ujjain, Madhya Pradesh 456010",
+    "area": "Freeganj, Madhav Nagar",
+    "latitude": 23.179237,
+    "longitude": 75.7905569,
+    "place_id": "ChIJ1SrYQWx0YzkReM-kV7XifU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1SrYQWx0YzkReM-kV7XifU4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:30:57"
+  }
+]

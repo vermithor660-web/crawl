@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Choice Ever Fresh & General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "456222",
+    "phone_number": "+91 98275 45410",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "65, Dewas Road, Nagziri, Ujjain, Madhya Pradesh 456010",
+    "area": "Nagziri",
+    "latitude": 23.1476616,
+    "longitude": 75.81483759999999,
+    "place_id": "ChIJi7pPWGRzYzkRK6rs5GjTQ70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi7pPWGRzYzkRK6rs5GjTQ70",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:02:54"
+  },
+  {
+    "business_name": "Shree sanjay kirana",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "456222",
+    "phone_number": "+91 96693 43624",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "69FM+6RR, Kharsodkalan, Madhya Pradesh 456222",
+    "area": "456222",
+    "latitude": 23.2230244,
+    "longitude": 75.3845422,
+    "place_id": "ChIJpzd6z6GTYzkRRHBX2pTTSos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpzd6z6GTYzkRRHBX2pTTSos",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:02:54"
+  }
+]

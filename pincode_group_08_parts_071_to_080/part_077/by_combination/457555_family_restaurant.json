@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Annapurna Restaurant 🍲",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "457555",
+    "phone_number": "+91 81030 91577",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ratlam - Banswara Rd, Badi, Sarwan, Madhya Pradesh 457550",
+    "area": "Badi",
+    "latitude": 23.4862899,
+    "longitude": 74.8241886,
+    "place_id": "ChIJBSwZP8utZjkRa7w0nQ0zUQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBSwZP8utZjkRa7w0nQ0zUQQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:00:01"
+  },
+  {
+    "business_name": "Krishna Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "457555",
+    "phone_number": "+91 97547 39438",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Teja Nagar, Ratlam, Madhya Pradesh 457001",
+    "area": "Teja Nagar",
+    "latitude": 23.3145034,
+    "longitude": 75.0370073,
+    "place_id": "ChIJvQpKG5b9YzkRIo4b3ZiZv_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQpKG5b9YzkRIo4b3ZiZv_4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:00:05"
+  }
+]

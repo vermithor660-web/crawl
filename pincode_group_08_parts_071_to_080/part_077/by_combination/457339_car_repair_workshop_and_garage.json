@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KUMAWAT AUTO GARAGE",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Two Wheeler Repair Shop",
+    "pincode": "457339",
+    "phone_number": "+91 81091 56171",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 00, Mawta Road, Ranayara, Madhya Pradesh 457340",
+    "area": "457339",
+    "latitude": 23.788864,
+    "longitude": 75.0144372,
+    "place_id": "ChIJkcjTUQAhZDkRKns_hMi565s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkcjTUQAhZDkRKns_hMi565s",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:52:49"
+  },
+  {
+    "business_name": "M K Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "457339",
+    "phone_number": "+91 98930 89927",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "828F+CX2 M K Auto Garage, Sankar Gadh, Ratlam, Madhya Pradesh 457001",
+    "area": "Sankar Gadh",
+    "latitude": 23.3160149,
+    "longitude": 75.02488509999999,
+    "place_id": "ChIJVcNOVin9YzkRLC2ygSlkoS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVcNOVin9YzkRLC2ygSlkoS4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:52:50"
+  }
+]

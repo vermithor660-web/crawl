@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Datar Durbar",
+    "search_category": "PG",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "456665",
+    "phone_number": "+91 83052 41888",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Tarana Road, Ward No 11, Tarana, Madhya Pradesh 456665",
+    "area": "456665",
+    "latitude": 23.3322115,
+    "longitude": 76.0375226,
+    "place_id": "ChIJ2xKFFi1mYzkRWOG841OkniA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2xKFFi1mYzkRWOG841OkniA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:26:51"
+  },
+  {
+    "business_name": "PG Accounting services ltd",
+    "search_category": "PG",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm",
+    "pincode": "456665",
+    "phone_number": "+91 91094 49059",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "jain mandir road, Maksi, Madhya Pradesh 465106",
+    "area": "456665",
+    "latitude": 23.2594192,
+    "longitude": 76.14648849999999,
+    "place_id": "ChIJFZosMpFDYzkRW1DO4_cpegk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZosMpFDYzkRW1DO4_cpegk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:26:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhatiya Finance Lone Centre",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "456443",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "New Buastend Dr Bhimrav Bambedkar Jharda Madhay Pradesh 456441 Jharda Mahidpur, Ujjain, Madhya Pradesh 456441",
+    "area": "456443",
+    "latitude": 23.605349,
+    "longitude": 75.72318109999999,
+    "place_id": "ChIJPWDFzcuHZDkRDPItHs_Z6AE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPWDFzcuHZDkRDPItHs_Z6AE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:18:37"
+  },
+  {
+    "business_name": "Platinum Gym & Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "456443",
+    "phone_number": "+91 89796 95250",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 52,
+    "address": "Punjabi Colony, Ujhani, Uttar Pradesh 243639",
+    "area": "Punjabi Colony",
+    "latitude": 28.002481699999997,
+    "longitude": 79.0143823,
+    "place_id": "ChIJ3T3kl344dTkRikmpSz_g-XI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3T3kl344dTkRikmpSz_g-XI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:18:38"
+  }
+]

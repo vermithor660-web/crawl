@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goyal Traders",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "455459",
+    "phone_number": "+91 99936 33945",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 14,
+    "address": "GMJQ+26Q, Unnamed Rd, Satwas, Madhya Pradesh 455459",
+    "area": "455459",
+    "latitude": 22.5300907,
+    "longitude": 76.68811649999999,
+    "place_id": "ChIJtS0qhng5fTkRQQXzVwqo6T0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtS0qhng5fTkRQQXzVwqo6T0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:51:54"
+  },
+  {
+    "business_name": "Mahir Mobile Repairing Shop",
+    "search_category": "Shops",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "455459",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Ward No 10, Satwas, Madhya Pradesh 455459",
+    "area": "455459",
+    "latitude": 22.5342295,
+    "longitude": 76.6861814,
+    "place_id": "ChIJVZ_njBk5fTkRnDFEaKYuZVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVZ_njBk5fTkRnDFEaKYuZVY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:51:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Panchal Online centre & Photo Frame",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "457340",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Janta Colony, Jaora, Madhya Pradesh 457226",
+    "area": "Janta Colony",
+    "latitude": 23.640949799999998,
+    "longitude": 75.13266229999999,
+    "place_id": "ChIJAwoGUgAbZDkRZaxs0rW-ANk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwoGUgAbZDkRZaxs0rW-ANk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:55:24"
+  },
+  {
+    "business_name": "Laptop Store Indore",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Used computer store",
+    "pincode": "457340",
+    "phone_number": "+91 90747 98058",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 62,
+    "address": "172, Nehru Nagar, Patni Pura, Indore, Madhya Pradesh 452001",
+    "area": "Nehru Nagar, Patni Pura",
+    "latitude": 22.7386569,
+    "longitude": 75.88236619999999,
+    "place_id": "ChIJdbKlD3f9YjkRNkA5UxDlfbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdbKlD3f9YjkRNkA5UxDlfbo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:55:25"
+  }
+]

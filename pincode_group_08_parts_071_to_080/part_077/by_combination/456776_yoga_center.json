@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky Fitness gym",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "456776",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 24,
+    "address": "437, Verco City, Badnawar, Madhya Pradesh 454660",
+    "area": "Verco City",
+    "latitude": 23.01597,
+    "longitude": 75.237659,
+    "place_id": "ChIJJW6KfQDDYzkRfYOmAsRWoXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJW6KfQDDYzkRfYOmAsRWoXo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:33:53"
+  },
+  {
+    "business_name": "Yogi house",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "456776",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "67H9+CPR, Sinod Rd, Nauganwa, Sinod, Madhya Pradesh 457441",
+    "area": "456776",
+    "latitude": 23.2286099,
+    "longitude": 75.26925949999999,
+    "place_id": "ChIJLxMRp3LtYzkRg5E4hs4WZ3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLxMRp3LtYzkRg5E4hs4WZ3Q",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:33:53"
+  }
+]

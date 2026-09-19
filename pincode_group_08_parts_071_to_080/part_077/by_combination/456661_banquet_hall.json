@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manjushree Hotel and Marriage Garden",
+    "search_category": "Banquet Hall",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "456661",
+    "phone_number": "+91 90099 96131",
+    "website": "http://www.aceotel.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "R.K. Dreams Colony, Hamukhedi, Ujjain Dewas Rd, Abhilasha Colony, Ujjain, Madhya Pradesh 456010",
+    "area": "Abhilasha Colony",
+    "latitude": 23.1283449,
+    "longitude": 75.82429909999999,
+    "place_id": "ChIJV4RxkGVzYzkRXAP4kQBMpqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4RxkGVzYzkRXAP4kQBMpqY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:22:56"
+  },
+  {
+    "business_name": "Vatsalya Kuti",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall, Event venue, Live music venue, Wedding venue",
+    "pincode": "456661",
+    "phone_number": "+91 94253 32579",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "A-17, Ujjain Dewas Rd, Abhilasha A Sector, A-Sector, Abhilasha Colony, Ujjain, Madhya Pradesh 456010",
+    "area": "Abhilasha A Sector, A-Sector, Abhilasha Colony",
+    "latitude": 23.1316637,
+    "longitude": 75.82593899999999,
+    "place_id": "ChIJpxfzM1hzYzkRXAOFMFg6n1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpxfzM1hzYzkRXAOFMFg6n1c",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:22:57"
+  }
+]

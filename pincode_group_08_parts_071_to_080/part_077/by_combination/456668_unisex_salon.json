@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Hair Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "456668",
+    "phone_number": "+91 74890 25280",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sanjay Pan Mandir Ke Pass, Bus Stand, Ujjain - Agar Rd, nearby Yatri Pratikshlay, Tanodiya, Agar, Madhya Pradesh 465441",
+    "area": "456668",
+    "latitude": 23.5949457,
+    "longitude": 75.9452404,
+    "place_id": "ChIJozvfUqObZDkR-uGszI2ED30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJozvfUqObZDkR-uGszI2ED30",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:28:35"
+  },
+  {
+    "business_name": "Choice mens parlar",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "456668",
+    "phone_number": "+91 99778 91386",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 11,
+    "address": "Shivam Parisar, C-1, Nanakheda, Shivalay Twp, Ujjain, Jiwankhedi, Madhya Pradesh 456010",
+    "area": "Nanakheda, Shivalay Township",
+    "latitude": 23.1579379,
+    "longitude": 75.78167119999999,
+    "place_id": "ChIJmQIsE_V0YzkRiM9kfWkq3aI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmQIsE_V0YzkRiM9kfWkq3aI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:28:35"
+  }
+]

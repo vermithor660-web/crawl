@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Courier DTDC",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "457441",
+    "phone_number": "+91 96178 02757",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 10,
+    "address": "2Q7V+M9H, Thandla Rd, Petlawad, Madhya Pradesh 457773",
+    "area": "457441",
+    "latitude": 23.014183,
+    "longitude": 74.7934928,
+    "place_id": "ChIJ9WopRvdnYTkRKAtU6DGami4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9WopRvdnYTkRKAtU6DGami4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:57:28"
+  },
+  {
+    "business_name": "Maheshwari Home Tiffin Service",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Delivery service",
+    "all_categories": "Delivery service",
+    "pincode": "457441",
+    "phone_number": "+91 77469 32507",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Navkar residency, 01, Ratlam, Madhya Pradesh 457001",
+    "area": "457441",
+    "latitude": 23.3233949,
+    "longitude": 75.06283429999999,
+    "place_id": "ChIJsToadiz7YzkRCGRctRY5tWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsToadiz7YzkRCGRctRY5tWw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:57:29"
+  }
+]

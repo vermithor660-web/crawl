@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Home Painting",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "457114",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Building P 1 Flat No.717 Sra, Ram Mandir Rd, MHADA Colony, Mumbai, Madhya Pradesh 457118",
+    "area": "MHADA Colony",
+    "latitude": 23.7799056,
+    "longitude": 75.4411985,
+    "place_id": "ChIJ74_ZOP9pZDkROOdHULC8c7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ74_ZOP9pZDkROOdHULC8c7o",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:38:01"
+  },
+  {
+    "business_name": "Porwal Home decor",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "457114",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Station Rd, Ranipura, Alote, Madhya Pradesh 457114",
+    "area": "Ranipura",
+    "latitude": 23.7638352,
+    "longitude": 75.55000199999999,
+    "place_id": "ChIJdequbJtnZDkRgvqkDLWZXKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdequbJtnZDkRgvqkDLWZXKo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:38:03"
+  }
+]

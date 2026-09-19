@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Crazzy Couples Travel",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "456313",
+    "phone_number": "+91 95161 80060",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Crazzy Couples Travel, 456313, India",
+    "area": "456313",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJV871uQ9FJSAR9cdans_Z9as",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV871uQ9FJSAR9cdans_Z9as",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:07:15"
+  },
+  {
+    "business_name": "Sunshine Travels - Travel Agency in Bhutan",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Car leasing service, Car rental agency, Sightseeing Tour Operator, Tour operator",
+    "pincode": "456313",
+    "phone_number": "+91 85388 33174",
+    "website": "https://www.sunshinetourandtravels.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "B2 , Ground Floor, Ved Vyas School Building, N.S.Road, opp. Dominos Pizza, Jaigaon, West Bengal 736182",
+    "area": "456313",
+    "latitude": 26.8554401,
+    "longitude": 89.38161559999999,
+    "place_id": "ChIJ0X-WzSLL4zkRWNnA3SKcRII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0X-WzSLL4zkRWNnA3SKcRII",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:07:17"
+  }
+]

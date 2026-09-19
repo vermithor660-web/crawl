@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "457331",
+    "phone_number": "+91 94253 29541",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WARD NO. 6, SHIV SHAKTI MARKET, NIRMALA MOBILE GALLERY 292 CHAMAN CHORAHA, Madhya Pradesh 457333",
+    "area": "457331",
+    "latitude": 23.674781499999998,
+    "longitude": 74.9514191,
+    "place_id": "ChIJa16NawqnZjkR2PWEdkKc7gU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa16NawqnZjkR2PWEdkKc7gU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:47:54"
+  },
+  {
+    "business_name": "BSNL Cellular Tower",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Telecommunications",
+    "pincode": "457331",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "M255+H8H, Madhya Pradesh 457333",
+    "area": "457331",
+    "latitude": 23.658926599999997,
+    "longitude": 75.00836129999999,
+    "place_id": "ChIJdTNWfrEdZDkRizy7mXvXLMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdTNWfrEdZDkRizy7mXvXLMI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:47:54"
+  }
+]

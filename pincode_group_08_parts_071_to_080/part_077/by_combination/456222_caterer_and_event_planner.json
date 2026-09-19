@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Annapurna Events & Services",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Caterer, Entertainment agency",
+    "pincode": "456222",
+    "phone_number": "+91 70037 26671",
+    "website": "https://instagram.com/annapurna_eventsandservices?igshid=MzRlODBiNWFlZA==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "House no. 42, Girish Rd, Tarapur, Silchar, Assam 788003",
+    "area": "Tarapur",
+    "latitude": 24.8288688,
+    "longitude": 92.78327379999999,
+    "place_id": "ChIJu_52LWhLTjcRdZ9QJ2NK1JU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu_52LWhLTjcRdZ9QJ2NK1JU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:03:53"
+  },
+  {
+    "business_name": "Darbar Events & Catering",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Caterer, Cooking school, Event planner, Event venue, Food Processing Company, Restaurant, Wedding buffet, Wedding planner, Wedding venue",
+    "pincode": "456222",
+    "phone_number": "+91 99054 42574",
+    "website": "https://darbarevents.vercel.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vishnupad Rd, Chand Chaura, Gaya, Bihar 823001",
+    "area": "Chand Chaura",
+    "latitude": 24.777959199999998,
+    "longitude": 85.0087252,
+    "place_id": "ChIJTxHN3Ncr8zkRSEqcVTa1ueE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTxHN3Ncr8zkRSEqcVTa1ueE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:03:55"
+  }
+]

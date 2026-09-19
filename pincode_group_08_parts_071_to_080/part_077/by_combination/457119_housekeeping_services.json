@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KARAN CLEANING SERVICES",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "457119",
+    "phone_number": "+91 79769 03951",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Krishna Colony, sector 09, Hiran Magri, Udaipur, Rajasthan 313001",
+    "area": "Krishna Colony, sector 09, Hiran Magri",
+    "latitude": 24.5513706,
+    "longitude": 73.7139579,
+    "place_id": "ChIJb48sLqTvZzkRUDwC21ozhno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb48sLqTvZzkRUDwC21ozhno",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:42:19"
+  },
+  {
+    "business_name": "Mukesh Dangi",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "457119",
+    "phone_number": "+91 93407 36005",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "HCMJ+V6M School K Samne, Barsi - Gurukhedi Rd, Gurukhedi, Madhya Pradesh 457119",
+    "area": "457119",
+    "latitude": 23.584719999999997,
+    "longitude": 75.4305536,
+    "place_id": "ChIJM1-N7NZzZDkRAAAAMD6jIxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM1-N7NZzZDkRAAAAMD6jIxQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:42:19"
+  }
+]

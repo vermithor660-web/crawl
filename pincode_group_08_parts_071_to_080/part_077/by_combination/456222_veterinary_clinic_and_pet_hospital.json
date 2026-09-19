@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Korea pet and vet clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "456222",
+    "phone_number": "+91 79993 32491",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main road, near veterinary hospital, Bazarpara, Jampara, Baikunthpur, Chhattisgarh 497335",
+    "area": "Bazarpara, Jampara",
+    "latitude": 23.2621696,
+    "longitude": 82.559769,
+    "place_id": "ChIJPRvvGiuLiDkRwrwgzVq6PUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPRvvGiuLiDkRwrwgzVq6PUM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:03:20"
+  },
+  {
+    "business_name": "Sabari Pet Care",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Pet supply store",
+    "pincode": "456222",
+    "phone_number": "+91 77083 86874",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "9, Rajaram Street, Pudhunagar, Tirumangalam, Tamil Nadu 625706",
+    "area": "Pudhunagar",
+    "latitude": 9.8305318,
+    "longitude": 77.9929049,
+    "place_id": "ChIJaVX0K1zTADsRV-QJ-KfIm-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaVX0K1zTADsRV-QJ-KfIm-c",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:03:23"
+  }
+]

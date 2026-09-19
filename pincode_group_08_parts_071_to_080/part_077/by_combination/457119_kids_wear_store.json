@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul Ji",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "457119",
+    "phone_number": "+91 62656 11198",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "11, Shamngrha, Madhya Pradesh 456335",
+    "area": "Shamngrha",
+    "latitude": 23.4638673,
+    "longitude": 75.4484046,
+    "place_id": "ChIJPd0gd1p3ZDkRFOBHi9iuVkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPd0gd1p3ZDkRFOBHi9iuVkQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:41:08"
+  },
+  {
+    "business_name": "BAD BOYS CLOTHING (Mashup Baby)",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing supplier",
+    "all_categories": "Clothing supplier, Clothing manufacturer, Clothing wholesaler",
+    "pincode": "457119",
+    "phone_number": "+91 76972 88888",
+    "website": "http://www.mashup.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Half-Ticket Apparels (MASHUP SHIRTS) 192 Ready-Made Garment Complex, Pardesipura, Indore, Madhya Pradesh 452010",
+    "area": "Readymade Complex, Pardesipura",
+    "latitude": 22.7493461,
+    "longitude": 75.8677476,
+    "place_id": "ChIJVVVVBQ79YjkRJdFcg55T_Hk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVBQ79YjkRJdFcg55T_Hk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:41:11"
+  }
+]

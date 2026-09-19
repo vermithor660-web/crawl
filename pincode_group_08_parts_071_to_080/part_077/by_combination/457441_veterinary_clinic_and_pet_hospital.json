@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vet Tech",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary pharmacy",
+    "all_categories": "Veterinary pharmacy",
+    "pincode": "457441",
+    "phone_number": "+91 90392 46125",
+    "website": "http://www.vettechveterinary.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5-6, first floor, Avinash Complex, SBI Chauraha, Sultania Rd, Kohefiza, Shahid Nagar Colony, Bhopal, Madhya Pradesh 462001",
+    "area": "Kohefiza, Shahid Nagar Colony",
+    "latitude": 23.2614512,
+    "longitude": 77.3883543,
+    "place_id": "ChIJC8ltCTxpfDkRfaMzFX-6TOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC8ltCTxpfDkRfaMzFX-6TOg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:56:33"
+  },
+  {
+    "business_name": "Gangotri पतंजलि Traders",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary pharmacy",
+    "all_categories": "Veterinary pharmacy",
+    "pincode": "457441",
+    "phone_number": "+91 81037 32317",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Manasa - Piplia Mandi Rd, near Railway Fatak, Lunaheda, Piplia Mandi, Madhya Pradesh 458664",
+    "area": "457441",
+    "latitude": 24.2015954,
+    "longitude": 75.00922419999999,
+    "place_id": "ChIJGQCpJuPVZTkRpEXr_vcbvY8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQCpJuPVZTkRpEXr_vcbvY8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:56:33"
+  }
+]

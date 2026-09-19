@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "chale cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "456224",
+    "phone_number": "+91 90391 48799",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 29,
+    "address": "Chale Cafe, Bypass, Ratna khedi Road, near Royal Enfield Showroom, Madhya Pradesh 456335",
+    "area": "456224",
+    "latitude": 23.4666318,
+    "longitude": 75.42590349999999,
+    "place_id": "ChIJ6f0B3CN1ZDkRaR7TLbredlA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6f0B3CN1ZDkRaR7TLbredlA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:04:53"
+  },
+  {
+    "business_name": "Mp 13 Cafe & Sutta Bar",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "456224",
+    "phone_number": "+91 90980 72664",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 68,
+    "address": "82PQ+98X Mahesh Market, Takij Road, nearby Mp Cafe, Tarana, Madhya Pradesh 456665",
+    "area": "456224",
+    "latitude": 23.335901999999997,
+    "longitude": 76.0401931,
+    "place_id": "ChIJz4lMqjRnYzkRkTg_mlYuByE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4lMqjRnYzkRkTg_mlYuByE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:04:56"
+  }
+]

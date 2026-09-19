@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hemvini Organics",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Cosmetics store, Grocery delivery service, Indian grocery store, Natural goods store, Organic farm, Organic shop, Produce market",
+    "pincode": "456313",
+    "phone_number": "+91 92745 71334",
+    "website": "https://www.hemvini.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "A/9, New Naimesh Park Society Beside Someshwar Park -3 Gulab Towar, Road, Sola, Ahmedabad, Gujarat 380061",
+    "area": "Sola",
+    "latitude": 23.061271899999998,
+    "longitude": 72.5271577,
+    "place_id": "ChIJJ_SvBiCDXjkRgC8SLhXKIkI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ_SvBiCDXjkRgC8SLhXKIkI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:06:34"
+  },
+  {
+    "business_name": "Shivay mawa bhandar khedawada",
+    "search_category": "Organic Food Store",
+    "primary_category": "Pick your own farm produce",
+    "all_categories": "Pick your own farm produce",
+    "pincode": "456313",
+    "phone_number": "+91 96854 74037",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Khedawada, Madhya Pradesh 456776",
+    "area": "456313",
+    "latitude": 23.188384499999998,
+    "longitude": 75.2906337,
+    "place_id": "ChIJzbgnZyTtYzkR_9L7L0G3oMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzbgnZyTtYzkR_9L7L0G3oMQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:06:35"
+  }
+]

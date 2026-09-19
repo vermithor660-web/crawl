@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agri2eat",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Grocery delivery service, Organic farm, Produce market",
+    "pincode": "456550",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Alakheda, Madhya Pradesh 456550",
+    "area": "456550",
+    "latitude": 23.524383099999998,
+    "longitude": 75.8222107,
+    "place_id": "ChIJax0m4ESDZDkRz1L8rVo06A4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJax0m4ESDZDkRz1L8rVo06A4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:19:59"
+  },
+  {
+    "business_name": "Jay shree mahakal जय श्री महाकाल",
+    "search_category": "Organic Food Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "456550",
+    "phone_number": "+91 62634 63395",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gawdi, Madhya Pradesh 456665",
+    "area": "456550",
+    "latitude": 23.334851,
+    "longitude": 76.0130784,
+    "place_id": "ChIJqVMcModnYzkR9oN3IFYVZgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqVMcModnYzkR9oN3IFYVZgo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:20:02"
+  }
+]

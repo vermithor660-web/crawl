@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Basheer Accounts & Tax Consultancy Services",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm, Service establishment",
+    "pincode": "456776",
+    "phone_number": "+91 81093 78788",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Basheer Accounts & Tax Consultancy Services, 456776, India",
+    "area": "456776",
+    "latitude": 23.1994097,
+    "longitude": 77.4058914,
+    "place_id": "ChIJffj7xosfy2ERiV__HF4-1VI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJffj7xosfy2ERiV__HF4-1VI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:34:53"
+  },
+  {
+    "business_name": "Business Accountant",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Financial advisor",
+    "all_categories": "Financial advisor, Service establishment",
+    "pincode": "456776",
+    "phone_number": "+91 97177 00763",
+    "website": "https://www.businessaccountant.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Business Accountant, 456776, India",
+    "area": "456776",
+    "latitude": 28.7036378,
+    "longitude": 77.1267204,
+    "place_id": "ChIJI7gWIQV6YAMRQ_6l1_tlFiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI7gWIQV6YAMRQ_6l1_tlFiM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:34:53"
+  }
+]

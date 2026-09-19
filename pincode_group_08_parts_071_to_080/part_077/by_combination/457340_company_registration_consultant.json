@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prashiv Business Solution",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant",
+    "pincode": "457340",
+    "phone_number": "+91 88262 49418",
+    "website": "https://www.prashiv.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "G-10/185, Block G, Sangam Vihar, New Delhi, Delhi 110080",
+    "area": "Block G, Sangam Vihar",
+    "latitude": 28.5064854,
+    "longitude": 77.255222,
+    "place_id": "ChIJx6uT9SPhDDkR9UuHirwvtTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6uT9SPhDDkR9UuHirwvtTU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:55:32"
+  },
+  {
+    "business_name": "SHREE SAWARIYA SETH SERVICE & CONSTRUCTION",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Registry office",
+    "all_categories": "Registry office",
+    "pincode": "457340",
+    "phone_number": "+91 88271 51525",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "16, Balghad road, Samratpuri Colony, Gomti Nagar, Dewas, Madhya Pradesh 455001",
+    "area": "Samratpuri Colony, Gomti Nagar",
+    "latitude": 22.9486448,
+    "longitude": 76.0494014,
+    "place_id": "ChIJ1a1UxKcZYzkRxir0UPSsBwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1a1UxKcZYzkRxir0UPSsBwI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:55:34"
+  }
+]

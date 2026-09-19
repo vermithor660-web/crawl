@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ezzi Emporium",
+    "search_category": "Organic Food Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "456771",
+    "phone_number": "+91 99265 05205",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bohra Gali, Barnagar, Madhya Pradesh 456771",
+    "area": "456771",
+    "latitude": 23.0475946,
+    "longitude": 75.3781863,
+    "place_id": "ChIJ1yGVbzu_YzkRzsq6M3D_n8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1yGVbzu_YzkRzsq6M3D_n8o",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:31:25"
+  },
+  {
+    "business_name": "Patanjali Gramin Arogya Kendra",
+    "search_category": "Organic Food Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Health food store, Herbal medicine store, Outlet mall",
+    "pincode": "456771",
+    "phone_number": "+91 70604 72405",
+    "website": "https://patanjalistores.patanjaliayurved.org/patanjali-gramin-arogya-kendra-guru-aasara-arogya-kendra-indian-grocery-store-kanvan-dhar-256106/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ground Floor, Mahaveer Colony, Kanvan, Kanun, Madhya Pradesh 454665",
+    "area": "Mahaveer Colony",
+    "latitude": 22.8727558,
+    "longitude": 75.250196,
+    "place_id": "ChIJx961SynJYzkRBS0_rJJ74_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx961SynJYzkRBS0_rJJ74_A",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:31:27"
+  }
+]

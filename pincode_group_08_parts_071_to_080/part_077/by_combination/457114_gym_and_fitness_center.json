@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shashwat Health Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "457114",
+    "phone_number": "+91 91792 93978",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near MP Central Gramin Bank, Ranipura, Alote, Ratlam, Madhya Pradesh 457114",
+    "area": "Ranipura",
+    "latitude": 23.7630917,
+    "longitude": 75.5502242,
+    "place_id": "ChIJX3JB29NnZDkRPRgqk4nR0EM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX3JB29NnZDkRPRgqk4nR0EM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:37:42"
+  },
+  {
+    "business_name": "SR Fitness club tal",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "457114",
+    "phone_number": "+91 93402 18116",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Karwakhedi Rd, Tal, Madhya Pradesh 457118",
+    "area": "457114",
+    "latitude": 23.7267084,
+    "longitude": 75.3816034,
+    "place_id": "ChIJWXiEVGptZDkRUE7COePlOQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWXiEVGptZDkRUE7COePlOQg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:37:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Navkar Building Material",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "456776",
+    "phone_number": "+91 93009 62418",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Petlawad Rd, Nayapura, Kajipura, Badnawar, Madhya Pradesh 454660",
+    "area": "Nayapura, Kajipura",
+    "latitude": 23.021310699999997,
+    "longitude": 75.23015699999999,
+    "place_id": "ChIJS3X-rTbCYzkRQFzYXw0Jo08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS3X-rTbCYzkRQFzYXw0Jo08",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:34:11"
+  },
+  {
+    "business_name": "Nakoda Enterprises",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier",
+    "pincode": "456776",
+    "phone_number": "+91 94250 46112",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Badnawar Rd, Nayapura, Badnawar, Madhya Pradesh 454660",
+    "area": "Nayapura",
+    "latitude": 23.020051799999997,
+    "longitude": 75.2296516,
+    "place_id": "ChIJeVh7Gw3DYzkRQmZWh1TYuzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeVh7Gw3DYzkRQmZWh1TYuzc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:34:12"
+  }
+]

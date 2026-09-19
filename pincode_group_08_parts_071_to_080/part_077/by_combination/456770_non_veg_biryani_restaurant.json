@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garib Nawaz Hotel",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Indian restaurant",
+    "pincode": "456770",
+    "phone_number": "+91 97707 03948",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 106,
+    "address": "5QQC+PV9, Anda Gali, Chitera Bakhal, Ujjain, Madhya Pradesh 456006",
+    "area": "Kamri Marg",
+    "latitude": 23.1892826,
+    "longitude": 75.7722455,
+    "place_id": "ChIJNcSmdTp0YzkRar86cyiEf8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNcSmdTp0YzkRar86cyiEf8A",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:29:39"
+  },
+  {
+    "business_name": "Hotel Garib Nawaz",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "456770",
+    "phone_number": "+91 90090 70690",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 43,
+    "address": "New Hariphatak Rd, &, Mahakal Marg, Ujjain, Madhya Pradesh 456006",
+    "area": "Topkhana, Nagori Mohalla, Suraj Nagar",
+    "latitude": 23.181917,
+    "longitude": 75.77529,
+    "place_id": "ChIJGWHI1Ud0YzkRm02QvoFjl3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGWHI1Ud0YzkRm02QvoFjl3s",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:29:39"
+  }
+]

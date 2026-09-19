@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion Collection",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "457226",
+    "phone_number": "+91 93023 07393",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 64,
+    "address": "72/3, Khoti Bazar, Khariwal Mohalla, choraha, Jaora, Madhya Pradesh 457226",
+    "area": "Khariwal Mohalla, choraha",
+    "latitude": 23.6385249,
+    "longitude": 75.12740409999999,
+    "place_id": "ChIJgxa8PQAbZDkR-FtzO3Nq89k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgxa8PQAbZDkR-FtzO3Nq89k",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:44:49"
+  },
+  {
+    "business_name": "Reliance trends",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Baby clothing store, Children's clothing store, Clothing Accessories Store, Formal Clothing Store, Men's clothing store, Western apparel store, Youth clothing store",
+    "pincode": "457226",
+    "phone_number": "+91 90987 09778",
+    "website": "https://trends.shop/page/trends-indra-colony-jaora",
+    "rating": 4.3,
+    "reviews_count": 183,
+    "address": "Indra Colony, Jaora, Madhya Pradesh 457226",
+    "area": "Indra Colony",
+    "latitude": 23.6319023,
+    "longitude": 75.1177897,
+    "place_id": "ChIJ1U3bLgIbZDkRLfRN0LTpulk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1U3bLgIbZDkRLfRN0LTpulk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:44:50"
+  }
+]

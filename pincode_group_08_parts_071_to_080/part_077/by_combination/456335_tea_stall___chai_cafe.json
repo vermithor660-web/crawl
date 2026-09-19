@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Metri Amratulay Chai And Sutta Bar",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "456335",
+    "phone_number": "+91 93014 99792",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Railway Station, Rode, Unhel, Lekodiya Anjana, Madhya Pradesh 456337",
+    "area": "456335",
+    "latitude": 23.316030899999998,
+    "longitude": 75.4787182,
+    "place_id": "ChIJXS2UGfePYzkRTmBryP-iXDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXS2UGfePYzkRTmBryP-iXDc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:10:31"
+  },
+  {
+    "business_name": "Aman tea stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "456335",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "FMM4+358, Mahidpur, Madhya Pradesh 456443",
+    "area": "456335",
+    "latitude": 23.4826582,
+    "longitude": 75.6554518,
+    "place_id": "ChIJSYY7VQB_ZDkRTZWQN6zAtOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSYY7VQB_ZDkRTZWQN6zAtOk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:10:34"
+  }
+]

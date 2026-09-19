@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "456006",
+    "phone_number": "+91 98277 63156",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Om Opticals, Nehru Nagar, Nagziri, Ujjain, Madhya Pradesh 456010",
+    "area": "Nehru Nagar, Nagziri",
+    "latitude": 23.145182,
+    "longitude": 75.81371299999999,
+    "place_id": "ChIJrT4qOQ9zYzkRKkQrXDB5bJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrT4qOQ9zYzkRKkQrXDB5bJI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:57:31"
+  },
+  {
+    "business_name": "DIVINE OPTIC",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "456006",
+    "phone_number": "+91 90040 79741",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Maruti showroom ke piche, Shanti Niketan Colony, Nagziri, Ujjain Dewas Rd, Abhilasha Colony, Ujjain, Madhya Pradesh 456010",
+    "area": "Abhilasha Colony",
+    "latitude": 23.1391129,
+    "longitude": 75.8197697,
+    "place_id": "ChIJy2uBcwDBZDkRAH3VZX0icPs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy2uBcwDBZDkRAH3VZX0icPs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:57:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VIDHI FASHION",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Western apparel store",
+    "all_categories": "Western apparel store",
+    "pincode": "456661",
+    "phone_number": "+91 70144 54800",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mani Trade Centre, 22, Shanku Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456001",
+    "area": "Freeganj, Madhav Nagar",
+    "latitude": 23.1796452,
+    "longitude": 75.7897895,
+    "place_id": "ChIJmSFHfpJ1YzkRLfLYcywurew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmSFHfpJ1YzkRLfLYcywurew",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:22:11"
+  },
+  {
+    "business_name": "Rajeev cloth store",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "456661",
+    "phone_number": "+91 91111 13888",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "LG-5, Bafna Tower, Scheme 54 PU4, Indore, Madhya Pradesh 452010",
+    "area": "Scheme 54 PU4",
+    "latitude": 22.754065,
+    "longitude": 75.8832845,
+    "place_id": "ChIJA2XjN_sDYzkRVwAdN4-GUhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA2XjN_sDYzkRVwAdN4-GUhc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:22:11"
+  }
+]

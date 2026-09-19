@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ekta Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "456665",
+    "phone_number": "+91 734 251 4111",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 6,
+    "address": "5QHQ+9Q6, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010",
+    "area": "Freeganj, Madhav Nagar",
+    "latitude": 23.1784133,
+    "longitude": 75.7893939,
+    "place_id": "ChIJmUmU92t0YzkRx5g3tSVVzwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUmU92t0YzkRx5g3tSVVzwU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:25:59"
+  },
+  {
+    "business_name": "Mahakal Rudraksh & Gems",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Religious goods store",
+    "all_categories": "Religious goods store",
+    "pincode": "456665",
+    "phone_number": "+91 81094 74405",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 12,
+    "address": "opposite mahakal lok main gate, Bagambag Colony, Ujjain, Madhya Pradesh 456006",
+    "area": "Bagambag Colony",
+    "latitude": 23.175480999999998,
+    "longitude": 75.76870389999999,
+    "place_id": "ChIJM_wMSph1YzkRV0028TrvuHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM_wMSph1YzkRV0028TrvuHE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:26:01"
+  }
+]

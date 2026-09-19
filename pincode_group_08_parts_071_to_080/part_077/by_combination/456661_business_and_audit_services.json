@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AccountHer",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Bookkeeping service",
+    "all_categories": "Bookkeeping service, Accounting firm, Service establishment",
+    "pincode": "456661",
+    "phone_number": "N/A",
+    "website": "http://www.accounther.com/",
+    "rating": 5,
+    "reviews_count": 29,
+    "address": "AccountHer, 456661, India",
+    "area": "456661",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJP1AijjJZwokRJfo0Bh1ReSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP1AijjJZwokRJfo0Bh1ReSY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:23:29"
+  },
+  {
+    "business_name": "DVNEX",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "456661",
+    "phone_number": "N/A",
+    "website": "https://devanshu.niitlearning.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "DVNEX, 456661, India",
+    "area": "456661",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJcbTnkb8aTKURv-BPHlyIbDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcbTnkb8aTKURv-BPHlyIbDo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:23:30"
+  }
+]

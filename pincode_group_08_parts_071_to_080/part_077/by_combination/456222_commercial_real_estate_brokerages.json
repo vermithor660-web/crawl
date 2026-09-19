@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dadda Associate's",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Property investment company",
+    "pincode": "456222",
+    "phone_number": "+91 98274 55411",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lala Laljpat Marg, B194/2, Vikramaditya Cloth Market, Ujjain, Madhya Pradesh 456001",
+    "area": "Vikramaditya Cloth Market, Patel Nagar",
+    "latitude": 23.192472,
+    "longitude": 75.77974139999999,
+    "place_id": "ChIJ2-6y6zx0YzkRfAO4-IZ4cZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2-6y6zx0YzkRfAO4-IZ4cZA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:04:22"
+  },
+  {
+    "business_name": "PATHAN REAL-ESTATE",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "456222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "PATHAN VILLA, 1110, Sector 2, Arihant Parisar, Ratlam, Madhya Pradesh 457001",
+    "area": "Sector 2, Arihant Parisar",
+    "latitude": 23.318556899999997,
+    "longitude": 75.0556708,
+    "place_id": "ChIJs4eHaf79YzkR_HPJCu3B1To",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4eHaf79YzkR_HPJCu3B1To",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:04:22"
+  }
+]

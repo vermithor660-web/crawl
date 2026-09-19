@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homely Cravings Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "457331",
+    "phone_number": "+91 89622 80168",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "H no. 21, Aditya Avenue, Bairagarh, Bhopal, Madhya Pradesh 462030",
+    "area": "Aditya Avenue, Bairagarh",
+    "latitude": 23.286451,
+    "longitude": 77.3537989,
+    "place_id": "ChIJazkiXQBnfDkRKAtXrw4cjwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJazkiXQBnfDkRKAtXrw4cjwg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:46:45"
+  },
+  {
+    "business_name": "ANS CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "457331",
+    "phone_number": "+91 94257 70741",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bindras, phase 1, Bagmugaliya, Bhopal, Madhya Pradesh 462043",
+    "area": "phase 1, Bagmugaliya",
+    "latitude": 23.1801389,
+    "longitude": 77.4775964,
+    "place_id": "ChIJ7ZxC6a1BfDkRbw0m94hgp7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7ZxC6a1BfDkRbw0m94hgp7Q",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:46:45"
+  }
+]

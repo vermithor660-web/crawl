@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Property Dealers",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent",
+    "pincode": "456661",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 4,
+    "address": "201, bhasker apt, Paliwal Nagar, Manishpuri, Indore, Madhya Pradesh 452018",
+    "area": "Manish Puri",
+    "latitude": 22.725391,
+    "longitude": 75.90055,
+    "place_id": "ChIJT26tz8riYjkRQS2yFeVXfnU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT26tz8riYjkRQS2yFeVXfnU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:23:30"
+  },
+  {
+    "business_name": "Maa Amba Property Broker",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Business related",
+    "all_categories": "Business related",
+    "pincode": "456661",
+    "phone_number": "+91 87700 44094",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.6, ring road, Pawapuri Colony, Ujjain, Madhya Pradesh 456010",
+    "area": "Pawapuri Colony",
+    "latitude": 23.1490705,
+    "longitude": 75.80954109999999,
+    "place_id": "ChIJj_hc3mJzYzkRjdELtOnIXF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj_hc3mJzYzkRjdELtOnIXF0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:23:30"
+  }
+]

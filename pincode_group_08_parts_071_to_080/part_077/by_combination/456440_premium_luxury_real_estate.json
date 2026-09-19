@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Luxury Property Consultant",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "456440",
+    "phone_number": "+91 98320 00013",
+    "website": "http://www.theluxuryproperty.in/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "SCF31, 2nd Floor, Phase 3B2, Sector 60, Sahibzada Ajit Singh Nagar, Punjab 160059",
+    "area": "Phase 3B2, Sector 60",
+    "latitude": 30.7124693,
+    "longitude": 76.71881479999999,
+    "place_id": "ChIJC2i6G__vDzkRuVJaidaTYLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC2i6G__vDzkRuVJaidaTYLU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:15:50"
+  },
+  {
+    "business_name": "Lucknow Prime Property",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer, Service establishment",
+    "pincode": "456440",
+    "phone_number": "N/A",
+    "website": "https://www.lucknowprimeproperty.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lucknow Prime Property, 456440, India",
+    "area": "456440",
+    "latitude": 26.889008999999998,
+    "longitude": 80.99594259999999,
+    "place_id": "ChIJKw2HXFjjaCIRCum31rm6kN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKw2HXFjjaCIRCum31rm6kN4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:15:51"
+  }
+]

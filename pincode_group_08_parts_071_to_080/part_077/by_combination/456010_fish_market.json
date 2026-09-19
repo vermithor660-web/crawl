@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhootnath Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market, Fishery, Fish processing",
+    "pincode": "456010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Paani tanki, Bhootnath Rd, beside Pani tanki, Bahadurpur Housing Colony, Mahatma Gandhi Nagar, Chitragupta Nagar, Patna, Bihar 800026",
+    "area": "Bahadurpur Housing Colony, Mahatma Gandhi Nagar, Chitragupta Nagar",
+    "latitude": 25.5962945,
+    "longitude": 85.17483539999999,
+    "place_id": "ChIJQzUyW7tY7TkRjmX2q8OFPY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQzUyW7tY7TkRjmX2q8OFPY0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:59:09"
+  },
+  {
+    "business_name": "Batham fish and seeds ujjain",
+    "search_category": "Fish Market",
+    "primary_category": "Fishery",
+    "all_categories": "Fishery",
+    "pincode": "456010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "gajal pura, fish market, 36, Lala Lajpat Rai Marg, Malipura, Ujjain, Madhya Pradesh 456001",
+    "area": "Malipura",
+    "latitude": 23.190543299999998,
+    "longitude": 75.77991659999999,
+    "place_id": "ChIJ02tQnCx1YzkRqKQj_u6SN4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02tQnCx1YzkRqKQj_u6SN4Y",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:59:09"
+  }
+]

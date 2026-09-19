@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Auto Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "457333",
+    "phone_number": "+91 96304 08933",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kalukheda Jaora, Road, Mamat Kheda, Madhya Pradesh 457340",
+    "area": "457333",
+    "latitude": 23.6673863,
+    "longitude": 75.082492,
+    "place_id": "ChIJw1V785MbZDkRpmFuMDCmp08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw1V785MbZDkRpmFuMDCmp08",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:49:04"
+  },
+  {
+    "business_name": "Pasupati Nath Auto Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "457333",
+    "phone_number": "+91 94240 21186",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pasupatinath Auto Parts, Dhodar, Madhya Pradesh 457339",
+    "area": "457333",
+    "latitude": 23.7762647,
+    "longitude": 75.1034683,
+    "place_id": "ChIJ0dRIQ3gZZDkRXF3EVXh85kQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0dRIQ3gZZDkRXF3EVXh85kQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:49:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAI PROPERTY DEALER",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "457119",
+    "phone_number": "+91 97806 95788",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mundian, Ludhiana, Punjab 141015",
+    "area": "Mundian",
+    "latitude": 30.8992133,
+    "longitude": 75.94744589999999,
+    "place_id": "ChIJ197kjaqdGjkR-TnW_U_qsr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ197kjaqdGjkR-TnW_U_qsr8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:42:23"
+  },
+  {
+    "business_name": "PropsAMC",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Service establishment",
+    "pincode": "457119",
+    "phone_number": "N/A",
+    "website": "https://www.propsamc.com/",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "PropsAMC, 457119, India",
+    "area": "457119",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJLSdcdkM792ER9DMw22qPW8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLSdcdkM792ER9DMw22qPW8s",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:42:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Poonam Naval",
+    "search_category": "Spa",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building, Massage spa",
+    "pincode": "457441",
+    "phone_number": "+91 91748 64991",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "22, Deendayal Nagar Main Rd, Deendayal Nagar, Tata Nagar, Ratlam, Madhya Pradesh 457001",
+    "area": "Deendayal Nagar, Tata Nagar",
+    "latitude": 23.3199729,
+    "longitude": 75.0232941,
+    "place_id": "ChIJM3fBmxX9YzkRO3pNSfGSoVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM3fBmxX9YzkRO3pNSfGSoVY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:56:56"
+  },
+  {
+    "business_name": "Ganga Spa - International Thai Massage",
+    "search_category": "Spa",
+    "primary_category": "Spa and health club",
+    "all_categories": "Spa and health club, Massage spa, Massage therapist, Spa, Thai massage therapist",
+    "pincode": "457441",
+    "phone_number": "+91 95096 01718",
+    "website": "https://gangaspaindia.com/",
+    "rating": 4.9,
+    "reviews_count": 743,
+    "address": "2 nd floor , Radhe Empire ,Ghatiyawali Road ,Gandhi Nagar Sec -5, Chittorgarh, Rajasthan 312001",
+    "area": "Kacchi Basti, Gandhi Nagar",
+    "latitude": 24.8786979,
+    "longitude": 74.6345443,
+    "place_id": "ChIJB2ZOz_mhaDkRhAKa1TCCOEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2ZOz_mhaDkRhAKa1TCCOEk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:56:56"
+  }
+]

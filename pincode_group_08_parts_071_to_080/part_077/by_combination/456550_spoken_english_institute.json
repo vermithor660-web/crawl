@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mastermind College Tarana",
+    "search_category": "Spoken English Institute",
+    "primary_category": "College",
+    "all_categories": "College, Educational institution",
+    "pincode": "456550",
+    "phone_number": "+91 91977 09728",
+    "website": "http://mmscc.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Tarana Hospital Rd, Chhadawad, Madhya Pradesh 456665",
+    "area": "456550",
+    "latitude": 23.3586177,
+    "longitude": 76.0344171,
+    "place_id": "ChIJbdtyndJnYzkRvGTZstkQX2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdtyndJnYzkRvGTZstkQX2Q",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:21:13"
+  },
+  {
+    "business_name": "Englishwale.com",
+    "search_category": "Spoken English Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution, Service establishment",
+    "pincode": "456550",
+    "phone_number": "+91 84484 43310",
+    "website": "https://www.englishwale.com/",
+    "rating": 4.9,
+    "reviews_count": 35,
+    "address": "Englishwale.com, 456550, India",
+    "area": "456550",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJm6Gmuu77DDkRXYaJWjNyfic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm6Gmuu77DDkRXYaJWjNyfic",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:21:14"
+  }
+]

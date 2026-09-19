@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bagwam trading company",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "457119",
+    "phone_number": "+91 87709 10488",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Maheswari Complex, Power House Rd, Shastri Nagar, Ratlam, Madhya Pradesh 457001",
+    "area": "Shastri Nagar",
+    "latitude": 23.3329533,
+    "longitude": 75.03968619999999,
+    "place_id": "ChIJWcNZvz__YzkRNquKcHxMxRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWcNZvz__YzkRNquKcHxMxRE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:42:38"
+  },
+  {
+    "business_name": "New Mourya Vigetabal Campney",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store, Farmers' market, Market",
+    "pincode": "457119",
+    "phone_number": "+91 90098 26548",
+    "website": "https://krishijankar.com/jaora-mandi-bhav/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Karsi Upaj Mandi, Jaora, Madhya Pradesh 457226",
+    "area": "457119",
+    "latitude": 23.634009499999998,
+    "longitude": 75.1302204,
+    "place_id": "ChIJBV2jLpUaZDkRQySysV-47t0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBV2jLpUaZDkRQySysV-47t0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:42:40"
+  }
+]

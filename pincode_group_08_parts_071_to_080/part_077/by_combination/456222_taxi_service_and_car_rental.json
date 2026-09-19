@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "श्री रणजीत टूर &ट्रेवल्स",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Taxi service",
+    "pincode": "456222",
+    "phone_number": "+91 84352 44895",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Street station road near Hanuman mandir, chandrawati Ganj, Sanwer, Madhya Pradesh 453551",
+    "area": "456222",
+    "latitude": 23.0120184,
+    "longitude": 75.6750629,
+    "place_id": "ChIJPSbMurOhYzkRxd20Z6C56Cw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPSbMurOhYzkRxd20Z6C56Cw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:03:31"
+  },
+  {
+    "business_name": "Taxi service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "456222",
+    "phone_number": "N/A",
+    "website": "https://balajitaxiserviceetiga.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mahakal Marg, Kot Mohalla, चौराह, Kharakua Colony, Ujjain, Madhya Pradesh 456006",
+    "area": "Kot Mohalla, चौराह, Kharakua Colony",
+    "latitude": 23.1834894,
+    "longitude": 75.7712781,
+    "place_id": "ChIJCcgsIYp1YzkRINw0K1zjBjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCcgsIYp1YzkRINw0K1zjBjQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:03:31"
+  }
+]

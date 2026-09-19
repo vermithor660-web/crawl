@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paw World",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "457118",
+    "phone_number": "+91 78781 91335",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 86,
+    "address": "Hemu Circle, Housing Board Main Rd, opp. Smart Edge School, Civil Lines, Banswara, Kankra Doongri, Rajasthan 327001",
+    "area": "Civil Lines",
+    "latitude": 23.5578813,
+    "longitude": 74.43607,
+    "place_id": "ChIJjbxSG73FZjkRInvUSiQfETY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjbxSG73FZjkRInvUSiQfETY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:39:06"
+  },
+  {
+    "business_name": "pari pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "457118",
+    "phone_number": "+91 83193 47300",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 40,
+    "address": "Dhan Mandi, Mandsaur, Madhya Pradesh 458002",
+    "area": "Dhan Mandi",
+    "latitude": 24.056478799999997,
+    "longitude": 75.0638872,
+    "place_id": "ChIJFdrYVAAvZDkR3437NMyJBF8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFdrYVAAvZDkR3437NMyJBF8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:39:08"
+  }
+]

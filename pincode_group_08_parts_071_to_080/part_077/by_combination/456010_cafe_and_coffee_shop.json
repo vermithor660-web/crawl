@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL UNIQUE CAFE AND RESTRO",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Hotel, Resort hotel",
+    "pincode": "456010",
+    "phone_number": "+91 86021 10240",
+    "website": "https://uniquecaferestro.com/",
+    "rating": 4.3,
+    "reviews_count": 200,
+    "address": "C3/12, Shipra Vihar Section 2, Nagziri, Ujjain, Madhya Pradesh 456010",
+    "area": "Shipra Vihar Section 2, Nagziri",
+    "latitude": 23.1396275,
+    "longitude": 75.818786,
+    "place_id": "ChIJA_z_5hlzYzkRDsByoJ28XMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_z_5hlzYzkRDsByoJ28XMM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:59:18"
+  },
+  {
+    "business_name": "Cozy Coffee Corner",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "456010",
+    "phone_number": "+91 74150 65420",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 60,
+    "address": "C-25/11 Mahakal vanijya kendra, near Birla Hospital Road, Nanakheda, Ujjain, Madhya Pradesh 456010",
+    "area": "Nanakheda, Mahakal Vanijya",
+    "latitude": 23.1580513,
+    "longitude": 75.7960221,
+    "place_id": "ChIJH8aCsAt1YzkR_IUymqukdaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH8aCsAt1YzkR_IUymqukdaI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:59:18"
+  }
+]

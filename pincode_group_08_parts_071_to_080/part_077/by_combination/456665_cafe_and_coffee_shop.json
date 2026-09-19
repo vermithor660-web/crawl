@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chhavani cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe",
+    "pincode": "456665",
+    "phone_number": "+91 96911 91950",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 124,
+    "address": "A15/ 11, Nanakheda, Mahakal Vanijya, Ujjain, Madhya Pradesh 456010",
+    "area": "Nanakheda, Mahakal Vanijya",
+    "latitude": 23.1572379,
+    "longitude": 75.79111569999999,
+    "place_id": "ChIJ_TE02GZ1YzkRHYV8YETgcPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_TE02GZ1YzkRHYV8YETgcPw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:25:53"
+  },
+  {
+    "business_name": "Sunrise Cafe & Restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "456665",
+    "phone_number": "+91 88272 74803",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Vinayak Complex, Nayapura, near Bank of India, Basement 👇, Tarana, Madhya Pradesh 456665",
+    "area": "Basement 👇",
+    "latitude": 23.3336804,
+    "longitude": 76.0429482,
+    "place_id": "ChIJfaOadW1nYzkRR_EMmrAZJGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfaOadW1nYzkRR_EMmrAZJGE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:25:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Girl's Hostel Piploda",
+    "search_category": "Hostels",
+    "primary_category": "Girls' hostel",
+    "all_categories": "Girls' hostel",
+    "pincode": "457331",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 6,
+    "address": "JW4W+VVW, Piploda, Madhya Pradesh 457331",
+    "area": "457331",
+    "latitude": 23.6072339,
+    "longitude": 74.9472162,
+    "place_id": "ChIJB7XwCemnZjkRGmB-Oxk4wJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB7XwCemnZjkRGmB-Oxk4wJw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:47:38"
+  },
+  {
+    "business_name": "जिला दिव्यांग (CWSN) छात्रावास पिपलौदा",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "457331",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Piploda - Jaora Rd, in front of Sagar Bajar, Piploda, Madhya Pradesh 457331",
+    "area": "457331",
+    "latitude": 23.6071608,
+    "longitude": 74.94769959999999,
+    "place_id": "ChIJN17mDgCnZjkReH44s_K9z6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN17mDgCnZjkReH44s_K9z6A",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:47:38"
+  }
+]

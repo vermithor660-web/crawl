@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Masala House",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "457555",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "132, Indralok Nagar, Jawahar Nagar, Ratlam, Madhya Pradesh 457001",
+    "area": "Indralok Nagar, Jawahar Nagar",
+    "latitude": 23.342917099999998,
+    "longitude": 75.03522,
+    "place_id": "ChIJycmaGgD_YzkRpUrG3-waCDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJycmaGgD_YzkRpUrG3-waCDs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:59:58"
+  },
+  {
+    "business_name": "S.R Amdabadi Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "457555",
+    "phone_number": "+91 82699 86277",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 54,
+    "address": "Katju Nagar, Laxman Pura, saikg, Ratlam, Madhya Pradesh 457001",
+    "area": "Katju Nagar, Laxman Pura",
+    "latitude": 23.3267419,
+    "longitude": 75.037065,
+    "place_id": "ChIJkVGde___YzkROa3mynIxzKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkVGde___YzkROa3mynIxzKk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:00:00"
+  }
+]

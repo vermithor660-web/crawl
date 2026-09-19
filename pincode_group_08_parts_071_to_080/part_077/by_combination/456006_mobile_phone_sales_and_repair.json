@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nidhan Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Mobile phone repair shop",
+    "pincode": "456006",
+    "phone_number": "+91 98267 69020",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "5QFP+8R2, Shastri Bridge, Sindhi Colony, Ujjain, Madhya Pradesh 456010",
+    "area": "Sindhi Colony",
+    "latitude": 23.173254,
+    "longitude": 75.787024,
+    "place_id": "ChIJxxXA82h0YzkRuGDMkdc2upE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxxXA82h0YzkRuGDMkdc2upE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:58:29"
+  },
+  {
+    "business_name": "Konnection A Mobile Shopee",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "456006",
+    "phone_number": "+91 82699 88888",
+    "website": "https://www.facebook.com/konnectionamobileshopee",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "1/2 Dhanvantri Marg Freeganj, Near Gurudwara, Ujjain, Madhya Pradesh 456010",
+    "area": "Freeganj, Madhav Nagar",
+    "latitude": 23.1773773,
+    "longitude": 75.7924267,
+    "place_id": "ChIJRWXri2t0YzkR1yE1q3fbqeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRWXri2t0YzkR1yE1q3fbqeU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:58:31"
+  }
+]

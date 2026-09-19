@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sandeep Saree Centre",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "457550",
+    "phone_number": "+91 98932 07646",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Main Rd, Sailana, Madhya Pradesh 457550",
+    "area": "457550",
+    "latitude": 23.4622663,
+    "longitude": 74.92505589999999,
+    "place_id": "ChIJGY2rO1CqZjkR6VWx-56V-mQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGY2rO1CqZjkR6VWx-56V-mQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:58:07"
+  },
+  {
+    "business_name": "Ns fashion hub sailana",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "457550",
+    "phone_number": "+91 91319 42999",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "62/1, Shastri Marg, Sailana, Madhya Pradesh 457550",
+    "area": "457550",
+    "latitude": 23.4611943,
+    "longitude": 74.9235841,
+    "place_id": "ChIJfyNudACrZjkRwwPQ_Z1hY6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfyNudACrZjkRwwPQ_Z1hY6E",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:58:07"
+  }
+]

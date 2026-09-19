@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vision Sonography",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Pathologist",
+    "all_categories": "Pathologist",
+    "pincode": "457119",
+    "phone_number": "+91 91799 25782",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 7,
+    "address": "82QJ+377, Gali Number 5, Kasturba Nagar, Ratlam, Madhya Pradesh 457001",
+    "area": "Kasturba Nagar",
+    "latitude": 23.337652499999997,
+    "longitude": 75.03068619999999,
+    "place_id": "ChIJo7wOI5H-YzkRPKdHg-zBYeI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo7wOI5H-YzkRPKdHg-zBYeI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:41:21"
+  },
+  {
+    "business_name": "Panth Piploda Primary Health Sub Center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "457119",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Deepak Lad Temple, Panth Piploda, Alote, Madhya Pradesh 457118",
+    "area": "457119",
+    "latitude": 23.661303999999998,
+    "longitude": 75.4104236,
+    "place_id": "ChIJn_5g7b9tZDkRHo6gUDbqIwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn_5g7b9tZDkRHo6gUDbqIwo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:41:23"
+  }
+]

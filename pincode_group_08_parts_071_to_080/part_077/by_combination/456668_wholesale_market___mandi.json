@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wholesale Kirana Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Rice wholesaler",
+    "all_categories": "Rice wholesaler",
+    "pincode": "456668",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "38 apt marg, Daulat Ganj, Ujjain, Madhya Pradesh 456006",
+    "area": "Daulat Ganj, Suraj Nagar",
+    "latitude": 23.1815324,
+    "longitude": 75.77711939999999,
+    "place_id": "ChIJ-d2nCxV1YzkRC04lOCdoy3w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-d2nCxV1YzkRC04lOCdoy3w",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:29:29"
+  },
+  {
+    "business_name": "Shreeji Marketing",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service",
+    "pincode": "456668",
+    "phone_number": "+91 95222 79222",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "7, Agar Rd, Chimanganj Mandi, Krishi Upaj Mandi, Ujjain, Madhya Pradesh 456001",
+    "area": "Chimanganj Mandi, Krishi Upaj Mandi",
+    "latitude": 23.196054,
+    "longitude": 75.78251829999999,
+    "place_id": "ChIJseuwBvZ1YzkRZXPpf6Or9Xc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJseuwBvZ1YzkRZXPpf6Or9Xc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:29:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Sweet Shop",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "456771",
+    "phone_number": "+91 99931 09421",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "29XH+J76, Vikram Rd, Barnagar, Madhya Pradesh 456771",
+    "area": "456771",
+    "latitude": 23.0490307,
+    "longitude": 75.3781431,
+    "place_id": "ChIJTSulCbe_YzkREYhaVomGNEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTSulCbe_YzkREYhaVomGNEU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:31:33"
+  },
+  {
+    "business_name": "Maa Sherawali Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "456771",
+    "phone_number": "+91 90090 66855",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "1, Pipalinaka Chouraha, Madhya Pradesh 456006",
+    "area": "Urdupura",
+    "latitude": 23.201754599999997,
+    "longitude": 75.7725445,
+    "place_id": "ChIJL9GNbKd1YzkRfwkC0scPtWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL9GNbKd1YzkRfwkC0scPtWg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:31:33"
+  }
+]

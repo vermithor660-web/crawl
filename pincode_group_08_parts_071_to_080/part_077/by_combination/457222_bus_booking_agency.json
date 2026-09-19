@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bus stop, Barbodna",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "457222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "F4HW+788, Barbodana, Madhya Pradesh 457222",
+    "area": "457222",
+    "latitude": 23.477901499999998,
+    "longitude": 75.14518249999999,
+    "place_id": "ChIJ54f4zTwHZDkRxWmP6O89WVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ54f4zTwHZDkRxWmP6O89WVA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:43:24"
+  },
+  {
+    "business_name": "King travels (Car hire services)",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "457222",
+    "phone_number": "N/A",
+    "website": "http://kingbus.in/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "54 free ganj road, aziz manzil, Ratlam, Madhya Pradesh 457001",
+    "area": "457222",
+    "latitude": 23.3370036,
+    "longitude": 75.050629,
+    "place_id": "ChIJAQWzZ7D-YzkRMvo3pZYGcBg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQWzZ7D-YzkRMvo3pZYGcBg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:43:25"
+  }
+]

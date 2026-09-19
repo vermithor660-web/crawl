@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba Burger",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Takeout restaurant",
+    "all_categories": "Takeout restaurant",
+    "pincode": "457555",
+    "phone_number": "+91 98275 23422",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Do Batti Rd, Chupati, Ratlam, Madhya Pradesh 457001",
+    "area": "Chupati",
+    "latitude": 23.3322382,
+    "longitude": 75.046035,
+    "place_id": "ChIJnRylAUP_YzkR9KLUR2yenok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnRylAUP_YzkR9KLUR2yenok",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:00:03"
+  },
+  {
+    "business_name": "The Food Crush",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Sandwich shop",
+    "pincode": "457555",
+    "phone_number": "+91 96446 82344",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jawahar Nagar Rd, Jawahar Nagar, Ratlam, Madhya Pradesh 457001",
+    "area": "Jawahar Nagar",
+    "latitude": 23.3394345,
+    "longitude": 75.03328929999999,
+    "place_id": "ChIJKUdUVzr_YzkRJFqE9qaJjTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKUdUVzr_YzkRJFqE9qaJjTo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:00:03"
+  }
+]

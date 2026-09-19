@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neema Traders",
+    "search_category": "Tradeshows",
+    "primary_category": "Construction Material Wholesaler",
+    "all_categories": "Construction Material Wholesaler, Yarn store",
+    "pincode": "456221",
+    "phone_number": "+91 98265 08045",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "74 ,Main Raod,Satigate, Ujjain, Madhya Pradesh 456006",
+    "area": "Kamri Marg",
+    "latitude": 23.187847599999998,
+    "longitude": 75.775166,
+    "place_id": "ChIJ8VTH1Tt0YzkRpfAdxg3hAVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8VTH1Tt0YzkRpfAdxg3hAVw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:02:40"
+  },
+  {
+    "business_name": "vinayak traders",
+    "search_category": "Tradeshows",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "456221",
+    "phone_number": "+91 94066 49549",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "7, Mohan Nagar, Agar Road, Ujjain, Madhya Pradesh 456001",
+    "area": "Mohan Nagar",
+    "latitude": 23.1987919,
+    "longitude": 75.7881214,
+    "place_id": "ChIJDT1-RBl0YzkRzV2FeO10uUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDT1-RBl0YzkRzV2FeO10uUU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:02:40"
+  }
+]

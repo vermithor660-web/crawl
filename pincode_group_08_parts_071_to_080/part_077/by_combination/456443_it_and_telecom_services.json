@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "456443",
+    "phone_number": "+91 89898 27133",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tejaram 0, Kaluheda, Madhya Pradesh 456006",
+    "area": "Tejaram 0",
+    "latitude": 23.34845,
+    "longitude": 75.71495999999999,
+    "place_id": "ChIJ_1Jas3N5YzkRkcz7-PVHue8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_1Jas3N5YzkRkcz7-PVHue8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:19:29"
+  },
+  {
+    "business_name": "FK Computers IT Solution",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Computer security service",
+    "all_categories": "Computer security service",
+    "pincode": "456443",
+    "phone_number": "+91 79876 87896",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "58, Lakherwadi Marg, Bhagsipura, Kamri Marg, Ujjain, Madhya Pradesh 456006",
+    "area": "Bhagsipura, Kamri Marg",
+    "latitude": 23.1867013,
+    "longitude": 75.7720744,
+    "place_id": "ChIJZS87xiR1YzkRns9T77rvxss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZS87xiR1YzkRns9T77rvxss",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:19:30"
+  }
+]

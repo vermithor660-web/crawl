@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Highway Treat",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "457119",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 8,
+    "address": "MCHP+322, NH 44, in front of shri ratan filling center, Datia, Madhya Pradesh 475661",
+    "area": "457119",
+    "latitude": 25.6776312,
+    "longitude": 78.43500499999999,
+    "place_id": "ChIJ3d2djU4RdzkR071P2yDjWb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3d2djU4RdzkR071P2yDjWb8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:41:04"
+  },
+  {
+    "business_name": "Shree Balaji And Darbar Dhaba (पिंटू बना)",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "457119",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 21,
+    "address": "NH927A, Sala Khedi, Madhya Pradesh 457001",
+    "area": "457119",
+    "latitude": 23.311345199999998,
+    "longitude": 75.0663416,
+    "place_id": "ChIJ0Q7k3_b7YzkRihpres2_yrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Q7k3_b7YzkRihpres2_yrI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:41:04"
+  }
+]

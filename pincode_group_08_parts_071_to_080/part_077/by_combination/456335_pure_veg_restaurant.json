@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Tulsi Family Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "456335",
+    "phone_number": "+91 82693 92390",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "FMH4+X35, Narayna Rd, Mahidpur, Madhya Pradesh 456443",
+    "area": "456335",
+    "latitude": 23.4780801,
+    "longitude": 75.6559235,
+    "place_id": "ChIJJdiTAu1_ZDkRd56eB5ivVho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdiTAu1_ZDkRd56eB5ivVho",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:10:31"
+  },
+  {
+    "business_name": "R.M. Vegetable Merchant & vegetable shop",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "456335",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "124, Mahatma Gandhi Marg, Khachrod, Madhya Pradesh 456224",
+    "area": "456335",
+    "latitude": 23.4251749,
+    "longitude": 75.2820267,
+    "place_id": "ChIJTSGl6jf1YzkRTyHiPDkMqZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTSGl6jf1YzkRTyHiPDkMqZs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:10:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Phool mandi ratlam",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Fruits Wholesaler",
+    "all_categories": "Fruits Wholesaler, Garage",
+    "pincode": "457333",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Full Mandi, Harmala Rd, Bohra Baakhal, Ratlam, Madhya Pradesh 457001",
+    "area": "Bohra Baakhal",
+    "latitude": 23.3180698,
+    "longitude": 75.0401428,
+    "place_id": "ChIJSfHGxr39YzkRuyC6RuqoC4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSfHGxr39YzkRuyC6RuqoC4M",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:50:16"
+  },
+  {
+    "business_name": "Namkeen",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "457333",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "bus stand, Sailana, Ratlam, Madhya Pradesh 457001",
+    "area": "Katju Nagar, Laxman Pura",
+    "latitude": 23.331723,
+    "longitude": 75.036474,
+    "place_id": "ChIJ6cKCw0n_YzkRfLEoI23sjX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6cKCw0n_YzkRfLEoI23sjX4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:50:17"
+  }
+]

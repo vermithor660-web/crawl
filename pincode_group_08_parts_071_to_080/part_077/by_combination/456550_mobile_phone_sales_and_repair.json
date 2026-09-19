@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Traders",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store, Electronics store, Mobile phone repair shop, Refrigerator store",
+    "pincode": "456550",
+    "phone_number": "+91 98931 94770",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Government Hospital Road, near Government Girls School, Tarana, Taranakasba, Madhya Pradesh 456665",
+    "area": "456550",
+    "latitude": 23.3381676,
+    "longitude": 76.0390729,
+    "place_id": "ChIJb6UrMzNmYzkRYW2TMtEiWuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb6UrMzNmYzkRYW2TMtEiWuo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:21:21"
+  },
+  {
+    "business_name": "Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "456550",
+    "phone_number": "+91 90095 18708",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010",
+    "area": "Freeganj, Madhav Nagar",
+    "latitude": 23.1782739,
+    "longitude": 75.7927574,
+    "place_id": "ChIJLXVVBPF1YzkRi9b3oDiXwos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXVVBPF1YzkRi9b3oDiXwos",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:21:21"
+  }
+]

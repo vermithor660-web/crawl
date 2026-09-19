@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arafa Common Service Centre",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Aadhaar center, Print shop",
+    "pincode": "457550",
+    "phone_number": "+91 94954 87914",
+    "website": "https://www.facebook.com/arafacsc/",
+    "rating": 5,
+    "reviews_count": 40,
+    "address": "Masjid Bazar, Central Junction, P.O, Erumeli, Keralam 686509",
+    "area": "P.O",
+    "latitude": 9.4832504,
+    "longitude": 76.8463697,
+    "place_id": "ChIJSwnR0OdJBjsRxUKTlT3gaMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSwnR0OdJBjsRxUKTlT3gaMI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:59:14"
+  },
+  {
+    "business_name": "CSC DIGITAL SEVA",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "457550",
+    "phone_number": "+91 92073 51076",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Oachira, Vallikkavu-Oachira Rd, near Discovery Mobiles, Clappana, Keralam 690547",
+    "area": "457550",
+    "latitude": 9.1187994,
+    "longitude": 76.4983676,
+    "place_id": "ChIJC0g0NvodBjsRD38nJFe-lhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC0g0NvodBjsRD38nJFe-lhg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:59:15"
+  }
+]

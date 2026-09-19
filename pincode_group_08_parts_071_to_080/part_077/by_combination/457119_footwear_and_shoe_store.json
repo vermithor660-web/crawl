@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "V GLOBUS SHOES",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Footwear wholesaler, Showroom, Sportswear store, Store",
+    "pincode": "457119",
+    "phone_number": "+91 96309 19183",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 771,
+    "address": "Kmal chowk, Tagore Marg, near Punjab Bank, Neemuch Chawni, Neemuch, Madhya Pradesh 458441",
+    "area": "Neemuch Chawni",
+    "latitude": 24.458719499999997,
+    "longitude": 74.8690335,
+    "place_id": "ChIJ37L3CM9zZjkRC2FbRfEs0dQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ37L3CM9zZjkRC2FbRfEs0dQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:41:12"
+  },
+  {
+    "business_name": "F.F SHOE ZONE",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "457119",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Samta Nagar, Ratlam, Madhya Pradesh 457001",
+    "area": "Samta Nagar",
+    "latitude": 23.3316764,
+    "longitude": 75.0515657,
+    "place_id": "ChIJYzOOCK_-YzkRoevmn2Pgvz0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYzOOCK_-YzkRoevmn2Pgvz0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:41:12"
+  }
+]

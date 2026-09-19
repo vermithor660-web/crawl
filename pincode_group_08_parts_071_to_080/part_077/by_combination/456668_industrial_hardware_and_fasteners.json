@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Burhani Hardware",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Pipe supplier",
+    "pincode": "456668",
+    "phone_number": "+91 90744 18676",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Juna Somwariya, 25/1, Barnagar Bypass Road, Danigate, Ujjain, Madhya Pradesh 456006",
+    "area": "Danigate",
+    "latitude": 23.191876,
+    "longitude": 75.766678,
+    "place_id": "ChIJfb5g8TF0YzkRQeZLqTUxZwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfb5g8TF0YzkRQeZLqTUxZwU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:29:14"
+  },
+  {
+    "business_name": "Jyoti Trading",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "456668",
+    "phone_number": "+91 78981 49999",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 8,
+    "address": "Agar Rd, Chimanganj Mandi, Krishi Upaj Mandi, Ujjain, Madhya Pradesh 456001",
+    "area": "Chimanganj Mandi, Krishi Upaj Mandi",
+    "latitude": 23.195690499999998,
+    "longitude": 75.7870368,
+    "place_id": "ChIJkymIYKZ2YzkRv9Z8RPf8ZaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkymIYKZ2YzkRv9Z8RPf8ZaU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:29:14"
+  }
+]

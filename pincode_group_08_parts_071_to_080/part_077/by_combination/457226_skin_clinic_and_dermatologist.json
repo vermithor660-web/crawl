@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Vidisha shakalya",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist",
+    "pincode": "457226",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 5,
+    "address": "23, Gandhi Colony, Jaora, Kumhari, Madhya Pradesh 457226",
+    "area": "Gandhi Colony",
+    "latitude": 23.6277829,
+    "longitude": 75.1111742,
+    "place_id": "ChIJv8cJEgAbZDkRXVW2jF_13iw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv8cJEgAbZDkRXVW2jF_13iw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:45:02"
+  },
+  {
+    "business_name": "Dave Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "457226",
+    "phone_number": "+91 98266 07171",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khachrod Rd, naka, Jaora, Madhya Pradesh 457226",
+    "area": "naka",
+    "latitude": 23.6341371,
+    "longitude": 75.1329406,
+    "place_id": "ChIJ_2usfyAbZDkRy1Wz0MXY-0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2usfyAbZDkRy1Wz0MXY-0I",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:45:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trousseau Cottage",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "456776",
+    "phone_number": "+91 97035 00795",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Mahmood Habib Plaza, 2nd floor, 8-2-584/1, Rd Number 9, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "Vimal Nagar, Zahara Nagar, Banjara Hills",
+    "latitude": 17.4169602,
+    "longitude": 78.4427328,
+    "place_id": "ChIJ-8ZotDGXyzsRqvCiH6FUxK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8ZotDGXyzsRqvCiH6FUxK4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:34:30"
+  },
+  {
+    "business_name": "Foam N Fabrics",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Curtain supplier and maker",
+    "all_categories": "Curtain supplier and maker, Carpet installer, Carpet store, Carpet wholesaler, Foam rubber supplier, Mattress store, Sofa store, Upholstery cleaning service, Upholstery shop, Wallpaper store",
+    "pincode": "456776",
+    "phone_number": "+91 257 222 3400",
+    "website": "http://foamnfabrics.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Tower Chowk, Shivaji Nagar Rd, opp. Kelkar Market, Navi Peth, Jaikisan Wadi, Jalgaon, Maharashtra 425001",
+    "area": "Navi Peth, Jaikisan Wadi",
+    "latitude": 21.016326799999998,
+    "longitude": 75.5666365,
+    "place_id": "ChIJIaOXtqMP2TsR4wzK_L6PSXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIaOXtqMP2TsR4wzK_L6PSXs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:34:31"
+  }
+]

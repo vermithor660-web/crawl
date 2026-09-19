@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nidan Pathology Lab & Polyclinic Center",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "456665",
+    "phone_number": "+91 93038 55577",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Agra - Mumbai Rd, Maksi, Madhya Pradesh 465106",
+    "area": "456665",
+    "latitude": 23.2580861,
+    "longitude": 76.1481929,
+    "place_id": "ChIJiUI3tyBDYzkRwmJrOBi8gSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiUI3tyBDYzkRwmJrOBi8gSE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:26:11"
+  },
+  {
+    "business_name": "Nidan polyclinic Center",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "456665",
+    "phone_number": "+91 93038 55577",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Old, AB Rd, Maksi, Madhya Pradesh 465106",
+    "area": "456665",
+    "latitude": 23.251505599999998,
+    "longitude": 76.1505221,
+    "place_id": "ChIJU-5PQCxDYzkRCm4LdDh9yic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU-5PQCxDYzkRCm4LdDh9yic",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:26:11"
+  }
+]

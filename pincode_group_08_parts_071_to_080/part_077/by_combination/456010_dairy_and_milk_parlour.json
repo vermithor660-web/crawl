@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAHAKAL DUDH DAIRY",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "456010",
+    "phone_number": "+91 87708 16736",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Mahashweta Nagar, Ujjain, Madhya Pradesh 456010",
+    "area": "Mahashweta Nagar",
+    "latitude": 23.1614629,
+    "longitude": 75.80013679999999,
+    "place_id": "ChIJXf6N8n10YzkRWIVrzynzP4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXf6N8n10YzkRWIVrzynzP4s",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:59:05"
+  },
+  {
+    "business_name": "Star Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "456010",
+    "phone_number": "+91 91097 47252",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kamri Marg, Ujjain, Madhya Pradesh 456006",
+    "area": "Kamri Marg",
+    "latitude": 23.190333499999998,
+    "longitude": 75.7717321,
+    "place_id": "ChIJB-tSPk11YzkRZv_bJEhVpys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB-tSPk11YzkRZv_bJEhVpys",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:59:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Balaji Appliances",
+    "search_category": "Shops",
+    "primary_category": "Appliances customer service",
+    "all_categories": "Appliances customer service, Appliance store",
+    "pincode": "457441",
+    "phone_number": "+91 91118 62023",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Neemuch - Mhow Rd, Dharad, Madhya Pradesh 457441",
+    "area": "457441",
+    "latitude": 23.255047299999998,
+    "longitude": 75.1028031,
+    "place_id": "ChIJK0MQ3Z_7YzkROJdr0ZptayI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK0MQ3Z_7YzkROJdr0ZptayI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:57:52"
+  },
+  {
+    "business_name": "Neha Enterprises",
+    "search_category": "Shops",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "457441",
+    "phone_number": "+91 92438 58699",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sarwad, Madhya Pradesh 457441",
+    "area": "457441",
+    "latitude": 23.181956,
+    "longitude": 75.1610025,
+    "place_id": "ChIJFy5vUlLvYzkRlJ_gEoug3bU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFy5vUlLvYzkRlJ_gEoug3bU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:57:52"
+  }
+]

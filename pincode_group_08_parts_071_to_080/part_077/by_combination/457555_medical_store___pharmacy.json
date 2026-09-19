@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pavitra Medical And General Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "457555",
+    "phone_number": "+91 87706 92805",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Alkapuri Main Road, Alkapuri, Ratlam, Madhya Pradesh 457001",
+    "area": "Alkapuri",
+    "latitude": 23.3442632,
+    "longitude": 75.0323986,
+    "place_id": "ChIJT7ySuez-YzkRhEjMwDdQUfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT7ySuez-YzkRhEjMwDdQUfk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:00:14"
+  },
+  {
+    "business_name": "Ashu Medical Stores",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "457555",
+    "phone_number": "+91 98936 23031",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shastri Nagar, Ratlam, Madhya Pradesh 457001",
+    "area": "Shastri Nagar",
+    "latitude": 23.3314594,
+    "longitude": 75.0407268,
+    "place_id": "ChIJ36pxL4X_YzkRCqKsKiUNRmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ36pxL4X_YzkRCqKsKiUNRmU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:00:15"
+  }
+]

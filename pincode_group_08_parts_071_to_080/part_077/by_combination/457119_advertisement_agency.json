@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhakad",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "457119",
+    "phone_number": "+91 97551 76297",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PG32+W73, Alot, Hingadi, Madhya Pradesh 457114",
+    "area": "457119",
+    "latitude": 23.7047728,
+    "longitude": 75.5006848,
+    "place_id": "ChIJXedkaBJvZDkRAAAA0DGkYFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXedkaBJvZDkRAAAA0DGkYFs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:42:33"
+  },
+  {
+    "business_name": "Techshole",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer",
+    "pincode": "457119",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Unnamed Road, Minawada, Madhya Pradesh 457119",
+    "area": "457119",
+    "latitude": 23.538313,
+    "longitude": 75.4774525,
+    "place_id": "ChIJk1-6yQp3ZDkRlj12TBsVw6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk1-6yQp3ZDkRlj12TBsVw6E",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:42:34"
+  }
+]

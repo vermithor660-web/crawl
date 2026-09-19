@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rathore Medical And General Stores",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "457340",
+    "phone_number": "+91 83494 54762",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhimakhedi, Jaora, Bema Khadi, Madhya Pradesh 457226",
+    "area": "Bhimakhedi",
+    "latitude": 23.6468687,
+    "longitude": 75.1166879,
+    "place_id": "ChIJRSsyNQcbZDkRwZgKF4Hniao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRSsyNQcbZDkRwZgKF4Hniao",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:54:28"
+  },
+  {
+    "business_name": "Kaleshwar Medical",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "457340",
+    "phone_number": "+91 99779 36675",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "QXHF+WWG, Main Road, Mawta, Madhya Pradesh 457340",
+    "area": "457340",
+    "latitude": 23.779803899999997,
+    "longitude": 74.9748421,
+    "place_id": "ChIJv428h_gfZDkReMNtLMPqfk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv428h_gfZDkReMNtLMPqfk4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:54:30"
+  }
+]

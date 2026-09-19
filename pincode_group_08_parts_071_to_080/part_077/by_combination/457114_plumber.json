@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Salasar enterprises",
+    "search_category": "Plumber",
+    "primary_category": "Electrical products wholesaler",
+    "all_categories": "Electrical products wholesaler, Hardware store, Plumbing supply store",
+    "pincode": "457114",
+    "phone_number": "+91 79743 03814",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jagdevganj, Station Rd, Alote, Madhya Pradesh 457114",
+    "area": "Ranipura",
+    "latitude": 23.7630256,
+    "longitude": 75.5513686,
+    "place_id": "ChIJa6LyK2tmZDkRAAAAMIhjTxU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa6LyK2tmZDkRAAAAMIhjTxU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:38:00"
+  },
+  {
+    "business_name": "सांवरिया इलेक्ट्रिकल्स",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "457114",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JF8G+W69, Kharwa Kalan, Madhya Pradesh 457119",
+    "area": "457114",
+    "latitude": 23.6172142,
+    "longitude": 75.4756087,
+    "place_id": "ChIJ67oXDftxZDkRY2UUT9GiZYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ67oXDftxZDkRY2UUT9GiZYI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:38:00"
+  }
+]

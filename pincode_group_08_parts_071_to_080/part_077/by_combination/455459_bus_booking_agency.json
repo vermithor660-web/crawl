@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chartered Bus – Indore Bus & Parcel Booking Office (Rajendranagar)",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus company",
+    "all_categories": "Bus company, Bus charter",
+    "pincode": "455459",
+    "phone_number": "+91 99932 88888",
+    "website": "http://charteredbus.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "928, Agra Bombay Rd, opp. Women's Polytechnic Collage, Rajendra Nagar Naka, Bijalpur, Indore, Madhya Pradesh 452012",
+    "area": "Rajendra Nagar Naka, Bijalpur",
+    "latitude": 22.670085999999998,
+    "longitude": 75.8324617,
+    "place_id": "ChIJ986oEmv8YjkRcxt4ui-BjhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ986oEmv8YjkRcxt4ui-BjhA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:50:18"
+  },
+  {
+    "business_name": "Multani Sona Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "455459",
+    "phone_number": "+91 88271 13115",
+    "website": "https://www.multanisona.in/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Sarvarte, Bus Stand, Chhoti Gwaltoli, Indore, Madhya Pradesh 452001",
+    "area": "Chhoti Gwaltoli",
+    "latitude": 22.714870299999998,
+    "longitude": 75.87076119999999,
+    "place_id": "ChIJH75aSXv9YjkRldJVxlgV2gk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH75aSXv9YjkRldJVxlgV2gk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:50:18"
+  }
+]

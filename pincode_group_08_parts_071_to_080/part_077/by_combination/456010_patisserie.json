@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meerashree Everfresh",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "456010",
+    "phone_number": "+91 93001 93856",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 27,
+    "address": "Cosmos, Nanakhede, Jawahar Rd, Mahakal Vanijya Kendra, Mahakal Vanijya, Ujjain, Madhya Pradesh 456010",
+    "area": "Mahakal Vanijya Kendra, Mahakal Vanijya",
+    "latitude": 23.1572586,
+    "longitude": 75.7936953,
+    "place_id": "ChIJo2ECEAd1YzkRzDAUt6NHPB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo2ECEAd1YzkRzDAUt6NHPB8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:59:11"
+  },
+  {
+    "business_name": "Raj Everfresh",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Fast food restaurant",
+    "pincode": "456010",
+    "phone_number": "+91 97547 39933",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 11,
+    "address": "V9, Vivekanand Colony, Sindhi Colony, Ujjain, Madhya Pradesh 456010",
+    "area": "Vivekanand Colony, Sindhi Colony",
+    "latitude": 23.1738036,
+    "longitude": 75.7838384,
+    "place_id": "ChIJrxCQ02l0YzkR6TtcAcGadZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrxCQ02l0YzkR6TtcAcGadZY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:59:11"
+  }
+]

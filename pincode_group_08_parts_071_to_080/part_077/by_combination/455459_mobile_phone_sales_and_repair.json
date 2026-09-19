@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivshakti Enterprises",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store, Computer networking service, Computer store, Music store",
+    "pincode": "455459",
+    "phone_number": "+91 80 6506 7593",
+    "website": "http://shivshaktienterprisesindore.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "In Front Jain Mandir, 224, S Tukoganj Rd, Indore, Madhya Pradesh 452001",
+    "area": "Trade Centre, South Tukoganj",
+    "latitude": 22.7204919,
+    "longitude": 75.8833081,
+    "place_id": "ChIJAQAAQBb9YjkR-qzXRk-jjWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAQBb9YjkR-qzXRk-jjWg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:51:10"
+  },
+  {
+    "business_name": "PRIYANSHI COMMUNICATION",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "455459",
+    "phone_number": "+91 98260 65140",
+    "website": "https://priyanshimobile.com/",
+    "rating": 4.3,
+    "reviews_count": 444,
+    "address": "15, Palda Naka, Shriram Nagar, Palda, Indore, Madhya Pradesh 452001",
+    "area": "Palda Naka, Shriram Nagar, Palda",
+    "latitude": 22.6857485,
+    "longitude": 75.8905731,
+    "place_id": "ChIJLxZTv2P9YjkR9lh00KjX7Pw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLxZTv2P9YjkR9lh00KjX7Pw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 08:51:12"
+  }
+]

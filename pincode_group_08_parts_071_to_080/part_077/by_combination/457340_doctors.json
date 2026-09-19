@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. PK Sarkar",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "457340",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P253+MXC, Chipiya, Madhya Pradesh 457333",
+    "area": "457340",
+    "latitude": 23.709284099999998,
+    "longitude": 75.0048597,
+    "place_id": "ChIJccSQSQAfZDkROxoYdCSkeuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJccSQSQAfZDkROxoYdCSkeuw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:54:31"
+  },
+  {
+    "business_name": "Dr. Mithilesh Bairagi",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "457340",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "QXHH+W2X, Mawta, Madhya Pradesh 457340",
+    "area": "457340",
+    "latitude": 23.7798512,
+    "longitude": 74.9775958,
+    "place_id": "ChIJZQQtcvgfZDkRq2I82pCmWWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQQtcvgfZDkRq2I82pCmWWE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:54:33"
+  }
+]

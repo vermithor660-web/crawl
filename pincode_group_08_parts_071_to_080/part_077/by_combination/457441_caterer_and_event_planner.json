@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jay Radhe Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "457441",
+    "phone_number": "+91 88664 25886",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "no. 8, 5, Prabhakunj Society Rd, behind Police Station, Shantinivas Society, Navkar Appartment, Godhra, Gujarat 389001",
+    "area": "Shantinivas Society, Navkar Appartment",
+    "latitude": 22.7748475,
+    "longitude": 73.6259651,
+    "place_id": "ChIJIR3UctGbYDkR8bPNmEnLxJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIR3UctGbYDkR8bPNmEnLxJY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:57:04"
+  },
+  {
+    "business_name": "Mehta Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company, Caterer, Event venue, Party planner, Wedding planner",
+    "pincode": "457441",
+    "phone_number": "+91 94275 28824",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Jay Bholenath farm, Narsoli Rd, Tribhovannagar, Bavaliya Torda, Bhiloda, Gujarat 383245",
+    "area": "Tribhovannagar, Bavaliya Torda",
+    "latitude": 23.7599876,
+    "longitude": 73.2470998,
+    "place_id": "ChIJzd0YuBqRXTkRv15rKix_5Ng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzd0YuBqRXTkRv15rKix_5Ng",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:57:05"
+  }
+]

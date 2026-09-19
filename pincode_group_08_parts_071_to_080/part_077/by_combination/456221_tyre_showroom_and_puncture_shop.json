@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAHAVEER TYRE'S",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "456221",
+    "phone_number": "+91 70470 68884",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nagda Rd, Unhel, Madhya Pradesh 456221",
+    "area": "456221",
+    "latitude": 23.334861399999998,
+    "longitude": 75.54973509999999,
+    "place_id": "ChIJUzokamqFYzkRLmXNi_Oht3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUzokamqFYzkRLmXNi_Oht3o",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:01:37"
+  },
+  {
+    "business_name": "Katariya tyre service",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto parts store",
+    "pincode": "456221",
+    "phone_number": "+91 99770 72565",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nagda Rd, palki, Hatai, Palkhi, Madhya Pradesh 456335",
+    "area": "palki",
+    "latitude": 23.4132464,
+    "longitude": 75.4825611,
+    "place_id": "ChIJka4bQFuJYzkR7BP4YCz4sDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJka4bQFuJYzkR7BP4YCz4sDk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:01:37"
+  }
+]

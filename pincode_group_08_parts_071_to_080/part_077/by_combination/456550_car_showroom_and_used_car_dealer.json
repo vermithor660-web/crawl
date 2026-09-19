@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maruti Suzuki ARENA (Yug cars, Ujjain, Ghatiya)",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "456550",
+    "phone_number": "+91 80 3715 0420",
+    "website": "https://www.marutisuzuki.com/arena/connect-to-dealer/map-view",
+    "rating": 4.1,
+    "reviews_count": 14,
+    "address": "9VM7+WC5, Ujjain - Agar Rd, Ghatiya, Madhya Pradesh 456550",
+    "area": "456550",
+    "latitude": 23.384762499999997,
+    "longitude": 75.8636187,
+    "place_id": "ChIJq94vyHF7YzkRn-VBfsC0VA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq94vyHF7YzkRn-VBfsC0VA4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:20:37"
+  },
+  {
+    "business_name": "Singh Car Trade",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "456550",
+    "phone_number": "+91 99738 66463",
+    "website": "http://singhcartrade.in/",
+    "rating": 4.9,
+    "reviews_count": 546,
+    "address": "Dhaba, Mahindra Showroom, N.H. 31, near Maranga, Maranga, Purnia, Maranga, Bihar 854301",
+    "area": "Maranga",
+    "latitude": 25.7428121,
+    "longitude": 87.46384669999999,
+    "place_id": "ChIJzXMrnv_57zkRucr0K3mleH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzXMrnv_57zkRucr0K3mleH8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:20:37"
+  }
+]

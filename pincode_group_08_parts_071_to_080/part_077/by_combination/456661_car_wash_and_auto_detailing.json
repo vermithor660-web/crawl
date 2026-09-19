@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kshipra washing center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "456661",
+    "phone_number": "+91 98273 77475",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near shree dham ashram, Shipra Vihar Section 2, Nagziri, Ujjain, Madhya Pradesh 456010",
+    "area": "Shipra Vihar Section 2, Nagziri",
+    "latitude": 23.1456442,
+    "longitude": 75.8105899,
+    "place_id": "ChIJ2dzVcLFzYzkRfWAW2iGdkOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2dzVcLFzYzkRfWAW2iGdkOo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:22:30"
+  },
+  {
+    "business_name": "महादेव कार वॉशिंग एंड सर्विस सेंटर",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "456661",
+    "phone_number": "+91 96171 43575",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Garoth Road, Chandesry, Chandesara, Madhya Pradesh 456664",
+    "area": "456661",
+    "latitude": 23.1075129,
+    "longitude": 75.8423334,
+    "place_id": "ChIJe5LLBAANYzkRWBshsA-jGtY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe5LLBAANYzkRWBshsA-jGtY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:22:30"
+  }
+]

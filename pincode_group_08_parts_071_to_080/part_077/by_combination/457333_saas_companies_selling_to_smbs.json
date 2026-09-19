@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Svitla Systems, Inc.",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "457333",
+    "phone_number": "N/A",
+    "website": "https://svitla.com/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "100 Meadowcreek Dr #102, Corte Madera, CA 94925, United States",
+    "area": "457333",
+    "latitude": 37.917271,
+    "longitude": -122.50887739999999,
+    "place_id": "ChIJHWzyeCd-j4ARkvSPQ1e80XI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHWzyeCd-j4ARkvSPQ1e80XI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:50:14"
+  },
+  {
+    "business_name": "Appwebcloud",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "457333",
+    "phone_number": "N/A",
+    "website": "http://appwebcloud.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "900 Greenbank Rd #609, Nepean, ON K2J 4P6, Canada",
+    "area": "Nepean",
+    "latitude": 45.2847264,
+    "longitude": -75.7564617,
+    "place_id": "ChIJ__8_pwX9zUwRLoQcboxnSQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__8_pwX9zUwRLoQcboxnSQU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:50:14"
+  }
+]

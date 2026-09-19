@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Sanwriya Collection",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "457118",
+    "phone_number": "+91 88893 55341",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "New Sawriya Collection, Tal, Madhya Pradesh 457118",
+    "area": "457118",
+    "latitude": 23.723817099999998,
+    "longitude": 75.37909669999999,
+    "place_id": "ChIJxd9Oh1L_YzkRFvlSB3d4pvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxd9Oh1L_YzkRFvlSB3d4pvY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:39:16"
+  },
+  {
+    "business_name": "Delight Telrs",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Tailor",
+    "pincode": "457118",
+    "phone_number": "+91 76949 87170",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Sadar Bajar, Nim Chok, Sadar Bajar, Tal, Madhya Pradesh 457118",
+    "area": "Sadar Bajar",
+    "latitude": 23.7206078,
+    "longitude": 75.3844202,
+    "place_id": "ChIJH2D-eiBtZDkRe_8Tfmi2E6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH2D-eiBtZDkRe_8Tfmi2E6g",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:39:18"
+  }
+]

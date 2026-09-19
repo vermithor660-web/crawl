@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Shakti Nature Stay",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Home Stay",
+    "pincode": "456661",
+    "phone_number": "+91 77718 00068",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "shipra Avenue, 127, Dewas Rd, behind narayana school, nagjhiri, Abhilasha Colony, Ujjain, Madhya Pradesh 456010",
+    "area": "nagjhiri, Abhilasha Colony",
+    "latitude": 23.1321785,
+    "longitude": 75.8168293,
+    "place_id": "ChIJJbOeNQBzYzkRP36ILIc8LAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJbOeNQBzYzkRP36ILIc8LAg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:23:24"
+  },
+  {
+    "business_name": "SUPRO SECURITY SERVICES (P).LTD | Manpower Services , VIP Protection",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Cleaning service, Security guard service, Security service",
+    "pincode": "456661",
+    "phone_number": "+91 11 4039 5561",
+    "website": "https://suprosecurityservices.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop No 39 A Block, DDA LSC, Ring Rd, Shindi Colony, Naraina Village, Naraina, New Delhi, Delhi 110028",
+    "area": "Shindi Colony, Naraina Village, Naraina",
+    "latitude": 28.624458899999997,
+    "longitude": 77.13587869999999,
+    "place_id": "ChIJn8mg9goDDTkRd4_BUyuUp1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn8mg9goDDTkRd4_BUyuUp1I",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:23:26"
+  }
+]

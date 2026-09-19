@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Publix Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Medical diagnostic imaging center",
+    "all_categories": "Medical diagnostic imaging center",
+    "pincode": "457222",
+    "phone_number": "+91 91799 82211",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Shop no.2, near sector 1, Arihant Parisar, Ratlam, Madhya Pradesh 457001",
+    "area": "Arihant Parisar",
+    "latitude": 23.3168038,
+    "longitude": 75.0564172,
+    "place_id": "ChIJu43NyxH9YzkRm5vdna1QhFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu43NyxH9YzkRm5vdna1QhFU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:43:05"
+  },
+  {
+    "business_name": "R CARE दवाखाना and medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "457222",
+    "phone_number": "+91 70008 99651",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hat road,Opposite madin masjid gali n.2,shree krishna talkies road, Madhya Pradesh 457001",
+    "area": "Katju Nagar, Laxman Pura",
+    "latitude": 23.328511199999998,
+    "longitude": 75.030014,
+    "place_id": "ChIJc5unR8T_YzkRq-QPxQbUNTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc5unR8T_YzkRq-QPxQbUNTI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:43:08"
+  }
+]

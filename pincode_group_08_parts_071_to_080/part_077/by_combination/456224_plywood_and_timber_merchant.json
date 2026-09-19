@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maruti Timbers",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier, Adhesives & Glue Supplier, Door supplier, Lumber store",
+    "pincode": "456224",
+    "phone_number": "+91 99807 85911",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "VJVR+RJ6 Shamanna Reddy Layout, 46/9, Hosur Rd, Munireddy Layout, Munireddy layout, Hosapalaya, Garvebhavi Palya, Bengaluru, Karnataka 560068",
+    "area": "Munireddy Layout, Munireddy layout, Hosapalaya, Garvebhavi Palya",
+    "latitude": 12.8925153,
+    "longitude": 77.63979499999999,
+    "place_id": "ChIJtX_lIvcUrjsRuwl9Mhkn-4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtX_lIvcUrjsRuwl9Mhkn-4o",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:05:30"
+  },
+  {
+    "business_name": "Gautam Timbers",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Showroom",
+    "all_categories": "Showroom",
+    "pincode": "456224",
+    "phone_number": "+91 99933 36333",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 11,
+    "address": "mahavir marg, 51, Lakkadpitha Road, Bhagwaan, Bohra Baakhal, Ratlam, Madhya Pradesh 457001",
+    "area": "Bhagwaan, Bohra Baakhal",
+    "latitude": 23.3220934,
+    "longitude": 75.03060409999999,
+    "place_id": "ChIJBxW6lJ3-YzkRviLXYLYzM3k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBxW6lJ3-YzkRviLXYLYzM3k",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:05:31"
+  }
+]

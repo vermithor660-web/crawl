@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Balloon Decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon store",
+    "all_categories": "Balloon store",
+    "pincode": "456224",
+    "phone_number": "+91 79998 20605",
+    "website": "https://www.dhakadsahab.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shivaji Marg, Khachrod, Madhya Pradesh 456224",
+    "area": "456224",
+    "latitude": 23.4233861,
+    "longitude": 75.2789267,
+    "place_id": "ChIJ9-g8-7r1YzkR-6rmtsPkSls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9-g8-7r1YzkR-6rmtsPkSls",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:05:43"
+  },
+  {
+    "business_name": "Balaji Balloon Decoration madawada",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist",
+    "pincode": "456224",
+    "phone_number": "N/A",
+    "website": "https://sites.google.com/view/balajiballoondecoration/home",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Balaji Balloon Decoration, Madawada, Madhya Pradesh 456313",
+    "area": "456224",
+    "latitude": 23.3574748,
+    "longitude": 75.27204979999999,
+    "place_id": "ChIJ8ecCdSL1YzkRni7IiDoCuXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ecCdSL1YzkRni7IiDoCuXA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:05:43"
+  }
+]

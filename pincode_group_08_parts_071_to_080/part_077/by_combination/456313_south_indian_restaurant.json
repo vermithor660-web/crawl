@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramesh South Indian",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "456313",
+    "phone_number": "+91 89829 67755",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 624,
+    "address": "MVX5+89J, Bsnl Quaters, Door Sanchar Colony, Khatiwala Tank, Indore, Madhya Pradesh 452014",
+    "area": "Bsnl Quaters, Door Sanchar Colony, Khatiwala Tank",
+    "latitude": 22.6983492,
+    "longitude": 75.85838129999999,
+    "place_id": "ChIJnXd7bv78YjkR63OoaQqQKfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnXd7bv78YjkR63OoaQqQKfs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:06:43"
+  },
+  {
+    "business_name": "Shubh Shree Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant, Fast food restaurant",
+    "pincode": "456313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Madhav Nagar, Ujjain, Madhya Pradesh 456010",
+    "area": "Madhav Nagar",
+    "latitude": 23.1750141,
+    "longitude": 75.7910333,
+    "place_id": "ChIJsyLT4250YzkRW2rKDTqZyvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsyLT4250YzkRW2rKDTqZyvY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:06:45"
+  }
+]

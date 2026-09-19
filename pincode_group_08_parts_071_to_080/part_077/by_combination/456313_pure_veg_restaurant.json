@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Rajeshwari Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "456313",
+    "phone_number": "+91 99773 61937",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 325,
+    "address": "Satrunda, Simlaoda, Madhya Pradesh 457441",
+    "area": "456313",
+    "latitude": 23.138187499999997,
+    "longitude": 75.1976875,
+    "place_id": "ChIJP4v-t9noYzkRbQZyvYeSoqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP4v-t9noYzkRbQZyvYeSoqI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:06:40"
+  },
+  {
+    "business_name": "Hotel, shri kanchan shri restaurant Shuddh Shakahari Bhojnalay",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "456313",
+    "phone_number": "+91 88399 72094",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 29,
+    "address": "673F+75, Badganwa, Berchha, Madhya Pradesh 456776",
+    "area": "456313",
+    "latitude": 23.2031875,
+    "longitude": 75.2729375,
+    "place_id": "ChIJtZBX4XbtYzkRmLi1j74z4x4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtZBX4XbtYzkRmLi1j74z4x4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:06:40"
+  }
+]

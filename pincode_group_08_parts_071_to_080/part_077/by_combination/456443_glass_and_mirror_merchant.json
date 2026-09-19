@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "G.M Glass Traders",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop",
+    "pincode": "456443",
+    "phone_number": "+91 70140 54762",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop number 101, Shobhagpura Rd, opposite KIA Showroom, Kadecha, Pulla Bhuwana, Rupsagar, Suker, Udaipur (M Corp.) (Part), Rajasthan 313001",
+    "area": "Kadecha, Pulla Bhuwana, Rupsagar",
+    "latitude": 24.6068769,
+    "longitude": 73.7028283,
+    "place_id": "ChIJkSXBNLzlZzkRxxRkgbpsD6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkSXBNLzlZzkRxxRkgbpsD6c",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:18:52"
+  },
+  {
+    "business_name": "Taskin Glass House",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop",
+    "pincode": "456443",
+    "phone_number": "+91 90984 95200",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Nikas Chauraha, Patel Nagar, Ujjain, Madhya Pradesh 456001",
+    "area": "Patel Nagar",
+    "latitude": 23.1910948,
+    "longitude": 75.7771703,
+    "place_id": "ChIJ4Rmndzt0YzkRs6M-A7-_qvs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Rmndzt0YzkRs6M-A7-_qvs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:18:52"
+  }
+]

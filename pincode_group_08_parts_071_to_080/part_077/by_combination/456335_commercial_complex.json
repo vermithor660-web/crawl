@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vicky Foot wear (whole saler)",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "456335",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FC59+828, Chandra Shekhar Azad Marg, Kilkipura Juna, Nagda, Madhya Pradesh 456335",
+    "area": "Kilkipura Juna",
+    "latitude": 23.4582762,
+    "longitude": 75.4175909,
+    "place_id": "ChIJ-YxqY6J1ZDkR339DiweFGks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-YxqY6J1ZDkR339DiweFGks",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:12:18"
+  },
+  {
+    "business_name": "Sharma Ice Factory",
+    "search_category": "Commercial Complex",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "456335",
+    "phone_number": "+91 98269 96071",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jiwaji Nagar Ice Factory, 39, Nagda, Madhya Pradesh 456331",
+    "area": "Indu colony",
+    "latitude": 23.4509392,
+    "longitude": 75.4249802,
+    "place_id": "ChIJxdK0cAaLYzkRKqdgBogj5NE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxdK0cAaLYzkRKqdgBogj5NE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:12:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bairagi Kirana And General Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "457118",
+    "phone_number": "+91 96174 91463",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "00 , Gayari Mohalla, Lod, Madhya Pradesh 457118",
+    "area": "457118",
+    "latitude": 23.6533345,
+    "longitude": 75.3223173,
+    "place_id": "ChIJ-R3tfC4TZDkR-JyCKVqOR1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-R3tfC4TZDkR-JyCKVqOR1I",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:39:00"
+  },
+  {
+    "business_name": "तिरूपति बालाजी बिल्डिंग मटेरियल सप्लायर असावती",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "457118",
+    "phone_number": "+91 77738 06296",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unnamed Road, Asawati, Madhya Pradesh 457336",
+    "area": "457118",
+    "latitude": 23.8268561,
+    "longitude": 75.2957114,
+    "place_id": "ChIJLxo89ss_ZDkR2WeurqpVdM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLxo89ss_ZDkR2WeurqpVdM8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:39:02"
+  }
+]

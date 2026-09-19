@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chetan Interior",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "456313",
+    "phone_number": "+91 70004 66370",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "456006, Sairam Colony, Kajipura, Ujjain, Madhya Pradesh 456001",
+    "area": "Sairam Colony, Kajipura",
+    "latitude": 23.201668299999998,
+    "longitude": 75.7793969,
+    "place_id": "ChIJ642_FSF0YzkREq9qRJxfMqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ642_FSF0YzkREq9qRJxfMqE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:07:25"
+  },
+  {
+    "business_name": "Makwana Designer And Developer",
+    "search_category": "Interior Designers",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder",
+    "pincode": "456313",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "58PJ+JRQ, Balodakoran, Madhya Pradesh 456776",
+    "area": "456313",
+    "latitude": 23.186497799999998,
+    "longitude": 75.33207689999999,
+    "place_id": "ChIJvT0yEgDtYzkR6T4PjbuPlNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvT0yEgDtYzkR6T4PjbuPlNQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:07:27"
+  }
+]

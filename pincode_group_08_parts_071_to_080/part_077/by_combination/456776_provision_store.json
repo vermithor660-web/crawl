@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Patidar General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "456776",
+    "phone_number": "+91 97524 69340",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Khedawada Road, Main Road, Khedawada, Madhya Pradesh 456776",
+    "area": "456776",
+    "latitude": 23.1983827,
+    "longitude": 75.28387819999999,
+    "place_id": "ChIJbdVETPftYzkRoD7n9rVLxXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdVETPftYzkRoD7n9rVLxXc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:33:19"
+  },
+  {
+    "business_name": "Dawaarikadhish general Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "456776",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "486C+35H, Pitlawadiya, Madhya Pradesh 456776",
+    "area": "456776",
+    "latitude": 23.109831999999997,
+    "longitude": 75.3205851,
+    "place_id": "ChIJDyfBTgDrYzkRqIHUsvd_6y0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDyfBTgDrYzkRqIHUsvd_6y0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 09:33:19"
+  }
+]
