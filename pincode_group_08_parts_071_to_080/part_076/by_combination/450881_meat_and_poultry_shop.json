@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fresh Choice Farms",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Fish processing",
+    "pincode": "450881",
+    "phone_number": "+91 95808 23181",
+    "website": "http://www.freshchoicefarms.in/",
+    "rating": 4.6,
+    "reviews_count": 286,
+    "address": "4/285, Viram Khand, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Viram Khand, Gomti Nagar",
+    "latitude": 26.844737499999997,
+    "longitude": 81.0002666,
+    "place_id": "ChIJEWtAN6fjmzkR0p0an7G6Jc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEWtAN6fjmzkR0p0an7G6Jc8",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:11:42"
+  },
+  {
+    "business_name": "Warsi Meat Bazaar",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Chicken shop, Egg supplier, Fish & chips restaurant, Health food store, Meat packer, Meat wholesaler, Poultry farm, Seafood market",
+    "pincode": "450881",
+    "phone_number": "+91 90267 97776",
+    "website": "https://warsimeatbazaar.in/install-app",
+    "rating": 4.1,
+    "reviews_count": 192,
+    "address": "Warsi Road,, Ujariyaon, Vijay Khand 2, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vijay Khand, Ujariyaon, Vijay Khand 2, Gomti Nagar",
+    "latitude": 26.8596385,
+    "longitude": 80.99196169999999,
+    "place_id": "ChIJg5Z9RcrimzkRGCFHXoiqCg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg5Z9RcrimzkRGCFHXoiqCg4",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:11:42"
+  }
+]

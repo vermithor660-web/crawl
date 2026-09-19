@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sakshi Hotel Management",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "450445",
+    "phone_number": "+91 74991 46009",
+    "website": "https://www.sakshihotelmanagement.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Bhagyarathi Nivas A/P, Near Nav Maharashtra Soot Girani, Taluka - Hatkanangle, Aawade Nagar, Sajani, Maharashtra 416138",
+    "area": "Aawade Nagar",
+    "latitude": 16.7165653,
+    "longitude": 74.3903782,
+    "place_id": "ChIJm6OzayzjwDsR6rVXrxinMFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm6OzayzjwDsR6rVXrxinMFc",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:04:04"
+  },
+  {
+    "business_name": "Krushnal Kela Group",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Fruit wholesaler, Fruits Wholesaler",
+    "pincode": "450445",
+    "phone_number": "+91 90093 51009",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 12,
+    "address": "Nachankheda, Madhya Pradesh 450445",
+    "area": "450445",
+    "latitude": 21.2319375,
+    "longitude": 76.14706249999999,
+    "place_id": "ChIJC8UefafL2TsRajXn6IcCF5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC8UefafL2TsRajXn6IcCF5s",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:04:06"
+  }
+]

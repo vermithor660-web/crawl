@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BookSlot",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "450991",
+    "phone_number": "+91 83830 95406",
+    "website": "https://bookslot.org/",
+    "rating": 5,
+    "reviews_count": 80,
+    "address": "Radhe Radhe Colony, Bharthana Choraha, near Vishal Mega Mart, Yashoda Nagar, Etawah, Uttar Pradesh 206001",
+    "area": "Yashoda Nagar",
+    "latitude": 26.7900571,
+    "longitude": 79.0325915,
+    "place_id": "ChIJEbljZErhdTkRb_Rj-Pvax-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEbljZErhdTkRb_Rj-Pvax-g",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:14:29"
+  },
+  {
+    "business_name": "Educare Skill Academy",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "450991",
+    "phone_number": "+91 70746 25691",
+    "website": "https://educareskillacademy.in/",
+    "rating": 4.7,
+    "reviews_count": 416,
+    "address": "Nivedita Pally Rd, near by Golapbag Kidzee School, Niveditapally, Saratpally, Khagragorh, Bardhaman, Krishnapur, West Bengal 713104",
+    "area": "Niveditapally, Saratpally, Khagragorh",
+    "latitude": 23.2628724,
+    "longitude": 87.8514414,
+    "place_id": "ChIJUabwbOlJ-DkRBjSys1h0Lfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUabwbOlJ-DkRBjSys1h0Lfs",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:14:29"
+  }
+]

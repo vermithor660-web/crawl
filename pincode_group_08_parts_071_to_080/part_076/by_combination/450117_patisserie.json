@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Wholesale bakery",
+    "all_categories": "Wholesale bakery",
+    "pincode": "450117",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Whani No 05, Dharni Rd, Gawalan Colony, Darni, Maharashtra 444702",
+    "area": "Gawalan Colony",
+    "latitude": 21.553089099999998,
+    "longitude": 76.8900641,
+    "place_id": "ChIJIYTPVAC91zsRyDNTBs3YO94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIYTPVAC91zsRyDNTBs3YO94",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:53:08"
+  },
+  {
+    "business_name": "Vanya Restaurant and Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "450117",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "VWMG+MVJ, Roshni, Madhya Pradesh 450117",
+    "area": "450117",
+    "latitude": 21.8842064,
+    "longitude": 76.9271473,
+    "place_id": "ChIJSW6naADF1zsRCq8qaq2kZTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSW6naADF1zsRCq8qaq2kZTY",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:53:08"
+  }
+]

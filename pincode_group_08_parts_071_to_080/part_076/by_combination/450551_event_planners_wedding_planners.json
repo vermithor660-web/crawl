@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Emma Joy The Wedding Planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Service establishment, Event management company, Event planner, Party planner, Wedding service",
+    "pincode": "450551",
+    "phone_number": "07709 871999",
+    "website": "http://www.emmajoytheweddingplanner.co.uk/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Emma Joy The Wedding Planner, 450551, India",
+    "area": "450551",
+    "latitude": 51.4372324,
+    "longitude": -1.1726128,
+    "place_id": "ChIJqyJ6EBMLdkgR23uHV9cbW9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqyJ6EBMLdkgR23uHV9cbW9w",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:05:40"
+  },
+  {
+    "business_name": "Atrangi Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "450551",
+    "phone_number": "+91 92736 99074",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Shop no. 15, Siddhivinayak Shopping Centre Achole Road, opp. Don Lane, Maharashtra 401209",
+    "area": "Nala Sopara, Moregaon Talao, Nalasopara East",
+    "latitude": 19.4180137,
+    "longitude": 72.821634,
+    "place_id": "ChIJXy_PKwyp5zsRPxyaHr9aIqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXy_PKwyp5zsRPxyaHr9aIqw",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:05:42"
+  }
+]

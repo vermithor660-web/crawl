@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nirmal Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Diabetologist",
+    "all_categories": "Diabetologist",
+    "pincode": "450661",
+    "phone_number": "+91 99674 20681",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Building No 61, opposite Bank of Maharashtra, Gandhi Nagar, Bandra East, Mumbai, Maharashtra 400051",
+    "area": "Gandhi Nagar, Bandra East",
+    "latitude": 19.05924,
+    "longitude": 72.847824,
+    "place_id": "ChIJ___bYh_J5zsRjS5-bRM5sRQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ___bYh_J5zsRjS5-bRM5sRQ",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:08:41"
+  },
+  {
+    "business_name": "AMC - Akssons Multispeciality Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Medical Center",
+    "pincode": "450661",
+    "phone_number": "+91 99204 54333",
+    "website": "https://www.akssonshealthcare.com/",
+    "rating": 5,
+    "reviews_count": 93,
+    "address": "Shop No 2&3 Ground Floor And Basement, Acme Ozone, Khewra Circle Rd, Manpada, Thane West, Mumbai, Thane, Maharashtra 400610",
+    "area": "Manpada, Thane West",
+    "latitude": 19.2325257,
+    "longitude": 72.9717884,
+    "place_id": "ChIJr_OeY7y75zsR7ZvW4J8hrno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr_OeY7y75zsR7ZvW4J8hrno",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:08:41"
+  }
+]

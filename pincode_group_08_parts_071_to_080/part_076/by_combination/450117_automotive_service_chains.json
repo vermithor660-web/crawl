@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amrit Motors",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "450117",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "R9Q2+VVV, Kishore Nagar, Khandwa, Madhya Pradesh 450001",
+    "area": "Kishore Nagar",
+    "latitude": 21.839749899999997,
+    "longitude": 76.3521763,
+    "place_id": "ChIJAQAAQFob2DsRUarLmtAL7VQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAQFob2DsRUarLmtAL7VQ",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:53:41"
+  },
+  {
+    "business_name": "Mahindra First Choice Services - 4 Wheeler- AMRIT SERVICE STATION",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service",
+    "pincode": "450117",
+    "phone_number": "+91 84484 92755",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 17,
+    "address": "Near Asha Dham, Vidya kunj School,, Indore road, Khandwa, Khandwa, Madhya Pradesh 450001",
+    "area": "450117",
+    "latitude": 21.824673,
+    "longitude": 76.311782,
+    "place_id": "ChIJI1aLTOEa2DsRFRlI7oiR_c8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI1aLTOEa2DsRFRlI7oiR_c8",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:53:43"
+  }
+]

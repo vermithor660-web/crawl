@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharti Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "450331",
+    "phone_number": "+91 70834 33873",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Bavishe Galli, Raver, Maharashtra 425508",
+    "area": "450331",
+    "latitude": 21.2454763,
+    "longitude": 76.03659019999999,
+    "place_id": "ChIJ2UW6fOC02TsRFs6MYblVf10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2UW6fOC02TsRFs6MYblVf10",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:58:13"
+  },
+  {
+    "business_name": "Laxmi Ornaments",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Costume jewelry shop, Gold dealer, Jeweler, Jewelry buyer, Jewelry designer, Wholesale jeweler",
+    "pincode": "450331",
+    "phone_number": "+91 80049 93176",
+    "website": "https://laxmiornaments.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Lalbagh, parao road, Lalbagh, Nai Basti, Sitapur, Uttar Pradesh 261001",
+    "area": "Lalbagh, Nai Basti",
+    "latitude": 27.568893199999998,
+    "longitude": 80.6797376,
+    "place_id": "ChIJyc63ohfXnjkRPynZuPdXLV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyc63ohfXnjkRPynZuPdXLV8",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:58:13"
+  }
+]

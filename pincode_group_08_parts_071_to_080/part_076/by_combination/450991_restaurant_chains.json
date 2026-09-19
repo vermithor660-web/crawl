@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Big Burp Deli",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Takeout restaurant",
+    "all_categories": "Takeout restaurant, Dessert shop, Fast food restaurant, Meal delivery, Momo restaurant, Sandwich shop",
+    "pincode": "450991",
+    "phone_number": "+91 93723 46367",
+    "website": "https://link.zomato.com/xqzv/rshare?id=4952746278db9982",
+    "rating": 4.2,
+    "reviews_count": 203,
+    "address": "Saikrupa Society, Indira Nagar, Kanjurmarg East, Mumbai, Maharashtra 400042",
+    "area": "Saikrupa Society, Indira Nagar, Kanjurmarg East",
+    "latitude": 19.1296169,
+    "longitude": 72.9320438,
+    "place_id": "ChIJue_k3VvH5zsRm9ZFiv3QIxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJue_k3VvH5zsRm9ZFiv3QIxE",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:13:33"
+  },
+  {
+    "business_name": "Zam Zam Fast Food",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Mughlai restaurant",
+    "all_categories": "Mughlai restaurant",
+    "pincode": "450991",
+    "phone_number": "+91 93409 24822",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "7C68+CRX, Hamidia Rd, opp. Corporation Bank, Dangi Colony, Bagh Umrao Dulha, Bhopal, Madhya Pradesh 462001",
+    "area": "Dangi Colony, Bagh Umrao Dulha",
+    "latitude": 23.2621996,
+    "longitude": 77.41116,
+    "place_id": "ChIJo_8jLyVofDkRUdRAMGVjilI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo_8jLyVofDkRUdRAMGVjilI",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:13:34"
+  }
+]

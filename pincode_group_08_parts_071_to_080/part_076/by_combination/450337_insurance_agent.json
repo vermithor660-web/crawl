@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fino Payments Bank",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Bank, Money transfer service, Savings bank",
+    "pincode": "450337",
+    "phone_number": "+91 99771 18081",
+    "website": "https://www.finobank.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gram-,Aarud, Post- Aarud, Teh- Pandhana, Arud, Madhya Pradesh 450661",
+    "area": "450337",
+    "latitude": 21.6312939,
+    "longitude": 76.25094949999999,
+    "place_id": "ChIJRz0X9VI92DsRfS3KIEe7gX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRz0X9VI92DsRfS3KIEe7gX4",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:02:35"
+  },
+  {
+    "business_name": "Insurance Advisor ( Rahul Dhamne )",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "450337",
+    "phone_number": "N/A",
+    "website": "http://mydc.in/?a=9755537139-7",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "At &post saiyyadpur, Saiyadpur, Madhya Pradesh 450337",
+    "area": "450337",
+    "latitude": 21.74028,
+    "longitude": 76.28563659999999,
+    "place_id": "ChIJg5QrknoZ2DsRDyNnKIlpYPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg5QrknoZ2DsRDyNnKIlpYPc",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:02:35"
+  }
+]

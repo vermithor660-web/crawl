@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "businessapp",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "451001",
+    "phone_number": "+91 98994 26411",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "businessapp, 451001, India",
+    "area": "451001",
+    "latitude": 9.374110199999999,
+    "longitude": -74.9524576,
+    "place_id": "ChIJPer_XbrvDDkRvbuxV0BWtmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPer_XbrvDDkRvbuxV0BWtmw",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:16:36"
+  },
+  {
+    "business_name": "Travel BPO",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "451001",
+    "phone_number": "+91 98910 57170",
+    "website": "http://www.travelsbpo.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Travel BPO, 451001, India",
+    "area": "451001",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ_3SC5BcbDTkRMBAm3wRJgLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_3SC5BcbDTkRMBAm3wRJgLk",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:16:36"
+  }
+]

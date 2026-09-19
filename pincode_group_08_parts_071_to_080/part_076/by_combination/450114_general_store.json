@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sengar",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "450114",
+    "phone_number": "+91 78058 70071",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Narayan Tanwar 82, Gujarkhedi, Punasa, Madhya Pradesh 450551",
+    "area": "450114",
+    "latitude": 22.2276708,
+    "longitude": 76.38610419999999,
+    "place_id": "ChIJ2ZOrM26tYjkR7vJB1zlpZ4A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ZOrM26tYjkR7vJB1zlpZ4A",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:49:47"
+  },
+  {
+    "business_name": "Jay Shree Shayam General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "450114",
+    "phone_number": "+91 91118 13954",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Road Bitiya Fata Main Road Bitiya Fata, Madhya Pradesh 450116",
+    "area": "450114",
+    "latitude": 22.0494846,
+    "longitude": 76.8319128,
+    "place_id": "ChIJddJWuDLf1zsR0rcCprf5mKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJddJWuDLf1zsR0rcCprf5mKo",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:49:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AutoBidder",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Motor vehicle dealer",
+    "pincode": "450551",
+    "phone_number": "+91 97709 21040",
+    "website": "http://autobidder.in/",
+    "rating": 4.1,
+    "reviews_count": 13,
+    "address": "Palasia, Devdarshan Building, Mumbai - Agra National Highway, South Tukoganj, Indore, Madhya Pradesh 452001",
+    "area": "South Tukoganj",
+    "latitude": 22.721905,
+    "longitude": 75.88525,
+    "place_id": "ChIJcTYzpzn9YjkRLiS3bTcZIF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcTYzpzn9YjkRLiS3bTcZIF4",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:05:17"
+  },
+  {
+    "business_name": "Spinny",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Audi dealer, BMW dealer, Car dealer, Honda dealer, Hyundai dealer, Suzuki dealer, Toyota dealer",
+    "pincode": "450551",
+    "phone_number": "+91 72772 77275",
+    "website": "https://www.spinny.com/used-cars-in-indore/s/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop number SF-28, 2nd Floor, Malhar mega mall, AB Rd, Vijay Nagar, Indore, Madhya Pradesh 452010",
+    "area": "Vijay Nagar, Scheme 54 PU4",
+    "latitude": 22.7445933,
+    "longitude": 75.89430209999999,
+    "place_id": "ChIJSdGtdHL9YjkRSAkLJ8LF8VQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSdGtdHL9YjkRSAkLJ8LF8VQ",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:05:19"
+  }
+]

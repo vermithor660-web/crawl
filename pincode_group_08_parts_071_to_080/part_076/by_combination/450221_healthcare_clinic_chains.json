@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Life line health care",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "450221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "86CJ+PX7, Naval Nagar Jhiri, Teressa, Burhanpur, Madhya Pradesh 450331",
+    "area": "Naval Nagar Jhiri, Teressa",
+    "latitude": 21.3217978,
+    "longitude": 76.2324324,
+    "place_id": "ChIJaXCxdAAz2DsRRigyxZyGXKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaXCxdAAz2DsRRigyxZyGXKw",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:56:45"
+  },
+  {
+    "business_name": "Sakshat Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "450221",
+    "phone_number": "+91 97538 93501",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sanjay Nagar, Burhanpur, Madhya Pradesh 450331",
+    "area": "Sanjay Nagar",
+    "latitude": 21.29714,
+    "longitude": 76.2224349,
+    "place_id": "ChIJm0oL0Scz2DsRTEm1-kHsGcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm0oL0Scz2DsRTEm1-kHsGcg",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:56:45"
+  }
+]

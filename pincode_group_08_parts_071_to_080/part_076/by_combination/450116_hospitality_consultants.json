@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AS Hospitality Consulting",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "450116",
+    "phone_number": "+91 93363 36330",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "AS Hospitality Consulting, 450116, India",
+    "area": "450116",
+    "latitude": 36.5832463,
+    "longitude": -6.6786958,
+    "place_id": "ChIJS65ZTH7jmzkRgg7wykw6bvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS65ZTH7jmzkRgg7wykw6bvg",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:52:25"
+  },
+  {
+    "business_name": "Midas Touch Hospitality Consultancy services",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "450116",
+    "phone_number": "+91 98404 01040",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Midas Touch Hospitality Consultancy services, 450116, India",
+    "area": "450116",
+    "latitude": 13.043795,
+    "longitude": 80.2339071,
+    "place_id": "ChIJX6fu0EVjUjoRuM8Yj0tcb-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX6fu0EVjUjoRuM8Yj0tcb-E",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:52:25"
+  }
+]

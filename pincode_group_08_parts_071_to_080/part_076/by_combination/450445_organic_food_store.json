@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sagar kela suppliers",
+    "search_category": "Organic Food Store",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "450445",
+    "phone_number": "+91 62641 91718",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Adagaon, Madhya Pradesh 450445",
+    "area": "450445",
+    "latitude": 21.2079234,
+    "longitude": 76.18718199999999,
+    "place_id": "ChIJda_6RWXN2TsR-QMaWKUE1Hw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJda_6RWXN2TsR-QMaWKUE1Hw",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:03:04"
+  },
+  {
+    "business_name": "Apsara General store",
+    "search_category": "Organic Food Store",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "450445",
+    "phone_number": "+91 96916 49830",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 105,
+    "address": "Shahpur, Madhya Pradesh 450445",
+    "area": "450445",
+    "latitude": 21.2371524,
+    "longitude": 76.2246789,
+    "place_id": "ChIJWdfESlXM2TsRJOXNgwzuPr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWdfESlXM2TsRJOXNgwzuPr0",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:03:04"
+  }
+]

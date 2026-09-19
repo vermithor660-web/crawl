@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba ka dhaba family restaurant tukaithad",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Restaurant",
+    "pincode": "450117",
+    "phone_number": "+91 62630 22969",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Baba ka dhaba family restaurant, Tukaithad, Madhya Pradesh 450332",
+    "area": "450117",
+    "latitude": 21.43355,
+    "longitude": 76.6794352,
+    "place_id": "ChIJhWOGKwCb1zsRxYnLjvsI718",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhWOGKwCb1zsRxYnLjvsI718",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:53:13"
+  },
+  {
+    "business_name": "Maa chandi family restaurant & dhaba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "450117",
+    "phone_number": "+91 78289 32274",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "P5V9+37J, Bichchhu Tekari, Madhya Pradesh 460330",
+    "area": "450117",
+    "latitude": 21.7427028,
+    "longitude": 77.1681424,
+    "place_id": "ChIJJwUpagDL1zsR6bF9iq_nggA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJwUpagDL1zsR6bF9iq_nggA",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:53:13"
+  }
+]

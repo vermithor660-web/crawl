@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prakalp hostel",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "450445",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "75JM+Q6V, Bahadarpur, Madhya Pradesh 450331",
+    "area": "450445",
+    "latitude": 21.2819954,
+    "longitude": 76.18306129999999,
+    "place_id": "ChIJpSAvouwz2DsREgbxG9O4M0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpSAvouwz2DsREgbxG9O4M0E",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:04:02"
+  },
+  {
+    "business_name": "GURJAR HOSTEL",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "450445",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "76WC+QJ3, MP SH 27, Sanjay Nagar, Burhanpur, Madhya Pradesh 450331",
+    "area": "Sanjay Nagar",
+    "latitude": 21.2968935,
+    "longitude": 76.2215617,
+    "place_id": "ChIJqwLJkmwz2DsRZb_PDnk5-Hk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwLJkmwz2DsRZb_PDnk5-Hk",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:04:03"
+  }
+]

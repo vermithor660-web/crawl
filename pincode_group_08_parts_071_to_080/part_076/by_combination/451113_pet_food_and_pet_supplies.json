@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri umiya kirana store",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "451113",
+    "phone_number": "+91 90392 73747",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "6QRR 285, Guna, Gogawan, Madhya Pradesh 473001",
+    "area": "451113",
+    "latitude": 22.1780927,
+    "longitude": 75.7528799,
+    "place_id": "ChIJJTXo05iJYjkRUtSskpzdRaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJTXo05iJYjkRUtSskpzdRaU",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:18:30"
+  },
+  {
+    "business_name": "Jaggi's Pet World",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "451113",
+    "phone_number": "+91 81268 90890",
+    "website": "https://www.facebook.com/profile.php?id=100063710515945&mibextid=ZbWKwL",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "161, Arya Nagar Chowk, Arya Nagar, Jwalapur, Uttarakhand 249407",
+    "area": "Arya Nagar",
+    "latitude": 29.9239294,
+    "longitude": 78.1175969,
+    "place_id": "ChIJl-ijoyRGCTkRFISnhNDD65Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-ijoyRGCTkRFISnhNDD65Q",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:18:31"
+  }
+]

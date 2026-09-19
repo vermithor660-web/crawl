@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hindustan Traders",
+    "search_category": "Tradeshows",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "450331",
+    "phone_number": "N/A",
+    "website": "https://hindustan-traders.grexa.site/",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Indore - Icchapur Hwy, near firoza Ali petrol pump, Jamalpura, Burhanpur, Madhya Pradesh 450331",
+    "area": "Jamalpura",
+    "latitude": 21.3199808,
+    "longitude": 76.2306224,
+    "place_id": "ChIJUx_sbq0z2DsRrympOqEhQZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUx_sbq0z2DsRrympOqEhQZY",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:59:31"
+  },
+  {
+    "business_name": "Mayur Traders",
+    "search_category": "Tradeshows",
+    "primary_category": "Wholesale Food Store",
+    "all_categories": "Wholesale Food Store",
+    "pincode": "450331",
+    "phone_number": "+91 87703 72252",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jamalpura, Burhanpur, Madhya Pradesh 450331",
+    "area": "Jamalpura",
+    "latitude": 21.3088031,
+    "longitude": 76.2256594,
+    "place_id": "ChIJT-7vCOAy2DsRMTdSeT1as4g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT-7vCOAy2DsRMTdSeT1as4g",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:59:31"
+  }
+]

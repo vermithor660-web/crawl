@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Samarth Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "450445",
+    "phone_number": "+91 99771 12328",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 21, near by Doctor BR Ambedkar Road, Chowk, Shahpur, Madhya Pradesh 450445",
+    "area": "Chowk",
+    "latitude": 21.2400284,
+    "longitude": 76.2252919,
+    "place_id": "ChIJN3dvo3rN2TsRq5ACklAVlTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3dvo3rN2TsRq5ACklAVlTs",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:03:19"
+  },
+  {
+    "business_name": "Supreme trailer",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "450445",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward no. 09, Mahatma fule chowk, Shahpur, Madhya Pradesh 450445",
+    "area": "450445",
+    "latitude": 21.2364236,
+    "longitude": 76.22713499999999,
+    "place_id": "ChIJNzl2OODN2TsRC0c4rxZT-gQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNzl2OODN2TsRC0c4rxZT-gQ",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:03:19"
+  }
+]

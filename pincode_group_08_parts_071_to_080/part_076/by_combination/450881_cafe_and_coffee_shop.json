@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Juice Point",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "450881",
+    "phone_number": "+91 88397 76105",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "R987+HX2, Unnamed Road, Shradha Nagar, Narayan Nagar, Khandwa, Madhya Pradesh 450001",
+    "area": "Shradha Nagar, Narayan Nagar",
+    "latitude": 21.8163886,
+    "longitude": 76.3649047,
+    "place_id": "ChIJW_uzy34d2DsRl5Z_yWb_Ds0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW_uzy34d2DsRl5Z_yWb_Ds0",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:11:51"
+  },
+  {
+    "business_name": "Maa Pitambara Juice Point",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "450881",
+    "phone_number": "+91 81031 01031",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 07 Main Road, Khandwa - Mundi Rd, Jawar, Khandwa, Madhya Pradesh 450991",
+    "area": "450881",
+    "latitude": 21.9398467,
+    "longitude": 76.4464015,
+    "place_id": "ChIJt9SJmkkD2DsRlqu8QiGkuq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt9SJmkkD2DsRlqu8QiGkuq4",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:11:52"
+  }
+]

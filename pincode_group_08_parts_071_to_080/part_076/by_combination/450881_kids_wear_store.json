@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nilkanth Kirana Store",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "450881",
+    "phone_number": "+91 93408 58089",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1 Ram Nagar Jaswadi Road, Khandwa, Madhya Pradesh 450001",
+    "area": "Ram Nagar Colony, Ramnagar Colony",
+    "latitude": 21.8100918,
+    "longitude": 76.3724235,
+    "place_id": "ChIJfWE-VG4d2DsRcCUSCYaX4vk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfWE-VG4d2DsRcCUSCYaX4vk",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:11:53"
+  },
+  {
+    "business_name": "Ram Panchar Dukan",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "450881",
+    "phone_number": "+91 90982 29397",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rampanchar, Garangaon, Madhya Pradesh 450881",
+    "area": "Rampanchar",
+    "latitude": 21.808838899999998,
+    "longitude": 76.5546031,
+    "place_id": "ChIJQ9BiZirx1zsRTplRoBFAt-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ9BiZirx1zsRTplRoBFAt-U",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:11:54"
+  }
+]

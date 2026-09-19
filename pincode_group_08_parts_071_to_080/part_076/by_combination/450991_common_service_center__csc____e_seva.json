@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Common Service Centre (CSC)",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "450991",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hanuman Mandir Road, Bharat Nagar, Dabgram, Siliguri, West Bengal 734004",
+    "area": "Bharat Nagar, Dabgram",
+    "latitude": 26.6945256,
+    "longitude": 88.439807,
+    "place_id": "ChIJ9zVpFC9B5DkRf7TIKiqOZd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9zVpFC9B5DkRf7TIKiqOZd8",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:14:30"
+  },
+  {
+    "business_name": "Tamilnadu e-Sevai centre",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "450991",
+    "phone_number": "+91 1800 425 1333",
+    "website": "https://www.tnesevai.tn.gov.in/Citizen/PortalLogin.aspx",
+    "rating": 2.6,
+    "reviews_count": 8,
+    "address": "3, Sydenhams Rd, Subramania Salai, Periamet, Kannappar Thidal, Chennai, Tamil Nadu 600003",
+    "area": "Periamet, Kannappar Thidal",
+    "latitude": 13.08725,
+    "longitude": 80.270139,
+    "place_id": "ChIJZ369kM5lUjoRIEDYwRJP8Zo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ369kM5lUjoRIEDYwRJP8Zo",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:14:30"
+  }
+]

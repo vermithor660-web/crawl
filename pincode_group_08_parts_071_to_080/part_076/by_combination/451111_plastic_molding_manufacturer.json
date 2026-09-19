@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Acme Plastics",
+    "search_category": "Plastic Molding Manufacturer",
+    "primary_category": "Plastic Products Supplier",
+    "all_categories": "Plastic Products Supplier",
+    "pincode": "451111",
+    "phone_number": "+91 93122 37169",
+    "website": "http://www.acmeplasticsindia.com/",
+    "rating": 4.1,
+    "reviews_count": 22,
+    "address": "Plot No. 4, Krishna Nagar, Opposite Plot No. 79, Sector No. 25, Ballabhgarh, Faridabad, Haryana 121004",
+    "area": "Krishna Nagar, Sector 56A",
+    "latitude": 28.335815699999998,
+    "longitude": 77.301778,
+    "place_id": "ChIJu___Q0fcDDkRlG0Th3r7iP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu___Q0fcDDkRlG0Th3r7iP4",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:18:10"
+  },
+  {
+    "business_name": "Renmar Plastics Machinery",
+    "search_category": "Plastic Molding Manufacturer",
+    "primary_category": "Plastic Injection Molding Workshop",
+    "all_categories": "Plastic Injection Molding Workshop, Service establishment",
+    "pincode": "451111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Renmar Plastics Machinery, 451111, India",
+    "area": "451111",
+    "latitude": 47.73855,
+    "longitude": 12.508827499999999,
+    "place_id": "ChIJD1Fi34Chd0gROPgUKoxeFAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD1Fi34Chd0gROPgUKoxeFAs",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:18:11"
+  }
+]

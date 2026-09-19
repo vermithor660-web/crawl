@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vandana Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "450116",
+    "phone_number": "+91 98936 02115",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 156,
+    "address": "Khirkiya, Madhya Pradesh 461441",
+    "area": "450116",
+    "latitude": 22.1667697,
+    "longitude": 76.8606088,
+    "place_id": "ChIJYzBcq9pgfTkRoNfM-1PpU_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYzBcq9pgfTkRoNfM-1PpU_o",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:51:30"
+  },
+  {
+    "business_name": "Punjab Hotel",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant",
+    "pincode": "450116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 30,
+    "address": "5V86+FCG, Main Road, Khirkiya, Madhya Pradesh 461441",
+    "area": "450116",
+    "latitude": 22.1661924,
+    "longitude": 76.861083,
+    "place_id": "ChIJHXq_hURhfTkRadJUkWKPm_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHXq_hURhfTkRadJUkWKPm_g",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:51:30"
+  }
+]

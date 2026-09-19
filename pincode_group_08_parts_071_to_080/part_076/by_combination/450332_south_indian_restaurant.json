@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAMBARPOT",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Indian restaurant, Indian takeaway, Takeout restaurant, Vegetarian restaurant",
+    "pincode": "450332",
+    "phone_number": "+91 99539 16051",
+    "website": "http://sambarpot.in/",
+    "rating": 4.7,
+    "reviews_count": 6620,
+    "address": "Ground floor, I, 1A, Block I, Lajpat Nagar II, New Delhi, Delhi 110024",
+    "area": "Block I, Lajpat Nagar II, Lajpat Nagar",
+    "latitude": 28.5690898,
+    "longitude": 77.2438976,
+    "place_id": "ChIJK65VZFHjDDkR4mcQf02lMCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK65VZFHjDDkR4mcQf02lMCs",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:59:50"
+  },
+  {
+    "business_name": "Namma Madurai Dosai",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Vegetarian restaurant",
+    "pincode": "450332",
+    "phone_number": "+91 87543 43425",
+    "website": "https://www.instagram.com/nmdjodhpur_?igsh=N3NvNHpqOXlzMXpp",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "12 B road, Residency Rd, Sardarpura, Jodhpur, Rajasthan 342003",
+    "area": "Sardarpura",
+    "latitude": 26.275727699999997,
+    "longitude": 73.00357629999999,
+    "place_id": "ChIJA-TiMwCNQTkRZyXfWI42Vck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA-TiMwCNQTkRZyXfWI42Vck",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:59:51"
+  }
+]

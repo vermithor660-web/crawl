@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Plumbing and gas line",
+    "search_category": "Plumber",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder",
+    "pincode": "450771",
+    "phone_number": "+91 99077 62766",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H khanshahwali, road, Khanshahwali, Padam Nagar, Nagchoon, Khandwa, Madhya Pradesh 450001",
+    "area": "Khanshahwali, Padam Nagar",
+    "latitude": 21.824511899999997,
+    "longitude": 76.33834809999999,
+    "place_id": "ChIJ93XkU8ob2DsR--PJWbv3TDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ93XkU8ob2DsR--PJWbv3TDc",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:10:41"
+  },
+  {
+    "business_name": "Plumber Services",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "450771",
+    "phone_number": "+91 98272 92632",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward No 08, 159, Nagchoon, Madhya Pradesh 450001",
+    "area": "450771",
+    "latitude": 21.8571053,
+    "longitude": 76.323257,
+    "place_id": "ChIJ4zvUTeQF2DsRhvjnBU1uyhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4zvUTeQF2DsRhvjnBU1uyhg",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:10:41"
+  }
+]

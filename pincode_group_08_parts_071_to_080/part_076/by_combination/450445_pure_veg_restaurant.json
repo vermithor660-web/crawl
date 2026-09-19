@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Green Leaf Vegetarian Cuisine",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Chinese restaurant, Family restaurant, Indian restaurant, Restaurant, Soup shop",
+    "pincode": "450445",
+    "phone_number": "+91 92605 00400",
+    "website": "http://www.greenleafveg.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No 6 to 9, Block J B, Town Centre, N 1, Cidco, beside Inox Tapadiya, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Town Centre, N 1, Cidco",
+    "latitude": 19.8793755,
+    "longitude": 75.3659543,
+    "place_id": "ChIJowFmouyi2zsRm2dkUC1wrxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJowFmouyi2zsRm2dkUC1wrxQ",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:03:09"
+  },
+  {
+    "business_name": "Uttam Bhoj",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Rajasthani Restaurant",
+    "pincode": "450445",
+    "phone_number": "+91 257 222 9701",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Polan Peth Next to Chitra Chowk Old Bus Stand, Jalgaon, Maharashtra 425001",
+    "area": "Polan Peth, Shahunagar",
+    "latitude": 21.012986599999998,
+    "longitude": 75.5680931,
+    "place_id": "ChIJL7MLHKQP2TsR1hoO2YX7u34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL7MLHKQP2TsR1hoO2YX7u34",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:03:09"
+  }
+]

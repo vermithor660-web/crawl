@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prasadhak",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Beauty supply store",
+    "all_categories": "Beauty supply store, Aromatherapy supply store, Cosmetics store, Perfume Exporter, Wholesaler",
+    "pincode": "451111",
+    "phone_number": "+91 99677 33478",
+    "website": "https://prasadhak.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SEARS House, 123A, Manbhavan Nagar, Indore, Madhya Pradesh 452018",
+    "area": "Manbhavan Nagar",
+    "latitude": 22.7219527,
+    "longitude": 75.90535799999999,
+    "place_id": "ChIJqx49VojjYjkRc4Rn7_DhCo8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqx49VojjYjkRc4Rn7_DhCo8",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:17:35"
+  },
+  {
+    "business_name": "Healthoware Impex",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Massage supply store",
+    "all_categories": "Massage supply store",
+    "pincode": "451111",
+    "phone_number": "+91 80 4861 7091",
+    "website": "https://www.healthoware.in/",
+    "rating": 4.7,
+    "reviews_count": 58,
+    "address": "Plot No. 94, Pili Nadi, Kamptee Rd, Bank Colony, Nagpur, Maharashtra 440026",
+    "area": "Bank Colony",
+    "latitude": 21.186617899999998,
+    "longitude": 79.1313124,
+    "place_id": "ChIJYbm4fNLG1DsR41GYKxGFfSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYbm4fNLG1DsR41GYKxGFfSk",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:17:37"
+  }
+]

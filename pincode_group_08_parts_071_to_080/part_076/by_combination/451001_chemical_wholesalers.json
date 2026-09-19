@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mayank Distributors",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Cleaning products supplier",
+    "all_categories": "Cleaning products supplier, Chemical Manufacturer, Chemical wholesaler, Toiletries Store, Wholesaler",
+    "pincode": "451001",
+    "phone_number": "+91 99933 93339",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "343, avani gram colony, khargone, Khargone, Madhya Pradesh 451001",
+    "area": "Jawahar Nagar",
+    "latitude": 21.8285812,
+    "longitude": 75.6168412,
+    "place_id": "ChIJP1VVVdGF2DsRS0cXd46UzPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP1VVVdGF2DsRS0cXd46UzPM",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:16:25"
+  },
+  {
+    "business_name": "SB Enterprises",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Household chemicals supplier",
+    "all_categories": "Household chemicals supplier",
+    "pincode": "451001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C 51, Aashadham Colony, Gouridham Extension Colony, Khargone, Madhya Pradesh 451001",
+    "area": "Aashadham Colony, Gouridham Extension Colony",
+    "latitude": 21.8361797,
+    "longitude": 75.6120795,
+    "place_id": "ChIJ7dS1qd2F2DsR6WfAgcDWY94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7dS1qd2F2DsR6WfAgcDWY94",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:16:25"
+  }
+]

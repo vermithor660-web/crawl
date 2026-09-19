@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chetan",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "450551",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "44WW+356, Sulgaon, Madhya Pradesh 450551",
+    "area": "450551",
+    "latitude": 22.145121,
+    "longitude": 76.1454523,
+    "place_id": "ChIJf_9kFgCjYjkR0w97gL_azGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf_9kFgCjYjkR0w97gL_azGs",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:06:09"
+  },
+  {
+    "business_name": "Karoda homes",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "450551",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "54W5+WW5, Chitramod, Singar Chori, Madhya Pradesh 450554",
+    "area": "450551",
+    "latitude": 22.197257999999998,
+    "longitude": 76.1098705,
+    "place_id": "ChIJV8L7ijCjYjkRpiXkfz67ykY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV8L7ijCjYjkRpiXkfz67ykY",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:06:11"
+  }
+]

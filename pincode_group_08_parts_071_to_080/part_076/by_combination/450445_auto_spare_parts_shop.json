@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Moon Auto Parts",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "450445",
+    "phone_number": "+91 70009 15292",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bus Stand, Shop No.9, Road, Burhanpur, Madhya Pradesh 450331",
+    "area": "Jamalpura",
+    "latitude": 21.3100912,
+    "longitude": 76.2259122,
+    "place_id": "ChIJiSaj6IEz2DsRN3U_kR6QEKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiSaj6IEz2DsRN3U_kR6QEKY",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:03:36"
+  },
+  {
+    "business_name": "Shri Auto Centre",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "450445",
+    "phone_number": "+91 91315 12066",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "59V4+CRQ, Pipli Ryt, Madhya Pradesh 450445",
+    "area": "450445",
+    "latitude": 21.194976,
+    "longitude": 76.35670569999999,
+    "place_id": "ChIJGSOeCaDR2TsRCooCHbRgYbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGSOeCaDR2TsRCooCHbRgYbM",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:03:36"
+  }
+]

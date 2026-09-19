@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Life function hall",
+    "search_category": "Banquet Hall",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue",
+    "pincode": "450117",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "HV2V+259, Darni, Maharashtra 444702",
+    "area": "450117",
+    "latitude": 21.550040799999998,
+    "longitude": 76.89297049999999,
+    "place_id": "ChIJM3qVSbW91zsRiPv7dqrOSrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM3qVSbW91zsRiPv7dqrOSrI",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:53:56"
+  },
+  {
+    "business_name": "Jogibida",
+    "search_category": "Banquet Hall",
+    "primary_category": "Village hall",
+    "all_categories": "Village hall",
+    "pincode": "450117",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "VMWF+85F, Khalwa, Madhya Pradesh 450117",
+    "area": "450117",
+    "latitude": 21.895815,
+    "longitude": 76.67292069999999,
+    "place_id": "ChIJ35sWQwDl1zsRduLdNzVEVHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ35sWQwDl1zsRduLdNzVEVHU",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:53:56"
+  }
+]

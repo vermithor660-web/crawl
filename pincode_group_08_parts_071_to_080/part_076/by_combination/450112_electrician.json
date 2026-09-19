@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Power Pro Electrical & Plumbers",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician, Consultant, Contractor, Electric motor repair shop, Electrical equipment supplier, Electrical installation service, Plumber, Electronics repair shop, Metal construction company, Roofing contractor",
+    "pincode": "450112",
+    "phone_number": "+91 62629 09969",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Sagar Gaire Parihar Choraha, Plot No.: 6710, Near Parihar Square, Ashoka Garden, Bhopal, Madhya Pradesh 462023",
+    "area": "Near Parihar Square, Ashoka Garden",
+    "latitude": 23.258200799999997,
+    "longitude": 77.43096419999999,
+    "place_id": "ChIJLd3XIjlpfDkRXI5O9al0DP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLd3XIjlpfDkRXI5O9al0DP0",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:48:48"
+  },
+  {
+    "business_name": "Riya Electricals",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, School",
+    "pincode": "450112",
+    "phone_number": "+91 83051 50665",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Shop No.18 Rajmata Sindhiya Market Moghat, Road, Thana, Khandwa, Madhya Pradesh 450001",
+    "area": "Vidhyuth Nagar",
+    "latitude": 21.8283004,
+    "longitude": 76.3440938,
+    "place_id": "ChIJt5jqu2sb2DsREU8L9xIYALk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt5jqu2sb2DsREU8L9xIYALk",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:48:49"
+  }
+]

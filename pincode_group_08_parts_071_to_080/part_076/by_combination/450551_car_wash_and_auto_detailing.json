@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A to Z Car Wash & Service Center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "450551",
+    "phone_number": "+91 79051 57150",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 30,
+    "address": "Health City, Hospital Road, near Body Care & Eram Model Sch, Vijay Khand, Ujariyaon, Vijay Khand 2, Gomti Nagar, Lucknow, Uttar Pradesh 226010",
+    "area": "Vijay Khand, Ujariyaon, Vijay Khand 2, Gomti Nagar",
+    "latitude": 26.8596939,
+    "longitude": 80.9917451,
+    "place_id": "ChIJY2kQks39mzkRlGmMKQGjqvw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY2kQks39mzkRlGmMKQGjqvw",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:05:16"
+  },
+  {
+    "business_name": "Qureshi service center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "450551",
+    "phone_number": "+91 88901 45565",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "HGX7+JP2, Khandela, Daira, Rajasthan 332709",
+    "area": "450551",
+    "latitude": 27.6000467,
+    "longitude": 75.5142011,
+    "place_id": "ChIJUQN_tWfDbDkR3k1O5ih47NU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUQN_tWfDbDkR3k1O5ih47NU",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:05:16"
+  }
+]

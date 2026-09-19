@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Banti Hardware Shop",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "450445",
+    "phone_number": "+91 80859 41112",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rd, Nachankheda, Shahpur, Madhya Pradesh 450445",
+    "area": "450445",
+    "latitude": 21.2377811,
+    "longitude": 76.2223458,
+    "place_id": "ChIJSeVxcwDN2TsRZtZufggyNDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSeVxcwDN2TsRZtZufggyNDg",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:03:43"
+  },
+  {
+    "business_name": "Hakimi hardware, paints, pipes and general",
+    "search_category": "Hardware Store",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "450445",
+    "phone_number": "+91 94068 17752",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sunar patti, Sindhipura, Monin Pura, Burhanpur, Madhya Pradesh 450331",
+    "area": "Sindhipura, Monin Pura",
+    "latitude": 21.316639499999997,
+    "longitude": 76.2346093,
+    "place_id": "ChIJ24pvNDEz2DsRaFfq7NoSc6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ24pvNDEz2DsRaFfq7NoSc6U",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:03:45"
+  }
+]

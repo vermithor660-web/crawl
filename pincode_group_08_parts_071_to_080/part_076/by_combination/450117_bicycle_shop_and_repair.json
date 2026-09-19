@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nirmal Bike And Car Decore",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "450117",
+    "phone_number": "+91 97535 01442",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.238, Indore Rd, Padam Nagar, Khandwa, Madhya Pradesh 450001",
+    "area": "Padam Nagar",
+    "latitude": 21.826459999999997,
+    "longitude": 76.33098679999999,
+    "place_id": "ChIJd99hr60b2DsROEi2-RZ_FrA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd99hr60b2DsROEi2-RZ_FrA",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:53:37"
+  },
+  {
+    "business_name": "Ambika Cycle Service",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "450117",
+    "phone_number": "+91 62682 58701",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "House No.367, Anand, Rameshwar Nagar Main Rd, Kishore Nagar, Khandwa, Madhya Pradesh 450001",
+    "area": "Kishore Nagar",
+    "latitude": 21.8394011,
+    "longitude": 76.3522098,
+    "place_id": "ChIJJZpB3wAb2DsRFuSCF7IWtl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJZpB3wAb2DsRFuSCF7IWtl4",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:53:39"
+  }
+]

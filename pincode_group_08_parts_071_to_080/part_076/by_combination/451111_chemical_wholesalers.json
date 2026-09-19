@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chemtech Marketing",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler, Agrochemicals Supplier, Chemical Exporter, Chemical Manufacturer, Household chemicals supplier, Industrial chemicals wholesaler",
+    "pincode": "451111",
+    "phone_number": "+91 98112 35785",
+    "website": "http://www.chemtechmarketing.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "B-1/15, Block B, Model Town Phase I, Model Town, Delhi, 110009",
+    "area": "Block B, Model Town Phase I, Model Town",
+    "latitude": 28.7046967,
+    "longitude": 77.1908636,
+    "place_id": "ChIJ____PwcCDTkRo5UPBfzAz00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____PwcCDTkRo5UPBfzAz00",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:18:08"
+  },
+  {
+    "business_name": "Vijay Tredars",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "451111",
+    "phone_number": "+91 77479 74357",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bediya, Madhya Pradesh 451113",
+    "area": "451111",
+    "latitude": 22.086696699999997,
+    "longitude": 75.9502668,
+    "place_id": "ChIJR7-FaHqdYjkRIpd6yOmU_ZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR7-FaHqdYjkRIpd6yOmU_ZA",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:18:08"
+  }
+]

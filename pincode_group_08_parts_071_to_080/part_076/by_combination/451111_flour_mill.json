@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kavya aata chakki",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "451111",
+    "phone_number": "+91 62639 91034",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "main gali, near Ram Temple, Bagda Khurd, Bediya, Madhya Pradesh 451111",
+    "area": "451111",
+    "latitude": 22.087144,
+    "longitude": 75.97379029999999,
+    "place_id": "ChIJD-XJCaedYjkRpBo6KNKLmfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD-XJCaedYjkRpBo6KNKLmfo",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:16:42"
+  },
+  {
+    "business_name": "Sunstone Engineering Industries Pvt Ltd",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "451111",
+    "phone_number": "N/A",
+    "website": "http://www.pukhrajmillstone.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No D6, Near Railway station, Kalwar Scheme, Gopalbari, Jaipur, Rajasthan 302001",
+    "area": "Kalwar Scheme, Govind Nagar West, Gopalbari",
+    "latitude": 26.935785,
+    "longitude": 75.833613,
+    "place_id": "ChIJW3CrtzmxbTkRAa4lxeNl_yU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW3CrtzmxbTkRAa4lxeNl_yU",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:16:44"
+  }
+]

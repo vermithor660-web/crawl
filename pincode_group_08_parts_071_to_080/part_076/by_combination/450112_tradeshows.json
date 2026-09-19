@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India International Trade Fair",
+    "search_category": "Tradeshows",
+    "primary_category": "Exhibition and trade center",
+    "all_categories": "Exhibition and trade center",
+    "pincode": "450112",
+    "phone_number": "N/A",
+    "website": "https://indiatradefair.com/",
+    "rating": 4.5,
+    "reviews_count": 1018,
+    "address": "J68W+95Q, Pragati Maidan, New Delhi, Delhi 110001",
+    "area": "Pragati Maidan",
+    "latitude": 28.6159556,
+    "longitude": 77.2454989,
+    "place_id": "ChIJ_dR0dC_jDDkRMtvbnKiSW4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_dR0dC_jDDkRMtvbnKiSW4U",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:49:33"
+  },
+  {
+    "business_name": "India Traders",
+    "search_category": "Tradeshows",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "450112",
+    "phone_number": "+91 88261 53736",
+    "website": "https://www.indiatradersreels.in/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Ground Floor, Khasra No. 1726, Grand Trunk Rd, opposite to pillar no. 154, Shaheed Nagar, Sahibabad, Ghaziabad, Uttar Pradesh 201006",
+    "area": "Shaheed Nagar, Sahibabad",
+    "latitude": 28.6769319,
+    "longitude": 77.33874689999999,
+    "place_id": "ChIJc4-gdGn7DDkRL10muKFu7aM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4-gdGn7DDkRL10muKFu7aM",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:49:34"
+  }
+]

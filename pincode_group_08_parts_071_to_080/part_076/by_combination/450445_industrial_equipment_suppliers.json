@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naeem enterprises",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Plastic bag supplier",
+    "all_categories": "Plastic bag supplier",
+    "pincode": "450445",
+    "phone_number": "+91 88891 22924",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mominpura, Burhanpur, Madhya Pradesh 450331",
+    "area": "Mominpura",
+    "latitude": 21.3145021,
+    "longitude": 76.2180095,
+    "place_id": "ChIJ1X5AyEgz2DsRyl8yMLG9zYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1X5AyEgz2DsRyl8yMLG9zYE",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:04:30"
+  },
+  {
+    "business_name": "Sanjari Irrigation",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Irrigation equipment supplier",
+    "all_categories": "Irrigation equipment supplier",
+    "pincode": "450445",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "66H7+59P, MP SH 27, Shahpur, Madhya Pradesh 450445",
+    "area": "450445",
+    "latitude": 21.2279619,
+    "longitude": 76.2134655,
+    "place_id": "ChIJuY7sXYHN2TsR7M_zMvExQxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuY7sXYHN2TsR7M_zMvExQxs",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:04:32"
+  }
+]

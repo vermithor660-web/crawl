@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "450661",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M683+PCR, Goradiya, Madhya Pradesh 450661",
+    "area": "450661",
+    "latitude": 21.666870499999998,
+    "longitude": 76.2035081,
+    "place_id": "ChIJQ4kkSDYX2DsRt0NyB9vZuhY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4kkSDYX2DsRt0NyB9vZuhY",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:09:13"
+  },
+  {
+    "business_name": "Shri Radhe Krishna Hotel",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "450661",
+    "phone_number": "+91 97536 17495",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 66,
+    "address": "5R33+P49, Bhedaghat Main Rd, Bilha, Madhya Pradesh 483053",
+    "area": "450661",
+    "latitude": 23.1538981,
+    "longitude": 79.8033105,
+    "place_id": "ChIJeUo2cgC3gTkRa1mm5Gf8XR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeUo2cgC3gTkRa1mm5Gf8XR8",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:09:14"
+  }
+]

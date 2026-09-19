@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jamra footwear bhilkhedi",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "450881",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JF33+9XW, Bhelkhedi, Madhya Pradesh 450001",
+    "area": "450881",
+    "latitude": 21.6032233,
+    "longitude": 76.4547615,
+    "place_id": "ChIJwa8SSAAh2DsRE0LBq-vyzlY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwa8SSAAh2DsRE0LBq-vyzlY",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:11:56"
+  },
+  {
+    "business_name": "Situ Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "450881",
+    "phone_number": "+91 96853 06600",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 01, Khalwa, Madhya Pradesh 450117",
+    "area": "450881",
+    "latitude": 21.803820899999998,
+    "longitude": 76.74514359999999,
+    "place_id": "ChIJ6eC8fa3p1zsReawmIBihgwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6eC8fa3p1zsReawmIBihgwU",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:11:57"
+  }
+]

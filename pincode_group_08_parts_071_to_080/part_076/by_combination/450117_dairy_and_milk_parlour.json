@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Dairy",
+    "pincode": "450117",
+    "phone_number": "+91 99935 70815",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Vandana School, Vindhyachal Colony, Model Town Colony, Guna, Madhya Pradesh 473001",
+    "area": "Vindhyachal Colony, Model Town Colony",
+    "latitude": 24.6386039,
+    "longitude": 77.299053,
+    "place_id": "ChIJfUNOjfBbejkRoAq6bKAKK9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfUNOjfBbejkRoAq6bKAKK9c",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:53:03"
+  },
+  {
+    "business_name": "Amul - Fulchand Baldeoprasad",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Dairy Products Supplier",
+    "pincode": "450117",
+    "phone_number": "+91 98275 22266",
+    "website": "http://www.amul.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "52, Siyaganj Main Rd, Siyaganj, Indore, Madhya Pradesh 452007",
+    "area": "Siyaganj",
+    "latitude": 22.7161868,
+    "longitude": 75.8657789,
+    "place_id": "ChIJ____Dw79YjkRTa0DRawPFWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____Dw79YjkRTa0DRawPFWU",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:53:03"
+  }
+]

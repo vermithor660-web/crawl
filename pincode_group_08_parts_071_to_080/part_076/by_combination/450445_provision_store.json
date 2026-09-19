@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "More Provision",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "450445",
+    "phone_number": "+91 89597 25725",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 9,
+    "address": "Shop No 9, Shivaji Chowk, Chapora, Madhya Pradesh 450445",
+    "area": "Shivaji Chowk",
+    "latitude": 21.1980325,
+    "longitude": 76.18576209999999,
+    "place_id": "ChIJcSC_WB_N2TsRgfJjtxugRqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcSC_WB_N2TsRgfJjtxugRqQ",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:03:01"
+  },
+  {
+    "business_name": "Mayank General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "450445",
+    "phone_number": "+91 88398 48408",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "67 Mohad Ka, Mohad, Madhya Pradesh 450445",
+    "area": "450445",
+    "latitude": 21.175536899999997,
+    "longitude": 76.2736874,
+    "place_id": "ChIJGa7OwmvR2TsRRCZPwpvlr10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGa7OwmvR2TsRRCZPwpvlr10",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:03:03"
+  }
+]

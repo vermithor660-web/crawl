@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nitya baker's and food services",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Service establishment",
+    "pincode": "450221",
+    "phone_number": "N/A",
+    "website": "https://youtube.com/@nityabakers?si=gR0IuSG8jAZki2oi",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "Nitya baker's and food services, 450221, India",
+    "area": "450221",
+    "latitude": 21.3176515,
+    "longitude": 76.2180144,
+    "place_id": "ChIJKW3rBpj9kmERcwLC8FC3WWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKW3rBpj9kmERcwLC8FC3WWA",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:56:21"
+  },
+  {
+    "business_name": "Kohinoor Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "450221",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/_kohinoor_bakery?igsh=ZnFoNXI3bXMxdHNm",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lalbagh Rd, Sindhi Basti, Burhanpur, Madhya Pradesh 450331",
+    "area": "Sindhi Basti",
+    "latitude": 21.3138352,
+    "longitude": 76.2190158,
+    "place_id": "ChIJcXrW0NIz2DsRIzH93ui_l8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcXrW0NIz2DsRIzH93ui_l8Q",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:56:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apna Plumbing",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "450331",
+    "phone_number": "+91 93726 92077",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "New Savda, Main Rd, near Dalal Doctor, Raver, Maharashtra 425508",
+    "area": "450331",
+    "latitude": 21.2432475,
+    "longitude": 76.0343171,
+    "place_id": "ChIJSYS9qLa12TsRxJuZc7eiUko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSYS9qLa12TsRxJuZc7eiUko",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:58:42"
+  },
+  {
+    "business_name": "Prem Sai Traders",
+    "search_category": "Plumber",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Electrical supply store, Plumbing supply store",
+    "pincode": "450331",
+    "phone_number": "+91 77479 03046",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "Shahpur Main Road, Ward No 11, State Highway 27, Shahpur, Madhya Pradesh 450445",
+    "area": "450331",
+    "latitude": 21.2382553,
+    "longitude": 76.2235058,
+    "place_id": "ChIJnSwXX1XM2TsROBldvCE3mDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnSwXX1XM2TsROBldvCE3mDU",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:58:43"
+  }
+]

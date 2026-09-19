@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navodaya Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "450771",
+    "phone_number": "+91 733 224 3430",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 20,
+    "address": "R8FR+XMP, Anand Nagar, Khandwa, Khandwa Taraf Kumbhi, Madhya Pradesh 450001",
+    "area": "Anand Nagar",
+    "latitude": 21.824958199999998,
+    "longitude": 76.3417012,
+    "place_id": "ChIJyaw98oMb2DsRG0kNjJxclkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyaw98oMb2DsRG0kNjJxclkA",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:10:19"
+  },
+  {
+    "business_name": "st.pampuri hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital",
+    "pincode": "450771",
+    "phone_number": "+91 733 224 4126",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 10,
+    "address": "R8G9+4Q5, Khandwa-Chhegaon Makhan Rd, Santosh Nagar, Padam Nagar, Khandwa, Madhya Pradesh 450001",
+    "area": "Santosh Nagar, Padam Nagar",
+    "latitude": 21.8252505,
+    "longitude": 76.31947939999999,
+    "place_id": "ChIJx1fifh8b2DsRjn_OP4BUXlM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx1fifh8b2DsRjn_OP4BUXlM",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:10:19"
+  }
+]

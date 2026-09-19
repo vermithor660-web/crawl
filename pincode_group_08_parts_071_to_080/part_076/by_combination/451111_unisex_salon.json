@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brows and Beard",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "451111",
+    "phone_number": "+91 93436 45203",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Raksha Tower Shop No 4, Chunabhatti, Kolar Rd, Janki Nagar, Bhopal, Madhya Pradesh 462016",
+    "area": "Janki Nagar, Chuna Bhatti",
+    "latitude": 23.211443799999998,
+    "longitude": 77.4194775,
+    "place_id": "ChIJP9fEl_5CfDkRi74Rv4JFXKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP9fEl_5CfDkRi74Rv4JFXKY",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:17:35"
+  },
+  {
+    "business_name": "Salon shoppe Spa & salon Furniture",
+    "search_category": "Unisex Salon",
+    "primary_category": "Furniture Manufacturer",
+    "all_categories": "Furniture Manufacturer, Beauty Products Wholesaler, Furniture maker, Furniture wholesaler, Industrial equipment supplier",
+    "pincode": "451111",
+    "phone_number": "+91 99994 50077",
+    "website": "https://salonshoppe.in/",
+    "rating": 4.3,
+    "reviews_count": 192,
+    "address": "Salon shoppe, Filmistan, luv Kush Ramlila commety, 8233/8244, Rani Jhansi Rd, New Delhi, Delhi 110006",
+    "area": "Chowk Nai Basti, Sadar Bazar",
+    "latitude": 28.6596828,
+    "longitude": 77.2033323,
+    "place_id": "ChIJEXCzU3r9DDkRyqMqR0zCtPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEXCzU3r9DDkRyqMqR0zCtPI",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:17:36"
+  }
+]

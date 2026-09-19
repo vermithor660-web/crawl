@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veterinary medicine",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "450881",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Narayan Nagar, Khandwa, Madhya Pradesh 450001",
+    "area": "Narayan Nagar",
+    "latitude": 21.8144963,
+    "longitude": 76.3651805,
+    "place_id": "ChIJn2VSFlsb2DsRY04p-2Tk0yc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn2VSFlsb2DsRY04p-2Tk0yc",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:11:43"
+  },
+  {
+    "business_name": "Ryan's Pet Care",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet boarding service, Pet groomer, Pet store, Pet trainer",
+    "pincode": "450881",
+    "phone_number": "+91 98046 74264",
+    "website": "https://www.facebook.com/profile.php?id=100095667512636&mibextid=kFxxJD",
+    "rating": 4.7,
+    "reviews_count": 62,
+    "address": "Sitanath Bose Ln, Salkia, Howrah, West Bengal 711106",
+    "area": "Salkia",
+    "latitude": 22.600016999999998,
+    "longitude": 88.33881799999999,
+    "place_id": "ChIJ2clzAOZ3AjoRdcyMG4EFBq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2clzAOZ3AjoRdcyMG4EFBq8",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:11:45"
+  }
+]

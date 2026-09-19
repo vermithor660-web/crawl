@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raypid.com",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Chimney services, Electrical installation service, Electrical repair shop, Appliance repair service, Refrigerator repair service, Security system installation service, Security system supplier, Washer & dryer repair service, Water purification company",
+    "pincode": "450991",
+    "phone_number": "+91 99835 50066",
+    "website": "https://www.raypid.com/",
+    "rating": 4.9,
+    "reviews_count": 438,
+    "address": "Pno-21 A,Benad road, Jhotwara, near HDFC Bank, Murlipura, Boytawala, Rajasthan 302012",
+    "area": "Murlipura",
+    "latitude": 26.9976341,
+    "longitude": 75.7325342,
+    "place_id": "ChIJARTeR5aybTkRTYv2ZNW-pzA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJARTeR5aybTkRTYv2ZNW-pzA",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:14:05"
+  },
+  {
+    "business_name": "Services on Call",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Handyman/Handywoman/Handyperson",
+    "pincode": "450991",
+    "phone_number": "+91 78006 22577",
+    "website": "https://servicesoncall.in/",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "Office No. 54, Khushi Vihar, Plot No. 39, Manak Nagar, Kanausi, Lucknow, Uttar Pradesh 226005",
+    "area": "Manak Nagar, Kanausi",
+    "latitude": 26.8307513,
+    "longitude": 80.88317789999999,
+    "place_id": "ChIJm31OHp3_mzkRhpttU7acSrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm31OHp3_mzkRhpttU7acSrI",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:14:07"
+  }
+]

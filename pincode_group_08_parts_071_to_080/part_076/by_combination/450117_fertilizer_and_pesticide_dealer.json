@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree agro",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service, Agricultural Product Wholesaler",
+    "pincode": "450117",
+    "phone_number": "+91 76976 71076",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "bajrang chowk, kharwadi rode, near Dada ji mobile Shop, Ghaspura, Khandwa, Madhya Pradesh 450001",
+    "area": "Ghaspura",
+    "latitude": 21.8215219,
+    "longitude": 76.3482619,
+    "place_id": "ChIJmbaUJG4b2DsRLSOTd9j2wb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmbaUJG4b2DsRLSOTd9j2wb0",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:54:27"
+  },
+  {
+    "business_name": "Raj Pesticides Pvt. Ltd.",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "450117",
+    "phone_number": "+91 95898 76550",
+    "website": "http://rajpesticides.in/",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Office No.713, Pukhraj Corporate, Bus Stand, opp. Navlakha, Janki Nagar, Indore, Madhya Pradesh 452001",
+    "area": "Janki Nagar",
+    "latitude": 22.7006099,
+    "longitude": 75.8757937,
+    "place_id": "ChIJq6qqqib9YjkRRz8c6DAWVIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqib9YjkRRz8c6DAWVIs",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 08:54:28"
+  }
+]

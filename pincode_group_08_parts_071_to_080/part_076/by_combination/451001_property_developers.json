@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lokhandwala Township",
+    "search_category": "Property Developers",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "451001",
+    "phone_number": "N/A",
+    "website": "https://www.brajbhushan.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mangrul Rd, opposite Aashirwad Colony, Gouridham Extension Colony, Khargone, Madhya Pradesh 451001",
+    "area": "Gouridham Extension Colony",
+    "latitude": 21.840647399999998,
+    "longitude": 75.61213649999999,
+    "place_id": "ChIJzWYWF8qF2DsRwhYv8A6aw7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzWYWF8qF2DsRwhYv8A6aw7Y",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:16:22"
+  },
+  {
+    "business_name": "JANAI DEVELOPERS",
+    "search_category": "Property Developers",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "451001",
+    "phone_number": "+91 79099 91000",
+    "website": "https://janaidevelopers.co.in/",
+    "rating": 5,
+    "reviews_count": 1187,
+    "address": "near Janai Restaurant, Irrigation Colony, Uruli Kanchan, Maharashtra 412202",
+    "area": "Irrigation Colony",
+    "latitude": 18.4864156,
+    "longitude": 74.1405656,
+    "place_id": "ChIJ89GXRHLhwjsR-AUmmk7wcXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ89GXRHLhwjsR-AUmmk7wcXM",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:16:23"
+  }
+]

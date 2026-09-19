@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madpackers Jaipur",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "450554",
+    "phone_number": "+91 87662 66071",
+    "website": "https://madpackers.com/hostels/jaipur/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Raj Mal Ka Talab, 87A, Hawa Mahal Rd, near Anokhi Textiles, Chandi Ki Taksal, Pink City, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302002",
+    "area": "Chandi Ki Taksal, Pink City",
+    "latitude": 26.928358499999998,
+    "longitude": 75.82772369999999,
+    "place_id": "ChIJe05ItEuxbTkRkD8L3T6ZZMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe05ItEuxbTkRkD8L3T6ZZMY",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:07:31"
+  },
+  {
+    "business_name": "Zostel Indore",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "450554",
+    "phone_number": "+91 731 485 2221",
+    "website": "https://www.zostel.com/zostel/indore/zostel-indore-ndrh427",
+    "rating": 4.7,
+    "reviews_count": 417,
+    "address": "AE376, near Satya Sai Square, Vijay Nagar, Scheme No 74, Indore, Madhya Pradesh 452010",
+    "area": "Vijay Nagar, Scheme No 74",
+    "latitude": 22.7572166,
+    "longitude": 75.8943769,
+    "place_id": "ChIJo6kCC8oDYzkRJrgbNaEqLGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo6kCC8oDYzkRJrgbNaEqLGE",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:07:31"
+  }
+]

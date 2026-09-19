@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Ganesh paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "450881",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ganesh goushala, Bhawani Mata Rd, Padam Nagar, Khandwa, Madhya Pradesh 450001",
+    "area": "Padam Nagar",
+    "latitude": 21.8204432,
+    "longitude": 76.34335209999999,
+    "place_id": "ChIJdZ-Y6S4b2DsRordCd-dXPMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZ-Y6S4b2DsRordCd-dXPMI",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:12:20"
+  },
+  {
+    "business_name": "Sanjari Paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "450881",
+    "phone_number": "+91 98222 65155",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Deepak chokh, near Hasham Seth complex, Mominpura, Akola, Maharashtra 444006",
+    "area": "Mominpura",
+    "latitude": 20.7144814,
+    "longitude": 77.00078669999999,
+    "place_id": "ChIJL5emdegx1zsR0HvfmuEYLT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5emdegx1zsR0HvfmuEYLT4",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:12:21"
+  }
+]
