@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The home cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "465685",
+    "phone_number": "N/A",
+    "website": "https://homecafe.foodpos.in/ordering/shop/cart",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ward 8 Mahatma, Gandhi Marg, Rajgarh, Madhya Pradesh 454116",
+    "area": "465685",
+    "latitude": 22.678782299999998,
+    "longitude": 74.94458139999999,
+    "place_id": "ChIJk5OAUH5_YTkRBnmuZmfR0IA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk5OAUH5_YTkRBnmuZmfR0IA",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:28:59"
+  },
+  {
+    "business_name": "Bhandari Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "465685",
+    "phone_number": "+91 83477 93607",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pachore, Madhya Pradesh 465683",
+    "area": "465685",
+    "latitude": 23.718344,
+    "longitude": 76.7302953,
+    "place_id": "ChIJ7fn1TnxbezkRujKvAxMK07g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7fn1TnxbezkRujKvAxMK07g",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:29:02"
+  }
+]

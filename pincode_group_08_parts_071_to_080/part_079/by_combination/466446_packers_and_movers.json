@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sky Movers & Packers",
+    "search_category": "Packers and Movers",
+    "primary_category": "Moving service",
+    "all_categories": "Moving service",
+    "pincode": "466446",
+    "phone_number": "+91 755 494 5243",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H No.S-28,Purvasha Nagar, Narmadapuram Rd, Bhopal, Madhya Pradesh 464993",
+    "area": "466446",
+    "latitude": 22.9944269,
+    "longitude": 77.5899759,
+    "place_id": "ChIJBUtI23M2fDkRMJhbS98dk1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUtI23M2fDkRMJhbS98dk1A",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:00:55"
+  },
+  {
+    "business_name": "Century Packers and Movers - Bhopal",
+    "search_category": "Packers and Movers",
+    "primary_category": "Packaging company",
+    "all_categories": "Packaging company",
+    "pincode": "466446",
+    "phone_number": "+91 99263 86427",
+    "website": "http://www.centurypackersandmovers.com/",
+    "rating": 4.7,
+    "reviews_count": 31,
+    "address": "4/6, Near Aishbagh Police Station, Aishbagh, Bhopal, Madhya Pradesh 462010",
+    "area": "Aish Bagh",
+    "latitude": 23.255332199999998,
+    "longitude": 77.4207059,
+    "place_id": "ChIJt4uCaCpofDkRnd_uaiXlXiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt4uCaCpofDkRnd_uaiXlXiE",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:00:56"
+  }
+]

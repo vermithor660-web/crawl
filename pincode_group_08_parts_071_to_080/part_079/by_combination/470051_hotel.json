@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL SUKHSAGAR होटल सुखसागर",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "470051",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 158,
+    "address": "Hospital Road, Bus statsion, Tilli, Sagar, Madhya Pradesh 470001",
+    "area": "Bus statsion, Tilli",
+    "latitude": 23.8361235,
+    "longitude": 78.7498509,
+    "place_id": "ChIJ5S7RjVLReDkROCeFt87KxS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5S7RjVLReDkROCeFt87KxS4",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:20:38"
+  },
+  {
+    "business_name": "Hotel Sai Aashirwad",
+    "search_category": "Hotel",
+    "primary_category": "Asian restaurant",
+    "all_categories": "Asian restaurant, Vegetarian restaurant",
+    "pincode": "470051",
+    "phone_number": "+91 97701 30781",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "In Front Of UTD Ground Monorama Colony Tehsil Road, Madhya Pradesh 470001",
+    "area": "Manorama Colony, Poddar Colony",
+    "latitude": 23.8224974,
+    "longitude": 78.7631917,
+    "place_id": "ChIJ85xWv-PTeDkR3LuRrniuv64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ85xWv-PTeDkR3LuRrniuv64",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:20:41"
+  }
+]

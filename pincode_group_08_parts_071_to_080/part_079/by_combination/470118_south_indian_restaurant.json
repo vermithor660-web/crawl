@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaishika South Indian Food",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "470118",
+    "phone_number": "+91 95099 41572",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 71,
+    "address": "Shop no 23, Niwaru Rd, nearby Bank of Baroda, Ramneshpuri Colony, rampuri, Jhotwara, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302012",
+    "area": "Ramneshpuri Colony, rampuri, Jhotwara",
+    "latitude": 26.9547566,
+    "longitude": 75.7446799,
+    "place_id": "ChIJ6xBqDguzbTkRbxkf4rTt9lk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6xBqDguzbTkRbxkf4rTt9lk",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:26:46"
+  },
+  {
+    "business_name": "Shree Durga Dosa Corner",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Hotel",
+    "pincode": "470118",
+    "phone_number": "+91 99108 81320",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 231,
+    "address": "Shop no-11, ShreeDurga Dosa Corner, B4 Block, Paschim Vihar, Delhi, 110063",
+    "area": "B4 Block, Paschim Vihar",
+    "latitude": 28.6655986,
+    "longitude": 77.1077833,
+    "place_id": "ChIJsRodgW4DDTkRlDteZVOpuzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsRodgW4DDTkRlDteZVOpuzk",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:26:46"
+  }
+]

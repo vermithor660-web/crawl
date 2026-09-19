@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kothari oil and food industries",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "465683",
+    "phone_number": "+91 90010 00274",
+    "website": "https://kotharioils.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Industrial Area, Banswara, Kevalpura Rural, Rajasthan 327001",
+    "area": "Industrial Area",
+    "latitude": 23.5328125,
+    "longitude": 74.4333125,
+    "place_id": "ChIJoSxAeEjPZjkRiI8YpvaZ89Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoSxAeEjPZjkRiI8YpvaZ89Y",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:27:04"
+  },
+  {
+    "business_name": "Shri Ram Auto Parts",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Tractor repair shop",
+    "pincode": "465683",
+    "phone_number": "+91 89894 43035",
+    "website": "https://wa.me/c/918989443035",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "AH47, Pachore, Madhya Pradesh 465683",
+    "area": "465683",
+    "latitude": 23.719171799999998,
+    "longitude": 76.7352022,
+    "place_id": "ChIJ2b5pBYJcezkReb9xZpxBNCI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2b5pBYJcezkReb9xZpxBNCI",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:27:06"
+  }
+]

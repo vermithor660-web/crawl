@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shop Pepar",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "470004",
+    "phone_number": "+91 87190 98417",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Civil Line Road, Adarsh Nagar Colony, Sankargad, Makroniya, Sagar, Madhya Pradesh 470004",
+    "area": "Adarsh Nagar Colony, Sankargad",
+    "latitude": 23.852223799999997,
+    "longitude": 78.79065159999999,
+    "place_id": "ChIJV5LNY07ReDkRtVEj8drxL9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5LNY07ReDkRtVEj8drxL9g",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:17:30"
+  },
+  {
+    "business_name": "Flight Express Courier & Cargo",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "470004",
+    "phone_number": "+91 98531 82422",
+    "website": "http://www.flightexpresscourier.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Plot no 88, 3rd St, Gautam Nagar, Bhubaneswar, Odisha 751014",
+    "area": "Gautam Nagar",
+    "latitude": 20.2579287,
+    "longitude": 85.83828989999999,
+    "place_id": "ChIJTXv1HzWnGToR0W_EmOG6Qb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTXv1HzWnGToR0W_EmOG6Qb8",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:17:32"
+  }
+]

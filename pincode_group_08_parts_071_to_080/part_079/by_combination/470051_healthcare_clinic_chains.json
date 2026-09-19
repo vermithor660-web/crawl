@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Visit Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Dental clinic, Diagnostic center, Medical diagnostic imaging center, ENT Specialist, Pharmacy, Physiotherapy Center",
+    "pincode": "470051",
+    "phone_number": "+91 84481 64673",
+    "website": "https://getvisitapp.com/visit-clinic/",
+    "rating": 4.8,
+    "reviews_count": 197,
+    "address": "Ground floor, Visit Clinic, Marathahalli - Sarjapur Outer Ring Rd, Chandana, Bengaluru, Karnataka 560103",
+    "area": "Chandana",
+    "latitude": 12.9374782,
+    "longitude": 77.6926526,
+    "place_id": "ChIJz_Hl4EcTrjsR12PURX-YQnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz_Hl4EcTrjsR12PURX-YQnE",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:20:10"
+  },
+  {
+    "business_name": "Sagar Health Seva (Home Nursing Services Bangalore)",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Home health care service",
+    "all_categories": "Home health care service, Hospital equipment and supplies, Medical equipment supplier, Medical supply store, Mobility equipment supplier, Nursing agency, Oxygen equipment supplier, Wheelchair rental service",
+    "pincode": "470051",
+    "phone_number": "+91 95916 11315",
+    "website": "http://www.sagarhealthseva.com/?utm_source=google&utm_medium=cpc&utm_campaign=gmb",
+    "rating": 4.5,
+    "reviews_count": 802,
+    "address": "47/26-27, Jai Rakshitha Krupa, 12th Main, Puttenahalli Rd, near Petrol Bunk, Ramaiah Garden, J. P. Nagar, Bengaluru, Karnataka 560078",
+    "area": "Jagruthi Colony, Ramaiah Garden, JP Nagar 7th Phase, J. P. Nagar",
+    "latitude": 12.895116699999999,
+    "longitude": 77.5818276,
+    "place_id": "ChIJw5BTAEEVrjsRZ-TLp7PHnn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw5BTAEEVrjsRZ-TLp7PHnn8",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:20:10"
+  }
+]

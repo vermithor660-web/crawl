@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Homeopath",
+    "pincode": "470118",
+    "phone_number": "+91 98261 94973",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6MM2+9QM, Katora Talab Rd, near Punjab National Bank, Janta Colony, Raipur, Chhattisgarh 492001",
+    "area": "Janta Colony",
+    "latitude": 21.2334565,
+    "longitude": 81.6519252,
+    "place_id": "ChIJ70gxuwjdKDoR27OFHZcEeKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ70gxuwjdKDoR27OFHZcEeKU",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:26:58"
+  },
+  {
+    "business_name": "Dr. Radhika’s Homoeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Service establishment",
+    "pincode": "470118",
+    "phone_number": "+91 88007 07816",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Dr. Radhika’s Homoeopathic Clinic, 470118, India",
+    "area": "470118",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJk3PS3HQDDTkRi1m00ZZ3Vk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk3PS3HQDDTkRi1m00ZZ3Vk0",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:27:02"
+  }
+]

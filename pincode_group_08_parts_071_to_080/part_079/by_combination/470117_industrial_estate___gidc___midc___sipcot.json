@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Motherson Industrial Park",
+    "search_category": "Industrial Estate / GIDC / MIDC / SIPCOT",
+    "primary_category": "Corporate campus",
+    "all_categories": "Corporate campus, Corporate office, Customs warehouse, Industrial consultant, Industrial real estate agency, Office space rental agency",
+    "pincode": "470117",
+    "phone_number": "+91 91766 47231",
+    "website": "https://mip-india.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Singadivakkam & Mummalpattu villages, NH4, Bengaluru - Chennai Hwy, at, Tamil Nadu 602106",
+    "area": "at",
+    "latitude": 12.9167743,
+    "longitude": 79.8612665,
+    "place_id": "ChIJPSTn78kacwMRCXqCt5QsFmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPSTn78kacwMRCXqCt5QsFmk",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:26:34"
+  },
+  {
+    "business_name": "Fritzmeier Motherson Cabin Engg Ltd (FMCEL)",
+    "search_category": "Industrial Estate / GIDC / MIDC / SIPCOT",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "470117",
+    "phone_number": "+91 44 2724 8251",
+    "website": "http://www.motherson.com/",
+    "rating": 4.3,
+    "reviews_count": 29,
+    "address": "NH4 - Athivakkam Road/112 - Singadivakkam/Attuputhur Post 631561, Kanchipuram, Tamil Nadu 631561",
+    "area": "470117",
+    "latitude": 12.8853695,
+    "longitude": 79.8036293,
+    "place_id": "ChIJ8SuZLd_rUjoRBFsT0HNQkTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8SuZLd_rUjoRBFsT0HNQkTo",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:26:34"
+  }
+]

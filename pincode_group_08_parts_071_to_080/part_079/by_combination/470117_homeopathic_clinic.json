@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Gupta's Homoeopathic clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Homeopath",
+    "pincode": "470117",
+    "phone_number": "+91 98781 93638",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Street No 16, adjoining Punjab National Bank, Basti Jodhewal, Sunder Nagar, Ludhiana, Punjab 141007",
+    "area": "Basti Jodhewal, Sunder Nagar",
+    "latitude": 30.9275424,
+    "longitude": 75.8652046,
+    "place_id": "ChIJl0qnAWODGjkRNCtghHw7D9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl0qnAWODGjkRNCtghHw7D9o",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:25:13"
+  },
+  {
+    "business_name": "Srushti Homeopathic Clinic - Best Homeopathic Clinic in Badlapur | Homeopathic Doctor in Badlapur",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Diabetes center, Doctor, Homeopathic pharmacy, Medical Center, Medical clinic, Medical group",
+    "pincode": "470117",
+    "phone_number": "+91 91723 54551",
+    "website": "https://www.srushtihomeopathicclinic.com/",
+    "rating": 4.9,
+    "reviews_count": 47,
+    "address": "phase 3, Mohan Greenwoods CHS, Shop No. 23, Building No. 12, Mhatre Chowk, Badlapur West, Manjarli, Badlapur, Maharashtra 421503",
+    "area": "Badlapur West, Shaninagar, Manjarli",
+    "latitude": 19.173782499999998,
+    "longitude": 73.2401168,
+    "place_id": "ChIJEfihMMmT5zsRx3L3reUHjr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEfihMMmT5zsRx3L3reUHjr4",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:25:16"
+  }
+]

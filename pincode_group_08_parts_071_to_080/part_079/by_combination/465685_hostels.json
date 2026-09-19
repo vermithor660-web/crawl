@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Patel hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "465685",
+    "phone_number": "+91 93008 29732",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "05, near chetak bridge, Rajaswa Patrakaar Colony, Shastri Nagar, Ratlam, Madhya Pradesh 457001",
+    "area": "Rajaswa Patrakaar Colony, Shastri Nagar",
+    "latitude": 23.3349936,
+    "longitude": 75.0357734,
+    "place_id": "ChIJ0fiClWj_YzkRv4YEVnT_kKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0fiClWj_YzkRv4YEVnT_kKo",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:29:53"
+  },
+  {
+    "business_name": "Elite hostel",
+    "search_category": "Hostels",
+    "primary_category": "Youth Hostel",
+    "all_categories": "Youth Hostel",
+    "pincode": "465685",
+    "phone_number": "+91 95222 77781",
+    "website": "https://youtube.com/@raghav_boys_hostel_ujjain?si=y18P6QIVVDZWiMoJ",
+    "rating": 4.7,
+    "reviews_count": 9,
+    "address": "Vikram Homes Colony Rd, Shivaji Nagar, Ujjain, Madhya Pradesh 456001",
+    "area": "Shivaji Nagar",
+    "latitude": 23.1602666,
+    "longitude": 75.78601929999999,
+    "place_id": "ChIJ1WkSTtV1YzkR9YxopUSPDNE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1WkSTtV1YzkR9YxopUSPDNE",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:29:55"
+  }
+]

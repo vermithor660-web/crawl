@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Vijay traders",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "465680",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 26,
+    "address": "near palet pul, Sidhi, Madhya Pradesh 486661",
+    "area": "465680",
+    "latitude": 24.4003321,
+    "longitude": 81.8784522,
+    "place_id": "ChIJJ0L6UYuVhTkRVLOfSZ2nyQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ0L6UYuVhTkRVLOfSZ2nyQc",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:25:49"
+  },
+  {
+    "business_name": "Mauli Traders Paint Bazar",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "465680",
+    "phone_number": "+91 98266 69945",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Amaha Road, near Foolmati Mandir, Sidhi, Madhya Pradesh 486661",
+    "area": "465680",
+    "latitude": 24.397479699999998,
+    "longitude": 81.8801438,
+    "place_id": "ChIJ72OqvaOVhTkRhmcGogyLHxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ72OqvaOVhTkRhmcGogyLHxs",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:25:49"
+  }
+]

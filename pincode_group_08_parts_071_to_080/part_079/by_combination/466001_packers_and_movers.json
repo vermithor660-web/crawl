@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Century Packers & Movers",
+    "search_category": "Packers and Movers",
+    "primary_category": "Packaging company",
+    "all_categories": "Packaging company",
+    "pincode": "466001",
+    "phone_number": "+91 78280 24663",
+    "website": "https://centurypackersandmovers.in/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Shop : F-03, Triveni Heights, opp. Suncity Hospital, Sindhi Colony, Karond, Bhopal, Madhya Pradesh 462038",
+    "area": "Sindhi Colony, Karond",
+    "latitude": 23.2927914,
+    "longitude": 77.4033575,
+    "place_id": "ChIJUdQZSYppfDkRiGBbDZUsD5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUdQZSYppfDkRiGBbDZUsD5E",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:39:57"
+  },
+  {
+    "business_name": "Mukesh Packers And Movers",
+    "search_category": "Packers and Movers",
+    "primary_category": "Moving and storage service",
+    "all_categories": "Moving and storage service, Moving service, Moving supply store, Packaging company, Packaging supply store, Transportation service",
+    "pincode": "466001",
+    "phone_number": "+91 70008 74051",
+    "website": "http://www.mukeshpackersandmovers.in/",
+    "rating": 4.9,
+    "reviews_count": 55,
+    "address": "Shop No 49, Bhadbhada Rd, near Indian Institute of Forest Management, Nehru Nagar, Bhopal, Madhya Pradesh 462044",
+    "area": "Nehru Nagar",
+    "latitude": 23.2007951,
+    "longitude": 77.3546566,
+    "place_id": "ChIJ6Y2PMRNdfDkRBLKUIZ0O5GI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Y2PMRNdfDkRBLKUIZ0O5GI",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:39:57"
+  }
+]

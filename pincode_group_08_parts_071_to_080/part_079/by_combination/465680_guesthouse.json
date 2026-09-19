@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul lodge",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "465680",
+    "phone_number": "+91 88896 88383",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 4,
+    "address": "near by tehsil, Boda, Kadiya Sansi, Madhya Pradesh 465685",
+    "area": "465680",
+    "latitude": 23.6666131,
+    "longitude": 76.8016123,
+    "place_id": "ChIJgRBrh1hfezkRs68KzTVoBrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgRBrh1hfezkRs68KzTVoBrE",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:26:20"
+  },
+  {
+    "business_name": "Hotel Royal Residency Manawar",
+    "search_category": "Guesthouse",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "465680",
+    "phone_number": "+91 99815 97150",
+    "website": "https://jsdl.in/DT-99KUITZM",
+    "rating": 4.2,
+    "reviews_count": 21,
+    "address": "Congress Bhawan Square, Near, Singhana Rd, Tehsil, Manawar, Madhya Pradesh 454446",
+    "area": "Tehsil",
+    "latitude": 22.234856399999998,
+    "longitude": 75.0850665,
+    "place_id": "ChIJZa2syR0ZYjkRaeXU26n3xt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZa2syR0ZYjkRaeXU26n3xt8",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:26:21"
+  }
+]

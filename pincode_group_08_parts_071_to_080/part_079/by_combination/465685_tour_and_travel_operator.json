@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tour Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "465685",
+    "phone_number": "+91 94248 70652",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 209,
+    "address": "101, Dewas Rd, Adarsh Nagar, Nagziri, Ujjain, Madhya Pradesh 456010",
+    "area": "Adarsh Nagar, Nagziri",
+    "latitude": 23.1407456,
+    "longitude": 75.8127856,
+    "place_id": "ChIJf2NnUVB1YzkRJ9nrQWKn_es",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf2NnUVB1YzkRJ9nrQWKn_es",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:29:27"
+  },
+  {
+    "business_name": "For You Holidays, MP Tourism Office, Ujjain",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Car rental agency, Currency exchange service, Passport Agent, Passport office, Taxi service, Tour operator, Visa and passport office, Visa Agent",
+    "pincode": "465685",
+    "phone_number": "+91 82696 11111",
+    "website": "https://foryouholidays.in/",
+    "rating": 4.9,
+    "reviews_count": 695,
+    "address": "03 Harihar Complex, Sanwer Rd, beside Agrawal Tent house, Ujjain, Madhya Pradesh 456010",
+    "area": "Alakhdham Colony, Shastri Nagar",
+    "latitude": 23.168727999999998,
+    "longitude": 75.7891772,
+    "place_id": "ChIJ8ZfcgX91YzkRw3eMWyfYSlg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ZfcgX91YzkRw3eMWyfYSlg",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:29:27"
+  }
+]

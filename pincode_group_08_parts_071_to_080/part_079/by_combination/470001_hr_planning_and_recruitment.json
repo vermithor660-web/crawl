@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hind Hire",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "470001",
+    "phone_number": "+91 99114 10147",
+    "website": "https://www.hindhire.com/",
+    "rating": 5,
+    "reviews_count": 70,
+    "address": "Hind Hire, 470001, India",
+    "area": "470001",
+    "latitude": 24.0588239,
+    "longitude": 76.406086,
+    "place_id": "ChIJFQ-fRARz4gURNaf_hrN1oQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFQ-fRARz4gURNaf_hrN1oQc",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:12:14"
+  },
+  {
+    "business_name": "WorkIndia",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Employment agency",
+    "all_categories": "Employment agency",
+    "pincode": "470001",
+    "phone_number": "+91 80 6982 4660",
+    "website": "https://www.workindia.in/?utm_source=gmb&utm_medium=gmb_organic",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "3rd Floor 3rd floor, 437, 17th Cross Rd, Sector 4, HSR Layout, Bengaluru, Karnataka 560102",
+    "area": "Sector 4, HSR Layout",
+    "latitude": 12.9123261,
+    "longitude": 77.6435332,
+    "place_id": "ChIJvxYcxRkVrjsRzcMXqg7foyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvxYcxRkVrjsRzcMXqg7foyI",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:12:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Fitness Garage",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "470119",
+    "phone_number": "+91 98889 92456",
+    "website": "https://www.instagram.com/tfg_itanagar?igsh=MW0yZXd0Mmg2b3B5OA==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4th floor, Seventh heaven bullding, t-nali, Gohpur, Itanagar, Arunachal Pradesh 791111",
+    "area": "t-nali",
+    "latitude": 27.0762306,
+    "longitude": 93.5929932,
+    "place_id": "ChIJ3_V3dXwHRDcRSZ3tOCbFQ20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3_V3dXwHRDcRSZ3tOCbFQ20",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:28:52"
+  },
+  {
+    "business_name": "RAJKUMAR Jain",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "470119",
+    "phone_number": "+91 84629 10131",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sagar Rd, Rahatgarh, Sagar, Madhya Pradesh 470119",
+    "area": "470119",
+    "latitude": 23.7865465,
+    "longitude": 78.4201557,
+    "place_id": "ChIJlXnwEpUzeTkRpe1_KVCH_Zk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlXnwEpUzeTkRpe1_KVCH_Zk",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:28:53"
+  }
+]

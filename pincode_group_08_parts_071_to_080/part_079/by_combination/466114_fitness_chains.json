@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pal Fitness Club",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Aerobics Class, Fitness center, Meditation Class, Nutritionist, Weight loss service, Yoga instructor",
+    "pincode": "466114",
+    "phone_number": "+91 99983 08587",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 246,
+    "address": "Baghban Circle, Shop No 428, Soham Arcade, Nr. Kratos Circle, Gaurav Path Road, Pal Gam, Surat, Gujarat 394510",
+    "area": "Pal Gam",
+    "latitude": 21.1893235,
+    "longitude": 72.7710128,
+    "place_id": "ChIJLejgiU5M4DsR8le_WIGcsYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLejgiU5M4DsR8le_WIGcsYc",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:45:14"
+  },
+  {
+    "business_name": "Indian Fitness Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "466114",
+    "phone_number": "+91 83879 57135",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 122,
+    "address": "High school ke pass asia complex, Bhinmal, Rajasthan 343029",
+    "area": "466114",
+    "latitude": 25.0062948,
+    "longitude": 72.262559,
+    "place_id": "ChIJ8RHyg4VrQzkR481_Ufq7noM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8RHyg4VrQzkR481_Ufq7noM",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:45:14"
+  }
+]

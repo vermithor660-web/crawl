@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Juice Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "465693",
+    "phone_number": "+91 97008 30245",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Pillar No. 209, beside HDFC bank, Ashok Vihar Society, Upperpally, Hyderabad, Telangana 500048",
+    "area": "Ashok Vihar Society",
+    "latitude": 17.3475178,
+    "longitude": 78.41575019999999,
+    "place_id": "ChIJAcdhbD2XyzsR1d5lJM9AA2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAcdhbD2XyzsR1d5lJM9AA2I",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:35:53"
+  },
+  {
+    "business_name": "Juice Wala Company",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "465693",
+    "phone_number": "+91 63546 64072",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6, near Manshrover School, Punagam, Surat, Gujarat 395011",
+    "area": "Parasmani Society, Punagam, Varachha",
+    "latitude": 21.2045751,
+    "longitude": 72.8746757,
+    "place_id": "ChIJCUzp2wVP4DsRaaBhxcO0mD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCUzp2wVP4DsRaaBhxcO0mD8",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:35:56"
+  }
+]

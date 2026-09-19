@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Gents Tailor",
+    "all_categories": "Gents Tailor",
+    "pincode": "466554",
+    "phone_number": "+91 82697 93179",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near Toran Darwaja, Dasai, Madhya Pradesh 454441",
+    "area": "466554",
+    "latitude": 22.721643099999998,
+    "longitude": 75.1316404,
+    "place_id": "ChIJd92VTovSYzkR4bfTTChdSo0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd92VTovSYzkR4bfTTChdSo0",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:04:02"
+  },
+  {
+    "business_name": "Fashion designer boutique",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Service establishment",
+    "pincode": "466554",
+    "phone_number": "+91 91562 06263",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Fashion designer boutique, 466554, India",
+    "area": "466554",
+    "latitude": 21.0774248,
+    "longitude": 77.6513442,
+    "place_id": "ChIJjzXH8tTz1jsRxh2yrgM859s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjzXH8tTz1jsRxh2yrgM859s",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:04:02"
+  }
+]

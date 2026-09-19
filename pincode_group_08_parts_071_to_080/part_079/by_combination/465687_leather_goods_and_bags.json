@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mudeer Leather Boutique",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "465687",
+    "phone_number": "+91 99202 03544",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no 7, B Wing, Priyadarshani CHS, Sion-Bandra Link Rd, opp. ONGC Building, Dharavi, Mumbai, Maharashtra 400017",
+    "area": "Dharavi",
+    "latitude": 19.047929099999998,
+    "longitude": 72.857697,
+    "place_id": "ChIJd689RKLJ5zsRK1T2xl4yJKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd689RKLJ5zsRK1T2xl4yJKc",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:30:55"
+  },
+  {
+    "business_name": "Royal Leather",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "465687",
+    "phone_number": "+91 98306 85398",
+    "website": "https://royalleather.in/",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "30B, 2, Gulam Jilani Khan Rd, Topsia, Kolkata, West Bengal 700039",
+    "area": "Topsia",
+    "latitude": 22.538470399999998,
+    "longitude": 88.3877337,
+    "place_id": "ChIJsZ9gw712AjoRG84IMUtWlew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsZ9gw712AjoRG84IMUtWlew",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:30:56"
+  }
+]

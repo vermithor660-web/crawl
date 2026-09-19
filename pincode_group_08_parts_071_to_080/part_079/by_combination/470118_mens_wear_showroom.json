@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Living Legend",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing manufacturer, Clothing store, Jeans shop, Dress store, Dressmaker, T-shirt store, Western apparel store, Youth clothing store",
+    "pincode": "470118",
+    "phone_number": "+91 96776 81543",
+    "website": "http://www.livinglegendjeans.com/",
+    "rating": 4.8,
+    "reviews_count": 225,
+    "address": "136, Thiruvenkata samy Road, Punniakodi Rd, Punniya, R.S. Puram, Coimbatore, Tamil Nadu 641002",
+    "area": "Punniya, R.S. Puram",
+    "latitude": 11.0099156,
+    "longitude": 76.9462446,
+    "place_id": "ChIJ3erhbiRZqDsRt7HaNAwtJrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3erhbiRZqDsRt7HaNAwtJrI",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:26:52"
+  },
+  {
+    "business_name": "Men's Grand Fashions",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Dress store",
+    "all_categories": "Dress store",
+    "pincode": "470118",
+    "phone_number": "+91 75027 82188",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 140,
+    "address": "2/266-A, Near M.R.P kalyana mandabam,Covai, main road, Vadaputhur, Tamil Nadu 642109",
+    "area": "470118",
+    "latitude": 10.826484599999999,
+    "longitude": 77.018107,
+    "place_id": "ChIJxy_NuYFPqDsRTd4le5cQ5U8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxy_NuYFPqDsRTd4le5cQ5U8",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:26:52"
+  }
+]

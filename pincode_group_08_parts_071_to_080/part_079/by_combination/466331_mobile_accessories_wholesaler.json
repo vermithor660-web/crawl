@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madhu Mobile",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "466331",
+    "phone_number": "+91 99932 57695",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "632J+R24, Main Rd, kothri, Sindhi Colony, Sehore, Madhya Pradesh 466001",
+    "area": "kothri, Sindhi Colony",
+    "latitude": 23.2019861,
+    "longitude": 77.0800895,
+    "place_id": "ChIJ9VJCCmPzfDkRDwzyOVKAvyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9VJCCmPzfDkRDwzyOVKAvyE",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:58:02"
+  },
+  {
+    "business_name": "RCP SMART SOLUTIONS",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Digital printing service",
+    "all_categories": "Digital printing service, Manufacturer",
+    "pincode": "466331",
+    "phone_number": "+91 92013 14166",
+    "website": "https://rcpsmartsolutions.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Shop No 03, Kanhaiya Lal Complex, Nasrullaganj, Madhya Pradesh 466331",
+    "area": "466331",
+    "latitude": 22.6830614,
+    "longitude": 77.2739093,
+    "place_id": "ChIJb3JlebqpfTkRLwjgF_5UoMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb3JlebqpfTkRLwjgF_5UoMo",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:58:02"
+  }
+]

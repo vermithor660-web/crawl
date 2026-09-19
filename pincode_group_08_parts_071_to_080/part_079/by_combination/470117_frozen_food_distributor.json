@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maximus Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer",
+    "pincode": "470117",
+    "phone_number": "+91 99465 16605",
+    "website": "https://maximusdelight.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Panvel - Kochi - Kanyakumari Hwy, Swagathamad, Kottakkal, Thennala, Keralam 676510",
+    "area": "Swagathamad",
+    "latitude": 10.9793392,
+    "longitude": 76.0011786,
+    "place_id": "ChIJ9fdo48-1pzsRknGhT5ejbMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9fdo48-1pzsRknGhT5ejbMc",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:24:56"
+  },
+  {
+    "business_name": "24 Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "470117",
+    "phone_number": "+91 94400 88000",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No.6, Market Complex, Kothapet, Ramalingeswara Pet, Tenali, Andhra Pradesh 522201",
+    "area": "Kothapet, Ramalingeswara Pet",
+    "latitude": 16.237548,
+    "longitude": 80.6452422,
+    "place_id": "ChIJ_fn5P_kHSjoRvxcmd44NbLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_fn5P_kHSjoRvxcmd44NbLU",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:24:56"
+  }
+]

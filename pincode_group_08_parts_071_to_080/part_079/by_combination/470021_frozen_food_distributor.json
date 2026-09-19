@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "frozen forever",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "470021",
+    "phone_number": "+91 89823 37842",
+    "website": "https://frozen-forever.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "159, Kaushalyapuri, Indore, Madhya Pradesh 452001",
+    "area": "Kaushalyapuri",
+    "latitude": 22.6925286,
+    "longitude": 75.8812083,
+    "place_id": "ChIJNWwBtXD9YjkRRR7p6i68PtA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNWwBtXD9YjkRRR7p6i68PtA",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:17:57"
+  },
+  {
+    "business_name": "Supreme Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "470021",
+    "phone_number": "+91 11 4213 3106",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 47,
+    "address": "C-20, Rajdhani Market, Tagore Garden Extension, New Delhi, Delhi 110027",
+    "area": "Block C, Vishal Enclave, Tagore Garden Extension",
+    "latitude": 28.6529642,
+    "longitude": 77.1159346,
+    "place_id": "ChIJAQAAQHsDDTkRLZstUTcJtmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAQHsDDTkRLZstUTcJtmg",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:17:58"
+  }
+]

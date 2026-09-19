@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "470004",
+    "phone_number": "+91 95892 42904",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Jhansi Rd, Padmakar Nagar, Avanti Bai ward, Makroniya, Sagar, Madhya Pradesh 470004",
+    "area": "Padmakar Nagar, Avanti Bai ward",
+    "latitude": 23.8519601,
+    "longitude": 78.79001149999999,
+    "place_id": "ChIJrc4Vf9jReDkR6ErN1W6fY4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrc4Vf9jReDkR6ErN1W6fY4w",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:16:29"
+  },
+  {
+    "business_name": "Best Medicals",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "470004",
+    "phone_number": "+91 484 254 0143",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Rajagiri Rd near kalamassery metro station, piller number : p260, Kochi, Keralam 683104",
+    "area": "North Kalamassery, Kalamassery",
+    "latitude": 10.0582573,
+    "longitude": 76.3215657,
+    "place_id": "ChIJ4djNvysMCDsR4PpbEheNkko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4djNvysMCDsR4PpbEheNkko",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:16:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Krishna Traders",
+    "search_category": "Commercial Complex",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "466118",
+    "phone_number": "+91 98934 35898",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XGQ7+XXQ, Jawar Main Rd, Sheku Kheda, Madhya Pradesh 466118",
+    "area": "466118",
+    "latitude": 22.989953099999997,
+    "longitude": 76.51498889999999,
+    "place_id": "ChIJ2ZCC7A3TfDkReX_xBziWMDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ZCC7A3TfDkReX_xBziWMDs",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:51:34"
+  },
+  {
+    "business_name": "Centrum - Commercial Offices in Wagle Estate Thane (W)",
+    "search_category": "Commercial Complex",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer",
+    "pincode": "466118",
+    "phone_number": "+91 96989 59192",
+    "website": "https://www.squarefeetgroup.in/",
+    "rating": 4.3,
+    "reviews_count": 1149,
+    "address": "Centrum, Plot No. C8, near Satkar Hotel, Wagle Estate, Thane West, Thane, Maharashtra 400604",
+    "area": "Wagle Estate, Thane West",
+    "latitude": 19.1883689,
+    "longitude": 72.9549878,
+    "place_id": "ChIJ718AgtW55zsRwnPiIfKmSo0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ718AgtW55zsRwnPiIfKmSo0",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:51:35"
+  }
+]

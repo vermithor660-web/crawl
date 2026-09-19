@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CAB BOOKING TAXI SERVICE",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "466114",
+    "phone_number": "+91 78272 58727",
+    "website": "http://outstationcabbooking-taxiservice.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kaling Marg, Abhay Khand 3, Sector 4, Vaishali, Ghaziabad, Uttar Pradesh 201019",
+    "area": "Abhay Khand 3, Sector 4, Vaishali",
+    "latitude": 28.6440716,
+    "longitude": 77.3394193,
+    "place_id": "ChIJVVVR3ND6DDkRgNxG-KDI7mo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVR3ND6DDkRgNxG-KDI7mo",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:45:20"
+  },
+  {
+    "business_name": "Shri Balaji Tour and Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Aircraft Rental Agency, Auto auction, Auto upholsterer, Taxi service, Travel agency, Van rental agency",
+    "pincode": "466114",
+    "phone_number": "+91 90580 59666",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bairaj Rd, Aawas Vikas, Bijnor, Uttar Pradesh 246701",
+    "area": "Aawas Vikas",
+    "latitude": 29.3897746,
+    "longitude": 78.12107979999999,
+    "place_id": "ChIJjynE8qPvCzkRwb__ZdNIl0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjynE8qPvCzkRwb__ZdNIl0Y",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:45:20"
+  }
+]

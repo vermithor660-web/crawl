@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shyam Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "466448",
+    "phone_number": "+91 99282 62215",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "P4JV+4WR, Bhudarpura, Toonga, Rajasthan 303302",
+    "area": "466448",
+    "latitude": 26.730352099999998,
+    "longitude": 76.1447772,
+    "place_id": "ChIJK6p2IRvpbTkRM6cEeBT-dMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK6p2IRvpbTkRM6cEeBT-dMk",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:02:28"
+  },
+  {
+    "business_name": "Dr. Ak Mishra eye clinic",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "466448",
+    "phone_number": "+91 93406 07938",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "dr karan joshi clinic, Taansen complex, Aurrhat, Hari Bhushan Nagar, Rewa, Madhya Pradesh 486001",
+    "area": "Aurrhat, Hari Bhushan Nagar",
+    "latitude": 24.5362477,
+    "longitude": 81.3036946,
+    "place_id": "ChIJG6PILM1bhDkR5luE7y3Uqng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6PILM1bhDkR5luE7y3Uqng",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:02:28"
+  }
+]

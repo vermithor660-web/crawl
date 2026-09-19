@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GOVIND JEWELLERS",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "465691",
+    "phone_number": "+91 98888 44874",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sco. 14, Hermitage Plaza, Guru Gobind Singh Nagar, Dhakoli, Zirakpur, Punjab 140603",
+    "area": "Guru Gobind Singh Nagar, Dhakoli",
+    "latitude": 30.658570599999997,
+    "longitude": 76.8400225,
+    "place_id": "ChIJB383MieVDzkR1tM2iBWlUtI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB383MieVDzkR1tM2iBWlUtI",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:34:22"
+  },
+  {
+    "business_name": "Malavika Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry buyer",
+    "all_categories": "Jewelry buyer",
+    "pincode": "465691",
+    "phone_number": "+91 90204 77722",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Aryasala, Chalai, Thiruvananthapuram, Keralam 695036",
+    "area": "Aryasala, Chalai",
+    "latitude": 8.482195299999999,
+    "longitude": 76.95364529999999,
+    "place_id": "ChIJMetYxoW7BTsROV_f-v0xDq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMetYxoW7BTsROV_f-v0xDq0",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:34:23"
+  }
+]

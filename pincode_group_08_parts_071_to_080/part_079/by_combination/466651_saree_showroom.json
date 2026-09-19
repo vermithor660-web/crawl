@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vani Sarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "466651",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jod, Dondi, Madhya Pradesh 466001",
+    "area": "Jod",
+    "latitude": 23.281699399999997,
+    "longitude": 77.1854374,
+    "place_id": "ChIJf82mBDSLfDkRwnw2OqwT9F0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf82mBDSLfDkRwnw2OqwT9F0",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:05:42"
+  },
+  {
+    "business_name": "Shree Sanvariya Sarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "466651",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "95H8+JPV, Duraha, Madhya Pradesh 466661",
+    "area": "466651",
+    "latitude": 23.3791209,
+    "longitude": 77.16680459999999,
+    "place_id": "ChIJO_KCKACJfDkRPLDck8khSOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_KCKACJfDkRPLDck8khSOs",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:05:43"
+  }
+]

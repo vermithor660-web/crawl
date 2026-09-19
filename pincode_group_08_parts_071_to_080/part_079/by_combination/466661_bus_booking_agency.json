@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswal Bus Services",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "466661",
+    "phone_number": "+91 99266 77201",
+    "website": "http://www.jaiswalbus.in/",
+    "rating": 4.9,
+    "reviews_count": 57,
+    "address": "Harda, Madhya Pradesh 461331",
+    "area": "466661",
+    "latitude": 22.3361955,
+    "longitude": 77.09204559999999,
+    "place_id": "ChIJh6c5PGFxfTkRixoij-rRW8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh6c5PGFxfTkRixoij-rRW8Y",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:07:55"
+  },
+  {
+    "business_name": "Combo Yatra",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency, Tour operator",
+    "pincode": "466661",
+    "phone_number": "+91 90508 00862",
+    "website": "https://www.comboyatra.com/",
+    "rating": 4.8,
+    "reviews_count": 333,
+    "address": "First Floor, Bala Ji Car Ghar, Rohtak - Panipat Rd, opp. HP Petrol Pump, Gohana, Garhi Ujale Khan, Haryana 131301",
+    "area": "466661",
+    "latitude": 29.141123,
+    "longitude": 76.7101325,
+    "place_id": "ChIJ7yKaPrLtDTkRheTZsTmZw8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7yKaPrLtDTkRheTZsTmZw8c",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:07:56"
+  }
+]

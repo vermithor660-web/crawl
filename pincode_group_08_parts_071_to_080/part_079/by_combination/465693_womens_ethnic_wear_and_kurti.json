@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Novelty Hub",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "465693",
+    "phone_number": "+91 98937 20259",
+    "website": "https://noveltyhub.org/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "I-20, Sector-1, Agroha Colony, Changurabhata, Raipur, Chhattisgarh 492001",
+    "area": "Sector-1, Agroha Colony, Changurabhata",
+    "latitude": 21.2277749,
+    "longitude": 81.5934991,
+    "place_id": "ChIJwWf6F1TfKDoRxj5PUkZbXUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwWf6F1TfKDoRxj5PUkZbXUQ",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:36:01"
+  },
+  {
+    "business_name": "JKJ Fashions",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store, Clothing store, Clothing Accessories Store, Shopping mall, Store",
+    "pincode": "465693",
+    "phone_number": "+91 141 411 3565",
+    "website": "https://www.jkjfashions.in/",
+    "rating": 4.6,
+    "reviews_count": 79,
+    "address": "1st floor, A-271, shivanand marg near satkar shopping center, above JKJ JEWELLERS, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "area": "Block-A, Sector 4, Malviya Nagar",
+    "latitude": 26.8523125,
+    "longitude": 75.8189458,
+    "place_id": "ChIJcXqHNd23bTkReUQojFaN5Vc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcXqHNd23bTkReUQojFaN5Vc",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:36:01"
+  }
+]

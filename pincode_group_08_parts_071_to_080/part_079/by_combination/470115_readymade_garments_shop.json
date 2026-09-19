@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rama Cloth Store",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "470115",
+    "phone_number": "+91 98263 33068",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RPRR+F5G, Naya Bazar Rd, Katra, Sagar, Madhya Pradesh 470002",
+    "area": "Katra",
+    "latitude": 23.841185499999998,
+    "longitude": 78.7404473,
+    "place_id": "ChIJLWCfP7HWeDkRz1sQMIJ-dcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLWCfP7HWeDkRz1sQMIJ-dcc",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:23:16"
+  },
+  {
+    "business_name": "Mohit garments",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "470115",
+    "phone_number": "+91 89793 15556",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main khadi gali, Dharchula, Uttarakhand 262545",
+    "area": "470115",
+    "latitude": 29.8492546,
+    "longitude": 80.542823,
+    "place_id": "ChIJC12SWMu1pjkRKMZApeyN4Vg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC12SWMu1pjkRKMZApeyN4Vg",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:23:18"
+  }
+]

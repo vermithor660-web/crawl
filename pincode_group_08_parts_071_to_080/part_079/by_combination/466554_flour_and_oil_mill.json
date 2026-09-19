@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deep Flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "466554",
+    "phone_number": "+91 94254 27456",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "In front of ST. Alyosis school, Kudri, Burhar Rd, Shahdol, Madhya Pradesh 484001",
+    "area": "Bhatnagar",
+    "latitude": 23.296725,
+    "longitude": 81.371755,
+    "place_id": "ChIJs4psFCT7hjkRvzOrxDcwfCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4psFCT7hjkRvzOrxDcwfCc",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:05:16"
+  },
+  {
+    "business_name": "Vijay flour mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill, Service establishment",
+    "pincode": "466554",
+    "phone_number": "+91 70477 85903",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vijay flour mill, 466554, India",
+    "area": "466554",
+    "latitude": 23.6284834,
+    "longitude": 77.432692,
+    "place_id": "ChIJ-1mZgud3fDkRkr3h88T_lbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-1mZgud3fDkRkr3h88T_lbM",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:05:16"
+  }
+]

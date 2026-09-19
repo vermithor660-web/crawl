@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Level Up unisex salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Barber shop, Wedding dress rental service",
+    "pincode": "466445",
+    "phone_number": "+91 79995 66574",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RCC Mall, Kothi Bazar Colony, Narmadapuram, Madhya Pradesh 461001",
+    "area": "Kothi Bazar Colony",
+    "latitude": 22.7542522,
+    "longitude": 77.7330643,
+    "place_id": "ChIJLRG_HRbPfTkR4r0kB2tmC9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLRG_HRbPfTkR4r0kB2tmC9M",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:59:23"
+  },
+  {
+    "business_name": "Apurva Makeovers",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "466445",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No 2, Gokuldham Society, Hoshangabad Bypass Rd, near Narmada Hospital, Narmadapuram, Madhya Pradesh 461001",
+    "area": "466445",
+    "latitude": 22.7202461,
+    "longitude": 77.7263048,
+    "place_id": "ChIJ303npWfPfTkRMszjng0SoPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ303npWfPfTkRMszjng0SoPM",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:59:24"
+  }
+]

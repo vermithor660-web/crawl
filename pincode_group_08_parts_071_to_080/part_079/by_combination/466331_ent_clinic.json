@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kapil Eye Care",
+    "search_category": "ENT Clinic",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Ophthalmologist, Otolaryngology clinic",
+    "pincode": "466331",
+    "phone_number": "+91 98269 88813",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Milan marriage garden, Nasrullaganj, Madhya Pradesh 466331",
+    "area": "466331",
+    "latitude": 22.6829859,
+    "longitude": 77.2689003,
+    "place_id": "ChIJGyTri2KpfTkRhljJO5XwCeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGyTri2KpfTkRhljJO5XwCeE",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:57:13"
+  },
+  {
+    "business_name": "Dr. Pramod Bhumarkar",
+    "search_category": "ENT Clinic",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "466331",
+    "phone_number": "+91 94069 24293",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 11,
+    "address": "Shivam Vatika, near City Nursing Home, Harda, Madhya Pradesh 461331",
+    "area": "466331",
+    "latitude": 22.347497699999998,
+    "longitude": 77.1040108,
+    "place_id": "ChIJ1QeL0ihxfTkRJnv7lk_Yia4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1QeL0ihxfTkRJnv7lk_Yia4",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:57:16"
+  }
+]

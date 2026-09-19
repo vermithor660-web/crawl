@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hr Consulting India",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Talent agency",
+    "pincode": "466120",
+    "phone_number": "+91 97110 61206",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "222, Medicity, Islampur Colony, Sector 38, Gurugram, Haryana 122018",
+    "area": "Medicity, Islampur Colony, Sector 38",
+    "latitude": 28.4347189,
+    "longitude": 77.04704439999999,
+    "place_id": "ChIJZxM_AmUZDTkRCLnLn2BJn9k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZxM_AmUZDTkRCLnLn2BJn9k",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:52:57"
+  },
+  {
+    "business_name": "Spring HR Services LLP",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter",
+    "pincode": "466120",
+    "phone_number": "+91 88501 70453",
+    "website": "https://springhr.com/",
+    "rating": 5,
+    "reviews_count": 28,
+    "address": "S.S, Aurus Chambers, A-401, Amruthwar Marg, Lower Parel West, Worli, Mumbai, Maharashtra 400013",
+    "area": "Lower Parel West, Worli",
+    "latitude": 19.004357499999998,
+    "longitude": 72.8228196,
+    "place_id": "ChIJfwuIZsi0KYkRdJLQPxjNVYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfwuIZsi0KYkRdJLQPxjNVYA",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:52:58"
+  }
+]

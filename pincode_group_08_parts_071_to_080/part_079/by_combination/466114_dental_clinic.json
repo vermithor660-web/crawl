@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jubilee Clinic Ashta",
+    "search_category": "Dental Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "466114",
+    "phone_number": "+91 75602 42273",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2PCF+G6V, Jummapura old bus stand, Ashta, Madhya Pradesh 466116",
+    "area": "Sai Colony",
+    "latitude": 23.021373099999998,
+    "longitude": 76.7230553,
+    "place_id": "ChIJrXoIW6XEfDkRpwicjXyzO9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrXoIW6XEfDkRpwicjXyzO9M",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:45:07"
+  },
+  {
+    "business_name": "suvidha family dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dentist",
+    "all_categories": "Dentist",
+    "pincode": "466114",
+    "phone_number": "+91 74156 20669",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2PCF+4MP, Sai Colony, Ashta, Madhya Pradesh 466116",
+    "area": "Sai Colony",
+    "latitude": 23.020341,
+    "longitude": 76.7241976,
+    "place_id": "ChIJCfGej6_EfDkRN725HyUOiEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCfGej6_EfDkRN725HyUOiEU",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:45:07"
+  }
+]

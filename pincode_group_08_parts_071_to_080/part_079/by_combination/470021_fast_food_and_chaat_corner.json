@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arora Chat Bhandar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "470021",
+    "phone_number": "+91 90010 20010",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Nai Sarak, near Shahi Samosa Arora Namkeen, Jodhpur, Rajasthan 342001",
+    "area": "Rawaton Ka Bass",
+    "latitude": 26.293695699999997,
+    "longitude": 73.024211,
+    "place_id": "ChIJ7V7zarGNQTkRiTPOZ8VGqmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7V7zarGNQTkRiTPOZ8VGqmw",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:18:02"
+  },
+  {
+    "business_name": "Ambala Chaat House",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "470021",
+    "phone_number": "+91 82839 39326",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Shop No. 22, Grand Trunk Rd, Model Town, Phagwara, Punjab 144401",
+    "area": "Model Town",
+    "latitude": 31.2129016,
+    "longitude": 75.7715626,
+    "place_id": "ChIJ98rU0Nr0GjkRm5fh8Tv6xCE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ98rU0Nr0GjkRm5fh8Tv6xCE",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:18:02"
+  }
+]

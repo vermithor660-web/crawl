@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Ram Tea Stall",
+    "search_category": "Shops",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "466114",
+    "phone_number": "+91 91793 70548",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 82,
+    "address": "3RHR+V34, Kothri, Madhya Pradesh 466114",
+    "area": "466114",
+    "latitude": 23.079965899999998,
+    "longitude": 76.8398883,
+    "place_id": "ChIJZ-psBMXpfDkRpUB8CxDz9bc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-psBMXpfDkRpUB8CxDz9bc",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:46:23"
+  },
+  {
+    "business_name": "Shree Balalji General Store",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "466114",
+    "phone_number": "+91 75669 81521",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "31,pawan Chowk Kotri Bhopal Indore Road Sehore pawan Chowk Kotri, Indore - Bhopal Rd, Sehore, Madhya Pradesh 466114",
+    "area": "466114",
+    "latitude": 23.0729138,
+    "longitude": 76.827227,
+    "place_id": "ChIJqfjyAwzpfDkR9Txviq7DdI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfjyAwzpfDkR9Txviq7DdI8",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:46:23"
+  }
+]

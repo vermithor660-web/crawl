@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delhi Juice Corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "466331",
+    "phone_number": "+91 88104 03188",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "B-55 Ramtey ram road, Grand Trunk Rd, near ramleela ground, Ghaziabad, Uttar Pradesh 201001",
+    "area": "Ekta Vihar, Gupta Colony, Arjun Nagar, Naya Ganj",
+    "latitude": 28.658114899999998,
+    "longitude": 77.4310926,
+    "place_id": "ChIJiZMziM7xDDkRULVl1f6wSoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiZMziM7xDDkRULVl1f6wSoc",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:56:51"
+  },
+  {
+    "business_name": "DELHI juice and shake",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "466331",
+    "phone_number": "+91 91092 01294",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhori icer college, Bhopal, Madhya Pradesh 462030",
+    "area": "466331",
+    "latitude": 23.2804409,
+    "longitude": 77.2786272,
+    "place_id": "ChIJZffvB7NhfDkRCDD61K5VJkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZffvB7NhfDkRCDD61K5VJkM",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:56:52"
+  }
+]

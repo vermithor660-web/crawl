@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Make My Business Online",
+    "search_category": "PPC Advertising Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service",
+    "pincode": "465685",
+    "phone_number": "+91 99996 77947",
+    "website": "https://mmbo.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "F-301, 1-A 2nd floor, Ch. Prem, Himmat Singh Marg, opposite Portside Cafe, Nai Basti, Lado Sarai, New Delhi, Delhi 110030",
+    "area": "Nai Basti, Lado Sarai",
+    "latitude": 28.5243684,
+    "longitude": 77.1953413,
+    "place_id": "ChIJGaGnNecFDTkRInVE0RvNKxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGaGnNecFDTkRInVE0RvNKxY",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:30:29"
+  },
+  {
+    "business_name": "Infinity Advertisement",
+    "search_category": "PPC Advertising Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service",
+    "pincode": "465685",
+    "phone_number": "+91 72918 60110",
+    "website": "https://www.infinityadvertisement.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M.C.F-79, Street No -3, East Chawla Colony, Sector 4, Ballabhgarh, Faridabad, Haryana 121004",
+    "area": "East Chawla Colony, Sector 4, Ballabhgarh",
+    "latitude": 28.3494037,
+    "longitude": 77.3241642,
+    "place_id": "ChIJe5ipQhTbDDkRV36TIri_g_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe5ipQhTbDDkRV36TIri_g_g",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:30:29"
+  }
+]

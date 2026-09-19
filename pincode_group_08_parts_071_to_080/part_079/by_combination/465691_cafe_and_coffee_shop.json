@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak Tea Stal",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "465691",
+    "phone_number": "+91 74708 50387",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, Paroliya Main Road, Paroliya, Jirapur, Madhya Pradesh 465691",
+    "area": "Paroliya",
+    "latitude": 24.0562179,
+    "longitude": 76.39317609999999,
+    "place_id": "ChIJs7iTw93NZDkRjcRMmY1ecb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs7iTw93NZDkRjcRMmY1ecb8",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:34:14"
+  },
+  {
+    "business_name": "Mohit Enterprises",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee vending machine",
+    "all_categories": "Coffee vending machine, Coffee machine supplier, Coffee roastery, Coffee store, Coffee wholesaler",
+    "pincode": "465691",
+    "phone_number": "+91 98260 34426",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 30,
+    "address": "25 Shradha Shree Colony MR-9, Ring Rd, nr. Robot Square, Indore, Madhya Pradesh 452011",
+    "area": "Shardha Shri Colony",
+    "latitude": 22.741325099999997,
+    "longitude": 75.90067049999999,
+    "place_id": "ChIJZVnM4kr9YjkRxyFTP9oOFms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZVnM4kr9YjkRxyFTP9oOFms",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:34:16"
+  }
+]

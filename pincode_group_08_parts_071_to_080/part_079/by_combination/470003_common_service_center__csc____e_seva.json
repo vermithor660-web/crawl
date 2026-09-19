@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Common Service Centre",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "470003",
+    "phone_number": "+91 72898 79398",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "T-318/8 Baljit Nagar, West Patel Nagar, New Delhi, Delhi 110008",
+    "area": "Block B, West Patel Nagar, Patel Nagar",
+    "latitude": 28.6551165,
+    "longitude": 77.1609196,
+    "place_id": "ChIJ_cVWYvACDTkRNF1-6Zg5mlg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_cVWYvACDTkRNF1-6Zg5mlg",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:15:38"
+  },
+  {
+    "business_name": "Krishna Enterprises CSC centre Thaltej",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Computer networking service",
+    "all_categories": "Computer networking service",
+    "pincode": "470003",
+    "phone_number": "+91 81888 08768",
+    "website": "https://krishna-enterprises-csc.grexa.site/",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "Krishna enterprises, Hinglaj Complex, thaltej gam, Ahmedabad, Gujarat 380059",
+    "area": "thaltej gam",
+    "latitude": 23.050148999999998,
+    "longitude": 72.5106497,
+    "place_id": "ChIJ-ZFMeQCbXjkRjrDahni1THA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ZFMeQCbXjkRjrDahni1THA",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:15:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Micro Lathe (JB Engineering Works)",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Machinery parts manufacturer",
+    "all_categories": "Machinery parts manufacturer",
+    "pincode": "466125",
+    "phone_number": "+91 98102 60682",
+    "website": "https://jbengineeringworks.com/products/micro-lathe-machine",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No 31, Pocket O, DSIIDC Industrial Area, Sector 2, New Delhi, Delhi 110039",
+    "area": "DSIIDC Industrial Area, Sector 2, Bawana",
+    "latitude": 28.7963012,
+    "longitude": 77.055899,
+    "place_id": "ChIJmaMattSpDTkRibsagwrLluM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmaMattSpDTkRibsagwrLluM",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:54:45"
+  },
+  {
+    "business_name": "Nitin Chauhan - Welding Work",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Iron works",
+    "all_categories": "Iron works",
+    "pincode": "466125",
+    "phone_number": "+91 79824 96495",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "N/71, Civil Lines, Delhi, 110054",
+    "area": "Civil Lines",
+    "latitude": 28.680477,
+    "longitude": 77.220232,
+    "place_id": "ChIJgV_kTPP9DDkRA8BYEeUW9pA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgV_kTPP9DDkRA8BYEeUW9pA",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:54:46"
+  }
+]

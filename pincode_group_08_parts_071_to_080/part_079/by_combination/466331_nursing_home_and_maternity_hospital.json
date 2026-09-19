@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivalaya Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "466331",
+    "phone_number": "+91 62621 06767",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "phase 1, MIG 58,Sumitra parisar, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "area": "Rajharsh Colony, Kolar Rd",
+    "latitude": 23.1587064,
+    "longitude": 77.428606,
+    "place_id": "ChIJwVucIn9EfDkRxenaUWYhSW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwVucIn9EfDkRxenaUWYhSW0",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:57:09"
+  },
+  {
+    "business_name": "aadhya nursing hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "466331",
+    "phone_number": "+91 72742 32333",
+    "website": "http://aadhyahospital.com/",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "28, Tilak Marg, Khategaon, Madhya Pradesh 455336",
+    "area": "466331",
+    "latitude": 22.590519099999998,
+    "longitude": 76.9104515,
+    "place_id": "ChIJP6pYRs4WfTkRuKDFEYkhfGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP6pYRs4WfTkRuKDFEYkhfGs",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:57:11"
+  }
+]

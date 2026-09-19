@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shoppeez",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "465685",
+    "phone_number": "+91 88899 11195",
+    "website": "https://www.shoppeez.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "714, Princess Business Skypark, opp. Orbit Mall, Scheme No 54, Indore, Madhya Pradesh 452010",
+    "area": "Scheme No 54",
+    "latitude": 22.745703,
+    "longitude": 75.8935372,
+    "place_id": "ChIJm4yyBwF5pW0RmmOFqDznVu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm4yyBwF5pW0RmmOFqDznVu8",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:30:07"
+  },
+  {
+    "business_name": "Custom Software Development Services - Software Solution LA LLC",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment, Graphic designer, Website designer",
+    "pincode": "465685",
+    "phone_number": "N/A",
+    "website": "https://www.softwaresolutionla.com/contact-us/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Custom Software Development Services - Software Solution LA LLC, 465685, India",
+    "area": "465685",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJ__8v2dKbwoARLUqVd3IJDd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__8v2dKbwoARLUqVd3IJDd4",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:30:07"
+  }
+]

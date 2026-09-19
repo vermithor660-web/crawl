@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GOPAL CHOICE GENTS PARLOUR",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Store",
+    "all_categories": "Store, Barber shop",
+    "pincode": "465687",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "सारंगपुर - संडावता मार्ग, Bhayana, Dedla, Madhya Pradesh 465697",
+    "area": "465687",
+    "latitude": 23.7860499,
+    "longitude": 76.50717139999999,
+    "place_id": "ChIJJ2i0RsBNezkRhxrFl_cgZZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2i0RsBNezkRhxrFl_cgZZE",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:31:28"
+  },
+  {
+    "business_name": "Beauty collection",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "465687",
+    "phone_number": "+91 98993 24455",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Street No.3, near mother dairy, Rajgarh Colony, Seelampur, Delhi, 110031",
+    "area": "Rajgarh Colony, Seelampur",
+    "latitude": 28.6607301,
+    "longitude": 77.2731025,
+    "place_id": "ChIJ-TQ7FDr9DDkReaMqkhIUiQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-TQ7FDr9DDkReaMqkhIUiQU",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:31:29"
+  }
+]

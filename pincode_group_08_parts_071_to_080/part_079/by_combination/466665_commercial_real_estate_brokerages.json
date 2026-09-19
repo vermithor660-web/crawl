@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Floortap",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "466665",
+    "phone_number": "+91 72749 37493",
+    "website": "http://floortap.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "1203, 12th Floor, Lodha Supremus, Saki Vihar Rd, Tunga Village, Chandivali, Powai, Mumbai, Maharashtra 400072",
+    "area": "Tunga Village, Chandivali, Powai",
+    "latitude": 19.1185544,
+    "longitude": 72.89059259999999,
+    "place_id": "ChIJq6pqBQ_I5zsRk1T_MecKk7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6pqBQ_I5zsRk1T_MecKk7c",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:10:31"
+  },
+  {
+    "business_name": "seac city bhopal",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "466665",
+    "phone_number": "+91 99800 10877",
+    "website": "http://www.seac.co.in/",
+    "rating": 3.9,
+    "reviews_count": 16,
+    "address": "Tara Sevania, Prithvipura, Madhya Pradesh 462036",
+    "area": "466665",
+    "latitude": 23.3506455,
+    "longitude": 77.3310067,
+    "place_id": "ChIJhZ7maTBkfDkRKIrwrdPwthU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhZ7maTBkfDkRKIrwrdPwthU",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:10:32"
+  }
+]

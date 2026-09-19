@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Ram Callection",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "466554",
+    "phone_number": "+91 96851 99412",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dobi, Madhya Pradesh 466554",
+    "area": "466554",
+    "latitude": 22.8851841,
+    "longitude": 77.89824879999999,
+    "place_id": "ChIJaeRzyUXVfTkRhyamT-r1g94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaeRzyUXVfTkRhyamT-r1g94",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:03:58"
+  },
+  {
+    "business_name": "BRAND SELLER",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Designer Clothing Store, Clothing store",
+    "pincode": "466554",
+    "phone_number": "+91 62631 23134",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Jain Mandir Marg, Maksi, Madhya Pradesh 465106",
+    "area": "466554",
+    "latitude": 23.2578645,
+    "longitude": 76.1459113,
+    "place_id": "ChIJHbI4UYFDYzkRkbWoBbOcjbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHbI4UYFDYzkRkbWoBbOcjbM",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:04:01"
+  }
+]

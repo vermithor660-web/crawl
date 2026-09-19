@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "466113",
+    "phone_number": "+91 83050 85066",
+    "website": "https://shubhamjewel.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Thana Rd, Rehti, Madhya Pradesh 466446",
+    "area": "466113",
+    "latitude": 22.7364757,
+    "longitude": 77.43438069999999,
+    "place_id": "ChIJ3_etsf2wfTkRrcGQtrhmaXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3_etsf2wfTkRrcGQtrhmaXY",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:43:13"
+  },
+  {
+    "business_name": "महा लक्ष्मी ज्वैलर्स",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "466113",
+    "phone_number": "+91 95751 36205",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Amlaha, Madhya Pradesh 466113",
+    "area": "466113",
+    "latitude": 23.1195849,
+    "longitude": 76.90584869999999,
+    "place_id": "ChIJY6aWx-LrfDkRlvHSAsIoOhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY6aWx-LrfDkRlvHSAsIoOhU",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:43:13"
+  }
+]

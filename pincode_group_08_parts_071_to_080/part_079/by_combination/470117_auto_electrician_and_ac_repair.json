@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev car ac",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto body parts supplier, Car battery store",
+    "pincode": "470117",
+    "phone_number": "+91 96719 00730",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Jaat bhawan, chowk, Delhi Rd, near Jaat bhawan, Sector-1, Rohtak, Haryana 124001",
+    "area": "Sector-1",
+    "latitude": 28.8892098,
+    "longitude": 76.62707979999999,
+    "place_id": "ChIJP_Wj9xCFDTkRNKhOhUa6iNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP_Wj9xCFDTkRNKhOhUa6iNY",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:25:27"
+  },
+  {
+    "business_name": "KALIM AUTOMOBILE",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "470117",
+    "phone_number": "+91 87777 13605",
+    "website": "https://kalimautomobile.com/",
+    "rating": 4.8,
+    "reviews_count": 287,
+    "address": "13, Arupota Rd, Mirania Gardens 2, Dhapa, Kolkata, West Bengal 700105",
+    "area": "Mirania Gardens 2, Dhapa",
+    "latitude": 22.539879799999998,
+    "longitude": 88.4051463,
+    "place_id": "ChIJV7xCciZ1AjoRYur_ZSjbA5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV7xCciZ1AjoRYur_ZSjbA5o",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:25:29"
+  }
+]

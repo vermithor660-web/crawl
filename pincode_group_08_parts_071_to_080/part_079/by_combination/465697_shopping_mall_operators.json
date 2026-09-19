@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ved Arcade Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Gym, Movie theater, Outlet mall, Restaurant",
+    "pincode": "465697",
+    "phone_number": "+91 88040 77040",
+    "website": "https://vedarcademall.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Opposite Vastral Lake, 200 Ft, Sardar Patel Ring Rd, near Metro Station, Vastral, Ahmedabad, Gujarat 382418",
+    "area": "Pranami Nagar, Vastral",
+    "latitude": 23.0006928,
+    "longitude": 72.6658542,
+    "place_id": "ChIJC39ipcuHXjkR5Iz-o8DEIuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC39ipcuHXjkR5Iz-o8DEIuA",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:39:12"
+  },
+  {
+    "business_name": "Colors Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Clothing store, Conference center, Event venue, Food court, Grocery store, Movie studio, Outlet mall, Restaurant, Shooting event area, Supermarket",
+    "pincode": "465697",
+    "phone_number": "+91 77140 69999",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "NH-43, Amrapali Society, Pachpedi Naka, Raipur, Tikrapara, Chhattisgarh 492001",
+    "area": "Amrapali Society, Pachpedi Naka",
+    "latitude": 21.217042499999998,
+    "longitude": 81.6563461,
+    "place_id": "ChIJjb__7vzcKDoR1psohppYFx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjb__7vzcKDoR1psohppYFx8",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:39:12"
+  }
+]

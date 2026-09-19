@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashwika fashion gallery",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Clothing store, Underwear store",
+    "pincode": "466446",
+    "phone_number": "+91 88275 72222",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "3rd line, near KEPRI gold loan, Suraj Ganj, Itarsi, Madhya Pradesh 461111",
+    "area": "Suraj Ganj",
+    "latitude": 22.610815499999998,
+    "longitude": 77.7694578,
+    "place_id": "ChIJAeTjN5fdfTkRGvvA6gNuNsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAeTjN5fdfTkRGvvA6gNuNsE",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:00:38"
+  },
+  {
+    "business_name": "Rivae Rental Store",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "466446",
+    "phone_number": "+91 97703 52743",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "RCC Mall, G 25/26, Kothi Bazar Colony, Narmadapuram, Madhya Pradesh 461001",
+    "area": "Kothi Bazar Colony",
+    "latitude": 22.7546045,
+    "longitude": 77.7332349,
+    "place_id": "ChIJF_LLynrPfTkRDZCZvQIdAps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF_LLynrPfTkRDZCZvQIdAps",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:00:38"
+  }
+]

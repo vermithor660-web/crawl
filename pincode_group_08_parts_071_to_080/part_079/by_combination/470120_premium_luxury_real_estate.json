@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kedarnath Property",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Commercial real estate agency, Real Estate Builders & Construction Company, Real estate consultant",
+    "pincode": "470120",
+    "phone_number": "+91 75053 36335",
+    "website": "https://kedarnathproperty.com/",
+    "rating": 5,
+    "reviews_count": 80,
+    "address": "277, Canal Rd, opp. bawarchi, Kishanpur, Dehradun, Uttarakhand 248001",
+    "area": "Kishanpur",
+    "latitude": 30.3683123,
+    "longitude": 78.07904769999999,
+    "place_id": "ChIJf8wwEYg46oURTScnA-h0llc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf8wwEYg46oURTScnA-h0llc",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:31:28"
+  },
+  {
+    "business_name": "Sarthak Singapore Group",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "470120",
+    "phone_number": "+91 731 254 3301",
+    "website": "http://www.sarthaksingapore.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Singapore Business Park, Sarthak singapore group, 301-302, LIG Square, Anoop Nagar, Indore, Madhya Pradesh 452011",
+    "area": "LIG Square, Anoop Nagar",
+    "latitude": 22.7336775,
+    "longitude": 75.8904857,
+    "place_id": "ChIJpbzadEf9YjkRjMATOKL0qyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpbzadEf9YjkRjMATOKL0qyc",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:31:29"
+  }
+]

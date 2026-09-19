@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhumi makeup studio",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist, Beauty Parlour, Nail salon, Skin care clinic, Hairdresser",
+    "pincode": "465680",
+    "phone_number": "+91 92555 31775",
+    "website": "https://www.bhumimakeupstudio.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhumi makeup studio, near Kabir medical, opp. Cid quarter, Patel Nagar, Hisar, Haryana 125001",
+    "area": "Patel Nagar",
+    "latitude": 29.137590699999997,
+    "longitude": 75.72260849999999,
+    "place_id": "ChIJfxPS1_UzEjkRBY8mqAP-Txw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfxPS1_UzEjkRBY8mqAP-Txw",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:26:12"
+  },
+  {
+    "business_name": "Rupali Makeup Studio & Academy",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "465680",
+    "phone_number": "+91 82348 44831",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "near Vidhya Arpan School, Priyadarshini Colony, Teacher's Colony, Chhindwara, Madhya Pradesh 480001",
+    "area": "Priyadarshini Colony, Teacher's Colony",
+    "latitude": 22.066561999999998,
+    "longitude": 78.9231482,
+    "place_id": "ChIJN1Qv5Mhl1TsRSy2SNUnEPlU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN1Qv5Mhl1TsRSy2SNUnEPlU",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:26:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Look Designer Boutique",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "466221",
+    "phone_number": "+91 94186 57922",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Top Floor, 62, Middle Bazar, Shimla, Himachal Pradesh 171001",
+    "area": "Middle Bazar, Lower Bazar",
+    "latitude": 31.104128,
+    "longitude": 77.1741953,
+    "place_id": "ChIJOy3aM4x5BTkRe0mOtZqY-vo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOy3aM4x5BTkRe0mOtZqY-vo",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:55:17"
+  },
+  {
+    "business_name": "Aditya Raj Fashion",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Clothing store",
+    "pincode": "466221",
+    "phone_number": "+91 89888 88328",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 33,
+    "address": "321, Jawahar Marg, Mukeri Pura, Indore, Madhya Pradesh 452002",
+    "area": "Mukeri Pura",
+    "latitude": 22.715648299999998,
+    "longitude": 75.8488071,
+    "place_id": "ChIJkWGovqb9YjkRGE6obobgU1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkWGovqb9YjkRGE6obobgU1k",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:55:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adani Wilmar",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Jeweler, Jewelry designer",
+    "pincode": "465689",
+    "phone_number": "+91 731 254 7881",
+    "website": "http://www.adaniwilmar.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Office no. 508, 5th Floor, 301, Lala Banarasilal Dawar Marg, Near Janjeerwala Square, New Palasia, Indore, Madhya Pradesh 452001",
+    "area": "Near Janjeerwala Square, New Palasia",
+    "latitude": 22.7274259,
+    "longitude": 75.8817217,
+    "place_id": "ChIJVVVVxUb9YjkR3Zmi8LpwnJQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVxUb9YjkR3Zmi8LpwnJQ",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:32:20"
+  },
+  {
+    "business_name": "Vaidya's",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Natural goods store",
+    "all_categories": "Natural goods store",
+    "pincode": "465689",
+    "phone_number": "+91 78030 50060",
+    "website": "http://www.vaidyas.co.in/",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "B-253, New Loha Mandi, Dewas Naka, Scheme 78 Part 1 Phase 2, Indore, Madhya Pradesh 452010",
+    "area": "New Loha Mandi, Dewas Naka, Scheme 78 Part 1 Phase 2",
+    "latitude": 22.7761647,
+    "longitude": 75.89994109999999,
+    "place_id": "ChIJ-9huUPwdYzkR7xEpStguyb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-9huUPwdYzkR7xEpStguyb8",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:32:21"
+  }
+]

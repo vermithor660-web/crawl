@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sp fitness point",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "465697",
+    "phone_number": "+91 90094 89123",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "Syedwadi, Sarangpur, Madhya Pradesh 465697",
+    "area": "Syedwadi",
+    "latitude": 23.5686218,
+    "longitude": 76.473986,
+    "place_id": "ChIJ8TQj1EBVezkRD44NgThrzss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8TQj1EBVezkRD44NgThrzss",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:38:03"
+  },
+  {
+    "business_name": "Warrior Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "465697",
+    "phone_number": "N/A",
+    "website": "http://www.warriorfitness.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Vandana Vidhayalay, Shree Ram Colony, Gopal Ganj, Gopalganj, Sagar, Madhya Pradesh 470001",
+    "area": "Shree Ram Colony, Gopal Ganj",
+    "latitude": 23.832545699999997,
+    "longitude": 78.75500219999999,
+    "place_id": "ChIJC5-wzu_ReDkRBxj5khOKYe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC5-wzu_ReDkRBxj5khOKYe4",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:38:04"
+  }
+]

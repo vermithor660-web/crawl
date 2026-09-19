@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "STEEL CORPORATION",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Steel distributor",
+    "pincode": "465691",
+    "phone_number": "+91 80 3726 6780",
+    "website": "https://steelcorp.com/",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "23/27, Sant Sena Maharaj Road, 2nd Kumbarwada Lane, 23/27, SS Maharaj Marg, Chor Bazaar, Kamathipura, Mumbai, Maharashtra 400004",
+    "area": "Chor Bazaar, Kamathipura",
+    "latitude": 18.960946,
+    "longitude": 72.8278969,
+    "place_id": "ChIJK7x-9RXO5zsRu4PvmBCzt8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK7x-9RXO5zsRu4PvmBCzt8Q",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:34:48"
+  },
+  {
+    "business_name": "Kantiwal Sales Corporation",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "465691",
+    "phone_number": "+91 94606 94377",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sardarshar Road, near Dan ji Dharm kanta, Taranagar, Rajasthan 331304",
+    "area": "465691",
+    "latitude": 28.6607652,
+    "longitude": 75.0136071,
+    "place_id": "ChIJmy5yhISBEzkR4oYw8MUsNf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmy5yhISBEzkR4oYw8MUsNf4",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:34:48"
+  }
+]

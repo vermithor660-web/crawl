@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star seven frozen foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "470051",
+    "phone_number": "+91 98402 11506",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Krishnapuram, 2A, Sarangapani St, next to Hdfc Bank OT branch, opp. Bus Terminal, Ambattur, OT, Tamil Nadu 600053",
+    "area": "Secretariat Colony, Vivek Nagar, Ambattur",
+    "latitude": 13.1195869,
+    "longitude": 80.1490366,
+    "place_id": "ChIJQUPnNPJjUjoRxI5BXhxgRh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQUPnNPJjUjoRxI5BXhxgRh8",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:19:43"
+  },
+  {
+    "business_name": "maples Frozen Food Store | Imported food & Grocery",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Asian grocery store, Beverage Store, Dairy store, Food products supplier, Gourmet grocery store, Grocery delivery service, Indian grocery store, Supermarket",
+    "pincode": "470051",
+    "phone_number": "+91 89800 07201",
+    "website": "https://www.maplesfood.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ground Floor, Avishkar Complex, Old Padra Rd, Near GEB, IOC Nagar, Haripura, Vadodara, Gujarat 390007",
+    "area": "Near GEB, IOC Nagar, Haripura",
+    "latitude": 22.2982974,
+    "longitude": 73.1654538,
+    "place_id": "ChIJJ4KjQUDJXzkR5OZcpxKI1M4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ4KjQUDJXzkR5OZcpxKI1M4",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:19:43"
+  }
+]

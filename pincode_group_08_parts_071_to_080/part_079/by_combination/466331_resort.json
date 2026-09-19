@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel HR Dreams & Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Garden, Hotel, Restaurant",
+    "pincode": "466331",
+    "phone_number": "+91 91115 88911",
+    "website": "https://hr-dreams-and-resort.vercel.app/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "fata Santsingaji college, NH.47, harda road, Sandalpur, Khategaon, Madhya Pradesh 455336",
+    "area": "466331",
+    "latitude": 22.5587484,
+    "longitude": 76.9632838,
+    "place_id": "ChIJ8U8XGgATfTkR2bCKeOBoZW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8U8XGgATfTkR2bCKeOBoZW0",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:57:46"
+  },
+  {
+    "business_name": "Hotel Radha Krishna Palace",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "466331",
+    "phone_number": "+91 88396 75655",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 535,
+    "address": "M7P7+3P7, MP SH 22, Nasrullaganj, Madhya Pradesh 466331",
+    "area": "466331",
+    "latitude": 22.6851546,
+    "longitude": 77.2642901,
+    "place_id": "ChIJWWkw86GofTkRtLvTeJHVs3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWWkw86GofTkRtLvTeJHVs3Y",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:57:49"
+  }
+]

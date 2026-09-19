@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rathore Kirana",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "465685",
+    "phone_number": "+91 91795 90917",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rathore Bhavan, Bus Stand, 1, Piplya Rasoda, Jatkhedi, Madhya Pradesh 465683",
+    "area": "465685",
+    "latitude": 23.680778,
+    "longitude": 76.7732686,
+    "place_id": "ChIJDUwtxK9dezkRj9Cm1U56EPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDUwtxK9dezkRj9Cm1U56EPI",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:29:04"
+  },
+  {
+    "business_name": "Rahul Sahu",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "465685",
+    "phone_number": "+91 99938 40470",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "00, Biaora Biaora, Bhaisana, Madhya Pradesh 465685",
+    "area": "465685",
+    "latitude": 23.763240699999997,
+    "longitude": 76.890396,
+    "place_id": "ChIJMV4aUv9nezkRZHRcdLe70yI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMV4aUv9nezkRZHRcdLe70yI",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:29:04"
+  }
+]

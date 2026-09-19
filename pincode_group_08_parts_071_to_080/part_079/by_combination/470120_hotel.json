@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Devi Leela",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "470120",
+    "phone_number": "+91 97535 48871",
+    "website": "https://hoteldevileela.vercel.app/",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Bhopal Rd, in front of Padmakar Sabhaghar, Moti Nagar, Sagar, Madhya Pradesh 470002",
+    "area": "Moti Nagar",
+    "latitude": 23.838742399999997,
+    "longitude": 78.7257898,
+    "place_id": "ChIJqxN3DuDXeDkRb3Ee1jJli7A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqxN3DuDXeDkRb3Ee1jJli7A",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:31:06"
+  },
+  {
+    "business_name": "HOTEL ARCHANA PLACE",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "470120",
+    "phone_number": "+91 75838 88855",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 14,
+    "address": "Bhopal Rd, in front of IPS School, Sagar, Lahdara, Madhya Pradesh 470001",
+    "area": "470120",
+    "latitude": 23.8308683,
+    "longitude": 78.6954969,
+    "place_id": "ChIJOZTpDuLXeDkRxz5wgsZAK2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZTpDuLXeDkRxz5wgsZAK2I",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:31:07"
+  }
+]

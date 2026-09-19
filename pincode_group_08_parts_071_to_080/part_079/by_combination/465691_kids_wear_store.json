@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Little Kids",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store, Baby store",
+    "pincode": "465691",
+    "phone_number": "+91 98970 42770",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "67/9, Rajpur Rd, opp. Meedo Plaza, Bhel Chowk, Ravindrapuri, Hathibarkala Salwala, Dehradun, Uttarakhand 248001",
+    "area": "Bhel Chowk, Ravindrapuri, Hathibarkala Salwala",
+    "latitude": 30.334765299999997,
+    "longitude": 78.05282009999999,
+    "place_id": "ChIJ5w7ss9opCTkRoaBf6mHSyU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5w7ss9opCTkRoaBf6mHSyU0",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:34:19"
+  },
+  {
+    "business_name": "Dangi Shop",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "465691",
+    "phone_number": "+91 70677 07109",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "1, Jirapur, Madhya Pradesh 465691",
+    "area": "465691",
+    "latitude": 24.011072799999997,
+    "longitude": 76.3722298,
+    "place_id": "ChIJL1BZLrHNZDkR-d6UP9tdEjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL1BZLrHNZDkR-d6UP9tdEjw",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:34:20"
+  }
+]

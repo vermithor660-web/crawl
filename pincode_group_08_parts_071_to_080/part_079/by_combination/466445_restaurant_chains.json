@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Dinesh Chains Corner",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "466445",
+    "phone_number": "+91 77468 89300",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 22, Gupta Ground, Main Road, near Nehru Park, Balaganj, Narmadapuram, Madhya Pradesh 461001",
+    "area": "Balaganj",
+    "latitude": 22.7552937,
+    "longitude": 77.72077039999999,
+    "place_id": "ChIJXWjKgpPPfTkRw43meQcZhFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXWjKgpPPfTkRw43meQcZhFg",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:58:41"
+  },
+  {
+    "business_name": "Mr.Bean Café And Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Vegetarian restaurant",
+    "pincode": "466445",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "First Floor, Mukharjee Complex, Satrasta Road, Madhya Pradesh 461001",
+    "area": "466445",
+    "latitude": 22.7550836,
+    "longitude": 77.71711719999999,
+    "place_id": "ChIJHTPStrbPfTkRNXAJS9kyG5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHTPStrbPfTkRNXAJS9kyG5o",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:58:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EXIM WORLD",
+    "search_category": "EXIMS",
+    "primary_category": "Business to business service",
+    "all_categories": "Business to business service",
+    "pincode": "466665",
+    "phone_number": "+91 74988 43839",
+    "website": "https://eximworld.net/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "OFFICE NO 615, Platinum Square, opp. WEIKFIELD IT CITI INFO PARK, Sakore Nagar, Viman Nagar, Pune, Maharashtra 411014",
+    "area": "Sakore Nagar, Viman Nagar",
+    "latitude": 18.5611978,
+    "longitude": 73.9123299,
+    "place_id": "ChIJz5vjYFfBwjsR7YYHWrQMV7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz5vjYFfBwjsR7YYHWrQMV7c",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:10:38"
+  },
+  {
+    "business_name": "Exim Express Bhutan",
+    "search_category": "EXIMS",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service",
+    "pincode": "466665",
+    "phone_number": "N/A",
+    "website": "https://eximexpress.bt/",
+    "rating": 3.7,
+    "reviews_count": 6,
+    "address": "At CSI Market campus, Gongphel Lam, Thimphu 11001, Bhutan",
+    "area": "Chang Zamtok",
+    "latitude": 27.460755199999998,
+    "longitude": 89.6442019,
+    "place_id": "ChIJB2AZauSV4TkRqmPdtrDtCC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2AZauSV4TkRqmPdtrDtCC8",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:10:39"
+  }
+]

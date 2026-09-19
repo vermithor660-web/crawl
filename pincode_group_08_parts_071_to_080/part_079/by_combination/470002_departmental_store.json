@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRADEEP Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "470002",
+    "phone_number": "+91 83198 66293",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shop No 1, Katra Main Rd, Shukrawari Hills, Sagar, Madhya Pradesh 470002",
+    "area": "Shukrawari Hills",
+    "latitude": 23.8413704,
+    "longitude": 78.7412915,
+    "place_id": "ChIJLcoXPsfXeDkR60dUVpHh_qs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLcoXPsfXeDkR60dUVpHh_qs",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:12:36"
+  },
+  {
+    "business_name": "Ritik Traders",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "470002",
+    "phone_number": "+91 97527 85716",
+    "website": "https://www.instagram.com/_ritik_traders_?igsh=dWxheDczY3RpcDV2",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no.08, Namak Mandi, Naya Bazar, near Prasutika Grah, Katra, Shukrawari Hills, Sagar, Madhya Pradesh 470002",
+    "area": "Katra, Shukrawari Hills",
+    "latitude": 23.840747999999998,
+    "longitude": 78.74131969999999,
+    "place_id": "ChIJ1ezuZMnXeDkRCrd5sCmbfuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ezuZMnXeDkRCrd5sCmbfuo",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:12:36"
+  }
+]

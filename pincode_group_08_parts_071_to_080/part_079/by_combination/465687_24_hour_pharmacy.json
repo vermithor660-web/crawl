@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MEDWORLD PHARMACY",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "465687",
+    "phone_number": "+91 73172 54856",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ghasyari Mandi, Aminabad, Lucknow, Uttar Pradesh 226001",
+    "area": "Ghasyari Mandi, Aminabad",
+    "latitude": 26.845296899999997,
+    "longitude": 80.9324858,
+    "place_id": "ChIJ1RRI3a_9mzkR3iMFstKS7Sw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1RRI3a_9mzkR3iMFstKS7Sw",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:30:58"
+  },
+  {
+    "business_name": "Kapoor Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Veterinary pharmacy",
+    "pincode": "465687",
+    "phone_number": "+91 98821 76641",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "kapoor medical store, Gagal Rd, opposite pnb atm, Kummi, Himachal Pradesh 175006",
+    "area": "465687",
+    "latitude": 31.6055089,
+    "longitude": 76.949169,
+    "place_id": "ChIJM6g6OG4cBTkRjok1t1o6scs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM6g6OG4cBTkRjok1t1o6scs",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:30:58"
+  }
+]

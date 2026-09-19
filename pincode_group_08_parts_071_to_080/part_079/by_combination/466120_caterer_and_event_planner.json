@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Caterers & Parties Planners",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "466120",
+    "phone_number": "+91 94170 80644",
+    "website": "http://bharatcaters.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "# 3393 d 3393, Sector 40D, Chandigarh, 160036",
+    "area": "40D, Sector 40D",
+    "latitude": 30.739086699999998,
+    "longitude": 76.7307197,
+    "place_id": "ChIJj7h8HgvuDzkRnf_PzuU9_TA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj7h8HgvuDzkRnf_PzuU9_TA",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:52:36"
+  },
+  {
+    "business_name": "Taj Catering and Events",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Caterer, Service establishment, Wedding planner",
+    "pincode": "466120",
+    "phone_number": "+91 99889 01858",
+    "website": "http://www.tajcateringldh.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Taj Catering and Events, 466120, India",
+    "area": "466120",
+    "latitude": 31.026816399999998,
+    "longitude": 75.4106475,
+    "place_id": "ChIJ3X2J0laCGjkR8Xe9UxeFrCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3X2J0laCGjkR8Xe9UxeFrCU",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:52:36"
+  }
+]

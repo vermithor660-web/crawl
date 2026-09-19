@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Inaya Car Washing Center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "466118",
+    "phone_number": "+91 99970 29080",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Noorpur, Uttar Pradesh 246734",
+    "area": "466118",
+    "latitude": 29.142396299999998,
+    "longitude": 78.40108819999999,
+    "place_id": "ChIJ_5EMZZu7CzkRkPIZdur7bzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_5EMZZu7CzkRkPIZdur7bzM",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:50:28"
+  },
+  {
+    "business_name": "K3 Car Care | Painting Studio",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto painting, Ceramics wholesaler",
+    "pincode": "466118",
+    "phone_number": "+91 72757 55556",
+    "website": "http://k3carcare.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Survey No. 200, 270, Industrial Estate, Manduadih, Road, Tarna Babatpur Road, Ganeshpur, Shivpur, Chandpur, Varanasi, Uttar Pradesh 221002",
+    "area": "Ganeshpur, Shivpur",
+    "latitude": 25.3028124,
+    "longitude": 82.960864,
+    "place_id": "ChIJ9zGkXgkujjkRLnWAJxyre08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9zGkXgkujjkRLnWAJxyre08",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:50:28"
+  }
+]

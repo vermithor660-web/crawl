@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jarnal Store",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "466113",
+    "phone_number": "+91 86023 78085",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 5, Laliya Khedi, Amlaha, Madhya Pradesh 466113",
+    "area": "466113",
+    "latitude": 23.1528265,
+    "longitude": 76.9392793,
+    "place_id": "ChIJYcUxeFXtfDkRwRrejZiAF40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYcUxeFXtfDkRwRrejZiAF40",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:43:52"
+  },
+  {
+    "business_name": "The Bloom Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "466113",
+    "phone_number": "+91 91099 96261",
+    "website": "http://instagram.com/thebloom_spa/",
+    "rating": 4.5,
+    "reviews_count": 42,
+    "address": "Ground Floor, ISBT, Plot no.16, near by Rajhans Hotel, Habib Ganj, Bhopal, Madhya Pradesh 462024",
+    "area": "Habib Ganj",
+    "latitude": 23.231392,
+    "longitude": 77.44430799999999,
+    "place_id": "ChIJnzZ5oERDfDkRcsNMRE9N2fI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnzZ5oERDfDkRcsNMRE9N2fI",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:43:52"
+  }
+]

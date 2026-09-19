@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "466120",
+    "phone_number": "+91 74142 20651",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 16,
+    "address": "31/1, Laxmi Bai Rd, near Sharma Optical, Jaora, Madhya Pradesh 457226",
+    "area": "466120",
+    "latitude": 23.636426,
+    "longitude": 75.12656439999999,
+    "place_id": "ChIJEy6TxusaZDkRmoIXDGMBXpA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEy6TxusaZDkRmoIXDGMBXpA",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:51:57"
+  },
+  {
+    "business_name": "Arman Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "466120",
+    "phone_number": "+91 99723 62966",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Shorapur, Karnataka 585224",
+    "area": "466120",
+    "latitude": 16.5259996,
+    "longitude": 76.758535,
+    "place_id": "ChIJ0ZX16wxryDsR0CMMPestuBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ZX16wxryDsR0CMMPestuBY",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:51:57"
+  }
+]

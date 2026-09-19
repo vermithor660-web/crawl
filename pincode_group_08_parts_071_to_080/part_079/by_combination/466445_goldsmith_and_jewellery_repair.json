@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zevaraat",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry repair service",
+    "all_categories": "Jewelry repair service, Jewelry store",
+    "pincode": "466445",
+    "phone_number": "+91 91791 52202",
+    "website": "https://zevaraat.co.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "22/1, opp. Raj Plaza, Shakkar Bazar, Indore, Madhya Pradesh 452002",
+    "area": "Shakkar Bazar",
+    "latitude": 22.718353399999998,
+    "longitude": 75.8503289,
+    "place_id": "ChIJoaFgIaH9YjkROH5eZzD3qDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoaFgIaH9YjkROH5eZzD3qDo",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:58:47"
+  },
+  {
+    "business_name": "Jewellery shop",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler, Service establishment",
+    "pincode": "466445",
+    "phone_number": "+91 98267 80848",
+    "website": "http://www.balajjewellers.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jewellery shop, 466445, India",
+    "area": "466445",
+    "latitude": 22.7784406,
+    "longitude": 78.33953799999999,
+    "place_id": "ChIJx5pYUcRk1YQRnWUOP0tVNQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx5pYUcRk1YQRnWUOP0tVNQU",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:58:48"
+  }
+]

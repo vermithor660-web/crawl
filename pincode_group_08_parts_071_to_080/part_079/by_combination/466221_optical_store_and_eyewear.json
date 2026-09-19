@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meerut Opticals - Essilor Experts",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "466221",
+    "phone_number": "+91 93582 52353",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "C-74/7, near Police Post, Samrat Palace, Vaishali Colony, Panchsheel Colony, Meerut, Uttar Pradesh 250001",
+    "area": "Samrat Palace, Vaishali Colony, Panchsheel Colony",
+    "latitude": 28.971624199999997,
+    "longitude": 77.7308577,
+    "place_id": "ChIJTQtmdgtlDDkRxmfixPHUGfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQtmdgtlDDkRxmfixPHUGfY",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:55:22"
+  },
+  {
+    "business_name": "New Vision Care",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Eye care center",
+    "pincode": "466221",
+    "phone_number": "+91 99455 34077",
+    "website": "https://www.newvisioncare.in/",
+    "rating": 5,
+    "reviews_count": 2395,
+    "address": "#1, 5th main, 5th cross, Keb Road, Kamanahalli, Near kullapa circle, Bengaluru, Karnataka 560084",
+    "area": "Saint Thomas Town, Inasappa Layout, Kammanahalli",
+    "latitude": 13.016068599999999,
+    "longitude": 77.63930479999999,
+    "place_id": "ChIJwWShPx4XrjsRQ2ms0hi0l0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwWShPx4XrjsRQ2ms0hi0l0I",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:55:23"
+  }
+]

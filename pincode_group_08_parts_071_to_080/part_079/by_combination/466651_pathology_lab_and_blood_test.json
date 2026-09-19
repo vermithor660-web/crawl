@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Universal Pathology Lab",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Laboratory",
+    "all_categories": "Laboratory, Pathologist",
+    "pincode": "466651",
+    "phone_number": "+91 77710 52266",
+    "website": "https://sites.google.com/view/universalpathologylab",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No. 04, Near, Gram Panchayat Main Road, Duraha, Madhya Pradesh 466661",
+    "area": "466651",
+    "latitude": 23.3988744,
+    "longitude": 77.1595054,
+    "place_id": "ChIJ070-mRWJfDkRF6Gbzwyl9Z0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ070-mRWJfDkRF6Gbzwyl9Z0",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:05:57"
+  },
+  {
+    "business_name": "Dev pathology lab",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Blood testing service",
+    "all_categories": "Blood testing service",
+    "pincode": "466651",
+    "phone_number": "+91 74609 57554",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gausesinghpur, rod, Dostpur, Uttar Pradesh 228131",
+    "area": "466651",
+    "latitude": 26.272181399999997,
+    "longitude": 82.4725222,
+    "place_id": "ChIJi6nuGrd9mjkRMKwMweFoW3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi6nuGrd9mjkRMKwMweFoW3A",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:05:59"
+  }
+]

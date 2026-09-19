@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Traditional Foods - Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "470115",
+    "phone_number": "+91 90030 33359",
+    "website": "https://www.youtube.com/watch?v=LP0eNw_vfHg&t=19s",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "15, 54th St, Ashok Nagar, Chennai, Tamil Nadu 600083",
+    "area": "Ashok Nagar",
+    "latitude": 13.0332609,
+    "longitude": 80.2146719,
+    "place_id": "ChIJiWZAPQBnUjoRVhLM2kfTSC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiWZAPQBnUjoRVhLM2kfTSC8",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:23:13"
+  },
+  {
+    "business_name": "Utkarsh Cloud Kitchen, Rajashree layout, Bangalore",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "470115",
+    "phone_number": "+91 74837 98682",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Rajashree Layout Main Road, Lakshmi Layout, munnekolla, Marathahalli, Bengaluru, Karnataka 560037",
+    "area": "Lakshmi Layout, munnekolla, Marathahalli",
+    "latitude": 12.9531732,
+    "longitude": 77.7078014,
+    "place_id": "ChIJ9aTyWD8TrjsRpA6Hnize1qY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9aTyWD8TrjsRpA6Hnize1qY",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:23:15"
+  }
+]

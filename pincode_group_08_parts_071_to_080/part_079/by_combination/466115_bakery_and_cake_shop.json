@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apna aashiyana chai & cafe",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "466115",
+    "phone_number": "+91 62323 71184",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "XX9R+CC9, Diwadiya, Madhya Pradesh 466115",
+    "area": "466115",
+    "latitude": 22.9685368,
+    "longitude": 76.9911186,
+    "place_id": "ChIJf5SBQQDlfDkRZgA6AheqBUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5SBQQDlfDkRZgA6AheqBUI",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:46:30"
+  },
+  {
+    "business_name": "Rajput cake",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "466115",
+    "phone_number": "+91 97541 62188",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward no.13, kanha palace, near Sai mandir, Shastri Colony, Nasrullaganj, Madhya Pradesh 466331",
+    "area": "Shastri Colony",
+    "latitude": 22.686982399999998,
+    "longitude": 77.274005,
+    "place_id": "ChIJ6XJFqUGpfTkRmTV3-U8SXPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6XJFqUGpfTkRmTV3-U8SXPY",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:46:33"
+  }
+]

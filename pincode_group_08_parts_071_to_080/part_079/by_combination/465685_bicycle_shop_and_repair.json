@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chamunda Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "465685",
+    "phone_number": "+91 91665 71327",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "WW9C+5HR, Mohangarh Rd, Gandhi Colony, Jaisalmer, Jaisalmer Muncipal Area, Rajasthan 345001",
+    "area": "Gandhi Colony",
+    "latitude": 26.9179946,
+    "longitude": 70.92138729999999,
+    "place_id": "ChIJPyAzWCK9RzkRNmGDe-M0PBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPyAzWCK9RzkRNmGDe-M0PBE",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:29:27"
+  },
+  {
+    "business_name": "J.H. Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "465685",
+    "phone_number": "+91 98640 72846",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 101,
+    "address": "Basistha Rd, Near - Nakshatra Hotel, Beltola Tiniali, Guwahati, Assam 781028",
+    "area": "Beltola Tiniali",
+    "latitude": 26.121900399999998,
+    "longitude": 91.798681,
+    "place_id": "ChIJiVfafxFfWjcRvgFnR_NeAdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiVfafxFfWjcRvgFnR_NeAdI",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:29:28"
+  }
+]

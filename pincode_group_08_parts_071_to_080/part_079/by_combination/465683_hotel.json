@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "465683",
+    "phone_number": "+91 98930 96556",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 171,
+    "address": "Pachare, Sarangpur, Rajgarh, NH-3, Agra - Mumbai Rd, Madhya Pradesh 465683",
+    "area": "465683",
+    "latitude": 23.7202524,
+    "longitude": 76.73719009999999,
+    "place_id": "ChIJ8xvKBYNcezkReRYjtD2oeK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8xvKBYNcezkReRYjtD2oeK0",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:28:04"
+  },
+  {
+    "business_name": "Hotel Bhagwati Ac Non Ac Room",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "465683",
+    "phone_number": "+91 96850 23627",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "PP8J+QCC, Pachore, Madhya Pradesh 465683",
+    "area": "465683",
+    "latitude": 23.7169392,
+    "longitude": 76.73100699999999,
+    "place_id": "ChIJ7QDq031bezkRDmobBqSCkTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7QDq031bezkRDmobBqSCkTs",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:28:06"
+  }
+]

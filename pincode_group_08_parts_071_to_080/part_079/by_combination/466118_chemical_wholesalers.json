@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rishi ChemTrade",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "466118",
+    "phone_number": "+91 63533 02022",
+    "website": "http://www.rishichemtrade.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No B-12, Greenpark Industrial Estate Near Ashirwad Hotel, Sachin Navsari Raod, UNN, Surat-394305, Surat, Gujarat 394210",
+    "area": "Asma Nagar, Udhana",
+    "latitude": 21.1061113,
+    "longitude": 72.8630015,
+    "place_id": "ChIJ__9PwjRM4DsRbH02VdS1ezA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__9PwjRM4DsRbH02VdS1ezA",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:51:22"
+  },
+  {
+    "business_name": "Indorex Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Industrial chemicals wholesaler",
+    "all_categories": "Industrial chemicals wholesaler, Agrochemicals Supplier, Chemical Exporter, Chemical Manufacturer, Chemical plant, Chemical wholesaler, Household chemicals supplier, Plating service, Swimming pool, Water treatment supplier",
+    "pincode": "466118",
+    "phone_number": "+91 90057 67924",
+    "website": "https://indorexchemicals.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Office No. 21, Ground Floor, N G Park, 1, Shiv Vallabh Cross Rd, Rawalpada, Dahisar East, Mumbai, Maharashtra 400068",
+    "area": "Rawalpada, Dahisar East",
+    "latitude": 19.2429241,
+    "longitude": 72.8709097,
+    "place_id": "ChIJbzqbGcKw5zsRdO15rJ-l9A4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbzqbGcKw5zsRdO15rJ-l9A4",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:51:22"
+  }
+]

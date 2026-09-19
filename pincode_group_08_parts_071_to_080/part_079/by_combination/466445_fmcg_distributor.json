@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rising Distributor",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "466445",
+    "phone_number": "+91 88890 86560",
+    "website": "https://github.com/Hemant-05/raising_india/releases/download/0.9/rising_mart_0.9.apk",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no. 5, Rain basera, Sethani ghat, Jagdish Pura, Narmadapuram, Madhya Pradesh 461001",
+    "area": "Jagdish Pura",
+    "latitude": 22.7625815,
+    "longitude": 77.7158579,
+    "place_id": "ChIJzYtpDcrPfTkRmnXu8QT-1-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzYtpDcrPfTkRmnXu8QT-1-Q",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:58:33"
+  },
+  {
+    "business_name": "Shri Venkatesh Agency Nestle, Haldiram , RBI , GSk Distributor Bc Devision",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "466445",
+    "phone_number": "+91 98264 31361",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "QP2R+776, Jagdish Pura, Narmadapuram, Madhya Pradesh 461001",
+    "area": "Jagdish Pura",
+    "latitude": 22.7506675,
+    "longitude": 77.74065089999999,
+    "place_id": "ChIJtycLOLPPfTkR7ds4ply4Bdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtycLOLPPfTkR7ds4ply4Bdw",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:58:33"
+  }
+]

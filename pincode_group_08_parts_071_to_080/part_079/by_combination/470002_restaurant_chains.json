@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wang Chinese Cuisine",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant",
+    "pincode": "470002",
+    "phone_number": "+91 88190 00008",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Plot no. 438, Narmada Rd, near Johnson English School, Ratan Colony, Gorakhpur, Jabalpur, Madhya Pradesh 482001",
+    "area": "Ratan Colony, Gorakhpur",
+    "latitude": 23.148633099999998,
+    "longitude": 79.9307568,
+    "place_id": "ChIJFwTcvMGtgTkRAbDmQHRPoX0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFwTcvMGtgTkRAbDmQHRPoX0",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:12:50"
+  },
+  {
+    "business_name": "IIFL Business Loan",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Financial institution",
+    "pincode": "470002",
+    "phone_number": "+91 1860 267 3000",
+    "website": "https://locate-us.iifl.com/business-loan-near-me/iifl-business-loan-sagar-gujrati-bazar-gl-loan-agency-gujrati-bazar-sagar-351513/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ground Floor, opposite HP Petrol Pump, Gujarati Bazaar, Sagar, Madhya Pradesh 470002",
+    "area": "Gujarati Bazaar",
+    "latitude": 23.8463031,
+    "longitude": 78.7400043,
+    "place_id": "ChIJawNYAJbXeDkRuEEQ7gk3EPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJawNYAJbXeDkRuEEQ7gk3EPc",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:12:52"
+  }
+]

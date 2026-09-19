@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sara Miller Group Real Estate",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Real estate agent, Real estate consultant",
+    "pincode": "470118",
+    "phone_number": "N/A",
+    "website": "http://saramillergroup.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1810 15th Pl NW, Issaquah, WA 98027, United States",
+    "area": "470118",
+    "latitude": 47.550778699999995,
+    "longitude": -122.0601298,
+    "place_id": "ChIJt-HZv39vkFQRQPL8iz52Pio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt-HZv39vkFQRQPL8iz52Pio",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:28:01"
+  },
+  {
+    "business_name": "Tripurari Properties",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Building consultant, Real estate consultant, Real estate developer",
+    "pincode": "470118",
+    "phone_number": "+91 97201 69601",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Royal Enclave, Kamalwaganja, Uttrakhand, India, Haldwani, Uttarakhand 263139",
+    "area": "Kamaluaganja, Bhagwanpur Vichla",
+    "latitude": 29.210491899999997,
+    "longitude": 79.46734579999999,
+    "place_id": "ChIJ44Ujf5-coDkRuBrvue8NJi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ44Ujf5-coDkRuBrvue8NJi8",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:28:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chirayu Setu",
+    "search_category": "Therapy Center",
+    "primary_category": "Addiction treatment center",
+    "all_categories": "Addiction treatment center",
+    "pincode": "466125",
+    "phone_number": "+91 99936 15999",
+    "website": "https://chirayusetu.com/",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "Chirayu Medical College & Hospital, Bhopal-Indore Highway Bhainsakhedi, Bairagarh, Bhopal, Madhya Pradesh 462030",
+    "area": "Bairagarh",
+    "latitude": 23.2688944,
+    "longitude": 77.30707,
+    "place_id": "ChIJz-DuaDNnfDkRfSy2nMxQm8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-DuaDNnfDkRfSy2nMxQm8A",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:54:17"
+  },
+  {
+    "business_name": "Mind Care Psychiatry Clinic: Dr Purushottam | Best Psychiatrist in Bhopal",
+    "search_category": "Therapy Center",
+    "primary_category": "Psychiatrist",
+    "all_categories": "Psychiatrist, Child psychiatrist, Mental health service, Psychiatric hospital, Psychologist, Psychotherapist",
+    "pincode": "466125",
+    "phone_number": "+91 86691 24374",
+    "website": "https://mind-care-psychiatry.grexa.site/",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "Shop no. 9, Raj business park-1, Minal Shopping St, Narela Shankri, Ayodhya Nagar, Bhopal, Madhya Pradesh 462023",
+    "area": "Narela Shankri, Ayodhya Nagar",
+    "latitude": 23.2707716,
+    "longitude": 77.4587846,
+    "place_id": "ChIJg4ewm0FpfDkRldti-Ju7-8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg4ewm0FpfDkRldti-Ju7-8w",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:54:18"
+  }
+]

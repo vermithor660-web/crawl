@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAGAR SECURITY SERVICE",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "470051",
+    "phone_number": "+91 77606 02733",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MIG 1643, Court Rd, Channapatna Housing Board Colony, Hassan, Karnataka 573201",
+    "area": "Channapatna Housing Board Colony",
+    "latitude": 12.9949464,
+    "longitude": 76.1023445,
+    "place_id": "ChIJXROwCwVJpTsRSH2aUuyv3-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXROwCwVJpTsRSH2aUuyv3-U",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:20:59"
+  },
+  {
+    "business_name": "Sagar Security STS",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service, Service establishment",
+    "pincode": "470051",
+    "phone_number": "N/A",
+    "website": "https://sagarsecurity.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Sagar Security STS, 470051, India",
+    "area": "470051",
+    "latitude": 27.601024799999998,
+    "longitude": 80.1987576,
+    "place_id": "ChIJ5dXGYJiMuIsRbvo6jS24qrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5dXGYJiMuIsRbvo6jS24qrI",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:21:01"
+  }
+]

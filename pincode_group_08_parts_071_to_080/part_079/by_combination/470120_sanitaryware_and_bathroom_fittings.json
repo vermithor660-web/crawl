@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahalaxmi Sanitary Traders",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "470120",
+    "phone_number": "+91 80179 13362",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "165/1b, Picnic Garden Rd, Binay Singh Colony, Picnic Garden, Tiljala, Kolkata, West Bengal 700039",
+    "area": "Binay Singh Colony, Picnic Garden, Tiljala",
+    "latitude": 22.5267782,
+    "longitude": 88.3890213,
+    "place_id": "ChIJqdg9m3R3AjoRui5tmErdQPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqdg9m3R3AjoRui5tmErdQPg",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:30:44"
+  },
+  {
+    "business_name": "OM Sanitation",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "470120",
+    "phone_number": "+91 90517 05023",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 69,
+    "address": "JC4X+W7J, Hatiara 30c Rd, Sulanggari, Hatiara, Busstand, Kolkata, West Bengal 700157",
+    "area": "Sulanggari, Hatiara, Busstand",
+    "latitude": 22.6073408,
+    "longitude": 88.44813959999999,
+    "place_id": "ChIJOzdron11AjoRS9V7CvMkpmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOzdron11AjoRS9V7CvMkpmY",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:30:44"
+  }
+]

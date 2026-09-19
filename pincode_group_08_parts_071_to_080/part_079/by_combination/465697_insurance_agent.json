@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fino Payments Bank",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, ATM, Financial institution, Money transfer service",
+    "pincode": "465697",
+    "phone_number": "+91 89597 04412",
+    "website": "https://www.finobank.com/",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "Sarangpur, Gram, Budanpur, Tiko D, Madhya Pradesh 465697",
+    "area": "Sarangpur, Gram",
+    "latitude": 23.5669573,
+    "longitude": 76.6477776,
+    "place_id": "ChIJIVSYYZVZezkR_f8838G7i6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIVSYYZVZezkR_f8838G7i6A",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:38:50"
+  },
+  {
+    "business_name": "Mahindra Finance in Sarangpur",
+    "search_category": "Insurance Agent",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution, Car finance and loan company, Financial consultant, Insurance broker, Insurance company, Investment company, Investment service, Loan agency",
+    "pincode": "465697",
+    "phone_number": "+91 98261 57673",
+    "website": "https://branch.mahindrafinance.com/sarangpur-sarangpur-madhya-pradesh-branch/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ground Floor, C/O Makhan Lal Sripad, Gurudwara Road, behind Police Station, Sarangpur, Madhya Pradesh 465697",
+    "area": "465697",
+    "latitude": 23.5664525,
+    "longitude": 76.4722614,
+    "place_id": "ChIJ-TyOmkxVezkRUUbIpTwr1Aw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-TyOmkxVezkRUUbIpTwr1Aw",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:38:51"
+  }
+]

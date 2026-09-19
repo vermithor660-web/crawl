@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SWATHI ENT HOSPITAL",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, ENT Specialist",
+    "pincode": "470051",
+    "phone_number": "+91 74116 20491",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Sowlanga Road, Near, Railway, Shivamogga, Karnataka 577204",
+    "area": "Lal Bahadur Shastri Nagar",
+    "latitude": 13.948227,
+    "longitude": 75.574343,
+    "place_id": "ChIJrYZy9dWuuzsRFsLbBDlnbpA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrYZy9dWuuzsRFsLbBDlnbpA",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:20:06"
+  },
+  {
+    "business_name": "Sri Lakshmi Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "470051",
+    "phone_number": "+91 97400 85700",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Police Chowki, Vinoba Nagara, Shivamogga, Karnataka 577204",
+    "area": "Vinoba Nagara",
+    "latitude": 13.9493954,
+    "longitude": 75.56083,
+    "place_id": "ChIJDaoakjGvuzsRhwK2UMWRcAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDaoakjGvuzsRhwK2UMWRcAE",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:20:06"
+  }
+]

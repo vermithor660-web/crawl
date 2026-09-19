@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ARSIAN",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop, Manufacturer, Indian grocery store",
+    "pincode": "465685",
+    "phone_number": "+91 94845 42444",
+    "website": "https://www.arsian.in/",
+    "rating": 4.7,
+    "reviews_count": 125,
+    "address": "KJP House, adjacent CDAC, Pilaji Ganj, Mehsana, Gujarat 384001",
+    "area": "Pilaji Ganj",
+    "latitude": 23.6005,
+    "longitude": 72.3910662,
+    "place_id": "ChIJqyj_1D5DXDkRo4v9RBgnytI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqyj_1D5DXDkRo4v9RBgnytI",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:28:47"
+  },
+  {
+    "business_name": "SWARGANIC INDIA ( firm name -Jaivik aahar & products)",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "465685",
+    "phone_number": "+91 75097 07073",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Plot no. 460, Infront of daga palace, near Kaila devi mandir, Mishri Nagar, Mishrilal Nagar, Ganga Nagar, Dewas, Madhya Pradesh 455001",
+    "area": "Mishri Nagar, Mishrilal Nagar, Ganga Nagar",
+    "latitude": 22.9569847,
+    "longitude": 76.0362062,
+    "place_id": "ChIJVXRQb8kXYzkRl43E-WZs3YY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVXRQb8kXYzkRl43E-WZs3YY",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:28:47"
+  }
+]

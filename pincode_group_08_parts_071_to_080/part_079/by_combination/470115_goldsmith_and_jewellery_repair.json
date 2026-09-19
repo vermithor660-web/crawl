@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramraja Jewellers Jhansi",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "470115",
+    "phone_number": "+91 91409 15078",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "199/200, Sarafa Bazar, Manik Chowk, Jhansi, Uttar Pradesh 284002",
+    "area": "Manik Chowk",
+    "latitude": 25.462394999999997,
+    "longitude": 78.57923,
+    "place_id": "ChIJqUYmwtp2dzkR4mKSoKjajcY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqUYmwtp2dzkR4mKSoKjajcY",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:23:20"
+  },
+  {
+    "business_name": "SukhSaroj Jewellers Pvt Ltd",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler, Jewelry store",
+    "pincode": "470115",
+    "phone_number": "+91 99104 56970",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 246,
+    "address": "Bagichi, 3, 6, Gurdwara Bala Sahib Road, Siddhartha Basti, Pocket C, Hari Nagar Ashram, New Delhi, Delhi 110014",
+    "area": "Siddhartha Basti, Pocket C, Hari Nagar Ashram",
+    "latitude": 28.577393599999997,
+    "longitude": 77.25670989999999,
+    "place_id": "ChIJkadB16bjDDkRGeNAFdBlX0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkadB16bjDDkRGeNAFdBlX0g",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:23:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRL DIAGNOSTIC COLLECTIN COLLECTION CENTRE",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Blood testing service",
+    "all_categories": "Blood testing service",
+    "pincode": "466554",
+    "phone_number": "+91 98276 09911",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PQV3+2Q7, Babai Rd, Malakhedi, Narmadapuram, Madhya Pradesh 461001",
+    "area": "Malakhedi",
+    "latitude": 22.7425279,
+    "longitude": 77.7544226,
+    "place_id": "ChIJe4PrRL7RfTkR5M4fqi3bQgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe4PrRL7RfTkR5M4fqi3bQgk",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:04:11"
+  },
+  {
+    "business_name": "Sapan Saurabh diagnostic",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "466554",
+    "phone_number": "+91 95842 05113",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 95,
+    "address": "near AIIMS hospital, Saket Nagar, Habib Ganj, Bhopal, Madhya Pradesh 462024",
+    "area": "Saket Nagar, Habib Ganj",
+    "latitude": 23.213162699999998,
+    "longitude": 77.45759819999999,
+    "place_id": "ChIJcynyz05DfDkRtU4Vrej0Jys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcynyz05DfDkRtU4Vrej0Jys",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:04:11"
+  }
+]

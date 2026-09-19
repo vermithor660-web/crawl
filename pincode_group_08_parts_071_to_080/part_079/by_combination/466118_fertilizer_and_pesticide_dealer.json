@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Farme",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service",
+    "pincode": "466118",
+    "phone_number": "+91 84418 44135",
+    "website": "https://farme.in/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "3rd Floor, Shreeman Yogi Complex, Post Office, beside Khare Town, Dharampeth, Nagpur, Maharashtra 440010",
+    "area": "Dharampeth",
+    "latitude": 21.1368665,
+    "longitude": 79.061092,
+    "place_id": "ChIJmV-wQtTB1DsRZu0EsuhScFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmV-wQtTB1DsRZu0EsuhScFA",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:51:24"
+  },
+  {
+    "business_name": "Ayushman Fertilizers Pvt. Ltd.",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office, Fertilizer Store",
+    "pincode": "466118",
+    "phone_number": "+91 98370 03603",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 14,
+    "address": "Civil Lines, Bareilly, Uttar Pradesh 243001",
+    "area": "Civil Lines",
+    "latitude": 28.3559439,
+    "longitude": 79.4204986,
+    "place_id": "ChIJNYRnbysHoDkR6uaV656OBOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNYRnbysHoDkR6uaV656OBOI",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:51:25"
+  }
+]

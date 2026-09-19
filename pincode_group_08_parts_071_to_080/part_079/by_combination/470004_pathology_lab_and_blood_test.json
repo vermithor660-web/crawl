@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Medical Lab",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Laboratory",
+    "all_categories": "Laboratory, Medical clinic",
+    "pincode": "470004",
+    "phone_number": "+91 62832 84770",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 27,
+    "address": "Block-B, Udham Singh Nagar, Tagore Nagar, Ludhiana, Punjab 141001",
+    "area": "Block-B, Udham Singh Nagar, Tagore Nagar",
+    "latitude": 30.910988,
+    "longitude": 75.8243081,
+    "place_id": "ChIJu_S6mx6DGjkRW7fQJhiIH2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu_S6mx6DGjkRW7fQJhiIH2k",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:16:37"
+  },
+  {
+    "business_name": "Neuedge Diagnostics",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, Hematologist, Laboratory, Medical laboratory, Pathologist",
+    "pincode": "470004",
+    "phone_number": "+91 97776 68798",
+    "website": "https://www.neuedge.in/",
+    "rating": 4.9,
+    "reviews_count": 53,
+    "address": "AIIMS Entrance Gate, A 106 -108 &A406- 407,Vipul Plaza, in front of AIIMS Road, Sijua, Patrapada, Ranasinghpur, Bhubaneswar, Odisha 751019",
+    "area": "Sijua, Patrapada",
+    "latitude": 20.2311089,
+    "longitude": 85.7787383,
+    "place_id": "ChIJIwAVbLSnGToRc1BSKmCJkpU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIwAVbLSnGToRc1BSKmCJkpU",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:16:37"
+  }
+]

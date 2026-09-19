@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba Ka Dhaba Verarampura",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "465691",
+    "phone_number": "+91 93517 65550",
+    "website": "https://www.facebook.com/BabaKaDhabaVerarampura",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "National Highway- 62, Verarampura, sheoganj, Rajasthan 307028",
+    "area": "465691",
+    "latitude": 25.095373,
+    "longitude": 73.0112912,
+    "place_id": "ChIJ1Tk1a3brQjkR5W7KhfJZSvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Tk1a3brQjkR5W7KhfJZSvg",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:34:11"
+  },
+  {
+    "business_name": "Mahalok dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Sweets and dessert buffet, Dhaba, Food court",
+    "pincode": "465691",
+    "phone_number": "+91 62628 45555",
+    "website": "https://mahalokdhaba.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "101, Indore Rd, Dhediya, Gothada, Madhya Pradesh 456006",
+    "area": "465691",
+    "latitude": 23.1180912,
+    "longitude": 75.7999711,
+    "place_id": "ChIJ28GsGwR1YzkREq9gBU-Tch4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ28GsGwR1YzkREq9gBU-Tch4",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:34:13"
+  }
+]

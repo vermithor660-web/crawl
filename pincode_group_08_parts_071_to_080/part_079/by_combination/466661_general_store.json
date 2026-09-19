@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree syam general store",
+    "search_category": "General Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "466661",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chhatri, Madhya Pradesh 466661",
+    "area": "466661",
+    "latitude": 23.4778764,
+    "longitude": 77.1378491,
+    "place_id": "ChIJPfkQDgCHfDkRPjlmPlMTByQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPfkQDgCHfDkRPjlmPlMTByQ",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:07:20"
+  },
+  {
+    "business_name": "Chinki General Store And Readymade Store",
+    "search_category": "General Store",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "466661",
+    "phone_number": "+91 77478 14175",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Main Market, Ahmadpur, Madhya Pradesh 466665",
+    "area": "466661",
+    "latitude": 23.5116159,
+    "longitude": 77.2153912,
+    "place_id": "ChIJhVtzMOd9fDkRNKCSyx-LVtc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhVtzMOd9fDkRNKCSyx-LVtc",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:07:20"
+  }
+]

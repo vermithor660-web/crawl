@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NephroPlus Dialysis & Kidney Care Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "466665",
+    "phone_number": "+91 91547 96823",
+    "website": "https://www.nephroplus.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C/o, Sadar Hospital, Sheohar, Bihar 843329",
+    "area": "466665",
+    "latitude": 26.5174055,
+    "longitude": 85.2956885,
+    "place_id": "ChIJswD3CRrn7DkRiNZ_UrWQXAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJswD3CRrn7DkRiNZ_UrWQXAI",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:09:31"
+  },
+  {
+    "business_name": "Metropolis Healthcare Ltd",
+    "search_category": "Dialysis Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Pathologist",
+    "pincode": "466665",
+    "phone_number": "+91 22 3399 3939",
+    "website": "http://www.metropolisindia.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rao Colony Ward No 10, Near Seva Pathology Teh, Sohagpur, Madhya Pradesh 462101",
+    "area": "466665",
+    "latitude": 23.451604,
+    "longitude": 77.309037,
+    "place_id": "ChIJXZHmm0B7fDkRDisFFddP-qk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXZHmm0B7fDkRDisFFddP-qk",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:09:34"
+  }
+]

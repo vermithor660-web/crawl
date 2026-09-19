@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAPTA DIAGNOSTIC & POLYCLINIC",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Medical Center",
+    "pincode": "470124",
+    "phone_number": "+91 98312 00715",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "SAIBAN ROAD, HARIR PUKUR MORE, Kalyan Nagar, Rahara, Kolkata, Khardaha, West Bengal 700118",
+    "area": "HARIR PUKUR MORE, Kalyan Nagar, Rahara",
+    "latitude": 22.7247201,
+    "longitude": 88.38753059999999,
+    "place_id": "ChIJQ5VxLACb-DkRXNvlxcJ01BE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ5VxLACb-DkRXNvlxcJ01BE",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:32:20"
+  },
+  {
+    "business_name": "Apollo Clinic Ghola",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "470124",
+    "phone_number": "+91 90734 48222",
+    "website": "https://www.apolloclinicghola.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "224/1, Barasat Rd, Ghola, Ward No-32, Kolkata, Panihati, West Bengal 700110",
+    "area": "Ghola, Ward No-32",
+    "latitude": 22.6970726,
+    "longitude": 88.409323,
+    "place_id": "ChIJZWiOTRyd-DkRirKjlqrdrMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZWiOTRyd-DkRirKjlqrdrMs",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:32:21"
+  }
+]

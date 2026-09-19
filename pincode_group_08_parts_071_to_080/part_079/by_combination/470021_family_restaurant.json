@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhagyashree Resturant And Cafe",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "470021",
+    "phone_number": "+91 92431 58671",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Kerbana, Sagar, Madhya Pradesh 470337",
+    "area": "470021",
+    "latitude": 23.9244348,
+    "longitude": 78.8597491,
+    "place_id": "ChIJAewjxGTPeDkR6KpGGAV34Fo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAewjxGTPeDkR6KpGGAV34Fo",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:18:08"
+  },
+  {
+    "business_name": "Sarthak family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "470021",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pathriya jaat, near petrol pump, Sagar, Patheriya Jat, Madhya Pradesh 470001",
+    "area": "470021",
+    "latitude": 23.803962,
+    "longitude": 78.7958118,
+    "place_id": "ChIJsU_kRGfTeDkRIkyg3Iq21JQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsU_kRGfTeDkRIkyg3Iq21JQ",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:18:08"
+  }
+]

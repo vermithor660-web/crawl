@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MPJ NATURAL Store",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Spices Wholesaler",
+    "pincode": "466120",
+    "phone_number": "+91 98912 28874",
+    "website": "https://www.mpjenterprises.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "R 91, Vani Vihar Rd, Vijay Vihar, Manas Kunj, New Uttam Nagar, Uttam Nagar, New Delhi, Delhi, 110059",
+    "area": "Vijay Vihar, Manas Kunj, New Uttam Nagar, Uttam Nagar",
+    "latitude": 28.6177949,
+    "longitude": 77.06157759999999,
+    "place_id": "ChIJZ2K-kmEFDTkRoyuuVa4MiS8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ2K-kmEFDTkRoyuuVa4MiS8",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:51:38"
+  },
+  {
+    "business_name": "Indo Agro Foods - Wholesaler of dry fruits and dates",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "466120",
+    "phone_number": "N/A",
+    "website": "http://tamralmuluk.com/",
+    "rating": 4.8,
+    "reviews_count": 203,
+    "address": "Sulochana Shetty Marg, near Shivsena Shakha, Kumbhar Wada, Matunga East, Mumbai, Maharashtra 400019",
+    "area": "Kumbhar Wada, Matunga East",
+    "latitude": 19.0376169,
+    "longitude": 72.8542877,
+    "place_id": "ChIJ83YW0dTI5zsRgeNfs7XhZfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ83YW0dTI5zsRgeNfs7XhZfY",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:51:41"
+  }
+]

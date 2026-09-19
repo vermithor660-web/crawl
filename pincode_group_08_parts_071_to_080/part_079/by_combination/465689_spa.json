@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Friends hair salone",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "465689",
+    "phone_number": "N/A",
+    "website": "https://www.friendshairsalone.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nalkheda naka, near Yes, Chhapiheda, Chhapera, Madhya Pradesh 465689",
+    "area": "465689",
+    "latitude": 23.8945428,
+    "longitude": 76.4519704,
+    "place_id": "ChIJT-Ar7P61ZDkRqXBJxz5WlR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT-Ar7P61ZDkRqXBJxz5WlR8",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:33:11"
+  },
+  {
+    "business_name": "Blue Terra Thai Spa Indore",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Massage spa",
+    "pincode": "465689",
+    "phone_number": "+91 88188 12877",
+    "website": "https://blueterrathaispa.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1St Floor, Satguru Parinay, 102, opp. C21 Mall, Near Pakiza, Indore, Madhya Pradesh 452001",
+    "area": "Near Pakiza, Scheme No 54",
+    "latitude": 22.744435499999998,
+    "longitude": 75.8919892,
+    "place_id": "ChIJk0mduaz9YjkROiJ0-1f8mgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk0mduaz9YjkROiJ0-1f8mgE",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:33:12"
+  }
+]

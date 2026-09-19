@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shibani's Yes! You Can Dance!",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Aerobics Class, Art school, Dance company, Fitness center, Hip Hop Dance Class, Music school, Salsa Dance Class",
+    "pincode": "470118",
+    "phone_number": "+91 99389 53825",
+    "website": "http://www.syycd.co.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "First Floor, Plot No .306/1818/3525, beside RTO Office, near Stalwart Skycity, Nandan Vihar, Patia, Bhubaneswar, Odisha 751024",
+    "area": "Nandan Vihar, Patia",
+    "latitude": 20.360243999999998,
+    "longitude": 85.8285906,
+    "place_id": "ChIJgxar5j8JGToRa9xKr6EuNIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgxar5j8JGToRa9xKr6EuNIA",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:27:47"
+  },
+  {
+    "business_name": "DABS-Dance & Arts Brij's Studio",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Music school, Physical fitness program, Yoga studio",
+    "pincode": "470118",
+    "phone_number": "+91 87001 67342",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 42,
+    "address": "Block N, Mohan nagar, Maruti kunj road, Sohna Rd, Bhondsi, Gurugram, Haryana 122102",
+    "area": "Bhondsi",
+    "latitude": 28.366687199999998,
+    "longitude": 77.0719472,
+    "place_id": "ChIJN0Uus_8jDTkRYg5vc88U8qk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN0Uus_8jDTkRYg5vc88U8qk",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:27:48"
+  }
+]

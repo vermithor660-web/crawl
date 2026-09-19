@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Santanu Cab and Car Rental",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Car leasing service, Taxi service, Tour operator, Travel agency",
+    "pincode": "470119",
+    "phone_number": "+91 93305 35317",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 799,
+    "address": "Dhalipara, Mohisgote, Mohishgot, Action Area I, Kestopur, Kolkata, West Bengal 700107",
+    "area": "Mohishgot, Action Area I, Kestopur",
+    "latitude": 22.5799962,
+    "longitude": 88.4458236,
+    "place_id": "ChIJMYxLNtx1AjoRHCoVI_0nVOc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMYxLNtx1AjoRHCoVI_0nVOc",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:28:57"
+  },
+  {
+    "business_name": "MR. CABIE",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "470119",
+    "phone_number": "+91 91191 16955",
+    "website": "http://www.mrcabie.com/",
+    "rating": 4.6,
+    "reviews_count": 178,
+    "address": "omaxe Mr. Cabie Office, Aries Tower, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "470119",
+    "latitude": 28.9786111,
+    "longitude": 79.39991599999999,
+    "place_id": "ChIJeTrt75CBoDkRjv7UPl9JNSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeTrt75CBoDkRjv7UPl9JNSk",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:28:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maruti Suzuki unitara motors sonkatch",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "466221",
+    "phone_number": "+91 93038 74192",
+    "website": "https://www.marutisuzuki.com/dealer-showrooms",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "X9F8+GCM, Indore - Bhopal Rd, Sonkatch, Madhya Pradesh 455118",
+    "area": "466221",
+    "latitude": 22.973869099999998,
+    "longitude": 76.3659467,
+    "place_id": "ChIJSeCAGQAtYzkRgD-f0710LrM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSeCAGQAtYzkRgD-f0710LrM",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:55:35"
+  },
+  {
+    "business_name": "Speed Car Bazar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "466221",
+    "phone_number": "+91 89799 88175",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kanth Rd, Ashiyana Colony, Ram Ganga Vihar, Moradabad, Uttar Pradesh 244001",
+    "area": "Ashiyana Colony, Ram Ganga Vihar",
+    "latitude": 28.880022999999998,
+    "longitude": 78.7474995,
+    "place_id": "ChIJszbtKg39CjkRJy3gwjfgJ3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJszbtKg39CjkRJy3gwjfgJ3o",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:55:36"
+  }
+]

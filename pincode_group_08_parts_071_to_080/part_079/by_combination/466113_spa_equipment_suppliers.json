@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saloni Beauty Parlor",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "466113",
+    "phone_number": "+91 97547 71929",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Elite Garments, Gadi Adda Chawni, Sindhi Colony, Sehore, Madhya Pradesh 466001",
+    "area": "Sindhi Colony",
+    "latitude": 23.2012011,
+    "longitude": 77.08321579999999,
+    "place_id": "ChIJLXMueU7zfDkRt3N-Sz5xFFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXMueU7zfDkRt3N-Sz5xFFU",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:43:54"
+  },
+  {
+    "business_name": "Saloni sarees",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "466113",
+    "phone_number": "+91 83055 66389",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kanak complex, Sehore-Shyampur Rd, Sehore, Madhya Pradesh 466001",
+    "area": "466113",
+    "latitude": 23.231216399999997,
+    "longitude": 77.07357689999999,
+    "place_id": "ChIJk2lxdcWNfDkRG3-GkxMUXwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk2lxdcWNfDkRG3-GkxMUXwc",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:43:54"
+  }
+]

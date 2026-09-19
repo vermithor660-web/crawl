@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madras Meals",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "470120",
+    "phone_number": "+91 86075 93913",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 272,
+    "address": "Wing 1, Chakrata Rd, near Military Academy, Special Wing, Prem Nagar, Dehradun, Randharwala, Uttarakhand 248007",
+    "area": "Special Wing, Prem Nagar",
+    "latitude": 30.3362381,
+    "longitude": 77.9688707,
+    "place_id": "ChIJP8XFXvkrCTkRLvRXB4hSP1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP8XFXvkrCTkRLvRXB4hSP1U",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:30:10"
+  },
+  {
+    "business_name": "Karnataka Food Centre",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Karnataka restaurant, Vegetarian restaurant",
+    "pincode": "470120",
+    "phone_number": "+91 93133 70092",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 11797,
+    "address": "Sector 12, Rama Krishna Puram, New Delhi, Delhi 110022",
+    "area": "Sector 12, Rama Krishna Puram",
+    "latitude": 28.577924099999997,
+    "longitude": 77.1753465,
+    "place_id": "ChIJnUr4QHQdDTkR9IadejYGWcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnUr4QHQdDTkR9IadejYGWcU",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:30:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satish Hosiery",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "465691",
+    "phone_number": "+91 99976 91025",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 12,
+    "address": "18, Neel Gali, Lala ka Bazar, Kotla Bazaar, Subhash Bazaar, Meerut, Uttar Pradesh 250002",
+    "area": "Lala ka Bazar, Kotla Bazaar, Subhash Bazaar",
+    "latitude": 28.9782104,
+    "longitude": 77.70122309999999,
+    "place_id": "ChIJTQMxivdkDDkRNBcuynzvj5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQMxivdkDDkRNBcuynzvj5c",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:34:22"
+  },
+  {
+    "business_name": "Bhagwati Bhandar",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Store",
+    "all_categories": "Store, Bridal shop, Lingerie store, Lingerie wholesaler, Swimwear store, T-shirt store, Underwear store",
+    "pincode": "465691",
+    "phone_number": "+91 88908 61745",
+    "website": "https://mewarimart.in/store?id=96&page=store",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Delhi Gate, 6, Chauraha, Udaipur, Rajasthan 313004",
+    "area": "Bapu Bazar, Delhi Gate, Bapu Bazar, Chauraha",
+    "latitude": 24.585500699999997,
+    "longitude": 73.69562619999999,
+    "place_id": "ChIJ66yfMHflZzkRR3sMXozFqMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ66yfMHflZzkRR3sMXozFqMY",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:34:24"
+  }
+]

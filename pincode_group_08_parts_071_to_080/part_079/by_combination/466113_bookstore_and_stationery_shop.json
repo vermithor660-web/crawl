@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sangeeta Traders",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "466113",
+    "phone_number": "+91 98261 62771",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "MajDoorSangh Office, Link Rd Number 2, Shastri Nagar, Bhopal, Madhya Pradesh 462003",
+    "area": "Shastri Nagar",
+    "latitude": 23.2268325,
+    "longitude": 77.3888135,
+    "place_id": "ChIJu8NQZgBDfDkRHeXsP1h2aR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu8NQZgBDfDkRHeXsP1h2aR0",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:44:11"
+  },
+  {
+    "business_name": "Maa Sharda Book Depo",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "466113",
+    "phone_number": "+91 89595 25347",
+    "website": "https://sites.google.com/view/maa-sharda-book-depo",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "UG-C, Minal Complex, Ayodhya Bypass Rd, Minal Residency, Bhopal, Madhya Pradesh 462023",
+    "area": "Minal Residency",
+    "latitude": 23.2689122,
+    "longitude": 77.456358,
+    "place_id": "ChIJQYVu1nVpfDkRboXrDWYk-a4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQYVu1nVpfDkRboXrDWYk-a4",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:44:11"
+  }
+]

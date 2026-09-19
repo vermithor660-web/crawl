@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CANARA BANK - ASHTA",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "466116",
+    "phone_number": "+91 1800 1030",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "SHASTRI NAGAR, Kannod Rd, near PETROL PUMP, Ashta, Madhya Pradesh 466116",
+    "area": "466116",
+    "latitude": 23.0185727,
+    "longitude": 76.72702009999999,
+    "place_id": "ChIJH0TTTbHFfDkROVJNKbNxqIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH0TTTbHFfDkROVJNKbNxqIw",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:49:27"
+  },
+  {
+    "business_name": "Bank of India",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank, ATM",
+    "pincode": "466116",
+    "phone_number": "+91 75602 42026",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "2P8C+7PH, Nazarganj, Ashta, Madhya Pradesh 466116",
+    "area": "Nazarganj",
+    "latitude": 23.0156793,
+    "longitude": 76.7218564,
+    "place_id": "ChIJYU9h47HEfDkRlpvcmoIxbJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYU9h47HEfDkRlpvcmoIxbJo",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:49:28"
+  }
+]

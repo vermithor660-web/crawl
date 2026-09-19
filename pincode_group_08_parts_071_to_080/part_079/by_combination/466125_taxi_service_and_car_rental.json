@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jay Mogal cab service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency, Service establishment",
+    "pincode": "466125",
+    "phone_number": "+91 91061 78900",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jay Mogal cab service, 466125, India",
+    "area": "466125",
+    "latitude": 23.020245799999998,
+    "longitude": 72.5794282,
+    "place_id": "ChIJRxE6z_2HXjkRcYOlFPiSP4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxE6z_2HXjkRcYOlFPiSP4o",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:53:56"
+  },
+  {
+    "business_name": "Fast Cab Taxi Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Air taxi, Bus tour agency, Car leasing service, Minibus taxi service, Motoring club, Taxi service, Tour agency, Tour operator, Tourist information center",
+    "pincode": "466125",
+    "phone_number": "+91 93196 60863",
+    "website": "https://fast-cab-taxi-service.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": 376,
+    "address": "Gate 8, Indira Gandhi Int'l Airport, Departure, T3, New Delhi, Delhi, 110037",
+    "area": "466125",
+    "latitude": 28.5550838,
+    "longitude": 77.0844015,
+    "place_id": "ChIJDaMoyWsbDTkRcf8dY_vAdcY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDaMoyWsbDTkRcf8dY_vAdcY",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:53:57"
+  }
+]

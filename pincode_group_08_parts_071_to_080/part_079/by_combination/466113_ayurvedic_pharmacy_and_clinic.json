@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand Ayurveda",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic",
+    "pincode": "466113",
+    "phone_number": "+91 93023 37591",
+    "website": "http://anandayurvedic.com/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "57, subash complex, opposite MPEB office, Jaora, Madhya Pradesh 457226",
+    "area": "466113",
+    "latitude": 23.6350171,
+    "longitude": 75.1204253,
+    "place_id": "ChIJIbPmiOgaZDkRe7pCUSg0dws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbPmiOgaZDkRe7pCUSg0dws",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:43:21"
+  },
+  {
+    "business_name": "Jan Aushadhi Kendra",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "466113",
+    "phone_number": "+91 95842 50726",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Shop No. 13 / Plot No. 13, Nidan Shopping Mall Opp. Soni Mandir, Sanjay Talkies, Road, Sehore, Madhya Pradesh 466001",
+    "area": "Swadesh Nagar",
+    "latitude": 23.199564799999997,
+    "longitude": 77.0854853,
+    "place_id": "ChIJt3WTueTzfDkRSj7CEPxuTsA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt3WTueTzfDkRSj7CEPxuTsA",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:43:22"
+  }
+]

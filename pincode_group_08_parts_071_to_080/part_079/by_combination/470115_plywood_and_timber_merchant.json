@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Timber Traders",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier, Lumber store, Warehouse, Wholesaler, Wood and laminate flooring supplier, Wood supplier",
+    "pincode": "470115",
+    "phone_number": "+91 78387 17120",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "GROUND FLOOR,PLOT NO. RZ-A/2, Mundka, Delhi, 110041",
+    "area": "Mundka",
+    "latitude": 28.6846081,
+    "longitude": 77.01000239999999,
+    "place_id": "ChIJhxgjG88FDTkRrw8wjDdzyUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhxgjG88FDTkRrw8wjDdzyUY",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:23:47"
+  },
+  {
+    "business_name": "Suraj Timber & Plywood",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier",
+    "pincode": "470115",
+    "phone_number": "+91 98312 95811",
+    "website": "http://www.indiamart.com/surajtimberplywood/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "78, 8, Nimtala Ghat St, Nimtalla, Ahiritola, Jorabagan, Kolkata, West Bengal 700006",
+    "area": "Nimtalla, Ahiritola, Jorabagan",
+    "latitude": 22.592423699999998,
+    "longitude": 88.3563776,
+    "place_id": "ChIJTThGxch3AjoRwUX8qvzvgdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTThGxch3AjoRwUX8qvzvgdU",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:23:48"
+  }
+]

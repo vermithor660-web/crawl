@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Woods inn resort, Airport Hotel, Bhopal",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Airport, Hotel, Inn",
+    "pincode": "466554",
+    "phone_number": "+91 88719 17000",
+    "website": "https://www.woodsinnresort.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "New Abbas Ali Nagar Rd, opp. Lake Pearl Spring Colony, Gandhi Nagar, Bhopal, Madhya Pradesh 462036",
+    "area": "Gandhi Nagar",
+    "latitude": 23.3072423,
+    "longitude": 77.35297779999999,
+    "place_id": "ChIJlbCm1UdmfDkR-U8ON-MTz-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlbCm1UdmfDkR-U8ON-MTz-Q",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:04:48"
+  },
+  {
+    "business_name": "Citrus Prime Hotel & Resorts Bhopal",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Banquet hall, Restaurant, Wedding venue",
+    "pincode": "466554",
+    "phone_number": "+91 62626 01986",
+    "website": "https://www.hotelcitrusprime.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Narmadapuram Rd, near Rajpal Toyota, Misrod, Bhopal, Madhya Pradesh 462047",
+    "area": "Misrod",
+    "latitude": 23.168653799999998,
+    "longitude": 77.4638244,
+    "place_id": "ChIJr6uLNDJDfDkR38BV3jHWaIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr6uLNDJDfDkR38BV3jHWaIw",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:04:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Angad wellness arena",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "466116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "road jawar, Kajlas, Jawar, Madhya Pradesh 466221",
+    "area": "466116",
+    "latitude": 23.014220299999998,
+    "longitude": 76.5002195,
+    "place_id": "ChIJnUaT_M3NfDkR_-LCG_uRJsM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnUaT_M3NfDkR_-LCG_uRJsM",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:48:40"
+  },
+  {
+    "business_name": "SR Fitness Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "466116",
+    "phone_number": "+91 73548 31024",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "near Govt.hospital, Ambika Nagar, Jawar, Madhya Pradesh 466221",
+    "area": "Ambika Nagar",
+    "latitude": 23.008519,
+    "longitude": 76.5048619,
+    "place_id": "ChIJQZe8sm7NfDkRp3X--3T3BXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZe8sm7NfDkRp3X--3T3BXw",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:48:40"
+  }
+]

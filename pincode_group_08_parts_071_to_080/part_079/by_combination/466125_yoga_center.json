@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SR Fitness Hub",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Fitness center, Gymnastics club, Gym",
+    "pincode": "466125",
+    "phone_number": "+91 88890 77776",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 806,
+    "address": "122, A BLOCK, 120-A, near CLUB HOUSE SILICON, Silicon City, Indore, Madhya Pradesh 452012",
+    "area": "Silicon City",
+    "latitude": 22.6459069,
+    "longitude": 75.8310929,
+    "place_id": "ChIJL58HW4v7YjkR5m6N8xVGw_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL58HW4v7YjkR5m6N8xVGw_Y",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:53:51"
+  },
+  {
+    "business_name": "The Healing Tree - Yoga classes and Alternative Therapy Centre",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "466125",
+    "phone_number": "+91 95892 59360",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Old Minal Residency, C-227, JK Rd, near Street Number 50, Sector E, Minal Residency, Bhopal, Madhya Pradesh 462023",
+    "area": "Sector E, Minal Residency",
+    "latitude": 23.2749,
+    "longitude": 77.4590608,
+    "place_id": "ChIJ-97zg-BpfDkRHJhaYYpFx1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-97zg-BpfDkRHJhaYYpFx1U",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:53:52"
+  }
+]

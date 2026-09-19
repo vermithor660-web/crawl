@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GAJANAN PROPERTIES",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Commercial real estate agency, Condominium rental agency, Industrial real estate agency, Office space rental agency, Property investment company, Real estate appraiser, Real estate consultant, Real estate rental agency, Retail space rental agency",
+    "pincode": "470002",
+    "phone_number": "+91 98243 00766",
+    "website": "https://gajananproperties.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2nd floor, SWAGAT RAINFOREST-2, A-206, above Sabarmati Gas office, behind Axis bank, Kudasan, Gandhinagar, Gujarat 382419",
+    "area": "Kudasan",
+    "latitude": 23.182507299999997,
+    "longitude": 72.63688619999999,
+    "place_id": "ChIJazJ2c9UrXDkR-pTTG_BFHO8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJazJ2c9UrXDkR-pTTG_BFHO8",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:14:04"
+  },
+  {
+    "business_name": "Linkers India",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "470002",
+    "phone_number": "+91 731 404 4406",
+    "website": "https://linkersindia.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "34/2, Race Course Rd, New Palasia, Indore, Madhya Pradesh 452001",
+    "area": "New Palasia",
+    "latitude": 22.727784999999997,
+    "longitude": 75.88518599999999,
+    "place_id": "ChIJX3mDCUf9YjkRmE3-2MPkjL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX3mDCUf9YjkRmE3-2MPkjL4",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:14:05"
+  }
+]

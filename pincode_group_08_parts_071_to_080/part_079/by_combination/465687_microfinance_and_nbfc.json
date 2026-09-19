@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CENTRAL BANK OF INDIA - RAJGARH Branch",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "465687",
+    "phone_number": "+91 73722 55780",
+    "website": "https://www.centralbankofindia.co.in/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "DEVDEEP COMPLEX, 13/228, Main Rd, near central bank of india, Ganj, Rajgarh, Madhya Pradesh 465661",
+    "area": "Ganj",
+    "latitude": 24.0020587,
+    "longitude": 76.7323997,
+    "place_id": "ChIJE8ZjaR85ezkRUyYLoDQ8hlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE8ZjaR85ezkRUyYLoDQ8hlk",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:31:55"
+  },
+  {
+    "business_name": "SBI Branch Rajmahal Rajgarh",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "465687",
+    "phone_number": "+91 1800 1234",
+    "website": "https://bank.sbi/",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "Branch Rajmahal, Biaora, Karedi, Madhya Pradesh 465661",
+    "area": "465687",
+    "latitude": 23.931098,
+    "longitude": 76.66147699999999,
+    "place_id": "ChIJP5FMNDM5ezkR0VE0Ba-otfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP5FMNDM5ezkR0VE0Ba-otfk",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:31:55"
+  }
+]

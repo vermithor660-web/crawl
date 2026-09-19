@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramraj Telecome",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Service establishment",
+    "pincode": "466115",
+    "phone_number": "N/A",
+    "website": "https://www.realme.com/in/support/services",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Ramraj Telecome, 466115, India",
+    "area": "466115",
+    "latitude": 23.1411683,
+    "longitude": 77.0776343,
+    "place_id": "ChIJqYH0xEl-EUIR26iWtP-VHbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqYH0xEl-EUIR26iWtP-VHbU",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:47:41"
+  },
+  {
+    "business_name": "Ss mobile repairing",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "466115",
+    "phone_number": "+91 83493 18399",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bushra clinic, Fish market, Sehore, Madhya Pradesh 466001",
+    "area": "466115",
+    "latitude": 23.2035286,
+    "longitude": 77.0829128,
+    "place_id": "ChIJAyibc4HzfDkRDV-b2ki5IKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAyibc4HzfDkRDV-b2ki5IKo",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:47:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjab Sanitary Store",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store, Hardware store, Pipe supplier, Plumbing supply store",
+    "pincode": "465685",
+    "phone_number": "+91 98110 99485",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 39,
+    "address": "4573, 52, Arya Samaj Rd, Reghar Pura, Block 20C, Regar Pura, Karol Bagh, New Delhi, Delhi, 110005",
+    "area": "Reghar Pura, Block 20C, Regar Pura, Karol Bagh",
+    "latitude": 28.6515384,
+    "longitude": 77.1869348,
+    "place_id": "ChIJe0PsO54CDTkRrgxTOrQ-R1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe0PsO54CDTkRrgxTOrQ-R1E",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:29:32"
+  },
+  {
+    "business_name": "Anant Tiles & Sanitaryware",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store, Tile store, Countertop store",
+    "pincode": "465685",
+    "phone_number": "+91 98681 15321",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 13,
+    "address": "3D, 3 Chowk, 9, Metro Rd, near 2, opp. State Bank of India, Faridabad, Haryana 121001",
+    "area": "Block D, New Industrial Township 3, New Industrial Township",
+    "latitude": 28.392145799999998,
+    "longitude": 77.2892304,
+    "place_id": "ChIJpWpg5SjcDDkRmJ6DEpiF2m4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpWpg5SjcDDkRmJ6DEpiF2m4",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:29:32"
+  }
+]

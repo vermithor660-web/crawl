@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lappy Computer Services & Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "465687",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Road, near Agrasen Honda Agency, Bilaunji, Waidhan, Madhya Pradesh 486886",
+    "area": "465687",
+    "latitude": 24.071019099999997,
+    "longitude": 82.62301529999999,
+    "place_id": "ChIJWV2aDZo2jzkRafNkU9HQls8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWV2aDZo2jzkRafNkU9HQls8",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:31:53"
+  },
+  {
+    "business_name": "New Patel Mobile Shop Kedarpur",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "465687",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Bus,Stend, Road, Kedarpur, Madhya Pradesh 480997",
+    "area": "465687",
+    "latitude": 22.709042699999998,
+    "longitude": 80.1491867,
+    "place_id": "ChIJDSrlx331gDkRWDFgLY5vUWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDSrlx331gDkRWDFgLY5vUWc",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:31:53"
+  }
+]

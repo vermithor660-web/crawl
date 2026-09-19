@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car Deal",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Auto broker",
+    "all_categories": "Auto broker",
+    "pincode": "466118",
+    "phone_number": "+91 98102 06029",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 125,
+    "address": "4th Floor Parking, Best Business Park Builder, Netaji Subhash Place, Shakurpur, New Delhi, Delhi, 110034",
+    "area": "Netaji Subhash Place, Shakurpur",
+    "latitude": 28.692073399999998,
+    "longitude": 77.14763119999999,
+    "place_id": "ChIJ16N7VxwDDTkR_erXD5FnqCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ16N7VxwDDTkR_erXD5FnqCw",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:50:31"
+  },
+  {
+    "business_name": "B.K. CAR BAZAR",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "466118",
+    "phone_number": "+91 83849 81056",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 27,
+    "address": "53CR+W6H, Pali Road, near 132, K V Power House, Hemant Tusawara, Sumerpur, Jakhora, Rajasthan 306902",
+    "area": "Hemant Tusawara",
+    "latitude": 25.1723134,
+    "longitude": 73.09061,
+    "place_id": "ChIJayJ3ETeTQjkRbbdiR_GfHLc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJayJ3ETeTQjkRbbdiR_GfHLc",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:50:31"
+  }
+]

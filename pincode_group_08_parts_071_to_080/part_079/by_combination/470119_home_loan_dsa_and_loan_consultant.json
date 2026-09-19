@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Capital Corp",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Financial institution",
+    "pincode": "470119",
+    "phone_number": "+91 80 4128 5070",
+    "website": "http://www.capitalcorp.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2nd floor, Capital Corp CRV Tower, 46/5, 8th Main Rd, near MES college, Malleshwaram, Bengaluru, Karnataka 560055",
+    "area": "Malleshwaram",
+    "latitude": 13.006141,
+    "longitude": 77.56461399999999,
+    "place_id": "ChIJTcZPfDEWrjsRwL0RgopuM4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTcZPfDEWrjsRwL0RgopuM4o",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:29:36"
+  },
+  {
+    "business_name": "HSR Finserv",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Investment service",
+    "pincode": "470119",
+    "phone_number": "+91 90308 18058",
+    "website": "https://hsrfinserv.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Anjana Enclave, 50-80-7/A, Gurudwara Junction, behind Vijaya Medical Centre, Near GVK Plaza, Balayya Sastri Layout, Seethammadara, Visakhapatnam, Andhra Pradesh 530013",
+    "area": "Near GVK Plaza, Balayya Sastri Layout, Seethammadara",
+    "latitude": 17.7368113,
+    "longitude": 83.307687,
+    "place_id": "ChIJ4Q21LDdDOToRJ7aZRL8E6zA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Q21LDdDOToRJ7aZRL8E6zA",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:29:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Design Brix",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "466118",
+    "phone_number": "+91 99071 56379",
+    "website": "https://www.designbrix.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "10 No. market, Shraddha Complex, Plot No. E-3/ 112, Arera Colony, Bhopal, Madhya Pradesh 462016",
+    "area": "10 No. Stop, E-3, Arera Colony",
+    "latitude": 23.2133109,
+    "longitude": 77.4369861,
+    "place_id": "ChIJm3BidytDfDkRqbknHty66cw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm3BidytDfDkRqbknHty66cw",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:50:43"
+  },
+  {
+    "business_name": "vastu interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "466118",
+    "phone_number": "+91 84410 62796",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 30,
+    "address": "535H+R7X vishwakarma circle, L.I.C, Road, L.I.C, Road, Shiv Vatica Colony, Vivekanand Nagar, Sumerpur, Rajasthan 306902",
+    "area": "Shiv Vatica Colony, Vivekanand Nagar",
+    "latitude": 25.1598856,
+    "longitude": 73.077939,
+    "place_id": "ChIJW7-5LWTtQjkR1h0xwXBzroA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW7-5LWTtQjkR1h0xwXBzroA",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:50:43"
+  }
+]

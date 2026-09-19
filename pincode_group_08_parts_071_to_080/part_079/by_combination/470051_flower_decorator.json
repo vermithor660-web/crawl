@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sagar Flower Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "470051",
+    "phone_number": "+91 99170 55329",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Kachahari Rd, near old mahila thana, Bhongoan, Mainpuri, Uttar Pradesh 205001",
+    "area": "Bhongoan",
+    "latitude": 27.229300799999997,
+    "longitude": 79.02952909999999,
+    "place_id": "ChIJB4RYYRKXdTkRep3BVKL41iU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB4RYYRKXdTkRep3BVKL41iU",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:20:35"
+  },
+  {
+    "business_name": "AR Flowerist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "470051",
+    "phone_number": "+91 79757 54165",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "AR Flowerist, 184, 10th Cross F/G Block Rd, G Block, Sahakar Nagar, Byatarayanapura, Bengaluru, Karnataka 560092",
+    "area": "G Block, Sahakar Nagar, Byatarayanapura",
+    "latitude": 13.0635818,
+    "longitude": 77.59015699999999,
+    "place_id": "ChIJIcNUhUMZrjsRfI7ITM40S8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIcNUhUMZrjsRfI7ITM40S8Y",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:20:38"
+  }
+]

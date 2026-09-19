@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Capital Tours (India) Pvt. Ltd.",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "465680",
+    "phone_number": "+91 99577 38017",
+    "website": "https://capitaltravels.org/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "403, Assam Trunk Rd, Paltan Bazaar, Guwahati, Assam 781008",
+    "area": "Paltan Bazaar",
+    "latitude": 26.178589799999997,
+    "longitude": 91.7531983,
+    "place_id": "ChIJfRbA9ylaWjcRPgG96mBp-To",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRbA9ylaWjcRPgG96mBp-To",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:25:43"
+  },
+  {
+    "business_name": "Vaishnav Reservation Services Bakani Boda",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "465680",
+    "phone_number": "+91 97139 21121",
+    "website": "https://vaishnav-reservation-services-bakani-boda.ueniweb.com/?utm_campaign=gmb",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vaishnav Reservation Services Bakani Boda, 465680, India",
+    "area": "465680",
+    "latitude": 24.0051101,
+    "longitude": 76.7278719,
+    "place_id": "ChIJX60L1l5fezkRG27pfREx2gA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX60L1l5fezkRG27pfREx2gA",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:25:45"
+  }
+]

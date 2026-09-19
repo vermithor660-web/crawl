@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj medical",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Telephone Marketing Agency",
+    "all_categories": "Telephone Marketing Agency",
+    "pincode": "465693",
+    "phone_number": "+91 99770 90347",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "252, Kodkiya, Madhya Pradesh 465693",
+    "area": "465693",
+    "latitude": 24.090555199999997,
+    "longitude": 76.3410318,
+    "place_id": "ChIJs1UiJZ_PZDkRwHJPt6dtBWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs1UiJZ_PZDkRwHJPt6dtBWs",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:37:26"
+  },
+  {
+    "business_name": "TDI Online Services Pvt Ltd",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Internet marketing service, Website designer",
+    "pincode": "465693",
+    "phone_number": "+91 87518 78878",
+    "website": "https://thedigitalindia.in/",
+    "rating": 4.9,
+    "reviews_count": 180,
+    "address": "Kanta chouraha, Near, Jhotwara, Jaipur, Rajasthan 302012",
+    "area": "Laxmi Nagar III, Jagannath Puri, Suraj Nagar, Jhotwara",
+    "latitude": 26.9467902,
+    "longitude": 75.7427917,
+    "place_id": "ChIJj4HSWiKzbTkRd5aTLLEQrgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj4HSWiKzbTkRd5aTLLEQrgE",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:37:27"
+  }
+]

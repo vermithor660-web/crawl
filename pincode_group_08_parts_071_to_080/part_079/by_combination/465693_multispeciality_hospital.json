@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New life multi-speciality hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "465693",
+    "phone_number": "+91 88174 48039",
+    "website": "http://newlifehospitalseoni.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "badi jyarat, dalda factory road, Ishwar Nagar, Seoni, Madhya Pradesh 480661",
+    "area": "Ishwar Nagar",
+    "latitude": 22.1018099,
+    "longitude": 79.5518937,
+    "place_id": "ChIJVbYoVRKvKjoRvJiO7REd_DM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVbYoVRKvKjoRvJiO7REd_DM",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:36:10"
+  },
+  {
+    "business_name": "Shree Minesh Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "465693",
+    "phone_number": "+91 95753 02028",
+    "website": "https://www.instagram.com/shree_minesh__hospital/?hl=en",
+    "rating": 4.3,
+    "reviews_count": 120,
+    "address": "Byepass Circle, AB Rd, Rau, Indore, Madhya Pradesh 453331",
+    "area": "Rau",
+    "latitude": 22.6290832,
+    "longitude": 75.80651619999999,
+    "place_id": "ChIJm4fkGVL5YjkRqRY359Cu8CE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm4fkGVL5YjkRqRY359Cu8CE",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:36:11"
+  }
+]

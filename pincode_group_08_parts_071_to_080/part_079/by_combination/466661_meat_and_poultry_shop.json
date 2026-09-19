@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NonVeg Adda",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "466661",
+    "phone_number": "+91 88199 96162",
+    "website": "https://nonvegadda.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No.2, Bharat Nagar Rd, Lala Lajpat Rai Society, E-7, Arera Colony, Shahapura, Bhopal, Madhya Pradesh 462016",
+    "area": "Lala Lajpat Rai Society, E-7, Arera Colony",
+    "latitude": 23.2018509,
+    "longitude": 77.4330444,
+    "place_id": "ChIJrzUGfa5DfDkRUcxlqu0-4AM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrzUGfa5DfDkRUcxlqu0-4AM",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:07:19"
+  },
+  {
+    "business_name": "Pigpo Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "466661",
+    "phone_number": "+91 11 2461 1723",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop No, Jor Bagh Market, 9, near Lodhi Road, Jor Bagh, New Delhi, Delhi 110003",
+    "area": "Jor Bagh",
+    "latitude": 28.5882068,
+    "longitude": 77.2175151,
+    "place_id": "ChIJVVVVFY3iDDkRGWmLUj1MKyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVFY3iDDkRGWmLUj1MKyc",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 10:07:20"
+  }
+]

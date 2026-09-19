@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Freight Carrier",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Freight Forwarding Agency",
+    "all_categories": "Freight Forwarding Agency",
+    "pincode": "465680",
+    "phone_number": "+91 44 7965 1128",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "MQ9X+Q78, Kadiya Sansi, Madhya Pradesh 465683",
+    "area": "465680",
+    "latitude": 23.6694101,
+    "longitude": 76.79820649999999,
+    "place_id": "ChIJ-Qkg9HVeezkRqik6FlEXHwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Qkg9HVeezkRqik6FlEXHwU",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:26:39"
+  },
+  {
+    "business_name": "TCI EXPRESS LTD - INDORE",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service, Transportation service",
+    "pincode": "465680",
+    "phone_number": "+91 1800 200 0977",
+    "website": "https://www.tciexpress.in/",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "TCI EXPRESS LTD, POLICE STATION, AB Rd, near LASUDIA MORI, Dewas Naka, LASUDIA MORE, Indore, Madhya Pradesh 452010",
+    "area": "Dewas Naka, LASUDIA MORE",
+    "latitude": 22.786957899999997,
+    "longitude": 75.9068807,
+    "place_id": "ChIJW1-x8TAdYzkRm0Gwk4qVRQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1-x8TAdYzkRm0Gwk4qVRQ4",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:26:41"
+  }
+]

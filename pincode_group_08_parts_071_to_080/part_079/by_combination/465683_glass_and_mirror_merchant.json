@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Glass House",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop, Hardware store",
+    "pincode": "465683",
+    "phone_number": "+91 94068 57542",
+    "website": "https://jsdl.in/DT-99QIMMAQMIY",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Nayapura Rd, Dhan Mandi, Mandsaur, Madhya Pradesh 458002",
+    "area": "Dhan Mandi",
+    "latitude": 24.0635048,
+    "longitude": 75.0684109,
+    "place_id": "ChIJR5N-r-QtZDkRIde_oBnDSiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR5N-r-QtZDkRIde_oBnDSiA",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:27:47"
+  },
+  {
+    "business_name": "Limras Glass & Mirrors",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop",
+    "pincode": "465683",
+    "phone_number": "+91 98848 67979",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "66/238, Peter's Rd, Balaji Nagar, Royapettah, Chennai, Tamil Nadu 600014",
+    "area": "Balaji Nagar, Royapettah",
+    "latitude": 13.0536008,
+    "longitude": 80.26732319999999,
+    "place_id": "ChIJdzEaYiNmUjoRQr9vBm930MI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdzEaYiNmUjoRQr9vBm930MI",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:27:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Chemist",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Drug store",
+    "all_categories": "Drug store, Pharmacy",
+    "pincode": "465693",
+    "phone_number": "+91 94141 59545",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 182,
+    "address": "8, Hospital Rd, Chetak Circle, Madhuban, Udaipur, Rajasthan 313001",
+    "area": "Chetak Circle, Madhuban",
+    "latitude": 24.5905515,
+    "longitude": 73.692712,
+    "place_id": "ChIJ58RquHPlZzkRzqgR-tX4ab0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ58RquHPlZzkRzqgR-tX4ab0",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:36:08"
+  },
+  {
+    "business_name": "Sunil Medical Store Raipur",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "465693",
+    "phone_number": "+91 88246 52999",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Hatt Chowk, Main market, Raipur, Rajasthan 326036",
+    "area": "465693",
+    "latitude": 24.362816799999997,
+    "longitude": 76.1816089,
+    "place_id": "ChIJVz1_kAAlZTkRnskJolhe-vU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVz1_kAAlZTkRnskJolhe-vU",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:36:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhanwar Pet Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "466221",
+    "phone_number": "+91 94601 13674",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "s-31, Niwaru Rd, near chohan hospital, Ramneshpuri Colony, Jhotwara, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302012",
+    "area": "Ramneshpuri Colony, Jhotwara",
+    "latitude": 26.9545922,
+    "longitude": 75.74490759999999,
+    "place_id": "ChIJLzqkosuzbTkRnpNUvBflYJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLzqkosuzbTkRnpNUvBflYJk",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:55:29"
+  },
+  {
+    "business_name": "Phoenix Pet Hospital jaipur",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital, Pet groomer, Pet store, Veterinarian",
+    "pincode": "466221",
+    "phone_number": "+91 84408 25398",
+    "website": "http://phoenixpethospital.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Plot-5/33 , Sector No -5, emergency gate, in front of Manipal Hospital, Sector 2, Sector 5, Vidyadhar Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302039",
+    "area": "Sector 2, Sector 5, Vidyadhar Nagar",
+    "latitude": 26.9683645,
+    "longitude": 75.7740262,
+    "place_id": "ChIJoXDbFsezbTkR9KZGOvP-aiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXDbFsezbTkR9KZGOvP-aiQ",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:55:31"
+  }
+]

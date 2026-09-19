@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pinto's Cold Storage",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Cold storage facility",
+    "pincode": "465683",
+    "phone_number": "+91 98339 28722",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 212,
+    "address": "Shop No. 13, Woodland A Building CHS Ltd, Sheetal Nagar, Mira Road East, Maharashtra 401107",
+    "area": "Sheetal Nagar, Mira Road East",
+    "latitude": 19.2845877,
+    "longitude": 72.86650039999999,
+    "place_id": "ChIJN_cZzEWw5zsRanqRKeegPaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN_cZzEWw5zsRanqRKeegPaQ",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:27:08"
+  },
+  {
+    "business_name": "Frozen World",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "465683",
+    "phone_number": "+91 98243 00439",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 203,
+    "address": "Shop No. 19, University Rd, Indira Circle, Near, Jala Ram Nagar, Rajkot, Gujarat 360007",
+    "area": "Indira Circle, Near, Jala Ram Nagar",
+    "latitude": 22.288835499999998,
+    "longitude": 70.7717329,
+    "place_id": "ChIJQyesFy7KWTkR7lGOOJauUok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQyesFy7KWTkR7lGOOJauUok",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:27:08"
+  }
+]

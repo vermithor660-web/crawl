@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Salon shoppe Spa & salon Furniture",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Furniture Manufacturer",
+    "all_categories": "Furniture Manufacturer, Beauty Products Wholesaler, Furniture maker, Furniture wholesaler, Industrial equipment supplier",
+    "pincode": "466111",
+    "phone_number": "+91 99994 50077",
+    "website": "https://salonshoppe.in/",
+    "rating": 4.3,
+    "reviews_count": 192,
+    "address": "Salon shoppe, Filmistan, luv Kush Ramlila commety, 8233/8244, Rani Jhansi Rd, New Delhi, Delhi 110006",
+    "area": "Chowk Nai Basti, Sadar Bazar",
+    "latitude": 28.6596828,
+    "longitude": 77.2033323,
+    "place_id": "ChIJEXCzU3r9DDkRyqMqR0zCtPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEXCzU3r9DDkRyqMqR0zCtPI",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:42:05"
+  },
+  {
+    "business_name": "Beauty 'N' Beyond",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Beauty Products Wholesaler",
+    "all_categories": "Beauty Products Wholesaler, Beauty product supplier",
+    "pincode": "466111",
+    "phone_number": "+91 98910 77277",
+    "website": "https://beautynbeyond.in/",
+    "rating": 4.6,
+    "reviews_count": 514,
+    "address": "D-2, Alankar Cinema Rd, opposite Police station, Block D, Lajpat Nagar II, Lajpat Nagar, New Delhi, Delhi 110024",
+    "area": "Block D, Lajpat Nagar II, Lajpat Nagar",
+    "latitude": 28.56901,
+    "longitude": 77.24051299999999,
+    "place_id": "ChIJRR4br1PiDDkROy47yeKVL_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRR4br1PiDDkROy47yeKVL_8",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:42:05"
+  }
+]
