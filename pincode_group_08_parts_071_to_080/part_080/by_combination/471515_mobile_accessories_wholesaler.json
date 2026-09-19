@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Shree Ram Mobile Store",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Cell phone store",
+    "pincode": "471515",
+    "phone_number": "+91 73890 40872",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Ward No 19, Goall Mangra Talab Road Chhatarpur, Khonp, Madhya Pradesh 471001",
+    "area": "Toria Mohalla",
+    "latitude": 24.915911299999998,
+    "longitude": 79.59586139999999,
+    "place_id": "ChIJu6LGV-KXgjkRLjvehpxVAWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu6LGV-KXgjkRLjvehpxVAWQ",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:05:40"
+  },
+  {
+    "business_name": "Mobile",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Service establishment",
+    "pincode": "471515",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mobile, 471515, India",
+    "area": "471515",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJs6Ri37WXgjkRiSUJ3EOAntg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6Ri37WXgjkRiSUJ3EOAntg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:05:41"
+  }
+]

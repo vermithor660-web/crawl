@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NH family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "471411",
+    "phone_number": "+91 95418 08173",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "NH Highway, pnc dormatri, Madhya Pradesh 471001",
+    "area": "471411",
+    "latitude": 24.934134699999998,
+    "longitude": 79.6041709,
+    "place_id": "ChIJXZa0l-K9gjkR6uJ1Sufzcyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXZa0l-K9gjkR6uJ1Sufzcyk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:59:15"
+  },
+  {
+    "business_name": "Domino's Pizza | Chhatarpur",
+    "search_category": "Family Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Italian restaurant, Pizza delivery, Pizza takeaway, Restaurant",
+    "pincode": "471411",
+    "phone_number": "+91 1800 208 1234",
+    "website": "https://dominos.co.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Apollo Market, Bus Stand, Ground Floor, Building 206, 207 & 208, Plot No. 100, Vijayaraje Sindhiya, Fauladi Kalam Marg, Chhatarpur, Madhya Pradesh 471001",
+    "area": "Chetgiri Colony, Narayanpura",
+    "latitude": 24.9204804,
+    "longitude": 79.5828695,
+    "place_id": "ChIJPQpEX6-9gjkRd_ecKBCN5XQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPQpEX6-9gjkRd_ecKBCN5XQ",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:59:17"
+  }
+]

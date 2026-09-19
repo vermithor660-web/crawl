@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naadbramha Idli - Napier City (MP)",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "471408",
+    "phone_number": "+91 93220 35931",
+    "website": "https://www.naadbramha.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Dayanand Saraswati Ward, 2. H No-829 N, beside Hospital, Napier Town, Jabalpur, Madhya Pradesh 482001",
+    "area": "Napier Town",
+    "latitude": 23.1623493,
+    "longitude": 79.93647779999999,
+    "place_id": "ChIJtRugnW2vgTkRSgbO7yR2JBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtRugnW2vgTkRSgbO7yR2JBA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:57:14"
+  },
+  {
+    "business_name": "Naadbramha Idli - Garha (Jabalpur)",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "471408",
+    "phone_number": "+91 92019 71952",
+    "website": "https://www.naadbramha.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Indra Gandhi Ward, 968/1A, Main Road, Sanjeevani Nagar, Jabalpur, Madhya Pradesh 482002",
+    "area": "Sanjeevani Nagar",
+    "latitude": 23.1652804,
+    "longitude": 79.9023541,
+    "place_id": "ChIJYTj6qRqxgTkR31qdHVFDsak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYTj6qRqxgTkR31qdHVFDsak",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:57:14"
+  }
+]

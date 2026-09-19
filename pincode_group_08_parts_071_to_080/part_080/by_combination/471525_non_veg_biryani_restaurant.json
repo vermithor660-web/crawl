@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiva Hotel",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Asian restaurant",
+    "all_categories": "Asian restaurant",
+    "pincode": "471525",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "358J+VRR, Chhatarpur, Madhya Pradesh 471525",
+    "area": "471525",
+    "latitude": 25.0672414,
+    "longitude": 80.1820205,
+    "place_id": "ChIJZ_0ilfcngzkRb1gjowVI990",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ_0ilfcngzkRb1gjowVI990",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:08:04"
+  },
+  {
+    "business_name": "Shivhare Dhaba",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "471525",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "4X9J+CFH, Lavkush Nagar, Madhya Pradesh 471515",
+    "area": "471525",
+    "latitude": 25.1185714,
+    "longitude": 79.98124399999999,
+    "place_id": "ChIJd5o4023agjkRTw3eaFZMj3M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd5o4023agjkRTw3eaFZMj3M",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:08:04"
+  }
+]

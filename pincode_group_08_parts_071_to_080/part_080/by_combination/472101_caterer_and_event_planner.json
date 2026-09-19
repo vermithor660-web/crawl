@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guru Kripa Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "472101",
+    "phone_number": "+91 74159 73693",
+    "website": "https://www.gurukripacaterers.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "B-46 Ashok Vihar Colony, Tansen Nagar, Gwalior, Madhya Pradesh 474002",
+    "area": "Tansen Nagar",
+    "latitude": 26.2265363,
+    "longitude": 78.1794583,
+    "place_id": "ChIJj8rbR4LHdjkRi2Dmybe8tZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj8rbR4LHdjkRi2Dmybe8tZc",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:19:07"
+  },
+  {
+    "business_name": "Ultimate Event Management",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment, Event management company, Musical Band and Orchestra, Restaurant supply store, Wedding planner",
+    "pincode": "472101",
+    "phone_number": "+91 98901 80330",
+    "website": "http://www.facebook.com/ultimateeventmanagement/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Ultimate Event Management, 472101, India",
+    "area": "472101",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJiUQ4-h2_1DsRB5lrEn2rKHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiUQ4-h2_1DsRB5lrEn2rKHY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:19:09"
+  }
+]

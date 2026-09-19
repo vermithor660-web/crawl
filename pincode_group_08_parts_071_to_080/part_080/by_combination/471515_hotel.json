@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BeeCare Life",
+    "search_category": "Hotel",
+    "primary_category": "Farm",
+    "all_categories": "Farm, Farmstay, Fruit and vegetable processing, Learning center",
+    "pincode": "471515",
+    "phone_number": "+91 96500 83618",
+    "website": "https://beecare.life/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nandora road, Pahara Purwa, Khajuraho, Madhya Pradesh 471606",
+    "area": "471515",
+    "latitude": 24.8846137,
+    "longitude": 80.0063591,
+    "place_id": "ChIJC4NursbngjkR1jCRCC1MPLY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC4NursbngjkR1jCRCC1MPLY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:05:25"
+  },
+  {
+    "business_name": "Daksh Home Stay",
+    "search_category": "Hotel",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "471515",
+    "phone_number": "N/A",
+    "website": "https://www.honeytrip.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward no 7, Raneh Falls Rd, near Hanuman Temple, Rajnagar, Madhya Pradesh 471625",
+    "area": "471515",
+    "latitude": 24.8779745,
+    "longitude": 79.92171359999999,
+    "place_id": "ChIJv3BSmpvngjkRqr7JFAHKX7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv3BSmpvngjkRqr7JFAHKX7c",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:05:25"
+  }
+]

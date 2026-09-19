@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Desi Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "472336",
+    "phone_number": "+91 97554 56667",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 12,
+    "address": "6Q42+8R5, Laxmi Bai Ward 3, Prithvipur, Madhya Pradesh 472336",
+    "area": "Laxmi Bai Ward 3",
+    "latitude": 25.2057583,
+    "longitude": 78.75209749999999,
+    "place_id": "ChIJ3VCIc4speDkRSw7jjqOkYrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3VCIc4speDkRSw7jjqOkYrk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:30:26"
+  },
+  {
+    "business_name": "JoJo Sports",
+    "search_category": "Fitness Chains",
+    "primary_category": "Sporting goods store",
+    "all_categories": "Sporting goods store",
+    "pincode": "472336",
+    "phone_number": "+91 86026 04157",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "6P4X+CGP, Prithvipur, Madhya Pradesh 472336",
+    "area": "472336",
+    "latitude": 25.2068591,
+    "longitude": 78.7470376,
+    "place_id": "ChIJq6J6DiAqeDkRbdFdy5SMmvw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6J6DiAqeDkRbdFdy5SMmvw",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:30:28"
+  }
+]

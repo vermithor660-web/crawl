@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kabeer sabji bhandar",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Produce market",
+    "all_categories": "Produce market",
+    "pincode": "472336",
+    "phone_number": "+91 99925 65775",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "341, Gairaha, Sewara, Uttar Pradesh 284205",
+    "area": "472336",
+    "latitude": 25.320442399999997,
+    "longitude": 78.9966888,
+    "place_id": "ChIJ35AhSF2LdzkRHzcC5KD_J3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ35AhSF2LdzkRHzcC5KD_J3s",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:29:57"
+  },
+  {
+    "business_name": "Diman Baba Herbs Farming, Mahendra",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Herb shop",
+    "all_categories": "Herb shop",
+    "pincode": "472336",
+    "phone_number": "N/A",
+    "website": "https://www.indiamart.com/dimanbaba-herbs-point/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Gatara, Prithvipur, Madhya Pradesh 472336",
+    "area": "472336",
+    "latitude": 25.183678999999998,
+    "longitude": 78.743961,
+    "place_id": "ChIJTzH61FwpeDkRtCfuaVbJqYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTzH61FwpeDkRtCfuaVbJqYA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:29:58"
+  }
+]

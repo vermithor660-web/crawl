@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "बाईपर",
+    "search_category": "Insurance Agent",
+    "primary_category": "Title company",
+    "all_categories": "Title company",
+    "pincode": "471408",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "balmik bhavan, Basata, Madhya Pradesh 471408",
+    "area": "471408",
+    "latitude": 24.7702109,
+    "longitude": 79.59845159999999,
+    "place_id": "ChIJaQnpIoKRgjkRITZI3y66kp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQnpIoKRgjkRITZI3y66kp8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:58:31"
+  },
+  {
+    "business_name": "Ashok Leyland Ltd",
+    "search_category": "Insurance Agent",
+    "primary_category": "Title company",
+    "all_categories": "Title company",
+    "pincode": "471408",
+    "phone_number": "+91 78986 74428",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ke samne, railway station, Panna Khajuraho Rd, Neelkanthnagar, Radio Colony, Chhatarpur, Madhya Pradesh 471001",
+    "area": "Neelkanthnagar, Radio Colony",
+    "latitude": 24.8951581,
+    "longitude": 79.5957052,
+    "place_id": "ChIJYTOyDKmXgjkRwMRFBhkVtgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYTOyDKmXgjkRwMRFBhkVtgM",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:58:34"
+  }
+]

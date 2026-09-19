@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mallu Farms",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall, Wedding planner, Wedding venue",
+    "pincode": "471515",
+    "phone_number": "+91 97174 17353",
+    "website": "https://mallufarms.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "204, Chattarpur Mandir Rd, Ansal Villas, Satbari, New Delhi, Delhi 110074",
+    "area": "Ansal Villas, Satbari",
+    "latitude": 28.4752536,
+    "longitude": 77.1870678,
+    "place_id": "ChIJT5GcZyMeDTkR0o4_w3BECcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT5GcZyMeDTkR0o4_w3BECcc",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:05:22"
+  },
+  {
+    "business_name": "Radiance Tania Farms",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall, Wedding venue, Caterer, Event venue, Function room facility, Wedding planner",
+    "pincode": "471515",
+    "phone_number": "+91 98710 78000",
+    "website": "http://www.radiancemotel.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Main Chhatarpur Rd, Ansal Villas, Satbari, New Delhi, Delhi 110068",
+    "area": "Ansal Villas, Satbari",
+    "latitude": 28.4836651,
+    "longitude": 77.1889745,
+    "place_id": "ChIJSX7TmyweDTkRd24v3Lmj2Ho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSX7TmyweDTkRd24v3Lmj2Ho",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:05:22"
+  }
+]

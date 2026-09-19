@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Atta Chakki Store",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "472331",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sitapur, Madhya Pradesh 472331",
+    "area": "472331",
+    "latitude": 25.0176324,
+    "longitude": 78.9448969,
+    "place_id": "ChIJ3xCMKgA9eDkRhJk5Uj7RSCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3xCMKgA9eDkRhJk5Uj7RSCw",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:29:42"
+  },
+  {
+    "business_name": "Kavya rice mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "472331",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "FGHG+F22, Bhatli, Hadasankri, Odisha 768030",
+    "area": "472331",
+    "latitude": 21.478628999999998,
+    "longitude": 83.5250033,
+    "place_id": "ChIJ9VOO2lzNJjoR3lFzR6rq0n8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9VOO2lzNJjoR3lFzR6rq0n8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:29:43"
+  }
+]

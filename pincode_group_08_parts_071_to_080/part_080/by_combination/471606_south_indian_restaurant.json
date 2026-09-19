@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Coffee House",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Coffee shop",
+    "pincode": "471606",
+    "phone_number": "+91 487 233 5275",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "J2XQ+87F, Majhgawan Township, Madhya Pradesh 488001",
+    "area": "Majhgawan Township",
+    "latitude": 24.6483207,
+    "longitude": 80.0381658,
+    "place_id": "ChIJZ4AfwJP-gjkRnfaAM_6VtE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4AfwJP-gjkRnfaAM_6VtE8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:09:46"
+  },
+  {
+    "business_name": "Hotel Gunj the garden and restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "471606",
+    "phone_number": "+91 98936 67991",
+    "website": "http://www.honeytrip.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Panna national park, Madla, Madhya Pradesh 488001",
+    "area": "471606",
+    "latitude": 24.7315619,
+    "longitude": 80.01063119999999,
+    "place_id": "ChIJW7u2wdz9gjkRN7A7LcdlfSM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW7u2wdz9gjkRN7A7LcdlfSM",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:09:46"
+  }
+]

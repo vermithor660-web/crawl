@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ambey Property Dealer",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "472339",
+    "phone_number": "+91 70549 02595",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "26W3+HX2, Mau Road, Jayrampur, Near Aditya Hospital, Azamgarh, Uttar Pradesh 276406",
+    "area": "472339",
+    "latitude": 26.0463925,
+    "longitude": 83.20487949999999,
+    "place_id": "ChIJbWF9iOC8kTkRmMSTkNwcLUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbWF9iOC8kTkRmMSTkNwcLUc",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:34:47"
+  },
+  {
+    "business_name": "Balaji Property Dealer",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Property management company",
+    "all_categories": "Property management company",
+    "pincode": "472339",
+    "phone_number": "+91 99196 00551",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "QXWX+CCV, Thakur dawara mani Road, Lalganj, Uttar Pradesh 276202",
+    "area": "472339",
+    "latitude": 25.7961207,
+    "longitude": 82.9985343,
+    "place_id": "ChIJq6qqql7JkTkRMwZ5K8_bJHI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqql7JkTkRMwZ5K8_bJHI",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:34:47"
+  }
+]

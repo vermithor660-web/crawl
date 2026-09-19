@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Leather Business",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods supplier",
+    "all_categories": "Leather goods supplier",
+    "pincode": "471408",
+    "phone_number": "+91 89299 58992",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Arihant Arden, GH-07A, Sector 1, Bisrakh Jalalpur, Greater Noida, Uttar Pradesh 201306",
+    "area": "Sector 1, Bisrakh Jalalpur",
+    "latitude": 28.577979799999998,
+    "longitude": 77.44187579999999,
+    "place_id": "ChIJeyJpYe7vDDkRFERQHV97HMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeyJpYe7vDDkRFERQHV97HMk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:57:22"
+  },
+  {
+    "business_name": "KDA Leather Market",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "471408",
+    "phone_number": "+91 79854 15836",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "C9HV+GW3 Front Of Solanki House, Kda Leather Market, 680A/39A/40, KDA Avenue, KDA Colony, Jajmau, Kanpur, Uttar Pradesh 208010",
+    "area": "KDA Colony, Jajmau",
+    "latitude": 26.4270815,
+    "longitude": 80.3939254,
+    "place_id": "ChIJo_Ezmx9BnDkRNH8dX6pAntI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo_Ezmx9BnDkRNH8dX6pAntI",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:57:23"
+  }
+]

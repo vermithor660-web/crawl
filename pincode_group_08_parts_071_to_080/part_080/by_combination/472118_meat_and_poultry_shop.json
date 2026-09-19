@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajij Ali Bhai Chikin Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "472118",
+    "phone_number": "+91 88742 23563",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "House No 0, Shop No 0.96, 89, Men Waipas Road, Mahrauni, Tikamgarh, Madhya Pradesh 472005",
+    "area": "472118",
+    "latitude": 24.717478999999997,
+    "longitude": 78.8146774,
+    "place_id": "ChIJ_fkbxblPeDkRe7L6NqypwBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_fkbxblPeDkRe7L6NqypwBU",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:23:11"
+  },
+  {
+    "business_name": "Sonu Peruliya Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat wholesaler",
+    "all_categories": "Meat wholesaler",
+    "pincode": "472118",
+    "phone_number": "+91 88277 31241",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MJP7+46F, Kushwah Mohalla, Betma, Madhya Pradesh 453001",
+    "area": "Kushwah Mohalla",
+    "latitude": 22.685302099999998,
+    "longitude": 75.6130356,
+    "place_id": "ChIJt3aeuHtTYjkRK2S1Sq7fbVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt3aeuHtTYjkRK2S1Sq7fbVE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:23:11"
+  }
+]

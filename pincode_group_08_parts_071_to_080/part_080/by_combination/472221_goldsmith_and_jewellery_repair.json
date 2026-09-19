@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Ram Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "472221",
+    "phone_number": "+91 124 406 6570",
+    "website": "https://shriramjewellers.in/",
+    "rating": 4.9,
+    "reviews_count": 6177,
+    "address": "Gurudwara Rd, Sadar Bazar, Civil Lines, Gurugram, Haryana 122001",
+    "area": "Sadar Bazar, Civil Lines",
+    "latitude": 28.4594199,
+    "longitude": 77.03148449999999,
+    "place_id": "ChIJK8jCTKAZDTkRvap-4oV7-OQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK8jCTKAZDTkRvap-4oV7-OQ",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:25:05"
+  },
+  {
+    "business_name": "Jagdish Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "472221",
+    "phone_number": "+91 98881 55666",
+    "website": "https://jagdishjeweller.com/",
+    "rating": 4.5,
+    "reviews_count": 247,
+    "address": "2441-42, Sector 22 Market Rd, Sector 22C, Sector 22, Chandigarh, 160022",
+    "area": "Sector 22C, Sector 22",
+    "latitude": 30.728276599999997,
+    "longitude": 76.7707705,
+    "place_id": "ChIJH2mMF6btDzkR-9qGhY91ltk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH2mMF6btDzkR-9qGhY91ltk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:25:05"
+  }
+]

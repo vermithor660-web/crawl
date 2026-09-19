@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Malik Enterprises",
+    "search_category": "False Ceiling Contractor",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "472118",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V479+JFX, Marmurpur, Sonipat, Haryana 131028",
+    "area": "Marmurpur",
+    "latitude": 28.8641105,
+    "longitude": 77.1187281,
+    "place_id": "ChIJQRUUZACrDTkRZClluBpxIkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRUUZACrDTkRZClluBpxIkw",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:23:55"
+  },
+  {
+    "business_name": "Precision Drywall Tacoma",
+    "search_category": "False Ceiling Contractor",
+    "primary_category": "Dry wall contractor",
+    "all_categories": "Dry wall contractor, Service establishment",
+    "pincode": "472118",
+    "phone_number": "N/A",
+    "website": "https://www.tacomadrywallcompany.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Precision Drywall Tacoma, 472118, India",
+    "area": "472118",
+    "latitude": 47.242833499999996,
+    "longitude": -122.4550048,
+    "place_id": "ChIJITAnYs__kFQRsTtsqBTOrsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJITAnYs__kFQRsTtsqBTOrsE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:23:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Electrifie Motors",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Electric motor scooter dealer",
+    "all_categories": "Electric motor scooter dealer, Electric motor repair shop, Electric motor store, Electric motorcycle dealer",
+    "pincode": "472221",
+    "phone_number": "+91 91555 69393",
+    "website": "https://www.electrifiemotors.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tikamgarh Road, Parwaripura, Mauranipur, Roni, Uttar Pradesh 284204",
+    "area": "Parwaripura",
+    "latitude": 25.2339549,
+    "longitude": 79.1313662,
+    "place_id": "ChIJX5xT4S8deDkRvrSuKKBGues",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX5xT4S8deDkRvrSuKKBGues",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:25:18"
+  },
+  {
+    "business_name": "Sri Lakshmi car mechanic works",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "472221",
+    "phone_number": "+91 97052 68446",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "G6VH+32G, Muthangi, Hyderabad, Telangana 502300",
+    "area": "Muthangi",
+    "latitude": 17.5426911,
+    "longitude": 78.2275818,
+    "place_id": "ChIJJ334fIbzyzsRC6DUJtbjVZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ334fIbzyzsRC6DUJtbjVZ4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:25:20"
+  }
+]

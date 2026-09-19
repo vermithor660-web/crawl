@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cuty buty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "472331",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6WM8+4M, Katera, Uttar Pradesh 284205",
+    "area": "472331",
+    "latitude": 25.2327034,
+    "longitude": 78.9176112,
+    "place_id": "ChIJXam7HwAneDkR3WWlmYvfRtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXam7HwAneDkR3WWlmYvfRtk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:29:05"
+  },
+  {
+    "business_name": "Beauty Store",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "472331",
+    "phone_number": "+91 95696 15969",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "Goithaha, Bhadsar, Uttar Pradesh 272152",
+    "area": "472331",
+    "latitude": 27.0262696,
+    "longitude": 83.0258903,
+    "place_id": "ChIJR_AHPXTTljkRs0lfGvCAxdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_AHPXTTljkRs0lfGvCAxdU",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:29:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PIZZA SPHERE",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Pizza restaurant",
+    "pincode": "472101",
+    "phone_number": "+91 96394 68364",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 533,
+    "address": "PIZZA SPHERE, opp. kanchi house, near SBI bank, Churkhibal, Jalaun, Uttar Pradesh 285123",
+    "area": "Churkhibal",
+    "latitude": 26.1398194,
+    "longitude": 79.33503209999999,
+    "place_id": "ChIJgQjDR_4pdjkRTF7SpeIlHQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgQjDR_4pdjkRTF7SpeIlHQs",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:18:22"
+  },
+  {
+    "business_name": "Manali Cafe And Lounge",
+    "search_category": "Restaurant Chains",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Cafe, Family restaurant",
+    "pincode": "472101",
+    "phone_number": "+91 80907 81111",
+    "website": "https://heyzine.com/flip-book/0416a5fbba",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Terrace, Radha tower, Allahabad Bank Chauraha, near senior ckc, Civil Lines, Jhansi, Uttar Pradesh 284001",
+    "area": "Civil Lines",
+    "latitude": 25.4420273,
+    "longitude": 78.5688945,
+    "place_id": "ChIJZ-HHO6Z3dzkRndyfA_wq8Jc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ-HHO6Z3dzkRndyfA_wq8Jc",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:18:22"
+  }
+]

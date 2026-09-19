@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Jio Store",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store, Appliance store, Cell phone store, Computer accessories store, Electronics store",
+    "pincode": "471405",
+    "phone_number": "+91 90827 06124",
+    "website": "https://www.myjiostores.in/my-jio-store-mobile-phone-shop-jawahar-road-chhatarpur-474729/Home",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "House No. 145/3, Ward, No. 30, Jawahar Rd, opp. LIC Office, beside Idea Collection Centre, Chhatarpur, Madhya Pradesh 471001",
+    "area": "Naya Mohalla",
+    "latitude": 24.9086996,
+    "longitude": 79.58237059999999,
+    "place_id": "ChIJA0ac_r-XgjkRj4R5itZS7Lo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA0ac_r-XgjkRj4R5itZS7Lo",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:56:27"
+  },
+  {
+    "business_name": "RAHUL NET POINT & Mobile Accessories",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "471405",
+    "phone_number": "+91 90393 39381",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Satai Rd, Shree Ram Colony, Chhatarpur, Bagauta, Madhya Pradesh 471001",
+    "area": "Shree Ram Colony",
+    "latitude": 24.8779774,
+    "longitude": 79.5944677,
+    "place_id": "ChIJ3fKQx0uXgjkRVyMFsyagI3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3fKQx0uXgjkRVyMFsyagI3o",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:56:27"
+  }
+]

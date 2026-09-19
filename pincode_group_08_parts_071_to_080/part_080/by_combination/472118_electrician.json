@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anil electrical store",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician, Electronics store",
+    "pincode": "472118",
+    "phone_number": "+91 79996 56521",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "hp gas ke pass jatara, Jatara, Madhya Pradesh 472118",
+    "area": "472118",
+    "latitude": 25.0092993,
+    "longitude": 79.04648619999999,
+    "place_id": "ChIJ9-YNUfkXeDkR9KfUkOq0t9k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9-YNUfkXeDkR9KfUkOq0t9k",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:23:51"
+  },
+  {
+    "business_name": "Castomar Services Point",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "472118",
+    "phone_number": "+91 91749 40605",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "04, Ho Petrol Pump Ke Pass, Madhya Pradesh 472118",
+    "area": "472118",
+    "latitude": 24.9905489,
+    "longitude": 79.0392354,
+    "place_id": "ChIJ55Mi7zAXeDkRt9KLJoxnjQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ55Mi7zAXeDkRt9KLJoxnjQ4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:23:53"
+  }
+]

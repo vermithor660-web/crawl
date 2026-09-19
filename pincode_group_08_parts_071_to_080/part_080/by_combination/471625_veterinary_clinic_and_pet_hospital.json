@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RT Pet Clinic & Pet Shop",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Emergency veterinarian service, Pet groomer, Pet store, Pet supply store",
+    "pincode": "471625",
+    "phone_number": "+91 94254 64254",
+    "website": "http://rtpetclinicandpetshop.com/",
+    "rating": 4.9,
+    "reviews_count": 689,
+    "address": "79WJ+VJW, New Jail Rd, Sanjeev Nagar, Navri, Bhopal, Madhya Pradesh 462038",
+    "area": "Sanjeev Nagar, Navri",
+    "latitude": 23.2968139,
+    "longitude": 77.38166799999999,
+    "place_id": "ChIJfXAnWCtpfDkRQ2saUSeYGCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfXAnWCtpfDkRQ2saUSeYGCk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:11:51"
+  },
+  {
+    "business_name": "Lil Paws Dog Clinic | Best Veterinary",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "471625",
+    "phone_number": "+91 755 490 3170",
+    "website": "https://www.lilpawsdogclinic.com/",
+    "rating": 4.1,
+    "reviews_count": 882,
+    "address": "B-357, Kolar Rd, Sarvdharm Colony, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "area": "Sarvdharm Colony, Kolar Rd",
+    "latitude": 23.1866225,
+    "longitude": 77.4183868,
+    "place_id": "ChIJoW_TfwxDfDkRF74tLDwOFCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoW_TfwxDfDkRF74tLDwOFCg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:11:51"
+  }
+]

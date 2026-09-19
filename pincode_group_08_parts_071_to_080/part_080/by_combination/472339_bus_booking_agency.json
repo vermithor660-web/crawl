@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashok Travel Rai Bus Service",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "472339",
+    "phone_number": "+91 731 428 8181",
+    "website": "https://raibus.in/",
+    "rating": 3.6,
+    "reviews_count": 1233,
+    "address": "7, Sajan Nagar Main Rd, near Bank Of India, Navlakha, Indore, Madhya Pradesh 452001",
+    "area": "Navlakha",
+    "latitude": 22.692469199999998,
+    "longitude": 75.8818017,
+    "place_id": "ChIJkSVAmdz8YjkRKojVOjIRug8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkSVAmdz8YjkRKojVOjIRug8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:34:00"
+  },
+  {
+    "business_name": "Pratap Motors",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Auto tag agency",
+    "all_categories": "Auto tag agency",
+    "pincode": "472339",
+    "phone_number": "+91 90394 53003",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "New bus stend ke paas, Tikamgarh, Madhya Pradesh 472001",
+    "area": "472339",
+    "latitude": 24.7498822,
+    "longitude": 78.85189369999999,
+    "place_id": "ChIJUypLn3BFeDkRVpkU_WKT2MI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUypLn3BFeDkRVpkU_WKT2MI",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:34:00"
+  }
+]

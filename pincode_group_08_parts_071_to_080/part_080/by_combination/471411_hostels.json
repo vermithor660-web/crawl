@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SR Hostel Chhatarpur",
+    "search_category": "Hostels",
+    "primary_category": "Hostels",
+    "all_categories": "Hostels",
+    "pincode": "471411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "XJ7G+C2V, Hama, Madhya Pradesh 471001",
+    "area": "471411",
+    "latitude": 24.9636192,
+    "longitude": 79.625058,
+    "place_id": "ChIJGQaliqG9gjkR-m9DOUZYLuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQaliqG9gjkR-m9DOUZYLuc",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:00:12"
+  },
+  {
+    "business_name": "हास्टल छतरपुर",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "471411",
+    "phone_number": "+91 89621 05014",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "WHJR+539, sr hostal, Vishwanath Colony, Chhatarpur, Madhya Pradesh 471001",
+    "area": "sr hostal, Vishwanath Colony",
+    "latitude": 24.9304109,
+    "longitude": 79.59021899999999,
+    "place_id": "ChIJI-Ua24u9gjkRJjU4ZLSyPk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI-Ua24u9gjkRJjU4ZLSyPk4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:00:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karree house",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "471625",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "VP9F+G2H, Karree, Madhya Pradesh 471105",
+    "area": "471625",
+    "latitude": 24.868823,
+    "longitude": 79.72266499999999,
+    "place_id": "ChIJuQ60FQCVgjkRgNG_-4Dgwos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuQ60FQCVgjkRgNG_-4Dgwos",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:11:33"
+  },
+  {
+    "business_name": "OPIUM- Cocktails and Bistro",
+    "search_category": "Bar and Pub",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Pub",
+    "pincode": "471625",
+    "phone_number": "+91 87478 33333",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "1521, Home Science College Rd, Napier Town, Jabalpur, Madhya Pradesh 482002",
+    "area": "Napier Town",
+    "latitude": 23.1608013,
+    "longitude": 79.9236568,
+    "place_id": "ChIJKTIAxnOvgTkR-DZou9_Z-vY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKTIAxnOvgTkR-DZou9_Z-vY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:11:35"
+  }
+]

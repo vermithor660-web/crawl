@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Auto Care",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "472115",
+    "phone_number": "+91 99076 93336",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward,09, Road, Tikamgarh, Madhya Pradesh 472111",
+    "area": "472115",
+    "latitude": 24.6905851,
+    "longitude": 79.19122,
+    "place_id": "ChIJw-Wi6chleDkRVHqg0V_3KFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-Wi6chleDkRVHqg0V_3KFs",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:22:00"
+  },
+  {
+    "business_name": "Auto Service",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "472115",
+    "phone_number": "+91 99813 92987",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Purani Gala Mandi, near by Old Galla Mandi Nazai, Civil Line, Tikamgarh, Madhya Pradesh 472001",
+    "area": "Civil Line",
+    "latitude": 24.740850299999998,
+    "longitude": 78.826493,
+    "place_id": "ChIJB9E7lWBPeDkRCz3tHlBkU5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB9E7lWBPeDkRCz3tHlBkU5w",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:22:02"
+  }
+]

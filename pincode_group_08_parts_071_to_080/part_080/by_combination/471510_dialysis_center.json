@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DCDC Kidney Care, Mahoba",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "471510",
+    "phone_number": "+91 11 4558 1006",
+    "website": "https://dcdc.co.in/",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "District Hospital, near roadways bus stand, Makaniya Purva, Mahoba, Uttar Pradesh 210427",
+    "area": "Makaniya Purva",
+    "latitude": 25.2928119,
+    "longitude": 79.8848917,
+    "place_id": "ChIJeQ4zSQPNgjkRjonFinmDruc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeQ4zSQPNgjkRjonFinmDruc",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:03:09"
+  },
+  {
+    "business_name": "Dialysis center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "471510",
+    "phone_number": "+91 1800 102 2294",
+    "website": "http://www.eskagsanjeevani.com/",
+    "rating": 5,
+    "reviews_count": 18,
+    "address": "Yingkiong, Arunachal Pradesh 791002",
+    "area": "471510",
+    "latitude": 28.6423125,
+    "longitude": 95.0248125,
+    "place_id": "ChIJq59WfkKrajcRY3LcTV8sz-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq59WfkKrajcRY3LcTV8sz-E",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:03:11"
+  }
+]

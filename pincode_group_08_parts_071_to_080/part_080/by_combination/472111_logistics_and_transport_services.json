@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashish Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "472111",
+    "phone_number": "+91 97934 63896",
+    "website": "https://ashishtransport.vercel.app/",
+    "rating": 4.7,
+    "reviews_count": 119,
+    "address": "near Prakash building Meterial, Belisa, Azamgarh, Uttar Pradesh 276001",
+    "area": "Belisa",
+    "latitude": 26.035188299999998,
+    "longitude": 83.1535695,
+    "place_id": "ChIJdSZMPgC7kTkRxFZD14L2BEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdSZMPgC7kTkRxFZD14L2BEk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:20:26"
+  },
+  {
+    "business_name": "Sahu Transportation Service",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "472111",
+    "phone_number": "+91 99388 77318",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Word No- 01, Sargiguda Rd, near Madan Jal Chowk, para, Nilachakra Nagar, Titilagarh, Odisha 767033",
+    "area": "para, Nilachakra Nagar",
+    "latitude": 20.296193799999998,
+    "longitude": 83.1580079,
+    "place_id": "ChIJTSmQte9bJDoRX4Pdf53jkMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTSmQte9bJDoRX4Pdf53jkMA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:20:27"
+  }
+]

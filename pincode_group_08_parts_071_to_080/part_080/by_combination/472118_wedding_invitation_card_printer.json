@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Milan Cards",
+    "search_category": "Wedding Invitation Card Printer",
+    "primary_category": "Invitation printing service",
+    "all_categories": "Invitation printing service",
+    "pincode": "472118",
+    "phone_number": "+91 94170 42625",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 138,
+    "address": "Plot No, 289, Near, Park, Industrial Area Phase II, Chandigarh, 160002",
+    "area": "Industrial Area Phase II",
+    "latitude": 30.695835799999998,
+    "longitude": 76.7827102,
+    "place_id": "ChIJAQAAQFaTDzkRHICchg4l65Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAQFaTDzkRHICchg4l65Q",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:24:18"
+  },
+  {
+    "business_name": "ZAA Invites & ZAA Social",
+    "search_category": "Wedding Invitation Card Printer",
+    "primary_category": "Invitation printing service",
+    "all_categories": "Invitation printing service, Store",
+    "pincode": "472118",
+    "phone_number": "+91 93520 12895",
+    "website": "https://zaainvites.github.io/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jeevan Nagar, Sikar, Rajasthan 332021",
+    "area": "Jeevan Nagar",
+    "latitude": 27.5866077,
+    "longitude": 75.1453792,
+    "place_id": "ChIJs1oVrYqjbDkR_6sCk5m9y6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs1oVrYqjbDkR_6sCk5m9y6k",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:24:19"
+  }
+]

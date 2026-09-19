@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parth Chawla Architects",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "471411",
+    "phone_number": "+91 88604 78865",
+    "website": "https://parthchawlaarchitects.com/",
+    "rating": 4.9,
+    "reviews_count": 28,
+    "address": "6th floor, 135, Main Chhatarpur Rd, Block A1, Chhatarpur, Delhi, New Delhi, Delhi 110074",
+    "area": "Block A1, Chhatarpur",
+    "latitude": 28.4968768,
+    "longitude": 77.18408699999999,
+    "place_id": "ChIJv49GcpAfDTkRYT6Mglp4LyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv49GcpAfDTkRYT6Mglp4LyQ",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:59:57"
+  },
+  {
+    "business_name": "KAPCON ARCHITECTS",
+    "search_category": "Architects",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Architecture firm",
+    "pincode": "471411",
+    "phone_number": "+91 99904 30599",
+    "website": "http://kapconarchitects.com/",
+    "rating": 5,
+    "reviews_count": 18,
+    "address": "Plot No. 5, Block A, Chhattarpur Farms, Chhatarpur, New Delhi, Delhi 110074",
+    "area": "Block A, Chhattarpur Farms, Chhatarpur",
+    "latitude": 28.497997899999998,
+    "longitude": 77.1861943,
+    "place_id": "ChIJG8A72LkfDTkRPgNzKUEglGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG8A72LkfDTkRPgNzKUEglGE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:59:58"
+  }
+]

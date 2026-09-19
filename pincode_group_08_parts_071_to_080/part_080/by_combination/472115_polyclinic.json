@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bishal Polyclinic Medical",
+    "search_category": "Polyclinic",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop",
+    "pincode": "472115",
+    "phone_number": "+91 93998 85039",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road, Baldevpura, Jatara, Baldeopura, Madhya Pradesh 472118",
+    "area": "Baldevpura",
+    "latitude": 24.9428523,
+    "longitude": 79.0471831,
+    "place_id": "ChIJO2jv9MQVeDkRIXzHaiFYLOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO2jv9MQVeDkRIXzHaiFYLOo",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:21:57"
+  },
+  {
+    "business_name": "Dr CP Singh new clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical diagnostic imaging center",
+    "all_categories": "Medical diagnostic imaging center",
+    "pincode": "472115",
+    "phone_number": "+91 83491 51515",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QR4H+RGX, Subhash Puram, Civil Line, Tikamgarh, Madhya Pradesh 472001",
+    "area": "Subhash Puram, Civil Line",
+    "latitude": 24.757110599999997,
+    "longitude": 78.8288687,
+    "place_id": "ChIJ0X6qDgBPeDkRSw5yLuIKaD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0X6qDgBPeDkRSw5yLuIKaD0",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:21:57"
+  }
+]

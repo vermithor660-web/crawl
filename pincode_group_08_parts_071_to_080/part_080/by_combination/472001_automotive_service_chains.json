@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishwakarma auto parts",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "472001",
+    "phone_number": "+91 88273 83590",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Unnamed Road, Bhagwa Bazar Patti, Madhya Pradesh 471313",
+    "area": "472001",
+    "latitude": 24.566894899999998,
+    "longitude": 79.1656126,
+    "place_id": "ChIJg0fC3rFjeDkRbY6iXBrgA6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg0fC3rFjeDkRbY6iXBrgA6Y",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:13:43"
+  },
+  {
+    "business_name": "KRISHNA AUTO PARTS",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "472001",
+    "phone_number": "+91 75093 86106",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mukhar Ji Choraha, Shop No.07, New Bus Stand, Mukharji Choraha, Sagar Bypass Road, Tikamgarh, Madhya Pradesh 472001",
+    "area": "472001",
+    "latitude": 24.748270599999998,
+    "longitude": 78.8533226,
+    "place_id": "ChIJZ4U0FFdFeDkRJF-245nyuMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4U0FFdFeDkRJF-245nyuMw",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:13:45"
+  }
+]

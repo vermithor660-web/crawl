@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srishti organic",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic farm",
+    "all_categories": "Organic farm",
+    "pincode": "472010",
+    "phone_number": "+91 90792 52212",
+    "website": "http://www.srishtiorganicindia.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kasra 81, Village+ Post, Kalwari, Madhya Pradesh 486117",
+    "area": "472010",
+    "latitude": 24.875667999999997,
+    "longitude": 81.66103799999999,
+    "place_id": "ChIJq0X0KgAbhTkRxWosamMnc9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq0X0KgAbhTkRxWosamMnc9Y",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:16:31"
+  },
+  {
+    "business_name": "Nature's Organic Gifts",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Organic farm, Organic restaurant, Organic shop, Home Stay",
+    "pincode": "472010",
+    "phone_number": "+91 63984 26144",
+    "website": "https://www.facebook.com/naturesorganicpauri/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "188/11, Kotdwar - Dugadda Rd, near RFC Godown, Dandapani, Nisni, Uttarakhand 246001",
+    "area": "472010",
+    "latitude": 30.1224447,
+    "longitude": 78.79375859999999,
+    "place_id": "ChIJf5HwcgKjCTkR2uwCu-wvKkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf5HwcgKjCTkR2uwCu-wvKkA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:16:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PrintBuzz",
+    "search_category": "Flex and Banner Printing",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop, Design agency, Digital printing service, Sign shop",
+    "pincode": "472331",
+    "phone_number": "+91 96765 81888",
+    "website": "https://printbuzz.in/",
+    "rating": 4.9,
+    "reviews_count": 108,
+    "address": "1st Floor, 1-17/1, 1-8, above Telangana Co-op Apex Bank, Chikkadpally, Hyderabad, Telangana 500020",
+    "area": "Chikkadpally",
+    "latitude": 17.400679,
+    "longitude": 78.49791429999999,
+    "place_id": "ChIJr6GTJgSZyzsRZZg2Hj_llYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr6GTJgSZyzsRZZg2Hj_llYs",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:29:25"
+  },
+  {
+    "business_name": "Bharat Print",
+    "search_category": "Flex and Banner Printing",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop, Advertising agency, Banner store, Digital printing service, Offset Printer, Sticker Manufacturer, Vinyl sign shop",
+    "pincode": "472331",
+    "phone_number": "+91 76111 65111",
+    "website": "https://bharatmultiprinters.myshopmatic.com/",
+    "rating": 4.7,
+    "reviews_count": 106,
+    "address": "1st Floor, Mission Hostel Complex, Jarahbhata, Bilaspur, Masanganj, Chhattisgarh 495001",
+    "area": "Jarahbhata",
+    "latitude": 22.081761,
+    "longitude": 82.1411743,
+    "place_id": "ChIJhw1naa0LKDoR5xK0-UVlqgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhw1naa0LKDoR5xK0-UVlqgU",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:29:26"
+  }
+]

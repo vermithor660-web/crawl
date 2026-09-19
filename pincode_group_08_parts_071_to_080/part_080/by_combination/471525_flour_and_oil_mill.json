@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahu oil Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "471525",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Madhauganj, Road, Ajaigarh, Madhya Pradesh 488220",
+    "area": "471525",
+    "latitude": 24.9115449,
+    "longitude": 80.2708219,
+    "place_id": "ChIJA5Uw6KkZgzkRCXVb17Bn3bg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA5Uw6KkZgzkRCXVb17Bn3bg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:09:23"
+  },
+  {
+    "business_name": "Shree oil mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "471525",
+    "phone_number": "+91 96692 34294",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 16,
+    "address": "HQ7C+XM, Bheem Nagar, Bhind, Madhya Pradesh 477001",
+    "area": "Bheem Nagar",
+    "latitude": 26.564898,
+    "longitude": 78.77173599999999,
+    "place_id": "ChIJrW12MFR7djkRiNNtcCCg5tE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrW12MFR7djkRiNNtcCCg5tE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:09:24"
+  }
+]

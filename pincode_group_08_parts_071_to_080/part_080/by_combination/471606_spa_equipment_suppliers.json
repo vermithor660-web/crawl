@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spa Group",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Oil & natural gas company",
+    "all_categories": "Oil & natural gas company, Chemical Manufacturer, Research and product development, Safety equipment supplier",
+    "pincode": "471606",
+    "phone_number": "+91 22 4010 4500",
+    "website": "https://www.spagroup.net/",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "E-3/15 WICEL, MIDC Central Rd, Santacruz Electronic Export Processing Zone, Andheri East, Mumbai, Maharashtra 400093",
+    "area": "Santacruz Electronic Export Processing Zone, Andheri East",
+    "latitude": 19.1262312,
+    "longitude": 72.87191659999999,
+    "place_id": "ChIJobKBZC_I5zsRgZ9kM1lHYNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJobKBZC_I5zsRgZ9kM1lHYNc",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:10:31"
+  },
+  {
+    "business_name": "M J Disposable Products",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Disposable Items shop, Hotel supply store, Cosmetics wholesaler",
+    "pincode": "471606",
+    "phone_number": "N/A",
+    "website": "https://m-j-disposable-products.grexa.site/",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "9, Rajpur Rd, Ludlow Castle, Civil Lines, Delhi, 110054",
+    "area": "Ludlow Castle, Civil Lines",
+    "latitude": 28.675563399999998,
+    "longitude": 77.2174076,
+    "place_id": "ChIJJbs0Pcr9DDkRnPbaOV1DEGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJbs0Pcr9DDkRnPbaOV1DEGk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:10:31"
+  }
+]

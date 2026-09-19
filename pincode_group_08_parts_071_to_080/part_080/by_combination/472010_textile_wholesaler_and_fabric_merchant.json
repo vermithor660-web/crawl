@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "N.S.FABRICS",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Exporter, Manufacturer",
+    "pincode": "472010",
+    "phone_number": "+91 91403 14799",
+    "website": "http://nsfabriccoton.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Ahiniya, Po, Sadar, Baddopur, Azamgarh, Uttar Pradesh 276125",
+    "area": "Sadar",
+    "latitude": 26.0667048,
+    "longitude": 83.2041174,
+    "place_id": "ChIJAQAAUEqjkTkRkSW5rfyDyb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAUEqjkTkRkSW5rfyDyb4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:16:44"
+  },
+  {
+    "business_name": "Pushpendra Traders",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Fabric store",
+    "all_categories": "Fabric store",
+    "pincode": "472010",
+    "phone_number": "+91 91314 46980",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "10, Vindhvashini, Madhya Pradesh 472111",
+    "area": "472010",
+    "latitude": 24.7539406,
+    "longitude": 79.05691379999999,
+    "place_id": "ChIJGzt4uSVpeDkRbyjbyAuCtrY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGzt4uSVpeDkRbyjbyAuCtrY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:16:46"
+  }
+]

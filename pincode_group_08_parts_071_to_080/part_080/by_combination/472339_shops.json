@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhai ka dhaba",
+    "search_category": "Shops",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "472339",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "VR5Q+J5G, Tikamgarh - Jhansi Rd, Takha, Shivrajpur, Madhya Pradesh 472001",
+    "area": "Takha",
+    "latitude": 24.8586027,
+    "longitude": 78.8380123,
+    "place_id": "ChIJfzqkRABJeDkR4UhgCIq3oVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfzqkRABJeDkR4UhgCIq3oVA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:35:03"
+  },
+  {
+    "business_name": "Raaz Febrication",
+    "search_category": "Shops",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "472339",
+    "phone_number": "+91 89827 35739",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 18, Tikamgarh Jhansi Road Heeranagar Tigela, Heeranagar, Tikamgarh, Madhya Pradesh 472001",
+    "area": "472339",
+    "latitude": 24.8305628,
+    "longitude": 78.8361463,
+    "place_id": "ChIJKYklOd9JeDkRv_6Ao1RsNM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKYklOd9JeDkRv_6Ao1RsNM4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:35:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "South Indian Coffee House",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "472331",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Main Road, opposite to Bus stand, Gopal Ganj, Pachmarhi, Pachmarhi Cantt, Madhya Pradesh 461881",
+    "area": "Gopal Ganj",
+    "latitude": 22.4748141,
+    "longitude": 78.43476059999999,
+    "place_id": "ChIJy8bxM7E7fjkRYyrVvz5l404",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy8bxM7E7fjkRYyrVvz5l404",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:28:24"
+  },
+  {
+    "business_name": "Sankalp - The Taste of South",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "472331",
+    "phone_number": "+91 96024 43884",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "MTM CITY, 144-145, MTM High Street, near Landmark Hotel, Santosh Colony, Bhilwara, Rajasthan 311001",
+    "area": "Santosh Colony",
+    "latitude": 25.3504102,
+    "longitude": 74.6294968,
+    "place_id": "ChIJV1tFcADDaDkRQhCFedX9ZmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV1tFcADDaDkRQhCFedX9ZmU",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:28:24"
+  }
+]

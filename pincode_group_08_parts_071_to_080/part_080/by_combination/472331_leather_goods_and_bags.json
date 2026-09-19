@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My purse collection",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Handbags shop",
+    "all_categories": "Handbags shop",
+    "pincode": "472331",
+    "phone_number": "+91 75664 43919",
+    "website": "https://mypursecollectionx.com/",
+    "rating": 5,
+    "reviews_count": 29,
+    "address": "Shri Nagar colony, Indore Rd, near axis bank, Sneh Nagar, Vidhyuth Nagar, Khandwa, Khandwa Taraf Kumbhi, Madhya Pradesh 450001",
+    "area": "Sneh Nagar, Vidhyuth Nagar",
+    "latitude": 21.827039499999998,
+    "longitude": 76.3378719,
+    "place_id": "ChIJ4yaPm7kb2DsRrj7ehhbqf1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4yaPm7kb2DsRrj7ehhbqf1I",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:28:33"
+  },
+  {
+    "business_name": "kothari bag",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "472331",
+    "phone_number": "+91 93038 55655",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "chhindwara 1 infront of girls college, Chhindwara, Madhya Pradesh 480001",
+    "area": "Rautha Wada",
+    "latitude": 22.0559034,
+    "longitude": 78.9382612,
+    "place_id": "ChIJKZIXW4tn1TsRLLd-t2oGsv4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKZIXW4tn1TsRLLd-t2oGsv4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:28:34"
+  }
+]

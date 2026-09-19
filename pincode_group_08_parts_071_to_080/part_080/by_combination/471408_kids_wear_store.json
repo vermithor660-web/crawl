@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kc collection",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store",
+    "pincode": "471408",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WH4M+9FJ, Chhatrasal Chowk to Sagar Rd, Shanti Nagar, Chhatarpur, Madhya Pradesh 471001",
+    "area": "Shanti Nagar",
+    "latitude": 24.905970699999997,
+    "longitude": 79.5836259,
+    "place_id": "ChIJ9_27EQCXgjkRLnQ21NbNQXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9_27EQCXgjkRLnQ21NbNQXk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:57:18"
+  },
+  {
+    "business_name": "Swaroop brothers readymade store",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "471408",
+    "phone_number": "+91 99269 13859",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WH8Q+WJF, Main market infront of upbhokta bhandar, beside popular book depot, Chhatarpur, Madhya Pradesh 471001",
+    "area": "Naya Mohalla",
+    "latitude": 24.9173054,
+    "longitude": 79.5890622,
+    "place_id": "ChIJ6ydvyTKXgjkRPHBUndIge9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ydvyTKXgjkRPHBUndIge9E",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:57:19"
+  }
+]

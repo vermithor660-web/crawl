@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Mandapam",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "471408",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 45,
+    "address": "VHVR+PWW, Satai-Chhatarpur Rd, Ambedkar Nagar, Chhatarpur, Madhya Pradesh 471001",
+    "area": "Ambedkar Nagar",
+    "latitude": 24.8943506,
+    "longitude": 79.5923402,
+    "place_id": "ChIJNeH0bbiXgjkRLksC6XPuFMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNeH0bbiXgjkRLksC6XPuFMA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:58:07"
+  },
+  {
+    "business_name": "Raza Hall",
+    "search_category": "Banquet Hall",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue",
+    "pincode": "471408",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 20,
+    "address": "WH3R+WVX, Naya Mohalla, Chhatarpur, Madhya Pradesh 471001",
+    "area": "Naya Mohalla",
+    "latitude": 24.904863799999998,
+    "longitude": 79.5922247,
+    "place_id": "ChIJmzeeEcWXgjkRonKy1ePqYY4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmzeeEcWXgjkRonKy1ePqYY4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:58:09"
+  }
+]

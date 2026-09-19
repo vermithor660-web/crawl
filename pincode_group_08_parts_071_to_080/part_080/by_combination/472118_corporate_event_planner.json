@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Crown Events and Decore",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Balloon artist, Balloon store, Event management company, Caterer, Florist, Flower designer, Interior Decorator, Restaurant supply store",
+    "pincode": "472118",
+    "phone_number": "+91 70671 25832",
+    "website": "https://decorator-in-sagar.odoo.com/",
+    "rating": 5,
+    "reviews_count": 28,
+    "address": "behind trends showroom, Padmakar Nagar, Makroniya, Sagar, Madhya Pradesh 470004",
+    "area": "Padmakar Nagar",
+    "latitude": 23.8514159,
+    "longitude": 78.7902309,
+    "place_id": "ChIJrdZZ0M_ReDkR5gfIQEhdar4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrdZZ0M_ReDkR5gfIQEhdar4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:24:10"
+  },
+  {
+    "business_name": "Dream Creation Events & Promotions - Event management company Bhopal",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company, Event venue, Party planner, Wedding planner, Wedding service",
+    "pincode": "472118",
+    "phone_number": "+91 98939 48646",
+    "website": "https://dcevent.co.in/",
+    "rating": 4.8,
+    "reviews_count": 33,
+    "address": "Raj Homes, E-43, Sector C, JK Rd, Bhopal, Madhya Pradesh 462023",
+    "area": "Minal Residency",
+    "latitude": 23.2709749,
+    "longitude": 77.456819,
+    "place_id": "ChIJhc60VBhpfDkRGUGOGSgybf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhc60VBhpfDkRGUGOGSgybf4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:24:10"
+  }
+]

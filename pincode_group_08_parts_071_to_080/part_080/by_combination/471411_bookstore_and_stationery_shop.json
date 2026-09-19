@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky stationary",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "471411",
+    "phone_number": "+91 98104 17390",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "f-38, near Agarwal sweets, Suman Colony, Block A1, Block G, Chhatarpur, New Delhi, Delhi 110074",
+    "area": "Suman Colony, Block A1, Block G, Chhatarpur",
+    "latitude": 28.4954908,
+    "longitude": 77.18058169999999,
+    "place_id": "ChIJk98SzjoeDTkRxmVfb53oSXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk98SzjoeDTkRxmVfb53oSXE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:00:24"
+  },
+  {
+    "business_name": "Ajay Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "471411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Main Chhatarpur Rd, near Syndicate Bank Chattarpur, Asola, New Delhi, Delhi 110074",
+    "area": "Asola",
+    "latitude": 28.4566207,
+    "longitude": 77.1840301,
+    "place_id": "ChIJ45pHM-YfDTkRO2xefCtZi_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ45pHM-YfDTkRO2xefCtZi_s",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:00:24"
+  }
+]

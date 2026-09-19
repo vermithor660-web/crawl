@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anuhar & Associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "472221",
+    "phone_number": "+91 98893 41086",
+    "website": "https://yourlegalchamber.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Anuhar & Associates, Ashapur, Ayodhya, Uttar Pradesh 224001",
+    "area": "Ashapur",
+    "latitude": 26.7746332,
+    "longitude": 82.17870769999999,
+    "place_id": "ChIJjZNoOwAHmjkRDqSAFXAFYU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjZNoOwAHmjkRDqSAFXAFYU0",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:26:07"
+  },
+  {
+    "business_name": "Finlaw Consultancy Pvt. Ltd. - New Delhi Branch",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Business management consultant, Law firm, Real estate attorney, Tax attorney, Tax consultant",
+    "pincode": "472221",
+    "phone_number": "N/A",
+    "website": "http://finlaw.in/",
+    "rating": 4,
+    "reviews_count": 6,
+    "address": "World Trade Center, Office No. 43, Ground Floor, Barakhamba Ln, next to Lalit Hotel, Connaught Place, New Delhi, Delhi 110001",
+    "area": "Fire Brigade Lane, Connaught Place",
+    "latitude": 28.631604499999998,
+    "longitude": 77.2269773,
+    "place_id": "ChIJfayIaTT9DDkRPb9CBCJZOm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfayIaTT9DDkRPb9CBCJZOm0",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:26:08"
+  }
+]

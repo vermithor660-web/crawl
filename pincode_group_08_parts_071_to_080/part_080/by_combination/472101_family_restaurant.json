@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajwada Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "472101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Near, Bhedfarm Orchha Road, Prithvipur, Madhya Pradesh 472336",
+    "area": "472101",
+    "latitude": 25.211159499999997,
+    "longitude": 78.7352643,
+    "place_id": "ChIJc7hVXgAreDkRxveHKqgbZoI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc7hVXgAreDkRxveHKqgbZoI",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:18:21"
+  },
+  {
+    "business_name": "Yadav Bhojnalay And Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "472101",
+    "phone_number": "+91 89622 83923",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 9,
+    "address": "Mandi gate ke samne, Niwari Road, Prithvipur, Madhya Pradesh 472336",
+    "area": "472101",
+    "latitude": 25.208715299999998,
+    "longitude": 78.74813619999999,
+    "place_id": "ChIJf9MUATopeDkR1EBTL19eRHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf9MUATopeDkR1EBTL19eRHE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:18:21"
+  }
+]

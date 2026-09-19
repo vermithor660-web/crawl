@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Praveer Enterprises",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Cleaning products supplier",
+    "all_categories": "Cleaning products supplier, Hotel supply store",
+    "pincode": "472101",
+    "phone_number": "+91 70801 12309",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "14, kosi Parikarma Marg, Mirzapur Mafi, Uttar Pradesh 224135",
+    "area": "472101",
+    "latitude": 26.7555125,
+    "longitude": 82.177684,
+    "place_id": "ChIJ60Eq-R8HmjkR-DTg_J6vvZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ60Eq-R8HmjkR-DTg_J6vvZ0",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:19:12"
+  },
+  {
+    "business_name": "FC CLEANS CARE PVT.LTD.",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Cleaning products supplier",
+    "all_categories": "Cleaning products supplier, Wholesaler",
+    "pincode": "472101",
+    "phone_number": "+91 78699 66089",
+    "website": "http://fccleanscare.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Sector A, Industrial Area, Mandideep, Bhopal, Madhya Pradesh 462046",
+    "area": "Sector A, Industrial Area, Mandideep",
+    "latitude": 23.0936609,
+    "longitude": 77.51756809999999,
+    "place_id": "ChIJBUtI23M2fDkRuIhdIuC0KPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUtI23M2fDkRuIhdIuC0KPQ",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:19:12"
+  }
+]

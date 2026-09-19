@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mandi Online",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Fruits & Vegetable Wholesaler",
+    "all_categories": "Fruits & Vegetable Wholesaler, E-commerce service, Fresh food market, Grocery delivery service, Shipping service",
+    "pincode": "472331",
+    "phone_number": "+91 95803 51351",
+    "website": "http://www.mandionline.co.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "A21, New Sabji Mandi, Bhadwasiya, Jodhpur, Rajasthan 342001",
+    "area": "Bhadwasiya, Maderana Colony",
+    "latitude": 26.315763399999998,
+    "longitude": 73.0461356,
+    "place_id": "ChIJTVk5vu-NQTkRAz6fBAthsZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTVk5vu-NQTkRAz6fBAthsZQ",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:29:54"
+  },
+  {
+    "business_name": "Shree sawariya traders",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Building materials market",
+    "all_categories": "Building materials market",
+    "pincode": "472331",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bamhori Khas, Madhya Pradesh 472331",
+    "area": "472331",
+    "latitude": 25.0222819,
+    "longitude": 78.8438867,
+    "place_id": "ChIJA0RAKAA7eDkRXTuwZB7bvB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA0RAKAA7eDkRXTuwZB7bvB8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:29:54"
+  }
+]

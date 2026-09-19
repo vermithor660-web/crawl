@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Issaquah Towing Company",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "471606",
+    "phone_number": "N/A",
+    "website": "http://www.issaquahtowingcompany.com/",
+    "rating": 4.5,
+    "reviews_count": 26,
+    "address": "Issaquah Towing Company, 471606, India",
+    "area": "471606",
+    "latitude": 47.537893,
+    "longitude": -122.0855029,
+    "place_id": "ChIJ2ewPkRplkFQR-onhkiFJKdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ewPkRplkFQR-onhkiFJKdA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:10:19"
+  },
+  {
+    "business_name": "Hawks Towing",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "471606",
+    "phone_number": "N/A",
+    "website": "http://hawkstowingnw.com/",
+    "rating": 4.9,
+    "reviews_count": 40,
+    "address": "Hawks Towing, 471606, India",
+    "area": "471606",
+    "latitude": 47.861557999999995,
+    "longitude": -122.0954725,
+    "place_id": "ChIJ_xhMFtI1M4kRtW3toL-aTqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_xhMFtI1M4kRtW3toL-aTqI",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:10:19"
+  }
+]

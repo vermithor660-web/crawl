@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "It sell marketing",
+    "search_category": "SEO Consultants",
+    "primary_category": "Computer consultant",
+    "all_categories": "Computer consultant, Service establishment",
+    "pincode": "471510",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "It sell marketing, 471510, India",
+    "area": "471510",
+    "latitude": 25.7384822,
+    "longitude": 79.33202109999999,
+    "place_id": "ChIJY2aL-4YDgzkR4DNTTlZ0to4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY2aL-4YDgzkR4DNTTlZ0to4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:04:18"
+  },
+  {
+    "business_name": "Tec Digital Solution",
+    "search_category": "SEO Consultants",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, E-commerce service, Business to business service",
+    "pincode": "471510",
+    "phone_number": "+91 96259 31556",
+    "website": "https://www.tecdigitalsolution.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "B-105, Ground floor, Chattarpur Enclave Phase 2, Phase 1, Chattarpur Enclave, Chhatarpur, New Delhi, Delhi 110074",
+    "area": "Phase 1, Chattarpur Enclave, Chhatarpur",
+    "latitude": 28.499422799999998,
+    "longitude": 77.1904496,
+    "place_id": "ChIJ7XDwxiYeDTkRsjz8Uy3OpGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7XDwxiYeDTkRsjz8Uy3OpGk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:04:18"
+  }
+]

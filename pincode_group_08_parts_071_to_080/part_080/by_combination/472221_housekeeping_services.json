@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The home cleaning pvt. Ltd",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Carpet cleaning service, Cleaning Services, Leather cleaning service, Pool cleaning service",
+    "pincode": "472221",
+    "phone_number": "+91 91374 22263",
+    "website": "https://thehomecleaningcompany.in/",
+    "rating": 4.7,
+    "reviews_count": 155,
+    "address": "12, Garud zep society chal no.1, Bhagwan Nagar, Beturkar Pada, Kalyan, Maharashtra 421301",
+    "area": "Bhagwan Nagar, Beturkar Pada",
+    "latitude": 19.248535399999998,
+    "longitude": 73.1305349,
+    "place_id": "ChIJWTxfXsqX5zsR61r45mQYSY8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWTxfXsqX5zsR61r45mQYSY8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:26:07"
+  },
+  {
+    "business_name": "Handyscompany",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "472221",
+    "phone_number": "+91 76315 50023",
+    "website": "https://handyscompany.in/",
+    "rating": 4.2,
+    "reviews_count": 45,
+    "address": "Bypass Road, Pantnagar, Gaya, Bihar 823001",
+    "area": "Pantnagar",
+    "latitude": 24.770874499999998,
+    "longitude": 85.0039154,
+    "place_id": "ChIJ0URuOWlL80kRD5lQHEkXZgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0URuOWlL80kRD5lQHEkXZgk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:26:08"
+  }
+]

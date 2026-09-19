@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Orchha Club & Resort - OCR",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Banquet hall, Restaurant, Spa, Swimming pool, Wedding venue",
+    "pincode": "472111",
+    "phone_number": "+91 79874 68328",
+    "website": "http://orchhaclubandresort.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "9J9R+MJP, near Ramraja Mandir, Orchha, Madhya Pradesh 472246",
+    "area": "472111",
+    "latitude": 25.3722025,
+    "longitude": 78.6432116,
+    "place_id": "ChIJt7KDXJJ4dzkReY6t53TI6Fs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt7KDXJJ4dzkReY6t53TI6Fs",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:20:48"
+  },
+  {
+    "business_name": "MADHYA PRADESH POOL tikamgarh",
+    "search_category": "Resort",
+    "primary_category": "Swimming pool",
+    "all_categories": "Swimming pool",
+    "pincode": "472111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "QV72+Q5, Tikamgarh, Madhya Pradesh 472001",
+    "area": "472111",
+    "latitude": 24.7643854,
+    "longitude": 78.85043499999999,
+    "place_id": "ChIJa7ixt_5FeDkRh-i6F_q0lYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa7ixt_5FeDkRh-i6F_q0lYk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:20:48"
+  }
+]

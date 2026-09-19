@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Salman Flowers",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "471515",
+    "phone_number": "+91 88269 89174",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Shop No 20, Flower Mandi, near Metro Station, Mittal Garden, Chhatarpur, New Delhi, Delhi 110074",
+    "area": "Mittal Garden, Chhatarpur",
+    "latitude": 28.5102789,
+    "longitude": 77.1850501,
+    "place_id": "ChIJm2YQr30fDTkRM0PfBPWq2yQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm2YQr30fDTkRM0PfBPWq2yQ",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:05:22"
+  },
+  {
+    "business_name": "Neha Flowar Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer",
+    "pincode": "471515",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VHXR+9MX, near Panna Khajuraho Road, Ambedkar Nagar, Chhatarpur, Madhya Pradesh 471001",
+    "area": "Ambedkar Nagar",
+    "latitude": 24.8984851,
+    "longitude": 79.59174159999999,
+    "place_id": "ChIJuZ1lUcaXgjkRyk1P-icslDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuZ1lUcaXgjkRyk1P-icslDs",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:05:22"
+  }
+]

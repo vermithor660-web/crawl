@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Staff Book",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "472118",
+    "phone_number": "N/A",
+    "website": "http://www.staffbook.in/",
+    "rating": 4.9,
+    "reviews_count": 33,
+    "address": "Staff Book, 472118, India",
+    "area": "472118",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJy5y6AM3QgWoRh-p9M-Xg7WE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy5y6AM3QgWoRh-p9M-Xg7WE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:24:42"
+  },
+  {
+    "business_name": "Zicfy",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business to business service",
+    "all_categories": "Business to business service, Service establishment",
+    "pincode": "472118",
+    "phone_number": "N/A",
+    "website": "https://www.zicfy.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Zicfy, 472118, India",
+    "area": "472118",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ51aLSDBCfDkRXvgmdftR_0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ51aLSDBCfDkRXvgmdftR_0c",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:24:43"
+  }
+]

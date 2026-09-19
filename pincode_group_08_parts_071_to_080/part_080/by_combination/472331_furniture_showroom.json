@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhola furnitures",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture Manufacturer",
+    "all_categories": "Furniture Manufacturer",
+    "pincode": "472331",
+    "phone_number": "+91 96217 45900",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MO.alyai bali ki chakki ke pas, near MO.alyai bali ki chakki ke pas, Mauranipur, Roni, Uttar Pradesh 284204",
+    "area": "472331",
+    "latitude": 25.246219699999997,
+    "longitude": 79.1365959,
+    "place_id": "ChIJY3FtQFkdeDkRHyNH7gak0w0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY3FtQFkdeDkRHyNH7gak0w0",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:29:04"
+  },
+  {
+    "business_name": "Sri jay ambe hardware",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture accessories supplier",
+    "all_categories": "Furniture accessories supplier",
+    "pincode": "472331",
+    "phone_number": "+91 96217 45900",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "rai bus service ke Bagal, main garautha chauraha, Mauranipur, Roni, Uttar Pradesh 284204",
+    "area": "472331",
+    "latitude": 25.258752299999998,
+    "longitude": 79.1444628,
+    "place_id": "ChIJ0VkjRzqPdzkRGGtsNE3Ms7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0VkjRzqPdzkRGGtsNE3Ms7Y",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:29:06"
+  }
+]

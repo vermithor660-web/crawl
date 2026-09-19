@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Basic health care chhatarpur",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Public health department",
+    "all_categories": "Public health department, Home health care service",
+    "pincode": "471318",
+    "phone_number": "+91 62324 45547",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 62,
+    "address": "near Govt hospital, Naya Mohalla, Chhatarpur, Madhya Pradesh 471001",
+    "area": "Naya Mohalla",
+    "latitude": 24.907482599999998,
+    "longitude": 79.5833093,
+    "place_id": "ChIJdd0ddi-XgjkRz_BoDvlIPqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdd0ddi-XgjkRz_BoDvlIPqw",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:53:36"
+  },
+  {
+    "business_name": "HEALTH CARE CLINIC",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "471318",
+    "phone_number": "+91 87200 49400",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "95X6+36C, NH 346, Madhya Pradesh 466661",
+    "area": "471318",
+    "latitude": 23.397686399999998,
+    "longitude": 77.1605144,
+    "place_id": "ChIJCTgpDGiIfDkRqRpXmDaCYK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCTgpDGiIfDkRqRpXmDaCYK4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:53:37"
+  }
+]

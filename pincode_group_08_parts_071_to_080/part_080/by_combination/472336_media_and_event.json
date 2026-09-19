@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Events",
+    "search_category": "Media and Event",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "472336",
+    "phone_number": "+91 70609 07503",
+    "website": "http://www.instagram.com/thebestevents.in",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Best Events, 472336, India",
+    "area": "472336",
+    "latitude": 28.0725378,
+    "longitude": 79.1757919,
+    "place_id": "ChIJkfMlZmQke0ARp-DSq5qAlhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkfMlZmQke0ARp-DSq5qAlhk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:31:01"
+  },
+  {
+    "business_name": "Om event and production management",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "472336",
+    "phone_number": "+91 90767 81571",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Om event and production management, 472336, India",
+    "area": "472336",
+    "latitude": 25.7063527,
+    "longitude": 84.39571509999999,
+    "place_id": "ChIJPxWz3mtjkjkRT6dPJTC_Ehk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPxWz3mtjkjkRT6dPJTC_Ehk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:31:01"
+  }
+]

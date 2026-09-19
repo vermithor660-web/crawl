@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Fast Food And Chinese",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "472115",
+    "phone_number": "+91 99215 47354",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Bas Stand, Khargapur, Madhya Pradesh 472115",
+    "area": "472115",
+    "latitude": 24.8205077,
+    "longitude": 79.14600589999999,
+    "place_id": "ChIJlfTCDZxteDkRDyZMAPXI63A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlfTCDZxteDkRDyZMAPXI63A",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:21:38"
+  },
+  {
+    "business_name": "Fouji Da Dhaba",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "472115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 16,
+    "address": "M9G6+MWP, Gulganj, Mungawari, Madhya Pradesh 471311",
+    "area": "472115",
+    "latitude": 24.6767012,
+    "longitude": 79.362319,
+    "place_id": "ChIJXVVfTAB5eDkRzLBeA_rnXx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXVVfTAB5eDkRzLBeA_rnXx4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:21:39"
+  }
+]

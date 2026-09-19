@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govt veterinary hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "472337",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Brindavan dham, Tikamgarh, Madhya Pradesh 472001",
+    "area": "472337",
+    "latitude": 24.753739799999998,
+    "longitude": 78.84872949999999,
+    "place_id": "ChIJ8ZnhbwBFeDkRUNnS3oIiJEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ZnhbwBFeDkRUNnS3oIiJEU",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:32:10"
+  },
+  {
+    "business_name": "Government Veterinary Hospital Sellur",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "472337",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "28, Sankar St, Poonthamalli Nagar, Madurai, Tamil Nadu 625002",
+    "area": "Poonthamalli Nagar",
+    "latitude": 9.9431625,
+    "longitude": 78.1206278,
+    "place_id": "ChIJvwPhVADFADsRVewHgrPx4go",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvwPhVADFADsRVewHgrPx4go",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:32:10"
+  }
+]

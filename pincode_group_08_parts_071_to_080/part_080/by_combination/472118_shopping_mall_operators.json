@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shopp'n Town Shopping Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Outlet mall",
+    "all_categories": "Outlet mall, Countertop store, Grocery store, Shopping mall",
+    "pincode": "472118",
+    "phone_number": "+91 81206 80812",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "rudra ward, Station Rd, near marketing society, Marketing Society, Gotegaon, Chhota Chhindwara, Madhya Pradesh 487118",
+    "area": "Marketing Society",
+    "latitude": 23.039006099999998,
+    "longitude": 79.4812443,
+    "place_id": "ChIJEdq2LbXTgTkRcy4CErZ8Q9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEdq2LbXTgTkRcy4CErZ8Q9M",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:24:44"
+  },
+  {
+    "business_name": "Maa Ambe Shopping Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Countertop store, Grocery delivery service, Grocery store",
+    "pincode": "472118",
+    "phone_number": "+91 86690 20377",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "04, Laxmi Puram Colony, Rajmarg, Chouraha, Lolri, Madhya Pradesh 487330",
+    "area": "472118",
+    "latitude": 23.1150912,
+    "longitude": 79.0286742,
+    "place_id": "ChIJfc_zl1JzfzkRStj2iFrCXKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfc_zl1JzfzkRStj2iFrCXKo",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:24:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anup Sen",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "472337",
+    "phone_number": "+91 62688 77690",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.20, Naka Tigela, Simra - Tikamgarh Rd, Jeron Khalsa, Madhya Pradesh 472337",
+    "area": "472337",
+    "latitude": 25.1191611,
+    "longitude": 78.6503345,
+    "place_id": "ChIJWbD2CLzTeTkRfbMu4Ilut7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWbD2CLzTeTkRfbMu4Ilut7U",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:31:38"
+  },
+  {
+    "business_name": "Unnati Kirana & Chat Bhandar",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "472337",
+    "phone_number": "+91 83191 42928",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop Number 402, Main Market, Jeron, Simra - Tikamgarh Rd, Ya, Jeron Khalsa, Madhya Pradesh 472337",
+    "area": "Ya",
+    "latitude": 25.122794199999998,
+    "longitude": 78.6499798,
+    "place_id": "ChIJ2RsS25LTeTkR3ezgmZmf7BI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2RsS25LTeTkR3ezgmZmf7BI",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:31:38"
+  }
+]

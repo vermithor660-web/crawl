@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Air India Ltd.",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Airline ticket agency",
+    "all_categories": "Airline ticket agency",
+    "pincode": "471606",
+    "phone_number": "N/A",
+    "website": "http://www.airindia.in/",
+    "rating": 3.8,
+    "reviews_count": 39,
+    "address": "RW67+535, Khajuraho Airport Area, Khajuraho, Madhya Pradesh 471606",
+    "area": "Khajuraho Airport Area",
+    "latitude": 24.810385399999998,
+    "longitude": 79.9127225,
+    "place_id": "ChIJ74q2Q3vvgjkRtj12-iPJgjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ74q2Q3vvgjkRtj12-iPJgjY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:11:19"
+  },
+  {
+    "business_name": "Anoop Jain Tour Guide Khajuraho",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Sightseeing Tour Operator",
+    "all_categories": "Sightseeing Tour Operator, Tour agency, Tour operator, Tourist attraction, Tourist information center",
+    "pincode": "471606",
+    "phone_number": "+91 94251 43679",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Jain Mandir Rd, Eastern Group of Temples, A.V colony, Sevagram, Khajuraho, Madhya Pradesh 471606",
+    "area": "Eastern Group of Temples, A.V colony, Sevagram",
+    "latitude": 24.845489699999998,
+    "longitude": 79.9320809,
+    "place_id": "ChIJdZAdAZDlgjkRXhQLV-tf-ck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZAdAZDlgjkRXhQLV-tf-ck",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:11:19"
+  }
+]

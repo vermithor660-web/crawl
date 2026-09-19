@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shilpgram",
+    "search_category": "Tradeshows",
+    "primary_category": "Cultural center",
+    "all_categories": "Cultural center",
+    "pincode": "471606",
+    "phone_number": "N/A",
+    "website": "http://www.sczcc.gov.in/",
+    "rating": 4.2,
+    "reviews_count": 149,
+    "address": "RWWF+2G8, Khajuraho Airport Rd, Sevagram, Khajuraho, Madhya Pradesh 471606",
+    "area": "Sevagram",
+    "latitude": 24.8450444,
+    "longitude": 79.9238175,
+    "place_id": "ChIJR-HeaP7lgjkR28yQ33QtDV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR-HeaP7lgjkR28yQ33QtDV0",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:11:10"
+  },
+  {
+    "business_name": "Abhay events Khajuraho",
+    "search_category": "Tradeshows",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "471606",
+    "phone_number": "+91 86020 61110",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bus stand, Bamitha, Madhya Pradesh 471105",
+    "area": "471606",
+    "latitude": 24.7693123,
+    "longitude": 79.8720663,
+    "place_id": "ChIJw_73YzbvgjkRT3ttx-VRK4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw_73YzbvgjkRT3ttx-VRK4Y",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:11:13"
+  }
+]

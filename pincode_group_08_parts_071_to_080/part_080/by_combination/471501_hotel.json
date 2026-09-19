@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rudra Palace",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "471501",
+    "phone_number": "+91 93037 74883",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "in beside of CISF quarter, Jain Mandir Rd, Sevagram, Khajuraho, Madhya Pradesh 471606",
+    "area": "Sevagram",
+    "latitude": 24.8482342,
+    "longitude": 79.92835579999999,
+    "place_id": "ChIJMcR-8-rngjkRbkMDwu29VSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMcR-8-rngjkRbkMDwu29VSs",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:02:02"
+  },
+  {
+    "business_name": "Hotel Saransh khajuraho",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "471501",
+    "phone_number": "+91 76862 99050",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "VW4H+FC4, bypass road, near payal tiraha, Sevagram, Khajuraho, Madhya Pradesh 471606",
+    "area": "Sevagram",
+    "latitude": 24.8567529,
+    "longitude": 79.9288756,
+    "place_id": "ChIJPa11SXvngjkRD__rrF8iqP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPa11SXvngjkRD__rrF8iqP4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:02:04"
+  }
+]

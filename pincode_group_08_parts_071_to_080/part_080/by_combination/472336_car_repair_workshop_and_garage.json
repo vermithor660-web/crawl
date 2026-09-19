@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonu auto workshops",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "472336",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "R8VH+2H, Angrah, Uttar Pradesh 222145",
+    "area": "472336",
+    "latitude": 25.8425957,
+    "longitude": 82.32894569999999,
+    "place_id": "ChIJLa5eBABzkDkRL-naHDy2bqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLa5eBABzkDkRL-naHDy2bqQ",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:30:28"
+  },
+  {
+    "business_name": "Pushpraj Motors",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto glass repair service, Auto radiator repair service, Bicycle repair shop, Car repair and maintenance service, Diesel engine repair service",
+    "pincode": "472336",
+    "phone_number": "+91 91010 69469",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Seoni Tiraha, Rajghat Rd, Lalitpur, Uttar Pradesh 284403",
+    "area": "472336",
+    "latitude": 24.7143198,
+    "longitude": 78.4028606,
+    "place_id": "ChIJqf8Lylu7eTkR_sHc_mP_UBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqf8Lylu7eTkR_sHc_mP_UBE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:30:29"
+  }
+]

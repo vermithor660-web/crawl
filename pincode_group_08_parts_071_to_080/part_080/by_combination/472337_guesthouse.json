@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahua Hill View homestay",
+    "search_category": "Guesthouse",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "472337",
+    "phone_number": "+91 79879 70692",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Ladpura khas, near ladpura north, Orchha, Madhya Pradesh 472246",
+    "area": "472337",
+    "latitude": 25.3272847,
+    "longitude": 78.6018326,
+    "place_id": "ChIJmaqB97N5dzkRl6tkX6FxeAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmaqB97N5dzkRl6tkX6FxeAg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:32:40"
+  },
+  {
+    "business_name": "Shri ramraja guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "472337",
+    "phone_number": "+91 83492 56819",
+    "website": "http://shriramrajaguesthouse.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "infront of ramraja temple, Niwari, dist, Orchha, Madhya Pradesh 472246",
+    "area": "472337",
+    "latitude": 25.3508846,
+    "longitude": 78.6407693,
+    "place_id": "ChIJLYK3DY55dzkRemdPR7datqs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLYK3DY55dzkRemdPR7datqs",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:32:44"
+  }
+]

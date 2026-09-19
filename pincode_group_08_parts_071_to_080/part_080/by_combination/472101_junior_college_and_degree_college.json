@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "School/college",
+    "search_category": "Junior College and Degree College",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "472101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2XQP+2WJ, Randela, Prem Nagar, Rajasthan 313026",
+    "area": "472101",
+    "latitude": 24.0375765,
+    "longitude": 73.9872523,
+    "place_id": "ChIJcebDdDIIZzkR5YvGyGBDCy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcebDdDIIZzkR5YvGyGBDCy0",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:19:13"
+  },
+  {
+    "business_name": "Government Junior College",
+    "search_category": "Junior College and Degree College",
+    "primary_category": "Junior college",
+    "all_categories": "Junior college",
+    "pincode": "472101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "R3RG+36R, Telangana 502270",
+    "area": "472101",
+    "latitude": 17.840225,
+    "longitude": 78.07551699999999,
+    "place_id": "ChIJ9xd0HhoFzDsRr0avYvYEjys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9xd0HhoFzDsRr0avYvYEjys",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:19:15"
+  }
+]

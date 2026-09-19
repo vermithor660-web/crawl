@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Supreme Medical Agencies",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Wholesale drugstore",
+    "pincode": "472337",
+    "phone_number": "+91 77460 39955",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "20, Kumar Gali, Old Town, Gomti Nagar, Dewas, Madhya Pradesh 455001",
+    "area": "Old Town, Gomti Nagar",
+    "latitude": 22.9660668,
+    "longitude": 76.057451,
+    "place_id": "ChIJzxWElE0XYzkRfxJB_fQlhb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzxWElE0XYzkRfxJB_fQlhb8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:32:12"
+  },
+  {
+    "business_name": "Primary Health Care Center",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "472337",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Akhalashpur, Bihar 821101",
+    "area": "472337",
+    "latitude": 25.0546608,
+    "longitude": 83.60585859999999,
+    "place_id": "ChIJN7gxVEzfjTkREODqlERclgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN7gxVEzfjTkREODqlERclgM",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:32:13"
+  }
+]

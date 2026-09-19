@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maneesh pal",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Kerala restaurant",
+    "all_categories": "Kerala restaurant",
+    "pincode": "471525",
+    "phone_number": "+91 88719 44063",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khadeha, Madhya Pradesh 471525",
+    "area": "471525",
+    "latitude": 25.1467606,
+    "longitude": 80.23843529999999,
+    "place_id": "ChIJM4veKPwlgzkRpwqfaNmKB70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM4veKPwlgzkRpwqfaNmKB70",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:08:05"
+  },
+  {
+    "business_name": "Shri Ram cafe",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "471525",
+    "phone_number": "+91 91796 95210",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Jain Mandir Rd, near jain temple, Eastern Group of Temples, Sevagram, Khajuraho, Madhya Pradesh 471606",
+    "area": "Eastern Group of Temples, Sevagram",
+    "latitude": 24.8442062,
+    "longitude": 79.9346094,
+    "place_id": "ChIJjVsjWNDlgjkRdNwbjAmkvtY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVsjWNDlgjkRdNwbjAmkvtY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:08:06"
+  }
+]

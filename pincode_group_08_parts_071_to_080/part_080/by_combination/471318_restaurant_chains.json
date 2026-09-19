@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LA Bella Italia Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Fast food restaurant, North Indian restaurant",
+    "pincode": "471318",
+    "phone_number": "+91 89621 59510",
+    "website": "https://labellaitalia.inmyarea.in/",
+    "rating": 3.9,
+    "reviews_count": 218,
+    "address": "Apollo cross market, beside Infront of the jugander Singh petrol pump, beside Bus stand, Chhatarpur, Madhya Pradesh 471001",
+    "area": "Chetgiri Colony, Narayanpura",
+    "latitude": 24.9195779,
+    "longitude": 79.5829047,
+    "place_id": "ChIJidYAW-eXgjkRpQfSZcE2BuI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJidYAW-eXgjkRpQfSZcE2BuI",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:53:13"
+  },
+  {
+    "business_name": "Al-baik Chhatarpur-non veg restaurant/chicken crispy in chhatarpur",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "471318",
+    "phone_number": "+91 86410 01330",
+    "website": "https://www.facebook.com/profile.php?id=100088707937511&mibextid=ZbWKwL",
+    "rating": 4.3,
+    "reviews_count": 18,
+    "address": "Old Panna Naka, in front of Urvashi Jewellers, beside Taj hotel, Ambedkar Nagar, Chhatarpur, Madhya Pradesh 471001",
+    "area": "Ambedkar Nagar",
+    "latitude": 24.8971891,
+    "longitude": 79.5929436,
+    "place_id": "ChIJR1amln2_gjkR635V9WavWPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR1amln2_gjkR635V9WavWPg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:53:14"
+  }
+]

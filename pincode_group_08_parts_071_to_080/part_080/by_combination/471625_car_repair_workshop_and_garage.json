@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KS Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "471625",
+    "phone_number": "+91 99944 84466",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "336, Aandal Building, Puliakulam Rd, Eswaran Layout, Ramasamy Nagar, Puliakulam, Coimbatore, Tamil Nadu 641045",
+    "area": "Eswaran Layout, Ramasamy Nagar, Puliakulam",
+    "latitude": 11.0020173,
+    "longitude": 76.990841,
+    "place_id": "ChIJ6bx9mepZqDsRuXODywXzsJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6bx9mepZqDsRuXODywXzsJI",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:11:54"
+  },
+  {
+    "business_name": "Sankalp Car Services - Multi Brand Car Workshop , Nagod",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "471625",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "NH 39, near Saraswati Higher Secondary School, Nagod, Madhya Pradesh 485446",
+    "area": "471625",
+    "latitude": 24.5707031,
+    "longitude": 80.6069356,
+    "place_id": "ChIJ66FAMBWdgzkRgLUh0MFaKCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ66FAMBWdgzkRgLUh0MFaKCA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:11:54"
+  }
+]

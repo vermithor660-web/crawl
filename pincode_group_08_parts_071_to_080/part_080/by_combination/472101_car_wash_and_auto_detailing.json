@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Detailing Daddy Gurgaon",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto restoration service",
+    "all_categories": "Auto restoration service",
+    "pincode": "472101",
+    "phone_number": "+91 98188 33276",
+    "website": "https://www.detailingdaddy.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Plot No. 25, Sector 17/18 Dividing Rd, near Pasco Body Shop, Sector 18, Gurugram, Haryana 122015",
+    "area": "Sector 18",
+    "latitude": 28.4876607,
+    "longitude": 77.0584351,
+    "place_id": "ChIJeYJm26YZDTkR9cVOpKfStfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeYJm26YZDTkR9cVOpKfStfw",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:18:41"
+  },
+  {
+    "business_name": "Baramdev car washing services",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "472101",
+    "phone_number": "+91 90097 85888",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "House no.421 mandav naka dhar 454001 Infront of jio office, Madhya Pradesh 454001",
+    "area": "472101",
+    "latitude": 22.591756,
+    "longitude": 75.3135032,
+    "place_id": "ChIJDeR9viY3YjkRMs7bgtzlIoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDeR9viY3YjkRMs7bgtzlIoM",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:18:42"
+  }
+]

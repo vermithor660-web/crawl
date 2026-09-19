@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Panna car bazar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "471408",
+    "phone_number": "+91 62600 92267",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "Bus Stand Rd, Benisagar Mohalla, Panna, Madhya Pradesh 488001",
+    "area": "Benisagar Mohalla",
+    "latitude": 24.7066008,
+    "longitude": 80.1810613,
+    "place_id": "ChIJ_5Mc2bgDgzkRbm2l6Bw43ug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_5Mc2bgDgzkRbm2l6Bw43ug",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:57:41"
+  },
+  {
+    "business_name": "Car4rent",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "471408",
+    "phone_number": "N/A",
+    "website": "https://sites.google.com/view/car4rents/home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Paradise City Rd, near by railway station, Chhatarpur, Chandrapura, Madhya Pradesh 471001",
+    "area": "471408",
+    "latitude": 24.883256499999998,
+    "longitude": 79.6096656,
+    "place_id": "ChIJbdTk1rWXgjkRBhDsHqMpqMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdTk1rWXgjkRBhDsHqMpqMI",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:57:44"
+  }
+]

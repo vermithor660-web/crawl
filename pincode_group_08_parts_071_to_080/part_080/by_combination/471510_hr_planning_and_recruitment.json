@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hind Hire",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "471510",
+    "phone_number": "+91 99114 10147",
+    "website": "https://www.hindhire.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hind Hire, 471510, India",
+    "area": "471510",
+    "latitude": 24.0588239,
+    "longitude": 76.406086,
+    "place_id": "ChIJFQ-fRARz4gURNaf_hrN1oQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFQ-fRARz4gURNaf_hrN1oQc",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:04:02"
+  },
+  {
+    "business_name": "A D Infra - The Primeview Apartment",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Residents association",
+    "all_categories": "Residents association",
+    "pincode": "471510",
+    "phone_number": "N/A",
+    "website": "https://www.adinfra.co.in/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Plot no C-112, Street Number 8, DR Ambedkar Colony, Chhatarpur Enclave Phase 2, Chattarpur Enclave, New Delhi, Delhi 110074",
+    "area": "DR Ambedkar Colony, Chhatarpur Enclave Phase 2, Chattarpur Enclave, New Delhi",
+    "latitude": 28.5033866,
+    "longitude": 77.188053,
+    "place_id": "ChIJm0oW9PrhDDkRUg3XsogtPmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm0oW9PrhDDkRUg3XsogtPmM",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:04:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bukhariya Stores",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "472331",
+    "phone_number": "+91 96172 72858",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kasgar Ki Gali, near by Old Galla Mandi, Civil Line, Tikamgarh, Madhya Pradesh 472001",
+    "area": "Civil Line",
+    "latitude": 24.7448914,
+    "longitude": 78.8302842,
+    "place_id": "ChIJC87grdNPeDkRSbbTb46gsj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC87grdNPeDkRSbbTb46gsj4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:28:15"
+  },
+  {
+    "business_name": "रोहित किराना स्टोर",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "472331",
+    "phone_number": "+91 93015 70691",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "3RPQ+3WW, Chhipari, Madhya Pradesh 472331",
+    "area": "472331",
+    "latitude": 25.085247199999998,
+    "longitude": 78.83984269999999,
+    "place_id": "ChIJ-zJmHQAleDkRfvC1r2zGBIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-zJmHQAleDkRfvC1r2zGBIs",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:28:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KIRAN PHARMA",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "471515",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WH9Q+49H, Chowk Bazar Rd, Naya Mohalla, Chhatarpur, Madhya Pradesh 471001",
+    "area": "Naya Mohalla",
+    "latitude": 24.9178247,
+    "longitude": 79.58848359999999,
+    "place_id": "ChIJnevCrNiXgjkRDYP5q5brz-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnevCrNiXgjkRDYP5q5brz-c",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:04:49"
+  },
+  {
+    "business_name": "Rai PharmaCare",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store",
+    "pincode": "471515",
+    "phone_number": "+91 96509 65007",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "H No 9, G/f A - 1 Block, Block A1, Block G, Chhatarpur, New Delhi, Delhi 110074",
+    "area": "Block A1, Block G, Chhatarpur",
+    "latitude": 28.495073899999998,
+    "longitude": 77.18299669999999,
+    "place_id": "ChIJeTw4ewAfDTkRzBD1X7Rv7bA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeTw4ewAfDTkRzBD1X7Rv7bA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:04:49"
+  }
+]

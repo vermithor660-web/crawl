@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Techolic",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Insurance broker",
+    "pincode": "472246",
+    "phone_number": "+91 99642 55000",
+    "website": "https://www.techolic.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SCO 64-65, Sector 34A, Sector 34, Chandigarh, 160022",
+    "area": "Sector 34A, Sector 34",
+    "latitude": 30.723351599999997,
+    "longitude": 76.76605649999999,
+    "place_id": "ChIJoSa2w9jtDzkRGCWNGq3b7Ic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoSa2w9jtDzkRGCWNGq3b7Ic",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:27:51"
+  },
+  {
+    "business_name": "DEBRO FINANCE",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service, Insurance agency",
+    "pincode": "472246",
+    "phone_number": "+91 80116 45031",
+    "website": "https://debrofinance.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M.N, Mahanta Path, near Hotel Mohamaya, Chiring Chapori, Dibrugarh, Assam 786001",
+    "area": "Chiring Chapori",
+    "latitude": 27.469173599999998,
+    "longitude": 94.9029092,
+    "place_id": "ChIJ65Z9FuqZQDcR9USwYFy0_oY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65Z9FuqZQDcR9USwYFy0_oY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:27:52"
+  }
+]

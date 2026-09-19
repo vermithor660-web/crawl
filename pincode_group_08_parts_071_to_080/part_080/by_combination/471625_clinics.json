@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhurv Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic",
+    "pincode": "471625",
+    "phone_number": "+91 97556 74487",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Khajwa, Rajnagar, Madhya Pradesh 471625",
+    "area": "471625",
+    "latitude": 24.9254133,
+    "longitude": 79.9323868,
+    "place_id": "ChIJbYNtYHPngjkR97ctm5bGf8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbYNtYHPngjkR97ctm5bGf8Q",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:11:45"
+  },
+  {
+    "business_name": "Chitrakoot netra janch kendra & Optical Rajnagar khajuraho",
+    "search_category": "Clinics",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "471625",
+    "phone_number": "+91 96956 08415",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Rambag chauraha mahoba Road Thane k Bagal m, Parihar Market, Rajnagar, Madhya Pradesh 471625",
+    "area": "Parihar Market",
+    "latitude": 24.888009099999998,
+    "longitude": 79.9136731,
+    "place_id": "ChIJA832QaXpgjkRAAzx4B_M6Os",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA832QaXpgjkRAAzx4B_M6Os",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:11:45"
+  }
+]

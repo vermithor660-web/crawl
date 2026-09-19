@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cheesy Bites",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "471501",
+    "phone_number": "+91 97135 06065",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 164,
+    "address": "Shop Number twelve Adhartal Chaupati at Adhartal nagar nigam market, Adhartal, Jabalpur, Madhya Pradesh 482004",
+    "area": "Mansarovar Colony, Adhartal",
+    "latitude": 23.2010994,
+    "longitude": 79.9508197,
+    "place_id": "ChIJfW0lrBKvgTkR9gT6eqXVYeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfW0lrBKvgTkR9gT6eqXVYeY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:01:12"
+  },
+  {
+    "business_name": "RH Chicken Point (Riyaz Hotel 1953)",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant, Family restaurant, Fast food restaurant",
+    "pincode": "471501",
+    "phone_number": "+91 76949 13333",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3257,
+    "address": "44-A, Kingsway, Sadar Main Rd, opposite Garrison Ground, Sadar Bazar, Jabalpur, Madhya Pradesh 482001",
+    "area": "Sadar Bazar, Sadar",
+    "latitude": 23.154416299999998,
+    "longitude": 79.951056,
+    "place_id": "ChIJAQAAUBOugTkRxOAmFcT2aI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAUBOugTkRxOAmFcT2aI0",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:01:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TruHerbal wellness Pvt. Ltd.",
+    "search_category": "Wellness Center",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "471408",
+    "phone_number": "N/A",
+    "website": "http://truherbal.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "VJQC+MPC, Chandrapura, Chhatarpur, Madhya Pradesh 471001",
+    "area": "471408",
+    "latitude": 24.8891995,
+    "longitude": 79.62175479999999,
+    "place_id": "ChIJe38DSQCXgjkRpopom2wNRbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe38DSQCXgjkRpopom2wNRbg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:58:06"
+  },
+  {
+    "business_name": "medical",
+    "search_category": "Wellness Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "471408",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "VHPV+6HM, Satai Rd, Green Avenue Colony, Chhatarpur, Madhya Pradesh 471001",
+    "area": "Green Avenue Colony",
+    "latitude": 24.8855993,
+    "longitude": 79.5939318,
+    "place_id": "ChIJH4UIVQCXgjkRTMhux4U7M0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH4UIVQCXgjkRTMhux4U7M0Y",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:58:08"
+  }
+]

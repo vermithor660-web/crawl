@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janki communication",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Mobile phone repair shop",
+    "pincode": "471525",
+    "phone_number": "+91 88390 51414",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sher Chowk, near Laxmi Narayan Temple, Gandhi Ganj, Katni, Madhya Pradesh 483501",
+    "area": "Gandhi Ganj",
+    "latitude": 23.836180799999998,
+    "longitude": 80.3911188,
+    "place_id": "ChIJ0_hl6BFhgTkRaMjQlfKt0RQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0_hl6BFhgTkRaMjQlfKt0RQ",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:09:09"
+  },
+  {
+    "business_name": "Mobile Shop & repairing",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "471525",
+    "phone_number": "+91 97551 16549",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near by Airtel Office, Barigarh, Madhya Pradesh 471510",
+    "area": "471525",
+    "latitude": 25.2338702,
+    "longitude": 80.02372439999999,
+    "place_id": "ChIJy9F5Qa3VgjkR582MoHfm1h4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy9F5Qa3VgjkR582MoHfm1h4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:09:11"
+  }
+]

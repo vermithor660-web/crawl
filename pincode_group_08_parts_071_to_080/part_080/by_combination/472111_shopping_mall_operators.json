@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhartiya Mall Of Bengaluru",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "472111",
+    "phone_number": "+91 89519 54663",
+    "website": "https://bhartiyamallofbengaluru.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Bhartiya City, Thanisandra Main Rd, Bengaluru, Karnataka 560064",
+    "area": "Kannuru",
+    "latitude": 13.083428099999999,
+    "longitude": 77.64334579999999,
+    "place_id": "ChIJee_O5uYZrjsRYLOsndusPWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJee_O5uYZrjsRYLOsndusPWo",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:21:27"
+  },
+  {
+    "business_name": "Family Bazar",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "472111",
+    "phone_number": "+91 81154 49999",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Marhaya, Azamgarh, Uttar Pradesh 276001",
+    "area": "Marhaya",
+    "latitude": 26.049417199999997,
+    "longitude": 83.18027119999999,
+    "place_id": "ChIJ8ediLry8kTkRc8Nef0ZgP_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ediLry8kTkRc8Nef0ZgP_s",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:21:27"
+  }
+]

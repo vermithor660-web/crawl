@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SafarCabby",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Taxi service, Tour operator",
+    "pincode": "472118",
+    "phone_number": "+91 78777 70858",
+    "website": "https://www.safarcabby.com/",
+    "rating": 4.4,
+    "reviews_count": 19,
+    "address": "Block M3, Software, Sitapura Industrial Area, Sitapura, Jaipur, Rajasthan 302033",
+    "area": "Sitapura Industrial Area, Sitapura",
+    "latitude": 26.7889041,
+    "longitude": 75.82681409999999,
+    "place_id": "ChIJWTfee23JbTkR81-RHY5pJKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWTfee23JbTkR81-RHY5pJKM",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:23:44"
+  },
+  {
+    "business_name": "Amer Cab",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Service establishment",
+    "pincode": "472118",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Amer Cab, 472118, India",
+    "area": "472118",
+    "latitude": 39.830227,
+    "longitude": -75.0163694,
+    "place_id": "ChIJ4ajPvc3NxokRUVND5tRXRaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ajPvc3NxokRUVND5tRXRaQ",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:23:44"
+  }
+]

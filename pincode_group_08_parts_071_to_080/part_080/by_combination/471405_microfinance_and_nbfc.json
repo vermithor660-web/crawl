@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAS Financial Services Limited",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution, Car finance and loan company, Financial advisor, Loan agency, Mortgage lender",
+    "pincode": "471405",
+    "phone_number": "+91 1800 202 5555",
+    "website": "https://mas.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1st Floor, Om Sairam Complex, Nawgaon Road, Vishwanath Colony, Chhatarpur, Madhya Pradesh 471001",
+    "area": "Vishwanath Colony",
+    "latitude": 24.9288,
+    "longitude": 79.58019999999999,
+    "place_id": "ChIJIyeRCI69gjkRtm6XOpFnTdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIyeRCI69gjkRtm6XOpFnTdc",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:56:32"
+  },
+  {
+    "business_name": "HDFC Bank",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency",
+    "pincode": "471405",
+    "phone_number": "+91 1800 1601",
+    "website": "https://near-me.hdfcbank.com/branch-atm-locator/hdfc-bank-jawahar-road-savings-loans-jawahar-road-chhatarpur-36383/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bundelkhand Complex, Jawahar Rd, Near Jawahar Petrol Pump, Chetgiri Colony, Narayanpura, Chhatarpur, Madhya Pradesh 471001",
+    "area": "Near Jawahar Petrol Pump, Chetgiri Colony, Narayanpura",
+    "latitude": 24.9186385,
+    "longitude": 79.5837401,
+    "place_id": "ChIJGUFgPeyXgjkRwytDsvMfPVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUFgPeyXgjkRwytDsvMfPVc",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:56:32"
+  }
+]

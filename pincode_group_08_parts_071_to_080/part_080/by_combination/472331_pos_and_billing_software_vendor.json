@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji POS",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "472331",
+    "phone_number": "+91 80 4590 6699",
+    "website": "https://balajipos.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "K.D, N Path, near R.D Green Resort, Gosain Tola, Patliputra Colony, Patna, Bihar 800013",
+    "area": "Gosain Tola, Patliputra Colony",
+    "latitude": 25.6291023,
+    "longitude": 85.11534499999999,
+    "place_id": "ChIJ19hiITVZ7TkRrrXX97DuE2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ19hiITVZ7TkRrrXX97DuE2o",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:29:28"
+  },
+  {
+    "business_name": "Bharuwa Solutions Pvt. Ltd",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "472331",
+    "phone_number": "+91 70789 31188",
+    "website": "https://www.bharuwasolutions.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Technopolis IT Hub, C-56 A/12, near STELLAR IT PARK, C Block, Phase 2, Industrial Area, Sector 62, Noida, Uttar Pradesh 201301",
+    "area": "C Block, Phase 2, Industrial Area, Sector 62",
+    "latitude": 28.613758999999998,
+    "longitude": 77.3632097,
+    "place_id": "ChIJq6qqakHkDDkRaBuKilq1Erg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqakHkDDkRaBuKilq1Erg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:29:28"
+  }
+]

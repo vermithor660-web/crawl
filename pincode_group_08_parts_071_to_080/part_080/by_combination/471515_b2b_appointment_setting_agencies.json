@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Appointment cell",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Employment agency",
+    "all_categories": "Employment agency",
+    "pincode": "471515",
+    "phone_number": "+91 124 436 2181",
+    "website": "http://apcellinfotech.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shivam Complex, 302, opp. HUDA Office, Sector 14, Gurugram, Haryana 122007",
+    "area": "South City, Block C, Old DLF Colony, Sector 14",
+    "latitude": 28.4710868,
+    "longitude": 77.0454906,
+    "place_id": "ChIJwQw5ZK0ZDTkRlwY8m9ZawLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQw5ZK0ZDTkRlwY8m9ZawLg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:06:02"
+  },
+  {
+    "business_name": "Online work",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "471515",
+    "phone_number": "N/A",
+    "website": "https://invitemponline.blogspot.com/?m=1",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Satai Rd, Choubey Colony, Chhatarpur, Madhya Pradesh 471001",
+    "area": "Choubey Colony",
+    "latitude": 24.8877927,
+    "longitude": 79.5877982,
+    "place_id": "ChIJh42Enc-XgjkRZ6YgnCMTtYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh42Enc-XgjkRZ6YgnCMTtYc",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:06:03"
+  }
+]

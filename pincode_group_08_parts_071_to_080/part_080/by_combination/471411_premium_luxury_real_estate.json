@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Capital Luxury Estates",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial real estate agency, Real Estate Builders & Construction Company, Industrial real estate agency, Real estate rental agency",
+    "pincode": "471411",
+    "phone_number": "+91 80765 16890",
+    "website": "https://capital-luxury-estates.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Khasra no 365, Sultanpur Heart, near Avalon Country South, New Manglapuri, Sultanpur, New Delhi, Delhi 110030",
+    "area": "New Manglapuri, Sultanpur",
+    "latitude": 28.5017082,
+    "longitude": 77.1686921,
+    "place_id": "ChIJd1sDk85o5KAR4qGqOrKfo0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1sDk85o5KAR4qGqOrKfo0M",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:00:40"
+  },
+  {
+    "business_name": "RK infraestate",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company, Industrial real estate agency",
+    "pincode": "471411",
+    "phone_number": "+91 83683 05281",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C-156, DR Ambedkar Colony, Chhatarpur Enclave Phase 2, Chattarpur Enclave, Chhatarpur, New Delhi, Delhi 110074",
+    "area": "DR Ambedkar Colony, Chhatarpur Enclave Phase 2, Chattarpur Enclave, Chhatarpur",
+    "latitude": 28.503154199999997,
+    "longitude": 77.18657929999999,
+    "place_id": "ChIJO-k2_c0fDTkRl9YdPY9hhsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO-k2_c0fDTkRl9YdPY9hhsg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:00:40"
+  }
+]

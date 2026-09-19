@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kakka Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "472331",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kakka Departmental Store, Bamhaurikalan, Madhya Pradesh 472331",
+    "area": "472331",
+    "latitude": 25.1370848,
+    "longitude": 79.0883915,
+    "place_id": "ChIJzVePRjcZeDkRDv3cVcpSLEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzVePRjcZeDkRDv3cVcpSLEE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:28:14"
+  },
+  {
+    "business_name": "Kushwaha Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "472331",
+    "phone_number": "+91 78283 02129",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ke Pass, Shop No. 17, Lidhouratal, Mauranipur Rd, Chandera, Tigela, Jatara, Tikamgarh, Madhya Pradesh 472331",
+    "area": "Chandera, Tigela",
+    "latitude": 25.0375661,
+    "longitude": 79.06079799999999,
+    "place_id": "ChIJ-Zo61xMXeDkRsyAMOtmn5-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Zo61xMXeDkRsyAMOtmn5-Q",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:28:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apni Rasoi Dhaba & Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "471510",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "kabrai road mahoba, Tika Mau, Uttar Pradesh 210424",
+    "area": "471510",
+    "latitude": 25.345400299999998,
+    "longitude": 79.9476571,
+    "place_id": "ChIJCakjn0_NgjkRG5HXPS-gnSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCakjn0_NgjkRG5HXPS-gnSk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:02:49"
+  },
+  {
+    "business_name": "Guru Kripa Bhojnalay",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "471510",
+    "phone_number": "+91 62647 18840",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Bus Stand, Nowuan Road, Vishwanath Colony, Chhatarpur, Madhya Pradesh 471001",
+    "area": "Vishwanath Colony",
+    "latitude": 24.921054299999998,
+    "longitude": 79.583637,
+    "place_id": "ChIJUatjiGC9gjkRnrDjVOXhtIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUatjiGC9gjkRnrDjVOXhtIA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:02:50"
+  }
+]

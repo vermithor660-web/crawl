@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KASHI JEWELLERS",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "471411",
+    "phone_number": "+91 81099 20890",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Naya Mohalla, Chhatarpur, Madhya Pradesh 471001",
+    "area": "Naya Mohalla",
+    "latitude": 24.9196381,
+    "longitude": 79.5907843,
+    "place_id": "ChIJJ-c-WaeXgjkRwzxr5iL0POw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ-c-WaeXgjkRwzxr5iL0POw",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:59:20"
+  },
+  {
+    "business_name": "Kushma Wale",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "471411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2PG9+9V8, Chhatarpur, Madhya Pradesh 471501",
+    "area": "471411",
+    "latitude": 25.0259096,
+    "longitude": 79.71971479999999,
+    "place_id": "ChIJywW_yjS5gjkRkMt1xgGxLCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJywW_yjS5gjkRkMt1xgGxLCg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:59:20"
+  }
+]

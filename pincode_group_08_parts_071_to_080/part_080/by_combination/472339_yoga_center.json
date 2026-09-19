@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yogaastam",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "472339",
+    "phone_number": "+91 89230 87778",
+    "website": "http://yogaastham.com/",
+    "rating": 5,
+    "reviews_count": 186,
+    "address": "Haqikatnagar, Saharanpur, Uttar Pradesh 247001",
+    "area": "Haqikatnagar",
+    "latitude": 29.9475782,
+    "longitude": 77.5522861,
+    "place_id": "ChIJvdjHfGvrDjkRh33mQBbRg3A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvdjHfGvrDjkRh33mQBbRg3A",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:33:54"
+  },
+  {
+    "business_name": "Sambodhi Yoga House & Zen Centre",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Meditation center, Yoga Retreat Center",
+    "pincode": "472339",
+    "phone_number": "+91 93878 27235",
+    "website": "http://www.zenyoga.in/",
+    "rating": 5,
+    "reviews_count": 62,
+    "address": "Karumanchary, Ashramam ward, Avalookunnu P. O, Keralam 688006",
+    "area": "Mammood",
+    "latitude": 9.520298,
+    "longitude": 76.3355311,
+    "place_id": "ChIJ13FhB4-FCDsR1erqTv1cQLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ13FhB4-FCDsR1erqTv1cQLU",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:33:54"
+  }
+]

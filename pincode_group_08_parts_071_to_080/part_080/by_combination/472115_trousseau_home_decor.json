@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Home Decor Store",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Service establishment",
+    "pincode": "472115",
+    "phone_number": "N/A",
+    "website": "https://homedecor.store/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Home Decor Store, 472115, India",
+    "area": "472115",
+    "latitude": 25.441117799999997,
+    "longitude": 78.56228829999999,
+    "place_id": "ChIJi5JjH5qAamYRJ7CcRZBxeSA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi5JjH5qAamYRJ7CcRZBxeSA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:22:31"
+  },
+  {
+    "business_name": "रोशनी टैंट हाउस एवम् फ्लावर डेकोरेशन",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "472115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C2Q5+HF7, Bijaigarh, Uttar Pradesh 284205",
+    "area": "472115",
+    "latitude": 25.438921,
+    "longitude": 79.00871389999999,
+    "place_id": "ChIJ86twPwCTdzkRlU_81cxdFUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ86twPwCTdzkRlU_81cxdFUo",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:22:31"
+  }
+]

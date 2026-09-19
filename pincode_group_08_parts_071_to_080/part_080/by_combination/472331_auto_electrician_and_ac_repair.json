@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A1 Cool Point Car A/C & Electrical Works",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto radiator repair service",
+    "all_categories": "Auto radiator repair service, Mechanic",
+    "pincode": "472331",
+    "phone_number": "+91 89702 29688",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "324, Hulimangala Rd, near City choice, Shikaripalya, Electronic City, Hulimangala, Karnataka 560100",
+    "area": "Shikaripalya, Electronic City",
+    "latitude": 12.8326803,
+    "longitude": 77.6475648,
+    "place_id": "ChIJS-Y-LhBrrjsRxArH_MLUVuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS-Y-LhBrrjsRxArH_MLUVuQ",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:28:51"
+  },
+  {
+    "business_name": "Kooltech Car AC",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto electrical service",
+    "all_categories": "Auto electrical service, Air conditioning system supplier, Air filter supplier, Car repair and maintenance service, Auto parts store, Oil change service",
+    "pincode": "472331",
+    "phone_number": "+91 98102 48950",
+    "website": "http://kooltechonline.com/demo3/",
+    "rating": 3.4,
+    "reviews_count": 111,
+    "address": "5075, 5074, 5076, Desh Bandhu Gupta Rd, opp. Prehlad Market, Sant Nagar, Karol Bagh, New Delhi, Delhi 110005",
+    "area": "Sant Nagar, Krishna Nagar, Karol Bagh",
+    "latitude": 28.6543751,
+    "longitude": 77.1895558,
+    "place_id": "ChIJeUQhu5wCDTkRGi0pGzHNQwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeUQhu5wCDTkRGi0pGzHNQwc",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:28:52"
+  }
+]

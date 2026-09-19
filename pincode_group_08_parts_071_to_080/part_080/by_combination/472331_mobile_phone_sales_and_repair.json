@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Mobile Junction",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "472331",
+    "phone_number": "+91 62625 05556",
+    "website": "https://www.instagram.com/the_mobile_junction_tkg?igsh=Y3FqYTVzbTJzaDVp",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no. 01, Kile Ke Samne, Ghanta Ghar Ke Pass, Civil Line, Tikamgarh, Madhya Pradesh 472001",
+    "area": "Civil Line",
+    "latitude": 24.743530699999997,
+    "longitude": 78.8341129,
+    "place_id": "ChIJNfx_00RPeDkRZJbe3g-6bAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNfx_00RPeDkRZJbe3g-6bAQ",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:29:28"
+  },
+  {
+    "business_name": "Ambey Connect ( Bangra Branch ) - Maa Ambey Mobile Showroom",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "472331",
+    "phone_number": "+91 81141 12222",
+    "website": "https://ambeyconnect.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jhansi - Mauranipur Hwy, near Government Hospital, Bangra, Gairaha, Sewara, Uttar Pradesh 284205",
+    "area": "Bangra",
+    "latitude": 25.3122901,
+    "longitude": 79.0041833,
+    "place_id": "ChIJexLKxxqLdzkRiwiPU3TAi6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJexLKxxqLdzkRiwiPU3TAi6I",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:29:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homekart Realty",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent",
+    "pincode": "472111",
+    "phone_number": "+91 95351 55533",
+    "website": "https://homekartrealty.com/",
+    "rating": 4.9,
+    "reviews_count": 535,
+    "address": "417, 2nd Main, 5th Cross Rd, RBI Layout, JP Nagar 7th Phase, Bengaluru, Karnataka 560078",
+    "area": "Nagarabavi, RBI Layout, JP Nagar 7th Phase, J. P. Nagar",
+    "latitude": 12.890193,
+    "longitude": 77.5811846,
+    "place_id": "ChIJBcabFSkVrjsR7rX-xlpfl1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBcabFSkVrjsR7rX-xlpfl1M",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:21:13"
+  },
+  {
+    "business_name": "Home collection Realtors",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Real Estate Builders & Construction Company, Service establishment, Industrial real estate agency, Property management company",
+    "pincode": "472111",
+    "phone_number": "N/A",
+    "website": "https://homecollectionrealtors.com/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Home collection Realtors, 472111, India",
+    "area": "472111",
+    "latitude": 14.000466,
+    "longitude": 77.32599809999999,
+    "place_id": "ChIJqV-F0gXtrIYRcrv3I6y7E5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqV-F0gXtrIYRcrv3I6y7E5Y",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:21:13"
+  }
+]

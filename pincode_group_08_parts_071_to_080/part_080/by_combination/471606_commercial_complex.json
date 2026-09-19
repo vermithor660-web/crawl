@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dakghar 606",
+    "search_category": "Commercial Complex",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "471606",
+    "phone_number": "+91 93407 75185",
+    "website": "http://www.dakghar606.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "opposite : Shiv Sagar Lake, Sevagram, Khajuraho, Madhya Pradesh 471606",
+    "area": "Sevagram",
+    "latitude": 24.850966699999997,
+    "longitude": 79.923441,
+    "place_id": "ChIJOZ6A18zngjkRB-J6I85SgBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZ6A18zngjkRB-J6I85SgBM",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:11:17"
+  },
+  {
+    "business_name": "Jatadhari building material",
+    "search_category": "Commercial Complex",
+    "primary_category": "Building materials market",
+    "all_categories": "Building materials market",
+    "pincode": "471606",
+    "phone_number": "N/A",
+    "website": "https://www.jatadharibuildingmaterial.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rajapurva, Bamitha, Madhya Pradesh 471001",
+    "area": "Rajapurva",
+    "latitude": 24.7669247,
+    "longitude": 79.8785649,
+    "place_id": "ChIJZS3NFbnvgjkRq-_eX-jwQ5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZS3NFbnvgjkRq-_eX-jwQ5Y",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:11:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Jnaneshwari jewellery works",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith, Gold dealer",
+    "pincode": "472339",
+    "phone_number": "+91 99644 22664",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main road, Chikkajajur, Karnataka 577523",
+    "area": "472339",
+    "latitude": 14.127198799999999,
+    "longitude": 76.1408221,
+    "place_id": "ChIJw10BHPRpujsRLsLE2nV48ZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw10BHPRpujsRLsLE2nV48ZI",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:33:39"
+  },
+  {
+    "business_name": "New Laser Soldering",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "472339",
+    "phone_number": "+91 70527 29309",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Harvansh Gali, Diwan Dayaram, Maruf Katra, Gorakhpur, Uttar Pradesh 273005",
+    "area": "Diwan Dayaram, Maruf Katra",
+    "latitude": 26.744658599999998,
+    "longitude": 83.356043,
+    "place_id": "ChIJFYwEGYBFkTkRVgicDE7sRHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFYwEGYBFkTkRVgicDE7sRHc",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:33:43"
+  }
+]

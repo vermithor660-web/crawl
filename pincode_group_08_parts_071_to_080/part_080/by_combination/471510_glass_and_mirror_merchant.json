@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A-1 Glass Art",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass shop",
+    "all_categories": "Glass shop",
+    "pincode": "471510",
+    "phone_number": "+91 99116 25461",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Dr vikash shree vastav ke bagal se, Bada talav, Naya Mohalla, Chhatarpur, Madhya Pradesh 471001",
+    "area": "Naya Mohalla",
+    "latitude": 24.9081577,
+    "longitude": 79.59320079999999,
+    "place_id": "ChIJlb_8sYuXgjkRrGtm8gsFmgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlb_8sYuXgjkRrGtm8gsFmgM",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:03:26"
+  },
+  {
+    "business_name": "Indean glass house",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass shop",
+    "all_categories": "Glass shop",
+    "pincode": "471510",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WHGJ+5V7, Vishwanath Colony, Chhatarpur, Madhya Pradesh 471001",
+    "area": "Vishwanath Colony",
+    "latitude": 24.9254197,
+    "longitude": 79.58217979999999,
+    "place_id": "ChIJw580Awe9gjkRuRS694je5mE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw580Awe9gjkRuRS694je5mE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:03:26"
+  }
+]

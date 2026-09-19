@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "apollo TYRES",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "471515",
+    "phone_number": "+91 1800 212 7070",
+    "website": "https://www.apollotyres.com/en-in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5X2X+CMR, Mahoba Rd, Lavkush Nagar, Madhya Pradesh 471515",
+    "area": "471515",
+    "latitude": 25.151103499999998,
+    "longitude": 79.9991493,
+    "place_id": "ChIJA0Syx7DQgjkRkeBUD6NEhlg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA0Syx7DQgjkRkeBUD6NEhlg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:05:00"
+  },
+  {
+    "business_name": "PHD TYRE SERVICE",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "471515",
+    "phone_number": "+91 88731 65203",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 03, Fubbara Chauk, near Bus Stand, Naya Mohalla, Chhatarpur, Madhya Pradesh 471001",
+    "area": "Naya Mohalla",
+    "latitude": 24.9206893,
+    "longitude": 79.5843735,
+    "place_id": "ChIJa8EiAqG9gjkRQ2WdInpTprI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8EiAqG9gjkRQ2WdInpTprI",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:05:03"
+  }
+]

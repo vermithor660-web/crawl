@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shukla Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "471515",
+    "phone_number": "+91 73897 95269",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shukla Medical Store, Chhatarpur, Chandla, Bachhaun, Madhya Pradesh 471525",
+    "area": "Chhatarpur",
+    "latitude": 24.9831708,
+    "longitude": 80.09846999999999,
+    "place_id": "ChIJxZJxA3YggzkRe9oSJGijtn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZJxA3YggzkRe9oSJGijtn4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:04:55"
+  },
+  {
+    "business_name": "Delhi Meditech Medical Equipment on rent",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "471515",
+    "phone_number": "+91 98104 18874",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Naer purani Chaupal, H No -97, Kapoor Singh Rathi Building, behind Tivoli garden, Rajpur Khurd Village, Chhatarpur, New Delhi, Delhi 110068",
+    "area": "Rajpur Khurd Village, Chhatarpur",
+    "latitude": 28.4931304,
+    "longitude": 77.190107,
+    "place_id": "ChIJg76r9nofDTkRZnF-HU7IO5Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg76r9nofDTkRZnF-HU7IO5Q",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:04:57"
+  }
+]

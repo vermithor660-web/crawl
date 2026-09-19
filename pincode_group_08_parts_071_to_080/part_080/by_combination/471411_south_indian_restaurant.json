@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mr Dosa & Mrs Idli Fast Food Junction",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "471411",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/mr.dosa55?igsh=MW8xd2EyaTZkNW1vYg==&utm_source=qr",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "shop no. 55, Apollo cross road market, Gali Number 2, Chetgiri Colony, Narayanpura, Chhatarpur, Madhya Pradesh 471001",
+    "area": "Chetgiri Colony, Narayanpura",
+    "latitude": 24.9199277,
+    "longitude": 79.5827006,
+    "place_id": "ChIJVcSGsmq9gjkRMgnXea5KFKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVcSGsmq9gjkRMgnXea5KFKU",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:59:11"
+  },
+  {
+    "business_name": "Shrinath Food Cafe",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Cake shop, Fast food restaurant, Pizza restaurant, South Indian restaurant",
+    "pincode": "471411",
+    "phone_number": "+91 75187 06359",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 365,
+    "address": "Ram Katha Marg, near union bank, Makaniya Purva, Mahoba, Uttar Pradesh 210427",
+    "area": "Makaniya Purva",
+    "latitude": 25.296701,
+    "longitude": 79.8772709,
+    "place_id": "ChIJZbTEacTNgjkR7AMRLllL524",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbTEacTNgjkR7AMRLllL524",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 05:59:13"
+  }
+]
