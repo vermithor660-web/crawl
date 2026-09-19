@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shahi Pind - The Royal Taste of Punjab",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "465335",
+    "phone_number": "+91 89626 12121",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ayodhya Bypass Rd, K-Sector, Ayodhya Nagar, Bhopal, Madhya Pradesh 462010",
+    "area": "K-Sector, Ayodhya Nagar",
+    "latitude": 23.280710499999998,
+    "longitude": 77.4479702,
+    "place_id": "ChIJWyuf9pJpfDkRt0EcQ_bL4oY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWyuf9pJpfDkRt0EcQ_bL4oY",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:00:37"
+  },
+  {
+    "business_name": "Sri Balaji Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Restaurant",
+    "pincode": "465335",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "MRF.INDOFARM, MP SH 41, Shankar Nagar Colony, Shujalpur, Madhya Pradesh 465333",
+    "area": "Shankar Nagar Colony",
+    "latitude": 23.3868601,
+    "longitude": 76.7166768,
+    "place_id": "ChIJUwXhvbOkfDkRrv9E86FPGlI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUwXhvbOkfDkRrv9E86FPGlI",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:00:39"
+  }
+]

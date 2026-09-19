@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National hospital Shujalpur",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "465223",
+    "phone_number": "+91 73607 96344",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vijay Vatika Main Gate, near Railway Fatak, Free Ganj, Shujalpur, Madhya Pradesh 465333",
+    "area": "Free Ganj",
+    "latitude": 23.381529699999998,
+    "longitude": 76.7193422,
+    "place_id": "ChIJ34vBFIS7fDkR8mpMZqROuSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ34vBFIS7fDkR8mpMZqROuSo",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:51:36"
+  },
+  {
+    "business_name": "Batra Nursing Home Maternity & Fertility Centre",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "465223",
+    "phone_number": "+91 98290 23036",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "35 Sardar club scheme, Jodhpur, Rajasthan 342001",
+    "area": "465223",
+    "latitude": 26.2625663,
+    "longitude": 73.03636519999999,
+    "place_id": "ChIJ0cY0F2GMQTkRV8sABcgm8EQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0cY0F2GMQTkRV8sABcgm8EQ",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:51:38"
+  }
+]

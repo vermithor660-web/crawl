@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shreyansh Hair Saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "465230",
+    "phone_number": "+91 62631 81569",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "P294+FQ8, Agar, Madhya Pradesh 465441",
+    "area": "465230",
+    "latitude": 23.7186745,
+    "longitude": 76.0069424,
+    "place_id": "ChIJF-XkagCXZDkRVoi2VfWGh18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF-XkagCXZDkRVoi2VfWGh18",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:57:48"
+  },
+  {
+    "business_name": "SS Hair Salone",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "465230",
+    "phone_number": "+91 76103 06260",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Nalkheda, Malwa, Madhya Pradesh 465445",
+    "area": "465230",
+    "latitude": 23.8328371,
+    "longitude": 76.23220239999999,
+    "place_id": "ChIJYfNqmve5ZDkRL6hYbprwTKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYfNqmve5ZDkRL6hYbprwTKQ",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:57:51"
+  }
+]

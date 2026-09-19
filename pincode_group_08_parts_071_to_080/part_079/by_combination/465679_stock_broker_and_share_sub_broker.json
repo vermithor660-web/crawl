@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SC Financial Consulting",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Financial planner",
+    "all_categories": "Financial planner, Consultant, Service establishment, Investment service",
+    "pincode": "465679",
+    "phone_number": "N/A",
+    "website": "https://scfinancialconsulting.com/",
+    "rating": 5,
+    "reviews_count": 48,
+    "address": "SC Financial Consulting, 465679, India",
+    "area": "465679",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ_9X3njnlZzkRV4BuUY7SVSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_9X3njnlZzkRV4BuUY7SVSE",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:24:45"
+  },
+  {
+    "business_name": "Samraddhi Solutions",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service, Service establishment",
+    "pincode": "465679",
+    "phone_number": "+91 98931 65877",
+    "website": "https://samraddhisolution.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Samraddhi Solutions, 465679, India",
+    "area": "465679",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJB00yy9YhSIAR2low0hb_4aA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB00yy9YhSIAR2low0hb_4aA",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:24:45"
+  }
+]

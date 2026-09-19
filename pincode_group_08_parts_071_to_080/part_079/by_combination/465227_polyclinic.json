@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "paramarsh poly clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "465227",
+    "phone_number": "+91 98264 97919",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "baag kua tanki, hospital road, Syedwadi, Sarangpur, Madhya Pradesh 465697",
+    "area": "Syedwadi",
+    "latitude": 23.5688234,
+    "longitude": 76.4784744,
+    "place_id": "ChIJEexWmdpVezkRahN_hQSjn8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEexWmdpVezkRahN_hQSjn8s",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:55:39"
+  },
+  {
+    "business_name": "Apna poly clinic Adarsh Nagar",
+    "search_category": "Polyclinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "465227",
+    "phone_number": "+91 96857 99418",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Apna poly clinic Adarsh Nagar, Lehsun pyaj Mandi, near by Akodia Road, NKa, Sarangpur, Madhya Pradesh 465697",
+    "area": "NKa",
+    "latitude": 23.569755999999998,
+    "longitude": 76.47979699999999,
+    "place_id": "ChIJF8yZSgBVezkRPzimt3X9cKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8yZSgBVezkRPzimt3X9cKA",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:55:39"
+  }
+]

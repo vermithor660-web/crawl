@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vardhman Advisors",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Credit counseling service, Financial consultant, Financial planner, Investment service",
+    "pincode": "465335",
+    "phone_number": "+91 93281 33904",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "FF, Shop no 32, SHIVALAY RESIDENCY, Kudasan, Gandhinagar, Gujarat 382419",
+    "area": "Kudasan",
+    "latitude": 23.1786685,
+    "longitude": 72.62934589999999,
+    "place_id": "ChIJ6z06P0YrXDkRFN-l4330V1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6z06P0YrXDkRFN-l4330V1Y",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:01:48"
+  },
+  {
+    "business_name": "JPS Financial Consultancy",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency",
+    "pincode": "465335",
+    "phone_number": "+91 90990 61063",
+    "website": "https://jpsfinance.in/",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Girish Cold Drink, Office No. 305, Sarita Complex, Jain Temple Lane, Chimanlal Girdharlal Rd, Char Rasta, Ahmedabad, Gujarat 380006",
+    "area": "Char Rasta, Vasant Vihar, Navrangpura",
+    "latitude": 23.0334635,
+    "longitude": 72.5579983,
+    "place_id": "ChIJ0RON5oaFXjkRWSyiyt0pQ0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0RON5oaFXjkRWSyiyt0pQ0s",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:01:49"
+  }
+]

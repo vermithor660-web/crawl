@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ambika beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "465333",
+    "phone_number": "+91 99936 01777",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ashta Rd, in front of smart point, Free Ganj, Shujalpur, Madhya Pradesh 456333",
+    "area": "Free Ganj",
+    "latitude": 23.3781812,
+    "longitude": 76.722578,
+    "place_id": "ChIJpRe4zkq7fDkRcllDi9_iTnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpRe4zkq7fDkRcllDi9_iTnk",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:59:35"
+  },
+  {
+    "business_name": "Vanshika beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "465333",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Civil hospital, Shujalpur Mandi Rd, Shujalpur, Madhya Pradesh 465333",
+    "area": "465333",
+    "latitude": 23.4080661,
+    "longitude": 76.7083012,
+    "place_id": "ChIJHb_IagClfDkRDMCNgkKEoQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHb_IagClfDkRDMCNgkKEoQ8",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:59:35"
+  }
+]

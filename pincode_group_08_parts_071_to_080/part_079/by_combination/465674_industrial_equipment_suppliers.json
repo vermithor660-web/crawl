@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nandini enterprises",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Machine shop",
+    "all_categories": "Machine shop",
+    "pincode": "465674",
+    "phone_number": "+91 62657 79862",
+    "website": "https://www.machinewala.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "AGARWAL DHARMSHALA KE SAMNE, Old AB Rd, Biaora, Madhya Pradesh 465674",
+    "area": "465674",
+    "latitude": 23.918737699999998,
+    "longitude": 76.9096682,
+    "place_id": "ChIJMd4MZwNrezkR7v7R7Hrg2fk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMd4MZwNrezkR7v7R7Hrg2fk",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:21:25"
+  },
+  {
+    "business_name": "Maruti workshop and garage",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Machine shop",
+    "all_categories": "Machine shop",
+    "pincode": "465674",
+    "phone_number": "+91 82258 55737",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WV5R+R2G, Biaora, Madhya Pradesh 465674",
+    "area": "465674",
+    "latitude": 23.909561999999998,
+    "longitude": 76.8900735,
+    "place_id": "ChIJLaEADgBrezkR6jzMTaMTQqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLaEADgBrezkR6jzMTaMTQqA",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:21:25"
+  }
+]

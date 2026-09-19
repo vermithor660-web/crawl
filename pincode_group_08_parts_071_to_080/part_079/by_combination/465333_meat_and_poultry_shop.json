@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ettemad Agro Pvt Ltd.",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat wholesaler",
+    "all_categories": "Meat wholesaler, Chicken & Mutton Shop, Cold storage facility, Meat processor, Poultry farm, Seafood wholesaler",
+    "pincode": "465333",
+    "phone_number": "+91 96675 40557",
+    "website": "https://ettemadagro.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "417/20, near VIKAS MINAR, ITO, IP Estate, Delhi, 110002",
+    "area": "ITO, IP Estate",
+    "latitude": 28.627540699999997,
+    "longitude": 77.2437932,
+    "place_id": "ChIJJyPtJLP9DDkRRhxhokIzeFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJyPtJLP9DDkRRhxhokIzeFI",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:58:45"
+  },
+  {
+    "business_name": "The Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "465333",
+    "phone_number": "+91 11 2460 3560",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "9,Prithviraj Market, Khan Market, Rabindra Nagar, New Delhi, Delhi 110003",
+    "area": "Prithiviraj Market, Khan Market, Rabindra Nagar",
+    "latitude": 28.600444,
+    "longitude": 77.22592019999999,
+    "place_id": "ChIJGzjwzOniDDkR2V3APE094ew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGzjwzOniDDkR2V3APE094ew",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:58:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashirwad Krashi Seva Kendra",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service",
+    "pincode": "465667",
+    "phone_number": "+91 98260 79574",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, Narsinghgarh Road, Laskarpur, Madhya Pradesh 465669",
+    "area": "465667",
+    "latitude": 23.5782198,
+    "longitude": 77.0993414,
+    "place_id": "ChIJy5v55gWDfDkR7K-6KChmlkk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy5v55gWDfDkR7K-6KChmlkk",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:17:43"
+  },
+  {
+    "business_name": "Hippo Cleaning Service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "465667",
+    "phone_number": "+91 99744 55504",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "A17Shreenath ji society, Zadeshwar Rd, Sarweshwar Nagar Society, Zadeshwar, Bharuch, Gujarat 392011",
+    "area": "Sarweshwar Nagar Society, Zadeshwar",
+    "latitude": 21.7202387,
+    "longitude": 73.0327964,
+    "place_id": "ChIJhbrqUwsh4DsRP_tOhiS26M4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhbrqUwsh4DsRP_tOhiS26M4",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:17:45"
+  }
+]

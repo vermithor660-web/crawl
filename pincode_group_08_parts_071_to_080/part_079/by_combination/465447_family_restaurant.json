@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "shree madhav hotel and family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "465447",
+    "phone_number": "+91 78791 47460",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Modi square, near by wine shop, Susner, Madhya Pradesh 465447",
+    "area": "465447",
+    "latitude": 23.9507048,
+    "longitude": 76.1046654,
+    "place_id": "ChIJF9Ot_GnBZDkRGdV_qNu0Y9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF9Ot_GnBZDkRGdV_qNu0Y9g",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:09:32"
+  },
+  {
+    "business_name": "Shree krishna cafe and nashta point",
+    "search_category": "Family Restaurant",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant",
+    "pincode": "465447",
+    "phone_number": "+91 90982 07408",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "W3PJ+4FJ, Susner, Madhya Pradesh 465447",
+    "area": "465447",
+    "latitude": 23.9353302,
+    "longitude": 76.0811481,
+    "place_id": "ChIJ5yl_PADrZDkR3IntSF_67MY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5yl_PADrZDkR3IntSF_67MY",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:09:34"
+  }
+]

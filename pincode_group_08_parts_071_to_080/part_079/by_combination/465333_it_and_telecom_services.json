@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Mobile",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "465333",
+    "phone_number": "+91 97547 73529",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "548, Iklera, Madhya Pradesh 465680",
+    "area": "465333",
+    "latitude": 23.504547499999997,
+    "longitude": 76.809011,
+    "place_id": "ChIJYXMClFGhfDkR0p0UNf9hr-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYXMClFGhfDkR0p0UNf9hr-Q",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:00:00"
+  },
+  {
+    "business_name": "TFP Technologies",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "465333",
+    "phone_number": "+91 92384 61099",
+    "website": "https://www.tfptechnologies.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "3rd floor, RS tower, Circuit House Sq, Jeevan Jyoti Colony, Satna, Madhya Pradesh 485001",
+    "area": "Jeevan Jyoti Colony",
+    "latitude": 24.573952499999997,
+    "longitude": 80.8332046,
+    "place_id": "ChIJaeDUqzesXikRyrnf_UCWVn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaeDUqzesXikRyrnf_UCWVn8",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:00:00"
+  }
+]

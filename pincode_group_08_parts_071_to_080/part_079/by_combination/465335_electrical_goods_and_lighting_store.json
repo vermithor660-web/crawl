@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Emkay India",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "465335",
+    "phone_number": "+91 755 425 8406",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "5, Hamidia Rd, behind Manohar Dairy, Dangi Colony, Ghora Nakkas, Peer Gate Area, Bhopal, Madhya Pradesh 462001",
+    "area": "Dangi Colony, Ghora Nakkas, Peer Gate Area",
+    "latitude": 23.2638993,
+    "longitude": 77.4089812,
+    "place_id": "ChIJJymrwSRofDkRGse_1W73YNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJymrwSRofDkRGse_1W73YNg",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:01:10"
+  },
+  {
+    "business_name": "CHIRAG SALES",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Electric motor store, Electrical equipment supplier, Electrical products wholesaler, Industrial equipment supplier, Irrigation equipment supplier, Electrical supply store, Pipe supplier, Water Pump Supplier, Wire and cable supplier",
+    "pincode": "465335",
+    "phone_number": "+91 97704 55111",
+    "website": "https://www.chiragsales.net/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shah Building, 21, Hamidia Rd, Bal Vihar, Ibrahimganj, Bhopal, Madhya Pradesh 462001",
+    "area": "Bal Vihar, Ibrahimganj",
+    "latitude": 23.2654139,
+    "longitude": 77.40360749999999,
+    "place_id": "ChIJ01GTJD1ofDkRtV5Xueol_hM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01GTJD1ofDkRtV5Xueol_hM",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:01:11"
+  }
+]

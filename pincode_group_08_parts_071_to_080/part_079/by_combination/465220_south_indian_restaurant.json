@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramesh South Indian Masla Dosa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "465220",
+    "phone_number": "+91 78790 56247",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Ab Road, Laxmi Nagar, Shajapur, Madhya Pradesh 465001",
+    "area": "Laxmi Nagar",
+    "latitude": 23.4168664,
+    "longitude": 76.2718944,
+    "place_id": "ChIJ7UNcUKxRYzkRP7aktDW1oQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7UNcUKxRYzkRP7aktDW1oQ4",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:49:09"
+  },
+  {
+    "business_name": "Shakti South Indian Food",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Vegetarian restaurant",
+    "pincode": "465220",
+    "phone_number": "+91 74156 01937",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 1694,
+    "address": "Sonagiri, Bhopal, Madhya Pradesh 462022",
+    "area": "Sonagiri",
+    "latitude": 23.2502598,
+    "longitude": 77.4708498,
+    "place_id": "ChIJfSz_mvhBfDkRP5VYB9WekBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfSz_mvhBfDkRP5VYB9WekBQ",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:49:09"
+  }
+]

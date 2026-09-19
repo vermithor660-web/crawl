@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Exim Global",
+    "search_category": "EXIMS",
+    "primary_category": "Import export company",
+    "all_categories": "Import export company",
+    "pincode": "465226",
+    "phone_number": "+91 98925 99052",
+    "website": "http://eximglobal.in/",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "WRRM+2W3, D. N. Street, Mumbai, Maharashtra 400001",
+    "area": "Dhobi Talao, Chhatrapati Shivaji Terminus Area, Fort",
+    "latitude": 18.9400053,
+    "longitude": 72.8348061,
+    "place_id": "ChIJI6zlJtnR5zsRNjV6uxxunsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI6zlJtnR5zsRNjV6uxxunsE",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:55:00"
+  },
+  {
+    "business_name": "A S Exim",
+    "search_category": "EXIMS",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "465226",
+    "phone_number": "+91 82329 10912",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "67/17, Strand Rd, Jorabagan, Kolkata, West Bengal 700006",
+    "area": "Jorabagan",
+    "latitude": 22.5931061,
+    "longitude": 88.3529392,
+    "place_id": "ChIJNdS59a13AjoR49SGBPcWJLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNdS59a13AjoR49SGBPcWJLs",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:55:00"
+  }
+]

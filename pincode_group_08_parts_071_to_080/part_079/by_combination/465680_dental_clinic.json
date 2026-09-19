@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Urvashi Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "465680",
+    "phone_number": "+91 90097 79822",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Raod, Madhya Pradesh 465680",
+    "area": "465680",
+    "latitude": 23.5667126,
+    "longitude": 76.7296741,
+    "place_id": "ChIJ7chdfJ2nfDkRVOkFOZuqoqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7chdfJ2nfDkRVOkFOZuqoqE",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:25:30"
+  },
+  {
+    "business_name": "Dental Health Centre",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Hospital department",
+    "pincode": "465680",
+    "phone_number": "+91 94246 21050",
+    "website": "http://www.dentalhealthcentre.org/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opp.to police station, near old Bihari Hotel, Bargawan, Kanai, Madhya Pradesh 486892",
+    "area": "465680",
+    "latitude": 24.2004813,
+    "longitude": 82.44926869999999,
+    "place_id": "ChIJ94HmUElEjzkRMiZ541pDa7A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ94HmUElEjzkRMiZ541pDa7A",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:25:30"
+  }
+]

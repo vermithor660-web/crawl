@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arogya Mantra",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "465227",
+    "phone_number": "+91 89828 68418",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dream Home City, 360, Talani Road, Phoolpura, Madhya Pradesh 465697",
+    "area": "465227",
+    "latitude": 23.572675699999998,
+    "longitude": 76.4851863,
+    "place_id": "ChIJ98vZD3FVezkRwFwDiUprIuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ98vZD3FVezkRwFwDiUprIuc",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:56:07"
+  },
+  {
+    "business_name": "Relief Physiotherapy And Acupressure Clinic",
+    "search_category": "Therapy Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "465227",
+    "phone_number": "+91 98939 90900",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "New, Civil Hospital Road, Sarangpur, Madhya Pradesh 465697",
+    "area": "465227",
+    "latitude": 23.5704118,
+    "longitude": 76.4786701,
+    "place_id": "ChIJHeDs_z9VezkR_HhT9iu_64c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHeDs_z9VezkR_HhT9iu_64c",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:56:07"
+  }
+]

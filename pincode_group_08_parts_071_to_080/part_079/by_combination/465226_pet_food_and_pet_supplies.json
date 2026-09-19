@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vet Trilok Chouhan",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "465226",
+    "phone_number": "+91 89898 68328",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Shop No 11, Moman Badodia, Deori Mulla, Madhya Pradesh 465001",
+    "area": "465226",
+    "latitude": 23.5611346,
+    "longitude": 76.2847949,
+    "place_id": "ChIJSROeqHepZDkRsMdzQESdZdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSROeqHepZDkRsMdzQESdZdc",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:53:18"
+  },
+  {
+    "business_name": "Friendly Pet Needs Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Animal feed store, Pet store, Wholesaler",
+    "pincode": "465226",
+    "phone_number": "+91 89776 70208",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Community Hall, 17-1-375/A/7/1, opposite GHMC, Khalander Nagar, Owaisi Nagar, Hasnabad, Santosh Nagar, Hyderabad, Telangana 500059",
+    "area": "Khalander Nagar, Owaisi Nagar, Hasnabad, Santosh Nagar",
+    "latitude": 17.3452092,
+    "longitude": 78.50529399999999,
+    "place_id": "ChIJNUzfodmZyzsR9UG2f2c7bhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNUzfodmZyzsR9UG2f2c7bhk",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:53:20"
+  }
+]

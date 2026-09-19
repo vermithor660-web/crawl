@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hero MotoCorp",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop, Store",
+    "pincode": "465677",
+    "phone_number": "+91 94610 40125",
+    "website": "https://www.heromotocorp.com/en-in.html",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Rajgarh, Rajasthan 301408",
+    "area": "465677",
+    "latitude": 27.236360299999998,
+    "longitude": 76.61289359999999,
+    "place_id": "ChIJ3YrmrB59cjkRkwpNM9mfH0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3YrmrB59cjkRkwpNM9mfH0U",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:22:09"
+  },
+  {
+    "business_name": "Gayatri Motors",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "465677",
+    "phone_number": "+91 75662 17575",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 22,
+    "address": "0t, Agra - Mumbai Rd, bhojpuriya, Pachore, Madhya Pradesh 465683",
+    "area": "bhojpuriya",
+    "latitude": 23.7166858,
+    "longitude": 76.7332071,
+    "place_id": "ChIJvyD-B35bezkR4Dvgqb8jJfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvyD-B35bezkR4Dvgqb8jJfw",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:22:11"
+  }
+]

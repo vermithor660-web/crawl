@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dialysis Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "465333",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "RANA UDAY HOSPITAL, Bus Stand, Badiyakheri, Sehore, Madhya Pradesh 466001",
+    "area": "Badiyakheri",
+    "latitude": 23.200041799999997,
+    "longitude": 77.0886579,
+    "place_id": "ChIJORxPKWvzfDkRHngvQdjBkzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJORxPKWvzfDkRHngvQdjBkzY",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:59:10"
+  },
+  {
+    "business_name": "Eskag Sanjeevani Dialysis Unit Pathalgaon",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "465333",
+    "phone_number": "+91 1800 102 2294",
+    "website": "https://www.eskagsanjeevanidialysis.com/",
+    "rating": 5,
+    "reviews_count": 34,
+    "address": "COMMUNITY HEALTH CENTRE(CHC),PATHALGAON,DIST-JASHPUR,CHHATTISGARH ,PIN-4946118, Pathalgaon, Chhattisgarh 496118",
+    "area": "465333",
+    "latitude": 22.5564629,
+    "longitude": 83.46111169999999,
+    "place_id": "ChIJfZ_YKxD9iTkRt3JPJ30nMdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfZ_YKxD9iTkRt3JPJ30nMdc",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:59:12"
+  }
+]

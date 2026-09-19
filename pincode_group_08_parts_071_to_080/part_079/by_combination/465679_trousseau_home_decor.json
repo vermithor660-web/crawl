@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manglam Home Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store, Fabric wholesaler, Foam rubber producer, Mattress store, Wallpaper store, Window treatment store",
+    "pincode": "465679",
+    "phone_number": "+91 95751 45662",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 46,
+    "address": "Garoth, Madhya Pradesh 458880",
+    "area": "465679",
+    "latitude": 24.3385625,
+    "longitude": 75.6610625,
+    "place_id": "ChIJCdSUVAapZTkRiUqIEMHJkMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCdSUVAapZTkRiUqIEMHJkMY",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:24:26"
+  },
+  {
+    "business_name": "trousseautales",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "465679",
+    "phone_number": "+91 97791 47789",
+    "website": "https://trousseautales.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Radha kirpa, St No. 1, professor colony, Brahman Majra, Sirhind, Punjab 140406",
+    "area": "professor colony, Brahman Majra",
+    "latitude": 30.624739799999997,
+    "longitude": 76.3923133,
+    "place_id": "ChIJl3DBZQEfEDkRIhBbmNs6rpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl3DBZQEfEDkRIhBbmNs6rpQ",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:24:27"
+  }
+]

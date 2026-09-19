@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shankar Dry Fruits",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "465449",
+    "phone_number": "+91 88758 65807",
+    "website": "http://shankardryfruits.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "oppo. Pizza Hut, 11th C Rd, near Baba Ramdev Road, Sardarpura, Jodhpur, Rajasthan 342001",
+    "area": "Sardarpura",
+    "latitude": 26.2737983,
+    "longitude": 73.0076098,
+    "place_id": "ChIJZetGP-yNQTkRIwFvAlHgovQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZetGP-yNQTkRIwFvAlHgovQ",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:11:06"
+  },
+  {
+    "business_name": "Eswar Spices",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, General store, Spices Wholesaler",
+    "pincode": "465449",
+    "phone_number": "+91 99405 70305",
+    "website": "https://eswarspices.com/",
+    "rating": 4.9,
+    "reviews_count": 1249,
+    "address": "149, Audiappa Naicken St, kothawal bazaar, Kothwal Chavadi, George Town, Chennai, Tamil Nadu 600001",
+    "area": "kothawal bazaar, Kothwal Chavadi, George Town",
+    "latitude": 13.092241,
+    "longitude": 80.28318829999999,
+    "place_id": "ChIJOWq_VFdvUjoR2dM1hXb6NbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOWq_VFdvUjoR2dM1hXb6NbM",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:11:07"
+  }
+]

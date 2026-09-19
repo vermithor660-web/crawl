@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satkaar Restaurant Highway Treat",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Family restaurant",
+    "pincode": "465333",
+    "phone_number": "+91 79870 48917",
+    "website": "https://satkaarrestaurant.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "PLOT - KH NO.63, near SHRI RAM WARE HOUSE, Parwaliya Sadak, Bhopal, Madhya Pradesh 462030",
+    "area": "465333",
+    "latitude": 23.341719899999998,
+    "longitude": 77.26739769999999,
+    "place_id": "ChIJMzTDUABjfDkREsWdAlwZ1kI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMzTDUABjfDkREsWdAlwZ1kI",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:58:54"
+  },
+  {
+    "business_name": "Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "465333",
+    "phone_number": "+91 81033 18742",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shubashchandra Bose Chauraha, near old police station, Shankar Nagar Colony, Shujalpur, Madhya Pradesh 465333",
+    "area": "Shankar Nagar Colony",
+    "latitude": 23.388144099999998,
+    "longitude": 76.7162692,
+    "place_id": "ChIJtaz2wOelfDkRjZMPq3IWGlE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtaz2wOelfDkRjZMPq3IWGlE",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:58:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri rice mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "465230",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "P749+98X, Salhe Danda, Madhya Pradesh 481665",
+    "area": "465230",
+    "latitude": 22.705991299999997,
+    "longitude": 80.26836329999999,
+    "place_id": "ChIJSY1P-A_zgDkROvOYqL8tNhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSY1P-A_zgDkROvOYqL8tNhE",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:58:27"
+  },
+  {
+    "business_name": "Jai Maa Bhawani Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "465230",
+    "phone_number": "+91 93404 19085",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near khalsa dabha, maharajpur, Nandiya, Madhya Pradesh 481665",
+    "area": "465230",
+    "latitude": 22.584502399999998,
+    "longitude": 80.3479368,
+    "place_id": "ChIJpfWRX7WRgDkRz31S54p_YIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpfWRX7WRgDkRz31S54p_YIY",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:58:28"
+  }
+]

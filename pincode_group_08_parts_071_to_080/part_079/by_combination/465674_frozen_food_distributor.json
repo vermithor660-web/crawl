@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak Food Products",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "465674",
+    "phone_number": "+91 93737 73646",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 17,
+    "address": "Khalasi Ln, Mohan Nagar, Nagpur, Maharashtra 440001",
+    "area": "Mohan Nagar",
+    "latitude": 21.158887999999997,
+    "longitude": 79.084564,
+    "place_id": "ChIJW1MrsefA1DsRFkX6PbXUMJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1MrsefA1DsRFkX6PbXUMJs",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:19:55"
+  },
+  {
+    "business_name": "Hindam's Superfoods Bazpur",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "465674",
+    "phone_number": "+91 90457 93993",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Beria Road, near Sabzi Mandi, Bazpur, Uttarakhand 262401",
+    "area": "465674",
+    "latitude": 29.1614987,
+    "longitude": 79.1547202,
+    "place_id": "ChIJf-WyE5ZlCjkRW9O8gm1FNaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf-WyE5ZlCjkRW9O8gm1FNaU",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:19:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lovely Tent & Caterers, Roorkee",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Banquet hall, Event management company, Event planner, Event venue, Tent House Supplier, Wedding buffet, Wedding planner, Wedding service",
+    "pincode": "465441",
+    "phone_number": "+91 88818 38881",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 54,
+    "address": "Civil Lines, Roorkee, Uttarakhand 247667",
+    "area": "Civil Lines",
+    "latitude": 29.8743105,
+    "longitude": 77.8902118,
+    "place_id": "ChIJVVVVlXmzDjkRdiBj6Y_dhfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlXmzDjkRdiBj6Y_dhfk",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:06:47"
+  },
+  {
+    "business_name": "The Quisine",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Restaurant",
+    "pincode": "465441",
+    "phone_number": "+91 79921 32123",
+    "website": "https://thequisine.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "LIG 885, C Block, Shyam Nagar, Kanpur, Uttar Pradesh 208013",
+    "area": "C Block, Shyam Nagar",
+    "latitude": 26.4201563,
+    "longitude": 80.3626256,
+    "place_id": "ChIJR9HEIolHnDkR76ViklBTw1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR9HEIolHnDkR76ViklBTw1M",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:06:48"
+  }
+]

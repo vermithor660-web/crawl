@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DHALIWAL GROCERY STORE",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "465447",
+    "phone_number": "+91 88376 98376",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Main Road Market, Anandpur Rd, Gogon, Punjab 144527",
+    "area": "465447",
+    "latitude": 31.2053385,
+    "longitude": 76.17418219999999,
+    "place_id": "ChIJAXqDXwi_GjkRobosVo8veTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAXqDXwi_GjkRobosVo8veTU",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:09:24"
+  },
+  {
+    "business_name": "Bafna Bazaar",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Grocery delivery service, Shopping mall, Wholesale grocer",
+    "pincode": "465447",
+    "phone_number": "+91 80075 00783",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No 2, Bafna Bazaar, Agra - Mumbai Rd, near Union Bank, Laxmi Nagar, Panchavati, Amrutdham, Nashik, Maharashtra 422003",
+    "area": "Laxmi Nagar, Panchavati, Amrutdham",
+    "latitude": 20.0184,
+    "longitude": 73.82865149999999,
+    "place_id": "ChIJkUmWtm_q3TsRlxbJfJhVCP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkUmWtm_q3TsRlxbJfJhVCP8",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:09:24"
+  }
+]

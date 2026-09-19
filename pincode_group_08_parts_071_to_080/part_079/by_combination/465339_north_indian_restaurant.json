@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Evergreen Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Wedding planner",
+    "pincode": "465339",
+    "phone_number": "+91 87200 49496",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 676,
+    "address": "Bairagarh, Bhopal, Madhya Pradesh 462030",
+    "area": "Bairagarh",
+    "latitude": 23.2705,
+    "longitude": 77.3301439,
+    "place_id": "ChIJj49Sp3JnfDkR3JlOSLaf1fw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj49Sp3JnfDkR3JlOSLaf1fw",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:04:14"
+  },
+  {
+    "business_name": "Countryside Meadows Kolukhedi",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "465339",
+    "phone_number": "+91 77240 44980",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "773C+5C3, Kolukhedi, Sehore, Road, Kolu Khedi, Bhopal, Madhya Pradesh 462001",
+    "area": "Kolu Khedi",
+    "latitude": 23.251134399999998,
+    "longitude": 77.2713162,
+    "place_id": "ChIJyQV8onVhfDkRG49YF7RG_hU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyQV8onVhfDkRG49YF7RG_hU",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:04:16"
+  }
+]

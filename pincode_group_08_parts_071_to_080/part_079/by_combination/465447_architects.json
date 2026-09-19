@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Bala ji Kirana Store",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "465447",
+    "phone_number": "+91 77238 32053",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Badod, Gangapur, Madhya Pradesh 465447",
+    "area": "Badod",
+    "latitude": 23.872377099999998,
+    "longitude": 75.9977619,
+    "place_id": "ChIJyRmwztuVZDkRU4KrMxP-Ymo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyRmwztuVZDkRU4KrMxP-Ymo",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:10:08"
+  },
+  {
+    "business_name": "Arch Hub",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "465447",
+    "phone_number": "+91 87460 25407",
+    "website": "http://www.archhub.in/",
+    "rating": 4.9,
+    "reviews_count": 14,
+    "address": "26 Sector, Sector 26, Nava Nagar, Bagalkot, Karnataka 587103",
+    "area": "Sector 26, Nava Nagar",
+    "latitude": 16.1603721,
+    "longitude": 75.6583989,
+    "place_id": "ChIJc9LnMDJ5xzsRhpSXNH56_tU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc9LnMDJ5xzsRhpSXNH56_tU",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:10:10"
+  }
+]

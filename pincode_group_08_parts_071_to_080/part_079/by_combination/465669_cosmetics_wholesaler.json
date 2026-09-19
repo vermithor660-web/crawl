@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma sales agency",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler, Newspaper distribution service",
+    "pincode": "465669",
+    "phone_number": "+91 98260 25238",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "शेखर भवन ब्यावरा रोड़, Baradwari Rd, नाका, Narsinghgarh, Madhya Pradesh 465669",
+    "area": "नाका",
+    "latitude": 23.7117903,
+    "longitude": 77.0898149,
+    "place_id": "ChIJ0S5PMWJ7ezkRIT8L0jzaGOQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0S5PMWJ7ezkRIT8L0jzaGOQ",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:18:59"
+  },
+  {
+    "business_name": "Shreeji Cosmetics Wholesale",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler, Cosmetics industry, Cosmetics store, Jewelry store, Wholesaler",
+    "pincode": "465669",
+    "phone_number": "+91 63870 38154",
+    "website": "https://shreeji-cosmetics.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "124/442, B Block, Govind Nagar, Kanpur, Uttar Pradesh 208006",
+    "area": "B Block, Govind Nagar",
+    "latitude": 26.4493819,
+    "longitude": 80.305598,
+    "place_id": "ChIJG5v7iK1HnDkRFW5xKAY4otM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG5v7iK1HnDkRFW5xKAY4otM",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:19:00"
+  }
+]

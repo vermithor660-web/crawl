@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalantre Architects",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "465333",
+    "phone_number": "+91 98277 16987",
+    "website": "https://kalantrearch.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1693, Shastri Marg, next to Anil bros. petrolpump, Napier Town, Jabalpur, Madhya Pradesh 482001",
+    "area": "Napier Town",
+    "latitude": 23.162367999999997,
+    "longitude": 79.93071309999999,
+    "place_id": "ChIJOR1hQg6vgTkRPhRf2u0k2X8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOR1hQg6vgTkRPhRf2u0k2X8",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:59:31"
+  },
+  {
+    "business_name": "Shashank Choudhary Architects & Construction",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm, Architectural designer, Service establishment, Interior designer, Landscape architect",
+    "pincode": "465333",
+    "phone_number": "+91 70147 93678",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Shashank Choudhary Architects & Construction, 465333, India",
+    "area": "465333",
+    "latitude": 25.4166569,
+    "longitude": 74.4327163,
+    "place_id": "ChIJd1HncCzvZzkRyYLaL14VcZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1HncCzvZzkRyYLaL14VcZw",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:59:33"
+  }
+]

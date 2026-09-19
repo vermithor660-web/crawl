@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhi's Kitchen",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "465335",
+    "phone_number": "+91 78750 80630",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 794,
+    "address": "INDIRA GANDHI V.MANDIR, MUNDADA HEIGHTS SHOP NO - 2, beside SATYAM CONSTRUCTION, Amalner, Maharashtra 425401",
+    "area": "Patwari Colony",
+    "latitude": 21.038060899999998,
+    "longitude": 75.058155,
+    "place_id": "ChIJ87dRx_Qt2TsRyN_iYyeShbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ87dRx_Qt2TsRyN_iYyeShbc",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:00:40"
+  },
+  {
+    "business_name": "Satvik Bhog",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "465335",
+    "phone_number": "+91 96302 86122",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Main Road, beside old Union Bank, Dindori, Madhya Pradesh 481880",
+    "area": "465335",
+    "latitude": 22.9393496,
+    "longitude": 81.07873339999999,
+    "place_id": "ChIJq_OZtqY9hzkRKrexBE4-_Gw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq_OZtqY9hzkRKrexBE4-_Gw",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:00:41"
+  }
+]

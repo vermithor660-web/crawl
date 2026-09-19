@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fatafat Care",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Carpenter, Service establishment, HVAC contractor, Home health care service, Water purification company",
+    "pincode": "465677",
+    "phone_number": "+91 92175 26864",
+    "website": "https://fatafatcare.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Fatafat Care, 465677, India",
+    "area": "465677",
+    "latitude": 26.905487599999997,
+    "longitude": 76.1123513,
+    "place_id": "ChIJU3bS0DWhQQgR_CR7K3z1fc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU3bS0DWhQQgR_CR7K3z1fc4",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:22:23"
+  },
+  {
+    "business_name": "Ourkarigar",
+    "search_category": "Plumber",
+    "primary_category": "Electronic engineering service",
+    "all_categories": "Electronic engineering service",
+    "pincode": "465677",
+    "phone_number": "N/A",
+    "website": "https://ourkarigar.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ghoda Ghodi ka Naksha, pipri Krishna colony, Gwalior, Madhya Pradesh 474001",
+    "area": "pipri Krishna colony, New Payga Gudi",
+    "latitude": 26.1723312,
+    "longitude": 78.1421775,
+    "place_id": "ChIJuS3lTfjFdjkRq6ugPXfNtKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuS3lTfjFdjkRq6ugPXfNtKY",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:22:23"
+  }
+]

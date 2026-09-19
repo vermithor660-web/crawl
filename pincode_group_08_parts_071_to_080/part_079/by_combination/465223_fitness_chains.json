@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Sagar Fitness Point",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "465223",
+    "phone_number": "+91 62686 53980",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Balaji Kirana Ke Pass, Road, nearby Netaji School, Nalkheda, Kanad, Madhya Pradesh 465230",
+    "area": "465223",
+    "latitude": 23.6702394,
+    "longitude": 76.172415,
+    "place_id": "ChIJX87dv_ijZDkRrEAP7QYpsk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX87dv_ijZDkRrEAP7QYpsk8",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:51:44"
+  },
+  {
+    "business_name": "A.J Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "465223",
+    "phone_number": "+91 94073 33781",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 31,
+    "address": "Khirkiya, Madhya Pradesh 461441",
+    "area": "465223",
+    "latitude": 22.1650115,
+    "longitude": 76.8603378,
+    "place_id": "ChIJzVHiPV5hfTkRbexUGlORvqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzVHiPV5hfTkRbexUGlORvqY",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:51:44"
+  }
+]

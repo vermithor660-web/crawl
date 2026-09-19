@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prosper HR",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "465333",
+    "phone_number": "07714 753281",
+    "website": "http://www.prosperhr.co.uk/",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Prosper HR, 465333, India",
+    "area": "465333",
+    "latitude": 52.1966458,
+    "longitude": -1.7129965999999999,
+    "place_id": "ChIJb4rEEoE_tyoRypXAyYu13Fo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb4rEEoE_tyoRypXAyYu13Fo",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:00:04"
+  },
+  {
+    "business_name": "MP CAREER",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Employment agency",
+    "all_categories": "Employment agency",
+    "pincode": "465333",
+    "phone_number": "+91 755 400 7310",
+    "website": "https://mpcareer.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "799W+R6W, JK Rd, near Dr. Batra Clinic, Badabagh, Shahjahanabad, Bhopal, Madhya Pradesh 462001",
+    "area": "Badabagh, Shahjahanabad",
+    "latitude": 23.2696063,
+    "longitude": 77.39556689999999,
+    "place_id": "ChIJ-f___xNofDkRYEZkIgGjRig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-f___xNofDkRYEZkIgGjRig",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:00:05"
+  }
+]

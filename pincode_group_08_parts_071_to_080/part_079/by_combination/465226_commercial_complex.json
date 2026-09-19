@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Super Engineering Works",
+    "search_category": "Commercial Complex",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "465226",
+    "phone_number": "+91 83190 45369",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "kela complex, New, Mo, Mohan Babodiya, Madhya Pradesh 465226",
+    "area": "Mo",
+    "latitude": 23.6081988,
+    "longitude": 76.3389238,
+    "place_id": "ChIJb3yxljWpZDkR_43kcq-eEmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb3yxljWpZDkR_43kcq-eEmw",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:55:10"
+  },
+  {
+    "business_name": "Raj Computer (Mponline,CSC,And Kiosk Banking)",
+    "search_category": "Commercial Complex",
+    "primary_category": "Business banking service",
+    "all_categories": "Business banking service",
+    "pincode": "465226",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "kela complex, New, Mohan Babodiya, Madhya Pradesh 465226",
+    "area": "465226",
+    "latitude": 23.6081973,
+    "longitude": 76.3389246,
+    "place_id": "ChIJWRf3fgCpZDkR2M26dMDDKEo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWRf3fgCpZDkR2M26dMDDKEo",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:55:10"
+  }
+]

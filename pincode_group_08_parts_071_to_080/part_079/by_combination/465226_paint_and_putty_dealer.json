@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NOVELTY",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Wallpaper store",
+    "all_categories": "Wallpaper store, Marble supplier",
+    "pincode": "465226",
+    "phone_number": "+91 75810 66066",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "969, AB Rd, Bijalpur, Indore, Madhya Pradesh 452012",
+    "area": "Bijalpur",
+    "latitude": 22.6680581,
+    "longitude": 75.8305225,
+    "place_id": "ChIJQxwKAAb9YjkReSsMWxpTuHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQxwKAAb9YjkReSsMWxpTuHU",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:54:04"
+  },
+  {
+    "business_name": "Vishwas Hardware Stores (Juni Indore)",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "465226",
+    "phone_number": "+91 731 420 1283",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "19, Jabaran Colony, Juni Indore, Indore, Madhya Pradesh 452007",
+    "area": "Juni Indore",
+    "latitude": 22.707930899999997,
+    "longitude": 75.8594032,
+    "place_id": "ChIJsTZWPgr-YjkRpmRwLtGqJnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsTZWPgr-YjkRpmRwLtGqJnQ",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 08:54:05"
+  }
+]

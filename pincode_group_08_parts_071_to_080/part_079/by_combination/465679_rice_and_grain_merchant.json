@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kisankaka Foods",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill, Food Processing Company",
+    "pincode": "465679",
+    "phone_number": "+91 99025 48142",
+    "website": "https://www.kisankaka.com/",
+    "rating": 5,
+    "reviews_count": 222,
+    "address": "Shop No. G20, Ground floor, AUM ARCADE, Sy. 27/5 & 27/6, Doddamara road Rayasandra, Huskur Post, Anekal, Rayasandra, Karnataka 560099",
+    "area": "Gattahalli",
+    "latitude": 12.8806043,
+    "longitude": 77.6867908,
+    "place_id": "ChIJwXl92BptrjsRsnpCr43ZRHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwXl92BptrjsRsnpCr43ZRHY",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:23:26"
+  },
+  {
+    "business_name": "Aapoorti Super Store",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "465679",
+    "phone_number": "+91 755 422 3286",
+    "website": "http://www.aapoorti.com/",
+    "rating": 3.8,
+    "reviews_count": 944,
+    "address": "Gangotri Complex, Bhadbhada Rd, near RangMahal talkies, New Market, STT Nagar, TT Nagar, Bhopal, Madhya Pradesh 462003",
+    "area": "New Market, STT Nagar, TT Nagar",
+    "latitude": 23.2346298,
+    "longitude": 77.3982661,
+    "place_id": "ChIJO4XJ-SVofDkRjJyqy0hcVSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO4XJ-SVofDkRjJyqy0hcVSY",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:23:26"
+  }
+]

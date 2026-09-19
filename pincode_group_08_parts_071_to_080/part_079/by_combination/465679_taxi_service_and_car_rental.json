@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jitu Patel Driver Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "465679",
+    "phone_number": "+91 97557 06999",
+    "website": "https://jitupatel.online/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Bombay Hospital, Harshdeep Avenue, 106, Square, Chikitsak Nagar, Indore, Madhya Pradesh 452010",
+    "area": "Chikitsak Nagar",
+    "latitude": 22.7540029,
+    "longitude": 75.9054482,
+    "place_id": "ChIJjV14nyYdYzkRt5kAmJvTHmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjV14nyYdYzkRt5kAmJvTHmE",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:24:00"
+  },
+  {
+    "business_name": "Shree Vijaylaxmi Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Bus tour agency, Car leasing service, Car rental agency, Minibus taxi service, Tour agency, Tour operator, Railway Ticket Agent, Travel agency, Van rental agency",
+    "pincode": "465679",
+    "phone_number": "+91 98270 12132",
+    "website": "http://shreevijaylaxmitravels.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Kalyan Vishranti Grah 6-A, near Yashwant plaza, opposite Railway Station Road, Flim Colony, Chhoti Gwaltoli, Indore, Madhya Pradesh 452001",
+    "area": "Flim Colony, Chhoti Gwaltoli",
+    "latitude": 22.7181996,
+    "longitude": 75.8694113,
+    "place_id": "ChIJAQAAQBb9YjkR18TkkvqljZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAQBb9YjkR18TkkvqljZg",
+    "part_id": "part_079",
+    "crawled_at": "2026-09-19 09:24:00"
+  }
+]
