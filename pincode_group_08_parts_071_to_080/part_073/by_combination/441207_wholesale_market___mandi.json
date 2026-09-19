@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganj market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "441207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Jal Nagar Ward, Bazar Ward, Chandrapur, Maharashtra 442402",
+    "area": "Jal Nagar Ward, Bazar Ward",
+    "latitude": 19.9519017,
+    "longitude": 79.3002242,
+    "place_id": "ChIJ5wIBqOnV0jsRMnGhPaezN7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5wIBqOnV0jsRMnGhPaezN7g",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:56:26"
+  },
+  {
+    "business_name": "Devanshu Traders",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "441207",
+    "phone_number": "+91 86697 74434",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hill Top Chowk, Sindewahi, Maharashtra 441222",
+    "area": "441207",
+    "latitude": 20.284355899999998,
+    "longitude": 79.6576784,
+    "place_id": "ChIJw-I9Q6HDLDoRDBmFeH4yHD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-I9Q6HDLDoRDBmFeH4yHD8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:56:29"
+  }
+]

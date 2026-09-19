@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "District Industries Centre",
+    "search_category": "Industrial Estate / GIDC / MIDC / SIPCOT",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "441209",
+    "phone_number": "+91 7132 299 082",
+    "website": "https://maha-cmegp.gov.in/homepage",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "5XCH+632, Police Quarters, Gadchiroli, Maharashtra 442605",
+    "area": "Police Quarters",
+    "latitude": 20.1705045,
+    "longitude": 79.97765179999999,
+    "place_id": "ChIJqfcEqNv7LDoR4UUOVdjeCKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfcEqNv7LDoR4UUOVdjeCKw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:59:46"
+  },
+  {
+    "business_name": "Jaika Motors",
+    "search_category": "Industrial Estate / GIDC / MIDC / SIPCOT",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "441209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 11,
+    "address": "52H4+V5X, Chamorshi Rd, Ashirwad Nagar, Gadchiroli, Maharashtra 442605",
+    "area": "Ashirwad Nagar",
+    "latitude": 20.179839299999998,
+    "longitude": 80.0055223,
+    "place_id": "ChIJyZtG_Nb7LDoRmxyLQ2V2kKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZtG_Nb7LDoRmxyLQ2V2kKU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:59:47"
+  }
+]

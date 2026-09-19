@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba Daily Needs & Kirana",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "441906",
+    "phone_number": "+91 96235 97328",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1, Kesalwada, Maharashtra 441904",
+    "area": "441906",
+    "latitude": 21.190872199999998,
+    "longitude": 79.6501755,
+    "place_id": "ChIJE0t54kA5KzoRusSRdRLIuYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE0t54kA5KzoRusSRdRLIuYA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:08:37"
+  },
+  {
+    "business_name": "Wanjari provision and kirana store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "441906",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Unnamed Road, Ambedkar Ward, Rajasva Nagar, Ganeshpur, Maharashtra 441904",
+    "area": "Ambedkar Ward, Rajasva Nagar",
+    "latitude": 21.1498213,
+    "longitude": 79.64365289999999,
+    "place_id": "ChIJARdHYQBHKzoRYs3SErvvjx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJARdHYQBHKzoRYs3SErvvjx4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:08:38"
+  }
+]

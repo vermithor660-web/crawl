@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gyan Dhara Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "441301",
+    "phone_number": "+91 97020 48450",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Shop no.1, Near C.H.M. College main Gate, station road Ulhasnagar (w, Maharashtra 421002",
+    "area": "Yashwant Colony",
+    "latitude": 19.2195127,
+    "longitude": 73.1625832,
+    "place_id": "ChIJQWZCC2mU5zsR-qpGLvGfywY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQWZCC2mU5zsR-qpGLvGfywY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:21:49"
+  },
+  {
+    "business_name": "Shabda Book Store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Library",
+    "pincode": "441301",
+    "phone_number": "+91 80079 73535",
+    "website": "https://shabdabooks.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop no-4, Sopandev Building, opp. Sonigara Landmark, Kaspate Wasti, Wakad, Pune, Pimpri-Chinchwad, Maharashtra 411057",
+    "area": "Kaspate Wasti, Wakad",
+    "latitude": 18.5960389,
+    "longitude": 73.7730277,
+    "place_id": "ChIJj6SZ8RS5wjsRdsEwjlDanc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj6SZ8RS5wjsRdsEwjlDanc8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:21:49"
+  }
+]

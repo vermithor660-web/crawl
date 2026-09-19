@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goli Vadapav No. 1",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fast food restaurant",
+    "pincode": "441224",
+    "phone_number": "+91 22 6689 5000",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 302,
+    "address": "Located in, Raghuvanshi Complex, Main Road, near Azad Garden, Bazar Ward, Chandrapur, Maharashtra 442402",
+    "area": "Bazar Ward",
+    "latitude": 19.9506785,
+    "longitude": 79.2963419,
+    "place_id": "ChIJPTUpxC7U0jsRqAr8ZdWbTIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPTUpxC7U0jsRqAr8ZdWbTIg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:13:46"
+  },
+  {
+    "business_name": "Mumbai chains shop",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant",
+    "pincode": "441224",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2/AA/188, Balaji Ward, Bazar Ward, Chandrapur, Maharashtra 442402",
+    "area": "Balaji Ward, Bazar Ward",
+    "latitude": 19.9472479,
+    "longitude": 79.2945742,
+    "place_id": "ChIJm2xOZADV0jsRRc-dzm1mUfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm2xOZADV0jsRRc-dzm1mUfA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:13:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Bamleshwari Autoparts",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "441901",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mahakali Petrol Pump, Risama, Amgaon, Maharashtra 441902",
+    "area": "Risama",
+    "latitude": 21.3665545,
+    "longitude": 80.3728245,
+    "place_id": "ChIJo4fwNAC5KzoR0WW3RuFzDeA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4fwNAC5KzoR0WW3RuFzDeA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:00:33"
+  },
+  {
+    "business_name": "Vinayak car ac and auto electrician",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto air conditioning service",
+    "all_categories": "Auto air conditioning service",
+    "pincode": "441901",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "5864+C23, Borsi Colony, Borsi, Bhilai, Chhattisgarh 491001",
+    "area": "Borsi Colony",
+    "latitude": 21.1610379,
+    "longitude": 81.3050128,
+    "place_id": "ChIJIal3QQA9KToRDg-Ho9KdVY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIal3QQA9KToRDg-Ho9KdVY0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:00:34"
+  }
+]

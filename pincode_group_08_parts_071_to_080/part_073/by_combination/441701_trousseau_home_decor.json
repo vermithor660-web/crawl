@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Decor villa",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Curtain store",
+    "all_categories": "Curtain store",
+    "pincode": "441701",
+    "phone_number": "+91 94217 15388",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "F53X+VWG, Govindpur Rd, Shastri Ward, Old Gondia, Gondia, Maharashtra 441601",
+    "area": "Shastri Ward, Old Gondia",
+    "latitude": 21.4546986,
+    "longitude": 80.1998376,
+    "place_id": "ChIJe25lIQCvKzoRIhrCH0H8cPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe25lIQCvKzoRIhrCH0H8cPk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:43:21"
+  },
+  {
+    "business_name": "Sisodiya Home Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "441701",
+    "phone_number": "+91 99225 48597",
+    "website": "https://sisodiya-home-decor.netlify.app/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shamji Petrol Pump, Satana Rd, Valmik Nagar, Soygaon, Malegaon, Maharashtra 423203",
+    "area": "Valmik Nagar, Soygaon",
+    "latitude": 20.549001,
+    "longitude": 74.51048999999999,
+    "place_id": "ChIJk616cACZ3jsRUHXJ-Z2AKRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk616cACZ3jsRUHXJ-Z2AKRk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:43:22"
+  }
+]

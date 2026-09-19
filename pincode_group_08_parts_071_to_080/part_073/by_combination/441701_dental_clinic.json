@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nimisha Dental Care",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "441701",
+    "phone_number": "+91 94059 87101",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Morgaon, Maharashtra 441701",
+    "area": "441701",
+    "latitude": 20.8179226,
+    "longitude": 80.0395205,
+    "place_id": "ChIJfR-j0-p_KzoRj5uMZCZj3Vo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfR-j0-p_KzoRj5uMZCZj3Vo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:42:42"
+  },
+  {
+    "business_name": "Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "441701",
+    "phone_number": "+91 86986 08913",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dabna Rd, Nagpur, Arjuni, Maharashtra 441701",
+    "area": "441701",
+    "latitude": 20.822023599999998,
+    "longitude": 80.0241013,
+    "place_id": "ChIJUWfVSYZ_KzoR9NdqOBZ88Bg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUWfVSYZ_KzoR9NdqOBZ88Bg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:42:42"
+  }
+]

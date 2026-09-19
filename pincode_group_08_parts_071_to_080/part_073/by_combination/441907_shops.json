@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naresh Pan Shop",
+    "search_category": "Shops",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "441907",
+    "phone_number": "+91 97641 10315",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Pawnarkhari, GPM5 H78, Pawanar khari, Maharashtra 441907",
+    "area": "441907",
+    "latitude": 21.534048,
+    "longitude": 79.7083025,
+    "place_id": "ChIJHYciCu8hKzoRvsNAhrqwrMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHYciCu8hKzoRvsNAhrqwrMg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:12:05"
+  },
+  {
+    "business_name": "MOIL Work Shop",
+    "search_category": "Shops",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "441907",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 28,
+    "address": "GMVQ+P3M, Balapur Hamesha, Maharashtra 441907",
+    "area": "441907",
+    "latitude": 21.5443325,
+    "longitude": 79.6876681,
+    "place_id": "ChIJS9g4unvfKjoR2EcUDjaFabY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS9g4unvfKjoR2EcUDjaFabY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:12:06"
+  }
+]

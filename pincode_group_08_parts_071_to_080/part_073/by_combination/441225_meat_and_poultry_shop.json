@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SSRN POULTRY FARM",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry store",
+    "all_categories": "Poultry store, Egg supplier, Poultry farm",
+    "pincode": "441225",
+    "phone_number": "+91 75887 64902",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Banglow No7, Raj Nagar, Oppo. Sahara Park, Aarwat Road, Pathanpura Gate, Maharashtra 442402",
+    "area": "441225",
+    "latitude": 19.9277454,
+    "longitude": 79.2828031,
+    "place_id": "ChIJDyzgjWLX0jsRevbIIGO4LIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDyzgjWLX0jsRevbIIGO4LIk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:15:24"
+  },
+  {
+    "business_name": "Manlaxmi poultries",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "441225",
+    "phone_number": "+91 97670 76475",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "behind tukdoji putla, Shengaon, Chandrapur, Maharashtra 442505",
+    "area": "441225",
+    "latitude": 19.9386959,
+    "longitude": 79.1661407,
+    "place_id": "ChIJRz5g8mLZ0jsRIqXQ6Bnh_R8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRz5g8mLZ0jsRIqXQ6Bnh_R8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:15:24"
+  }
+]

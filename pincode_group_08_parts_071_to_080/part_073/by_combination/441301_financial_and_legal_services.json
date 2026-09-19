@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MitraMoney",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service",
+    "pincode": "441301",
+    "phone_number": "+91 77020 83123",
+    "website": "https://mitra.money/",
+    "rating": 5,
+    "reviews_count": 45,
+    "address": "Block8, 902, My Home Vihanga, Financial District, Hyderabad, Telangana 500075",
+    "area": "Financial District, Kokapet",
+    "latitude": 17.4049121,
+    "longitude": 78.3308149,
+    "place_id": "ChIJccr1qUmVyzsRr6ExMiKRW6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJccr1qUmVyzsRr6ExMiKRW6M",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:22:03"
+  },
+  {
+    "business_name": "Omega Financial",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution, Investment company, Investment service",
+    "pincode": "441301",
+    "phone_number": "+91 90190 08100",
+    "website": "https://www.omegafinancial.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "No - 93 A, Omega Financial, Plot No - 02, Block, Nehru Nagar East, Bhilai, Chhattisgarh 490020",
+    "area": "Nehru Nagar East",
+    "latitude": 21.208057999999998,
+    "longitude": 81.3304411,
+    "place_id": "ChIJMUiYuCc9KToRh6q5z1625zI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMUiYuCc9KToRh6q5z1625zI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:22:03"
+  }
+]

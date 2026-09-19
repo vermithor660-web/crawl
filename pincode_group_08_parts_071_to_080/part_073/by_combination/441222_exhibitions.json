@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prasanna Celebration",
+    "search_category": "Exhibitions",
+    "primary_category": "Garden",
+    "all_categories": "Garden",
+    "pincode": "441222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "5X7F+CM2, Navegaon, Maharashtra 442605",
+    "area": "Navegaon",
+    "latitude": 20.1637617,
+    "longitude": 79.9742085,
+    "place_id": "ChIJ45cL-S37LDoRFr24yGPuAiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ45cL-S37LDoRFr24yGPuAiI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:11:43"
+  },
+  {
+    "business_name": "Indira Nagar",
+    "search_category": "Exhibitions",
+    "primary_category": "Village hall",
+    "all_categories": "Village hall, Park",
+    "pincode": "441222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "123, Upper Indira Nagar, Kukadheti, Naleshwar, Maharashtra 441222",
+    "area": "Upper Indira Nagar",
+    "latitude": 20.2313992,
+    "longitude": 79.5993419,
+    "place_id": "ChIJwSTcMADFLDoRSnH9LK2kMHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwSTcMADFLDoRSnH9LK2kMHM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:11:43"
+  }
+]

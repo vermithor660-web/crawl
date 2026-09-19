@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Wakar Husan",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "441501",
+    "phone_number": "+91 94221 22446",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No 8, Sadar, Nagpur, Maharashtra 440001",
+    "area": "Sadar",
+    "latitude": 21.161018199999997,
+    "longitude": 79.0794044,
+    "place_id": "ChIJizbkh3m_1DsRamIzVSN_0Sc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJizbkh3m_1DsRamIzVSN_0Sc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:35:36"
+  },
+  {
+    "business_name": "GLOBAL ENT HOSPITAL",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Head and neck surgeon",
+    "pincode": "441501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Kolwadkar Clinic building, 15, Wardha Rd, Ramdaspeth, Nagpur, Maharashtra 440012",
+    "area": "Ramdaspeth",
+    "latitude": 21.136091699999998,
+    "longitude": 79.0782947,
+    "place_id": "ChIJt-Bfb6HB1DsROeXhg-bD5-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt-Bfb6HB1DsROeXhg-bD5-E",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:35:37"
+  }
+]

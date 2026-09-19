@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian trading corporation",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store",
+    "pincode": "441224",
+    "phone_number": "+91 83800 70549",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "sanjay gandhi market, Civil Lines, Chandrapur, Maharashtra 442401",
+    "area": "Civil Lines",
+    "latitude": 19.9646588,
+    "longitude": 79.29440699999999,
+    "place_id": "ChIJaSk0jNvV0jsRgBlkzBVWcUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaSk0jNvV0jsRgBlkzBVWcUc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:14:16"
+  },
+  {
+    "business_name": "Sai Traders",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store",
+    "pincode": "441224",
+    "phone_number": "+91 94228 35248",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "Sarai Market, Jatpura Gate Road, Chandrapur, Maharashtra 442401",
+    "area": "Civil Lines",
+    "latitude": 19.9585257,
+    "longitude": 79.29566679999999,
+    "place_id": "ChIJzSK3EyvU0jsRXNi_H7pHJg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzSK3EyvU0jsRXNi_H7pHJg8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:14:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditya Food Services Company",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Hotel supply store",
+    "pincode": "441223",
+    "phone_number": "+91 88619 99800",
+    "website": "http://www.afsc.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "46/4, infront of COTTAFE LOAF STREET Byrathi Village, Hobli, near Shobha super market, Kanakashree Layout, Bidarahalli, Bengaluru, Karnataka 560077",
+    "area": "Byrathi, Rammana Layout, Kanakashree Layout",
+    "latitude": 13.0552615,
+    "longitude": 77.6535899,
+    "place_id": "ChIJgZD9cxIXrjsRgVklOKx9IGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZD9cxIXrjsRgVklOKx9IGU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:11:58"
+  },
+  {
+    "business_name": "Wholesale Foods Enterprises",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen dessert supplier",
+    "all_categories": "Frozen dessert supplier",
+    "pincode": "441223",
+    "phone_number": "+91 87006 26780",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "P-95 Gali No-8, North West, Prem Nagar II, Kirari Suleman Nagar, Delhi, 110086",
+    "area": "Block V, Prem Nagar II, Kirari Suleman Nagar",
+    "latitude": 28.6960186,
+    "longitude": 77.0556749,
+    "place_id": "ChIJgcTQRb8FDTkRoHTv-2A-Wks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgcTQRb8FDTkRoHTv-2A-Wks",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:11:59"
+  }
+]

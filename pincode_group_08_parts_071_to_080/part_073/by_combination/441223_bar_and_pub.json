@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "97 bar & restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "441223",
+    "phone_number": "+91 75071 30245",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "C99F+R5, Kolara, Maharashtra 442903",
+    "area": "441223",
+    "latitude": 20.4195009,
+    "longitude": 79.3729709,
+    "place_id": "ChIJZaVeGgBL0zsRwtcBMCJ-jAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZaVeGgBL0zsRwtcBMCJ-jAY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:12:05"
+  },
+  {
+    "business_name": "KATKAMWAR BEER SHOPY",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "441223",
+    "phone_number": "+91 94217 21774",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Bazar Chowk, Sindewahi, Maharashtra 441222",
+    "area": "441223",
+    "latitude": 20.2870143,
+    "longitude": 79.65472749999999,
+    "place_id": "ChIJq3npj-_DLDoR1p5rpDvfPps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq3npj-_DLDoR1p5rpDvfPps",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:12:06"
+  }
+]

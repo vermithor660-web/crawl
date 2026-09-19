@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Advertising Agency",
+    "search_category": "PPC Advertising Agencies",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Marketing agency",
+    "pincode": "441206",
+    "phone_number": "+91 97569 65058",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Alankar Palace, B-17, near Shankar Ashram, Yogi Vihar Colony, Model Colony, Jwalapur, Haridwar, Uttarakhand 249407",
+    "area": "Yogi Vihar Colony, Model Colony",
+    "latitude": 29.930377999999997,
+    "longitude": 78.12813,
+    "place_id": "ChIJgWtieyRJCTkRtS0xiyUU6uc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgWtieyRJCTkRtS0xiyUU6uc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:54:41"
+  },
+  {
+    "business_name": "That PPC Guy",
+    "search_category": "PPC Advertising Agencies",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Service establishment, Marketing agency",
+    "pincode": "441206",
+    "phone_number": "N/A",
+    "website": "http://thatppcguy.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "That PPC Guy, 441206, India",
+    "area": "441206",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJOVwrczlcCU0RF7oOP8XXkhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOVwrczlcCU0RF7oOP8XXkhE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:54:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahate ta chiki",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "441404",
+    "phone_number": "+91 90216 76443",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "66JJ+6X4, Pipari - Khalasna Rd, Dharam Nagar, Kanhan, Maharashtra 441401",
+    "area": "Dharam Nagar",
+    "latitude": 21.2305042,
+    "longitude": 79.23246089999999,
+    "place_id": "ChIJhd9NXjTP1DsRhmiBDPENp2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhd9NXjTP1DsRhmiBDPENp2Q",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:34:36"
+  },
+  {
+    "business_name": "Kanhan",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance Agent",
+    "all_categories": "Insurance Agent",
+    "pincode": "441404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Maharashtra",
+    "area": "441404",
+    "latitude": 21.2294227,
+    "longitude": 79.2367653,
+    "place_id": "ChIJ6QrpCi7P1DsRQdYajHcKKHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6QrpCi7P1DsRQdYajHcKKHU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:34:38"
+  }
+]

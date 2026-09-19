@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Ranat Bhawar",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "441904",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 257,
+    "address": "Vidarbha Housing Board Colony, MSEB Colony, Ganeshpur, Maharashtra 441904",
+    "area": "Vidarbha Housing Board Colony, MSEB Colony",
+    "latitude": 21.1572627,
+    "longitude": 79.645653,
+    "place_id": "ChIJy7sqDKo4KzoR2GN-Ee8PjTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy7sqDKo4KzoR2GN-Ee8PjTs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:06:11"
+  },
+  {
+    "business_name": "HOTEL OMS ROYAL PLAZA",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "441904",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NO. 6, NATIONAL HIGHWAY, beside HONDA SHOWROOM, Sainath Nagar, Teachers Colony, Ashrafi Nagar, Bhandara, Ganeshpur, Maharashtra 441904",
+    "area": "Sainath Nagar, Teachers Colony, Ashrafi Nagar",
+    "latitude": 21.1575146,
+    "longitude": 79.6400431,
+    "place_id": "ChIJhX932B85KzoRDc-3ZOtVmFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhX932B85KzoRDc-3ZOtVmFA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:06:11"
+  }
+]

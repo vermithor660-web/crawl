@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Borkar Care Hospital, nagpur Road",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "441222",
+    "phone_number": "+91 95523 31563",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Sindewahi, Maharashtra 441222",
+    "area": "441222",
+    "latitude": 20.2953644,
+    "longitude": 79.6584555,
+    "place_id": "ChIJAwAA-fDDLDoR3YFx-fZ4YoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwAA-fDDLDoR3YFx-fZ4YoU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:10:36"
+  },
+  {
+    "business_name": "Bhukte Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "441222",
+    "phone_number": "+91 7172 252 553",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 52,
+    "address": "Salve Colony, C/1/2943, Mul Rd, behind bhawanji bhai high school, D.G.Tukum, Swastik Nagar, Tukum, Chandrapur, Maharashtra 442401",
+    "area": "D.G.Tukum, Swastik Nagar, Tukum",
+    "latitude": 19.969223799999998,
+    "longitude": 79.3027753,
+    "place_id": "ChIJWU_Q6s_V0jsRS56X8PYoWzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWU_Q6s_V0jsRS56X8PYoWzQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:10:37"
+  }
+]

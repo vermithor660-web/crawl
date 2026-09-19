@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Harshal Meshram",
+    "search_category": "Dialysis Center",
+    "primary_category": "Urologist",
+    "all_categories": "Urologist",
+    "pincode": "441904",
+    "phone_number": "+91 91724 92616",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ground Floor, Shivarpan Tower, Rajiv Gandhi Square, Madhav Nagar, Bhandara, Ganeshpur, Maharashtra 441904",
+    "area": "Madhav Nagar",
+    "latitude": 21.164077499999998,
+    "longitude": 79.64711659999999,
+    "place_id": "ChIJifgKYIk5KzoR41NU2Jc35a0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJifgKYIk5KzoR41NU2Jc35a0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:05:37"
+  },
+  {
+    "business_name": "Dada Shambhu Dialysis Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "441904",
+    "phone_number": "+91 98111 37042",
+    "website": "https://dsdialysiscenter.com/",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "C-141, Jail Rd, Shiv Nagar Extension, Fateh Nagar, New Delhi, Delhi, 110058",
+    "area": "Shiv Nagar Extension, Fateh Nagar",
+    "latitude": 28.630455599999998,
+    "longitude": 77.0992454,
+    "place_id": "ChIJ6dHyjGYFDTkRhVk_cy549Ws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6dHyjGYFDTkRhVk_cy549Ws",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:05:39"
+  }
+]

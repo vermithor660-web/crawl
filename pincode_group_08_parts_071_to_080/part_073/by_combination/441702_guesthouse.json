@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dormitory House",
+    "search_category": "Guesthouse",
+    "primary_category": "Holiday apartment rental",
+    "all_categories": "Holiday apartment rental",
+    "pincode": "441702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "W484+FW, Nawegaon Bandh, Maharashtra 441702",
+    "area": "441702",
+    "latitude": 20.9161875,
+    "longitude": 80.10731249999999,
+    "place_id": "ChIJw-nbFgCDKzoRLhkiy-mf-S0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-nbFgCDKzoRLhkiy-mf-S0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:45:06"
+  },
+  {
+    "business_name": "Triwar Traders",
+    "search_category": "Guesthouse",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "441702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "V366+G95, Kumbhitola, Maharashtra 441702",
+    "area": "441702",
+    "latitude": 20.8612553,
+    "longitude": 80.0609812,
+    "place_id": "ChIJZdTN8QR_KzoRrgwf3r93kLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZdTN8QR_KzoRrgwf3r93kLs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:45:06"
+  }
+]

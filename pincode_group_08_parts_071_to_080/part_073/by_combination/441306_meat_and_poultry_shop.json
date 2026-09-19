@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashok Chicken Center",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant, Chicken shop",
+    "pincode": "441306",
+    "phone_number": "+91 93706 44517",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 43,
+    "address": "Railway Crossing, Hingna Rd, Durga Nagar, S R P Camp, Digdoh, Maharashtra 440036",
+    "area": "Durga Nagar, S R P Camp",
+    "latitude": 21.116562899999998,
+    "longitude": 79.01345959999999,
+    "place_id": "ChIJa65TVVOV1DsRdkpiK0FfLQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa65TVVOV1DsRdkpiK0FfLQQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:29:29"
+  },
+  {
+    "business_name": "Gawran komdi form house Singarkheda",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "441306",
+    "phone_number": "N/A",
+    "website": "https://youtube.com/@Babycheck1?si=pSdwccKWQ2_ZbeO8",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Singarkheda, Maharashtra 441306",
+    "area": "441306",
+    "latitude": 21.381728199999998,
+    "longitude": 78.5534289,
+    "place_id": "ChIJFedqALZT1DsRmgaQtD9jr2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFedqALZT1DsRmgaQtD9jr2U",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:29:31"
+  }
+]

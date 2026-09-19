@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Upstox",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "441903",
+    "phone_number": "+91 22 4179 2999",
+    "website": "http://upstox.com/",
+    "rating": 3.8,
+    "reviews_count": 1372,
+    "address": "30th Floor, Sunshine Tower, Senapati Bapat Marg, Dadar (W), Mumbai, Maharashtra 400013",
+    "area": "Dadar West",
+    "latitude": 19.0111955,
+    "longitude": 72.83741189999999,
+    "place_id": "ChIJ5RBhjO3I5zsRthilWO2dy10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5RBhjO3I5zsRthilWO2dy10",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:04:47"
+  },
+  {
+    "business_name": "stock broker",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Finance broker",
+    "all_categories": "Finance broker, Service establishment",
+    "pincode": "441903",
+    "phone_number": "+91 99876 00513",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "stock broker, 441903, India",
+    "area": "441903",
+    "latitude": 19.4075864,
+    "longitude": 72.8569419,
+    "place_id": "ChIJGc7EiYspwYIRip1v__tTZAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGc7EiYspwYIRip1v__tTZAk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:04:47"
+  }
+]

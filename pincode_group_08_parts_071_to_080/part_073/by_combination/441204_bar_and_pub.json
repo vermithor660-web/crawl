@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aathvan Bar and Restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "441204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shankarpur Velahari Rd, Harishchandra, vedahari, Wela harichandra, Maharashtra 441108",
+    "area": "Harishchandra",
+    "latitude": 21.0520286,
+    "longitude": 79.0852034,
+    "place_id": "ChIJKZYqDQC_1DsR-qybRZji6r4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKZYqDQC_1DsR-qybRZji6r4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:49:41"
+  },
+  {
+    "business_name": "CHANAKYA BAR & RESTAURANT",
+    "search_category": "Bar and Pub",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "441204",
+    "phone_number": "+91 93991 02956",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 33,
+    "address": "Hudkeshwar Rd, Swagat Nagar, Kadu Nagar, old Huskeshwar Naka, Nagpur, Maharashtra 440034",
+    "area": "Swagat Nagar, Kadu Nagar, old Huskeshwar Naka",
+    "latitude": 21.0973012,
+    "longitude": 79.1223452,
+    "place_id": "ChIJbxuQIvK51DsRP0pYKQvfuZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbxuQIvK51DsRP0pYKQvfuZA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:49:44"
+  }
+]

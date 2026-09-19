@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saguna Feed Agency",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "441804",
+    "phone_number": "+91 94221 30775",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "5MH2+GXW, Shivaji Ward, Bhandara, Maharashtra 441904",
+    "area": "Shivaji Ward",
+    "latitude": 21.178857999999998,
+    "longitude": 79.6524421,
+    "place_id": "ChIJHTK6bZw_KzoRQQRwM5ME7CQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHTK6bZw_KzoRQQRwM5ME7CQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:51:11"
+  },
+  {
+    "business_name": "ANANT PASHU AAHAR KENDRA",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "441804",
+    "phone_number": "+91 94228 30013",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ambadi, Maharashtra 441924",
+    "area": "441804",
+    "latitude": 21.1258066,
+    "longitude": 79.6698569,
+    "place_id": "ChIJiTD1C3ZBKzoR8HQzvfQyoBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiTD1C3ZBKzoR8HQzvfQyoBs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:51:11"
+  }
+]

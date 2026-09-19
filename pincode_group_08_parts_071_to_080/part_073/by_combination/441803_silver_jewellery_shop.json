@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Jewellers Lakhandur",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "441803",
+    "phone_number": "+91 77440 12698",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "New Administrative Building, Near, Sakoli Road, MSEB Colony, Lakhandur, Maharashtra 441803",
+    "area": "MSEB Colony",
+    "latitude": 20.759525999999997,
+    "longitude": 79.88225,
+    "place_id": "ChIJ8ftxeLedLDoRavs8QKU6UoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ftxeLedLDoRavs8QKU6UoM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:49:35"
+  },
+  {
+    "business_name": "PNG Jewellers - Satara - Powai Naka",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "441803",
+    "phone_number": "+91 77670 04193",
+    "website": "https://www.pngjewellers.com/pages/png-jewellers-satara-powai-naka",
+    "rating": 4.9,
+    "reviews_count": 4384,
+    "address": "CTS No 173, A/B, Rajpath Rd Shankar Kamal Heights, opposite Janata Sahakari Bank, kesarkar peth, Satara, Maharashtra 415001",
+    "area": "kesarkar peth, Guruwar Peth",
+    "latitude": 17.6866663,
+    "longitude": 74.0046313,
+    "place_id": "ChIJXylhI9k5wjsRnjaA1FGdvkc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXylhI9k5wjsRnjaA1FGdvkc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:49:37"
+  }
+]

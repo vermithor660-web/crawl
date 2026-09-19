@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Commerce Academy",
+    "search_category": "Commerce and CA Coaching",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "441212",
+    "phone_number": "+91 73857 85600",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 36,
+    "address": "Khan Chamber, Kasturba Rd, near Hindi City High School, Bazar Ward, Chandrapur, Maharashtra 442402",
+    "area": "Bazar Ward",
+    "latitude": 19.9503521,
+    "longitude": 79.2975745,
+    "place_id": "ChIJiXrIgFDV0jsRQLHPAtzTUV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiXrIgFDV0jsRQLHPAtzTUV0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:02:43"
+  },
+  {
+    "business_name": "ASK Traders",
+    "search_category": "Commerce and CA Coaching",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer networking service, Computer service, Data recovery service, Security system installation service, Security system supplier",
+    "pincode": "441212",
+    "phone_number": "+91 99758 28478",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Tadoba Rd, near Khatri College, Arihant Nagar, Tukum, Chandrapur, Maharashtra 442401",
+    "area": "Arihant Nagar, Tukum",
+    "latitude": 19.9849239,
+    "longitude": 79.3001716,
+    "place_id": "ChIJlRrzyufV0jsRDprcP0XiA6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlRrzyufV0jsRDprcP0XiA6U",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:02:43"
+  }
+]

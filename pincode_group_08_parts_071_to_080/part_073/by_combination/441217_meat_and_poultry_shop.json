@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kosgai Agro Farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service, Organic farm, Poultry farm",
+    "pincode": "441217",
+    "phone_number": "+91 62666 26700",
+    "website": "http://www.kosgaiagrofarm.in/",
+    "rating": 4.6,
+    "reviews_count": 19,
+    "address": "Katghora, Korba, Chhattisgarh 495450",
+    "area": "441217",
+    "latitude": 22.4323434,
+    "longitude": 82.6725759,
+    "place_id": "ChIJx_NliO6JJzoRqTB2uh3PMfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx_NliO6JJzoRqTB2uh3PMfA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:06:50"
+  },
+  {
+    "business_name": "Maharashtra Poultry Traders",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "441217",
+    "phone_number": "+91 99222 14343",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "MXVP+VM5, Unnamed Road, Nafees Bagh, Dahigaon Gawande, Akola, Maharashtra 444002",
+    "area": "Nafees Bagh, Dahigaon Gawande",
+    "latitude": 20.6946445,
+    "longitude": 76.9867191,
+    "place_id": "ChIJ_-QiSCAx1zsRB9drhy4i0zk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_-QiSCAx1zsRB9drhy4i0zk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:06:50"
+  }
+]

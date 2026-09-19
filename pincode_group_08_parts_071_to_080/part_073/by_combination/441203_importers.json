@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "J. R. Enterprises",
+    "search_category": "Importers",
+    "primary_category": "Pharmaceutical Products Wholesaler",
+    "all_categories": "Pharmaceutical Products Wholesaler",
+    "pincode": "441203",
+    "phone_number": "+91 80 4895 8737",
+    "website": "http://www.jrenterprisesonline.com/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "BLOCK “A” 2ND FLOOR, JAMAL CAPITAL, Central Ave, near RAJAWADA PALACE, Ganjipeth, C.A, Gandhibagh, Nagpur, Maharashtra 440018",
+    "area": "Ganjipeth, C.A, Gandhibagh",
+    "latitude": 21.1490945,
+    "longitude": 79.0984288,
+    "place_id": "ChIJSS4lvsjA1DsRdnQOC32ahCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSS4lvsjA1DsRdnQOC32ahCA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:49:15"
+  },
+  {
+    "business_name": "Girdhar Automobiles",
+    "search_category": "Importers",
+    "primary_category": "Tractor repair shop",
+    "all_categories": "Tractor repair shop",
+    "pincode": "441203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "rahate lay out, Parsodi, Maharashtra 441203",
+    "area": "Parsodi, Adyalwale Layout",
+    "latitude": 20.8406271,
+    "longitude": 79.3275613,
+    "place_id": "ChIJYTVa3uqr1DsR9uaXKbtHF2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYTVa3uqr1DsR9uaXKbtHF2k",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:49:17"
+  }
+]

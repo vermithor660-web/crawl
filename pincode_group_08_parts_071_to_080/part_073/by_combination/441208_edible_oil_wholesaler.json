@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramchandra Traders",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "441208",
+    "phone_number": "+91 80077 64626",
+    "website": "https://ramchandra.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "985, Teli Khunt Rd, near powerhouse, Sarjepura city, Ahilyanagar, Maharashtra 414001",
+    "area": "Sarjepura city",
+    "latitude": 19.097342599999998,
+    "longitude": 74.7382818,
+    "place_id": "ChIJA_uu6WOw3DsRzZcS1dbjDVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_uu6WOw3DsRzZcS1dbjDVY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:56:32"
+  },
+  {
+    "business_name": "SIMAV NATURALS PRIVATE LTD",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Manufacturer",
+    "pincode": "441208",
+    "phone_number": "+91 77218 50725",
+    "website": "http://simavnaturals.com/",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "Plot no b, 89, Midc, Mudhalwadi, Maharashtra 431148",
+    "area": "441208",
+    "latitude": 19.539673399999998,
+    "longitude": 75.3861927,
+    "place_id": "ChIJAQAAAH8S2zsRxF4ZLa2HXXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAH8S2zsRxF4ZLa2HXXs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:56:33"
+  }
+]

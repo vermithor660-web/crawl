@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Orchid's Florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "441210",
+    "phone_number": "+91 92465 33434",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Door No: 9-1-7-83, 84, Sardar Patel Road Next to Coorporation Bank Opp Metro Piller no SPGP26, Secunderabad, Telangana 500003",
+    "area": "Regimental Bazaar, Shivaji Nagar",
+    "latitude": 17.4422182,
+    "longitude": 78.5047314,
+    "place_id": "ChIJ1dH76uKbyzsRRcRrRi5y-SQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1dH76uKbyzsRRcRrRi5y-SQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:00:49"
+  },
+  {
+    "business_name": "Shree Nakoda Discount Gallery",
+    "search_category": "Flower Decorator",
+    "primary_category": "Artificial plant supplier",
+    "all_categories": "Artificial plant supplier, Bonsai plant supplier, Ceramic manufacturer, Gift shop, Home goods store, Party store, Silk plant shop, Stone carving, Turf supplier, Wallpaper store",
+    "pincode": "441210",
+    "phone_number": "+91 88199 13277",
+    "website": "https://citybazaronline.com/indore/shree-nakoda-discount-gallery-2563",
+    "rating": 3.8,
+    "reviews_count": 180,
+    "address": "Bangali Square, 2 Fa Scheme No 94 Ring Road, Service Rd, Pipliyahana Square, Before, Indore, Madhya Pradesh 452016",
+    "area": "Pipliyahana Square, Before, Scheme 94 Sector FB",
+    "latitude": 22.7133727,
+    "longitude": 75.9061505,
+    "place_id": "ChIJPcot_FEdYzkRl_dVJCPx4dE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPcot_FEdYzkRl_dVJCPx4dE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:00:51"
+  }
+]

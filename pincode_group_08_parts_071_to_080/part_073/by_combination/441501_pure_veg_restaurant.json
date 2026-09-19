@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Dhaba And Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Restaurant",
+    "pincode": "441501",
+    "phone_number": "+91 98239 24422",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Katol Rd, near Radhaswami satsangKalmeshwar, Kalmeshwar, Dahegaon, Maharashtra 441501",
+    "area": "Kalmeshwar",
+    "latitude": 21.2132068,
+    "longitude": 78.952427,
+    "place_id": "ChIJEY7lRWfp1DsRZPCOlS7Bfco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEY7lRWfp1DsRZPCOlS7Bfco",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:35:10"
+  },
+  {
+    "business_name": "Prabhashankar food station ( momos and Chinese)The Taste of Aai(pure veg)",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "441501",
+    "phone_number": "+91 91567 28298",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "525V+F93, Seminary Hills, Nagpur, Maharashtra 440001",
+    "area": "Seminary Hills",
+    "latitude": 21.158137699999997,
+    "longitude": 79.04402139999999,
+    "place_id": "ChIJF7hbHgDB1DsR9aiNrKeZXCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF7hbHgDB1DsR9aiNrKeZXCs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:35:12"
+  }
+]

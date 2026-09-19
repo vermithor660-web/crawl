@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Acme Physiotherapy Centre - Kalyani Nagar, Pune",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center, Chiropractor, Osteopath, Pain management physician, Physiotherapist, Rehabilitation center, Sports medicine clinic",
+    "pincode": "441301",
+    "phone_number": "+91 98906 30358",
+    "website": "https://www.acmephysiotherapy.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ground Floor, MIT Classic, North Ave, opp. to ICICI Bank, Kalyani Nagar, Pune, Maharashtra 411006",
+    "area": "Kalyani Nagar",
+    "latitude": 18.5482565,
+    "longitude": 73.9004293,
+    "place_id": "ChIJQ-adFw7BwjsRgi8vMcwnVU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ-adFw7BwjsRgi8vMcwnVU0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:21:05"
+  },
+  {
+    "business_name": "Physiotherapy Wala",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy equipment supplier",
+    "all_categories": "Physiotherapy equipment supplier",
+    "pincode": "441301",
+    "phone_number": "+91 97182 93109",
+    "website": "http://physiotherapywala.com/",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "Kh. No - 103/2/2, NH-8, Hotel Suncity Campus, Near Hotel Radisson, Mahipalpur,, New Delhi, Delhi 110037",
+    "area": "Block R, Mahipalpur Village, Mahipalpur",
+    "latitude": 28.542769099999997,
+    "longitude": 77.11877559999999,
+    "place_id": "ChIJb5N1cRMcDTkRY6EiUUepXdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb5N1cRMcDTkRY6EiUUepXdc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:21:06"
+  }
+]

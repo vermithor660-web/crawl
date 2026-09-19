@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Green Fields",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Farm equipment supplier",
+    "all_categories": "Farm equipment supplier, Agricultural Product Wholesaler, Agrochemicals Supplier, Electric motor store, Fertilizer Store, Irrigation equipment supplier, Mulch supplier, Pipe supplier, Agricultural Seed Store, Water Pump Supplier",
+    "pincode": "441902",
+    "phone_number": "+91 98933 82691",
+    "website": "https://api.whatsapp.com/send/?phone=919589720277&text&type=phone_number&app_absent=0",
+    "rating": 4,
+    "reviews_count": 64,
+    "address": "SBI BANK MAIN BRANCH, Ganjpara, Durg, Chhattisgarh 491001",
+    "area": "Ganjpara",
+    "latitude": 21.182801899999998,
+    "longitude": 81.27025809999999,
+    "place_id": "ChIJ____Lzw8KToRYSLaJX9Xdvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____Lzw8KToRYSLaJX9Xdvk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:03:14"
+  },
+  {
+    "business_name": "Geolife Authorised Dealer - Vikash Krishi Kendra-Mudipar",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service, Agricultural Product Wholesaler, Fertilizer Store, Agricultural Seed Store",
+    "pincode": "441902",
+    "phone_number": "N/A",
+    "website": "https://www.geolife.com/dealer/raipur/vikash-krishi-kendra-fertilizers-and-pesticides-mudipar.html",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Village & Post Mudhidar- Tehsil - Khairagarh, Dist, Mundipar, Chhattisgarh 441916",
+    "area": "441902",
+    "latitude": 21.20498,
+    "longitude": 80.52143,
+    "place_id": "ChIJKRv5unbrKzoRDqWIFQDcX0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKRv5unbrKzoRDqWIFQDcX0E",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:03:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Eye Care Centre",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Ophthalmologist",
+    "all_categories": "Ophthalmologist, Doctor, Hospital",
+    "pincode": "441501",
+    "phone_number": "+91 98901 62229",
+    "website": "https://book-appointment.healthplix.com/dr-manoj-oberoi-consultant-ophthalmologist--anjuman-complex-nagpur",
+    "rating": 5,
+    "reviews_count": 18,
+    "address": "B-1,Ground floor, Anjuman Complex, Sadar, Nagpur, Maharashtra 440001",
+    "area": "Sadar",
+    "latitude": 21.1638216,
+    "longitude": 79.0804508,
+    "place_id": "ChIJ0bj4EcDA1DsRCVnWixXYKCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bj4EcDA1DsRCVnWixXYKCQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:35:30"
+  },
+  {
+    "business_name": "Dr. Shadab Khan – Eye Specialist (Ophthalmologist)",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Ophthalmologist",
+    "all_categories": "Ophthalmologist, Eye care center, Ophthalmology clinic, Pediatric ophthalmologist",
+    "pincode": "441501",
+    "phone_number": "+91 97878 52806",
+    "website": "https://dr-shadab-khan-website.vercel.app/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1st, Anjuman Complex, Green City Eye Clinic, F-5 & 6, Sadar, Nagpur, Maharashtra 440001",
+    "area": "Sadar",
+    "latitude": 21.164408599999998,
+    "longitude": 79.0798157,
+    "place_id": "ChIJCyvcMRnB1DsRK8QXjIwxlk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCyvcMRnB1DsRK8QXjIwxlk8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:35:31"
+  }
+]

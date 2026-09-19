@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adore Weddings and Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "441228",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Adore Weddings and Events, 441228, India",
+    "area": "441228",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJVfW8lH0o9ocRqqSaIzIZ1ek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVfW8lH0o9ocRqqSaIzIZ1ek",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:19:47"
+  },
+  {
+    "business_name": "DR Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event planner, Party planner, Event management company",
+    "pincode": "441228",
+    "phone_number": "+91 88493 90296",
+    "website": "https://dreventsindia.in/",
+    "rating": 5,
+    "reviews_count": 94,
+    "address": "SIDDHI VINAYAK TOWER, C-1201, near Kataria Automobiles Road, Makarba, Ahmedabad, Gujarat 380051",
+    "area": "Makarba",
+    "latitude": 22.994204399999997,
+    "longitude": 72.4992766,
+    "place_id": "ChIJIzwMNQWFXjkRECb5q2kHJew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIzwMNQWFXjkRECb5q2kHJew",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:19:47"
+  }
+]

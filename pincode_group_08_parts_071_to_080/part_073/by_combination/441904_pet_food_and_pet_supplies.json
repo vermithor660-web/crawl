@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bark nd Blink",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "441904",
+    "phone_number": "+91 84460 62706",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "211, Khat Rd, Samruddhi Nagar, Bhandara, Maharashtra 441904",
+    "area": "Samruddhi Nagar",
+    "latitude": 21.1752948,
+    "longitude": 79.6401152,
+    "place_id": "ChIJfZ7v12U5KzoRP8dFzhMuOSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfZ7v12U5KzoRP8dFzhMuOSY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:05:13"
+  },
+  {
+    "business_name": "Budgie World",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "441904",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Z, Zilla Parishad Colony, P colony, Ganeshpur, Maharashtra 441904",
+    "area": "Zilla Parishad Colony, P colony",
+    "latitude": 21.153492099999998,
+    "longitude": 79.6465581,
+    "place_id": "ChIJr0FmLOZHKzoRex3RxY9_A7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr0FmLOZHKzoRex3RxY9_A7I",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:05:13"
+  }
+]

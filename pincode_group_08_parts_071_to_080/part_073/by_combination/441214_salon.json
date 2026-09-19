@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Survez Men's Parlour",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hairdresser, Make-up artist, Sewing shop",
+    "pincode": "441214",
+    "phone_number": "+91 70206 64231",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Kora road, beside Of Veterinary Hospital, Girad, Maharashtra 442305",
+    "area": "441214",
+    "latitude": 20.6556891,
+    "longitude": 79.114684,
+    "place_id": "ChIJGXyxPcFZ0zsRsgjhPyERrrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGXyxPcFZ0zsRsgjhPyERrrc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:04:09"
+  },
+  {
+    "business_name": "Sanskruti Beauty Parlors",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "441214",
+    "phone_number": "+91 99236 21853",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 7, near Jay Stambh, Besur, Maharashtra 441214",
+    "area": "441214",
+    "latitude": 20.6923285,
+    "longitude": 79.26663169999999,
+    "place_id": "ChIJxRo-puFX0zsRHmxEIo0_7sc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxRo-puFX0zsRHmxEIo0_7sc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:04:09"
+  }
+]

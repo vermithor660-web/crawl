@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neem Bharat Food Products",
+    "search_category": "Organic Food Store",
+    "primary_category": "FMCG Manufacturer",
+    "all_categories": "FMCG Manufacturer",
+    "pincode": "441801",
+    "phone_number": "N/A",
+    "website": "https://amzn.in/d/05kmVWzI",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Fulchur Road, opposite Punjab National Bank, Gurunanak Ward, Sindhi Colony, Gondia, Maharashtra 441601",
+    "area": "Gurunanak Ward, Sindhi Colony",
+    "latitude": 21.4552958,
+    "longitude": 80.1941408,
+    "place_id": "ChIJ387hSqavKzoRz-G1C3wzVpk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ387hSqavKzoRz-G1C3wzVpk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:45:45"
+  },
+  {
+    "business_name": "Mendhe Krushi Kendra & Mendhe Traders",
+    "search_category": "Organic Food Store",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store, Cement Supplier, Hardware store, Agricultural Seed Store",
+    "pincode": "441801",
+    "phone_number": "+91 98238 77588",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Durga chouk, Tedha, Maharashtra 441801",
+    "area": "441801",
+    "latitude": 21.2400791,
+    "longitude": 80.3093062,
+    "place_id": "ChIJVdeR0eK8KzoR5dQrMgk8yBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVdeR0eK8KzoR5dQrMgk8yBQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:45:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swap2fit Luxury Fitness Club",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "441907",
+    "phone_number": "+91 83696 55420",
+    "website": "https://swap2fit.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1st floor, Shiv Parvati CHS, opp. Ganpati Mandir, Sector 11, Kamothe, Panvel, Maharashtra 410209",
+    "area": "Sector 11, Kamothe, Panvel",
+    "latitude": 19.020736199999998,
+    "longitude": 73.08960859999999,
+    "place_id": "ChIJYWomcwjp5zsRvdIJhwLt6nI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYWomcwjp5zsRvdIJhwLt6nI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:10:56"
+  },
+  {
+    "business_name": "JD FITNESS WORLD",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Gym, Physical fitness program, Swim club, Swimming pool",
+    "pincode": "441907",
+    "phone_number": "+91 98725 47254",
+    "website": "https://www.jdfitnessworld.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "opposite Birdeo Mandir, Birdeonagar, Jadhavwadi, Maharashtra 415523",
+    "area": "Birdeonagar, Jadhavwadi",
+    "latitude": 17.967596999999998,
+    "longitude": 74.42674,
+    "place_id": "ChIJwzuLBfe7wzsRpaG3UA3Zre4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzuLBfe7wzsRpaG3UA3Zre4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:10:56"
+  }
+]

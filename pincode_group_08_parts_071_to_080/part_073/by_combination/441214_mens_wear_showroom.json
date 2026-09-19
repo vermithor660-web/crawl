@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sp Men's Wear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "441214",
+    "phone_number": "+91 76209 54580",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 5, Girad, Maharashtra 442305",
+    "area": "441214",
+    "latitude": 20.6580115,
+    "longitude": 79.11355499999999,
+    "place_id": "ChIJN9ZEpglZ0zsRYcDDU_qpyL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN9ZEpglZ0zsRYcDDU_qpyL4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:03:32"
+  },
+  {
+    "business_name": "Family Bazaar",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "441214",
+    "phone_number": "+91 85179 71770",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Family Bazaar, Teachers Colony, Belgaon, Maharashtra 441203",
+    "area": "Teachers Colony",
+    "latitude": 20.8449036,
+    "longitude": 79.32367529999999,
+    "place_id": "ChIJx3rb2pKr1DsRRMQaqO9hrZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx3rb2pKr1DsRRMQaqO9hrZg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:03:32"
+  }
+]

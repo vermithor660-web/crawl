@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ALG Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Chemical Manufacturer",
+    "pincode": "441217",
+    "phone_number": "+91 98677 84951",
+    "website": "http://www.algchemicals.com/",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "E-13 & E-14 Maharashtra Industrial Development Corporation Mahad, Khaire Tarf Birwadi, Maharashtra 402302",
+    "area": "441217",
+    "latitude": 18.1122758,
+    "longitude": 73.4907592,
+    "place_id": "ChIJq6qq6h2AwjsRcjJRxzoajq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq6h2AwjsRcjJRxzoajq4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:08:13"
+  },
+  {
+    "business_name": "Subhash Chemical industries Pvt. Ltd.Unit2",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Corporate office",
+    "pincode": "441217",
+    "phone_number": "+91 20 2733 6800",
+    "website": "http://www.subhashchemicals.com/",
+    "rating": 4.7,
+    "reviews_count": 13,
+    "address": "Shed 171, MIDC Rd, S Block, MIDC, Bhosari, Bhosri, Maharashtra 411026",
+    "area": "S Block, MIDC, Bhosari",
+    "latitude": 18.6291837,
+    "longitude": 73.8342643,
+    "place_id": "ChIJr9Qhmni4wjsRYIViff5lExw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr9Qhmni4wjsRYIViff5lExw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:08:13"
+  }
+]

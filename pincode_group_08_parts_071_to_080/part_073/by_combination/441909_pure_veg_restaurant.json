@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Angat Pangat",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "441909",
+    "phone_number": "+91 99708 83055",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Road, near Late Waghaye D.Ed. Collage Khapa, Mangli, Maharashtra 441912",
+    "area": "441909",
+    "latitude": 21.3628169,
+    "longitude": 79.724187,
+    "place_id": "ChIJv5ysdMcjKzoRrFR2VSyKOGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv5ysdMcjKzoRrFR2VSyKOGk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:13:58"
+  },
+  {
+    "business_name": "Hotel 55 Swad Bhandara",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "441909",
+    "phone_number": "+91 90494 74738",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 28,
+    "address": "Dabha Mod, Kothurna fata, Road, Warthi, Bhandara, Maharashtra 441905",
+    "area": "441909",
+    "latitude": 21.2089507,
+    "longitude": 79.6695639,
+    "place_id": "ChIJhYUjCao4KzoRkDWOz8F8Bhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhYUjCao4KzoRkDWOz8F8Bhc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:14:00"
+  }
+]

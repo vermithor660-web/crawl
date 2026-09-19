@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nitin Gifts And General",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "441906",
+    "phone_number": "+91 97653 04714",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Z P School, Bela, Maharashtra 441906",
+    "area": "441906",
+    "latitude": 21.1551746,
+    "longitude": 79.6117814,
+    "place_id": "ChIJy0JX0kM5KzoR1Uv_fcMn5_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy0JX0kM5KzoR1Uv_fcMn5_E",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:09:43"
+  },
+  {
+    "business_name": "Pranu Art Gallery",
+    "search_category": "Gifting",
+    "primary_category": "Artist",
+    "all_categories": "Artist",
+    "pincode": "441906",
+    "phone_number": "N/A",
+    "website": "https://pranu-art-website.vercel.app/",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Vyanktesh Residency, Khat Rd, Rajni Nagar, Bhandara, Maharashtra 441904",
+    "area": "Rajni Nagar",
+    "latitude": 21.174509699999998,
+    "longitude": 79.6437475,
+    "place_id": "ChIJZ7ApzyQ5KzoR4Ir4yLZWkyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ7ApzyQ5KzoR4Ir4yLZWkyo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:09:45"
+  }
+]

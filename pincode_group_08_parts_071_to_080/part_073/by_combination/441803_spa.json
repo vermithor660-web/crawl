@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Krushi Kendra",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "441803",
+    "phone_number": "+91 94219 89248",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hdhgee, Parsodi, Maharashtra 441803",
+    "area": "Hdhgee",
+    "latitude": 20.756241799999998,
+    "longitude": 79.8456049,
+    "place_id": "ChIJdYFhzWGdLDoRfdKv3dD_J_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdYFhzWGdLDoRfdKv3dD_J_M",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:50:13"
+  },
+  {
+    "business_name": "Rahul Fullwale",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "441803",
+    "phone_number": "+91 97656 49827",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lakhandur, Maharashtra 441803",
+    "area": "441803",
+    "latitude": 20.7541866,
+    "longitude": 79.8836484,
+    "place_id": "ChIJw6vazi2dLDoRnDbfE_ZM7ZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw6vazi2dLDoRnDbfE_ZM7ZM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:50:13"
+  }
+]

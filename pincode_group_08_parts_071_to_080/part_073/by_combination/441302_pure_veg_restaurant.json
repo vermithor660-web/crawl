@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aroma by Prutha",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Takeout restaurant",
+    "all_categories": "Takeout restaurant",
+    "pincode": "441302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near Gajanan Maharaj Mandir, Janki Nagar, Katol, Maharashtra 441302",
+    "area": "Janki Nagar",
+    "latitude": 21.2851577,
+    "longitude": 78.5796616,
+    "place_id": "ChIJ6UwaFzhX1DsRF6YSmf3pwAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6UwaFzhX1DsRF6YSmf3pwAA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:22:29"
+  },
+  {
+    "business_name": "Maa Ashapura Bhojnalaya",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "441302",
+    "phone_number": "+91 77093 33382",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 70,
+    "address": "529W+36F, Manav Seva Nagar, Nagpur, Maharashtra 440006",
+    "area": "Manav Seva Nagar",
+    "latitude": 21.1676967,
+    "longitude": 79.0455492,
+    "place_id": "ChIJywZmE6zB1DsRc6q1FHq5R28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJywZmE6zB1DsRc6q1FHq5R28",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:22:31"
+  }
+]

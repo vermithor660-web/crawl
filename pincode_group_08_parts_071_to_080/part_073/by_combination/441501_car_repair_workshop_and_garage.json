@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maruti Suzuki Authorised Service (Hasan Garage)",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "441501",
+    "phone_number": "+91 712 253 3805",
+    "website": "https://www.marutisuzuki.com/arena/service/authorized-service-center-locator/nagpur",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Tent Line, Mohan Nagar, Nagpur, Maharashtra 440001",
+    "area": "Tent Line, Mohan Nagar",
+    "latitude": 21.1578308,
+    "longitude": 79.0839041,
+    "place_id": "ChIJVVVVJebA1DsRWELELiMeTuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVJebA1DsRWELELiMeTuU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:35:38"
+  },
+  {
+    "business_name": "Limbanna Cars",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service",
+    "pincode": "441501",
+    "phone_number": "+91 96730 09603",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "33, Mount Rd, Sadar, Nagpur, Maharashtra 440001",
+    "area": "Sadar",
+    "latitude": 21.160279,
+    "longitude": 79.077437,
+    "place_id": "ChIJBY7A7uTA1DsRZ6VQFpVsg1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBY7A7uTA1DsRZ6VQFpVsg1o",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:35:39"
+  }
+]

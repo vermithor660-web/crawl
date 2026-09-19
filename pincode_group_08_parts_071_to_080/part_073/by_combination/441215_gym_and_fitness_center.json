@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SMS Fitness Club And Nutrition Center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "441215",
+    "phone_number": "+91 94048 29352",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dhanora Rd, Lanjeda, Gadchiroli, Maharashtra 442605",
+    "area": "Lanjeda",
+    "latitude": 20.185852,
+    "longitude": 80.0234448,
+    "place_id": "ChIJ2UCf8235LDoRZplKSk9Qmlg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2UCf8235LDoRZplKSk9Qmlg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:05:34"
+  },
+  {
+    "business_name": "Wellness Valley Fitness Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Nutritionist",
+    "all_categories": "Nutritionist",
+    "pincode": "441215",
+    "phone_number": "+91 94048 29352",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Saikrupa Appartment, MIDC Rd, in front of Gondwana University, Durga Nagar, Navegaon, Maharashtra 442605",
+    "area": "Durga Nagar, Navegaon",
+    "latitude": 20.1703239,
+    "longitude": 79.97169219999999,
+    "place_id": "ChIJtzeSKLn7LDoRjrXmJt1KUm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtzeSKLn7LDoRjrXmJt1KUm4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:05:34"
+  }
+]

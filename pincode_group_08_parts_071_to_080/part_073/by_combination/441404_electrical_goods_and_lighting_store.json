@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jeetu Electric & Electronics",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store, Electronics store",
+    "pincode": "441404",
+    "phone_number": "+91 93265 59496",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Chuna oil, Gol Bazaar, Kamptee, Nagpur, Maharashtra 441001",
+    "area": "Manappuram",
+    "latitude": 21.217302,
+    "longitude": 79.19427999999999,
+    "place_id": "ChIJXUrCsgbG1DsRJyQzyqSMuWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXUrCsgbG1DsRJyQzyqSMuWU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:34:00"
+  },
+  {
+    "business_name": "New Chawla Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "441404",
+    "phone_number": "+91 93739 59580",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "658W+W36, Gandhi chowk, Kamptee, Maharashtra 441001",
+    "area": "Gandhi chowk",
+    "latitude": 21.2172886,
+    "longitude": 79.1951322,
+    "place_id": "ChIJe-tiXAHG1DsRxBF66iSsons",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe-tiXAHG1DsRxBF66iSsons",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:34:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saoji kitchen ( cloud kitchen)",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "441224",
+    "phone_number": "+91 98239 20611",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 16,
+    "address": "Ajay Mobile Shopee, Vinayak smruthi, R/O Sudarshan Barapatre, vianay talkies road, bhanapeth ward, Chandrapur, Maharashtra 442402",
+    "area": "Nawargoan, bhanapeth ward, Bazar Ward",
+    "latitude": 19.9491355,
+    "longitude": 79.2999589,
+    "place_id": "ChIJ1Xl0JG3V0jsR7xBvCNWPQrA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Xl0JG3V0jsR7xBvCNWPQrA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:13:44"
+  },
+  {
+    "business_name": "Shukla cattring service",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant supply store",
+    "all_categories": "Restaurant supply store",
+    "pincode": "441224",
+    "phone_number": "+91 93258 61288",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "swami samrth nagri, ward, Vitthal Mandir Rd, behind sai baba decoration, Wankar wadi, Bazar Ward, Chandrapur, Maharashtra 442402",
+    "area": "Wankar wadi, Bazar Ward",
+    "latitude": 19.941605,
+    "longitude": 79.29033919999999,
+    "place_id": "ChIJx2CAxF3V0jsRtrpNHrUeA0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx2CAxF3V0jsRtrpNHrUeA0w",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:13:46"
+  }
+]

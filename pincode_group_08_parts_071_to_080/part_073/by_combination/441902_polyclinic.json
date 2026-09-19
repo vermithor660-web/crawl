@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DIVYANSH POLY CLINIC BUS STAND BHANEGAON",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "441902",
+    "phone_number": "+91 81209 98303",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "HC26+XC9, Lanji-Balaghat Rd, Bhanegaon, Madhya Pradesh 481115",
+    "area": "441902",
+    "latitude": 21.552404799999998,
+    "longitude": 80.4110949,
+    "place_id": "ChIJAQAAMB61KzoR5P2YUbbRhVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAMB61KzoR5P2YUbbRhVU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:02:12"
+  },
+  {
+    "business_name": "Dashan Poly clinic 24 Hours, Dr.Varsha Singh",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "441902",
+    "phone_number": "+91 91310 00478",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Bajar chauk, Lanji - Kahiragarh Rd, Lanji, Madhya Pradesh 481222",
+    "area": "441902",
+    "latitude": 21.5014547,
+    "longitude": 80.5336212,
+    "place_id": "ChIJPWGlUJfLKzoRHewM8kF8uSc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPWGlUJfLKzoRHewM8kF8uSc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:02:13"
+  }
+]

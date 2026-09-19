@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PABLA DASHMESH HOTEL",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "441305",
+    "phone_number": "+91 80552 96637",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 29,
+    "address": "PABLA DASHMESH HOTEL, Nagpur - Amravati Hwy, N.H.6, Town, Agargaon, Maharashtra 442203",
+    "area": "N.H.6",
+    "latitude": 21.1389583,
+    "longitude": 78.5313348,
+    "place_id": "ChIJg9zv21Fc1DsR1lHifY30CQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg9zv21Fc1DsR1lHifY30CQw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:27:49"
+  },
+  {
+    "business_name": "Rawaji Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "441305",
+    "phone_number": "+91 97301 98578",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 20,
+    "address": "Maharashtra, Major State Highway 10, Hiwarkhed., Bopalawadi, Maharashtra 444905",
+    "area": "441305",
+    "latitude": 21.4093131,
+    "longitude": 78.07998099999999,
+    "place_id": "ChIJ_dkI3jEt1DsRCSh87BXKY_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_dkI3jEt1DsRCSh87BXKY_A",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:27:50"
+  }
+]

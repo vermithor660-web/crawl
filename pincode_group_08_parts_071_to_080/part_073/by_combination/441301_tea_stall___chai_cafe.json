@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amruttatva chai Warud",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "441301",
+    "phone_number": "+91 90968 61364",
+    "website": "http://amruttatvachai.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "F7G9+MWH, MH SH 244, Warud, Maharashtra 444906",
+    "area": "441301",
+    "latitude": 21.4766761,
+    "longitude": 78.2698695,
+    "place_id": "ChIJm1OBwyvL1TsRXWBRdEFJK40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm1OBwyvL1TsRXWBRdEFJK40",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:20:43"
+  },
+  {
+    "business_name": "Chai Days Lit Box",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe, Tea store",
+    "pincode": "441301",
+    "phone_number": "+91 91487 62273",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 163,
+    "address": "Divyasree Technopark, EPIP Zone Whitefield Rd, Kundalahalli, Brookefield, Bengaluru, Karnataka 560066",
+    "area": "Kundalahalli, Brookefield",
+    "latitude": 12.970830999999999,
+    "longitude": 77.7252342,
+    "place_id": "ChIJz0QARUITrjsROJOJ-oKGATk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0QARUITrjsROJOJ-oKGATk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:20:44"
+  }
+]

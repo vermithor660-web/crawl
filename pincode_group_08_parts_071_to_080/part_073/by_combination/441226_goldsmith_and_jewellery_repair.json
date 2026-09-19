@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Diamond Jewellery Repair",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry repair service",
+    "all_categories": "Jewelry repair service",
+    "pincode": "441226",
+    "phone_number": "N/A",
+    "website": "http://www.labdiamondfactory.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "69/6A, Moti Nagar, Block C, Najafgarh Road Industrial Area, Delhi, 110015",
+    "area": "Moti Nagar, Block C, Najafgarh Road Industrial Area",
+    "latitude": 28.6577636,
+    "longitude": 77.1486505,
+    "place_id": "ChIJW6DZmgYDDTkRvhAe1No-BVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW6DZmgYDDTkRvhAe1No-BVI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:17:23"
+  },
+  {
+    "business_name": "Chemmanur Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "441226",
+    "phone_number": "+91 80 2523 5810",
+    "website": "http://www.chemmanur.com/ourstores.php",
+    "rating": 4.7,
+    "reviews_count": 267,
+    "address": "Subramanya Temple, Bus Stop, HAL Old Airport Rd, near Federal Bank, opposite to Marathahalli, Marathahalli Village, Marathahalli, Bengaluru, Karnataka 560037",
+    "area": "Marathahalli Village, Marathahalli",
+    "latitude": 12.956204999999999,
+    "longitude": 77.6949277,
+    "place_id": "ChIJWUfa0TISrjsR6IGPC3egnvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWUfa0TISrjsR6IGPC3egnvI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:17:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FAIRYLAND SCHOOL",
+    "search_category": "School",
+    "primary_category": "General education school",
+    "all_categories": "General education school",
+    "pincode": "441228",
+    "phone_number": "+91 88885 30230",
+    "website": "http://fairylandschool.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dist, near Ganesh Temple, Gaurala, Bhadravati, Maharashtra 442902",
+    "area": "Gaurala",
+    "latitude": 20.1003298,
+    "longitude": 79.11456749999999,
+    "place_id": "ChIJKRAWpggk0zsRNWNH46cgW14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKRAWpggk0zsRNWNH46cgW14",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:19:56"
+  },
+  {
+    "business_name": "MOTILAL PRABHULAL MALU",
+    "search_category": "School",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "441228",
+    "phone_number": "+91 77094 97773",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "MOTILAL PRABHULAL CLOTH MERCHANT, GANDHI CHOWK, Ballarpur, Maharashtra 442701",
+    "area": "GANDHI CHOWK",
+    "latitude": 19.8479168,
+    "longitude": 79.3457712,
+    "place_id": "ChIJWzYPmO7S0jsRj7eXlL7ISmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWzYPmO7S0jsRj7eXlL7ISmA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:19:56"
+  }
+]

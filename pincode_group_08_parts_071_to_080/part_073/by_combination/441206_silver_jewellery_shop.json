@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHREE MANGALMURTI JWELLERS",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "441206",
+    "phone_number": "+91 94217 19428",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Ram Mandir Road, Sindewahi, Maharashtra 441222",
+    "area": "441206",
+    "latitude": 20.2861115,
+    "longitude": 79.65518039999999,
+    "place_id": "ChIJzxDGRQDDLDoRTitxoQSeFZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzxDGRQDDLDoRTitxoQSeFZ8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:53:22"
+  },
+  {
+    "business_name": "RRK Jewellers . Armori",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "441206",
+    "phone_number": "+91 91463 39422",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Armori, Maharashtra 441208",
+    "area": "441206",
+    "latitude": 20.464772999999997,
+    "longitude": 79.9850718,
+    "place_id": "ChIJg1QJGACNLDoRqq2boemKcZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg1QJGACNLDoRqq2boemKcZA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:53:24"
+  }
+]

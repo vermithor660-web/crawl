@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Sonal Gupta - Vaishnavi Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "441801",
+    "phone_number": "N/A",
+    "website": "http://gfetalmed.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Vaishnavi Nursing Home, Main Rd, T B Toli, Kumbhare Nagar, Ramnagar, Gondia, Kudwa, Maharashtra 441614",
+    "area": "T B Toli, Kumbhare Nagar, Ramnagar",
+    "latitude": 21.46359,
+    "longitude": 80.18614,
+    "place_id": "ChIJVVVVFVOpKzoRsH7UVWzAijc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVFVOpKzoRsH7UVWzAijc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:46:11"
+  },
+  {
+    "business_name": "Dharaskar Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "441801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "F58V+727, Rail Toly, Gondia, Maharashtra 441614",
+    "area": "Rail Toly",
+    "latitude": 21.4656505,
+    "longitude": 80.19253359999999,
+    "place_id": "ChIJewkCZYSvKzoR50eNKxgMAh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJewkCZYSvKzoR50eNKxgMAh4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:46:14"
+  }
+]

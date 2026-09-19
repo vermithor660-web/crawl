@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaat point",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Snack bar",
+    "all_categories": "Snack bar, Cafe, Chinese noodle restaurant, Hotel, Ice cream shop, Pizza restaurant, Tea store",
+    "pincode": "441404",
+    "phone_number": "+91 72186 90099",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 102,
+    "address": "Parner Rd, near Sai mangal karyalay, Supe, Maharashtra 414301",
+    "area": "441404",
+    "latitude": 18.9592056,
+    "longitude": 74.5351976,
+    "place_id": "ChIJLx0h0QrL3DsRIj8wCvUZmi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLx0h0QrL3DsRIj8wCvUZmi4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:33:24"
+  },
+  {
+    "business_name": "Food Costo",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant",
+    "pincode": "441404",
+    "phone_number": "+91 70206 99282",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shiv Panchayat Nagar, Kamptee, Maharashtra 441001",
+    "area": "Shiv Panchayat Nagar",
+    "latitude": 21.213271499999998,
+    "longitude": 79.1969342,
+    "place_id": "ChIJoVoJAwPG1DsRQjQ8lRREMqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoVoJAwPG1DsRQjQ8lRREMqY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:33:25"
+  }
+]

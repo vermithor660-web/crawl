@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sky Walls Interior",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Interior construction contractor",
+    "pincode": "441209",
+    "phone_number": "+91 91463 87003",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Mull Rd, Gokul Nagar, Gadchiroli, Maharashtra 442605",
+    "area": "Gokul Nagar",
+    "latitude": 20.1838154,
+    "longitude": 79.9933568,
+    "place_id": "ChIJcxX_yH37LDoRSPGFzXCEj6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcxX_yH37LDoRSPGFzXCEj6E",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:58:56"
+  },
+  {
+    "business_name": "Dream Developers",
+    "search_category": "Interior Designers",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm, Architect, Architectural designer, Building consultant, Building designer, Civil engineer, Civil engineering company, Real Estate Builders & Construction Company, Home inspector",
+    "pincode": "441209",
+    "phone_number": "+91 83788 17736",
+    "website": "https://aditya5867.github.io/Architectural-Project/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Oppo. to, Husaini Complex, Shri Ram Nagar, Kurkheda, Maharashtra 441209",
+    "area": "Shri Ram Nagar",
+    "latitude": 20.619854,
+    "longitude": 80.208427,
+    "place_id": "ChIJYU_uS5dlLDoRK09du-8tZ8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYU_uS5dlLDoRK09du-8tZ8I",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:58:56"
+  }
+]

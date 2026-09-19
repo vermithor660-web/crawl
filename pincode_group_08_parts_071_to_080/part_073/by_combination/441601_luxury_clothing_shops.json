@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gondia Fashion and Rental",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "441601",
+    "phone_number": "+91 93252 12266",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 36,
+    "address": "karlekar, Mama Chowk, Near, Gondia, Maharashtra 441601",
+    "area": "Bajaj Nagar",
+    "latitude": 21.4557067,
+    "longitude": 80.2110891,
+    "place_id": "ChIJXWnMEwCvKzoRCZEoWKFN1ao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXWnMEwCvKzoRCZEoWKFN1ao",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:39:06"
+  },
+  {
+    "business_name": "Archie's Vogue",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "441601",
+    "phone_number": "N/A",
+    "website": "https://www.facebook.com/profile.php?id=61564283431645&mibextid=ZbWKwL",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Goregaon Rd, in front of government ITI, Fulchur Peth, Fulchur, Maharashtra 441601",
+    "area": "Fulchur Peth",
+    "latitude": 21.4337581,
+    "longitude": 80.1952989,
+    "place_id": "ChIJc24EGbOvKzoRhIIw_lHq8-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc24EGbOvKzoRhIIw_lHq8-c",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:39:07"
+  }
+]

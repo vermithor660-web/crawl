@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Sai Mens Wear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "441501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vayusena Nagar, Wadi, Maharashtra 440023",
+    "area": "Vayusena Nagar",
+    "latitude": 21.1542723,
+    "longitude": 79.0045387,
+    "place_id": "ChIJve_pV47q1DsRlyxDUf99Pu0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJve_pV47q1DsRlyxDUf99Pu0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:35:17"
+  },
+  {
+    "business_name": "Naksh fashion",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "441501",
+    "phone_number": "+91 78208 57144",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kalmeshwar - Gondkhairi Rd, Kalmeshwar, MIDC, Kalmeshwar-Bramhni, Maharashtra 441501",
+    "area": "Kalmeshwar, MIDC",
+    "latitude": 21.2253445,
+    "longitude": 78.9033905,
+    "place_id": "ChIJd2iGzN7v1DsRbbGiRMUpfs0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd2iGzN7v1DsRbbGiRMUpfs0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:35:19"
+  }
+]

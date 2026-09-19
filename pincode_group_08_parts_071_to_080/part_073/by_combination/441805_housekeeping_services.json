@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madka Dukan",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "441805",
+    "phone_number": "+91 80807 38489",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Khubhar Mohalla, Khubhar, Maharashtra 441809",
+    "area": "441805",
+    "latitude": 20.9189848,
+    "longitude": 79.8596228,
+    "place_id": "ChIJgUFgk3xlKzoRjn6kB4_riGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgUFgk3xlKzoRjn6kB4_riGA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:54:18"
+  },
+  {
+    "business_name": "Bhandara home",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "441805",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "30, Ram Nagar Khat Road, Mhada Colony, Gramseva Colony, Rajni Nagar, Bhandara, Maharashtra 441904",
+    "area": "Mhada Colony, Gramseva Colony, Rajni Nagar",
+    "latitude": 21.172337499999998,
+    "longitude": 79.64519779999999,
+    "place_id": "ChIJ50oRJgA5KzoR3v3_zCqkIRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ50oRJgA5KzoR3v3_zCqkIRg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:54:18"
+  }
+]

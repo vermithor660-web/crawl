@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doga's Security Services",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service, Consultant, Service establishment, Security service",
+    "pincode": "441223",
+    "phone_number": "N/A",
+    "website": "https://dogasecurity.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Doga's Security Services, 441223, India",
+    "area": "441223",
+    "latitude": 43.7249499,
+    "longitude": -79.75939319999999,
+    "place_id": "ChIJ3Rn0zJ6uC0gR4qoMkaQY5s4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Rn0zJ6uC0gR4qoMkaQY5s4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:13:10"
+  },
+  {
+    "business_name": "Boots Security - Security Guard Services",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service, Service establishment, Recruiter, Security service",
+    "pincode": "441223",
+    "phone_number": "N/A",
+    "website": "https://bootssecurity.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Boots Security - Security Guard Services, 441223, India",
+    "area": "441223",
+    "latitude": 43.566914499999996,
+    "longitude": -79.5224606,
+    "place_id": "ChIJ4cQ5BpLEDoARMoqOUZ86k6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4cQ5BpLEDoARMoqOUZ86k6M",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:13:12"
+  }
+]

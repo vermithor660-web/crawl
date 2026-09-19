@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ma Lakshmi jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "441702",
+    "phone_number": "+91 87883 72348",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chikhali., Maharashtra 441806",
+    "area": "441702",
+    "latitude": 21.0552298,
+    "longitude": 80.1275137,
+    "place_id": "ChIJec1qVC2dKzoRTzbn0hMVMp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJec1qVC2dKzoRTzbn0hMVMp8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:44:17"
+  },
+  {
+    "business_name": "SRI LAKSHMI JEWELLARY WORKS",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "441702",
+    "phone_number": "+91 98445 54280",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "S M Complex, Bus Stand, Towards Kengeri, Kumbalgodu, Bengaluru, Karnataka 560074",
+    "area": "441702",
+    "latitude": 12.8791181,
+    "longitude": 77.4456226,
+    "place_id": "ChIJtzOLZYM5rjsRbmQA1qQ_Ipk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtzOLZYM5rjsRbmQA1qQ_Ipk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:44:17"
+  }
+]

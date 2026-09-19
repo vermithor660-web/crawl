@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mate Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "441909",
+    "phone_number": "+91 90114 32930",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Kushari Fata, Mohadi, Maharashtra 441909",
+    "area": "441909",
+    "latitude": 21.3072077,
+    "longitude": 79.677413,
+    "place_id": "ChIJWwYNAr89KzoRf2hGieozi0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWwYNAr89KzoRf2hGieozi0I",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:14:11"
+  },
+  {
+    "business_name": "Royal Opticians",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Contact lenses supplier, Eye care center, Optometrist, Sunglasses store",
+    "pincode": "441909",
+    "phone_number": "+91 97733 23280",
+    "website": "http://www.royalopticians.co.in/",
+    "rating": 5,
+    "reviews_count": 1385,
+    "address": "6, opp. Bus Depot, near HDFC BANK, Jay Prakash Nagar, Goregaon East, Mumbai, Maharashtra 400063",
+    "area": "Jay Prakash Nagar, Goregaon East",
+    "latitude": 19.1653518,
+    "longitude": 72.85067459999999,
+    "place_id": "ChIJEdYX2lK25zsRcuNqe8LVl3k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEdYX2lK25zsRcuNqe8LVl3k",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:14:13"
+  }
+]

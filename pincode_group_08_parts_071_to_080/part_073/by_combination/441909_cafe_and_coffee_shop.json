@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanchan Cafe House",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "441909",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6JQW+584, Bhandara Warthi Rd, Warthi, Maharashtra 441905",
+    "area": "441909",
+    "latitude": 21.2378841,
+    "longitude": 79.645842,
+    "place_id": "ChIJ4wxAybQ5KzoR2L_j3Vba5Ck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4wxAybQ5KzoR2L_j3Vba5Ck",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:14:04"
+  },
+  {
+    "business_name": "The Delight Hours",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "441909",
+    "phone_number": "+91 72490 47770",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "The Delight Cafe, Bhandara Rd, above Indian Overseas Bank, Shriram Nagar, Tumsar, Maharashtra 441912",
+    "area": "Shriram Nagar",
+    "latitude": 21.3779404,
+    "longitude": 79.73979609999999,
+    "place_id": "ChIJO5t2GlwjKzoRX2py833Nzp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO5t2GlwjKzoRX2py833Nzp0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:14:04"
+  }
+]

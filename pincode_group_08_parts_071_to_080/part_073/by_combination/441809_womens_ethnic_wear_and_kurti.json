@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion collection",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "441809",
+    "phone_number": "+91 86689 12207",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Sindhi Line, Lakhni, Maharashtra 441804",
+    "area": "441809",
+    "latitude": 21.0705431,
+    "longitude": 79.82901179999999,
+    "place_id": "ChIJJ88m2FRpKzoRUvYUTr_RaVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ88m2FRpKzoRUvYUTr_RaVk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:58:25"
+  },
+  {
+    "business_name": "Sheetal Fashion",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "441809",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "5M84+8GC, Santaji Nagar, Bhandara, Maharashtra 441904",
+    "area": "Santaji Nagar",
+    "latitude": 21.1658056,
+    "longitude": 79.6562623,
+    "place_id": "ChIJz5zbe1E_KzoRiTAh8HGYEYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz5zbe1E_KzoRiTAh8HGYEYI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:58:25"
+  }
+]

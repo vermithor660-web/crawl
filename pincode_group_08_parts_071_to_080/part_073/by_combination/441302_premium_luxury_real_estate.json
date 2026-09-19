@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pioneer Green Valley",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Apartment complex",
+    "all_categories": "Apartment complex",
+    "pincode": "441302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "G-2, Kolbaswami Colony, Nagpur, Maharashtra 440013",
+    "area": "Kolbaswami Colony",
+    "latitude": 21.172925199999998,
+    "longitude": 79.03906599999999,
+    "place_id": "ChIJtZ2edcnB1DsRDFSLsSLXl7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtZ2edcnB1DsRDFSLsSLXl7o",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:23:50"
+  },
+  {
+    "business_name": "Shiv Elite Township",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Apartment complex",
+    "all_categories": "Apartment complex, Back Office",
+    "pincode": "441302",
+    "phone_number": "+91 96234 53967",
+    "website": "http://www.osbpl.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Wardha Rd, near Narayan Vidyalaya, Shankarpur, Nagpur, Maharashtra 441108",
+    "area": "441302",
+    "latitude": 21.0548052,
+    "longitude": 79.0677764,
+    "place_id": "ChIJLUq4wfW-1DsRgaBU6256Eos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLUq4wfW-1DsRgaBU6256Eos",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:23:50"
+  }
+]

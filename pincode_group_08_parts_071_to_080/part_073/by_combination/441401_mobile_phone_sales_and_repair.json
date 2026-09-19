@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak Mobile Gallery",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Mobile phone repair shop",
+    "pincode": "441401",
+    "phone_number": "+91 97300 08228",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 16,
+    "address": "Shop No.83 NIT Complex, SH260, Kalmana Market, Kalmana, Nagpur, Maharashtra 440035",
+    "area": "Kalmana Market, Kalmana",
+    "latitude": 21.1626481,
+    "longitude": 79.1484864,
+    "place_id": "ChIJVc7cxAXH1DsRvZfvMFnbDwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVc7cxAXH1DsRvZfvMFnbDwg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:32:40"
+  },
+  {
+    "business_name": "SS Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store, Mobile phone repair shop",
+    "pincode": "441401",
+    "phone_number": "+91 89563 59049",
+    "website": "http://www.ssmobile.com/",
+    "rating": 4.7,
+    "reviews_count": 105,
+    "address": "Ground Floor, Shubhlaxmi Commercial Complex, Shop No, 1 & 2, Kanji House Rd, Panchvati Nagar, Nagpur, Maharashtra 440017",
+    "area": "Vanjari, Panchvati Nagar, Sidharth Nagar",
+    "latitude": 21.1736883,
+    "longitude": 79.1259937,
+    "place_id": "ChIJPxuyifjH1DsRI9IC1aW5erk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPxuyifjH1DsRI9IC1aW5erk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:32:41"
+  }
+]

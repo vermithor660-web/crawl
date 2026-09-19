@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalambe Hospital",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "441905",
+    "phone_number": "+91 97640 24201",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road, Kalambe, Warthi, Neri, Maharashtra 441905",
+    "area": "Kalambe",
+    "latitude": 21.247269799999998,
+    "longitude": 79.6051368,
+    "place_id": "ChIJ81f7vKk5KzoRGWAOeLPxVQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ81f7vKk5KzoRGWAOeLPxVQk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:07:23"
+  },
+  {
+    "business_name": "Garvi Clinical Laboratary",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "441905",
+    "phone_number": "+91 99228 00964",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Subhash Ward, Warthi, Maharashtra 441905",
+    "area": "Subhash Ward",
+    "latitude": 21.2353705,
+    "longitude": 79.64309349999999,
+    "place_id": "ChIJe86cjD05KzoROEnfWQ5PqCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe86cjD05KzoROEnfWQ5PqCU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:07:23"
+  }
+]

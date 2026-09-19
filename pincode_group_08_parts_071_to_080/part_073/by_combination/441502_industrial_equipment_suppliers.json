@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R K Enterprises",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Material handling equipment supplier",
+    "all_categories": "Material handling equipment supplier, Service establishment",
+    "pincode": "441502",
+    "phone_number": "+91 93597 40967",
+    "website": "https://www.rk.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "R K Enterprises, 441502, India",
+    "area": "441502",
+    "latitude": 18.8181773,
+    "longitude": 76.7698374,
+    "place_id": "ChIJXYWudmPI1IcRfUkRvl1aIC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXYWudmPI1IcRfUkRvl1aIC0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:38:32"
+  },
+  {
+    "business_name": "Trado Play Nagpur",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "441502",
+    "phone_number": "+91 90750 26296",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 38,
+    "address": "Plot No A 23, near JSW plant, Kalmeshwar, Midc, Kalmeshwar-Bramhni, Maharashtra 441601",
+    "area": "Kalmeshwar, Midc",
+    "latitude": 21.2312992,
+    "longitude": 78.9019794,
+    "place_id": "ChIJ0-ta0v3G1DsRyuDixTpLYsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-ta0v3G1DsRyuDixTpLYsg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:38:33"
+  }
+]

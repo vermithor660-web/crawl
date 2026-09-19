@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fruitveggi",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Delivery service",
+    "all_categories": "Delivery service",
+    "pincode": "441806",
+    "phone_number": "+91 95223 22122",
+    "website": "https://www.fruitveggi.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bhilai, Plot No 7 Pragati Nagar Chhaya Garden Road Risali, Bhilai, Chhattisgarh 490006",
+    "area": "Gandhi Nagar",
+    "latitude": 21.1645044,
+    "longitude": 81.32390339999999,
+    "place_id": "ChIJIUt1VMYjKToReOQE_HxrBC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIUt1VMYjKToReOQE_HxrBC8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:54:40"
+  },
+  {
+    "business_name": "Ayush Fruits",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "441806",
+    "phone_number": "+91 82753 51384",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop Number, near Birsa Munda Chowk, Pauni, Maharashtra 441702",
+    "area": "441806",
+    "latitude": 20.9013767,
+    "longitude": 80.1536278,
+    "place_id": "ChIJg-3UNO6BKzoR6gfMeT0sA-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg-3UNO6BKzoR6gfMeT0sA-Q",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:54:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anoop textiles wholesale",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "441806",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Fulture road, friend colony, Fulchur Tola, Maharashtra 441601",
+    "area": "friend colony",
+    "latitude": 21.4430527,
+    "longitude": 80.1988034,
+    "place_id": "ChIJhSHNcgOvKzoReruJKjd1JXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhSHNcgOvKzoReruJKjd1JXc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:54:55"
+  },
+  {
+    "business_name": "Textile India Trading",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store",
+    "pincode": "441806",
+    "phone_number": "+91 77759 87062",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Railway, Station Rd, Rail Toly, Gondia, Maharashtra 441614",
+    "area": "Rail Toly",
+    "latitude": 21.4626418,
+    "longitude": 80.1907865,
+    "place_id": "ChIJ1cutfeKvKzoRPSaDARw62J8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1cutfeKvKzoRPSaDARw62J8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:54:55"
+  }
+]

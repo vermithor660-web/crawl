@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Serenity Farms & Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Bed & breakfast",
+    "pincode": "441905",
+    "phone_number": "+91 98602 10380",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near, Ganeshpur, Pindakepar, Maharashtra 441904",
+    "area": "441905",
+    "latitude": 21.143889299999998,
+    "longitude": 79.6372394,
+    "place_id": "ChIJiUVmewBHKzoRNPPfwzvvKNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiUVmewBHKzoRNPPfwzvvKNs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:07:06"
+  },
+  {
+    "business_name": "Sanjha Chulha Family Restaurant and Bar",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Bar",
+    "pincode": "441905",
+    "phone_number": "N/A",
+    "website": "https://sanjhachulharestaurant.org/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Devhadi, Bhandara, MSH-249, Tumsar Gondia Road, Tumsar, Tumsar, Maharashtra 441913",
+    "area": "441905",
+    "latitude": 21.338767,
+    "longitude": 79.758471,
+    "place_id": "ChIJQ0Fdvu0XKzoR4SaSrafP6-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ0Fdvu0XKzoR4SaSrafP6-Q",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:07:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Art Of Living House",
+    "search_category": "Yoga Center",
+    "primary_category": "Meditation center",
+    "all_categories": "Meditation center",
+    "pincode": "441306",
+    "phone_number": "+91 79729 92758",
+    "website": "https://www.artofliving.org/in-en",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "43, opposite New Fire Engineering College, Rajnagar, Nagpur, Maharashtra 440013",
+    "area": "Rajnagar",
+    "latitude": 21.174170099999998,
+    "longitude": 79.07223499999999,
+    "place_id": "ChIJE5PzZATB1DsRMlLPXjXXOso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE5PzZATB1DsRMlLPXjXXOso",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:29:59"
+  },
+  {
+    "business_name": "Fitness For Life - The Ladies Workout Studio",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Aerobics Class, Gym",
+    "pincode": "441306",
+    "phone_number": "+91 86687 19453",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 43,
+    "address": "pankaj trading company, Plot no 108, lane, beside maa bhagwati devi mandir, Jaripatka, Nagpur, Maharashtra 440014",
+    "area": "Jaripatka",
+    "latitude": 21.1804113,
+    "longitude": 79.09007849999999,
+    "place_id": "ChIJr7Hj0jzB1DsRKuPqkO2mX0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr7Hj0jzB1DsRKuPqkO2mX0Y",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:30:02"
+  }
+]

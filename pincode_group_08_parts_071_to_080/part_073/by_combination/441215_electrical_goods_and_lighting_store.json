@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ruby Enterprises - Electrical Sales & Services",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Battery Store, Electrical equipment supplier, Electrical products wholesaler, Electrical supply store, Solar energy system service, Wire and cable supplier",
+    "pincode": "441215",
+    "phone_number": "+91 7132 295 494",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 12,
+    "address": "Mul Road, Ashirwad Nagar, Gadchiroli, Maharashtra 442605",
+    "area": "Ashirwad Nagar",
+    "latitude": 20.186953199999998,
+    "longitude": 80.0024239,
+    "place_id": "ChIJ9UeOXdP7LDoRGbxzSHX2yz0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9UeOXdP7LDoRGbxzSHX2yz0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:05:44"
+  },
+  {
+    "business_name": "Deep Electrical And Machinery",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "441215",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 8,
+    "address": "5X8G+488, Navegaon, Maharashtra 442605",
+    "area": "Navegaon",
+    "latitude": 20.1652842,
+    "longitude": 79.9758256,
+    "place_id": "ChIJXxLseRD7LDoR9tE0QBGUjy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXxLseRD7LDoR9tE0QBGUjy8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:05:44"
+  }
+]

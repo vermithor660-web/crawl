@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Jungle Juice",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Sweets and dessert buffet",
+    "pincode": "441905",
+    "phone_number": "+91 84339 68855",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Shop no 22, Raj Arcade, opp. all dipped india, opp. Dmart, Kandivali, Panchsheel Garden, Mahavir Nagar, Kandivali West, Mumbai, Maharashtra 400067",
+    "area": "Kandivali, Panchsheel Garden, Mahavir Nagar, Kandivali West",
+    "latitude": 19.2131965,
+    "longitude": 72.8412345,
+    "place_id": "ChIJD__S5Ri35zsR2Uep5iagclQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD__S5Ri35zsR2Uep5iagclQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:07:01"
+  },
+  {
+    "business_name": "Navnath Juice Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "441905",
+    "phone_number": "N/A",
+    "website": "https://bizknow.in/NavnathJuiceCenter/",
+    "rating": 4.3,
+    "reviews_count": 177,
+    "address": "9, Gangapur Rd, Murkute Colony, Thakkar Nagar, New Pandit Colony, Nashik, Maharashtra 422013",
+    "area": "Murkute Colony, Thakkar Nagar, New Pandit Colony",
+    "latitude": 20.012206199999998,
+    "longitude": 73.75272509999999,
+    "place_id": "ChIJT7OJU5Dr3TsRCCHepPCfiOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT7OJU5Dr3TsRCCHepPCfiOs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:07:02"
+  }
+]

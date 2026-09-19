@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deshmukh caterers",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "441215",
+    "phone_number": "+91 87882 61889",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Deshmukh caterer house, sant Tukaram chowk, Junona Road, near vittu Baba Mandir, Babupeth, Chandrapur, Maharashtra 442403",
+    "area": "Babupeth",
+    "latitude": 19.931646,
+    "longitude": 79.3244541,
+    "place_id": "ChIJHXVR6hbV0jsRr4VDY2MoQ5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHXVR6hbV0jsRr4VDY2MoQ5w",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:06:07"
+  },
+  {
+    "business_name": "Olive Hospitality Consultancy",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant",
+    "pincode": "441215",
+    "phone_number": "+91 82899 25821",
+    "website": "https://www.olivehospitality.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "EK Complex, 2nd Floor, Palattuthazham, Eranhippalam, Kozhikode, Keralam 673020",
+    "area": "Palattuthazham, Eranhippalam",
+    "latitude": 11.282105,
+    "longitude": 75.7883569,
+    "place_id": "ChIJ0ZjDTBRfpjsRS38o0e3tI3M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ZjDTBRfpjsRS38o0e3tI3M",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:06:08"
+  }
+]

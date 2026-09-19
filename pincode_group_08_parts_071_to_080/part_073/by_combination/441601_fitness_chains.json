@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Power gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "441601",
+    "phone_number": "+91 96044 00481",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Kaka Square, Bajaj Nagar, Gondia, Maharashtra 441601",
+    "area": "Bajaj Nagar",
+    "latitude": 21.4580222,
+    "longitude": 80.1999802,
+    "place_id": "ChIJFfPHEx-vKzoROsxuLeOnTy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFfPHEx-vKzoROsxuLeOnTy8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:39:17"
+  },
+  {
+    "business_name": "Kesari sports",
+    "search_category": "Fitness Chains",
+    "primary_category": "Business related",
+    "all_categories": "Business related",
+    "pincode": "441601",
+    "phone_number": "+91 80 4648 1828",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "71, Station Rd, Rail Toly, Gondia, Maharashtra 441614",
+    "area": "Rail Toly",
+    "latitude": 21.4626753,
+    "longitude": 80.19218579999999,
+    "place_id": "ChIJDf5oxK2uKzoRZYtIn4BH9Mc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDf5oxK2uKzoRZYtIn4BH9Mc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:39:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MUGAVE HOSPITAL GADCHANDUR",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "441228",
+    "phone_number": "+91 83798 75609",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "Ward no. 5, Bazar Rd, near pritam general stores, Gadchandur, Maharashtra 442908",
+    "area": "441228",
+    "latitude": 19.7347637,
+    "longitude": 79.1712355,
+    "place_id": "ChIJG6iCOErF0jsRtkjC5diJDoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6iCOErF0jsRtkjC5diJDoE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:19:10"
+  },
+  {
+    "business_name": "Saravana Surgical Traders",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store, Medical clinic",
+    "pincode": "441228",
+    "phone_number": "+91 452 438 0090",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "208, E Veli St, near East Gate, Kamarajar Salai, Madurai Main, Madurai, Tamil Nadu 625001",
+    "area": "Kamarajar Salai, Madurai Main",
+    "latitude": 9.9198719,
+    "longitude": 78.1251436,
+    "place_id": "ChIJ0RoACpvFADsRHUZ6uy4maBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0RoACpvFADsRHUZ6uy4maBI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:19:12"
+  }
+]

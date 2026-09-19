@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anshita Cold Drinks",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe",
+    "pincode": "441210",
+    "phone_number": "+91 98238 13069",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XF46 F97, Kuhi, Mandhal, Maharashtra 441210",
+    "area": "441210",
+    "latitude": 20.9562548,
+    "longitude": 79.46099389999999,
+    "place_id": "ChIJjwqVRIVTKzoRFNt6ofyRE3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjwqVRIVTKzoRFNt6ofyRE3c",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:01:24"
+  },
+  {
+    "business_name": "J M D Pan And Cold Drinks Center",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Ice cream shop",
+    "pincode": "441210",
+    "phone_number": "+91 78755 03946",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Ambhora kh., Manegaon, Maharashtra 441924",
+    "area": "441210",
+    "latitude": 21.0716563,
+    "longitude": 79.63606829999999,
+    "place_id": "ChIJX_GkipNHKzoRv2PMzRIpyNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX_GkipNHKzoRv2PMzRIpyNM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:01:24"
+  }
+]

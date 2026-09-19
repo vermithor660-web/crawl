@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Mahalaxmi rice mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "441907",
+    "phone_number": "+91 94039 85741",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FR4Q+V99, Sihora, Maharashtra 441915",
+    "area": "441907",
+    "latitude": 21.4571683,
+    "longitude": 79.83847569999999,
+    "place_id": "ChIJixibmfYdKzoRU4p746SDC0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJixibmfYdKzoRU4p746SDC0A",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:11:52"
+  },
+  {
+    "business_name": "Annapurna Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "441907",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "89R8+CQX, Hatodi Rd, Khandala, Hatodi, Maharashtra 441106",
+    "area": "441907",
+    "latitude": 21.341115199999997,
+    "longitude": 79.36699109999999,
+    "place_id": "ChIJIax66LrS1DsRRkge16WH9KE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIax66LrS1DsRRkge16WH9KE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:11:53"
+  }
+]

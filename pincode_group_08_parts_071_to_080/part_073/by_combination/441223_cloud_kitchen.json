@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RENU MENU PURE VEG",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "441223",
+    "phone_number": "+91 94370 45099",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 34,
+    "address": "Bisra Rd, Udit Nagar, Rourkela, Odisha 769001",
+    "area": "Udit Nagar",
+    "latitude": 22.2251109,
+    "longitude": 84.8627812,
+    "place_id": "ChIJnflxFdEfIDoRhhSqCD02kbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnflxFdEfIDoRhhSqCD02kbA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:12:02"
+  },
+  {
+    "business_name": "Jyoti's Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Catering food and drink supplier",
+    "all_categories": "Catering food and drink supplier",
+    "pincode": "441223",
+    "phone_number": "+91 95525 20697",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Flat 1103, A Wing, ZINNEA APARTMENT, near Chandani Chowk, Bavdhan, Pune, Maharashtra 411021",
+    "area": "Bavdhan",
+    "latitude": 18.5087263,
+    "longitude": 73.7800164,
+    "place_id": "ChIJwTcUzL2_wjsRgitDBCy7pA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTcUzL2_wjsRgitDBCy7pA4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:12:03"
+  }
+]

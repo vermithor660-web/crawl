@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Finplan Associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant, Service establishment",
+    "pincode": "441212",
+    "phone_number": "+91 97738 85428",
+    "website": "https://finplanassociates.fundexpert.net/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Finplan Associates, 441212, India",
+    "area": "441212",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJC1NUZm77DDkR9jvZEhErBD4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC1NUZm77DDkR9jvZEhErBD4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:02:57"
+  },
+  {
+    "business_name": "Finlaw Pro Consulting",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Service establishment",
+    "pincode": "441212",
+    "phone_number": "+91 94547 65633",
+    "website": "https://finlawpro.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Finlaw Pro Consulting, 441212, India",
+    "area": "441212",
+    "latitude": 21.4324229,
+    "longitude": 82.7864352,
+    "place_id": "ChIJs6rCFgQzgQIRqmyuvlrY5H8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6rCFgQzgQIRqmyuvlrY5H8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:02:58"
+  }
+]

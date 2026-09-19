@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "441809",
+    "phone_number": "+91 78750 91108",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lakhni, Murmadi, Maharashtra 441804",
+    "area": "441809",
+    "latitude": 21.0723003,
+    "longitude": 79.8179753,
+    "place_id": "ChIJrxhtdbJpKzoRsagKKBYsldo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrxhtdbJpKzoRsagKKBYsldo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:58:52"
+  },
+  {
+    "business_name": "Shree Gajanan Tiles and Traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "441809",
+    "phone_number": "+91 94231 13248",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Shop No.2, Palandur Rd, Manegaon., Seloti, Maharashtra 441804",
+    "area": "441809",
+    "latitude": 21.0556463,
+    "longitude": 79.8543421,
+    "place_id": "ChIJXYHFHN1vKzoRcE6YViwc5kM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXYHFHN1vKzoRcE6YViwc5kM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:58:54"
+  }
+]

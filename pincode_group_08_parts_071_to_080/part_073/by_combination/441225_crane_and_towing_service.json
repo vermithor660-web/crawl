@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yana Towing services",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "441225",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Babupeth, Chandrapur, Maharashtra 442403",
+    "area": "Babupeth",
+    "latitude": 19.938983099999998,
+    "longitude": 79.3155716,
+    "place_id": "ChIJtxVy6YHV0jsRogB1Gs_PrUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtxVy6YHV0jsRogB1Gs_PrUM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:16:00"
+  },
+  {
+    "business_name": "MR towing service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "441225",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "railway sation, Civil Lines, Chandrapur, Maharashtra 442401",
+    "area": "Civil Lines",
+    "latitude": 19.9615398,
+    "longitude": 79.2961468,
+    "place_id": "ChIJM9epr1rV0jsRLf5MshWDMiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM9epr1rV0jsRLf5MshWDMiE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:16:02"
+  }
+]

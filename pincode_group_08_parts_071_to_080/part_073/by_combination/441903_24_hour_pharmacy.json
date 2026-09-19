@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "441903",
+    "phone_number": "+91 84129 33948",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 9,
+    "address": "Near, Canal, near Canal, Bela, Maharashtra 441906",
+    "area": "441903",
+    "latitude": 21.1541672,
+    "longitude": 79.615404,
+    "place_id": "ChIJuw01zStHKzoRUmOT2XhNbPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuw01zStHKzoRUmOT2XhNbPU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:03:49"
+  },
+  {
+    "business_name": "24 hours medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "441903",
+    "phone_number": "+91 2162 238 728",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "M2Q3+6W5, Khalcha Rasta, Raviwar Peth, Satara, Maharashtra 415001",
+    "area": "Raviwar Peth",
+    "latitude": 17.6880168,
+    "longitude": 74.0048584,
+    "place_id": "ChIJ2cdt4pI5wjsRIPsJ2xc6nUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2cdt4pI5wjsRIPsJ2xc6nUs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:03:51"
+  }
+]

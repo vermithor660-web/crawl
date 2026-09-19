@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Commercial Properties Associates",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "441210",
+    "phone_number": "N/A",
+    "website": "http://www.commercialpropertiesassociates.com/contact.html",
+    "rating": null,
+    "reviews_count": null,
+    "address": "26565 Miles Rd, Warrensville Heights, OH 44128, United States",
+    "area": "441210",
+    "latitude": 41.4251617,
+    "longitude": -81.49047039999999,
+    "place_id": "ChIJjTuUmhUdMYgRyIal6sMAt-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjTuUmhUdMYgRyIal6sMAt-A",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:01:16"
+  },
+  {
+    "business_name": "The Young Team - Keller Williams Greater Metropolitan",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "441210",
+    "phone_number": "N/A",
+    "website": "https://theyoungteam.com/",
+    "rating": 4.9,
+    "reviews_count": 1586,
+    "address": "34105 Chagrin Blvd L, Moreland Hills, OH 44022, United States",
+    "area": "441210",
+    "latitude": 41.4551047,
+    "longitude": -81.4435711,
+    "place_id": "ChIJ4ZsV5twCMYgRND85OPIT1Ks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ZsV5twCMYgRND85OPIT1Ks",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:01:16"
+  }
+]

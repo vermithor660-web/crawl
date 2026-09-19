@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shraddha Optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "441614",
+    "phone_number": "+91 86981 35414",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "CW5J+M5C, Lala Chowk, Tiroda, Maharashtra 441911",
+    "area": "Lala Chowk",
+    "latitude": 21.409189299999998,
+    "longitude": 79.9303911,
+    "place_id": "ChIJE8Sto-kFKzoROJccIaC1E0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE8Sto-kFKzoROJccIaC1E0I",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:40:52"
+  },
+  {
+    "business_name": "Anand optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optometrist",
+    "all_categories": "Optometrist",
+    "pincode": "441614",
+    "phone_number": "+91 72181 97649",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Amgaon, Maharashtra 441902",
+    "area": "441614",
+    "latitude": 21.3750906,
+    "longitude": 80.3817188,
+    "place_id": "ChIJx8gzdSq5KzoRUjA7MD7JspA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx8gzdSq5KzoRUjA7MD7JspA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:40:53"
+  }
+]

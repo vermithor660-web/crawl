@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bright Future Computer",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Internet shop",
+    "pincode": "441202",
+    "phone_number": "+91 86982 78064",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 9,
+    "address": "Rehpade Complex, Road, Navegaon (Devi), Mandhal, Maharashtra 441210",
+    "area": "441202",
+    "latitude": 20.9570603,
+    "longitude": 79.4621552,
+    "place_id": "ChIJlbFI_mFPKzoRYn83E3oZ3Is",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlbFI_mFPKzoRYn83E3oZ3Is",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:47:08"
+  },
+  {
+    "business_name": "Click Internet Cafe",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "441202",
+    "phone_number": "+91 82375 16844",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "Shop no. 5, Ganraj Apartment, Rajapeth bus Stop, Hunkeshwar Road, Nagpur, Maharashtra 440034",
+    "area": "Santoshi Nagar, Chandrakiran Nagar",
+    "latitude": 21.100884699999998,
+    "longitude": 79.1221688,
+    "place_id": "ChIJwyRUbbi41DsRGRUe3fSrQCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwyRUbbi41DsRGRUe3fSrQCc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:47:08"
+  }
+]

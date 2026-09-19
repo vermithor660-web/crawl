@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parmatma Fast Food And Chinese Center",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "441804",
+    "phone_number": "+91 93075 47441",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Parmatma Kirana Store, Bhandara - Balaghat Hwy, Dahegaon, Bhandara, Maharashtra 441905",
+    "area": "441804",
+    "latitude": 21.286081,
+    "longitude": 79.6808174,
+    "place_id": "ChIJryc3X8s9KzoRc2vzKesFSlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJryc3X8s9KzoRc2vzKesFSlk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:51:17"
+  },
+  {
+    "business_name": "Saoji Nashta And Chaha Center",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "441804",
+    "phone_number": "+91 86053 07245",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Rd, near BDCC Bank Bhoomi Abhishek JMPC, MSEB Colony, Bhandara, Maharashtra 441904",
+    "area": "MSEB Colony",
+    "latitude": 21.159338899999998,
+    "longitude": 79.65295119999999,
+    "place_id": "ChIJXXuZ77k_KzoRXhKmaGFLYrs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXXuZ77k_KzoRXhKmaGFLYrs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:51:17"
+  }
+]

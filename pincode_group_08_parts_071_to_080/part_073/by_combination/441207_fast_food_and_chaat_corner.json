@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHAAT BAZAAR",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "441207",
+    "phone_number": "+91 88880 12929",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 11,
+    "address": "XION MALL 1st floor, shop no.4, Hinjewadi, behind D Mart Hinjawadi, Pune, Maharashtra 411057",
+    "area": "Hinjawadi",
+    "latitude": 18.592544,
+    "longitude": 73.746847,
+    "place_id": "ChIJ07vWdt-7wjsR2V7UT4lXv3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ07vWdt-7wjsR2V7UT4lXv3I",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:55:00"
+  },
+  {
+    "business_name": "Shiv Kailash \"pawbhaji & chainis\" Centre",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "441207",
+    "phone_number": "+91 98509 80072",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 86,
+    "address": "JXG7+6HM, Gandhi Ward, Desaiganj, Maharashtra 441207",
+    "area": "Gandhi Ward",
+    "latitude": 20.625576199999998,
+    "longitude": 79.9639207,
+    "place_id": "ChIJpwdaoX-FLDoRLbjb4hkhXDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpwdaoX-FLDoRLbjb4hkhXDs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:55:00"
+  }
+]

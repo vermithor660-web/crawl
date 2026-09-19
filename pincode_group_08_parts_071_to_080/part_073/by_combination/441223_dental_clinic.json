@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smilecare Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "441223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "4436+GW8, Main Rd, Ramnagar, Bhadravati, Maharashtra 442902",
+    "area": "Ramnagar",
+    "latitude": 20.1037902,
+    "longitude": 79.11231649999999,
+    "place_id": "ChIJkan-pgkk0zsRRKi3GCMDesQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkan-pgkk0zsRRKi3GCMDesQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:12:18"
+  },
+  {
+    "business_name": "Dental care multispeciality dental clinic 445304",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "441223",
+    "phone_number": "+91 93562 66953",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "3X53+GMH, Wani, Maharashtra 445304",
+    "area": "441223",
+    "latitude": 20.0588144,
+    "longitude": 78.95423819999999,
+    "place_id": "ChIJWwZXLlgf0zsRDKiT-qvNDyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWwZXLlgf0zsRDKiT-qvNDyM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:12:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kawle Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "441803",
+    "phone_number": "+91 94236 73858",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "Main road, Lakhandur, Maharashtra 441803",
+    "area": "441803",
+    "latitude": 20.747726099999998,
+    "longitude": 79.8809436,
+    "place_id": "ChIJgawmEQKdLDoR5Ej3XZk-VVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgawmEQKdLDoR5Ej3XZk-VVI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:49:44"
+  },
+  {
+    "business_name": "Bhure Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "441803",
+    "phone_number": "+91 7183 233 994",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Indira Nagar, Tumsar, Maharashtra 441912",
+    "area": "Indira Nagar",
+    "latitude": 21.378501399999998,
+    "longitude": 79.7425026,
+    "place_id": "ChIJZRXNy3UYKzoRt2GceR7Z6X0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZRXNy3UYKzoRt2GceR7Z6X0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:49:45"
+  }
+]

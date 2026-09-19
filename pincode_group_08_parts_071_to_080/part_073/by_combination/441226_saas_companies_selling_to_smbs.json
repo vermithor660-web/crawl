@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Itoby Infotech private Limited",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Office space rental agency",
+    "pincode": "441226",
+    "phone_number": "+91 91427 73500",
+    "website": "https://itobyinfotech.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2ND FLOOR, L100, Block M, Jagat Ram Park, Laxmi Nagar, New Delhi, Delhi, 110092",
+    "area": "Block M, Jagat Ram Park, Laxmi Nagar",
+    "latitude": 28.6355513,
+    "longitude": 77.27676989999999,
+    "place_id": "ChIJw_xEXBv9DDkR-yBnJPPIIn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw_xEXBv9DDkR-yBnJPPIIn4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:18:40"
+  },
+  {
+    "business_name": "Tracxn Technologies Limited",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "441226",
+    "phone_number": "+91 77606 09666",
+    "website": "http://tracxn.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "2nd Floor, NRC Arcade, L248, 17th Cross Rd, next to Reliance Digital, Sector 6, HSR Layout, Bengaluru, Karnataka 560102",
+    "area": "Sector 6, HSR Layout",
+    "latitude": 12.912588099999999,
+    "longitude": 77.6338194,
+    "place_id": "ChIJ22cWF1cVrjsReD2AInW-iJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ22cWF1cVrjsReD2AInW-iJ4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:18:41"
+  }
+]

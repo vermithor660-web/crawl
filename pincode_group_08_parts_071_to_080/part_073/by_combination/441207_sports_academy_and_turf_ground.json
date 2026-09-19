@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Turf Nine",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Sports club",
+    "all_categories": "Sports club",
+    "pincode": "441207",
+    "phone_number": "+91 98234 29904",
+    "website": "https://turfnine.in/",
+    "rating": 4.2,
+    "reviews_count": 74,
+    "address": "Turf Nine VIT Hostel Chowk, opp. Shanti nagar society, Kasat Nagar, Bibwewadi, Pune, Maharashtra 411037",
+    "area": "Kasat Nagar, Bibwewadi",
+    "latitude": 18.4610151,
+    "longitude": 73.87746729999999,
+    "place_id": "ChIJi-tDnVvrwjsRicX_kjyN_Lo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi-tDnVvrwjsRicX_kjyN_Lo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:55:57"
+  },
+  {
+    "business_name": "Sports Coaching Foundation",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center, Soccer",
+    "pincode": "441207",
+    "phone_number": "+91 93965 59440",
+    "website": "http://www.scfindia.org/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Mahatma Gandhi Colony, Masab Tank, Hyderabad, Telangana 500028",
+    "area": "Mahatma Gandhi Colony, Masab Tank",
+    "latitude": 17.402116,
+    "longitude": 78.45130379999999,
+    "place_id": "ChIJAS4iXBWXyzsR7ycvzWeluOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAS4iXBWXyzsR7ycvzWeluOk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:55:58"
+  }
+]

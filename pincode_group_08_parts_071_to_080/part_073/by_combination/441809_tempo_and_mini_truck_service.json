@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "T M Car Decor",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service",
+    "pincode": "441809",
+    "phone_number": "+91 98340 42941",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NH6 Adarsh Nagar Manegaon, Lakhni, Maharashtra 441804",
+    "area": "441809",
+    "latitude": 21.067143899999998,
+    "longitude": 79.84233429999999,
+    "place_id": "ChIJky38-tNvKzoRUWuoDD6c9Ac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJky38-tNvKzoRUWuoDD6c9Ac",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:58:53"
+  },
+  {
+    "business_name": "M/s Gajanan Motors",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "441809",
+    "phone_number": "+91 93719 31818",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "NH 44, Pandharkawada, Pimpari Road, Maharashtra 445302",
+    "area": "441809",
+    "latitude": 20.034576299999998,
+    "longitude": 78.5493063,
+    "place_id": "ChIJFxbxEUGs0zsRq1aL6dsyz5Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFxbxEUGs0zsRq1aL6dsyz5Q",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:58:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "First skin leather",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "441909",
+    "phone_number": "+91 89394 17576",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 39,
+    "address": "ground floor phase 2, Spencer Plaza Mall, No G-57, Anna Salai, chennai=600-002, Chennai, Tamil Nadu 600002",
+    "area": "Anna Salai, chennai=600-002",
+    "latitude": 13.0613,
+    "longitude": 80.2611,
+    "place_id": "ChIJ2wHvXz5nUjoRBcz6AawNfMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wHvXz5nUjoRBcz6AawNfMw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:14:09"
+  },
+  {
+    "business_name": "Anmol Leathers",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop, Belt shop, Luggage store",
+    "pincode": "441909",
+    "phone_number": "+91 90342 36230",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Bazar, Old City, Kaithal, Haryana 136027",
+    "area": "Main Bazar, Old City",
+    "latitude": 29.8022468,
+    "longitude": 76.3964695,
+    "place_id": "ChIJLXk1uLPhETkRnsIpgdxqsuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXk1uLPhETkRnsIpgdxqsuw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:14:10"
+  }
+]

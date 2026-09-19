@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ambuja City Centre",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Outlet mall",
+    "pincode": "441228",
+    "phone_number": "+91 77140 40202",
+    "website": "http://www.citycentremalls.in/contactus/addresses.aspx",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Main, Vidhan Sabha Rd, Mowa, Raipur, Chhattisgarh 492014",
+    "area": "Mowa",
+    "latitude": 21.275629,
+    "longitude": 81.687617,
+    "place_id": "ChIJqShQRmDdKDoRofW4niZ4Edg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqShQRmDdKDoRofW4niZ4Edg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:20:30"
+  },
+  {
+    "business_name": "Silverian Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "441228",
+    "phone_number": "+91 77750 14555",
+    "website": "https://www.silverian.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Gat No 249, opposite modern college of pharmacy, Moshi, Pimpri-Chinchwad, Maharashtra 411070",
+    "area": "MIDC, Moshi",
+    "latitude": 18.6795302,
+    "longitude": 73.8408664,
+    "place_id": "ChIJiTAR-Bm3wjsRsoIGEC9pfIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiTAR-Bm3wjsRsoIGEC9pfIM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:20:31"
+  }
+]

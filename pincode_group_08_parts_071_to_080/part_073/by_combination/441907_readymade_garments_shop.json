@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion smuggler Tumsar",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "441907",
+    "phone_number": "+91 97633 40918",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "9PHR+6GC, Sai Colony, Tumsar, Maharashtra 441912",
+    "area": "Sai Colony",
+    "latitude": 21.3780724,
+    "longitude": 79.74127759999999,
+    "place_id": "ChIJyUVvVQAZKzoRYMOu31boGQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUVvVQAZKzoRYMOu31boGQc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:10:36"
+  },
+  {
+    "business_name": "GURUDEV READYMADE & CLOTH STORE",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "441907",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Durga mata mandir, road, Sihora, Maharashtra 441915",
+    "area": "441907",
+    "latitude": 21.458183,
+    "longitude": 79.8360885,
+    "place_id": "ChIJAQAAAAUcKzoRKbRDSOsUtiY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAAUcKzoRKbRDSOsUtiY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:10:36"
+  }
+]

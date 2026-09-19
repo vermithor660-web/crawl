@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "99 City Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "441908",
+    "phone_number": "+91 89418 08081",
+    "website": "https://99citycabs.com/booking/aligarh-taxi-service",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Pratibha Colony Road, Phase 2, Mangal Vihar Colony, Bannadevi, Aligarh, Uttar Pradesh 202001",
+    "area": "Phase 2, Mangal Vihar Colony, Bannadevi",
+    "latitude": 27.8921349,
+    "longitude": 78.0530498,
+    "place_id": "ChIJuydM6qildDkR2EfsCYFEqGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuydM6qildDkR2EfsCYFEqGY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:12:46"
+  },
+  {
+    "business_name": "Kalptaru Yatra",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "441908",
+    "phone_number": "+91 89800 22251",
+    "website": "https://kalptaruyatra.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VIBRANT BUSINESS PARK, Kalptaru House, Plot No.215, National Highway, opp. UPL Ltd, GIDC, Vapi, Gujarat 396195",
+    "area": "Phase 1, GIDC",
+    "latitude": 20.3527779,
+    "longitude": 72.908636,
+    "place_id": "ChIJudRI3dTP4DsRvuajNm9nIuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJudRI3dTP4DsRvuajNm9nIuo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:12:46"
+  }
+]

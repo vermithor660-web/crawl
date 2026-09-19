@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The hotel VSK kondha",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "441805",
+    "phone_number": "+91 96372 90164",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 22,
+    "address": "Konda, Maharashtra 441908",
+    "area": "441805",
+    "latitude": 20.8728016,
+    "longitude": 79.6874187,
+    "place_id": "ChIJfSoETY9fKzoRKm0pKwEeVVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfSoETY9fKzoRKm0pKwEeVVY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:53:57"
+  },
+  {
+    "business_name": "गणेश पान प्यालेस & कोल्ड्रिंग",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "441805",
+    "phone_number": "+91 93701 17867",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "RR62+Q5Q, Sarandi Bk., Maharashtra 441908",
+    "area": "441805",
+    "latitude": 20.8119573,
+    "longitude": 79.8004751,
+    "place_id": "ChIJN32YAURhKzoRqp1Abx1ESAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN32YAURhKzoRqp1Abx1ESAg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:53:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Premium Properties",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate rental agency",
+    "all_categories": "Real estate rental agency",
+    "pincode": "441804",
+    "phone_number": "+91 72765 89078",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "New Tungarli Rd, Tungarli, Lonavala, Maharashtra 410403",
+    "area": "Tungarli",
+    "latitude": 18.7594097,
+    "longitude": 73.4029955,
+    "place_id": "ChIJicikM5EB6DsRAv7BkzVWcoQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJicikM5EB6DsRAv7BkzVWcoQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:52:37"
+  },
+  {
+    "business_name": "Platinum Realty",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "441804",
+    "phone_number": "+91 98201 89674",
+    "website": "http://platinumrealty.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Waghbil Rd, opposite Rosa Manhattan, Anu Nagar, Vijay Nagari, Thane West, Thane, Maharashtra 400607",
+    "area": "Anu Nagar, Vijay Nagari, Thane West",
+    "latitude": 19.2576629,
+    "longitude": 72.9773694,
+    "place_id": "ChIJVRvMAPK75zsRUpFnCAGy5HA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVRvMAPK75zsRUpFnCAGy5HA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:52:37"
+  }
+]

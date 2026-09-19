@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suyash Computer",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer accessories store",
+    "all_categories": "Computer accessories store, Electronics store",
+    "pincode": "441502",
+    "phone_number": "+91 93731 26282",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near icici bank kalmeshwar, Kalmeshwar, Kalmeshwar-Bramhni, Maharashtra 441501",
+    "area": "Kalmeshwar",
+    "latitude": 21.235909799999998,
+    "longitude": 78.9072097,
+    "place_id": "ChIJk_n_Zeju1DsR8iPMYXcvyG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk_n_Zeju1DsR8iPMYXcvyG0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:38:14"
+  },
+  {
+    "business_name": "NamoTech",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer accessories store, Computer Hardware Company, Computer service, Computer Wholesaler, Desktop publishing service, Used computer store",
+    "pincode": "441502",
+    "phone_number": "+91 99233 28757",
+    "website": "http://www.gadgetsinbudgets.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "464/A Narayn Peth Near Lokande Talim Kastacha Bol Patrya Maruti Chowk, Pune, Maharashtra 411030",
+    "area": "Bhatancha Bol, Narayan Peth",
+    "latitude": 18.5154619,
+    "longitude": 73.8518991,
+    "place_id": "ChIJx8wPT3DAwjsRAmK5b_zDCZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx8wPT3DAwjsRAmK5b_zDCZ0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:38:17"
+  }
+]

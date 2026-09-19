@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samruddhi resort gondia",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "441902",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "94C6+V66, Sonegaon, Nawargaon, Maharashtra 441601",
+    "area": "441902",
+    "latitude": 21.3721648,
+    "longitude": 80.1105279,
+    "place_id": "ChIJXxZOHwCnKzoRauqcFFgcv5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXxZOHwCnKzoRauqcFFgcv5U",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:02:44"
+  },
+  {
+    "business_name": "Meera hotel and lawn",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "441902",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Sawari, Maharashtra 441614",
+    "area": "441902",
+    "latitude": 21.5230244,
+    "longitude": 80.2224468,
+    "place_id": "ChIJiTykGiStKzoR9fM_ZDqmsmI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiTykGiStKzoR9fM_ZDqmsmI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:02:44"
+  }
+]

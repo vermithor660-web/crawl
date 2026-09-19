@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Highway Industries",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Metal fabricator",
+    "all_categories": "Metal fabricator, Fabrication Engineer",
+    "pincode": "441702",
+    "phone_number": "+91 77698 06060",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "NH06, beside Highway, Fuels, Deori, Maharashtra 441901",
+    "area": "Fuels",
+    "latitude": 21.071796199999998,
+    "longitude": 80.3565224,
+    "place_id": "ChIJrczcwCuRKzoRsvDhy9M4Yco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrczcwCuRKzoRsvDhy9M4Yco",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:45:28"
+  },
+  {
+    "business_name": "Shakti Aluminium Windows System",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Window supplier",
+    "all_categories": "Window supplier, Aluminum window, Door manufacturer, Door supplier, Window installation service",
+    "pincode": "441702",
+    "phone_number": "N/A",
+    "website": "https://shaktialuminium.odoo.com/",
+    "rating": 4.9,
+    "reviews_count": 57,
+    "address": "Shop No. 4, Shambhushree Apartment, Ekta Chowk, MR-4 Rd, Jabalpur, Madhya Pradesh 482002",
+    "area": "Rameshwaram Colony",
+    "latitude": 23.181285,
+    "longitude": 79.909453,
+    "place_id": "ChIJW9v2ldyxgTkRA8aIBPBkxNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW9v2ldyxgTkRA8aIBPBkxNc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:45:29"
+  }
+]

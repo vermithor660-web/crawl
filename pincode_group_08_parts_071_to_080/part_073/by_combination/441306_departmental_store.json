@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apana Pashu Aahar",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "441306",
+    "phone_number": "+91 97700 56070",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sawargaon, Maharashtra 441306",
+    "area": "441306",
+    "latitude": 21.3960021,
+    "longitude": 78.63663989999999,
+    "place_id": "ChIJW86_RKBV1DsRjWobu9ROM5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW86_RKBV1DsRjWobu9ROM5o",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:29:25"
+  },
+  {
+    "business_name": "Puja enterprises",
+    "search_category": "Departmental Store",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store, Electronics wholesaler, Furniture wholesaler, Supermarket",
+    "pincode": "441306",
+    "phone_number": "+91 93077 09753",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "संत्रा मंडी, काटोल रोड, च्या समोर, Sawargaon, Maharashtra 441306",
+    "area": "च्या समोर",
+    "latitude": 21.392130299999998,
+    "longitude": 78.63665089999999,
+    "place_id": "ChIJj9McMupV1DsRp_5mbCs_oJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9McMupV1DsRp_5mbCs_oJw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:29:28"
+  }
+]

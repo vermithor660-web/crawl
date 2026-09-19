@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Growth Solutions Marketing",
+    "search_category": "Growth Marketing",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Website designer, Marketing agency, Web hosting company",
+    "pincode": "441222",
+    "phone_number": "N/A",
+    "website": "http://growthsolutionsagency.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1425 W 29th St, Loveland, CO 80538, United States",
+    "area": "441222",
+    "latitude": 40.422011999999995,
+    "longitude": -105.098601,
+    "place_id": "ChIJE0nj8LfbzKQRkm5PYQQ6bcQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE0nj8LfbzKQRkm5PYQQ6bcQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:11:46"
+  },
+  {
+    "business_name": "Marketing Growth Group",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "441222",
+    "phone_number": "N/A",
+    "website": "https://marketinggrowthgroup.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rockside Woods Blvd N Suite 200, Independence, OH 44131, United States",
+    "area": "441222",
+    "latitude": 41.3998175,
+    "longitude": -81.645528,
+    "place_id": "ChIJJSVPCRTlMIgR9ZruXNmi5l8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJSVPCRTlMIgR9ZruXNmi5l8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:11:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Praful dhondane",
+    "search_category": "Insurance Agent",
+    "primary_category": "Home insurance agency",
+    "all_categories": "Home insurance agency",
+    "pincode": "441209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J6GM+JJ4, Wakadi, Mohagaon Alias Wakadi, Maharashtra 441209",
+    "area": "441209",
+    "latitude": 20.626628399999998,
+    "longitude": 80.23424229999999,
+    "place_id": "ChIJ56wCfQB7LDoRPqlD-6zCCT0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ56wCfQB7LDoRPqlD-6zCCT0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:59:24"
+  },
+  {
+    "business_name": "Doye Enterprisese",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "441209",
+    "phone_number": "+91 97653 04241",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "612, Sakoli Rd, Morgaon, Arjuni, Maharashtra 441701",
+    "area": "441209",
+    "latitude": 20.821227399999998,
+    "longitude": 80.02055,
+    "place_id": "ChIJW4u8Rjh_KzoRvMglAXjpd64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW4u8Rjh_KzoRvMglAXjpd64",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:59:24"
+  }
+]

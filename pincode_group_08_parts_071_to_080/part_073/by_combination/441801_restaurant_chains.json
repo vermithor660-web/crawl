@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ShirishCafe",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "441801",
+    "phone_number": "+91 88054 06907",
+    "website": "https://instagram.com/shirish_khaparde?igshid=dopq4cacnrv6",
+    "rating": 4.3,
+    "reviews_count": 56,
+    "address": "Ambedkar chowk, Main Road Amgaon, dist:, gondia, Amgaon, Maharashtra 441902",
+    "area": "dist:",
+    "latitude": 21.3693383,
+    "longitude": 80.3792088,
+    "place_id": "ChIJZz8BFLu5KzoRmQ6JYUFt6nA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZz8BFLu5KzoRmQ6JYUFt6nA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:45:57"
+  },
+  {
+    "business_name": "Abhinav Food Mantra",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Eclectic restaurant",
+    "all_categories": "Eclectic restaurant, Banquet hall, Catering food and drink supplier, Event management company, Ice cream shop",
+    "pincode": "441801",
+    "phone_number": "+91 95457 22990",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Mankar Chowk, Amgaon Rd, Amgaon, Maharashtra 441902",
+    "area": "441801",
+    "latitude": 21.3728579,
+    "longitude": 80.380709,
+    "place_id": "ChIJUXWvlAG5KzoRG0utnkCymBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUXWvlAG5KzoRG0utnkCymBI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:46:00"
+  }
+]

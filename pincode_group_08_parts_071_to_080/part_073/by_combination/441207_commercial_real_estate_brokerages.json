@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Richfield Realty Group",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Commercial real estate agency, Notary public, Property investment company",
+    "pincode": "441207",
+    "phone_number": "N/A",
+    "website": "http://www.richfieldsells.com/",
+    "rating": 4,
+    "reviews_count": 12,
+    "address": "4183 W Streetsboro Rd #101, Richfield, OH 44286, United States",
+    "area": "441207",
+    "latitude": 41.2399838,
+    "longitude": -81.6382891,
+    "place_id": "ChIJ5xhL8urdMIgRjs3_KLulA3w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5xhL8urdMIgRjs3_KLulA3w",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:56:11"
+  },
+  {
+    "business_name": "Excellence in Realty",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Service establishment",
+    "pincode": "441207",
+    "phone_number": "N/A",
+    "website": "http://4amyteam.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Excellence in Realty, 441207, India",
+    "area": "441207",
+    "latitude": 41.360729,
+    "longitude": -81.5347295,
+    "place_id": "ChIJ30SmKPsTMYgRmHrE_kdFb-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ30SmKPsTMYgRmHrE_kdFb-U",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:56:13"
+  }
+]

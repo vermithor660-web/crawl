@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pritam Electrician And Plumber",
+    "search_category": "Plumber",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop, Plumber",
+    "pincode": "441209",
+    "phone_number": "+91 93071 86126",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lakhandur - Arjuni Rd, Chandewar Layout, Arjuni, Maharashtra 441701",
+    "area": "Chandewar Layout",
+    "latitude": 20.820442,
+    "longitude": 80.0215503,
+    "place_id": "ChIJdSroqxObLDoRfb06XoZfB2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdSroqxObLDoRfb06XoZfB2M",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:58:54"
+  },
+  {
+    "business_name": "Ravan studio and plumber contractor",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "441209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Aawash para, Ranwahi, Chhattisgarh 494669",
+    "area": "Aawash para",
+    "latitude": 20.3167936,
+    "longitude": 81.09558729999999,
+    "place_id": "ChIJAYKzu5OTLjoRLD2pDuz4bn0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAYKzu5OTLjoRLD2pDuz4bn0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:58:55"
+  }
+]

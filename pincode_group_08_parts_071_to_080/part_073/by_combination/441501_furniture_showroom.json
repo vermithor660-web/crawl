@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shastrakar furniture mart",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture maker",
+    "all_categories": "Furniture maker, Fabrication Engineer",
+    "pincode": "441501",
+    "phone_number": "+91 91682 13242",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Midc road, Kalmeshwar, Kalmeshwar-Bramhni, Maharashtra 441501",
+    "area": "Kalmeshwar",
+    "latitude": 21.2321573,
+    "longitude": 78.9110141,
+    "place_id": "ChIJLQHjIXfv1DsRx2RdKbSa_GU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLQHjIXfv1DsRx2RdKbSa_GU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:35:58"
+  },
+  {
+    "business_name": "Bharat Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Bed shop, Bedroom furniture store, Furniture Manufacturer, Furniture wholesaler, Kitchen furniture store, Office furniture store, Sofa store",
+    "pincode": "441501",
+    "phone_number": "+91 97644 41144",
+    "website": "https://bharatfurnitures.in/",
+    "rating": 3.7,
+    "reviews_count": 256,
+    "address": "5, Residency Rd, Sadar, Nagpur, Maharashtra 440001",
+    "area": "Sadar",
+    "latitude": 21.1596391,
+    "longitude": 79.0800738,
+    "place_id": "ChIJ-x9yNuTA1DsRs4R8Pg_zGb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-x9yNuTA1DsRs4R8Pg_zGb4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:36:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Sunanda meshram",
+    "search_category": "Therapy Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "441206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "JV65+6X8, Gujri Ward, Churhe Bada, Brahmapuri, Maharashtra 441206",
+    "area": "Gujri Ward, Churhe Bada",
+    "latitude": 20.6105479,
+    "longitude": 79.85994339999999,
+    "place_id": "ChIJb7OFXACbLDoRREL1MqNBsuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb7OFXACbLDoRREL1MqNBsuo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:54:04"
+  },
+  {
+    "business_name": "Dr Matte Hospital (MAHAKALI HOSPITAL)",
+    "search_category": "Therapy Center",
+    "primary_category": "Therapy Center",
+    "all_categories": "Therapy Center",
+    "pincode": "441206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Mahatma Fule chowk, near Dhwani Apartment, apt, Ramnagar, Chandrapur, Maharashtra 442401",
+    "area": "apt, Ramnagar",
+    "latitude": 19.9579316,
+    "longitude": 79.2878826,
+    "place_id": "ChIJs60sdwDX0jsR3AfwjnDgRNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs60sdwDX0jsR3AfwjnDgRNo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:54:05"
+  }
+]

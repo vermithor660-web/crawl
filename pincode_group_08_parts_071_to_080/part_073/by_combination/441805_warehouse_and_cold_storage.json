@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhandari Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "441805",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "FMWC+7F4, Dr. Ambedkar Nagar, Bhicholi, Madhya Pradesh 453661",
+    "area": "441805",
+    "latitude": 22.495627,
+    "longitude": 75.6712027,
+    "place_id": "ChIJMb5VXDVZYjkRevX9g8m7EPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMb5VXDVZYjkRevX9g8m7EPg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:54:26"
+  },
+  {
+    "business_name": "Cold storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "441805",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "06, Shirpur, Anand Nagar, Shingave, Maharashtra 425405",
+    "area": "Shirpur, Anand Nagar, Shingave",
+    "latitude": 21.3587272,
+    "longitude": 74.865523,
+    "place_id": "ChIJqRuPTnsx3zsRtCWsCWnlI4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqRuPTnsx3zsRtCWsCWnlI4w",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:54:26"
+  }
+]

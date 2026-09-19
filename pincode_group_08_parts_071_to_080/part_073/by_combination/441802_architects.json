@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAMAA ARCHITECTS",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "441802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9PHR+CCF, Shriram Nagar, Tumsar, Gondia, Maharashtra 441912",
+    "area": "Shriram Nagar",
+    "latitude": 21.378562499999997,
+    "longitude": 79.7410469,
+    "place_id": "ChIJ0-rm5_0ZKzoRODG3ZUY1mAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-rm5_0ZKzoRODG3ZUY1mAs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:48:24"
+  },
+  {
+    "business_name": "Raut Contraction",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "441802",
+    "phone_number": "+91 90496 73325",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8721parsodi Gandhi Chowk, Parsodi, Maharashtra 441802",
+    "area": "441802",
+    "latitude": 21.1381868,
+    "longitude": 79.85848879999999,
+    "place_id": "ChIJJ0HB33VtKzoRaEIL5kSoQ_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ0HB33VtKzoRaEIL5kSoQ_8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:48:24"
+  }
+]

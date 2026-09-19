@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "UNIQUE SOUTH INDIAN & FAST FOOD CORNER",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "441203",
+    "phone_number": "+91 77759 89255",
+    "website": "http://instademand.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "NEHARU CHOUK, opposite Kannyaka Bank, Nehru Ward, Chimur, Maharashtra 442903",
+    "area": "Nehru Ward",
+    "latitude": 20.4945956,
+    "longitude": 79.3722042,
+    "place_id": "ChIJFVvuQttN0zsRyLeJNRIwxl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVvuQttN0zsRyLeJNRIwxl4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:47:51"
+  },
+  {
+    "business_name": "PARVATI DAIRY AND SOUTH INDIAN RESTAURANT",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "441203",
+    "phone_number": "+91 95959 13207",
+    "website": "https://www.parvatidairy.com/",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "By pass square, Girad Rd, Bhandarkar Layout, Belgaon, Maharashtra 441203",
+    "area": "Bhandarkar Layout",
+    "latitude": 20.8408168,
+    "longitude": 79.3219695,
+    "place_id": "ChIJm2dF7VOr1DsRy95nmnh3uqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm2dF7VOr1DsRy95nmnh3uqQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:47:52"
+  }
+]

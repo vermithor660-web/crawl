@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govind Dairy and Daily Needs",
+    "search_category": "Departmental Store",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Indian grocery store",
+    "pincode": "441202",
+    "phone_number": "+91 95614 45260",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Kailash Nagri, Plot No 89, Tarodi Road, behind Indian gas godown, Bidgaon., Bidgaon-Tarodi Kh.-Pandhurna, Maharashtra 441202",
+    "area": "Bidgaon.",
+    "latitude": 21.125346099999998,
+    "longitude": 79.1707338,
+    "place_id": "ChIJLW-OO5G51DsRznFZWssDQl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLW-OO5G51DsRznFZWssDQl0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:45:44"
+  },
+  {
+    "business_name": "S K",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "441202",
+    "phone_number": "+91 93564 92669",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near water tank, Samvidhan chowk, Dighori bk Bhandara Road, highway, near Mahalgaon, Nagpur, Maharashtra 441202",
+    "area": "441202",
+    "latitude": 21.117010999999998,
+    "longitude": 79.2309753,
+    "place_id": "ChIJLzYbbsW31DsRAAAAsGrtM2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLzYbbsW31DsRAAAAsGrtM2U",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:45:44"
+  }
+]

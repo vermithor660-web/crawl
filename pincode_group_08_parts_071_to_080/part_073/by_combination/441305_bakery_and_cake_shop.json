@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kavi's Crumbs and Cake",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery equipment",
+    "all_categories": "Bakery equipment, Bakery and Cake Shop, Cake decorating equipment shop, Cake shop, Cupcake shop, Wedding bakery",
+    "pincode": "441305",
+    "phone_number": "+91 77096 59623",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop 631, Home, Walni, Maharashtra 441302",
+    "area": "441305",
+    "latitude": 21.2149246,
+    "longitude": 78.5217152,
+    "place_id": "ChIJHVtk9l5b1DsRNNq-6bK5vO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHVtk9l5b1DsRNNq-6bK5vO4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:27:48"
+  },
+  {
+    "business_name": "Anil Balpande",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "441305",
+    "phone_number": "+91 98504 85373",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "At Lohari Sawanga, Bazar Chowk, Nagpur, Maharashtra 441305",
+    "area": "Bazar Chowk",
+    "latitude": 21.258003499999997,
+    "longitude": 78.4004393,
+    "place_id": "ChIJe5v4Tx1F1DsRKGgCvy_R69o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe5v4Tx1F1DsRKGgCvy_R69o",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:27:48"
+  }
+]

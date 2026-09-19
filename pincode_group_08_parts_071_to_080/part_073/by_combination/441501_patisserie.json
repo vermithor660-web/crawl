@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kaware Food Bakers",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "441501",
+    "phone_number": "+91 98227 34466",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Shahu Lay Out, Duttawadi, Wadi, Maharashtra 440021",
+    "area": "Shahu Lay Out, Duttawadi",
+    "latitude": 21.1574624,
+    "longitude": 78.9974135,
+    "place_id": "ChIJT_y7Wovq1DsRHKeROzlKlWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT_y7Wovq1DsRHKeROzlKlWE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:35:11"
+  },
+  {
+    "business_name": "The Cakeifyy",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "441501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hanuman Mandir, Futala Rd, near Telankhedi, Seminary Hills, Nagpur, Maharashtra 440001",
+    "area": "Seminary Hills",
+    "latitude": 21.1584735,
+    "longitude": 79.04973939999999,
+    "place_id": "ChIJ5XoXBVTB1DsRWV5U8Jg52Qw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5XoXBVTB1DsRWV5U8Jg52Qw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:35:12"
+  }
+]

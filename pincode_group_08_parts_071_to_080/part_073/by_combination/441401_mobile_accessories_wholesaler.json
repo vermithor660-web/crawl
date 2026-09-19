@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raja Mobile Shopee",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Mobile phone repair shop",
+    "pincode": "441401",
+    "phone_number": "+91 76200 01786",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 18,
+    "address": "Shop Number 1, NMC Complex, Abhyankar Marg, Corner Of Modi Number 2, Sitabuldi, Nagpur, Maharashtra 440012",
+    "area": "Sitabuldi",
+    "latitude": 21.1419973,
+    "longitude": 79.083635,
+    "place_id": "ChIJWWoQ95TA1DsRyONjvQM5-SU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWWoQ95TA1DsRyONjvQM5-SU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:32:40"
+  },
+  {
+    "business_name": "Furquan Mobile electronics electrical",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Electrical supply store, Furniture store, Furniture wholesaler",
+    "pincode": "441401",
+    "phone_number": "+91 88781 15627",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 115,
+    "address": "sadar bazar, Khawasa, Madhya Pradesh 480881",
+    "area": "sadar bazar",
+    "latitude": 21.7048767,
+    "longitude": 79.4355023,
+    "place_id": "ChIJc13Sw3nSKjoR-61uyBV-c6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc13Sw3nSKjoR-61uyBV-c6Y",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:32:42"
+  }
+]

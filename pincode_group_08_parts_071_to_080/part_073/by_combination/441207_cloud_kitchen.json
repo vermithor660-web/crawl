@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cloud Kitchen@555",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "441207",
+    "phone_number": "+91 73595 13755",
+    "website": "https://zomato.onelink.me/xqzv/6y3x74v8",
+    "rating": 4.7,
+    "reviews_count": 16,
+    "address": "Metro Station Nawa Wadaj, G.98/1172, 1st Floor, Shivam Appartment, Gate No.2 Nr Akhbarnagar Char Rasta, nr. Vadaj, Naranpura, Ahmedabad, Gujarat 380013",
+    "area": "Akhbar Nagar, Naranpura",
+    "latitude": 23.0679832,
+    "longitude": 72.56601409999999,
+    "place_id": "ChIJI7b79jqDXjkRCCNu-x4a3iE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI7b79jqDXjkRCCNu-x4a3iE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:55:00"
+  },
+  {
+    "business_name": "Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food bank",
+    "all_categories": "Food bank",
+    "pincode": "441207",
+    "phone_number": "+91 95821 77663",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "B, 91, Street No. 5, Bhajanpura, main market, Delhi, 110092",
+    "area": "Bhajanpura, main market",
+    "latitude": 28.633756899999998,
+    "longitude": 77.2758606,
+    "place_id": "ChIJKyyqlz39DDkRQzyEtemsDng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKyyqlz39DDkRQzyEtemsDng",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:55:01"
+  }
+]

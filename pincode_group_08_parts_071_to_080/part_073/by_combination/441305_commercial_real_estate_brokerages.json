@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The EZ Sales Team at Keller Williams Realty",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "441305",
+    "phone_number": "N/A",
+    "website": "http://www.ezsalesteam.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2001 Crocker Rd Ste 310, Westlake, OH 44145, United States",
+    "area": "441305",
+    "latitude": 41.4620156,
+    "longitude": -81.9495431,
+    "place_id": "ChIJp8yz5x6SMIgRFsgvKOD4elw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp8yz5x6SMIgRFsgvKOD4elw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:29:07"
+  },
+  {
+    "business_name": "RG Property Advisors",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Real estate agent",
+    "pincode": "441305",
+    "phone_number": "N/A",
+    "website": "https://rgpropertyadvisors.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2001 Crocker Rd #200, Westlake, OH 44145, United States",
+    "area": "441305",
+    "latitude": 41.4620398,
+    "longitude": -81.9494752,
+    "place_id": "ChIJxel0RPSRMIgRXl307qCMV-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxel0RPSRMIgRXl307qCMV-Q",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:29:07"
+  }
+]

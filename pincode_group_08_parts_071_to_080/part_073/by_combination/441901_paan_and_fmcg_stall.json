@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pan Center",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "441901",
+    "phone_number": "+91 92841 82523",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "12, Karanja, Maharashtra 441601",
+    "area": "441901",
+    "latitude": 21.4262762,
+    "longitude": 80.18554569999999,
+    "place_id": "ChIJ9WVPZM2pKzoRpUOmxDXsXbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9WVPZM2pKzoRpUOmxDXsXbc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:59:58"
+  },
+  {
+    "business_name": "Pann panchayat",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler, Coffee shop",
+    "pincode": "441901",
+    "phone_number": "+91 70007 80359",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Panchsheel Nagar BMY, Charoda, Bhilai Marshalling Yard, Charoda, Chhattisgarh 490025",
+    "area": "Charoda, Bhilai Marshalling Yard",
+    "latitude": 21.2226547,
+    "longitude": 81.4550608,
+    "place_id": "ChIJvzkAfgAhKToR9INL_OXqVyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvzkAfgAhKToR9INL_OXqVyA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:00:00"
+  }
+]

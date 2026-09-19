@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yummy taxi",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "441212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X8J3+VFW, Biyani Nagar, Tukum, Chandrapur, Maharashtra 442401",
+    "area": "Biyani Nagar, Tukum",
+    "latitude": 19.9822436,
+    "longitude": 79.3037104,
+    "place_id": "ChIJv1_cVwDV0jsRdVVEDSSCySA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv1_cVwDV0jsRdVVEDSSCySA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:01:47"
+  },
+  {
+    "business_name": "Cafe Rio Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Breakfast restaurant, Coffee shop, Fast food restaurant",
+    "pincode": "441212",
+    "phone_number": "+91 98902 04048",
+    "website": "https://www.caferio.com/",
+    "rating": 3.6,
+    "reviews_count": 45,
+    "address": "W7WW+G7W, Vishwakarma Chowk - Gandhi Chowk Rd, Balaji Ward, Babupeth, Chandrapur, Maharashtra 442402",
+    "area": "Balaji Ward, Babupeth",
+    "latitude": 19.946374,
+    "longitude": 79.2957115,
+    "place_id": "ChIJK9TzACbU0jsRt3nUMLiFzzA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK9TzACbU0jsRt3nUMLiFzzA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:01:50"
+  }
+]

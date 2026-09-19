@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Balaji Home Touch",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store, General store",
+    "pincode": "441801",
+    "phone_number": "+91 78758 55923",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shri Balaji Home Touch Radha Krushn Ward, near Manavta School, Bajpai Ward, Shrinagar, Nangpura Murri, Maharashtra 441614",
+    "area": "Bajpai Ward, Shrinagar",
+    "latitude": 21.4572207,
+    "longitude": 80.18048379999999,
+    "place_id": "ChIJ____b1KpKzoRPjETrA8gJr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____b1KpKzoRPjETrA8gJr4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:46:51"
+  },
+  {
+    "business_name": "Tinu home",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Home help",
+    "all_categories": "Home help",
+    "pincode": "441801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8685+XRG, Bhadanga, Maharashtra 441801",
+    "area": "441801",
+    "latitude": 21.31656,
+    "longitude": 80.2104849,
+    "place_id": "ChIJ-0BDPrSlKzoR5wzLcuGbnjs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-0BDPrSlKzoR5wzLcuGbnjs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:46:52"
+  }
+]

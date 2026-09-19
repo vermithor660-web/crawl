@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ali Steel Fabrication",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Steel fabricator",
+    "all_categories": "Steel fabricator",
+    "pincode": "441205",
+    "phone_number": "+91 90113 25616",
+    "website": "https://ali-steel-fabrication.grexa.site/",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "Bypass Road, Ashtabhuja, Babupeth, Chandrapur, Maharashtra 442401",
+    "area": "Ashtabhuja, Babupeth",
+    "latitude": 19.9507084,
+    "longitude": 79.3193613,
+    "place_id": "ChIJjeK8WLzV0jsRb7NBlsrrCz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjeK8WLzV0jsRb7NBlsrrCz8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:52:47"
+  },
+  {
+    "business_name": "Sudhir Fabricators Welding Workshop",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Metal fabricator",
+    "all_categories": "Metal fabricator",
+    "pincode": "441205",
+    "phone_number": "+91 74105 95311",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Revenue Colony, Chandrapur, Maharashtra 442401",
+    "area": "Revenue Colony",
+    "latitude": 19.9637995,
+    "longitude": 79.2859002,
+    "place_id": "ChIJZynqSnnW0jsRAvnbn_0SXRQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZynqSnnW0jsRAvnbn_0SXRQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:52:47"
+  }
+]

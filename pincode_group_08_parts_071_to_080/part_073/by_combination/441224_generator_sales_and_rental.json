@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Honda generator service station",
+    "search_category": "Generator Sales and Rental",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "441224",
+    "phone_number": "+91 86684 08706",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "Sapna talkies complex, Chandrapur, Maharashtra 442401",
+    "area": "Bazar Ward",
+    "latitude": 19.959194099999998,
+    "longitude": 79.2968451,
+    "place_id": "ChIJTQW4i8XV0jsRp7lwhD5mADs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQW4i8XV0jsRp7lwhD5mADs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:15:06"
+  },
+  {
+    "business_name": "Accurate Powertech India Pvt Ltd",
+    "search_category": "Generator Sales and Rental",
+    "primary_category": "Supplier",
+    "all_categories": "Supplier",
+    "pincode": "441224",
+    "phone_number": "+91 98226 02449",
+    "website": "https://www.accurategensets.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "4,5.6, Old Mumbai - Pune Hwy, opp. Mega Mart, Sanjay Nagar, Phugewadi, Dapodi, Pimpri-Chinchwad, Maharashtra 411012",
+    "area": "Sanjay Nagar, Phugewadi, Dapodi",
+    "latitude": 18.585953099999998,
+    "longitude": 73.8328121,
+    "place_id": "ChIJQz4IeaW4wjsRv-sqU0GptHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQz4IeaW4wjsRv-sqU0GptHw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:15:08"
+  }
+]

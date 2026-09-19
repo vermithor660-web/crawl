@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Marbate Fish Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "441905",
+    "phone_number": "+91 88069 05436",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4MWC 4WF, Machi Bazar, At, Kardha, Maharashtra 441924",
+    "area": "441905",
+    "latitude": 21.145630999999998,
+    "longitude": 79.6720553,
+    "place_id": "ChIJmzU2OhJBKzoRlYdga9Rd9WQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmzU2OhJBKzoRlYdga9Rd9WQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:06:59"
+  },
+  {
+    "business_name": "Matasya maai fish agro pvt.ltd",
+    "search_category": "Fish Market",
+    "primary_category": "Fishery",
+    "all_categories": "Fishery",
+    "pincode": "441905",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5M5C+MWR, Bhandara, Maharashtra 441904",
+    "area": "441905",
+    "latitude": 21.1592391,
+    "longitude": 79.6722765,
+    "place_id": "ChIJu3K1Oiw_KzoRlY1pf9SXWog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu3K1Oiw_KzoRlY1pf9SXWog",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:06:59"
+  }
+]

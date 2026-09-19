@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jeet Insurance",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Consultant, Health insurance agency, Insurance broker, Motorcycle insurance agency",
+    "pincode": "441901",
+    "phone_number": "+91 96910 01199",
+    "website": "https://www.facebook.com/share/1D39nU5zaJ/",
+    "rating": 5,
+    "reviews_count": 29,
+    "address": "Bakhtawar chal, Lahari Sadan, Tulsipur, Rajnandgaon, Chhattisgarh 491441",
+    "area": "Tulsipur",
+    "latitude": 21.1024188,
+    "longitude": 81.0212423,
+    "place_id": "ChIJAxwRvTtFKToRxluiL_HLVTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAxwRvTtFKToRxluiL_HLVTA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:01:14"
+  },
+  {
+    "business_name": "Prajyot tularam bhute",
+    "search_category": "Insurance Agent",
+    "primary_category": "Home insurance agency",
+    "all_categories": "Home insurance agency",
+    "pincode": "441901",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "597C+CWM, Mulla, Maharashtra 441902",
+    "area": "441901",
+    "latitude": 21.1635986,
+    "longitude": 80.3722932,
+    "place_id": "ChIJtbVfIACVKzoRhC5UdiqTWp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtbVfIACVKzoRhC5UdiqTWp8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:01:15"
+  }
+]

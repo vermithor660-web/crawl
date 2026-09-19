@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Edible Products India Ltd",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "441226",
+    "phone_number": "+91 89815 41956",
+    "website": "http://ediblegroup.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Gopal Chandra, 1/1A & B, Gopal Mukherjee Rd, Chunibabu Bazar, Sawdagarh Pally, Kolkata, West Bengal 700002",
+    "area": "Chunibabu Bazar, Sawdagarh Pally",
+    "latitude": 22.6123104,
+    "longitude": 88.37629869999999,
+    "place_id": "ChIJ8UUvjZWd-DkRdhJFJOQnwKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8UUvjZWd-DkRdhJFJOQnwKk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:17:07"
+  },
+  {
+    "business_name": "SitaRam Tractors And Oil Shopee",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Two Wheeler Repair Shop, Tractor dealer",
+    "pincode": "441226",
+    "phone_number": "+91 83810 80383",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SitaRam Oil Shopee, Mul Road, near Bank Of India, Ganesh Nagar, Chamorshi, Maharashtra 442603",
+    "area": "Ganesh Nagar",
+    "latitude": 19.9376987,
+    "longitude": 79.887239,
+    "place_id": "ChIJr-CBH9cbLToR7R43883PGv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-CBH9cbLToR7R43883PGv8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:17:10"
+  }
+]

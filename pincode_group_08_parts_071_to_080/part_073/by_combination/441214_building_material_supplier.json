@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sachin contrition and builders material suppliers",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "441214",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M6J8+966, Salebhatti, Maharashtra 441214",
+    "area": "441214",
+    "latitude": 20.6809041,
+    "longitude": 79.2155073,
+    "place_id": "ChIJcVVBMgBX0zsRNlJ42escL-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcVVBMgBX0zsRNlJ42escL-s",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:04:04"
+  },
+  {
+    "business_name": "Chandra power fencing",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Aggregate supplier",
+    "all_categories": "Aggregate supplier",
+    "pincode": "441214",
+    "phone_number": "N/A",
+    "website": "http://chandrapowerfencing.in/",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Maharashtra, Sirsi (r), Maharashtra 441214",
+    "area": "441214",
+    "latitude": 20.6743505,
+    "longitude": 79.17161469999999,
+    "place_id": "ChIJueXkX8hZ0zsRi4fvOx_m7Wc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJueXkX8hZ0zsRi4fvOx_m7Wc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:04:04"
+  }
+]

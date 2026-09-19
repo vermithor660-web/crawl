@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "clothing drip",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing supplier",
+    "all_categories": "Clothing supplier, Service establishment",
+    "pincode": "441902",
+    "phone_number": "N/A",
+    "website": "http://clothingdrip.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "clothing drip, 441902, India",
+    "area": "441902",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJpzwQzALIHoERWM7O1WZDjl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpzwQzALIHoERWM7O1WZDjl4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:01:58"
+  },
+  {
+    "business_name": "Adarsh Vastra Bhandhar",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "441902",
+    "phone_number": "+91 7189 225 186",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 17,
+    "address": "Main Road Amgaon, Amgaon, Maharashtra 441902",
+    "area": "441902",
+    "latitude": 21.3732226,
+    "longitude": 80.380417,
+    "place_id": "ChIJITsa8u65KzoRc3K4TxGIGXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJITsa8u65KzoRc3K4TxGIGXY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:01:58"
+  }
+]

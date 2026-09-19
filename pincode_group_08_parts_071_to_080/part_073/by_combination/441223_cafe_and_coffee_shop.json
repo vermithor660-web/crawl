@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raantaru cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "441223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 33,
+    "address": "Tadoba road, Maharashtra 442404",
+    "area": "441223",
+    "latitude": 20.1920504,
+    "longitude": 79.3362473,
+    "place_id": "ChIJnQuAd50t0zsRDWRVOSbnBEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnQuAd50t0zsRDWRVOSbnBEI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:12:02"
+  },
+  {
+    "business_name": "Panchdhara tadoba restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "441223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 3,
+    "address": "C97G+Q54, Chimur, Masal Bk, Maharashtra 442903",
+    "area": "441223",
+    "latitude": 20.414393999999998,
+    "longitude": 79.3754472,
+    "place_id": "ChIJmUs9eABL0zsRmNTYuS-j0A4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUs9eABL0zsRmNTYuS-j0A4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:12:02"
+  }
+]

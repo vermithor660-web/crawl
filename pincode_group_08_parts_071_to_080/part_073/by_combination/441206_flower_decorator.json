@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramesh Art & Flowers Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Painter",
+    "all_categories": "Painter",
+    "pincode": "441206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GW36+X4R, Belpatali, Maharashtra 441206",
+    "area": "441206",
+    "latitude": 20.504981,
+    "longitude": 79.910276,
+    "place_id": "ChIJh2CO1RGTLDoRoE1FidLYFIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh2CO1RGTLDoRoE1FidLYFIg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:54:05"
+  },
+  {
+    "business_name": "Akash Flower Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "441206",
+    "phone_number": "+91 84597 37401",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "89, Talodhi Road, Msrtc Area, Balapur, Brahmapuri, Maharashtra 441206",
+    "area": "Msrtc Area",
+    "latitude": 20.6171215,
+    "longitude": 79.8561007,
+    "place_id": "ChIJK-zABIabLDoRfhTNxHDb3SM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK-zABIabLDoRfhTNxHDb3SM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:54:07"
+  }
+]

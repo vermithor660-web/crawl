@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanha Jents Parlour",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "441223",
+    "phone_number": "+91 97642 57419",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bus Stop, Road, Wasera, Gadbori, Maharashtra 441223",
+    "area": "441223",
+    "latitude": 20.2952187,
+    "longitude": 79.59025059999999,
+    "place_id": "ChIJYeY2-WvFLDoRN-DZCcZQYvE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYeY2-WvFLDoRN-DZCcZQYvE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:12:40"
+  },
+  {
+    "business_name": "VIBGYOR THE SALON & INSTITUTE",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "441223",
+    "phone_number": "+91 80554 34765",
+    "website": "https://id.vyaparify.com/vibgyor-the-salon-&-institute",
+    "rating": 4.9,
+    "reviews_count": 229,
+    "address": "Vibgyor the Salon & Institute, Main Rd, near Ice factory, Ganesh Nagar, Gondia, Maharashtra 441601",
+    "area": "Ganesh Nagar",
+    "latitude": 21.45131,
+    "longitude": 80.1950604,
+    "place_id": "ChIJZUdEPxypKzoR_ZuhcRc3ujA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZUdEPxypKzoR_ZuhcRc3ujA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:12:42"
+  }
+]

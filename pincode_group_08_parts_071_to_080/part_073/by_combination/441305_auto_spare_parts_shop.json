@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Lakshmi automobile parts sawargaon",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "441305",
+    "phone_number": "+91 88062 01867",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ta narkhed, Sawargaon, Maharashtra 441306",
+    "area": "ta narkhed",
+    "latitude": 21.395446399999997,
+    "longitude": 78.6377984,
+    "place_id": "ChIJO8OyEOtV1DsRAAAAsKxqPSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO8OyEOtV1DsRAAAAsKxqPSY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:28:15"
+  },
+  {
+    "business_name": "Jai Bajrang Automobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "441305",
+    "phone_number": "+91 95613 06185",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, Sawargaon, Maharashtra 441306",
+    "area": "441305",
+    "latitude": 21.3967766,
+    "longitude": 78.6318983,
+    "place_id": "ChIJP2BbGEtV1DsRy4-jcfNsB-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP2BbGEtV1DsRy4-jcfNsB-o",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:28:15"
+  }
+]

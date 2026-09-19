@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vainganga FinTax",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant",
+    "pincode": "441702",
+    "phone_number": "N/A",
+    "website": "https://www.vainganga.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mahalgaon, Maharashtra 441806",
+    "area": "441702",
+    "latitude": 21.0141867,
+    "longitude": 80.04419229999999,
+    "place_id": "ChIJ4wa2loZ3KzoR3QYlDZMgfAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4wa2loZ3KzoR3QYlDZMgfAY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:45:28"
+  },
+  {
+    "business_name": "CYBOT-X Technologies",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Security service",
+    "all_categories": "Security service",
+    "pincode": "441702",
+    "phone_number": "+91 91588 25951",
+    "website": "http://cybot-x.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MB Patel College Rd, Sakoli, Maharashtra 441802",
+    "area": "441702",
+    "latitude": 21.085979899999998,
+    "longitude": 79.99949749999999,
+    "place_id": "ChIJa1aVJlhxKzoR-8vi_13UesY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1aVJlhxKzoR-8vi_13UesY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:45:28"
+  }
+]

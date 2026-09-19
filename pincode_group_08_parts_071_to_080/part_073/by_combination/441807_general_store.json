@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "J K General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "441807",
+    "phone_number": "+91 84088 04380",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gondia Road, Dawwa, Maharashtra 441807",
+    "area": "441807",
+    "latitude": 21.1799182,
+    "longitude": 80.1771031,
+    "place_id": "ChIJF_UTBeyfKzoRVQo1loI707o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF_UTBeyfKzoRVQo1loI707o",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:56:28"
+  },
+  {
+    "business_name": "Dharvi General stationary And Xerox",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "441807",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NH6, Dongargaon, Maharashtra 441807",
+    "area": "441807",
+    "latitude": 21.065014299999998,
+    "longitude": 80.2417479,
+    "place_id": "ChIJ2am8qVObKzoR4yk_kKIPj04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2am8qVObKzoR4yk_kKIPj04",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:56:30"
+  }
+]

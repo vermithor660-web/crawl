@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanha Amruttulya",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "441302",
+    "phone_number": "+91 80800 33948",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "252, Katol Rd, Panchsheel Nagar, Gittikhadan, Nagpur, Maharashtra 440013",
+    "area": "Panchsheel Nagar, Gittikhadan",
+    "latitude": 21.1739587,
+    "longitude": 79.05837369999999,
+    "place_id": "ChIJ7-jnFADB1DsRUteqkHuHdAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7-jnFADB1DsRUteqkHuHdAw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:22:29"
+  },
+  {
+    "business_name": "Kadak Chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Fast food restaurant",
+    "pincode": "441302",
+    "phone_number": "+91 80552 19711",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 143,
+    "address": "KT Nagar, Nagpur, Maharashtra 440013",
+    "area": "KT Nagar",
+    "latitude": 21.174414799999997,
+    "longitude": 79.0508201,
+    "place_id": "ChIJ2TiYWejB1DsRbYXA9jtL-s8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2TiYWejB1DsRbYXA9jtL-s8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:22:29"
+  }
+]

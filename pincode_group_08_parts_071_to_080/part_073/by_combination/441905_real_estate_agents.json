@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditya Ishwarkar",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Office space rental agency",
+    "all_categories": "Office space rental agency",
+    "pincode": "441905",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7M9Q+M3X, Rohana, Maharashtra 441905",
+    "area": "441905",
+    "latitude": 21.2692272,
+    "longitude": 79.6877416,
+    "place_id": "ChIJMZlzZQA9KzoRC1jMgMXamtg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMZlzZQA9KzoRC1jMgMXamtg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:08:18"
+  },
+  {
+    "business_name": "KOMAL RAIKWAD HOMES",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "441905",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8M4F+J6Q, Mohadi, Maharashtra 441909",
+    "area": "441905",
+    "latitude": 21.3065996,
+    "longitude": 79.67312249999999,
+    "place_id": "ChIJLSYfAAA9KzoROH4mXE_QUG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLSYfAAA9KzoROH4mXE_QUG4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:08:18"
+  }
+]

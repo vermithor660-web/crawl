@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om building services",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Electrical engineer, Wholesale market",
+    "pincode": "441804",
+    "phone_number": "+91 74996 25484",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "At, dist, Murmadi, Maharashtra 441804",
+    "area": "441804",
+    "latitude": 21.0669964,
+    "longitude": 79.8225489,
+    "place_id": "ChIJFYJ6sqxpKzoRrkwk7DCCY-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFYJ6sqxpKzoRrkwk7DCCY-c",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:51:56"
+  },
+  {
+    "business_name": "Rahul Plumber services",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "441804",
+    "phone_number": "+91 95454 30570",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lalalajpatroy ward, Santaji Nagar, Bhandara, Maharashtra 441904",
+    "area": "Santaji Nagar",
+    "latitude": 21.1679067,
+    "longitude": 79.66003429999999,
+    "place_id": "ChIJoSbj6q4_KzoRuenwB59-DsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoSbj6q4_KzoRuenwB59-DsY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:51:58"
+  }
+]

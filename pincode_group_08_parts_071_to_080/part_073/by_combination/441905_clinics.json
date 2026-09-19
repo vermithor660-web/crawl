@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kahalkar Chiropractor Care Center Bhandara",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "441905",
+    "phone_number": "+91 95792 11571",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "in front of Sai Mandir, near kiran biryani hotel, Shivaji Ward, Bhandara, Maharashtra 441904",
+    "area": "Shivaji Ward",
+    "latitude": 21.177657999999997,
+    "longitude": 79.6570127,
+    "place_id": "ChIJfRlbwFM_KzoR95iNpz9rlBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRlbwFM_KzoR95iNpz9rlBk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:07:19"
+  },
+  {
+    "business_name": "Matoshree Multispeciality Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "441905",
+    "phone_number": "N/A",
+    "website": "https://matoshreeclinic.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ambedkar Ward, near Post Office, in front of Railway Gate, Warthi, Maharashtra 441905",
+    "area": "441905",
+    "latitude": 21.2379264,
+    "longitude": 79.6459359,
+    "place_id": "ChIJx0N5ekU5KzoRqFP1wflJgBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx0N5ekU5KzoRqFP1wflJgBE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:07:20"
+  }
+]

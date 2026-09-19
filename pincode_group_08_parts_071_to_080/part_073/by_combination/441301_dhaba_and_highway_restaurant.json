@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Durgesh Dhaba and Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "441301",
+    "phone_number": "+91 96735 74572",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "on warud to Nagpur state highway between Amner village and dhaga, village, Amner, Maharashtra 444906",
+    "area": "441301",
+    "latitude": 21.406914999999998,
+    "longitude": 78.3942531,
+    "place_id": "ChIJM9e6mOFN1DsRoQLpdBV3huc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM9e6mOFN1DsRoQLpdBV3huc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:20:45"
+  },
+  {
+    "business_name": "Aadesh Family Garden Restaurant & Bar",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Bar, Family restaurant, Restaurant",
+    "pincode": "441301",
+    "phone_number": "+91 90751 17625",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "NH 353J, Katol, Maharashtra 441302",
+    "area": "441301",
+    "latitude": 21.286804099999998,
+    "longitude": 78.57103339999999,
+    "place_id": "ChIJH65vBlJX1DsREdxoYF1fuGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH65vBlJX1DsREdxoYF1fuGk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:20:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditya Lakade",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "441208",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C2CP+CPH, Chamarshi, Maharashtra 441208",
+    "area": "441208",
+    "latitude": 20.4210741,
+    "longitude": 80.03686019999999,
+    "place_id": "ChIJhQWnMgD1LDoRYNz1O2ZSgm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhQWnMgD1LDoRYNz1O2ZSgm8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:57:52"
+  },
+  {
+    "business_name": "Reva Agro Agency",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Plant nursery",
+    "all_categories": "Plant nursery",
+    "pincode": "441208",
+    "phone_number": "+91 94221 96426",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Juni Chakki Main Road, Porla, Teh.Dist Gadchiroli 442606, Maharashtra 442605",
+    "area": "441208",
+    "latitude": 20.3162007,
+    "longitude": 79.9777124,
+    "place_id": "ChIJ473Ys-_xLDoRlng4HCOBFdY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ473Ys-_xLDoRlng4HCOBFdY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:57:54"
+  }
+]

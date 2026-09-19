@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gajnan food products",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "441215",
+    "phone_number": "+91 95035 24131",
+    "website": "http://www.gajananfoodproducts.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road - Saoli, Vyahad Buj, Vyahad Bk., Maharashtra 441225",
+    "area": "441215",
+    "latitude": 20.1040197,
+    "longitude": 79.91274399999999,
+    "place_id": "ChIJW1UwcTHjLDoRvNAfPpkLPu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1UwcTHjLDoRvNAfPpkLPu4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:05:07"
+  },
+  {
+    "business_name": "AMUL STORE : HEAVENLY ICECREAM PARLOUR",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Wholesale bakery, Wholesale Food Store",
+    "pincode": "441215",
+    "phone_number": "+91 70575 86987",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "SHRI MANGAL KARYALAY, Rampuri, Gadchiroli, Maharashtra 442605",
+    "area": "Rampuri",
+    "latitude": 20.187558799999998,
+    "longitude": 80.00540629999999,
+    "place_id": "ChIJ99--uiH7LDoRE-xIB-_0I68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ99--uiH7LDoRE-xIB-_0I68",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:05:07"
+  }
+]

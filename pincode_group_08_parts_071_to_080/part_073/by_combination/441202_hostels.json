@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OBC Boys Hostel Nagpur",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "441202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 31,
+    "address": "5, Umred Rd, Sarvashree Nagar, Dighori, Nagpur, Bahadura, Maharashtra 440034",
+    "area": "Sarvashree Nagar, Dighori",
+    "latitude": 21.0948569,
+    "longitude": 79.1549751,
+    "place_id": "ChIJFw6Yn1i41DsReCtZg_I4ksY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFw6Yn1i41DsReCtZg_I4ksY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:46:55"
+  },
+  {
+    "business_name": "Symbiosis girls hostel",
+    "search_category": "Hostels",
+    "primary_category": "Girls' hostel",
+    "all_categories": "Girls' hostel",
+    "pincode": "441202",
+    "phone_number": "N/A",
+    "website": "https://www.sibmnagpur.edu.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "45H6+CCJ, Nagpur, Maharashtra 440035",
+    "area": "441202",
+    "latitude": 21.1285775,
+    "longitude": 79.1610003,
+    "place_id": "ChIJaSAcBgDH1DsR_KxhYqtoBN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaSAcBgDH1DsR_KxhYqtoBN4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:46:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Criticare Hospital & Research Institute",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "441404",
+    "phone_number": "+91 93098 70411",
+    "website": "https://criticarenagpur.com/",
+    "rating": 4.7,
+    "reviews_count": 609,
+    "address": "4th Floor, Dhanshri Complex, Humpyard Rd, near Hardeo Hotel, Sitabuldi, Nagpur, Maharashtra 440012",
+    "area": "Sitabuldi",
+    "latitude": 21.140557599999998,
+    "longitude": 79.0854809,
+    "place_id": "ChIJJ1EMv5XA1DsRj_jEK1eHBRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ1EMv5XA1DsRj_jEK1eHBRM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:33:46"
+  },
+  {
+    "business_name": "Dr. Ambedkar Charitable Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "441404",
+    "phone_number": "+91 77960 66149",
+    "website": "https://ambedkarcharitablehospital.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "6, Nari Rd, Nari Village, Nagpur, Maharashtra 440026",
+    "area": "Nari Village",
+    "latitude": 21.192154199999997,
+    "longitude": 79.1098887,
+    "place_id": "ChIJZQh7VADH1DsR2Fg2xl3LU8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQh7VADH1DsR2Fg2xl3LU8w",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:33:46"
+  }
+]

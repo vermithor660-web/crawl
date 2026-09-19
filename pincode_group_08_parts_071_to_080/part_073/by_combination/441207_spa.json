@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anil Jents Parler",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "441207",
+    "phone_number": "+91 89751 52085",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, Wadsa, Desaiganj, Maharashtra 441207",
+    "area": "Wadsa",
+    "latitude": 20.6242722,
+    "longitude": 79.9616681,
+    "place_id": "ChIJJemyT6CFLDoRa-17U2X7EKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJemyT6CFLDoRa-17U2X7EKs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:55:40"
+  },
+  {
+    "business_name": "Roshni Beauty Parlour",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "441207",
+    "phone_number": "+91 93591 60683",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, Gournagar, Visora, Maharashtra 441207",
+    "area": "441207",
+    "latitude": 20.6430084,
+    "longitude": 80.0051052,
+    "place_id": "ChIJM47YeUeFLDoRWml31E8fPgI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM47YeUeFLDoRWml31E8fPgI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:55:40"
+  }
+]

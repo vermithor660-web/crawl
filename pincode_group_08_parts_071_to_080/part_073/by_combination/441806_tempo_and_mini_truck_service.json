@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mini Transport",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "441806",
+    "phone_number": "+91 83053 29422",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 17, Kulpa, Maharashtra 481224",
+    "area": "441806",
+    "latitude": 21.385965199999998,
+    "longitude": 80.41954,
+    "place_id": "ChIJywpYUaK5KzoRDn6V1F4huM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJywpYUaK5KzoRDn6V1F4huM4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:55:20"
+  },
+  {
+    "business_name": "Powertrac Tractor - NIDHEE MOTORS",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "441806",
+    "phone_number": "N/A",
+    "website": "https://www.powertracagri.com/mh/en/dealers/nidhee-motors-sakoli/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GANDHI WARD, MAIN ROAD, SOUNDAD, GONDIA, Sakoli, Maharashtra 441806",
+    "area": "441806",
+    "latitude": 21.0750322,
+    "longitude": 80.0887242,
+    "place_id": "ChIJn_nszCd3KzoRFq7j-Xzr2Lo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn_nszCd3KzoRFq7j-Xzr2Lo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:55:23"
+  }
+]

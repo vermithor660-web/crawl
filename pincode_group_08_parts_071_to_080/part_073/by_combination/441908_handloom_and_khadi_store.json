@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dayal Khadi Bhandar",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "441908",
+    "phone_number": "+91 95288 80002",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "313-314, Subhash Bazaar, Meerut, Uttar Pradesh 250002",
+    "area": "Subhash Bazaar",
+    "latitude": 28.9800564,
+    "longitude": 77.70629029999999,
+    "place_id": "ChIJVVVVufdkDDkRIfqHy-Tz2Nk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVufdkDDkRIfqHy-Tz2Nk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:12:27"
+  },
+  {
+    "business_name": "Khadi Bhandar",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Handicraft",
+    "pincode": "441908",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 18,
+    "address": "Harijan Sevak Sangh, Dhaka Colony, Mukherjee Nagar, Delhi, 110033",
+    "area": "Dhaka Colony, Mukherjee Nagar",
+    "latitude": 28.705633199999998,
+    "longitude": 77.2051646,
+    "place_id": "ChIJvxA82Pr9DDkRmd3XtFRpfhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvxA82Pr9DDkRmd3XtFRpfhU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:12:28"
+  }
+]

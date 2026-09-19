@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nalanda Library & Computer Training Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Library",
+    "all_categories": "Library",
+    "pincode": "441401",
+    "phone_number": "+91 85518 83023",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Plot no.122, Tiwari Nagar, Bhilgaon, Maharashtra 440026",
+    "area": "Bhilgaon",
+    "latitude": 21.1934243,
+    "longitude": 79.1453767,
+    "place_id": "ChIJuXwam2PH1DsRCZMJvk_33TY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuXwam2PH1DsRCZMJvk_33TY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:32:35"
+  },
+  {
+    "business_name": "Alpha Computer Academy",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer training school",
+    "all_categories": "Computer training school, Computer club",
+    "pincode": "441401",
+    "phone_number": "+91 96237 70900",
+    "website": "https://www.facebook.com/Alpha-Computer-Academy-1789964227701828/?modal=admin_todo_tour",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "13, near Nagpure Primary School, Neta Ji Nagar, Pardi, Nagpur, Maharashtra 440035",
+    "area": "Neta Ji Nagar, Pardi",
+    "latitude": 21.158454199999998,
+    "longitude": 79.1514229,
+    "place_id": "ChIJLQ5E-wjH1DsRa7vZ0SKNcxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLQ5E-wjH1DsRa7vZ0SKNcxc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:32:35"
+  }
+]

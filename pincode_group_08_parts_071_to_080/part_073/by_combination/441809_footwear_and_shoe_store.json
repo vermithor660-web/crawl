@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samrat Boot",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "441809",
+    "phone_number": "+91 99600 46977",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Pohara, Maharashtra 441809",
+    "area": "441809",
+    "latitude": 21.034627,
+    "longitude": 79.8477748,
+    "place_id": "ChIJZ717XBtvKzoRYHh-EDl73rM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ717XBtvKzoRYHh-EDl73rM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:58:28"
+  },
+  {
+    "business_name": "Sansar Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "441809",
+    "phone_number": "+91 86690 14377",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sakoli Road, Lakhni, Maharashtra 441804",
+    "area": "441809",
+    "latitude": 21.0691828,
+    "longitude": 79.8305172,
+    "place_id": "ChIJ9Sy3p9xvKzoR3C8oXNJsh_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Sy3p9xvKzoR3C8oXNJsh_Y",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:58:28"
+  }
+]

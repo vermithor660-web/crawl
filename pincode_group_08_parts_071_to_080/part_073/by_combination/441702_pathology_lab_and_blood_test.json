@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KPT Clinic & Laboratory",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory, Hospital",
+    "pincode": "441702",
+    "phone_number": "+91 7186 237 890",
+    "website": "http://kptcare.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "MB Patel College Rd, Sakoli, Maharashtra 441802",
+    "area": "441702",
+    "latitude": 21.084715199999998,
+    "longitude": 79.99909009999999,
+    "place_id": "ChIJBdoEnP9zKzoRa7e8sFShKl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBdoEnP9zKzoRa7e8sFShKl8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:44:29"
+  },
+  {
+    "business_name": "Life Care Scan & Research Centre",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Medical diagnostic imaging center",
+    "all_categories": "Medical diagnostic imaging center",
+    "pincode": "441702",
+    "phone_number": "+91 83499 99518",
+    "website": "http://www.lifecarescan.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Om Parisar, Mohan Nagar, Arya Nagar, Durg, Chhattisgarh 491001",
+    "area": "Mohan Nagar",
+    "latitude": 21.1993658,
+    "longitude": 81.28572319999999,
+    "place_id": "ChIJYSZAiFI8KToRpNnqaSWPSj0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYSZAiFI8KToRpNnqaSWPSj0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:44:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ola Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto body shop, Auto painting",
+    "pincode": "441207",
+    "phone_number": "+91 88514 01212",
+    "website": "https://olacarwash.com/okhla",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ground Floor, X-14, 2, Sanjay Colony II, Pocket Z, Okhla Phase II, Okhla Industrial Estate, New Delhi, Delhi 110020",
+    "area": "Sanjay Colony II, Pocket Z, Okhla Phase II, Okhla Industrial Estate",
+    "latitude": 28.5422405,
+    "longitude": 77.278042,
+    "place_id": "ChIJrRAoxfPhDDkRCqMD3eVV7kI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrRAoxfPhDDkRCqMD3eVV7kI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:55:23"
+  },
+  {
+    "business_name": "Miracle Car",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto insurance agency, Auto machine shop, Auto tune up service, Car repair and maintenance service, Motor vehicle dealer",
+    "pincode": "441207",
+    "phone_number": "+91 99234 64677",
+    "website": "https://miraclecaramravati.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Samarthwadi - Yogiraj Govind Maharaj Temple, Badnera Rd, Shashi Nagar, Guruchhaya Colony, Sai Nagar, Amravati, Maharashtra 444607",
+    "area": "Shashi Nagar, Guruchhaya Colony, Sai Nagar",
+    "latitude": 20.8890796,
+    "longitude": 77.7472731,
+    "place_id": "ChIJZZ1YfdWk1jsRJXyz2J9Rd8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZZ1YfdWk1jsRJXyz2J9Rd8s",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:55:23"
+  }
+]

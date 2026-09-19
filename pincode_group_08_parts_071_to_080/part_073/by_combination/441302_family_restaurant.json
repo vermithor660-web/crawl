@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalash family garden restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "441302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7H9Q+WRJ, Laxmi Nagar, Katol, Maharashtra 441302",
+    "area": "Laxmi Nagar",
+    "latitude": 21.2698255,
+    "longitude": 78.5895228,
+    "place_id": "ChIJTb1efQBZ1DsRW-CIE_-9scw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTb1efQBZ1DsRW-CIE_-9scw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:22:35"
+  },
+  {
+    "business_name": "Bikaner Bhojnalay",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "441302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SH-247, Sawargaon Road, Saraswati Nagar, Laxmi Nagar, Katol, Maharashtra 441302",
+    "area": "Saraswati Nagar, Laxmi Nagar",
+    "latitude": 21.2678071,
+    "longitude": 78.58676799999999,
+    "place_id": "ChIJ7UtXaABZ1DsRNu74pLBcEbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7UtXaABZ1DsRNu74pLBcEbs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:22:35"
+  }
+]

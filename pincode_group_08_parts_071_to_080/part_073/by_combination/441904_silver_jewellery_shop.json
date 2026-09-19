@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nihal Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "441904",
+    "phone_number": "+91 90117 96478",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bada bazar, Kawale nursing home, Main Rd, Santaji Nagar, Bhandara, Maharashtra 441904",
+    "area": "Santaji Nagar",
+    "latitude": 21.1649435,
+    "longitude": 79.65603999999999,
+    "place_id": "ChIJC_DkfyU_KzoRW5TgdRpb6x0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC_DkfyU_KzoRW5TgdRpb6x0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:05:27"
+  },
+  {
+    "business_name": "Priyanka Royal Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "441904",
+    "phone_number": "+91 97666 35157",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bada Bazar, behind Hanuman Temple, Santaji Nagar, Bhandara, Maharashtra 441904",
+    "area": "Santaji Nagar",
+    "latitude": 21.1640761,
+    "longitude": 79.6576741,
+    "place_id": "ChIJ4-ZcwMY_KzoROyzeEre0N1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4-ZcwMY_KzoROyzeEre0N1w",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:05:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adi toys & Gift shop",
+    "search_category": "Gifting",
+    "primary_category": "Toy store",
+    "all_categories": "Toy store",
+    "pincode": "441501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kalmeshwar, Kalmeshwar-Bramhni, Maharashtra 441501",
+    "area": "Kalmeshwar",
+    "latitude": 21.230349699999998,
+    "longitude": 78.9223909,
+    "place_id": "ChIJ3ba9Idfv1DsRr-gptRO-2h0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ba9Idfv1DsRr-gptRO-2h0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:36:12"
+  },
+  {
+    "business_name": "The Silver Lining by Pagfera",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "441501",
+    "phone_number": "+91 98232 14109",
+    "website": "https://www.instagram.com/thesilverliningnagpur/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "201, Le Marvel, Temple Rd, Sita Kunj, Civil Lines, Nagpur, Maharashtra 440001",
+    "area": "Sita Kunj, Civil Lines",
+    "latitude": 21.1486442,
+    "longitude": 79.0757596,
+    "place_id": "ChIJQZM7dfLA1DsR63B5osBkATU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZM7dfLA1DsR63B5osBkATU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:36:13"
+  }
+]

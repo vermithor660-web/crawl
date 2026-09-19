@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Metro Shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "441305",
+    "phone_number": "+91 20 4677 9268",
+    "website": "https://stores.metroshoes.com/metro-seasons-mall-south-magarpattacity-hadpsar-haveli-pune-pss",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "27, Ground Floor, SEASONS MALL, Unit No G, Magarpatta, Hadpsar, Pune, Maharashtra 411028",
+    "area": "Magarpatta, Hadpsar",
+    "latitude": 18.519183599999998,
+    "longitude": 73.93100489999999,
+    "place_id": "ChIJrRnCEY3BwjsRcyqczOkIdk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrRnCEY3BwjsRcyqczOkIdk0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:28:00"
+  },
+  {
+    "business_name": "Trends Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "441305",
+    "phone_number": "+91 70241 21433",
+    "website": "https://stores.trends-footwear.com/trends-footwear-rrl-footprint-city-centre-mega-mall-raipur-shoe-shop-pandri-raipur-477519/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "near Bus Stand Road, Pandri, Raipur, Chhattisgarh 492001",
+    "area": "Pandri",
+    "latitude": 21.2549375,
+    "longitude": 81.64643749999999,
+    "place_id": "ChIJO403ORbdKDoRqvcKHBI1LkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO403ORbdKDoRqvcKHBI1LkA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:28:00"
+  }
+]

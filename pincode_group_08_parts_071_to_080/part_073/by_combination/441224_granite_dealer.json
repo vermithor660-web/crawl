@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Shyam Granite",
+    "search_category": "Granite Dealer",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "441224",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nagpur Rd, Wadgaon, Lakhamapur, Maharashtra 442401",
+    "area": "Wadgaon",
+    "latitude": 19.9911466,
+    "longitude": 79.2656497,
+    "place_id": "ChIJceyHYwDX0jsRBvU7Olyhg1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJceyHYwDX0jsRBvU7Olyhg1k",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:14:20"
+  },
+  {
+    "business_name": "Mahalaxmi Marble",
+    "search_category": "Granite Dealer",
+    "primary_category": "Marble contractor",
+    "all_categories": "Marble contractor",
+    "pincode": "441224",
+    "phone_number": "+91 98603 34475",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 8,
+    "address": "X7QG+493, Wadgaon, Chandrapur, Maharashtra 442401",
+    "area": "Wadgaon",
+    "latitude": 19.987755,
+    "longitude": 79.27591819999999,
+    "place_id": "ChIJu-eBDm_X0jsRPrgm-q8GkTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu-eBDm_X0jsRPrgm-q8GkTI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:14:20"
+  }
+]

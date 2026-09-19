@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Forest Tourism Guest House",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "441701",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 65,
+    "address": "W484+4RR, Navegaon, Nawegaon Bandh, Maharashtra 441702",
+    "area": "Navegaon",
+    "latitude": 20.915367399999997,
+    "longitude": 80.1070012,
+    "place_id": "ChIJlRNgrw-CKzoRYUpyEgCEpok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlRNgrw-CKzoRYUpyEgCEpok",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:43:19"
+  },
+  {
+    "business_name": "MTDC BODHALKASA",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "441701",
+    "phone_number": "+91 74980 72309",
+    "website": "http://www.mtdc.co/",
+    "rating": 4.2,
+    "reviews_count": 143,
+    "address": "9229+GJQ, Bodalkasa, Maharashtra 441911",
+    "area": "441701",
+    "latitude": 21.3512822,
+    "longitude": 80.0191045,
+    "place_id": "ChIJG2bjJQAJKzoRKEZuUnAwx98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG2bjJQAJKzoRKEZuUnAwx98",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:43:19"
+  }
+]

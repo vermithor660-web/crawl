@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anabhi Farms",
+    "search_category": "PG",
+    "primary_category": "Garden",
+    "all_categories": "Garden",
+    "pincode": "441305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5FX2+PG, Selgaon Lawane., Maharashtra 442203",
+    "area": "441305",
+    "latitude": 21.199279,
+    "longitude": 78.451364,
+    "place_id": "ChIJbxlVOABF1DsRwGhnf6-z5Ng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbxlVOABF1DsRwGhnf6-z5Ng",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:28:44"
+  },
+  {
+    "business_name": "Jai Durga Emporium",
+    "search_category": "PG",
+    "primary_category": "Electronics wholesaler",
+    "all_categories": "Electronics wholesaler, Furniture wholesaler",
+    "pincode": "441305",
+    "phone_number": "+91 72764 44553",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 10,
+    "address": "Bazar, Chowk, Sawargaon, Maharashtra 441306",
+    "area": "Chowk",
+    "latitude": 21.399038299999997,
+    "longitude": 78.6328375,
+    "place_id": "ChIJee6Nx79V1DsRK5ImGebiv0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJee6Nx79V1DsRK5ImGebiv0I",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:28:45"
+  }
+]

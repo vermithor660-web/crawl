@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sewak flowers",
+    "search_category": "Flower Decorator",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "441801",
+    "phone_number": "+91 91687 23278",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop 01, Verayeti Chok, Main Market, Sindhi Colony, Gondia, Maharashtra 441614",
+    "area": "Main Market, Sindhi Colony",
+    "latitude": 21.4585577,
+    "longitude": 80.19223869999999,
+    "place_id": "ChIJl1wjba2vKzoRb4AEM4S8RS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl1wjba2vKzoRb4AEM4S8RS4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:46:47"
+  },
+  {
+    "business_name": "Vandana Cosmetic & Artificial Flower Shop",
+    "search_category": "Flower Decorator",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "441801",
+    "phone_number": "+91 78987 62234",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Avanti Bai Chowk Ring Road Side Of Dr Vinod Mohabey, Katangikala, Maharashtra 441614",
+    "area": "Laxmi Nagar",
+    "latitude": 21.4725419,
+    "longitude": 80.19757779999999,
+    "place_id": "ChIJJc8vdrmvKzoRyan8szp9KM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJc8vdrmvKzoRyan8szp9KM4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:46:47"
+  }
+]

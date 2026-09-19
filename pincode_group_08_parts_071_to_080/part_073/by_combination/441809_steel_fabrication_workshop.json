@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharda Welding Work shop",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Metal workshop",
+    "all_categories": "Metal workshop",
+    "pincode": "441809",
+    "phone_number": "+91 86006 13868",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Sadananad ward lohar, Quazi Pura Rd, Umarkhed, Maharashtra 445206",
+    "area": "Umarkhed",
+    "latitude": 19.6008461,
+    "longitude": 77.6898442,
+    "place_id": "ChIJDX5ggeCT0TsR7gfEiZHiAPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDX5ggeCT0TsR7gfEiZHiAPI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:59:38"
+  },
+  {
+    "business_name": "Pranay Steel Febrication",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Welding supply store",
+    "all_categories": "Welding supply store",
+    "pincode": "441809",
+    "phone_number": "+91 91309 95708",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road Chow Rasta, Bhisi, Maharashtra 442903",
+    "area": "441809",
+    "latitude": 20.6360691,
+    "longitude": 79.40904019999999,
+    "place_id": "ChIJOWfEThetLDoRwOG269BATuI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOWfEThetLDoRwOG269BATuI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:59:39"
+  }
+]

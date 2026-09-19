@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mayur Electric Repairing Shop",
+    "search_category": "Electrician",
+    "primary_category": "Electrical repair shop",
+    "all_categories": "Electrical repair shop",
+    "pincode": "441223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Road, near Hanuman Mandir, Shivni, Ratnapur, Maharashtra 441223",
+    "area": "441223",
+    "latitude": 20.3501096,
+    "longitude": 79.5675169,
+    "place_id": "ChIJIaq0dFzHLDoRYHouG1XvP_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIaq0dFzHLDoRYHouG1XvP_M",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:12:36"
+  },
+  {
+    "business_name": "Gaurav electricals service",
+    "search_category": "Electrician",
+    "primary_category": "Electrical repair shop",
+    "all_categories": "Electrical repair shop",
+    "pincode": "441223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CF7V+638, Mahadwadi, Maharashtra 442904",
+    "area": "441223",
+    "latitude": 20.4130318,
+    "longitude": 79.492705,
+    "place_id": "ChIJiRcIagC3LDoR1txGbYB6qZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiRcIagC3LDoR1txGbYB6qZY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:12:38"
+  }
+]

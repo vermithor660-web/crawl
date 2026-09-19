@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "UpRising Distribution Co.",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "441222",
+    "phone_number": "+91 98996 99336",
+    "website": "http://www.theuprising.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "MEI Compound, GT Rd, Loni Industrial Area, Mohan Nagar, Ghaziabad, Uttar Pradesh 201007",
+    "area": "Loni Industrial Area, Mohan Nagar",
+    "latitude": 28.676918999999998,
+    "longitude": 77.396121,
+    "place_id": "ChIJaav2tpP7DDkRVAD0_9neGVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaav2tpP7DDkRVAD0_9neGVA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:10:19"
+  },
+  {
+    "business_name": "FMCG Supplier",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "441222",
+    "phone_number": "+91 89410 77888",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "12037, Tower E, 14th Ave, Gaur City 2, Greater Noida, Ghaziabad, Uttar Pradesh 201009",
+    "area": "Gaur City 2",
+    "latitude": 28.6179623,
+    "longitude": 77.4197846,
+    "place_id": "ChIJMxX848fvDDkRo1z1YN0VabA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMxX848fvDDkRo1z1YN0VabA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:10:19"
+  }
+]

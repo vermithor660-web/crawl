@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Small & Exotic Animal Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "441903",
+    "phone_number": "+91 99204 98984",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Plot no 507, beside CHS Ltd, Sangh Chhaya CHS, Sector 5 Charkop, Kandivali West, Mumbai, Maharashtra 400067",
+    "area": "Sangh Chhaya CHS, Sector 5 Charkop, Kandivali West",
+    "latitude": 19.218215,
+    "longitude": 72.8283205,
+    "place_id": "ChIJLQJYrMu25zsRrWFTE6Wyp8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLQJYrMu25zsRrWFTE6Wyp8o",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:03:58"
+  },
+  {
+    "business_name": "Sabari Pet Care",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Pet supply store",
+    "pincode": "441903",
+    "phone_number": "+91 77083 86874",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "9, Rajaram Street, Pudhunagar, Tirumangalam, Tamil Nadu 625706",
+    "area": "Pudhunagar",
+    "latitude": 9.8305318,
+    "longitude": 77.9929049,
+    "place_id": "ChIJaVX0K1zTADsRV-QJ-KfIm-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaVX0K1zTADsRV-QJ-KfIm-c",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:03:58"
+  }
+]

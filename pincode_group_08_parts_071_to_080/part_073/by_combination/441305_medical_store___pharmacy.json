@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nice Medical",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "441305",
+    "phone_number": "+91 93252 65636",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "to, Hiwara, Lohari Sawanga, Maharashtra 441305",
+    "area": "441305",
+    "latitude": 21.257152599999998,
+    "longitude": 78.39963019999999,
+    "place_id": "ChIJTbeQzUtF1DsRYacITm4Y36g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTbeQzUtF1DsRYacITm4Y36g",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:28:02"
+  },
+  {
+    "business_name": "Mahuli Medical Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "441305",
+    "phone_number": "+91 95951 28855",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 6, Lohari Sawanga Rd, Lohari Sawanga, Maharashtra 441305",
+    "area": "441305",
+    "latitude": 21.2571877,
+    "longitude": 78.3997133,
+    "place_id": "ChIJQZwWX3hF1DsRpDiaDGU39ag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZwWX3hF1DsRpDiaDGU39ag",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:28:02"
+  }
+]

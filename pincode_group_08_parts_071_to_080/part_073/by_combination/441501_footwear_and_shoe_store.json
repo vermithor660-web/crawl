@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shobhraj Boot House",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Boot store",
+    "all_categories": "Boot store",
+    "pincode": "441501",
+    "phone_number": "+91 97640 42655",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 8,
+    "address": "6WJC+527, Bazar Chowk, Railway Station Rd, Kalmeshwar, Maharashtra 441501",
+    "area": "Kalmeshwar",
+    "latitude": 21.230423,
+    "longitude": 78.9200314,
+    "place_id": "ChIJL0Q9Usju1DsRRJYplP8m9S8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL0Q9Usju1DsRRJYplP8m9S8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:35:22"
+  },
+  {
+    "business_name": "Mad About Shoez",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "441501",
+    "phone_number": "+91 70204 82613",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "Shop no-32, Kamptee Rd, Gaddigodam, Koradi Colony, Nagpur, Maharashtra 440001",
+    "area": "Gaddigodam, Koradi Colony",
+    "latitude": 21.1632957,
+    "longitude": 79.0850944,
+    "place_id": "ChIJOUeD4lPB1DsRUITv5lNAitA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOUeD4lPB1DsRUITv5lNAitA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:35:24"
+  }
+]

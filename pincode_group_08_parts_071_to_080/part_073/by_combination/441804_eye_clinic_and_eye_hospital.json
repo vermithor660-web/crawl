@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eye Specialist Department",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "441804",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "General Hodpital Road 441904, Maharashtra 441904",
+    "area": "Santaji Nagar",
+    "latitude": 21.1623411,
+    "longitude": 79.66010469999999,
+    "place_id": "ChIJa6JDiQY_KzoRRnZAfz1Q5z8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa6JDiQY_KzoRRnZAfz1Q5z8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:51:32"
+  },
+  {
+    "business_name": "Aarogyam Eye and Children Hospital, Lakhani",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "441804",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "First floor, Main Road, above Bank of India, Bazar Chowk, Lakhni, Maharashtra 441804",
+    "area": "Bazar Chowk",
+    "latitude": 21.068799199999997,
+    "longitude": 79.83197609999999,
+    "place_id": "ChIJnctev6tvKzoRIDP3d4CKXWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnctev6tvKzoRIDP3d4CKXWo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:51:34"
+  }
+]

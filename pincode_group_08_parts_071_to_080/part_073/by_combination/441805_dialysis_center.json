@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Vishal Ramteke",
+    "search_category": "Dialysis Center",
+    "primary_category": "Nephrologist",
+    "all_categories": "Nephrologist",
+    "pincode": "441805",
+    "phone_number": "+91 712 678 9100",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SPANV Medisearch Lifesciences Pvt. Ltd, 44, Kingsway Rd, near Kasturchand Park, Mohan Nagar, Nagpur, Maharashtra 440001",
+    "area": "Mohan Nagar",
+    "latitude": 21.1551549,
+    "longitude": 79.08313729999999,
+    "place_id": "ChIJn4WxqS3B1DsRS8H0HhJ1tbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn4WxqS3B1DsRS8H0HhJ1tbk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:53:24"
+  },
+  {
+    "business_name": "Dialysis center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "441805",
+    "phone_number": "+91 1800 102 2294",
+    "website": "http://www.eskagsanjeevani.com/",
+    "rating": 5,
+    "reviews_count": 18,
+    "address": "Yingkiong, Arunachal Pradesh 791002",
+    "area": "441805",
+    "latitude": 28.6423125,
+    "longitude": 95.0248125,
+    "place_id": "ChIJq59WfkKrajcRY3LcTV8sz-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq59WfkKrajcRY3LcTV8sz-E",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:53:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Geeta jewellery",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jeweler",
+    "pincode": "441804",
+    "phone_number": "+91 82377 97231",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "in front of busstop, beside of shivam restaurant, MSEB Colony, Bhandara, Maharashtra 441904",
+    "area": "MSEB Colony",
+    "latitude": 21.1619326,
+    "longitude": 79.6550378,
+    "place_id": "ChIJd0NgAwA_KzoRr2GpwuZxyxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd0NgAwA_KzoRr2GpwuZxyxk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:51:24"
+  },
+  {
+    "business_name": "Shri Balaji Jwellers Bagadiwala",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "441804",
+    "phone_number": "+91 95524 64756",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bada Bazar Rd, opp. Bank Of India, Santaji Nagar, Bhandara, Maharashtra 441904",
+    "area": "Santaji Nagar",
+    "latitude": 21.1659455,
+    "longitude": 79.65651319999999,
+    "place_id": "ChIJg7dKHuU_KzoRbF5H_81VQ6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7dKHuU_KzoRbF5H_81VQ6o",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:51:27"
+  }
+]

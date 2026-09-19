@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Centers for Dialysis Care Shaker Heights",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "441214",
+    "phone_number": "N/A",
+    "website": "http://www.cdcare.org/",
+    "rating": 3.7,
+    "reviews_count": 12,
+    "address": "18720 Chagrin Blvd, Shaker Heights, OH 44122, United States",
+    "area": "441214",
+    "latitude": 41.4643273,
+    "longitude": -81.5473177,
+    "place_id": "ChIJj6lDZzv9MIgRrDrPoW62xQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj6lDZzv9MIgRrDrPoW62xQM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:03:50"
+  },
+  {
+    "business_name": "Cleveland Clinic Bedford Dialysis Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "441214",
+    "phone_number": "N/A",
+    "website": "https://my.clevelandclinic.org/locations/directions/521-bedford-dialysis-center",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "5035 Richmond Rd, Bedford Heights, OH 44146, United States",
+    "area": "441214",
+    "latitude": 41.4232824,
+    "longitude": -81.49781519999999,
+    "place_id": "ChIJecOawgYdMYgR8NGfZXZiDxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJecOawgYdMYgR8NGfZXZiDxA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:03:50"
+  }
+]

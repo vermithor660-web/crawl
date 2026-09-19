@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arihant Automobiles",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "441907",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "3W7W+6Q8, Wani, Maharashtra 445304",
+    "area": "441907",
+    "latitude": 20.0630627,
+    "longitude": 78.9467853,
+    "place_id": "ChIJy310A6sf0zsRjy1sIBhaPXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy310A6sf0zsRjy1sIBhaPXc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:10:58"
+  },
+  {
+    "business_name": "Shri Vaishnavi Motors",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "441907",
+    "phone_number": "+91 88063 66719",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Lonarphata, Jalna - Mehkar Rd, Sindkhed, Sultanpur, Maharashtra 443302",
+    "area": "441907",
+    "latitude": 20.098300899999998,
+    "longitude": 76.526958,
+    "place_id": "ChIJjXTWPwef0DsRasop8kyAaxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXTWPwef0DsRasop8kyAaxQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:10:59"
+  }
+]

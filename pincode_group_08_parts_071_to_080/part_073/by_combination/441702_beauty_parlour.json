@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Priti Beauty Parlor",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "441702",
+    "phone_number": "+91 80074 67033",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 5, Gondia, Tidka, Maharashtra 441807",
+    "area": "441702",
+    "latitude": 21.0934874,
+    "longitude": 80.1535933,
+    "place_id": "ChIJVQJFg2CfKzoRDko-7OI7HDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQJFg2CfKzoRDko-7OI7HDY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:44:53"
+  },
+  {
+    "business_name": "Shushma Beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "441702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "38FW+CQ8, Dhobisarad, Deori, Maharashtra 441901",
+    "area": "441702",
+    "latitude": 21.073526599999997,
+    "longitude": 80.3469394,
+    "place_id": "ChIJBaBQVwCRKzoR80MpNb2M674",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBaBQVwCRKzoR80MpNb2M674",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:44:53"
+  }
+]

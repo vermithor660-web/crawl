@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suresh Medical Stores",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "441217",
+    "phone_number": "+91 82086 21227",
+    "website": "https://www.sureshexims.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "DwarkaSadan, Opp. Daga Hospital, Gandhibagh, Nagpur, Maharashtra 440002",
+    "area": "Opp. Daga Hospital, Gandhibagh",
+    "latitude": 21.1528076,
+    "longitude": 79.1041398,
+    "place_id": "ChIJDV2Xgs7A1DsRKz-yg-Kf7Nc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDV2Xgs7A1DsRKz-yg-Kf7Nc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:07:10"
+  },
+  {
+    "business_name": "Vikas Medical Store",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store",
+    "pincode": "441217",
+    "phone_number": "+91 89800 06424",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Sardar Nagar Main Rd, Astron Chowk, Sardarnagar, Rajkot, Gujarat 360001",
+    "area": "Astron Chowk, Sardarnagar",
+    "latitude": 22.2917327,
+    "longitude": 70.7887212,
+    "place_id": "ChIJu1GAZ4nLWTkR8ZjuT1t7LWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu1GAZ4nLWTkR8ZjuT1t7LWk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:07:10"
+  }
+]

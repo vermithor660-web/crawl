@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hill Side Hotel",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "441904",
+    "phone_number": "+91 97647 16716",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 56,
+    "address": "Korambhi Devi, Bela, Road, Korambhi, Maharashtra 441906",
+    "area": "441904",
+    "latitude": 21.1326236,
+    "longitude": 79.6190737,
+    "place_id": "ChIJVwbty85HKzoR1DQcwzGbHjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVwbty85HKzoR1DQcwzGbHjA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:06:11"
+  },
+  {
+    "business_name": "Blue Lotus Family Hotel and Lodging",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Lodge",
+    "pincode": "441904",
+    "phone_number": "+91 94217 82098",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 32,
+    "address": "Khat Road, NH 247, Khokurala, Maharashtra 441904",
+    "area": "Rajni Nagar",
+    "latitude": 21.1800388,
+    "longitude": 79.63241359999999,
+    "place_id": "ChIJlzkuM0Y5KzoRFPT5eypOF-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlzkuM0Y5KzoRFPT5eypOF-g",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:06:11"
+  }
+]

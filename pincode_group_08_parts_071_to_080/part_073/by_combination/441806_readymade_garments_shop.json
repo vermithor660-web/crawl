@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agrawal Cloth Store",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "441806",
+    "phone_number": "+91 94221 16824",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 8,
+    "address": "फ्रंट ऑफ कोऑपरेटिव बैंक, रोड, Kohamara, Sadak Arjuni, Maharashtra 441807",
+    "area": "441806",
+    "latitude": 21.0895889,
+    "longitude": 80.1537967,
+    "place_id": "ChIJFd6fJMSdKzoRsybQJ116oaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFd6fJMSdKzoRsybQJ116oaE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:54:51"
+  },
+  {
+    "business_name": "JAYASHREE CLOTH STORE",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "441806",
+    "phone_number": "+91 80551 05096",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 20, Gondia, Palasgaon, Maharashtra 441806",
+    "area": "441806",
+    "latitude": 21.018750999999998,
+    "longitude": 80.0624062,
+    "place_id": "ChIJq0NQTP93KzoRobe-EFxGEHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq0NQTP93KzoRobe-EFxGEHk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:54:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suryoday Nashta Center",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "441905",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Plot no 23, NH53, Mahatma Phule Colony, Sidhartha Nagar, Bhojapur, Maharashtra 441904",
+    "area": "Mahatma Phule Colony, Sidhartha Nagar",
+    "latitude": 21.157940399999998,
+    "longitude": 79.6293225,
+    "place_id": "ChIJSWFPQQY5KzoRN9OiYWYT2KI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSWFPQQY5KzoRN9OiYWYT2KI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:07:03"
+  },
+  {
+    "business_name": "Indian masala restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "441905",
+    "phone_number": "+91 91724 25502",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 8,
+    "address": "5J4C+RMG, Bela, Maharashtra 441906",
+    "area": "441905",
+    "latitude": 21.1553988,
+    "longitude": 79.6117287,
+    "place_id": "ChIJQ5KbLTU5KzoR2xiqdQL7iHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ5KbLTU5KzoR2xiqdQL7iHA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:07:04"
+  }
+]

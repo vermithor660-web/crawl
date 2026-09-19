@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KK Security & Housekeeping Agency",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Security service",
+    "all_categories": "Security service",
+    "pincode": "441908",
+    "phone_number": "+91 91683 26556",
+    "website": "http://www.kksecuritygency.in/",
+    "rating": 4.9,
+    "reviews_count": 17,
+    "address": "1203, Shimpi Ali, MG Road, behind Ram Mandir, Pune Cantonment, Pune, Maharashtra 411001",
+    "area": "Pune Cantonment",
+    "latitude": 18.512957999999998,
+    "longitude": 73.8785293,
+    "place_id": "ChIJWf5bBUHBwjsRXEAKKvuvP70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWf5bBUHBwjsRXEAKKvuvP70",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:13:31"
+  },
+  {
+    "business_name": "shivani enterprises",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Cleaning Services",
+    "pincode": "441908",
+    "phone_number": "+91 98670 14336",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Room No. 5364, Dr. B.R. Ambedkar Nagar near Prashant Pethe Marg, Cuffe Parade, Colaba, Mumbai, Maharashtra 400005",
+    "area": "Ganesh Murti Nagar, Colaba",
+    "latitude": 18.9113061,
+    "longitude": 72.8147784,
+    "place_id": "ChIJ72jp-8fR5zsR6TPjFdV2CbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ72jp-8fR5zsR6TPjFdV2CbY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:13:31"
+  }
+]

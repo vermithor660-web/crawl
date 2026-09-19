@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lanke Fishery",
+    "search_category": "Fish Market",
+    "primary_category": "Fishery",
+    "all_categories": "Fishery, Seafood market",
+    "pincode": "441223",
+    "phone_number": "+91 91679 58039",
+    "website": "http://www.lankefishery.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop no 2, Maitri Residency, plot no 218, opp. Mathoshree Hospital, Sector 21, Kamothe, Panvel, Navi Mumbai, Panvel, Maharashtra 410209",
+    "area": "Sector 21, Kamothe, Panvel",
+    "latitude": 19.0152006,
+    "longitude": 73.0970162,
+    "place_id": "ChIJA6qeMLXp5zsRhOlLnO43CLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6qeMLXp5zsRhOlLnO43CLk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:11:55"
+  },
+  {
+    "business_name": "गुजरी चौक",
+    "search_category": "Fish Market",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "441223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7HHF+H8H, Wasera, Maharashtra 441223",
+    "area": "441223",
+    "latitude": 20.2789409,
+    "longitude": 79.57336699999999,
+    "place_id": "ChIJy7uyTQDFLDoRmajSkJh6DKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy7uyTQDFLDoRmajSkJh6DKo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:11:55"
+  }
+]

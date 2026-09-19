@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adhiraaj Cleaning services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "441905",
+    "phone_number": "+91 98602 01219",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 11,
+    "address": "Plot no-84, Janai - Malai Rd, near Datta Mandir, Society, Kodoli, Chandannagar, Satara, Maharashtra 415002",
+    "area": "Society, Kodoli",
+    "latitude": 17.6556084,
+    "longitude": 74.03424509999999,
+    "place_id": "ChIJ6y2ZuoExwjsRS4ojadZ5ezw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6y2ZuoExwjsRS4ojadZ5ezw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:08:17"
+  },
+  {
+    "business_name": "Munna Londry And Dray Cliners",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Dry cleaner",
+    "all_categories": "Dry cleaner",
+    "pincode": "441905",
+    "phone_number": "+91 95955 57741",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Ramkrishna Nagar Line 4, Shastri Nagar, Tumsar, Maharashtra 441912",
+    "area": "Shastri Nagar",
+    "latitude": 21.383678699999997,
+    "longitude": 79.7478228,
+    "place_id": "ChIJ13WxyQUZKzoRpiZRhSChDlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ13WxyQUZKzoRpiZRhSChDlk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:08:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Solution",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "441205",
+    "phone_number": "+91 82089 91414",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Ramnagar Rd, beside Astha hospital, Ramnagar, Chandrapur, Maharashtra 442401",
+    "area": "Ramnagar",
+    "latitude": 19.962585,
+    "longitude": 79.28945,
+    "place_id": "ChIJG-8XJHnX0jsRVoZCYTm9pq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG-8XJHnX0jsRVoZCYTm9pq0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:52:59"
+  },
+  {
+    "business_name": "Data Solutions",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Copy shop, Rubber stamp store",
+    "pincode": "441205",
+    "phone_number": "+91 98225 75293",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Chauhan Colony, Chandrapur, Maharashtra 442401",
+    "area": "Chauhan Colony",
+    "latitude": 19.9623295,
+    "longitude": 79.299232,
+    "place_id": "ChIJv6xjT9LV0jsRQqT0bneGzIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv6xjT9LV0jsRQqT0bneGzIw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:53:01"
+  }
+]

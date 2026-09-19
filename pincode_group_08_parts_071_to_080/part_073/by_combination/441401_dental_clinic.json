@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Tejaswini Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "441401",
+    "phone_number": "+91 76200 91338",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Old Kamptee Rd, above ekta pharmacy, Kalmana, Nagpur, Maharashtra 440029",
+    "area": "Kalmana",
+    "latitude": 21.1801824,
+    "longitude": 79.153752,
+    "place_id": "ChIJZaX2ZQ3H1DsRGs7GeQSF3Og",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZaX2ZQ3H1DsRGs7GeQSF3Og",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:31:45"
+  },
+  {
+    "business_name": "Dr Sanjay Loya’s Agrawal Dental Clinic.",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dentist",
+    "all_categories": "Dentist",
+    "pincode": "441401",
+    "phone_number": "+91 98232 58298",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 41,
+    "address": "Agrawal Dental clinic, Uday Nagar, Wardhaman Nagar Colony, Nagpur, Maharashtra 440008",
+    "area": "Uday Nagar, Wardhaman Nagar Colony",
+    "latitude": 21.1477525,
+    "longitude": 79.1368244,
+    "place_id": "ChIJKY-GnlLH1DsRdgagJXeIP4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKY-GnlLH1DsRdgagJXeIP4E",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:31:47"
+  }
+]

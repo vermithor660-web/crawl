@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A R A Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "441907",
+    "phone_number": "+91 74481 23787",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bazar chowk, Chikhala, Maharashtra 441907",
+    "area": "441907",
+    "latitude": 21.551275999999998,
+    "longitude": 79.75089249999999,
+    "place_id": "ChIJZQjeOg7hKjoResi4u1MTVtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQjeOg7hKjoResi4u1MTVtQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:11:21"
+  },
+  {
+    "business_name": "Jaswanti lawn & Decorations & Caterers",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event planner",
+    "pincode": "441907",
+    "phone_number": "N/A",
+    "website": "https://indiajust.com/Jaswanti-Lawn,-Decorations-and-Caterers",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Road, Machhera, Maharashtra 441915",
+    "area": "441907",
+    "latitude": 21.4573601,
+    "longitude": 79.8336796,
+    "place_id": "ChIJax8LBHcdKzoRZi2AWsVFfYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJax8LBHcdKzoRZi2AWsVFfYs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:11:21"
+  }
+]

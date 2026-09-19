@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thakur Building Material Supplier's",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "441801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "trimurti chowk, On, Gondia - Kohmara Rd, Goregaon, Ghoti, Maharashtra 441801",
+    "area": "441801",
+    "latitude": 21.3356386,
+    "longitude": 80.2010647,
+    "place_id": "ChIJsxLBNvSlKzoRWy6Qu53x81o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxLBNvSlKzoRWy6Qu53x81o",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:46:32"
+  },
+  {
+    "business_name": "Maa Sharda Bricks and Building Material Supplier",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Brick Manufacturer",
+    "all_categories": "Brick Manufacturer",
+    "pincode": "441801",
+    "phone_number": "+91 93700 01491",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9624+RR9, Mahajan Nagar Rd, Zanziya, Goregaon, Maharashtra 441801",
+    "area": "Zanziya",
+    "latitude": 21.3520882,
+    "longitude": 80.20719439999999,
+    "place_id": "ChIJDa4eFAClKzoR0TfYNo8BpRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDa4eFAClKzoR0TfYNo8BpRo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:46:32"
+  }
+]

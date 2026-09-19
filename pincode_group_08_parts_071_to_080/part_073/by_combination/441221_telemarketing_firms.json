@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Foundever",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office, BPO Company",
+    "pincode": "441221",
+    "phone_number": "+91 40 4455 3400",
+    "website": "https://jobs.foundever.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Cyber Pearl, B Block,Unit II, 2nd Floor, HITEC City, Telangana 500081",
+    "area": "Phase 2, HITEC City",
+    "latitude": 17.4452699,
+    "longitude": 78.3765207,
+    "place_id": "ChIJq6rqhN2TyzsRTXa68pYelsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6rqhN2TyzsRTXa68pYelsg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:10:07"
+  },
+  {
+    "business_name": "Amit Borkar",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Public relations firm",
+    "all_categories": "Public relations firm",
+    "pincode": "441221",
+    "phone_number": "+91 95457 06939",
+    "website": "http://amitborkar.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nandgaon, Maharashtra 441223",
+    "area": "441221",
+    "latitude": 20.374164999999998,
+    "longitude": 79.631986,
+    "place_id": "ChIJq6qq6j7HLDoRXMMjsMc52h0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq6j7HLDoRXMMjsMc52h0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:10:07"
+  }
+]

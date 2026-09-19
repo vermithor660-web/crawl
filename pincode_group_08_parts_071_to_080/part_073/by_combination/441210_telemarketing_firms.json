@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "deepak test business",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer, Service establishment",
+    "pincode": "441210",
+    "phone_number": "+91 75582 78392",
+    "website": "https://businessnetwork.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "deepak test business, 441210, India",
+    "area": "441210",
+    "latitude": 21.1534491,
+    "longitude": 79.5209198,
+    "place_id": "ChIJa3OaU7_sFwMRVJ5TXjxwSK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa3OaU7_sFwMRVJ5TXjxwSK4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:01:29"
+  },
+  {
+    "business_name": "Dattraj Marketing",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant, Electronics store",
+    "pincode": "441210",
+    "phone_number": "+91 97669 71545",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mandal Mandal, Maharashtra 441210",
+    "area": "441210",
+    "latitude": 20.9559483,
+    "longitude": 79.4579533,
+    "place_id": "ChIJJQrquXBTKzoRj3zfM7MjJj0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQrquXBTKzoRj3zfM7MjJj0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:01:29"
+  }
+]

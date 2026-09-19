@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "I cool Enterprises",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "441804",
+    "phone_number": "+91 90289 59355",
+    "website": "http://www.icool.net.in/",
+    "rating": 4.6,
+    "reviews_count": 9,
+    "address": "5J3G+QHW, Bhandara, Bela, Maharashtra 441904",
+    "area": "441804",
+    "latitude": 21.154493,
+    "longitude": 79.6264477,
+    "place_id": "ChIJ4XRJqFpHKzoRc5bKsqqhLbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4XRJqFpHKzoRc5bKsqqhLbY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:51:14"
+  },
+  {
+    "business_name": "Daily Milk Service",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "441804",
+    "phone_number": "+91 84593 08491",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhagat Sing Ward, New, Takli Station Road, Bhandara, Maharashtra 441904",
+    "area": "441804",
+    "latitude": 21.193547499999998,
+    "longitude": 79.66272149999999,
+    "place_id": "ChIJK0niRuQ_KzoRMwMR1aTasaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK0niRuQ_KzoRMwMR1aTasaQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:51:15"
+  }
+]

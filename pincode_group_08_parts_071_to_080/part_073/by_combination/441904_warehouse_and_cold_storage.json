@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Beer Shoppe",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Beer store",
+    "all_categories": "Beer store",
+    "pincode": "441904",
+    "phone_number": "+91 94231 13858",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Khat Rd, near anchal restaurant, New Shivaji Nagar, Rajni Nagar, Bhandara, Khokurala, Maharashtra 441904",
+    "area": "New Shivaji Nagar, Rajni Nagar",
+    "latitude": 21.1774745,
+    "longitude": 79.63647859999999,
+    "place_id": "ChIJw_twzeI5KzoRayHPlfnfv9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw_twzeI5KzoRayHPlfnfv9s",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:06:39"
+  },
+  {
+    "business_name": "Jaiswal Wine Shop",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Wine store",
+    "all_categories": "Wine store",
+    "pincode": "441904",
+    "phone_number": "+91 96572 64366",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 243,
+    "address": "5MC4+5JC, Bhandara City Protection Wall Rd, Ambedkar Ward, Rajasva Nagar, Bhandara, Maharashtra 441904",
+    "area": "Ambedkar Ward, Rajasva Nagar",
+    "latitude": 21.170429799999997,
+    "longitude": 79.6565099,
+    "place_id": "ChIJdzaBDU4_KzoRKqHEHpCYEkk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdzaBDU4_KzoRKqHEHpCYEkk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:06:39"
+  }
+]

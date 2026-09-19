@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahamaya hotel and restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "441209",
+    "phone_number": "+91 76201 35234",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Wadsa Rd, Kurkheda, Dhamaditola, Maharashtra 441209",
+    "area": "441209",
+    "latitude": 20.6243674,
+    "longitude": 80.19828319999999,
+    "place_id": "ChIJm0IYZPB7LDoR1EwAvslp7GM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm0IYZPB7LDoR1EwAvslp7GM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:58:17"
+  },
+  {
+    "business_name": "Flavour Forest Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "441209",
+    "phone_number": "+91 96234 52000",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 106,
+    "address": "Kohmara Road, Nawegaon Bandh, Maharashtra 441702",
+    "area": "441209",
+    "latitude": 20.916604,
+    "longitude": 80.0924979,
+    "place_id": "ChIJHZDncQB5KzoRMOKllV7LSJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHZDncQB5KzoRMOKllV7LSJw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:58:18"
+  }
+]

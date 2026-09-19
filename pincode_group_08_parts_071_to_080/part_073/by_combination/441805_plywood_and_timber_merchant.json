@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haji traders",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "441805",
+    "phone_number": "+91 98231 82747",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "NH 6 Main Road, lakhani, Murmadi, Maharashtra 441804",
+    "area": "Samarth Nagar",
+    "latitude": 21.0699737,
+    "longitude": 79.8255277,
+    "place_id": "ChIJbwNrDkNpKzoRmlYh23LXtj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbwNrDkNpKzoRmlYh23LXtj4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:53:39"
+  },
+  {
+    "business_name": "Oswal Plywood",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier, Hardware store, Lumber store",
+    "pincode": "441805",
+    "phone_number": "+91 89559 96170",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 30,
+    "address": "Shop No-3, Attar Kaur Mansion, 4/5, Lal Bahadur Shastri Marg, opposite Pride Hotel, Nirmal Nagar, Bhandup West, Mumbai, Maharashtra 400078",
+    "area": "Nirmal Nagar, Bhandup West",
+    "latitude": 19.1485149,
+    "longitude": 72.9376174,
+    "place_id": "ChIJVXoP5WS45zsRT17TsbsNo4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVXoP5WS45zsRT17TsbsNo4I",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:53:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ameya Couture",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Boutique",
+    "pincode": "441305",
+    "phone_number": "+91 98838 28581",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop no, Tapavan Apartment, 5, opposite to SBI Bank, Chinar Park, Tegharia, Baguiati, Kolkata, West Bengal 700157",
+    "area": "Chinar Park, Tegharia, Baguiati",
+    "latitude": 22.6218611,
+    "longitude": 88.43934759999999,
+    "place_id": "ChIJAYa2zR2f-DkRrnmeb301fYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAYa2zR2f-DkRrnmeb301fYQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:27:57"
+  },
+  {
+    "business_name": "Masterdaa",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Boutique, Bridal shop, Clothing alteration service, Custom tailor, Designer Clothing Store, Embroidery shop, Fashion designer, Gents Tailor, Sewing shop",
+    "pincode": "441305",
+    "phone_number": "+91 98300 60551",
+    "website": "https://www.masterdaa.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "III, P4, off Eastern Metropolitan Bypass, ECTP Phase IV, Kasba Industrial Estate, Anandapur, East Kolkata Twp, Kolkata, West Bengal 700107",
+    "area": "ECTP Phase IV, Kasba Industrial Estate, Anandapur, East Kolkata Township",
+    "latitude": 22.513008,
+    "longitude": 88.40672939999999,
+    "place_id": "ChIJF_SLf-ZzAjoRter7WWyPFMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF_SLf-ZzAjoRter7WWyPFMw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:27:57"
+  }
+]

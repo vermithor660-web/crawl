@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "jai shree ram kirana",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, General store",
+    "pincode": "441225",
+    "phone_number": "+91 84089 03862",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hanuman Chowk, Junasurla, Maharashtra 441226",
+    "area": "441225",
+    "latitude": 19.991785099999998,
+    "longitude": 79.7698583,
+    "place_id": "ChIJdYxb874fLToRX0kNrZvccvQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdYxb874fLToRX0kNrZvccvQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:15:42"
+  },
+  {
+    "business_name": "A & D PHARMACY",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "441225",
+    "phone_number": "+91 88308 70903",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "MAIN ROAD, Shivaji Nagar, D.G.Tukum, Jairaj Nagar, Tukum, Chandrapur, Maharashtra 442401",
+    "area": "Shivaji Nagar, D.G.Tukum, Jairaj Nagar, Tukum",
+    "latitude": 19.973713399999998,
+    "longitude": 79.2996342,
+    "place_id": "ChIJcT_4SnbV0jsRat5cVW2kXcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcT_4SnbV0jsRat5cVW2kXcM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:15:44"
+  }
+]

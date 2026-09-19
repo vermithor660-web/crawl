@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanhan kandri",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "441404",
+    "phone_number": "+91 95886 40060",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "J N Road, Ward No 2, Kandri, Kanhan, Maharashtra 441404",
+    "area": "Ward No 2",
+    "latitude": 21.2458203,
+    "longitude": 79.2366566,
+    "place_id": "ChIJ498XvQvP1DsRioiqUe-fHvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ498XvQvP1DsRioiqUe-fHvg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:34:08"
+  },
+  {
+    "business_name": "GK Salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon, Tailor",
+    "pincode": "441404",
+    "phone_number": "+91 96045 07597",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1 NH 44, Jn Road, Ward No 2, Kandri, Maharashtra 441401",
+    "area": "Ward No 2",
+    "latitude": 21.2418796,
+    "longitude": 79.2409023,
+    "place_id": "ChIJ7wM1OGfP1DsRpcd0PhcUPgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7wM1OGfP1DsRpcd0PhcUPgs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:34:08"
+  }
+]

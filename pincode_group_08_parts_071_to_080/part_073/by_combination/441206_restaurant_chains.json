@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meridian family Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "441206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 26,
+    "address": "Tadoba Road, Sharda Nagar, Tukum, Chandrapur, Maharashtra 442401",
+    "area": "Sharda Nagar, Tukum",
+    "latitude": 19.9725502,
+    "longitude": 79.2991598,
+    "place_id": "ChIJa5bGCADV0jsR0d7zzhJdmwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa5bGCADV0jsR0d7zzhJdmwA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:53:17"
+  },
+  {
+    "business_name": "Aapulki By Chef Kunal",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "441206",
+    "phone_number": "+91 84089 99025",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 9,
+    "address": "FDCM Colony, Mul Road, Lohara, Chandrapur, Maharashtra 442402",
+    "area": "441206",
+    "latitude": 19.9854661,
+    "longitude": 79.3646929,
+    "place_id": "ChIJM5daKPjV0jsRsw4GN_V3s1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5daKPjV0jsRsw4GN_V3s1M",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:53:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Urmila Optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Sunglasses store",
+    "all_categories": "Sunglasses store",
+    "pincode": "441809",
+    "phone_number": "+91 78755 00181",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 3, Main Road, near by Balaji Sadi, Palandur, Maharashtra 441809",
+    "area": "441809",
+    "latitude": 20.920923,
+    "longitude": 79.8572011,
+    "place_id": "ChIJVVdqPohlKzoRLYx_Nkw7ayg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVdqPohlKzoRLYx_Nkw7ayg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:58:31"
+  },
+  {
+    "business_name": "EYEWEAR OPTICS",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "441809",
+    "phone_number": "+91 96199 55815",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 12,
+    "address": "Shop no1A,ground floor, road, beside khoja jamat khana, opp. Gala medical, Santosh Nagar, Bandra West, Mumbai, Maharashtra 400050",
+    "area": "Santosh Nagar, Bandra West",
+    "latitude": 19.0538457,
+    "longitude": 72.8330732,
+    "place_id": "ChIJUUe4RrnJ5zsR8HXCwvsvSbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUUe4RrnJ5zsR8HXCwvsvSbo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:58:33"
+  }
+]

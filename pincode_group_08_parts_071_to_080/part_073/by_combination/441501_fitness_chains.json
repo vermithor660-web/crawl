@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sweat 7 Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "441501",
+    "phone_number": "+91 95613 67299",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 52,
+    "address": "House no 465, Raj bhavan, Meghraj Golchha Rd, Sadar, Nagpur, Maharashtra 440001",
+    "area": "Sadar",
+    "latitude": 21.1629441,
+    "longitude": 79.0778102,
+    "place_id": "ChIJtR6caePA1DsRE5rc6xPIUTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtR6caePA1DsRE5rc6xPIUTk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:35:38"
+  },
+  {
+    "business_name": "Physique Today Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "441501",
+    "phone_number": "+91 90211 92596",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mount Road, Rizvi Galli, behind Lemanna Garage, Sadar, Nagpur, Maharashtra 440001",
+    "area": "Sadar",
+    "latitude": 21.160756799999998,
+    "longitude": 79.0773753,
+    "place_id": "ChIJK8yQhlnB1DsReOpEl_qnDeg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK8yQhlnB1DsReOpEl_qnDeg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:35:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "441807",
+    "phone_number": "+91 94056 90019",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Goregaon Rd, near BUS STOP, Goregaon, Maharashtra 441801",
+    "area": "441807",
+    "latitude": 21.343714,
+    "longitude": 80.20372499999999,
+    "place_id": "ChIJDfKONaOlKzoR8JC3WnpIm6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfKONaOlKzoR8JC3WnpIm6I",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:57:42"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "441807",
+    "phone_number": "+91 94051 92116",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "56, BAZAR CHOUCK, GARMIN BANK, Bajartola, Maharashtra 441807",
+    "area": "GARMIN BANK",
+    "latitude": 21.2648956,
+    "longitude": 80.2734961,
+    "place_id": "ChIJ9VfVK1WjKzoRiQWCqbsnkJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9VfVK1WjKzoRiQWCqbsnkJw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:57:42"
+  }
+]

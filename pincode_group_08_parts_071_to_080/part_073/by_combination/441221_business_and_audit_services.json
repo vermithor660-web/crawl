@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AMIT Accounting services",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant",
+    "pincode": "441221",
+    "phone_number": "+91 87934 77320",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ballarpur Rd, Babupeth, Chandrapur, Maharashtra 442403",
+    "area": "Babupeth",
+    "latitude": 19.9379714,
+    "longitude": 79.31800129999999,
+    "place_id": "ChIJWcX6KofV0jsRYz_HiacRD4k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWcX6KofV0jsRYz_HiacRD4k",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:09:55"
+  },
+  {
+    "business_name": "SB ACCOUNTING SERVICES",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm, Service establishment",
+    "pincode": "441221",
+    "phone_number": "+91 72765 00825",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SB ACCOUNTING SERVICES, 441221, India",
+    "area": "441221",
+    "latitude": 20.260433,
+    "longitude": 79.0244464,
+    "place_id": "ChIJJZQMWg0oS2ERGmneIyCsD90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJZQMWg0oS2ERGmneIyCsD90",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:09:55"
+  }
+]

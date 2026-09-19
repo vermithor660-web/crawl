@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju Servicing Center",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "441803",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "5J4W+MMM Ramabai, Mangal Pande Ward, Rajasva Nagar, Ganeshpur, Maharashtra 441904",
+    "area": "Mangal Pande Ward, Rajasva Nagar",
+    "latitude": 21.1567018,
+    "longitude": 79.64666749999999,
+    "place_id": "ChIJiwf5BmtHKzoRaubDEp4-s8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiwf5BmtHKzoRaubDEp4-s8Q",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:50:03"
+  },
+  {
+    "business_name": "car repearing garej (sop) sarvis",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "441803",
+    "phone_number": "+91 88068 80634",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jaha gadi .kharb he vohi jaga .kam krte he, nh-6, Khat Rd, Bhandara, Maharashtra 441904",
+    "area": "Shiv Nagari",
+    "latitude": 21.1751231,
+    "longitude": 79.6420869,
+    "place_id": "ChIJ1ZDXLWk5KzoR8U4ATpU6eDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ZDXLWk5KzoR8U4ATpU6eDE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:50:03"
+  }
+]

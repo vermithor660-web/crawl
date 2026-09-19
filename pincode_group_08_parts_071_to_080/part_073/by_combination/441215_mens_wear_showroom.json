@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BROTHERHOOD",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "441215",
+    "phone_number": "+91 89830 73403",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shivaji College Rd, Ramnagar, Gadchiroli, Maharashtra 442605",
+    "area": "Ramnagar",
+    "latitude": 20.181935,
+    "longitude": 80.0116891,
+    "place_id": "ChIJh3NhCNT5LDoRUBEQ2VjeUsI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh3NhCNT5LDoRUBEQ2VjeUsI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:05:18"
+  },
+  {
+    "business_name": "Lifestyle Men's Were",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "441215",
+    "phone_number": "+91 94048 25266",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Chandrapur Rd, Navegaon, Maharashtra 442605",
+    "area": "Navegaon",
+    "latitude": 20.165826799999998,
+    "longitude": 79.9762557,
+    "place_id": "ChIJMaH_1nz7LDoRefs4JD4NSVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMaH_1nz7LDoRefs4JD4NSVg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:05:19"
+  }
+]

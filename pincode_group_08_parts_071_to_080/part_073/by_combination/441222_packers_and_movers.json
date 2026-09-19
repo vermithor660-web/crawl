@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Leaders Moving & Storage Co.",
+    "search_category": "Packers and Movers",
+    "primary_category": "Moving service",
+    "all_categories": "Moving service, Moving and storage service",
+    "pincode": "441222",
+    "phone_number": "N/A",
+    "website": "http://www.leadersmoving.com/locations/cleveland-movers/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "4517 Industrial Pkwy, Cleveland, OH 44135, United States",
+    "area": "Bellaire-Puritas",
+    "latitude": 41.429864599999995,
+    "longitude": -81.7858968,
+    "place_id": "ChIJZ_UNtgSSMIgRp4yaAYJPgZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ_UNtgSSMIgRp4yaAYJPgZM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:10:51"
+  },
+  {
+    "business_name": "Carry Moving&Storage",
+    "search_category": "Packers and Movers",
+    "primary_category": "Moving and storage service",
+    "all_categories": "Moving and storage service, Moving service, Piano moving service",
+    "pincode": "441222",
+    "phone_number": "N/A",
+    "website": "https://www.carrymoving.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "14750 Industrial Pkwy, Cleveland, OH 44135, United States",
+    "area": "Bellaire-Puritas",
+    "latitude": 41.4257573,
+    "longitude": -81.7993401,
+    "place_id": "ChIJPWpxl9nvMIgR3jguZTy70MI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPWpxl9nvMIgR3jguZTy70MI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:10:51"
+  }
+]

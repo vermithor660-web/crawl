@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhanbhumi",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Property management company",
+    "all_categories": "Property management company",
+    "pincode": "441214",
+    "phone_number": "+91 90110 00078",
+    "website": "https://www.dhanbhumi.com/",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Plot No 52, Jacaranda Marg, DLF Phase 2, Sector 25, Gurugram, Shahpur, Haryana 122002",
+    "area": "DLF Phase 2, Sector 25",
+    "latitude": 28.488217499999998,
+    "longitude": 77.0890787,
+    "place_id": "ChIJEXtd50wfDTkRqSXeeoYcpmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEXtd50wfDTkRqSXeeoYcpmA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:04:44"
+  },
+  {
+    "business_name": "DiFranco Commercial Real Estate",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Commercial real estate agency",
+    "all_categories": "Commercial real estate agency, Real estate agent",
+    "pincode": "441214",
+    "phone_number": "N/A",
+    "website": "http://www.difrancocre.com/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "3201 Enterprise Parkwy Ste 150 A, Beachwood, OH 44122, United States",
+    "area": "441214",
+    "latitude": 41.4693663,
+    "longitude": -81.493665,
+    "place_id": "ChIJF0UlmvYDMYgRrsCsYlXTQog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF0UlmvYDMYgRrsCsYlXTQog",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:04:46"
+  }
+]

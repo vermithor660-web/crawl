@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Police Ground",
+    "search_category": "Exhibitions",
+    "primary_category": "Playground",
+    "all_categories": "Playground",
+    "pincode": "441228",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 177,
+    "address": "X882+Q42, Police Quarters, Police Colony, Tukum, Chandrapur, Maharashtra 442401",
+    "area": "Police Quarters, Police Colony, Tukum",
+    "latitude": 19.9668791,
+    "longitude": 79.30028,
+    "place_id": "ChIJY2r8yNHV0jsRtnv8GAVyoMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY2r8yNHV0jsRtnv8GAVyoMY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:20:25"
+  },
+  {
+    "business_name": "The Entertainment Factory",
+    "search_category": "Exhibitions",
+    "primary_category": "Comedy club",
+    "all_categories": "Comedy club",
+    "pincode": "441228",
+    "phone_number": "N/A",
+    "website": "https://theentertainmentfactory.in/",
+    "rating": 4.4,
+    "reviews_count": 30,
+    "address": "UG46, Ground Floor, Phoenix Marketcity, Lal Bahadur Shastri Marg, Ashok Nagar, Kurla, Mumbai, Maharashtra 400070",
+    "area": "Ashok Nagar, Kurla",
+    "latitude": 19.086375699999998,
+    "longitude": 72.8904431,
+    "place_id": "ChIJ7XNzSu_J5zsReXrTph3oQHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7XNzSu_J5zsReXrTph3oQHs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:20:25"
+  }
+]

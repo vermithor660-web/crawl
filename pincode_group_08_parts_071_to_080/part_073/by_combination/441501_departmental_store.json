@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sapra Bazar",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Indian grocery store",
+    "pincode": "441501",
+    "phone_number": "+91 80875 16555",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Road, Seminary Hills, Nagpur, Maharashtra 440006",
+    "area": "Seminary Hills",
+    "latitude": 21.166412299999998,
+    "longitude": 79.0496691,
+    "place_id": "ChIJ_VyoMbPB1DsRCeUnUTtl8r4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_VyoMbPB1DsRCeUnUTtl8r4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:35:03"
+  },
+  {
+    "business_name": "Sumit Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "441501",
+    "phone_number": "+91 82377 32667",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "gurudatta society, Dabha, Vayusena Nagar, Nagpur, Maharashtra 441501",
+    "area": "Dabha, Vayusena Nagar",
+    "latitude": 21.1651941,
+    "longitude": 79.0055003,
+    "place_id": "ChIJUza_-GLq1DsREFrlHnp5cEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUza_-GLq1DsREFrlHnp5cEE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:35:03"
+  }
+]

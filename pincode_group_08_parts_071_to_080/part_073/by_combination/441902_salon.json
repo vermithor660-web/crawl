@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Atkari Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "441902",
+    "phone_number": "+91 98346 29438",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, Durga Chouk Katorli, in front of Durga Mandir, Gondia, Katurli, Maharashtra 441614",
+    "area": "441902",
+    "latitude": 21.4610158,
+    "longitude": 80.317486,
+    "place_id": "ChIJNc9Kp2ixKzoR8YY9oP7bcNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNc9Kp2ixKzoR8YY9oP7bcNk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:02:34"
+  },
+  {
+    "business_name": "Rakesh Hair and Beauty Sallon",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "441902",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "7C78+7G4, Gondia Gondi, 7C68 WHH, Hititola, Maharashtra 441902",
+    "area": "7C68 WHH",
+    "latitude": 21.263147,
+    "longitude": 80.4163183,
+    "place_id": "ChIJ4caMdAC_KzoRN0j4erJ6n1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4caMdAC_KzoRN0j4erJ6n1U",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:02:37"
+  }
+]

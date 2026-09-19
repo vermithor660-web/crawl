@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Labhanya Agro Farm",
+    "search_category": "Organic Food Store",
+    "primary_category": "Livestock breeder",
+    "all_categories": "Livestock breeder",
+    "pincode": "441203",
+    "phone_number": "+91 94200 73786",
+    "website": "https://www.labhanyafarms.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Survey No-56, Majri, Umred Rd, Champa, Maharashtra 441204",
+    "area": "441203",
+    "latitude": 20.9911776,
+    "longitude": 79.20019359999999,
+    "place_id": "ChIJ667s501MKzoRzhdt8-3uHLE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ667s501MKzoRzhdt8-3uHLE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:47:43"
+  },
+  {
+    "business_name": "Bharatvarsh Nature Farms",
+    "search_category": "Organic Food Store",
+    "primary_category": "Tourist attraction",
+    "all_categories": "Tourist attraction, Wholesale plant nursery",
+    "pincode": "441203",
+    "phone_number": "+91 86032 14214",
+    "website": "http://www.bharatvarshnaturefarms.com/",
+    "rating": 4,
+    "reviews_count": 314,
+    "address": "At Post Virli, Taluka, Dist, Umred, Maharashtra 441203",
+    "area": "441203",
+    "latitude": 20.9332462,
+    "longitude": 79.281127,
+    "place_id": "ChIJN2QY4NSv1DsRD5c4Rd1VaLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN2QY4NSv1DsRD5c4Rd1VaLI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:47:44"
+  }
+]

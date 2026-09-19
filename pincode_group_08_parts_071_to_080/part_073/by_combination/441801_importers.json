@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonu Canvassing Agency (Broken Rice Supplier)",
+    "search_category": "Importers",
+    "primary_category": "Rice wholesaler",
+    "all_categories": "Rice wholesaler",
+    "pincode": "441801",
+    "phone_number": "N/A",
+    "website": "http://sonubrokenrice.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opp. Rajasthan Kanya Vidhyalaya, Main Market, Bawadi, Gondia, Maharashtra 441614",
+    "area": "Main Market, Bawadi",
+    "latitude": 21.4566388,
+    "longitude": 80.1897998,
+    "place_id": "ChIJxVXdbeqvKzoRYpDd7Hf53Ak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxVXdbeqvKzoRYpDd7Hf53Ak",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:47:21"
+  },
+  {
+    "business_name": "Mahesh hatwar home",
+    "search_category": "Importers",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "441801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "77XJ+P8C, Gidhadi, Maharashtra 441801",
+    "area": "441801",
+    "latitude": 21.2992635,
+    "longitude": 80.2807231,
+    "place_id": "ChIJ9bLuGgC7KzoRrVmIik2bnjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bLuGgC7KzoRrVmIik2bnjM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:47:22"
+  }
+]

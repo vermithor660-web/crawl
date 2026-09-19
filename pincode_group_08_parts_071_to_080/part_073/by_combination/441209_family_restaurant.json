@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tiranga Dhaba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "441209",
+    "phone_number": "+91 93251 84088",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Kumbhitola, Maharashtra 441702",
+    "area": "441209",
+    "latitude": 20.855445,
+    "longitude": 80.0572098,
+    "place_id": "ChIJ5_ucNAB_KzoRiAH6KTl7lkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5_ucNAB_KzoRiAH6KTl7lkw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:58:24"
+  },
+  {
+    "business_name": "SONKUSARE SAVJI FAMILY RESTAURANT KURKHEDA",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "441209",
+    "phone_number": "+91 95793 46615",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Near eklavya chatravas, near Eklavya chatravas, Wadsa Rd, Kurkheda, Maharashtra 441209",
+    "area": "441209",
+    "latitude": 20.620915699999998,
+    "longitude": 80.1948972,
+    "place_id": "ChIJZxIS9dh7LDoRp8DRAuc_eJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZxIS9dh7LDoRp8DRAuc_eJE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:58:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pawansut Alluminium",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "441306",
+    "phone_number": "+91 87883 98032",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward 6, Gayatri Nagar, Sawargaon, Maharashtra 441306",
+    "area": "Gayatri Nagar",
+    "latitude": 21.3951472,
+    "longitude": 78.6376738,
+    "place_id": "ChIJ_xm8lupV1DsRM69uCCUDjTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_xm8lupV1DsRM69uCCUDjTU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:30:10"
+  },
+  {
+    "business_name": "Shiv traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "441306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 4,
+    "address": "FMXW+86C, road, Nagpur, Badchicholi, Madhya Pradesh 480337",
+    "area": "441306",
+    "latitude": 21.498303999999997,
+    "longitude": 78.6955148,
+    "place_id": "ChIJBfaqrH0B1TsRxvg2WFmjL-4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfaqrH0B1TsRxvg2WFmjL-4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:30:10"
+  }
+]

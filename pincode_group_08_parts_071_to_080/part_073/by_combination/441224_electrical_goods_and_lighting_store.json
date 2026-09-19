@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aristo Sales Corporation",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical products wholesaler",
+    "all_categories": "Electrical products wholesaler, Electrical appliance wholesaler, Electrical equipment supplier, Electrical supply store, Lighting products wholesaler, Cooler Supplier, Wire and cable supplier",
+    "pincode": "441224",
+    "phone_number": "+91 94036 76100",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Aristo Sales Corporation, Chandrapur - Jatpura Gate Rd, beside Rahul scooter, Bazar Ward, Chandrapur, Maharashtra 442401",
+    "area": "Bazar Ward",
+    "latitude": 19.9565937,
+    "longitude": 79.2955286,
+    "place_id": "ChIJ45-w7GDV0jsRVSvhfn7tDHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ45-w7GDV0jsRVSvhfn7tDHA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:14:16"
+  },
+  {
+    "business_name": "Ashirwad Electricals And Rewinding Works",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store, Agricultural Product Wholesaler, Electrical repair shop",
+    "pincode": "441224",
+    "phone_number": "+91 98229 51777",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Gokul Galli, Bazar Ward, Chandrapur, Maharashtra 442402",
+    "area": "Bazar Ward",
+    "latitude": 19.9495622,
+    "longitude": 79.2972498,
+    "place_id": "ChIJs3gLIC_U0jsRN0LUIH833f0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs3gLIC_U0jsRN0LUIH833f0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:14:16"
+  }
+]

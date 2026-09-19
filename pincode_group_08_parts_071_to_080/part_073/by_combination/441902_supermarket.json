@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Donode Traders",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "441902",
+    "phone_number": "+91 99238 61609",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 9,
+    "address": "7C78+V25, Satgaon Road, Sakharitola, Maharashtra 441902",
+    "area": "441902",
+    "latitude": 21.2646367,
+    "longitude": 80.4151222,
+    "place_id": "ChIJtxCFZBy_KzoRJiwddumaME0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtxCFZBy_KzoRJiwddumaME0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:01:37"
+  },
+  {
+    "business_name": "Amol kirana And krushi Kendra nansari",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "441902",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Nansari, Maharashtra 441902",
+    "area": "441902",
+    "latitude": 21.4380356,
+    "longitude": 80.40493599999999,
+    "place_id": "ChIJpVCFEwC3KzoR8QPjc9l9ujc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpVCFEwC3KzoR8QPjc9l9ujc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:01:38"
+  }
+]

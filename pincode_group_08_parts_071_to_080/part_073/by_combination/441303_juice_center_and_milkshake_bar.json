@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Coconut Juice Bar",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Beverage Store, Health food restaurant",
+    "pincode": "441303",
+    "phone_number": "+91 83099 56754",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 1313,
+    "address": "1, beside DLF Road, beside Noodle Bar, DLF Cyber City, Indira Nagar, Gachibowli, Hyderabad, Telangana 500032",
+    "area": "DLF Cyber City, Indira Nagar, Gachibowli",
+    "latitude": 17.4471408,
+    "longitude": 78.3532814,
+    "place_id": "ChIJgV8CLCSTyzsR7IobMDPDxCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgV8CLCSTyzsR7IobMDPDxCk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:24:17"
+  },
+  {
+    "business_name": "Makers of Milkshakes Madhapur",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "441303",
+    "phone_number": "+91 96666 37667",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 238,
+    "address": "Kavuri Hills Rd, near mastan nagar, Masthan Nagar, CBI Colony, Jubilee Hills, Hyderabad, Telangana 500033",
+    "area": "Masthan Nagar, CBI Colony, Jubilee Hills",
+    "latitude": 17.434625399999998,
+    "longitude": 78.3939582,
+    "place_id": "ChIJ-YAJWwKRyzsRxwwu2EA2PBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-YAJWwKRyzsRxwwu2EA2PBU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:24:18"
+  }
+]

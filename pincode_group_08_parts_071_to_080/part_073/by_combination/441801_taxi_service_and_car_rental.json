@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B S Transport & Car Rental",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "441801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "F687+G2J marar samaj bhawan, Marartoli, ke pass, behind crida sankul ground, adarsh colony, Gondia, Maharashtra 441601",
+    "area": "adarsh colony",
+    "latitude": 21.4662151,
+    "longitude": 80.2129198,
+    "place_id": "ChIJj3prt5qvKzoRF-0Hvs6Ab54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj3prt5qvKzoRF-0Hvs6Ab54",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:46:24"
+  },
+  {
+    "business_name": "Kalash travels & taxi service Gondia",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "441801",
+    "phone_number": "+91 97649 29422",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vijaynagar, Katangikala, Maharashtra 441614",
+    "area": "Vijaynagar",
+    "latitude": 21.4777694,
+    "longitude": 80.2056382,
+    "place_id": "ChIJWQoF_uWtKzoRaFHarCI4rS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQoF_uWtKzoRaFHarCI4rS4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:46:24"
+  }
+]

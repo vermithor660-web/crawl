@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAI PAINTS",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "441809",
+    "phone_number": "+91 99702 50082",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 10,
+    "address": "X44G+3CG, Sindkhed Raja, Maharashtra 443203",
+    "area": "441809",
+    "latitude": 19.9551928,
+    "longitude": 76.1260885,
+    "place_id": "ChIJ_5rAnc5n2jsRPYyAn5gstCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_5rAnc5n2jsRPYyAn5gstCU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:58:56"
+  },
+  {
+    "business_name": "Pushpa Paints And Hardwar",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "441809",
+    "phone_number": "+91 70204 70782",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Shop 425, near Petrol Station, Kardi, Maharashtra 441904",
+    "area": "Ramabai Ambedkar Ward",
+    "latitude": 21.156824099999998,
+    "longitude": 79.64779519999999,
+    "place_id": "ChIJZ3p-F_E5KzoRDlTPfKDkHyY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ3p-F_E5KzoRDlTPfKDkHyY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:58:57"
+  }
+]

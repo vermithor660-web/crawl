@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ARB Express",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Bus company, Bus tour agency",
+    "pincode": "441207",
+    "phone_number": "+91 90750 00064",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "armori road, gadchiroli, Armori - Gadchiroli - Chandrapur Rd, Gadchiroli, Maharashtra 442605",
+    "area": "Rampuri",
+    "latitude": 20.187966799999998,
+    "longitude": 80.0055469,
+    "place_id": "ChIJjecpISv6LDoRYKL5qilaBSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjecpISv6LDoRYKL5qilaBSQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:55:28"
+  },
+  {
+    "business_name": "MSRTC Bus Stop",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "441207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "F4XX+4XG, Unnamed Road, Sawalkheda, Kadholi, Maharashtra 441217",
+    "area": "441207",
+    "latitude": 20.497800899999998,
+    "longitude": 80.1499552,
+    "place_id": "ChIJhwBFDV1hLDoR6iCkOamgwTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhwBFDV1hLDoR6iCkOamgwTs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:55:28"
+  }
+]

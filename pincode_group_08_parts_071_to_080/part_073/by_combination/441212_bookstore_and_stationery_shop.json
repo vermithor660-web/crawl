@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Mallikharjuna Book depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "441212",
+    "phone_number": "+91 98498 36491",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Mankamma Thota, Karimnagar, Telangana 505001",
+    "area": "Mankamma Thota",
+    "latitude": 18.4373373,
+    "longitude": 79.1197476,
+    "place_id": "ChIJyW7zsCPZzDsRyyHH2rnA6UM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyW7zsCPZzDsRyyHH2rnA6UM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:02:45"
+  },
+  {
+    "business_name": "Navneet Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "441212",
+    "phone_number": "+91 95793 15422",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Gandhi chowk, Ambadevi Rd, Amravati, Maharashtra 444601",
+    "area": "441212",
+    "latitude": 20.9281857,
+    "longitude": 77.74869919999999,
+    "place_id": "ChIJt1weQ6yk1jsRdQIXzUTsfL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt1weQ6yk1jsRdQIXzUTsfL0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:02:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Infinity I Services",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "441701",
+    "phone_number": "+91 97678 75724",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Main road, Gondia, Mahalgaon, Maharashtra 441911",
+    "area": "441701",
+    "latitude": 21.544784,
+    "longitude": 80.0265483,
+    "place_id": "ChIJwagrepABKzoRfI2mYEibjgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwagrepABKzoRfI2mYEibjgo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:43:34"
+  },
+  {
+    "business_name": "Sarvadnya Online And Computer Center",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "441701",
+    "phone_number": "+91 96042 67392",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Sales Tax Colony, Fulchur Peth, Fulchur Tola, Maharashtra 441601",
+    "area": "Fulchur Peth",
+    "latitude": 21.4365469,
+    "longitude": 80.1981473,
+    "place_id": "ChIJrS2vmUSvKzoR1I0AooAYnSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrS2vmUSvKzoR1I0AooAYnSU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:43:34"
+  }
+]

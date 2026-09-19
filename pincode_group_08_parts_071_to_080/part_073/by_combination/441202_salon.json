@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MK Professional saloon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hairdresser",
+    "pincode": "441202",
+    "phone_number": "+91 96734 14414",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 27,
+    "address": "Kuhi, Maharashtra 441202",
+    "area": "441202",
+    "latitude": 21.0122805,
+    "longitude": 79.36417689999999,
+    "place_id": "ChIJYSpXdzuz1DsRXron4ITrHA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYSpXdzuz1DsRXron4ITrHA0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:46:45"
+  },
+  {
+    "business_name": "Swati's Beauty Salon & Makeover",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "441202",
+    "phone_number": "+91 84596 48254",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "306, PMAY, B.30, near Symbiosis University, Wathoda, Bidgaon-Tarodi Kh.-Pandhurna, Maharashtra 441202",
+    "area": "Wathoda",
+    "latitude": 21.122336,
+    "longitude": 79.1653377,
+    "place_id": "ChIJ5-WkB-O51DsR9mj7FpWnNcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5-WkB-O51DsR9mj7FpWnNcg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:46:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manas Care",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Cosmetic dentist, Cosmetic surgeon, Dental implants periodontist, Dental implants provider, Dentist, Denture care center, Orthodontist, Periodontist, Teeth whitening service",
+    "pincode": "441304",
+    "phone_number": "+91 712 252 8274",
+    "website": "http://www.manasdentalcare.in/",
+    "rating": 5,
+    "reviews_count": 28,
+    "address": "S/3, Amravati Rd, Ravi Nagar, Tilak Nagar, Ram Nagar, Nagpur, Maharashtra 440010",
+    "area": "Ravi Nagar, Tilak Nagar, Ram Nagar",
+    "latitude": 21.1472032,
+    "longitude": 79.0564215,
+    "place_id": "ChIJBzQtXFzA1DsRxRKdtf3EFfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBzQtXFzA1DsRxRKdtf3EFfc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:26:17"
+  },
+  {
+    "business_name": "Dr Pankaj Bajaj's Smilecare Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "441304",
+    "phone_number": "+91 91127 97279",
+    "website": "http://bajajsmilecare.in/",
+    "rating": 5,
+    "reviews_count": 76,
+    "address": "T3, Godavari sankul, 54, Katol Rd, near Nakshatra Garden, KT Nagar, Nagpur, Maharashtra 440013",
+    "area": "KT Nagar",
+    "latitude": 21.1769663,
+    "longitude": 79.0483843,
+    "place_id": "ChIJzT-lurDB1DsRzkFhZqZBTgg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzT-lurDB1DsRzkFhZqZBTgg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:26:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gokuldas Dariyanomal",
+    "search_category": "Departmental Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "441601",
+    "phone_number": "+91 98232 35860",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Market, opposite city police station, Gondia, Maharashtra 441601",
+    "area": "Main Market, Sindhi Colony",
+    "latitude": 21.4571561,
+    "longitude": 80.19303889999999,
+    "place_id": "ChIJ8V7UfkKvKzoRhOyEkfsFpak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8V7UfkKvKzoRhOyEkfsFpak",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:38:44"
+  },
+  {
+    "business_name": "Om cutlery stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "441601",
+    "phone_number": "+91 93253 75320",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Bazar, 56 Ganj, Gondia, Maharashtra 441601",
+    "area": "Main Market, Sindhi Colony",
+    "latitude": 21.4564323,
+    "longitude": 80.1923975,
+    "place_id": "ChIJKeqdLOivKzoRfjcfs25M6nE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKeqdLOivKzoRfjcfs25M6nE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:38:46"
+  }
+]

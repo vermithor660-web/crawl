@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eskay Pharmaceuticals",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "441204",
+    "phone_number": "+91 74984 51059",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Garden, Gs1,aruna Palace, Abhyankar Marg, near Dhantoli, Dhantoli, Nagpur, Maharashtra 440012",
+    "area": "Dhantoli",
+    "latitude": 21.1352755,
+    "longitude": 79.082121,
+    "place_id": "ChIJfUSXKJfA1DsRkgbVyVGmkRQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfUSXKJfA1DsRkgbVyVGmkRQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:49:53"
+  },
+  {
+    "business_name": "Prince Medicos",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "441204",
+    "phone_number": "+91 712 245 3068",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "43MH+W96, Wardha Rd, Lokmat Square, Dhantoli, Nagpur, Maharashtra 440012",
+    "area": "Lokmat Square, Dhantoli",
+    "latitude": 21.1347965,
+    "longitude": 79.0783908,
+    "place_id": "ChIJizbkh3m_1DsRWvd069idiqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJizbkh3m_1DsRWvd069idiqM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:49:53"
+  }
+]

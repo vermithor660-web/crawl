@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rupesh Hair Saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "441226",
+    "phone_number": "+91 83799 97349",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sno 5, Bomkantiwar Niwas, Road, Durgapur, Yenapur, Maharashtra 442603",
+    "area": "441226",
+    "latitude": 19.8237982,
+    "longitude": 79.8248721,
+    "place_id": "ChIJsWmtXVUXLToRtRkCK5W7iqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsWmtXVUXLToRtRkCK5W7iqM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:17:56"
+  },
+  {
+    "business_name": "Akash hair point",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "441226",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chiroli, Maharashtra 441224",
+    "area": "441226",
+    "latitude": 19.998361199999998,
+    "longitude": 79.6111639,
+    "place_id": "ChIJUbLUhMQnLToR-CLTR5KyovY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUbLUhMQnLToR-CLTR5KyovY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:17:56"
+  }
+]

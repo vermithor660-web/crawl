@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RK Chicken center",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "441807",
+    "phone_number": "+91 74981 30950",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3258 Main Road, Road, Goregaon, Maharashtra 441801",
+    "area": "441807",
+    "latitude": 21.3233192,
+    "longitude": 80.2786486,
+    "place_id": "ChIJJ2pOJVS7KzoRHImpJX8ACps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2pOJVS7KzoRHImpJX8ACps",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:56:30"
+  },
+  {
+    "business_name": "1",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "441807",
+    "phone_number": "+91 94229 37435",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "35P3 F3Q, Sadak Arjuni, Maharashtra 441807",
+    "area": "441807",
+    "latitude": 21.0862764,
+    "longitude": 80.1527703,
+    "place_id": "ChIJW2N8W5SdKzoRAPus9Ye6FMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW2N8W5SdKzoRAPus9Ye6FMs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:56:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Dolphine - Famity Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "441215",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "24, Nagpur Rd, opposite Cars, Wadgaon, Chandrapur, Maharashtra 442401",
+    "area": "Wadgaon",
+    "latitude": 19.9883287,
+    "longitude": 79.27073279999999,
+    "place_id": "ChIJWccb-abX0jsRlU8rzPhBqv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWccb-abX0jsRlU8rzPhBqv8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:05:16"
+  },
+  {
+    "business_name": "RASOI THE KITCHEN",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "441215",
+    "phone_number": "+91 88887 50472",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 65,
+    "address": "W8X2+PJ3, SHREE RAM CHOWK, BHANAPETH WARD, Maharashtra 442402",
+    "area": "Nawargoan, Bazar Ward",
+    "latitude": 19.9492531,
+    "longitude": 79.3015417,
+    "place_id": "ChIJi7rwZJ_V0jsRY28ElhuYrsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi7rwZJ_V0jsRY28ElhuYrsQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:05:17"
+  }
+]

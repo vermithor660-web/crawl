@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "441306",
+    "phone_number": "+91 94055 43985",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WARD NO 01AT, POST, KPIPLA NARKHEDNARKHEDNagpurMAHARASHTRA, Pipla, Maharashtra 441306",
+    "area": "KPIPLA NARKHEDNARKHEDNagpurMAHARASHTRA",
+    "latitude": 21.397714999999998,
+    "longitude": 78.740325,
+    "place_id": "ChIJnU-gksT_1DsRXXEe_JOaOn0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnU-gksT_1DsRXXEe_JOaOn0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:30:49"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "441306",
+    "phone_number": "+91 94056 24183",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WAARD NO 02,TIRANGA CHOWK,AT PO SAWARGAON TAH NARKHED,Nagpur NALLASOPARA EAST PALGHAR,Thane, Maharashtra 441306",
+    "area": "441306",
+    "latitude": 21.3984,
+    "longitude": 78.6328,
+    "place_id": "ChIJmUt1ilZV1DsRMUU7hblv7PQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUt1ilZV1DsRMUU7hblv7PQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:30:49"
+  }
+]

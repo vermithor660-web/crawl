@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "W Studio- The Family Salon",
+    "search_category": "Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "441908",
+    "phone_number": "+91 82977 14747",
+    "website": "https://wstudios.co.in/",
+    "rating": 4.8,
+    "reviews_count": 787,
+    "address": "Mekala Complex 2, 2-11, Uppal Rd, near Sub RegistrarOffice, Vijayapuri Colony, Uppal, Hyderabad, Telangana 500039",
+    "area": "Vijayapuri Colony, Uppal",
+    "latitude": 17.4013486,
+    "longitude": 78.5639947,
+    "place_id": "ChIJ-WT4MKqZyzsRZ1cXa37TYWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-WT4MKqZyzsRZ1cXa37TYWQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:12:59"
+  },
+  {
+    "business_name": "Dipak Hair Salun",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "441908",
+    "phone_number": "+91 96370 19462",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PHC ROD, Sarandi, Sarandi Bk., Maharashtra 441908",
+    "area": "441908",
+    "latitude": 20.8099174,
+    "longitude": 79.8024784,
+    "place_id": "ChIJue7PQx1hKzoR0VgzbuuEA6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJue7PQx1hKzoR0VgzbuuEA6c",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:13:00"
+  }
+]

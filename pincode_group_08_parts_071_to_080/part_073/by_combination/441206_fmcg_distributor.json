@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KRISHNA AGENCY ARMORI",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Supplier",
+    "all_categories": "Supplier, FMCG Goods Wholesaler",
+    "pincode": "441206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "T-Point Armori, Wadsa Rd, BARDI, Armori, Maharashtra 441208",
+    "area": "BARDI",
+    "latitude": 20.4707953,
+    "longitude": 79.9784088,
+    "place_id": "ChIJk7932daNLDoR2SMvvfFPxUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk7932daNLDoR2SMvvfFPxUM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:53:09"
+  },
+  {
+    "business_name": "Krupal Mi Lifestye",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "441206",
+    "phone_number": "+91 80070 30629",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bramhapuri Rd, Road, Brahmapur, Maharashtra 441205",
+    "area": "441206",
+    "latitude": 20.650526,
+    "longitude": 79.77416869999999,
+    "place_id": "ChIJgcom7gWZLDoRdHfBxjV93zM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgcom7gWZLDoRdHfBxjV93zM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:53:10"
+  }
+]

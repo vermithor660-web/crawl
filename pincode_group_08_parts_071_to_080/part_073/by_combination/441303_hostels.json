@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Hosteller Bam Dehradun, City Centre",
+    "search_category": "Hostels",
+    "primary_category": "Backpacker Hostel",
+    "all_categories": "Backpacker Hostel",
+    "pincode": "441303",
+    "phone_number": "N/A",
+    "website": "https://www.thehosteller.com/hostels/bam-hostels-dehradun-city-centre/",
+    "rating": 4.9,
+    "reviews_count": 1213,
+    "address": "10, Saharanpur Rd, Laxman Chowk, Dehradun, Uttarakhand 248001",
+    "area": "Laxman Chowk",
+    "latitude": 30.313852599999997,
+    "longitude": 78.0243035,
+    "place_id": "ChIJLTL5nuMpCTkRbpLdjpFy-cI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLTL5nuMpCTkRbpLdjpFy-cI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:25:09"
+  },
+  {
+    "business_name": "Jewel Hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "441303",
+    "phone_number": "+91 88487 90694",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 21,
+    "address": "technopark back gate, Thrippadapuram Mahadeva Temple, Thripadappuram Rd, Kulathoor, Kazhakkoottam, Thiruvananthapuram, Keralam 695581",
+    "area": "Kulathoor",
+    "latitude": 8.5490798,
+    "longitude": 76.8846169,
+    "place_id": "ChIJHXxfXQC_BTsRQTJ4sgyD1tI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHXxfXQC_BTsRQTJ4sgyD1tI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:25:10"
+  }
+]

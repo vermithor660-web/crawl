@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Software company",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services, Service establishment",
+    "pincode": "441202",
+    "phone_number": "N/A",
+    "website": "https://devcodesphere.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Software company, 441202, India",
+    "area": "441202",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJNxMcKax5_IgRsNZjdkyGCS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNxMcKax5_IgRsNZjdkyGCS4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:47:36"
+  },
+  {
+    "business_name": "Densecom IT Services Private Limimted",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "441202",
+    "phone_number": "+91 70862 45203",
+    "website": "https://www.densecom.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Densecom IT Services Private Limimted, 441202, India",
+    "area": "441202",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJx02k0wBinwwRrS_LjPFWpSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx02k0wBinwwRrS_LjPFWpSk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:47:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laptop Ka Doctor",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer Hardware Company",
+    "pincode": "441501",
+    "phone_number": "+91 93731 14373",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "1,2, A Wing, Mangalwari Complex 1, Mangalwari Bazar Rd, opposite Utkarsh Nirman, Sadar, Nagpur, Maharashtra 440001",
+    "area": "Sadar",
+    "latitude": 21.1649539,
+    "longitude": 79.0813165,
+    "place_id": "ChIJrZEv1ePA1DsRp7nt6Tu5Izw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZEv1ePA1DsRp7nt6Tu5Izw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:36:25"
+  },
+  {
+    "business_name": "HP World",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "441501",
+    "phone_number": "+91 96190 72878",
+    "website": "https://www.hpworldstores.in/vedant-computers-nagpur-maharashtra-440001/Home",
+    "rating": 4.9,
+    "reviews_count": 1214,
+    "address": "Shop No 22A, Anjuman Complex, beside Haldiram Hotspot, Sadar, Nagpur, Maharashtra 440001",
+    "area": "Sadar",
+    "latitude": 21.1632096,
+    "longitude": 79.0798922,
+    "place_id": "ChIJ7wuGH_nB1DsR_PA8aUeI2mA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7wuGH_nB1DsR_PA8aUeI2mA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:36:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Novacare child clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "441501",
+    "phone_number": "+91 96650 20496",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sadoday Pride, Koradi Colony, Nagpur, Maharashtra 440001",
+    "area": "Koradi Colony",
+    "latitude": 21.167674299999998,
+    "longitude": 79.079191,
+    "place_id": "ChIJmR-NgTLB1DsRbw9GvxAri4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmR-NgTLB1DsRbw9GvxAri4Y",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:35:33"
+  },
+  {
+    "business_name": "Kids Care Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Children's hospital",
+    "all_categories": "Children's hospital",
+    "pincode": "441501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.1,
+    "reviews_count": 7,
+    "address": "536H+9Q6, Sadar Main Road, Opposite To SFS Bus Stop, Sadar, Nagpur, Maharashtra 440001",
+    "area": "Sadar",
+    "latitude": 21.1609053,
+    "longitude": 79.0794027,
+    "place_id": "ChIJcxiUaOTA1DsR-wg086eGwHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcxiUaOTA1DsR-wg086eGwHg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:35:34"
+  }
+]

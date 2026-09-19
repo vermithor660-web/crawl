@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "3Video",
+    "search_category": "Media and Event",
+    "primary_category": "Video production service",
+    "all_categories": "Video production service, Service establishment",
+    "pincode": "441805",
+    "phone_number": "+91 87007 28562",
+    "website": "http://www.3video.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "3Video, 441805, India",
+    "area": "441805",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJhRL-3c-ToCkRCdRfwiGKNwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhRL-3c-ToCkRCdRfwiGKNwM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:54:01"
+  },
+  {
+    "business_name": "Maa Vaishnodeep Band",
+    "search_category": "Media and Event",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "441805",
+    "phone_number": "+91 93729 30928",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gandhi Chowk Rd, behind Nagar Parishad Chota Bazar, Santaji Nagar, Bhandara, Maharashtra 441904",
+    "area": "Santaji Nagar",
+    "latitude": 21.1703916,
+    "longitude": 79.65688709999999,
+    "place_id": "ChIJO4Jgf73B1DsRHgEf-vozM5Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO4Jgf73B1DsRHgEf-vozM5Q",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:54:02"
+  }
+]

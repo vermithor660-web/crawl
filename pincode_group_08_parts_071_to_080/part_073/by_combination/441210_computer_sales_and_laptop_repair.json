@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSS Computer sales and services",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "441210",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XF26+RF7, Mandhal, Maharashtra 441210",
+    "area": "441210",
+    "latitude": 20.952098,
+    "longitude": 79.461221,
+    "place_id": "ChIJ-yXrPQBTKzoRRrm41D1iBgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-yXrPQBTKzoRRrm41D1iBgE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:01:05"
+  },
+  {
+    "business_name": "MK Computer",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "441210",
+    "phone_number": "+91 77985 08387",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main road, near Bank of Maharashtra ATM, Ambhora, Mandhal, Maharashtra 441210",
+    "area": "441210",
+    "latitude": 20.956197799999998,
+    "longitude": 79.4609859,
+    "place_id": "ChIJwXg9crlTKzoRbyTz30WABTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwXg9crlTKzoRbyTz30WABTY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:01:05"
+  }
+]

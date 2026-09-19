@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand Emporium",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "441223",
+    "phone_number": "+91 99244 82828",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "12,13,14 A Angita Shopping Center, pragatinagar cross Road, 132 Feet Ring Rd, Naranpura, Ahmedabad, Gujarat 380013",
+    "area": "Angita Society, Vijaynagar, Naranpura",
+    "latitude": 23.0632934,
+    "longitude": 72.5563756,
+    "place_id": "ChIJYYhVKX2DXjkRFadW0rvJW5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYhVKX2DXjkRFadW0rvJW5c",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:12:07"
+  },
+  {
+    "business_name": "V-Mart - Rudrapur",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Convenience store, Department store, Variety store",
+    "pincode": "441223",
+    "phone_number": "+91 93598 65304",
+    "website": "https://stores.vmartretail.com/clothing-mart-kichha-udham-singh-nagar-30725/home",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Divine Tower, 16/2, Civil Lines, Rudrapur, Jagatpura, Uttarakhand 263153",
+    "area": "Civil Lines",
+    "latitude": 28.9812388,
+    "longitude": 79.398735,
+    "place_id": "ChIJMVVVVcV_oDkR0SBnwydKx1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMVVVVcV_oDkR0SBnwydKx1s",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:12:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wildbean Café | Tiroda",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe, Coffee roastery, Coffee stand, Coffee store, Espresso bar, Pizza restaurant, Restaurant, Sandwich shop, Tea store",
+    "pincode": "441801",
+    "phone_number": "+91 78219 00655",
+    "website": "https://www.jiobp.com/products-and-services/wild-bean-cafe",
+    "rating": 4.3,
+    "reviews_count": 13,
+    "address": "No 1, Wisdom Mobility, 0, 675/1, in front of Adani Gate, Maharashtra 441911",
+    "area": "441801",
+    "latitude": 21.41224,
+    "longitude": 79.9589,
+    "place_id": "ChIJaW4NewAFKzoRrJVPS8rS_GE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaW4NewAFKzoRrJVPS8rS_GE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:45:56"
+  },
+  {
+    "business_name": "Kava Cafe & Party Hall",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe, Restaurant",
+    "pincode": "441801",
+    "phone_number": "+91 7182 250 000",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "F58Q+5QM, near EOS Cinemas, Rail Toly, Gondia, Maharashtra 441614",
+    "area": "Rail Toly",
+    "latitude": 21.4654664,
+    "longitude": 80.189435,
+    "place_id": "ChIJbVaekayuKzoR27_T-GNyEC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVaekayuKzoR27_T-GNyEC4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:45:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dolly Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "441801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "F55W+MC7, Near indra gandhi stadium beside shreeji complex, Gonpur, Rail Toly, Gondia, Maharashtra 441601",
+    "area": "Gonpur, Rail Toly",
+    "latitude": 21.459173,
+    "longitude": 80.19604819999999,
+    "place_id": "ChIJq3eMS7CuKzoRkTHmMJIsDAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq3eMS7CuKzoRkTHmMJIsDAM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:46:12"
+  },
+  {
+    "business_name": "Skin care clinic dr.shabbir sheikh",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "441801",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "mbbs dvd(gmc, Sunny plaza, Dr.Shabbir Sheikh, Mumbai - Kolkata Hwy, near BUS STAND, Bhandara, Maharashtra 441904",
+    "area": "MSEB Colony",
+    "latitude": 21.1614395,
+    "longitude": 79.6557017,
+    "place_id": "ChIJFy_5hjU_KzoRyW4IknU4hco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFy_5hjU_KzoRyW4IknU4hco",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:46:12"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anjana saoji family restaurant branch 03",
+    "search_category": "Family Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "441204",
+    "phone_number": "+91 79724 39155",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "DP road, in front of bharat petrol pump, New Manish Nagar, Nagpur, Maharashtra 440005",
+    "area": "New Manish Nagar",
+    "latitude": 21.0739354,
+    "longitude": 79.0678289,
+    "place_id": "ChIJyUXwGfi_1DsRQGyhbEy7K78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUXwGfi_1DsRQGyhbEy7K78",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:49:43"
+  },
+  {
+    "business_name": "Patlachawada Family Garden Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "441204",
+    "phone_number": "+91 99234 65617",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 14,
+    "address": "Shiv Sadhana layout, 44, National Highway, Hudkeshwar, Kanhalgaon, Nagpur, Maharashtra 440037",
+    "area": "Hudkeshwar",
+    "latitude": 21.0571748,
+    "longitude": 79.1116819,
+    "place_id": "ChIJ5YJoRNm51DsRkVR9jyZ3E8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5YJoRNm51DsRkVR9jyZ3E8A",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:49:44"
+  }
+]

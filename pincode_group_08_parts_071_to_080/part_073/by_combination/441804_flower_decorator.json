@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kakoli's Corner",
+    "search_category": "Flower Decorator",
+    "primary_category": "Handicraft",
+    "all_categories": "Handicraft",
+    "pincode": "441804",
+    "phone_number": "+91 80074 36301",
+    "website": "https://kakoliscorner.in/",
+    "rating": 4.9,
+    "reviews_count": 19,
+    "address": "302, Mangalam Residency, Santaji Ward, Bhandara, Maharashtra 441904",
+    "area": "Santaji Ward, Santaji Nagar",
+    "latitude": 21.1729101,
+    "longitude": 79.6570904,
+    "place_id": "ChIJN9idXtU_KzoR0tBdbAeDqdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN9idXtU_KzoR0tBdbAeDqdI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:52:09"
+  },
+  {
+    "business_name": "Swami Samarth Flower Decorator",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer",
+    "pincode": "441804",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "AT BHOSE POST BHILAR, Bhosekhind, Panchgani - Mahabaleshwar Rd, Panchgani, Maharashtra 412805",
+    "area": "441804",
+    "latitude": 17.9264693,
+    "longitude": 73.7591547,
+    "place_id": "ChIJwUnTXtNnwjsRvzFY9_v4DJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwUnTXtNnwjsRvzFY9_v4DJw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:52:11"
+  }
+]

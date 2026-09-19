@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shyam Amruttulya & Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "441401",
+    "phone_number": "+91 70830 70157",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "Plot no 22, near indian gas (URBAN) godawn, Dighori, Nagpur, Maharashtra 440034",
+    "area": "Dighori",
+    "latitude": 21.1324805,
+    "longitude": 79.1441584,
+    "place_id": "ChIJhbFzg9HH1DsRzyRiQFGKFUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhbFzg9HH1DsRzyRiQFGKFUo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:31:24"
+  },
+  {
+    "business_name": "PATLACHI KETLI AMRUTTULYA",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "441401",
+    "phone_number": "+91 93700 42030",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "House no, 2115, Bhandara Rd, Bhandewadi, Pardi, Nagpur, Maharashtra 440035",
+    "area": "Bhandewadi, Pardi",
+    "latitude": 21.1493163,
+    "longitude": 79.16134009999999,
+    "place_id": "ChIJ2dgA7onH1DsR28ItD6KH77M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2dgA7onH1DsR28ItD6KH77M",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:31:24"
+  }
+]

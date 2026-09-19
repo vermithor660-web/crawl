@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nalanda Library",
+    "search_category": "Media and Event",
+    "primary_category": "Library",
+    "all_categories": "Library, Public library",
+    "pincode": "441904",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "MH SH 252, 5J7X+P6H, 825, MH SH 252, Shukarwari, Madhav Nagar, Bhandara, Maharashtra 441904",
+    "area": "Shukarwari, Madhav Nagar",
+    "latitude": 21.1643687,
+    "longitude": 79.6480952,
+    "place_id": "ChIJ_0PkUQA5KzoRY5IDMv5mwuE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_0PkUQA5KzoRY5IDMv5mwuE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:06:14"
+  },
+  {
+    "business_name": "Agrasen Bhavan Mangal Karyalaya",
+    "search_category": "Media and Event",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue",
+    "pincode": "441904",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 11,
+    "address": "JOHN DEERE Tractors Workshop Bhandara, NH-06, Bhojapur Rd, Bhojapur, Maharashtra 441904",
+    "area": "Bhojapur",
+    "latitude": 21.157044,
+    "longitude": 79.6348926,
+    "place_id": "ChIJm4lua7c5KzoRl_ajHGvmjzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm4lua7c5KzoRl_ajHGvmjzs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:06:14"
+  }
+]

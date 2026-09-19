@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS EXIM ENTERPRISE",
+    "search_category": "EXIMS",
+    "primary_category": "Import export company",
+    "all_categories": "Import export company",
+    "pincode": "441206",
+    "phone_number": "+91 92840 05750",
+    "website": "http://sseximenterprises.co.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "At Korambhitola Tah, Dist, Morgaon, Maharashtra 441701",
+    "area": "441206",
+    "latitude": 20.6939132,
+    "longitude": 80.0101724,
+    "place_id": "ChIJ1SyT6HOHLDoRz7eGcobgobk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1SyT6HOHLDoRz7eGcobgobk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:54:38"
+  },
+  {
+    "business_name": "PT GLOBAL EXIM",
+    "search_category": "EXIMS",
+    "primary_category": "Exporter",
+    "all_categories": "Exporter",
+    "pincode": "441206",
+    "phone_number": "+91 99234 04722",
+    "website": "http://ptglobalexim.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "14, Swar Shree Building Row House, Devalaya Society, Vijasan, Road, Bhadravati, Maharashtra 442503",
+    "area": "Vijasan",
+    "latitude": 20.0971385,
+    "longitude": 79.0913365,
+    "place_id": "ChIJVVVVFeYj0zsR4jIYZIMtUdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVFeYj0zsR4jIYZIMtUdA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:54:39"
+  }
+]

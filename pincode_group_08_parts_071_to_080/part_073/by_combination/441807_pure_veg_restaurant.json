@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saoji Hotel",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "441807",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "86V3+9F2, Goregaon, Maharashtra 441801",
+    "area": "441807",
+    "latitude": 21.3433821,
+    "longitude": 80.2036487,
+    "place_id": "ChIJb0tgJwClKzoRgw4WzQspYtU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb0tgJwClKzoRgw4WzQspYtU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:56:32"
+  },
+  {
+    "business_name": "Naivedhyam Restaurant amgoan",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Breakfast restaurant, Vegan restaurant, Indian restaurant",
+    "pincode": "441807",
+    "phone_number": "+91 96370 10115",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "99FJ+G67, Main Road Amgaon, Amgaon, Maharashtra 441902",
+    "area": "441807",
+    "latitude": 21.3737931,
+    "longitude": 80.3805611,
+    "place_id": "ChIJv0iz5e65KzoR0vxSncHY3dM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv0iz5e65KzoR0vxSncHY3dM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:56:34"
+  }
+]

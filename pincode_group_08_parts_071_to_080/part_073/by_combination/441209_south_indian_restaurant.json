@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji FAST FOOD AND SOUTH INDIAN CENTER",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "441209",
+    "phone_number": "+91 87679 71125",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Near bus stop Arjuni morgan, Morgaon, Maharashtra 441701",
+    "area": "441209",
+    "latitude": 20.822782999999998,
+    "longitude": 80.02280879999999,
+    "place_id": "ChIJUxXxy39_KzoRSp0WcnTyztw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUxXxy39_KzoRSp0WcnTyztw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:58:19"
+  },
+  {
+    "business_name": "Mauli south Indian",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "441209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Husaini complex, Kurkheda, Maharashtra 441209",
+    "area": "441209",
+    "latitude": 20.6220811,
+    "longitude": 80.2045196,
+    "place_id": "ChIJi4nr0rtlLDoRyJ8KjuvoUtI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi4nr0rtlLDoRyJ8KjuvoUtI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:58:19"
+  }
+]

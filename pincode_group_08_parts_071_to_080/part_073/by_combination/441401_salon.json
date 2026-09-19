@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Unique salon",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "441401",
+    "phone_number": "+91 70205 11360",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bharatwada Rd, opp. Mahalaxmi medical, near Apollo pharmacy, Gulmohar Nagar, Kalmana, Nagpur, Maharashtra 440035",
+    "area": "Gulmohar Nagar, Kalmana",
+    "latitude": 21.1602778,
+    "longitude": 79.1555006,
+    "place_id": "ChIJYSvlZqrH1DsRmbgO8ySJrL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYSvlZqrH1DsRmbgO8ySJrL4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:32:15"
+  },
+  {
+    "business_name": "Salon@homenagpur",
+    "search_category": "Salon",
+    "primary_category": "Beautician",
+    "all_categories": "Beautician, Service establishment",
+    "pincode": "441401",
+    "phone_number": "+91 91724 20252",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Salon@homenagpur, 441401, India",
+    "area": "441401",
+    "latitude": 21.1420145,
+    "longitude": 79.0836666,
+    "place_id": "ChIJiTYGXG7YqyARsgG-qiaJHp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiTYGXG7YqyARsgG-qiaJHp0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:32:15"
+  }
+]

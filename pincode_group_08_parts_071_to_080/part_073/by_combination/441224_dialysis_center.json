@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DCDC Kidney Care, Dharmapuri",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "441224",
+    "phone_number": "+91 11 4558 1006",
+    "website": "https://dcdc.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chc, Dialysis Unit, near by Haritha Hotel, Boyawada, Dharmapuri, Telangana 505425",
+    "area": "Boyawada",
+    "latitude": 18.9446251,
+    "longitude": 79.10115929999999,
+    "place_id": "ChIJRyQiSN1BzTsRJ1f21kT3Adw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRyQiSN1BzTsRJ1f21kT3Adw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:14:03"
+  },
+  {
+    "business_name": "DCDC Kidney Care, Peddapalli",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "441224",
+    "phone_number": "+91 11 4558 1006",
+    "website": "https://dcdc.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Govt. District Hospital, Moghalpura, Peddaplli, Peddapalli, Telangana 505172",
+    "area": "Moghalpura, Peddaplli",
+    "latitude": 18.6123817,
+    "longitude": 79.3797002,
+    "place_id": "ChIJmy54AIstzTsRcwNa3_s8B08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmy54AIstzTsRcwNa3_s8B08",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:14:03"
+  }
+]

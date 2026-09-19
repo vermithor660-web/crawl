@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sale Bhatti",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Parking lot",
+    "all_categories": "Parking lot",
+    "pincode": "441217",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "78QC+MCQ, Murumgaon road, Dhanora, Bhusamkudo, Maharashtra 442606",
+    "area": "441217",
+    "latitude": 20.2898036,
+    "longitude": 80.3213054,
+    "place_id": "ChIJbXKAGgBFLDoRCilC2q_VtwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbXKAGgBFLDoRCilC2q_VtwI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:07:19"
+  },
+  {
+    "business_name": "Mr Car (Naraina)",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "441217",
+    "phone_number": "+91 84477 35205",
+    "website": "http://www.mrcarnaraina.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "CB 164, Ring Rd, Block CB, Naraina Vihar, Naraina, New Delhi, Delhi 110028",
+    "area": "Block CB, Naraina Vihar, Naraina",
+    "latitude": 28.623375199999998,
+    "longitude": 77.1351346,
+    "place_id": "ChIJ38-lsDEDDTkRgsXKoPPxBqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ38-lsDEDDTkRgsXKoPPxBqQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:07:20"
+  }
+]

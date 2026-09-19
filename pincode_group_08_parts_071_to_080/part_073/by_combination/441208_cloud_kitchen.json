@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FOOD ON THE WAY",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Delivery service",
+    "all_categories": "Delivery service, Delivery Chinese restaurant, Flower delivery, Grocery delivery service, Meal delivery, Milk delivery service, Pizza delivery, Shipping service",
+    "pincode": "441208",
+    "phone_number": "+91 89567 84694",
+    "website": "http://www.foodontheways.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Dhanora Rd, beside Vaibhav Hotel, Ramnagar, Gadchiroli, Maharashtra 442605",
+    "area": "Ramnagar",
+    "latitude": 20.1854273,
+    "longitude": 80.0089691,
+    "place_id": "ChIJXS9nu9n5LDoRrgZUxfYdDb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXS9nu9n5LDoRrgZUxfYdDb0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:56:42"
+  },
+  {
+    "business_name": "The food cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop, Fried chicken takeaway, Meal delivery, Sandwich shop",
+    "pincode": "441208",
+    "phone_number": "+91 70391 23657",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop 01, dfg, 17th, N Ave Rd, Potohar Nagar, Santacruz (West), Mumbai, Maharashtra 400056",
+    "area": "Potohar Nagar, Santacruz (West)",
+    "latitude": 19.0795307,
+    "longitude": 72.8305343,
+    "place_id": "ChIJz9tuyi7J5zsRStEfYlaKuRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz9tuyi7J5zsRStEfYlaKuRA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 09:56:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lalla Ice-Cream & Pani Puri",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "441501",
+    "phone_number": "+91 74998 65067",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Samrat Ground, near SM convent, Kalmeshwar, Bramhani, Kalmeshwar, Kalmeshwar-Bramhni, Maharashtra 441501",
+    "area": "Kalmeshwar, Bramhani",
+    "latitude": 21.2397272,
+    "longitude": 78.9065902,
+    "place_id": "ChIJAYajis3v1DsRKpLTTKVhJcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAYajis3v1DsRKpLTTKVhJcM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:35:15"
+  },
+  {
+    "business_name": "Prashant Pan Shop",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Cafe",
+    "pincode": "441501",
+    "phone_number": "+91 98230 42230",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Bramhnifata Chowk, Kalmeshwar, Kalmeshwar-Bramhni, Maharashtra 441501",
+    "area": "Kalmeshwar",
+    "latitude": 21.2370756,
+    "longitude": 78.903801,
+    "place_id": "ChIJDaYiy1nv1DsRGLJBtyNEp9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDaYiy1nv1DsRGLJBtyNEp9E",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:35:15"
+  }
+]

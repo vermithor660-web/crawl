@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smize Apparel",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store, Clothing store",
+    "pincode": "441906",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "32 Gul-Sayali Hanuman Nagar Takiya Ward, Maharashtra 441904",
+    "area": "Samruddhi Nagar",
+    "latitude": 21.1650652,
+    "longitude": 79.6426309,
+    "place_id": "ChIJQwbuw0M5KzoRfQgNrkkOheI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQwbuw0M5KzoRfQgNrkkOheI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:09:01"
+  },
+  {
+    "business_name": "D R Fashion",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "441906",
+    "phone_number": "+91 97638 44464",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "5M94+MM3, Main Rd, Santaji Nagar, Bhandara, Maharashtra 441904",
+    "area": "Santaji Nagar",
+    "latitude": 21.169126199999997,
+    "longitude": 79.6566647,
+    "place_id": "ChIJ2VjCerU_KzoRibWgRNeP4Sw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2VjCerU_KzoRibWgRNeP4Sw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:09:04"
+  }
+]

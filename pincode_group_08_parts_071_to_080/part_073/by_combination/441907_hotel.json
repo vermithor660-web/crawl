@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MTDC Resort Chandpur",
+    "search_category": "Hotel",
+    "primary_category": "Villa",
+    "all_categories": "Villa",
+    "pincode": "441907",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "GR79+6WV, Chandpur, Maharashtra 441915",
+    "area": "441907",
+    "latitude": 21.5131205,
+    "longitude": 79.8198039,
+    "place_id": "ChIJFRFkCAAfKzoRijKvlCujt7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFRFkCAAfKzoRijKvlCujt7s",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:11:24"
+  },
+  {
+    "business_name": "Ayush Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "441907",
+    "phone_number": "+91 7183 232 201",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "Tumsar, Bhandara, SH-249, Tumsar Tiroda Road, Tumsar, Tumsar, Maharashtra 441912",
+    "area": "441907",
+    "latitude": 21.3650003,
+    "longitude": 79.7496208,
+    "place_id": "ChIJV7dOvg8YKzoR0VgDNwIbN8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV7dOvg8YKzoR0VgDNwIbN8c",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:11:24"
+  }
+]

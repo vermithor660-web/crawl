@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree oil mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "441907",
+    "phone_number": "+91 96692 34294",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 16,
+    "address": "HQ7C+XM, Bheem Nagar, Bhind, Madhya Pradesh 477001",
+    "area": "Bheem Nagar",
+    "latitude": 26.564898,
+    "longitude": 78.77173599999999,
+    "place_id": "ChIJrW12MFR7djkRiNNtcCCg5tE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrW12MFR7djkRiNNtcCCg5tE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:11:53"
+  },
+  {
+    "business_name": "Wheat Flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "441907",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "V845+CX2, MIDC, Chhatrapati Sambhajinagar, Maharashtra 431010",
+    "area": "MIDC",
+    "latitude": 19.856024599999998,
+    "longitude": 75.3098777,
+    "place_id": "ChIJU9klRvaY2zsRJfq7unsp8cM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU9klRvaY2zsRJfq7unsp8cM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:11:53"
+  }
+]

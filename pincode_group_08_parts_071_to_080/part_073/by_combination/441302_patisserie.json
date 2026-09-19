@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS Cakes Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "441302",
+    "phone_number": "+91 89281 21991",
+    "website": "https://ss-cakes-bakery.grexa.site/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Katol road pandhrabodi Karol road, surendgrh garh road, Gittikhadan, Nagpur, Maharashtra 440013",
+    "area": "Surendragarh, Gittikhadan",
+    "latitude": 21.1713706,
+    "longitude": 79.0473837,
+    "place_id": "ChIJL5TLqMDB1DsRy4c5e8gqC1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5TLqMDB1DsRy4c5e8gqC1w",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:22:29"
+  },
+  {
+    "business_name": "Orangelo Cafe & Bistro",
+    "search_category": "Patisserie",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "441302",
+    "phone_number": "+91 99704 10666",
+    "website": "http://www.orangelo.in/",
+    "rating": 3.9,
+    "reviews_count": 123,
+    "address": "Jaiswal complex,1st floor, Bajrang Chowk, MH SH 247, Laxmi Nagar, Katol, Maharashtra 441302",
+    "area": "Laxmi Nagar",
+    "latitude": 21.2710683,
+    "longitude": 78.5855404,
+    "place_id": "ChIJ_VuiXqpZ1DsRn-9yCogZEc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_VuiXqpZ1DsRn-9yCogZEc4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:22:29"
+  }
+]

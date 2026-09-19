@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cheese & Crust",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "441802",
+    "phone_number": "+91 96738 14122",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 172,
+    "address": "Shastri Square, Warthi Road, near lal bahadur shastri School, Shivaji Ward, Bhandara, Maharashtra 441904",
+    "area": "Shivaji Ward",
+    "latitude": 21.1777424,
+    "longitude": 79.6565038,
+    "place_id": "ChIJ02VEIIU_KzoRUpxdsKzxePI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02VEIIU_KzoRUpxdsKzxePI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:47:45"
+  },
+  {
+    "business_name": "Manthan Family Restaurent, Sakoli",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "441802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 36,
+    "address": "Ashoka Toll Plaza, near Toll Plaza, Sakoli, Wirshi, Maharashtra 441802",
+    "area": "441802",
+    "latitude": 21.0874711,
+    "longitude": 80.03321439999999,
+    "place_id": "ChIJ49-dFzV1KzoRm0d-BuDbmkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ49-dFzV1KzoRm0d-BuDbmkE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:47:47"
+  }
+]

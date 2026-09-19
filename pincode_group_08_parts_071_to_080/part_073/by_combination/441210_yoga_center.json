@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kaaya's Yoga and Fitness Studio",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Karate school, Meditation Class, Self defense school, Yoga instructor, Fitness center",
+    "pincode": "441210",
+    "phone_number": "+91 75071 91177",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Plot No 6, Manewada Chowk, Ulhas Nagar, Manewada, Ulhasnagar, Nagpur, Maharashtra 440027",
+    "area": "Manewada Chowk, Ulhas Nagar, Manewada",
+    "latitude": 21.1057845,
+    "longitude": 79.1015889,
+    "place_id": "ChIJy9fldwC_1DsRNZz2Pt_XQv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy9fldwC_1DsRNZz2Pt_XQv0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:00:21"
+  },
+  {
+    "business_name": "Brahmakumaris Omshanti Meditation Center Bhandara",
+    "search_category": "Yoga Center",
+    "primary_category": "Meditation center",
+    "all_categories": "Meditation center",
+    "pincode": "441210",
+    "phone_number": "+91 83087 74129",
+    "website": "http://omshanti.com/",
+    "rating": 3.1,
+    "reviews_count": 10,
+    "address": "Rajedahegaon, Maharashtra 441906",
+    "area": "441210",
+    "latitude": 21.1297556,
+    "longitude": 79.5440824,
+    "place_id": "ChIJHyLxkhNIKzoRtj3xj-3SyoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHyLxkhNIKzoRtj3xj-3SyoA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:00:24"
+  }
+]

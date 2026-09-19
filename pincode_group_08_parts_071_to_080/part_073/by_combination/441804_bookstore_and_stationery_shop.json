@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mona Book Depot. Lakhani",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Pen store",
+    "all_categories": "Pen store",
+    "pincode": "441804",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3RCG+243, near rest house lakhani, Maharashtra 441804",
+    "area": "Samarth Nagar",
+    "latitude": 21.0700057,
+    "longitude": 79.8252981,
+    "place_id": "ChIJGdsYOSVpKzoRJSMyFYkiYZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGdsYOSVpKzoRJSMyFYkiYZU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:52:21"
+  },
+  {
+    "business_name": "Shirkant Book Depo Lakhani",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store",
+    "pincode": "441804",
+    "phone_number": "+91 76201 90565",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "D Monte St, Murmadi, Maharashtra 441804",
+    "area": "441804",
+    "latitude": 21.0669964,
+    "longitude": 79.8225489,
+    "place_id": "ChIJu2wJ2lRpKzoRwLueIjI3HBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu2wJ2lRpKzoRwLueIjI3HBs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:52:21"
+  }
+]

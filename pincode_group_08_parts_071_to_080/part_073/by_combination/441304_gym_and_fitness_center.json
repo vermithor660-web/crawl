@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The FitHub Gym by Millennial Corp LLP",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "441304",
+    "phone_number": "N/A",
+    "website": "https://fithubgymnarkhed.vercel.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kalambha Road, opp. Govt ITI, Narkher, Maharashtra 441304",
+    "area": "441304",
+    "latitude": 21.4628834,
+    "longitude": 78.5330614,
+    "place_id": "ChIJj5GdDIat1TsRocljVQT6fGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj5GdDIat1TsRocljVQT6fGM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:26:23"
+  },
+  {
+    "business_name": "Richa's Fitness Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "441304",
+    "phone_number": "+91 90211 21217",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Veer Chakra Colony, Swami Colony, Nagpur, Maharashtra 440013",
+    "area": "Veer Chakra Colony, Swami Colony",
+    "latitude": 21.1777825,
+    "longitude": 79.0384706,
+    "place_id": "ChIJ96G8gkTB1DsRBdDT-1s-Fao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ96G8gkTB1DsRBdDT-1s-Fao",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:26:23"
+  }
+]

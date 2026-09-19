@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tanushka jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "441807",
+    "phone_number": "+91 92263 52098",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "mahavir complex, main road, Goregaon, Maharashtra 441801",
+    "area": "441807",
+    "latitude": 21.3427193,
+    "longitude": 80.20335999999999,
+    "place_id": "ChIJc3KuEZylKzoRaxukxxKeIHQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc3KuEZylKzoRaxukxxKeIHQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:56:41"
+  },
+  {
+    "business_name": "Dhomne jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Goldsmith",
+    "pincode": "441807",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Infront of Ganesh Mandir, Main Road, Goregaon, Maharashtra 441801",
+    "area": "441807",
+    "latitude": 21.3416301,
+    "longitude": 80.2032966,
+    "place_id": "ChIJmWZbIQClKzoRGtcjq1ghR_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmWZbIQClKzoRGtcjq1ghR_s",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:56:41"
+  }
+]

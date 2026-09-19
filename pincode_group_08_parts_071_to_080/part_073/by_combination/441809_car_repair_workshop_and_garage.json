@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Services Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "441809",
+    "phone_number": "+91 93099 01568",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "85JW+989, Khandarmal, Maharashtra 422620",
+    "area": "441809",
+    "latitude": 19.331179,
+    "longitude": 74.1960774,
+    "place_id": "ChIJE0Y4ewAf3TsR4qm_z2bGvFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE0Y4ewAf3TsR4qm_z2bGvFg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:58:47"
+  },
+  {
+    "business_name": "Raju mechanical and automobile shop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto bodywork mechanic",
+    "all_categories": "Auto bodywork mechanic",
+    "pincode": "441809",
+    "phone_number": "+91 98503 65510",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 14,
+    "address": "Ghate chowk, Warora, Maharashtra 442907",
+    "area": "Padmalaya Nagar",
+    "latitude": 20.2263728,
+    "longitude": 79.01767989999999,
+    "place_id": "ChIJCWfyEScX0zsR_ri5y24PoMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCWfyEScX0zsR_ri5y24PoMU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:58:48"
+  }
+]

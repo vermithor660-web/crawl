@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gozocabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "441909",
+    "phone_number": "+91 90518 77000",
+    "website": "http://www.gozocabs.com/",
+    "rating": 1.7,
+    "reviews_count": 106,
+    "address": "Gyan Kunj, Sansar Chandra Rd, Sindhi Camp, Jaipur, Rajasthan 302001",
+    "area": "Shri Ram Colony, Sindhi Camp",
+    "latitude": 26.922376,
+    "longitude": 75.804655,
+    "place_id": "ChIJ_YFDqAC0bTkRslMil7yJlYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_YFDqAC0bTkRslMil7yJlYQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:14:28"
+  },
+  {
+    "business_name": "K K Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Travel agency, Corporate office, Farmstay",
+    "pincode": "441909",
+    "phone_number": "+91 98229 79797",
+    "website": "http://www.kktravels.com/",
+    "rating": 4,
+    "reviews_count": 1876,
+    "address": "Survey No. 16/6/1A/1, Katraj, Old ghat road,Pune - Satara Road Next to Trimurti Pride Hotel Katraj Pune Maharashtra 411046 IN, opp. Bharat Petrol Pump, Bhilarewadi, Maharashtra 411046",
+    "area": "Bhilarewadi",
+    "latitude": 18.422161,
+    "longitude": 73.8599789,
+    "place_id": "ChIJW8pM7cTqwjsRzuV1HnwSR0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW8pM7cTqwjsRzuV1HnwSR0E",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:14:28"
+  }
+]

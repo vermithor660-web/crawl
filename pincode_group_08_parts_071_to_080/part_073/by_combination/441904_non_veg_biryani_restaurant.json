@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Hotel Biryani Darbar",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "441904",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Civil Lines, Civil Line, MSEB Colony, Bhandara, Maharashtra 441904",
+    "area": "Civil Line, MSEB Colony",
+    "latitude": 21.1638607,
+    "longitude": 79.64818389999999,
+    "place_id": "ChIJoZuWYwA5KzoR4RaktFKihPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoZuWYwA5KzoR4RaktFKihPc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:05:16"
+  },
+  {
+    "business_name": "Da Na tawa chicken",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "441904",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5J8X+5FX, Rajiv Gandhi chowk, Shukarwari, Madhav Nagar, Bhandara, Maharashtra 441904",
+    "area": "Shukarwari, Madhav Nagar",
+    "latitude": 21.165488099999997,
+    "longitude": 79.64872679999999,
+    "place_id": "ChIJdaVkFwA5KzoRdijqacdH42c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdaVkFwA5KzoRdijqacdH42c",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:05:16"
+  }
+]

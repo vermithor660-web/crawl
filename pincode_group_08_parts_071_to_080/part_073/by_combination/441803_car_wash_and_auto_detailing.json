@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "24 hours cars",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "441803",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "near suryakant ilme’s house, Civil Line, MSEB Colony, Bhandara, Maharashtra 441904",
+    "area": "Civil Line, MSEB Colony",
+    "latitude": 21.1616881,
+    "longitude": 79.65065709999999,
+    "place_id": "ChIJAdfW5CU_KzoRsOziqQnQNBg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAdfW5CU_KzoRsOziqQnQNBg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:49:53"
+  },
+  {
+    "business_name": "Car wishing service at home",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "441803",
+    "phone_number": "+91 87677 44643",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Santaji Nagar, Bhandara, Maharashtra 441904",
+    "area": "Santaji Nagar",
+    "latitude": 21.1711897,
+    "longitude": 79.65941749999999,
+    "place_id": "ChIJTTrT2IM_KzoRrXFhZBXFq2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTTrT2IM_KzoRrXFhZBXFq2U",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:49:55"
+  }
+]

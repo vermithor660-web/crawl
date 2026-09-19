@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smart Tech Computer",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Electronics store, Mobile phone repair shop",
+    "pincode": "441225",
+    "phone_number": "+91 98231 86951",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 12,
+    "address": "BSNL Telephone Exchange, Near 442603, Kurkheda - Wadsa - Bramhapuri - Nagpur Hwy, Nagbhir, Maharashtra 442603",
+    "area": "Teachers Colony",
+    "latitude": 19.9384257,
+    "longitude": 79.8911799,
+    "place_id": "ChIJOaIzKGQbLToRBFchVFEJz7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOaIzKGQbLToRBFchVFEJz7Y",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:16:36"
+  },
+  {
+    "business_name": "CVS COMPUTER",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer security service",
+    "pincode": "441225",
+    "phone_number": "+91 96045 25189",
+    "website": "https://cvs-computer.grexa.site/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Teachers Colony, Chamorshi, Maharashtra 442603",
+    "area": "Teachers Colony",
+    "latitude": 19.939143599999998,
+    "longitude": 79.89138969999999,
+    "place_id": "ChIJt5tDoGYbLToR1apgR0ooH4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt5tDoGYbLToR1apgR0ooH4w",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:16:37"
+  }
+]

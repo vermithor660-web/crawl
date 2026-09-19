@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RIZVI MOBILE REPAIRING",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "441806",
+    "phone_number": "+91 81129 91125",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Market, Sindhi Colony, Gondia, Maharashtra 441614",
+    "area": "Main Market, Sindhi Colony",
+    "latitude": 21.4579107,
+    "longitude": 80.1906597,
+    "place_id": "ChIJlRqjMACvKzoRR52tA81PItw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlRqjMACvKzoRR52tA81PItw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:55:55"
+  },
+  {
+    "business_name": "Renuka Communication",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Electronics store",
+    "pincode": "441806",
+    "phone_number": "+91 99263 03285",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 142,
+    "address": "Renuka Communication, Prem Nagar, Chitragupt Nagar, Balaghat, Madhya Pradesh 481001",
+    "area": "Prem Nagar, Chitragupt Nagar",
+    "latitude": 21.8120348,
+    "longitude": 80.1903208,
+    "place_id": "ChIJmaIKqtdbKjoRhhRp3x5yftg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmaIKqtdbKjoRhhRp3x5yftg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:55:58"
+  }
+]

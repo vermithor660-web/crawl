@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashtvinayak Construction & Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Architect",
+    "all_categories": "Architect, Cement Supplier, Civil engineer, Interior architect office",
+    "pincode": "441301",
+    "phone_number": "+91 94210 09811",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gunwant Nerkar, Shakuntala Vichar Bhain, C/O, Dal Mill Nagpur Road, Rashtrsant Colony, Warud, Maharashtra 444906",
+    "area": "Rashtrsant Colony",
+    "latitude": 21.4676476,
+    "longitude": 78.27866689999999,
+    "place_id": "ChIJ9UDnvT_L1TsRZj1V1fRQZzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9UDnvT_L1TsRZj1V1fRQZzo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:21:26"
+  },
+  {
+    "business_name": "Artisan Design Studio",
+    "search_category": "Interior Designers",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "441301",
+    "phone_number": "+91 88059 01060",
+    "website": "https://artisan-design-studio.vercel.app/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lic Road, near Pawade Hospital, Warud, Maharashtra 444906",
+    "area": "441301",
+    "latitude": 21.4744262,
+    "longitude": 78.2709361,
+    "place_id": "ChIJ30ac253L1TsRooLepAVOzZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ30ac253L1TsRooLepAVOzZs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:21:27"
+  }
+]

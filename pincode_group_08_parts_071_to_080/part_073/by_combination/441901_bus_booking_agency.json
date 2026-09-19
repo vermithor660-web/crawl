@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parihar tours & travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "441901",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Trimurti nagar, Deori, Maharashtra 441901",
+    "area": "Trimurti nagar",
+    "latitude": 21.065725699999998,
+    "longitude": 80.36803809999999,
+    "place_id": "ChIJtT8Dh-aTKzoRqcFyf0CGuGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtT8Dh-aTKzoRqcFyf0CGuGc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:00:33"
+  },
+  {
+    "business_name": "Vimal travels Amgaon",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Bus ticket agency, Tour agency, Transportation service",
+    "pincode": "441901",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Water Tank, Front of Janta Bank, Near, Amgaon, Maharashtra 441902",
+    "area": "441901",
+    "latitude": 21.3756398,
+    "longitude": 80.381951,
+    "place_id": "ChIJ52UR_kW5KzoRv_zbhIOb25c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ52UR_kW5KzoRv_zbhIOb25c",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:00:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fish Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "441614",
+    "phone_number": "+91 75075 40045",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "12, Main Market, Sindhi Colony, Gondia, Maharashtra 441614",
+    "area": "Main Market, Sindhi Colony",
+    "latitude": 21.4562611,
+    "longitude": 80.18930399999999,
+    "place_id": "ChIJEbFx6SyvKzoRNRbU5cU3rpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEbFx6SyvKzoRNRbU5cU3rpo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:40:34"
+  },
+  {
+    "business_name": "Gautam Fish Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Fishing store",
+    "all_categories": "Fishing store",
+    "pincode": "441614",
+    "phone_number": "+91 98816 15073",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 8,
+    "address": "GWWG+5X5, Balaghat, Pipariya, Maharashtra 441911",
+    "area": "441614",
+    "latitude": 21.5453837,
+    "longitude": 79.9274756,
+    "place_id": "ChIJK5a_K6kCKzoR8F5YEwbKKYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK5a_K6kCKzoR8F5YEwbKKYk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:40:35"
+  }
+]

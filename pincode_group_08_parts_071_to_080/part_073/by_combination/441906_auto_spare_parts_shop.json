@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adity Auto Parts Repairing & Service Centre",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "441906",
+    "phone_number": "+91 78228 08915",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "At-Shahapur NH-6, Bhandara, Maharashtra 441906",
+    "area": "441906",
+    "latitude": 21.154804199999997,
+    "longitude": 79.57053959999999,
+    "place_id": "ChIJt2CSC5E5KzoR6nx8-9sctTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt2CSC5E5KzoR6nx8-9sctTA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:09:16"
+  },
+  {
+    "business_name": "Awdhoot Auto Spares",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic, Tire shop",
+    "pincode": "441906",
+    "phone_number": "+91 88578 73656",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ramayan Nagari, Bhandara, Maharashtra 441904",
+    "area": "Ramayan Nagari",
+    "latitude": 21.173179899999997,
+    "longitude": 79.64961629999999,
+    "place_id": "ChIJn4pty645KzoRrdZKH_iTpYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn4pty645KzoRrdZKH_iTpYU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:09:17"
+  }
+]

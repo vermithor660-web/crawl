@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brahma Kumaris",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga Retreat Center",
+    "all_categories": "Yoga Retreat Center",
+    "pincode": "441903",
+    "phone_number": "+91 83297 88581",
+    "website": "http://brahmakumar.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rajyoga Anubhuti Kendra, Main Rd, Mouja:, Ramtek, Khokarla, Maharashtra 441210",
+    "area": "Mouja:",
+    "latitude": 20.961775799999998,
+    "longitude": 79.6063415,
+    "place_id": "ChIJq6qqbipbKzoRaGmH0q3LaYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqbipbKzoRaGmH0q3LaYw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:03:57"
+  },
+  {
+    "business_name": "Industrial Training Institute",
+    "search_category": "Yoga Center",
+    "primary_category": "Training center",
+    "all_categories": "Training center, University",
+    "pincode": "441903",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 32,
+    "address": "Pauni, Maharashtra 441910",
+    "area": "441903",
+    "latitude": 20.796034499999998,
+    "longitude": 79.62421309999999,
+    "place_id": "ChIJ7eJWgpZYKzoReBJRB9WaXyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7eJWgpZYKzoReBJRB9WaXyI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:03:58"
+  }
+]

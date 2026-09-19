@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R.D. Frozen food",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "441809",
+    "phone_number": "+91 93240 60075",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "shop no,18, PLOT NO. 16, PRECIOUS RESIDENCY, kk cinema road, opp. d-mart ready, Sector 19, Kamothe, Panvel, Maharashtra 410209",
+    "area": "Sector 19, Kamothe, Panvel",
+    "latitude": 19.0126597,
+    "longitude": 73.0917144,
+    "place_id": "ChIJx57wsGbp5zsRFwqS-cF8NW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx57wsGbp5zsRFwqS-cF8NW4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:58:16"
+  },
+  {
+    "business_name": "Frodel Enterprises",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer",
+    "pincode": "441809",
+    "phone_number": "+91 93260 75303",
+    "website": "http://frodel.in/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "A-6,Gala No.10, Bhumi World Industrial Park, Village, Pimplas, Pimpalas, Maharashtra 421302",
+    "area": "Pimplas",
+    "latitude": 19.2658791,
+    "longitude": 73.0756681,
+    "place_id": "ChIJCZinB6295zsRQUnxyleI730",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZinB6295zsRQUnxyleI730",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 10:58:17"
+  }
+]
