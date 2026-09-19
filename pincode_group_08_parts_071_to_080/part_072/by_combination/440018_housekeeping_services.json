@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "cleanvo",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "440018",
+    "phone_number": "N/A",
+    "website": "http://cleanvo.in/",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "Golibar Square, Lodhipura, Nagpur, Maharashtra 440018",
+    "area": "Lodhipura",
+    "latitude": 21.1484602,
+    "longitude": 79.0955723,
+    "place_id": "ChIJ935FtS7B1DsR5PxHDx7r5kw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ935FtS7B1DsR5PxHDx7r5kw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:52:59"
+  },
+  {
+    "business_name": "MaxAtHome Japa Maid Service | Mother and Child Care at Home",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Home help service agency",
+    "all_categories": "Home help service agency, Home health care service",
+    "pincode": "440018",
+    "phone_number": "+91 92402 99623",
+    "website": "https://www.maxathome.in/service/japa-maid/nagpur",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Medical Chowk, Hanuman Nagar, Nagpur, Maharashtra 440024",
+    "area": "Medical Chowk, Hanuman Nagar",
+    "latitude": 21.130754,
+    "longitude": 79.096707,
+    "place_id": "ChIJbwJfqzXB1DsRgMV5xQNCA00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbwJfqzXB1DsRgMV5xQNCA00",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:53:02"
+  }
+]

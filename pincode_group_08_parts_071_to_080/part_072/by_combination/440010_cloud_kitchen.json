@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "D-10 Kitchen - (Cloud/Home/Ghost Kitchen)",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cake shop, Food court, Hotel",
+    "pincode": "440010",
+    "phone_number": "+91 95956 55107",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Beltarodi, Besa Pipla, Maharashtra 440037",
+    "area": "Beltarodi",
+    "latitude": 21.069283199999997,
+    "longitude": 79.0752433,
+    "place_id": "ChIJnxhFynS_1DsR9EiksFctCmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnxhFynS_1DsR9EiksFctCmk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:35:30"
+  },
+  {
+    "business_name": "SMS BENGALI CLOUD KITCHEN & CATERING SERVICES DHARAMPETH NAGPUR",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food producer",
+    "all_categories": "Food producer",
+    "pincode": "440010",
+    "phone_number": "+91 94038 20352",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hanuman Mandir Rd, Dharampeth, Nagpur, Maharashtra 440010",
+    "area": "Dharampeth",
+    "latitude": 21.142349499999998,
+    "longitude": 79.0634553,
+    "place_id": "ChIJC0yXgCDB1DsRfAGlqGN5SOE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC0yXgCDB1DsRfAGlqGN5SOE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:35:30"
+  }
+]

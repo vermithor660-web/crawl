@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MS Fabrics",
+    "search_category": "Roofing Sheet Supplier",
+    "primary_category": "Fiberglass supplier",
+    "all_categories": "Fiberglass supplier, Fiberglass repair service, Manufacturer, Plastic resin manufacturer",
+    "pincode": "440003",
+    "phone_number": "+91 80 4806 8131",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Kothi Rd, Opposite Sai anand apartment, Mahal, Nagpur, Maharashtra 440032",
+    "area": "Mahal",
+    "latitude": 21.1426181,
+    "longitude": 79.10539539999999,
+    "place_id": "ChIJc-slNrTA1DsR2GLX6zQzKwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc-slNrTA1DsR2GLX6zQzKwI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:25:09"
+  },
+  {
+    "business_name": "Ajay Steel & Hardware",
+    "search_category": "Roofing Sheet Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "440003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No, Gas, Sandesh Bazar Rd, Ganjipeth, Lakad Ganj, Nagpur, Maharashtra 440018",
+    "area": "Ganjipeth, Lakad Ganj",
+    "latitude": 21.149934899999998,
+    "longitude": 79.09916609999999,
+    "place_id": "ChIJV_xxl8jA1DsRabrQEDn6fa8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_xxl8jA1DsRabrQEDn6fa8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:25:11"
+  }
+]

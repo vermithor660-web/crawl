@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Vivek Shivhare (Shivhare's Clinic)",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Neonatal physician",
+    "pincode": "440010",
+    "phone_number": "+91 89891 59559",
+    "website": "https://shivhareclinic.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Premila\", 52 South Ambazari road Opp. Netaji Subhash Chandra Bose High School, Subhash Nagar, Nagpur, Maharashtra 440022",
+    "area": "Subhash Nagar, Trimurti Nagar",
+    "latitude": 21.1223055,
+    "longitude": 79.0446573,
+    "place_id": "ChIJYe8mtgjB1DsRbdYFndpTO80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYe8mtgjB1DsRbdYFndpTO80",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:35:51"
+  },
+  {
+    "business_name": "Shivvay Mother and Child Health Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Fertility clinic, Obstetrician-gynecologist",
+    "pincode": "440010",
+    "phone_number": "+91 90969 83925",
+    "website": "https://shivvay-mother-and.grexa.site/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "first floor , cabin no. 6, Godhni, Panchsheel Square, Jasleen Building, Nagpur, Maharashtra 440012",
+    "area": "Panchshil Chowk, Dhantoli",
+    "latitude": 21.1384905,
+    "longitude": 79.0800589,
+    "place_id": "ChIJw7z-JADB1DsRnyW1e01JUmc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw7z-JADB1DsRnyW1e01JUmc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:35:54"
+  }
+]

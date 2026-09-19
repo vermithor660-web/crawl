@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baskin Robbins",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Dessert shop",
+    "pincode": "440015",
+    "phone_number": "+91 82378 79169",
+    "website": "https://baskinrobbinsindia.com/pages/store-locator?utm_source=gmb&utm_medium=search&utm_campaign=storefootfall",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Purti Super, Manish Nagar,Plot No 4, Sanshriti Nagar, Besa-Manish Nagar Road, Between, Bazaar & Haldiran, Besa Pipla, Maharashtra 440037",
+    "area": "Besa",
+    "latitude": 21.0874308,
+    "longitude": 79.0862477,
+    "place_id": "ChIJwwCa1y-_1DsRL72bG7Zfq_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwwCa1y-_1DsRL72bG7Zfq_4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:44:47"
+  },
+  {
+    "business_name": "Barista cafe",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "440015",
+    "phone_number": "+91 93193 92273",
+    "website": "https://barista.co.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "03, Ambazari Road shankar nagar sqaure, Shankar Nagar, East Shankar Nagar, Dharampeth, Nagpur, Maharashtra 440010",
+    "area": "Shankar Nagar, East Shankar Nagar, Dharampeth",
+    "latitude": 21.1365183,
+    "longitude": 79.0623382,
+    "place_id": "ChIJnRSxmufB1DsRUQrAmn46GM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnRSxmufB1DsRUQrAmn46GM4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:44:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashish Illuminations",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Electrical supply store, Electrical products wholesaler, Interior fitting contractor, Light bulb supplier, Lighting consultant, Lighting contractor, Lighting products wholesaler, Wholesaler",
+    "pincode": "440010",
+    "phone_number": "+91 89830 80198",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No. 301, Narayan Appartment, opposite Prince Pan, Bajaj Nagar, Nagpur, Maharashtra 440010",
+    "area": "Bajaj Nagar",
+    "latitude": 21.1273375,
+    "longitude": 79.0606418,
+    "place_id": "ChIJhYRJ533A1DsRSlVhTCiEyFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhYRJ533A1DsRSlVhTCiEyFo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:36:11"
+  },
+  {
+    "business_name": "Omkarsai Enterprises \"Galaxy Lights\"",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Lighting consultant",
+    "pincode": "440010",
+    "phone_number": "+91 98229 36740",
+    "website": "https://pcards.org/omkarsaientreprises.galaxylights-91652777",
+    "rating": 4.3,
+    "reviews_count": 25,
+    "address": "Sahas Apartment, 64, Bajaj Nagar Rd, Bajaj Nagar, Nagpur, Maharashtra 440010",
+    "area": "Bajaj Nagar",
+    "latitude": 21.1300019,
+    "longitude": 79.0625062,
+    "place_id": "ChIJy-Rk5XzA1DsRXKb0hq6kE7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy-Rk5XzA1DsRXKb0hq6kE7Y",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:36:15"
+  }
+]

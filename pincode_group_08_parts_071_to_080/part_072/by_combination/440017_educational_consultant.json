@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Career Verse",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "440017",
+    "phone_number": "N/A",
+    "website": "http://www.careerdomain.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "182, Vrindavan Nagar, Binaki, Nagpur, Maharashtra 440017",
+    "area": "Vrindavan Nagar, Binaki",
+    "latitude": 21.1686649,
+    "longitude": 79.1277913,
+    "place_id": "ChIJF96vt2XH1DsRdNU_7d40MCI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF96vt2XH1DsRdNU_7d40MCI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:50:31"
+  },
+  {
+    "business_name": "Silver Institute",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "440017",
+    "phone_number": "+91 76660 16797",
+    "website": "http://www.silverinstitute.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "29, Jaripatka Rd, Kukreja Nagar, Nagpur, Maharashtra 440014",
+    "area": "Kukreja Nagar",
+    "latitude": 21.185689099999998,
+    "longitude": 79.08968449999999,
+    "place_id": "ChIJF4ShUTnB1DsRSVqcWu_YgSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF4ShUTnB1DsRSVqcWu_YgSI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:50:32"
+  }
+]

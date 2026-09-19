@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grace Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store, Clothing store",
+    "pincode": "440017",
+    "phone_number": "+91 91455 95952",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jain Mandir Road, Vaishali Nagar, Nagpur, Maharashtra 440017",
+    "area": "Vaishali Nagar",
+    "latitude": 21.170678199999998,
+    "longitude": 79.108856,
+    "place_id": "ChIJJ-jDuirB1DsRn-bJVZ7hE1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ-jDuirB1DsRn-bJVZ7hE1s",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:49:31"
+  },
+  {
+    "business_name": "Cyclone Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "440017",
+    "phone_number": "+91 96730 08823",
+    "website": "https://pcards.org/cyclone.boutique-56377877",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "1st Floor, Jai Sitaram Complex, near New Era Hospital, Appt, Queta Colony, Lakadganj, Nagpur, Maharashtra 440008",
+    "area": "Appt, Queta Colony, Lakadganj",
+    "latitude": 21.1523187,
+    "longitude": 79.1214461,
+    "place_id": "ChIJ53cW5znH1DsRGe2ShdfabHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ53cW5znH1DsRGe2ShdfabHc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:49:31"
+  }
+]

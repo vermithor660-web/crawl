@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "a la mode designer studio",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "440003",
+    "phone_number": "+91 97663 49194",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "U/8 , Himalaya harmony , 8th rasta square, W High Ct Rd, Nagpur, Maharashtra 440022",
+    "area": "Laxminagar",
+    "latitude": 21.121015,
+    "longitude": 79.0646246,
+    "place_id": "ChIJ9zrJCYDA1DsRJ2-8GPnZnP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9zrJCYDA1DsRJ2-8GPnZnP4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:24:33"
+  },
+  {
+    "business_name": "AOne - The Brand store",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "440003",
+    "phone_number": "+91 88560 20095",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 227,
+    "address": "Plot No. 35/A, near Imperial Celebration, Mhalgi Nagar, Nagpur, Maharashtra 440034",
+    "area": "Mhalgi Nagar",
+    "latitude": 21.1084337,
+    "longitude": 79.1238815,
+    "place_id": "ChIJ53GF3Pi51DsRYduQmAGBxco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ53GF3Pi51DsRYduQmAGBxco",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:24:36"
+  }
+]

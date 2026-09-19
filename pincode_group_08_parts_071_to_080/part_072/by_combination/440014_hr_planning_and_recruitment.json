@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mapral Managerial & Allied Services",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "440014",
+    "phone_number": "+91 80805 24212",
+    "website": "https://www.mapralmas.com/contactus.html",
+    "rating": null,
+    "reviews_count": null,
+    "address": "No. 1563, 2, Kamal Talkies Rd, Guru Nanak Pura, Balabhaupeth, Nagpur, Maharashtra 440017",
+    "area": "Guru Nanak Pura, Balabhaupeth",
+    "latitude": 21.167785199999997,
+    "longitude": 79.1026014,
+    "place_id": "ChIJCWlEhSzB1DsR8lxgm4XyrhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCWlEhSzB1DsR8lxgm4XyrhU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:44:06"
+  },
+  {
+    "business_name": "SAVIC Technologies",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "440014",
+    "phone_number": "+91 80808 06851",
+    "website": "http://www.savictech.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "N.M.C Complex, 4th Floor, Block 10-10A , JB Wing, Mangalwari, Sadar, Nagpur, Maharashtra 440001",
+    "area": "Mangalwari, Sadar",
+    "latitude": 21.1654232,
+    "longitude": 79.08188059999999,
+    "place_id": "ChIJhVOeiHrB1DsRy0kXvGe43ZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhVOeiHrB1DsRy0kXvGe43ZQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:44:09"
+  }
+]

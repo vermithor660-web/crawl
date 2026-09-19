@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yash Enterprises",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Association / Organization",
+    "all_categories": "Association / Organization, Customs consultant",
+    "pincode": "440007",
+    "phone_number": "+91 77964 68286",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Ujwal Society, plot no 22, Dabha Rd, chowk, Nagpur, Maharashtra 441501",
+    "area": "chowk",
+    "latitude": 21.161641799999998,
+    "longitude": 79.0153062,
+    "place_id": "ChIJGfzLFQDr1DsRcHIeUmwutFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGfzLFQDr1DsRcHIeUmwutFs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:32:12"
+  },
+  {
+    "business_name": "G2s Unique Management Group & services",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "440007",
+    "phone_number": "+91 98602 18906",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "Flat No.103, Rana & sharif Enclave, Krishna Nagar, Hajaripahad, Seminary Hills, Nagpur, Maharashtra 440007",
+    "area": "Krishna Nagar, Hajaripahad, Seminary Hills",
+    "latitude": 21.167121299999998,
+    "longitude": 79.03646909999999,
+    "place_id": "ChIJKToHMqr7XUIR9328EqcZJno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKToHMqr7XUIR9328EqcZJno",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:32:12"
+  }
+]

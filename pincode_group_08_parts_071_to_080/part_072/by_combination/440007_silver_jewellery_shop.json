@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Komal Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "440007",
+    "phone_number": "+91 80876 13371",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Govt Press Colony, Plot 115, opp. Hitachi ATM, Dabha, Nagpur, Maharashtra 440030",
+    "area": "Dabha",
+    "latitude": 21.1621159,
+    "longitude": 79.0137785,
+    "place_id": "ChIJsUuOVADr1DsRvoI6ndJbY58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsUuOVADr1DsRvoI6ndJbY58",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:31:10"
+  },
+  {
+    "business_name": "Nathotsav (नथोत्सव)",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "440007",
+    "phone_number": "+91 92845 94051",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near NMC Library, Hajaripahad, UPHC, Vayusena Nagar, Nagpur, Maharashtra 440007",
+    "area": "Hajaripahad, UPHC, Vayusena Nagar",
+    "latitude": 21.168648899999997,
+    "longitude": 79.03426569999999,
+    "place_id": "ChIJI5tFRonB1DsRN1vH8-5blRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI5tFRonB1DsRN1vH8-5blRM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:31:10"
+  }
+]

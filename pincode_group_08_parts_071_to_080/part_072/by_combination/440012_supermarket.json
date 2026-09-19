@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Burdi shoping",
+    "search_category": "Supermarket",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "440012",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "43RM+JJW udasi ashram, Yashwant Stadium, Dhantoli, Nagpur, Maharashtra 440012",
+    "area": "Yashwant Stadium, Dhantoli",
+    "latitude": 21.1416049,
+    "longitude": 79.08407249999999,
+    "place_id": "ChIJHwe3ayjB1DsR84KQVpUhkI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHwe3ayjB1DsR84KQVpUhkI8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:37:35"
+  },
+  {
+    "business_name": "Dhuriya Traders",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "440012",
+    "phone_number": "+91 90969 12066",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dhantoli, Nagpur, Maharashtra 440012",
+    "area": "Dhantoli",
+    "latitude": 21.1395754,
+    "longitude": 79.0853023,
+    "place_id": "ChIJE0ylFebB1DsRHXRl8E68seU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE0ylFebB1DsRHXRl8E68seU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:37:35"
+  }
+]

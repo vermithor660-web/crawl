@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sugandh Events & Wedding Planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event management company, Event planner",
+    "pincode": "440008",
+    "phone_number": "+91 91753 23323",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Queta Colony Rd, Queta Colony, Lakadganj, Nagpur, Maharashtra 440008",
+    "area": "Queta Colony, Lakadganj",
+    "latitude": 21.151528499999998,
+    "longitude": 79.1182651,
+    "place_id": "ChIJBVGLGDfH1DsRRcyOfYQ1hKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBVGLGDfH1DsRRcyOfYQ1hKU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:34:16"
+  },
+  {
+    "business_name": "The House of Elegance",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Entertainer, Event management company, Event planner, Event technology service, Wedding service",
+    "pincode": "440008",
+    "phone_number": "+91 95799 84568",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 29,
+    "address": "1320, Deshpande Layout, Uday Nagar, Wardhaman Nagar Colony, Nagpur, Maharashtra 440008",
+    "area": "Deshpande Layout, Uday Nagar, Wardhaman Nagar Colony",
+    "latitude": 21.1472248,
+    "longitude": 79.1396053,
+    "place_id": "ChIJs01SlzjH1DsR5N-jkIfZJRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs01SlzjH1DsR5N-jkIfZJRM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:34:16"
+  }
+]

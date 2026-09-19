@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saraswati Provision",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Home goods store",
+    "pincode": "440015",
+    "phone_number": "+91 93075 04479",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No . 1, Narendra Nagar, Somalwada, Nagpur, Maharashtra 440015",
+    "area": "Narendra Nagar, Somalwada",
+    "latitude": 21.1049574,
+    "longitude": 79.07451209999999,
+    "place_id": "ChIJFeeduHG_1DsRIeReScD72bk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFeeduHG_1DsRIeReScD72bk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:44:36"
+  },
+  {
+    "business_name": "Kirti Grains",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "440015",
+    "phone_number": "+91 94236 28275",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "plot no 1, Borkute Layout, Narendra Nagar, Somalwada, Nagpur, Maharashtra 440015",
+    "area": "Borkute Layout, Narendra Nagar, Somalwada",
+    "latitude": 21.104451299999997,
+    "longitude": 79.0765565,
+    "place_id": "ChIJbYCnIm6_1DsRuiVIbLFmcBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbYCnIm6_1DsRuiVIbLFmcBQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:44:36"
+  }
+]

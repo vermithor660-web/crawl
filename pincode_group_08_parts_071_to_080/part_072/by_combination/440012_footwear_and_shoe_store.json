@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Nawab NX Boot House",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Boot store",
+    "all_categories": "Boot store",
+    "pincode": "440012",
+    "phone_number": "+91 86050 80522",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Hanuman Gali, Sitabuldi, Nagpur, Maharashtra 440012",
+    "area": "Sitabuldi",
+    "latitude": 21.1440915,
+    "longitude": 79.0845178,
+    "place_id": "ChIJcaaCliLB1DsRFNjAojR3XqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcaaCliLB1DsRFNjAojR3XqU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:38:01"
+  },
+  {
+    "business_name": "Khadim's",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "440012",
+    "phone_number": "+91 1800 274 0501",
+    "website": "http://www.khadims.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "THIRD FLOOR, UNIQUE HEIGHT, House no 407 ward no 1 sitabuldi main road, R-20, Main Rd, opposite NILAM LODGE, Sitabuldi, Nagpur, Maharashtra 440012",
+    "area": "Pardhi Wada, Sitabuldi",
+    "latitude": 21.1446133,
+    "longitude": 79.0847141,
+    "place_id": "ChIJ0bj4EcDA1DsRCcYZcJ7zQ4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bj4EcDA1DsRCcYZcJ7zQ4Y",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:38:04"
+  }
+]

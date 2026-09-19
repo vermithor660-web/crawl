@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samir Plumber Work",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "440018",
+    "phone_number": "+91 98901 20725",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Timki Road, Ansari Telecom Center, Mominpura, Mominpura, Nagpur, Maharashtra 440008",
+    "area": "Noori Press, Mominpura",
+    "latitude": 21.1566863,
+    "longitude": 79.0976901,
+    "place_id": "ChIJ0bj4EcDA1DsRNyaxPya-L-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bj4EcDA1DsRNyaxPya-L-s",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:52:13"
+  },
+  {
+    "business_name": "R M plumbing services",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "440018",
+    "phone_number": "+91 92840 79908",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near lal building, Saifi Nagar, Ansar Nagar, Mominpura, Nagpur, Maharashtra 440018",
+    "area": "Saifi Nagar, Ansar Nagar, Mominpura",
+    "latitude": 21.1593691,
+    "longitude": 79.0946793,
+    "place_id": "ChIJ7wroWlbB1DsRKZAOzYGujag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7wroWlbB1DsRKZAOzYGujag",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:52:16"
+  }
+]

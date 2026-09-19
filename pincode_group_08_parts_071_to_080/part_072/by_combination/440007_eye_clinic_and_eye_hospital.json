@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "shivank eye clinic",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Community center",
+    "all_categories": "Community center",
+    "pincode": "440007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "5244+62V, Katol Bypass Rd, Wadi, Maharashtra 440023",
+    "area": "Wadi",
+    "latitude": 21.1556166,
+    "longitude": 79.0050601,
+    "place_id": "ChIJ7e5kGwDr1DsRd85iSJMBzIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7e5kGwDr1DsRd85iSJMBzIg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:31:22"
+  },
+  {
+    "business_name": "EYE HOSPITAL",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "440007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vikas Nagar, Sawarkar Nagar, Vivekanand Nagar, Nagpur, Maharashtra 440015",
+    "area": "Vikas Nagar, Sawarkar Nagar, Vivekanand Nagar",
+    "latitude": 21.1111874,
+    "longitude": 79.0692013,
+    "place_id": "ChIJBZdBnHm_1DsR31kSs4x8mk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZdBnHm_1DsR31kSs4x8mk8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:31:25"
+  }
+]

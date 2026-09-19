@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Betwyn By Checkers",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "440006",
+    "phone_number": "N/A",
+    "website": "https://mycheckers.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "PLOT NO. 1, opposite LIT COLLEGE, KINKHEDE LAYOUT, Bharatnagar, Nagpur, Maharashtra 440010",
+    "area": "KINKHEDE LAYOUT, Bharatnagar",
+    "latitude": 21.1483971,
+    "longitude": 79.0485511,
+    "place_id": "ChIJkU-7mIrB1DsRKoqDhFOOD4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkU-7mIrB1DsRKoqDhFOOD4c",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:28:53"
+  },
+  {
+    "business_name": "Yello - Restaurant & Bar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Bar",
+    "all_categories": "Bar, Breakfast restaurant, Cafe, Continental restaurant, Family restaurant, Non Vegetarian Restaurant, North Indian restaurant, Restaurant, South Indian restaurant, Vegetarian restaurant",
+    "pincode": "440006",
+    "phone_number": "+91 88888 86977",
+    "website": "https://linktr.ee/yellocafeandrestaurant",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Officers' Club, Walkers St, CBI Colony, Civil Lines, Nagpur, Maharashtra 440001",
+    "area": "CBI Colony, Civil Lines",
+    "latitude": 21.1579665,
+    "longitude": 79.06327,
+    "place_id": "ChIJ32_6SlbA1DsRBsPZ2T3xk_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ32_6SlbA1DsRBsPZ2T3xk_M",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:28:53"
+  }
+]

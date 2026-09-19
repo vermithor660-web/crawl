@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hans Super Bazar",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "440006",
+    "phone_number": "+91 98604 25320",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "142, Katol Rd, KT Nagar, Nagpur, Maharashtra 440006",
+    "area": "KT Nagar",
+    "latitude": 21.170555999999998,
+    "longitude": 79.03979079999999,
+    "place_id": "ChIJ5wc2MMrB1DsRqHlFItUC2ko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5wc2MMrB1DsRqHlFItUC2ko",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:28:37"
+  },
+  {
+    "business_name": "LAXMI TRADERS KIRANA AND GENERAL",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "440006",
+    "phone_number": "+91 95799 91777",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "Shop no.12-13, Metro Plaza, Gorewada Chowk, Nagpur, Maharashtra 440013",
+    "area": "Anant Nagar",
+    "latitude": 21.186151,
+    "longitude": 79.050808,
+    "place_id": "ChIJCZs2-rzB1DsRmiYLiMv0Wo4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZs2-rzB1DsRmiYLiMv0Wo4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:28:40"
+  }
+]

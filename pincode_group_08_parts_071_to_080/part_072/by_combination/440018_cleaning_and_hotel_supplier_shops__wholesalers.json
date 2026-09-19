@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siddhi Enterprises",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Screen printing supply store",
+    "pincode": "440018",
+    "phone_number": "+91 93709 94848",
+    "website": "https://www.siddhienterprises.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "533V+8Q5, Central Ave, Seva Sadan Square, Behind Satkal Hotel, Mominpura, Nagpur, Maharashtra 440018",
+    "area": "Seva Sadan Square, Behind Satkal Hotel, Mominpura",
+    "latitude": 21.153264999999998,
+    "longitude": 79.09448809999999,
+    "place_id": "ChIJeWsQNs_A1DsRIyyobIBi2mk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeWsQNs_A1DsRIyyobIBi2mk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:52:38"
+  },
+  {
+    "business_name": "Tony Tools",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Pneumatic tools supplier",
+    "all_categories": "Pneumatic tools supplier",
+    "pincode": "440018",
+    "phone_number": "+91 95953 63627",
+    "website": "https://sites.google.com/view/tony-tools/home",
+    "rating": 4.6,
+    "reviews_count": 9,
+    "address": "matro station, 101, Central Ave, near dosar vasya, Mominpura, Nagpur, Maharashtra 440018",
+    "area": "Mominpura",
+    "latitude": 21.1530913,
+    "longitude": 79.0948171,
+    "place_id": "ChIJRU3tAafB1DsRUyIHOl_4JOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRU3tAafB1DsRUyIHOl_4JOs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:52:39"
+  }
+]

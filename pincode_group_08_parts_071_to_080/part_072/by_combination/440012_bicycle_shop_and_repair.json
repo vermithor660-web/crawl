@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "J.k cycle stores bike and car puncher",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop, Tire repair shop, Tire shop",
+    "pincode": "440012",
+    "phone_number": "+91 92845 90401",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rambagh Rd, Rambagh, Nagpur, Maharashtra 440003",
+    "area": "Rambagh",
+    "latitude": 21.1321768,
+    "longitude": 79.09062809999999,
+    "place_id": "ChIJDVwtI6PA1DsRKNg8xaDGAeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDVwtI6PA1DsRKNg8xaDGAeY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:38:28"
+  },
+  {
+    "business_name": "Avon Cycles-Dinesh Chandra & Company",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop",
+    "pincode": "440012",
+    "phone_number": "+91 712 252 2806",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 29,
+    "address": "Geeta Ground, Pandit Malviya Road Mahindrakar Building, Sitabuldi, Nagpur, Maharashtra 440012",
+    "area": "Sitabuldi",
+    "latitude": 21.142232099999998,
+    "longitude": 79.0847965,
+    "place_id": "ChIJU_ahB5XA1DsRomroqR-ot7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU_ahB5XA1DsRomroqR-ot7I",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:38:32"
+  }
+]

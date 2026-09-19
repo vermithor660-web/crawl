@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TEX-EXIM",
+    "search_category": "EXIMS",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "440010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "43, S Ambazari Rd, Gopal Nagar, Gayatri Nagar, Pratap Nagar, Nagpur, Maharashtra 440022",
+    "area": "Gopal Nagar, Gayatri Nagar, Pratap Nagar",
+    "latitude": 21.121094799999998,
+    "longitude": 79.0530726,
+    "place_id": "ChIJTbnBRADB1DsRjlAb6r1RfSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTbnBRADB1DsRjlAb6r1RfSk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:37:21"
+  },
+  {
+    "business_name": "SPR NATURALS EXIM",
+    "search_category": "EXIMS",
+    "primary_category": "Exporter",
+    "all_categories": "Exporter",
+    "pincode": "440010",
+    "phone_number": "+91 74477 55042",
+    "website": "https://sprnaturals.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Plot No.201, Abhyankar Nagar, Nagpur, Maharashtra 440010",
+    "area": "Abhyankar Nagar",
+    "latitude": 21.125163999999998,
+    "longitude": 79.05829299999999,
+    "place_id": "ChIJP5V1f9vB1DsR63lnvo15lQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP5V1f9vB1DsR63lnvo15lQg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:37:21"
+  }
+]

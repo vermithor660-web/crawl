@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brands Hub",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "440014",
+    "phone_number": "+91 76201 31383",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 13,
+    "address": "Shop No 5, Nara Rd, Jaripatka, Barakholi, Nagpur, Maharashtra 440014",
+    "area": "Jaripatka",
+    "latitude": 21.1778521,
+    "longitude": 79.0953627,
+    "place_id": "ChIJ1eA7E6nB1DsRbPXkrovzHbI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1eA7E6nB1DsRbPXkrovzHbI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:44:31"
+  },
+  {
+    "business_name": "Ezeelo Consumer Services Pvt Ltd",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Dry Fruit Store, Fruit and vegetable store, Grocery delivery service, Meat products store, Outlet mall, Produce market, Vegetable wholesale market",
+    "pincode": "440014",
+    "phone_number": "+91 98608 90890",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "N.M.C Complex, JB Wing, Mangalwari Bazar Rd, Koradi Colony, Nagpur, Maharashtra 440001",
+    "area": "Koradi Colony",
+    "latitude": 21.165234899999998,
+    "longitude": 79.0814133,
+    "place_id": "ChIJK4gYpeHA1DsR5865W2SBDgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK4gYpeHA1DsR5865W2SBDgE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:44:33"
+  }
+]

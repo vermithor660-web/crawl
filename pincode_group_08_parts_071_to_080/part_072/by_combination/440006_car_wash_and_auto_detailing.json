@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trackxit Solution",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "440006",
+    "phone_number": "+91 96815 64370",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No. 1, Friends Colony, Katol Rd, Nagpur, Maharashtra 440013",
+    "area": "Friends Colony, KT Nagar",
+    "latitude": 21.175255,
+    "longitude": 79.04419089999999,
+    "place_id": "ChIJH2GT2mfB1DsRbecTVhp0aSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH2GT2mfB1DsRbecTVhp0aSg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:29:22"
+  },
+  {
+    "business_name": "Noor Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "440006",
+    "phone_number": "+91 91122 22131",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Mankapur Ring Rd, Lumbini Nagar, Jafar Nagar, New Mankapur, Nagpur, Maharashtra 440030",
+    "area": "Lumbini Nagar, Jafar Nagar, New Mankapur",
+    "latitude": 21.1872688,
+    "longitude": 79.0752567,
+    "place_id": "ChIJV6EnjA3B1DsR423RH2ZbErg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV6EnjA3B1DsR423RH2ZbErg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:29:23"
+  }
+]

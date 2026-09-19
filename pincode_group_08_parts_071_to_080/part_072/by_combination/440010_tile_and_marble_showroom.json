@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarthak Ceramics",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Marble contractor",
+    "all_categories": "Marble contractor, Tile store",
+    "pincode": "440010",
+    "phone_number": "+91 93711 77732",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Mate Square, Shraddhanandpeth, Laxminagar, Nagpur, Maharashtra 440010",
+    "area": "Mate Square, Shraddhanandpeth, Laxminagar",
+    "latitude": 21.122034,
+    "longitude": 79.056973,
+    "place_id": "ChIJcTNx5HjA1DsRW9cTvXgxhWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcTNx5HjA1DsRW9cTvXgxhWA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:36:12"
+  },
+  {
+    "business_name": "Nagani Sales",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store, Granite supplier",
+    "pincode": "440010",
+    "phone_number": "+91 93737 27800",
+    "website": "https://www.instagram.com/nagani_sales_nagpur/profilecard/?igsh=azJlc3JvdHBjdXBj",
+    "rating": 4.7,
+    "reviews_count": 378,
+    "address": "Kalamna Rd, Supare Nagar, Ranala, Kamptee, Nagpur, Yerkheda, Maharashtra 441001",
+    "area": "Supare Nagar, Ranala, Kamptee",
+    "latitude": 21.2092794,
+    "longitude": 79.184698,
+    "place_id": "ChIJOa_yIxLG1DsRwHXpgY4ASa4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOa_yIxLG1DsRwHXpgY4ASa4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:36:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reshmi Dhaga",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "440007",
+    "phone_number": "+91 96373 78780",
+    "website": "http://www.reshmidhaga.com/",
+    "rating": 4.7,
+    "reviews_count": 52,
+    "address": "Reshmi Dhaga, W High Ct Rd, Bajaj Nagar, Nagpur, Maharashtra 440010",
+    "area": "Bajaj Nagar",
+    "latitude": 21.126918399999997,
+    "longitude": 79.0634778,
+    "place_id": "ChIJgbCC32bB1DsRynhGtHLp3-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgbCC32bB1DsRynhGtHLp3-8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:31:05"
+  },
+  {
+    "business_name": "Shirbhate Nauvar",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "440007",
+    "phone_number": "+91 90491 67980",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 152,
+    "address": "Mahal, Nagpur, Maharashtra 440032",
+    "area": "Mahal",
+    "latitude": 21.1453991,
+    "longitude": 79.10668079999999,
+    "place_id": "ChIJ5XNYEhbB1DsR_QPuosu9B28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5XNYEhbB1DsR_QPuosu9B28",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:31:07"
+  }
+]

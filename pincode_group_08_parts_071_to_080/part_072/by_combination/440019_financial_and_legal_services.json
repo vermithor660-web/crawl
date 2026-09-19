@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krause Financial",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant, Lawyer",
+    "pincode": "440019",
+    "phone_number": "N/A",
+    "website": "https://www.krausefinancial.com/?utm_source=gmb&utm_medium=directory",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1234 N Enterprise Dr, De Pere, WI 54115, United States",
+    "area": "440019",
+    "latitude": 44.431906,
+    "longitude": -88.061883,
+    "place_id": "ChIJryrPIkX8AogR_8-fbIscsko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJryrPIkX8AogR_8-fbIscsko",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:55:05"
+  },
+  {
+    "business_name": "MD & Associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Law firm",
+    "all_categories": "Law firm, Intellectual property registry, Lawyer",
+    "pincode": "440019",
+    "phone_number": "+91 99993 72279",
+    "website": "https://mdandassociate.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lower Ground Floor, A 157B, opposite The Khaitan School, F Block, Sector 40, Noida, Uttar Pradesh 201301",
+    "area": "F Block, Sector 40",
+    "latitude": 28.5647992,
+    "longitude": 77.352183,
+    "place_id": "ChIJN9mG3BPjDDkRrLe8aeNO62Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN9mG3BPjDDkRrLe8aeNO62Q",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:55:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mess",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "440016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "4, Hingna Rd, Kalmegh Nagar, Hingna, Nagpur, Maharashtra 441110",
+    "area": "Kalmegh Nagar, Hingna",
+    "latitude": 21.1105245,
+    "longitude": 79.0029931,
+    "place_id": "ChIJO_KVBEyV1DsRdPqfylu4Qn0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_KVBEyV1DsRdPqfylu4Qn0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:47:00"
+  },
+  {
+    "business_name": "Radhika Mess",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "440016",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "26 Bansi Nagar Hingna Naka, Hingna Road Nagpur, Digdoh, Maharashtra 440036",
+    "area": "Bansi Nagar",
+    "latitude": 21.116918899999998,
+    "longitude": 79.01647559999999,
+    "place_id": "ChIJP2mkKlWV1DsRNCHLgyn2Aw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP2mkKlWV1DsRNCHLgyn2Aw4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:47:00"
+  }
+]

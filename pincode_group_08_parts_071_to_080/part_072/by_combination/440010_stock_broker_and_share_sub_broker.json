@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TradeXBulls",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Service establishment",
+    "pincode": "440010",
+    "phone_number": "N/A",
+    "website": "https://t.me/tradexbulls",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "TradeXBulls, 440010, India",
+    "area": "440010",
+    "latitude": 21.5400797,
+    "longitude": 80.6183267,
+    "place_id": "ChIJ_T-PGUwFDTkRmItNC9yGp2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_T-PGUwFDTkRmItNC9yGp2o",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:37:03"
+  },
+  {
+    "business_name": "Stocks And Me",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Education center",
+    "all_categories": "Education center, Online Share Trading Center",
+    "pincode": "440010",
+    "phone_number": "+91 98734 11284",
+    "website": "https://www.stocksandme.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4th Floor, B3, Tower A, Spaze iTech Park, Block S, Sector 49, Gurugram, Haryana 122018",
+    "area": "Block S, Sector 49",
+    "latitude": 28.4138566,
+    "longitude": 77.04217849999999,
+    "place_id": "ChIJA18h6T8hDTkRjlfZ1rxGeno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA18h6T8hDTkRjlfZ1rxGeno",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:37:04"
+  }
+]

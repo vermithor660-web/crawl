@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Matrutva CardioDiabetic Care Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "440006",
+    "phone_number": "+91 98230 33575",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Plot G1G2, Katol Rd, Friends Colony, Nagpur, Maharashtra 440013",
+    "area": "Friends Colony, KT Nagar",
+    "latitude": 21.1754541,
+    "longitude": 79.0447319,
+    "place_id": "ChIJVTB3-F_B1DsR2lFOMB78beo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVTB3-F_B1DsR2lFOMB78beo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:29:15"
+  },
+  {
+    "business_name": "Wankhade Multispeciality Polyclinic & Pharmacy",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Laboratory, Pharmacy",
+    "pincode": "440006",
+    "phone_number": "+91 92725 96821",
+    "website": "http://wankhadehealthcare.in/",
+    "rating": 5,
+    "reviews_count": 24,
+    "address": "GR FLR, SHOP NO. 1, PRABHU NAGAR, H. NO. 524-C-24, PL NO. 24, Godhani Road, SHIVRAY, Zingabai Takli, Nagpur, Maharashtra 440030",
+    "area": "SHIVRAY, Zingabai Takli",
+    "latitude": 21.1961713,
+    "longitude": 79.06891399999999,
+    "place_id": "ChIJ_2-hbQDB1DsR0MxWGF8JEV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2-hbQDB1DsR0MxWGF8JEV0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:29:15"
+  }
+]

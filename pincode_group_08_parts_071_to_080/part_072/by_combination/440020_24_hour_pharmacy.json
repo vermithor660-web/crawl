@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apex Medical Stores",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical Center",
+    "pincode": "440020",
+    "phone_number": "+91 99609 99520",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Apex medical, J M Thakar Marg, Kesriyanath Society, Itwari, Nagpur, Maharashtra 440002",
+    "area": "Kesriyanath Society, Itwari",
+    "latitude": 21.1513423,
+    "longitude": 79.112481,
+    "place_id": "ChIJVbr5YTTH1DsRI3ReefdIjIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVbr5YTTH1DsRI3ReefdIjIQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:55:55"
+  },
+  {
+    "business_name": "Bombay Medicos",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Pharmaceutical Products Wholesaler, Pharmaceuticals Exporter",
+    "pincode": "440020",
+    "phone_number": "+91 80 4896 3994",
+    "website": "http://bombaymedicos.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Mehadia Bhawan, SHOP NO 9,GROUND FLOOR,SHANTI PRABHA NURSING HOME, Dhantoli, Nagpur, Maharashtra 440012",
+    "area": "Lokmat Square, Dhantoli",
+    "latitude": 21.135523799999998,
+    "longitude": 79.0790849,
+    "place_id": "ChIJ__8b_pDA1DsRXsIKM6NFYqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__8b_pDA1DsRXsIKM6NFYqk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:55:55"
+  }
+]

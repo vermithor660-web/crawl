@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chamunda S. Stores",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store",
+    "pincode": "440006",
+    "phone_number": "+91 98673 01230",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Suraj Palace, FR-14th Floor, Hill Road, beside Old Dande Hospital, Ram Nagar, Maharashtra 440033",
+    "area": "Ram Nagar",
+    "latitude": 21.146689199999997,
+    "longitude": 79.0561829,
+    "place_id": "ChIJ6X1sPmjA1DsRrozGdifg2hY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6X1sPmjA1DsRrozGdifg2hY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:29:17"
+  },
+  {
+    "business_name": "Anish Ventures",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Service establishment",
+    "pincode": "440006",
+    "phone_number": "+91 70196 48892",
+    "website": "https://anishventures.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Anish Ventures, 440006, India",
+    "area": "440006",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJOeQWrqSc-KURiAc3ZgldtGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOeQWrqSc-KURiAc3ZgldtGc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:29:18"
+  }
+]

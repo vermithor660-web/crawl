@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Jewellers & Sarees",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Saree Shop",
+    "pincode": "440007",
+    "phone_number": "+91 98900 84350",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Sadachar Society, Plot no. C-43, Duttawadi, Wadi, Maharashtra 440021",
+    "area": "Duttawadi",
+    "latitude": 21.1528204,
+    "longitude": 78.9966678,
+    "place_id": "ChIJg1kNLY3q1DsR4V_7WkvWT-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg1kNLY3q1DsR4V_7WkvWT-Y",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:31:09"
+  },
+  {
+    "business_name": "JSM by Priyanka",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Diamond Merchant",
+    "all_categories": "Diamond Merchant",
+    "pincode": "440007",
+    "phone_number": "+91 75881 83621",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "shop 727, Meghraj Golchha Rd, near novelty book store, Sadar, Nagpur, Maharashtra 440001",
+    "area": "Sadar",
+    "latitude": 21.1629936,
+    "longitude": 79.0781899,
+    "place_id": "ChIJc2i9amvB1DsR9NxkTaiO01Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2i9amvB1DsR9NxkTaiO01Y",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:31:13"
+  }
+]

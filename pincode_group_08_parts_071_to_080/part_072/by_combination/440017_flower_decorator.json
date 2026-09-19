@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R S Flowers",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "440017",
+    "phone_number": "+91 93258 65288",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "B1, Netaji Market Ln, Sitabuldi, Nagpur, Maharashtra 440012",
+    "area": "Sitabuldi",
+    "latitude": 21.1411643,
+    "longitude": 79.08407179999999,
+    "place_id": "ChIJ2T4yjGzB1DsRoLkFYKlZD00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2T4yjGzB1DsRoLkFYKlZD00",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:50:17"
+  },
+  {
+    "business_name": "Om Sai pushp flowers shop and artificial and balloon decoration event",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer",
+    "pincode": "440017",
+    "phone_number": "+91 95454 62786",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 8,
+    "address": "4459+4PV, Hudkeshwar Rd, vardha Rd, Mhalgi Nagar, Chowk, Ashirwad Nagar, Nagpur, Maharashtra 440024",
+    "area": "Ashirwad Nagar",
+    "latitude": 21.1076826,
+    "longitude": 79.1194773,
+    "place_id": "ChIJ_QjPFT251DsRtF1VO0IVu5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_QjPFT251DsRtF1VO0IVu5A",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:50:18"
+  }
+]

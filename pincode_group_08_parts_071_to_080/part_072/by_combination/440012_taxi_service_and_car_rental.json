@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kusum Limozin's",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car rental agency",
+    "pincode": "440012",
+    "phone_number": "+91 99229 44222",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Block No.2, Guru Teg Bahadur Marg, Ganeshpeth Colony, Nagpur, Maharashtra 440018",
+    "area": "Ganeshpeth Colony",
+    "latitude": 21.1431887,
+    "longitude": 79.0893191,
+    "place_id": "ChIJl6ZCpL_A1DsRDc4Zd0SAnnA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl6ZCpL_A1DsRDc4Zd0SAnnA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:38:29"
+  },
+  {
+    "business_name": "TraveloCar Nagpur",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Car rental agency, Taxi service",
+    "pincode": "440012",
+    "phone_number": "N/A",
+    "website": "https://www.travelocar.com/city/Nagpur-Car-Rental",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "Congress Nagar, Dhantoli, Nagpur, Maharashtra 440012",
+    "area": "Congress Nagar, Dhantoli",
+    "latitude": 21.1308503,
+    "longitude": 79.08425059999999,
+    "place_id": "ChIJcf8_qZnA1DsRFJD13E4HMew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcf8_qZnA1DsRFJD13E4HMew",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:38:29"
+  }
+]

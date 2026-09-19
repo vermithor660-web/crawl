@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Waltrs cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "440017",
+    "phone_number": "+91 74149 85626",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Jetwan budhvihar, Main Rd, near Barakholi Square, Jaripatka, Nagpur, Maharashtra 440014",
+    "area": "Jaripatka",
+    "latitude": 21.1769449,
+    "longitude": 79.0958469,
+    "place_id": "ChIJnZIozxTB1DsRJ1TReUdd0rA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnZIozxTB1DsRJ1TReUdd0rA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:49:15"
+  },
+  {
+    "business_name": "Cafe Sutta Bar",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Vegetarian cafe and deli",
+    "all_categories": "Vegetarian cafe and deli",
+    "pincode": "440017",
+    "phone_number": "+91 78419 16934",
+    "website": "https://cafe-sutta-bar.grexa.site/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Patankar Chowk, Jagrut Nagar, Angulimal Nagar, Nagpur, Maharashtra 440014",
+    "area": "Jagrut Nagar, Angulimal Nagar",
+    "latitude": 21.1848208,
+    "longitude": 79.1006149,
+    "place_id": "ChIJg7PJ-YzB1DsRWKr7ViSqYO8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7PJ-YzB1DsRWKr7ViSqYO8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:49:19"
+  }
+]

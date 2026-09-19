@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Milestone Cabs Pvt. Ltd.",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "440020",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "Plot no. A4, Laxminagar, Nagpur, Maharashtra 440022",
+    "area": "Laxminagar",
+    "latitude": 21.1258294,
+    "longitude": 79.0668235,
+    "place_id": "ChIJx-yo04DA1DsRfOKKqnBqAy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx-yo04DA1DsRfOKKqnBqAy0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:56:11"
+  },
+  {
+    "business_name": "Rino cab - One-way, roundtrip & outstation taxi service in Agra",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "440020",
+    "phone_number": "+91 96672 66620",
+    "website": "https://www.rinocab.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "52RR+Q9H, 16/95, Sushil Nagar, Nagla Kachhpura, Kuberpur, Agra, Uttar Pradesh 282006",
+    "area": "Sushil Nagar, Nagla Kachhpura",
+    "latitude": 27.1919154,
+    "longitude": 78.0408748,
+    "place_id": "ChIJT5OTwTxxdDkRVyu3oCcqZCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT5OTwTxxdDkRVyu3oCcqZCQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:56:11"
+  }
+]

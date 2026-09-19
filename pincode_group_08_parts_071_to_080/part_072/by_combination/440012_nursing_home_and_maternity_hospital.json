@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sneh Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home, Women's health clinic",
+    "pincode": "440012",
+    "phone_number": "+91 712 229 5994",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Ring Road Opp Padole Hospital, Swawlambhi Nagar Square, Swawlambhi Nagar, Deendayal Nagar, Nagpur, Maharashtra 440022",
+    "area": "Deendayal Nagar",
+    "latitude": 21.112555399999998,
+    "longitude": 79.0483632,
+    "place_id": "ChIJddMzsI6_1DsR_TIVfEJIMU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJddMzsI6_1DsR_TIVfEJIMU8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:38:11"
+  },
+  {
+    "business_name": "Gurgaon Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "440012",
+    "phone_number": "+91 124 400 2341",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 36,
+    "address": "53, 18, Shaheed Major Vikas Yadav Marg, opp. Housing Board Colony, Civil Lines, Gurugram, Haryana 122001",
+    "area": "Civil Lines",
+    "latitude": 28.457493499999998,
+    "longitude": 77.03584959999999,
+    "place_id": "ChIJf_RP5DcYDTkRlWdOeh-5PBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf_RP5DcYDTkRlWdOeh-5PBY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:38:11"
+  }
+]

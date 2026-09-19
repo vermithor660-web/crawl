@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Shakti Enterprise",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier, Building materials store",
+    "pincode": "440016",
+    "phone_number": "+91 80879 01586",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hingna Rd, near Lata mangeskar hospital, opp. Shubhmangal Vihar, Lokmanya Nagar, Nildoh ct, Maharashtra 441110",
+    "area": "Lokmanya Nagar",
+    "latitude": 21.1016796,
+    "longitude": 78.9878918,
+    "place_id": "ChIJu0P_mXuV1DsRj2O2reYsqrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu0P_mXuV1DsRj2O2reYsqrI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:47:47"
+  },
+  {
+    "business_name": "Yerne Trading Company",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "440016",
+    "phone_number": "+91 97644 67224",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Yerne Trading company, MIDC, Hingna road, New Nildoh, Beside grampanchat, Nildoh ct, Maharashtra 441110",
+    "area": "Nildoh",
+    "latitude": 21.1130611,
+    "longitude": 78.987383,
+    "place_id": "ChIJTR9Kl9yV1DsRdjgs3Dw48UM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTR9Kl9yV1DsRdjgs3Dw48UM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:47:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ewox marketing",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Cell phone store, Repair service, Screen repair service, Second hand store",
+    "pincode": "440002",
+    "phone_number": "+91 75882 44077",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 84,
+    "address": "Amazing Trading, 1st flower, Ram Cooler Square, Nagpur, Maharashtra 440032",
+    "area": "Ram Cooler Square, Ganeshpeth Colony",
+    "latitude": 21.1425877,
+    "longitude": 79.1017631,
+    "place_id": "ChIJFYoicsbA1DsReJdlYP98rxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFYoicsbA1DsReJdlYP98rxI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:23:55"
+  },
+  {
+    "business_name": "Smart brand hub",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "440002",
+    "phone_number": "+91 80878 08463",
+    "website": "http://www.smartbrandhub360.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2nd Floor, Smart Brand Hub, 614/A, behind NMC School, Ganeshpeth Colony, Nagpur, Maharashtra 440018",
+    "area": "Ganeshpeth Colony",
+    "latitude": 21.142570199999998,
+    "longitude": 79.101897,
+    "place_id": "ChIJG4qHrfvB1DsRdOYbCnr8wkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4qHrfvB1DsRdOYbCnr8wkY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:23:56"
+  }
+]

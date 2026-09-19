@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ArtyCrafty",
+    "search_category": "Flower Decorator",
+    "primary_category": "Home health care service",
+    "all_categories": "Home health care service, Artificial plant supplier, Craft store, Home help, Interior Decorator, Pottery store, Watch store",
+    "pincode": "440020",
+    "phone_number": "+91 98494 63536",
+    "website": "http://www.artycrafty.in/",
+    "rating": 4.1,
+    "reviews_count": 27,
+    "address": "near Rajesh Farsan, Dev Nagar Square, Deo Nagar, Nagpur, Maharashtra 440015",
+    "area": "Dev Nagar Square, Deo Nagar",
+    "latitude": 21.114880199999998,
+    "longitude": 79.0676775,
+    "place_id": "ChIJDcAAtKS_1DsRxPlqWaYY0gU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDcAAtKS_1DsRxPlqWaYY0gU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:56:36"
+  },
+  {
+    "business_name": "Flower jewellery place",
+    "search_category": "Flower Decorator",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "440020",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kabir Nagar, Plot no 8, near ishwar nagar square, Ishwar Nagar, Bapu Nagar, Nandanvan, Nagpur, Maharashtra 440009",
+    "area": "Ishwar Nagar, Bapu Nagar, Nandanvan",
+    "latitude": 21.1270556,
+    "longitude": 79.1226873,
+    "place_id": "ChIJiXXHe47H1DsRSHJb2u9FL7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiXXHe47H1DsRSHJb2u9FL7o",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:56:38"
+  }
+]

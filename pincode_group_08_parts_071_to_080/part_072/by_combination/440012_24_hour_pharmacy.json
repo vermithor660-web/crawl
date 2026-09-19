@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MID-CARE PHARMACY",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "440012",
+    "phone_number": "+91 83294 73778",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Kamal Keshav Business Plaza, Central Bazar Road, Lokmat Square, Ramdaspeth, Nagpur, Maharashtra 440010",
+    "area": "Lokmat Square, Ramdaspeth",
+    "latitude": 21.1346776,
+    "longitude": 79.0775105,
+    "place_id": "ChIJjwioUqnB1DsR3tbKZRf5E-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjwioUqnB1DsR3tbKZRf5E-8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:38:10"
+  },
+  {
+    "business_name": "Prince Medicos",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "440012",
+    "phone_number": "+91 712 245 3068",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "43MH+W96, Wardha Rd, Lokmat Square, Dhantoli, Nagpur, Maharashtra 440012",
+    "area": "Lokmat Square, Dhantoli",
+    "latitude": 21.1347965,
+    "longitude": 79.0783908,
+    "place_id": "ChIJizbkh3m_1DsRWvd069idiqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJizbkh3m_1DsRWvd069idiqM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:38:10"
+  }
+]

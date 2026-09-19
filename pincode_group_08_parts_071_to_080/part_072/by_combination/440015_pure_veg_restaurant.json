@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jevan Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "440015",
+    "phone_number": "+91 83088 94310",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 1279,
+    "address": "Mate Square, Kotwal Nagar, Pratap Nagar, Nagpur, Maharashtra 440022",
+    "area": "Mate Square, Kotwal Nagar, Pratap Nagar",
+    "latitude": 21.121561099999997,
+    "longitude": 79.0573289,
+    "place_id": "ChIJ3W9FllHB1DsRhReF0O8_SU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3W9FllHB1DsRhReF0O8_SU0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:44:46"
+  },
+  {
+    "business_name": "Urban City Kitchen Restaurant - Best Veg/Nonveg quick service restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Indian restaurant, Restaurant",
+    "pincode": "440015",
+    "phone_number": "+91 80879 22342",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Plot no.8, Khamla Rd, Santaji Colony, Sawarkar Nagar, Deo Nagar, Nagpur, Maharashtra 440015",
+    "area": "Santaji Colony, Sawarkar Nagar, Deo Nagar",
+    "latitude": 21.114086399999998,
+    "longitude": 79.06733129999999,
+    "place_id": "ChIJkTasAp6_1DsR-Q6zIqKjk1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTasAp6_1DsR-Q6zIqKjk1I",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:44:48"
+  }
+]

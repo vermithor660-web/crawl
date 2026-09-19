@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maitri Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Interior designer, Office furniture store",
+    "pincode": "440014",
+    "phone_number": "+91 98238 20437",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Plot 24A, Mangalwari Market Rd, Jaripatka, Nagpur, Maharashtra 440014",
+    "area": "Jaripatka",
+    "latitude": 21.1855786,
+    "longitude": 79.0965169,
+    "place_id": "ChIJ0bj4EcDA1DsR1KuSs5ECNLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bj4EcDA1DsR1KuSs5ECNLo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:43:27"
+  },
+  {
+    "business_name": "Aj Furniture nagpur",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture wholesaler",
+    "all_categories": "Furniture wholesaler",
+    "pincode": "440014",
+    "phone_number": "+91 89995 43893",
+    "website": "https://www.facebook.com/azhar.naved.17",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mata mandir, near indora, Teka Naka, Nagpur, Maharashtra 440017",
+    "area": "Teka Naka",
+    "latitude": 21.176244399999998,
+    "longitude": 79.10497459999999,
+    "place_id": "ChIJuVFaEJPB1DsRO70cfvwF2Lk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuVFaEJPB1DsRO70cfvwF2Lk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:43:29"
+  }
+]

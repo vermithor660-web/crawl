@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Makde Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "440018",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "44P4+7HQ, Telipura, Siraspeth, Nagpur, Maharashtra 440024",
+    "area": "Telipura, Siraspeth",
+    "latitude": 21.135721999999998,
+    "longitude": 79.1064703,
+    "place_id": "ChIJbQfFPGHB1DsRG7-1OiKYQgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbQfFPGHB1DsRG7-1OiKYQgA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:51:18"
+  },
+  {
+    "business_name": "Rfm Supergrains",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "440018",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Plot No 288/1, Somwaripeth, Nagpur, Maharashtra 440024",
+    "area": "Somwaripeth",
+    "latitude": 21.128038699999998,
+    "longitude": 79.1093482,
+    "place_id": "ChIJIUqyIAHB1DsRGcEC2YMIumA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIUqyIAHB1DsRGcEC2YMIumA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:51:18"
+  }
+]

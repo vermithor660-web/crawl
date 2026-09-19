@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAHACHAI",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "440012",
+    "phone_number": "+91 77579 87708",
+    "website": "https://www.mahachai.in/",
+    "rating": 4.4,
+    "reviews_count": 89,
+    "address": "Eternity Mall, K1, Amravati Rd, Variety Square, Patrakar Nagar, Nagpur, Maharashtra 440010",
+    "area": "Variety Square, Patrakar Nagar",
+    "latitude": 21.143176399999998,
+    "longitude": 79.0803135,
+    "place_id": "ChIJC7xaUaLB1DsRDnjmjqzXEHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC7xaUaLB1DsRDnjmjqzXEHM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:37:45"
+  },
+  {
+    "business_name": "TIC-TOC CHAI",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Tea house",
+    "pincode": "440012",
+    "phone_number": "N/A",
+    "website": "http://www.tictocchai.com/",
+    "rating": 3.9,
+    "reviews_count": 74,
+    "address": "Anand Palace 4, cement road, opposite SBI ATM, New Nandanvan Colony, Nandanvan, Nagpur, Maharashtra 440024",
+    "area": "New Nandanvan Colony, Nandanvan",
+    "latitude": 21.1333073,
+    "longitude": 79.11967279999999,
+    "place_id": "ChIJD6n0G1rH1DsRIX7JaxmUMcY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6n0G1rH1DsRIX7JaxmUMcY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:37:50"
+  }
+]

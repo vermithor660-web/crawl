@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swati Dakshin స్వాతి సౌత్",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "440008",
+    "phone_number": "+91 80077 94096",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Near, Nandanvan Main Rd, New Nandanvan Layout, Ganesh Nagar, Azamshah Layout, Nagpur, Maharashtra 440024",
+    "area": "New Nandanvan Layout, Ganesh Nagar, Azamshah Layout",
+    "latitude": 21.1341906,
+    "longitude": 79.11933429999999,
+    "place_id": "ChIJ889CQLnH1DsRVjCyUMxrpUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ889CQLnH1DsRVjCyUMxrpUM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:33:12"
+  },
+  {
+    "business_name": "Dosa Xpressa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "440008",
+    "phone_number": "+91 93403 99223",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 222,
+    "address": "Chappru Nagar Square, Chapru Nagar, Shashtri Nagar, Nagpur, Maharashtra 440008",
+    "area": "Chapru Nagar, Shashtri Nagar",
+    "latitude": 21.1482061,
+    "longitude": 79.12483809999999,
+    "place_id": "ChIJDc35JvzH1DsR-DmusOHsiPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDc35JvzH1DsR-DmusOHsiPQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:33:16"
+  }
+]

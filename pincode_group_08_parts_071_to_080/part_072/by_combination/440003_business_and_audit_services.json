@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Treewesh Corporate Services",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Accounting firm, Bookkeeping service, Business development service, Business management consultant, Financial audit, Loan agency, Tax consultant",
+    "pincode": "440003",
+    "phone_number": "+91 86686 81693",
+    "website": "https://treewesh-corporate.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "34, Maa Vaishnavi, Balaji Nagar, Manewada Rd, behind Padole Medicals, East, Nagpur, Maharashtra 440024",
+    "area": "Ambika Nagar, East",
+    "latitude": 21.1148542,
+    "longitude": 79.1049218,
+    "place_id": "ChIJJXcoRxG51DsRsxffff1u0JE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJXcoRxG51DsRsxffff1u0JE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:25:55"
+  },
+  {
+    "business_name": "Juneja Thakur & Associates",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant",
+    "pincode": "440003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "Besides Hanuman Mandir, 302, Vasant Vihar Apartment Plot No. 6, Wardha Rd, Samarth Nagar East, Nagpur, Maharashtra 440015",
+    "area": "Prashant Nagar, Samarth Nagar East",
+    "latitude": 21.1171229,
+    "longitude": 79.0725345,
+    "place_id": "ChIJN2FcAA-_1DsRvHTiiACMBVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN2FcAA-_1DsRvHTiiACMBVI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:25:57"
+  }
+]

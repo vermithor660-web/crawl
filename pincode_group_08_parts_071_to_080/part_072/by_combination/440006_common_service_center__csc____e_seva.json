@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Common Service Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Common Service Center (CSC) / E-Seva",
+    "all_categories": "Common Service Center (CSC) / E-Seva",
+    "pincode": "440006",
+    "phone_number": "+91 98905 71578",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VHB Shantinagar Colony, Prem Nagar, Nagpur, Maharashtra 440002",
+    "area": "VHB Shantinagar Colony, Prem Nagar",
+    "latitude": 21.163935,
+    "longitude": 79.124608,
+    "place_id": "ChIJt-SKOSTH1DsR1XkJJllFzhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt-SKOSTH1DsR1XkJJllFzhE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:30:14"
+  },
+  {
+    "business_name": "Aaple Sarkar Seva Kendra",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "440006",
+    "phone_number": "+91 95950 07189",
+    "website": "https://aaplesarkar.maharashtra.gov.in/",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "P.O, Nari Rd, Sugat Nagar, Jagrut Nagar, Jaripatka, Nagpur, Maharashtra 440014",
+    "area": "Sugat Nagar, Jagrut Nagar, Jaripatka",
+    "latitude": 21.1890128,
+    "longitude": 79.10021309999999,
+    "place_id": "ChIJg-94ETfB1DsRCEyw3JZtYHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg-94ETfB1DsRCEyw3JZtYHA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:30:14"
+  }
+]

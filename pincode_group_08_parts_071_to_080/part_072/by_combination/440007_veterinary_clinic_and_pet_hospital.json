@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vithai Pet N Vet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "440007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Utkarsh Nagar, Dabha, Vayusena Nagar, Nagpur, Maharashtra 441501",
+    "area": "Dabha, Vayusena Nagar",
+    "latitude": 21.166851599999998,
+    "longitude": 79.01808869999999,
+    "place_id": "ChIJVQBRnn_q1DsRfk-8XpUypJQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQBRnn_q1DsRfk-8XpUypJQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:31:31"
+  },
+  {
+    "business_name": "Petfriend's Animal Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "440007",
+    "phone_number": "+91 94221 03334",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 20,
+    "address": "Prerna Nagar, Nagpur, Maharashtra 440013",
+    "area": "Prerna Nagar",
+    "latitude": 21.1724761,
+    "longitude": 79.0351386,
+    "place_id": "ChIJP7FrXxTB1DsRK79VYCWBKzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP7FrXxTB1DsRK79VYCWBKzo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:31:31"
+  }
+]

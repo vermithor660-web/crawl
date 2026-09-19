@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HR Bureau LLC",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "440008",
+    "phone_number": "N/A",
+    "website": "https://hrbureaullc.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HR Bureau LLC, 440008, India",
+    "area": "440008",
+    "latitude": 43.6716895,
+    "longitude": -84.95687,
+    "place_id": "ChIJ_3DZeiXMWwsRy4N-KeV0mho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_3DZeiXMWwsRy4N-KeV0mho",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:34:49"
+  },
+  {
+    "business_name": "NIT Office East",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "440008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "Ring Road, Kalmana Road, Surya Nagar, Nagpur, Maharashtra 440035",
+    "area": "Surya Nagar",
+    "latitude": 21.1553307,
+    "longitude": 79.1473887,
+    "place_id": "ChIJOQ2vIAzH1DsR9yxTSJCrwJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOQ2vIAzH1DsR9yxTSJCrwJg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:34:49"
+  }
+]

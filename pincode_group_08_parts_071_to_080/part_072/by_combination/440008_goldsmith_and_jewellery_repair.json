@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa gayatri jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Goldsmith, Silversmith",
+    "pincode": "440008",
+    "phone_number": "+91 80 6548 7579",
+    "website": "https://www.maagayatrijewellers.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Gurupooja Enclave, Shani Mandir Road, zenda Chowk, Mahal, Nagpur, Maharashtra 440032",
+    "area": "zenda Chowk, Mahal",
+    "latitude": 21.142313299999998,
+    "longitude": 79.11183,
+    "place_id": "ChIJrZO3BUvH1DsRwsgkeHHzz8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZO3BUvH1DsRwsgkeHHzz8s",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:33:22"
+  },
+  {
+    "business_name": "Bonde Bandhu Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry repair service",
+    "all_categories": "Jewelry repair service, Diamond Merchant, Goldsmith, Jeweler, Jewelry buyer, Jewelry designer, Gold dealer, Jewelry store, Gemstone Jeweler, Silversmith",
+    "pincode": "440008",
+    "phone_number": "+91 98813 84462",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "sarafa, market, Itwari, Nagpur, Maharashtra 440002",
+    "area": "Kesriyanath Society, Itwari",
+    "latitude": 21.1524458,
+    "longitude": 79.1104252,
+    "place_id": "ChIJS2wJdF7H1DsR-L2IntE9yc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS2wJdF7H1DsR-L2IntE9yc4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:33:24"
+  }
+]

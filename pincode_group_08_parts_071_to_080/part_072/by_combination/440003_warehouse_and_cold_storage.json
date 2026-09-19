@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khanduja brothers",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "440003",
+    "phone_number": "+91 93731 01255",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "spt market, 18, Ghat Rd, Sitabuldi, Nagpur, Maharashtra 440018",
+    "area": "Sitabuldi",
+    "latitude": 21.137677099999998,
+    "longitude": 79.0896497,
+    "place_id": "ChIJbX1qHIfB1DsRxBKs0nwTy7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbX1qHIfB1DsRxBKs0nwTy7s",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:26:03"
+  },
+  {
+    "business_name": "Freezer box for dead body",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Mortuary",
+    "all_categories": "Mortuary, Ambulance service",
+    "pincode": "440003",
+    "phone_number": "+91 79723 29968",
+    "website": "https://freezer-box-for-dead.grexa.site/",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "Neeti Gaurav complex, 21, Central Bazar Road, Ramdaspeth, Nagpur, Maharashtra 440010",
+    "area": "Ramdaspeth",
+    "latitude": 21.1337743,
+    "longitude": 79.07498729999999,
+    "place_id": "ChIJUfFo6MfB1DsRNkdNtBjBSyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfFo6MfB1DsRNkdNtBjBSyI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:26:03"
+  }
+]

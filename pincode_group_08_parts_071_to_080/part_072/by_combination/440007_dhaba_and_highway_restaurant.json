@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veer Da Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Dhaba, North Indian restaurant",
+    "pincode": "440007",
+    "phone_number": "+91 98603 05544",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 949,
+    "address": "32, Amravati Rd, Near Maruti Showroom Amravati, Kachimet, Nagpur, Maharashtra 440016",
+    "area": "Kachimet",
+    "latitude": 21.1525019,
+    "longitude": 79.01998739999999,
+    "place_id": "ChIJxaQtBijA1DsR_ja8OHUzc-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxaQtBijA1DsR_ja8OHUzc-c",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:31:02"
+  },
+  {
+    "business_name": "India Sun Restaurent And Lounge",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "440007",
+    "phone_number": "+91 86057 71378",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "NH7, Bypass, Dhargaon, Bhandara Rd, Nagpur, Maharashtra 440035",
+    "area": "440007",
+    "latitude": 21.1607199,
+    "longitude": 79.20843649999999,
+    "place_id": "ChIJ7Zueu3HI1DsRump1-2akj_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Zueu3HI1DsRump1-2akj_o",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:31:04"
+  }
+]

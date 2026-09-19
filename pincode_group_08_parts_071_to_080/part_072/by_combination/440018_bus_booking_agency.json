@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gitanjali",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "440018",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "532X+X4Q, Gitanjali Talkies, Hansapuri, Nagpur, Maharashtra 440018",
+    "area": "Gitanjali Talkies, Hansapuri",
+    "latitude": 21.1524695,
+    "longitude": 79.0978666,
+    "place_id": "ChIJtQedEwDB1DsR7OvatKPBfZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQedEwDB1DsR7OvatKPBfZI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:52:04"
+  },
+  {
+    "business_name": "Saurabh Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "440018",
+    "phone_number": "+91 98909 65144",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 96,
+    "address": "Bessie Rahul Hotel, St Stand Rd, Ganeshpeth Colony, Nagpur, Maharashtra 440018",
+    "area": "Ganeshpeth Colony",
+    "latitude": 21.1399433,
+    "longitude": 79.0952875,
+    "place_id": "ChIJWSxPebnA1DsRsPBd499WSN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWSxPebnA1DsRsPBd499WSN4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:52:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mini Trucks On Hire",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Motor vehicle dealer",
+    "all_categories": "Motor vehicle dealer",
+    "pincode": "440008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "11, 259/9, Aziz Bagh Colony, Shaikpet, Hyderabad, Telangana 500008",
+    "area": "Aziz Bagh Colony, Shaikpet",
+    "latitude": 17.4023269,
+    "longitude": 78.4050422,
+    "place_id": "ChIJwwx8BL2QyzsRhrRD65y7KtY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwwx8BL2QyzsRhrRD65y7KtY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:33:53"
+  },
+  {
+    "business_name": "Mini transport",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "440008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Nagpur, Maharashtra 440035",
+    "area": "440008",
+    "latitude": 21.154135999999998,
+    "longitude": 79.176856,
+    "place_id": "ChIJp5B_F-_H1DsRqopm7_8MNL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp5B_F-_H1DsRqopm7_8MNL8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:33:56"
+  }
+]

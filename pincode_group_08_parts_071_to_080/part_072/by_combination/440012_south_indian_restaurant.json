@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DAKSHIN SWAAD",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "440012",
+    "phone_number": "+91 93226 59995",
+    "website": "https://www.instagram.com/dakshinswaad2025/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "21, Yashwant Stadium, Dhantoli, Nagpur, Maharashtra 440012",
+    "area": "Yashwant Stadium, Dhantoli",
+    "latitude": 21.1383282,
+    "longitude": 79.0822579,
+    "place_id": "ChIJ49FQSUjB1DsR842WBEojjNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ49FQSUjB1DsR842WBEojjNU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:37:48"
+  },
+  {
+    "business_name": "South Indian dosewala",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "440012",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "60, Central Bazar Road, Gandhi bagh, Ramdaspeth, Nagpur, Maharashtra 440010",
+    "area": "Gandhi bagh, Ramdaspeth",
+    "latitude": 21.1332994,
+    "longitude": 79.0729199,
+    "place_id": "ChIJtzHthJrB1DsRVxCVKfVVvz0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtzHthJrB1DsRVxCVKfVVvz0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:37:52"
+  }
+]

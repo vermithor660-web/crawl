@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hair Master",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "440006",
+    "phone_number": "+91 70201 70857",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 358,
+    "address": "Besa Rd, opposite shreekant electronics, above apollo pharmacy, Besa, Nagpur, Besa Pipla, Maharashtra 440037",
+    "area": "Besa",
+    "latitude": 21.0886791,
+    "longitude": 79.08343649999999,
+    "place_id": "ChIJYcxuGt2_1DsRXDEkX8gJYEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYcxuGt2_1DsRXDEkX8gJYEA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:29:45"
+  },
+  {
+    "business_name": "7F - The Unisex Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Eyelash salon, Hair removal service, Laser hair removal service",
+    "pincode": "440006",
+    "phone_number": "+91 78757 32424",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Yash Apartment, Ghat Rd, Friends Colony, KT Nagar, Nagpur, Maharashtra 440013",
+    "area": "Friends Colony, KT Nagar",
+    "latitude": 21.1721297,
+    "longitude": 79.04048689999999,
+    "place_id": "ChIJdzZ4mcnB1DsRrqLg6LaBp4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdzZ4mcnB1DsRrqLg6LaBp4M",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:29:48"
+  }
+]

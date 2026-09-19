@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Shama Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "440014",
+    "phone_number": "+91 98232 37392",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "632H+76G, Koradi Rd, Near Koradi Main Road, Om Nagar, Arya Nagar, Shambhu Nagar, Nagpur, Maharashtra 440030",
+    "area": "Om Nagar, Arya Nagar, Shambhu Nagar",
+    "latitude": 21.2006822,
+    "longitude": 79.0780724,
+    "place_id": "ChIJ9xlurm_B1DsRzqz3o6raO38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9xlurm_B1DsRzqz3o6raO38",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:42:57"
+  },
+  {
+    "business_name": "Wellcure Ployclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital",
+    "pincode": "440014",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "bus stop, Faras, Koradi Rd, New Mankapur, Nagpur, Maharashtra 440030",
+    "area": "New Mankapur",
+    "latitude": 21.191786399999998,
+    "longitude": 79.0787593,
+    "place_id": "ChIJjZJ9mXvB1DsRGydT0_2UyQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjZJ9mXvB1DsRGydT0_2UyQc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:43:00"
+  }
+]

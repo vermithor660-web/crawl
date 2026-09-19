@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Le Grande Royale VRINDAVAN",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "440012",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Dharampeth, Nagpur, Maharashtra 440010",
+    "area": "Dharampeth",
+    "latitude": 21.139858099999998,
+    "longitude": 79.0646043,
+    "place_id": "ChIJey0ieIrA1DsRU5tXtc1Ozmc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJey0ieIrA1DsRU5tXtc1Ozmc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:39:32"
+  },
+  {
+    "business_name": "Sai Villa",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "440012",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "33PF+9W4, New Manish Nagar, Somalwada, Nagpur, Maharashtra 440037",
+    "area": "New Manish Nagar, Somalwada",
+    "latitude": 21.0858868,
+    "longitude": 79.0748215,
+    "place_id": "ChIJGcdvzdm_1DsRgsvABmZ-APw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGcdvzdm_1DsRgsvABmZ-APw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:39:33"
+  }
+]

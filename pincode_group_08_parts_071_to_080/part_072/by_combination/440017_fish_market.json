@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Mahakal Fish Center",
+    "search_category": "Fish Market",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "440017",
+    "phone_number": "+91 93077 96738",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Kamal Chowk, Guru Nanak Pura, Balabhaupeth, Nagpur, Maharashtra 440017",
+    "area": "Guru Nanak Pura, Balabhaupeth",
+    "latitude": 21.168395399999998,
+    "longitude": 79.1023116,
+    "place_id": "ChIJZyngPN7B1DsRKA2tpZOqZ_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZyngPN7B1DsRKA2tpZOqZ_w",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:49:06"
+  },
+  {
+    "business_name": "Snehdip Fish Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Craft store",
+    "all_categories": "Craft store",
+    "pincode": "440017",
+    "phone_number": "+91 70200 68221",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1911, Vaishali Nagar, Binaki, Nagpur, Maharashtra 440017",
+    "area": "Vaishali Nagar, Binaki",
+    "latitude": 21.1688597,
+    "longitude": 79.11619859999999,
+    "place_id": "ChIJjXTcH93H1DsRHkl-wqzNtIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXTcH93H1DsRHkl-wqzNtIw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:49:06"
+  }
+]

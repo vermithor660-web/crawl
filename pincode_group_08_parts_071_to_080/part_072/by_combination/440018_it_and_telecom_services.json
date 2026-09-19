@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VISTA TECHNOSYSTEMS",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "440018",
+    "phone_number": "+91 95953 55247",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "34QF+2QG, Hudkeshwar Rd, Sai Nagar 1, Chandrakiran Nagar, Nagpur, Maharashtra 440034",
+    "area": "Sai Nagar 1, Chandrakiran Nagar",
+    "latitude": 21.0875535,
+    "longitude": 79.124451,
+    "place_id": "ChIJX5PAJNu41DsRUB-yXvvaXfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX5PAJNu41DsRUB-yXvvaXfQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:52:52"
+  },
+  {
+    "business_name": "INFERNO TECH",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Internet service provider",
+    "all_categories": "Internet service provider",
+    "pincode": "440018",
+    "phone_number": "N/A",
+    "website": "https://www.infernoteche.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "BSNL OFFICE Dr.Bezonji Mheta Road, opp. Empress City Mall,, Nagpur, Maharashtra 440018",
+    "area": "Lodhipura",
+    "latitude": 21.1485102,
+    "longitude": 79.09585969999999,
+    "place_id": "ChIJP5yBkHpAyGwRMwWzPkOKYM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP5yBkHpAyGwRMwWzPkOKYM4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:52:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zaika kitchen",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "440012",
+    "phone_number": "N/A",
+    "website": "https://zomato.onelink.me/xqzv/y1qf36x4",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "sheikh bari chowk, near khizra xerox, Kasabpura, Hansapuri, Nagpur, Maharashtra 440018",
+    "area": "Kasabpura, Hansapuri",
+    "latitude": 21.1542432,
+    "longitude": 79.09866799999999,
+    "place_id": "ChIJ7fmkFivB1DsRVDltkuCMzBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7fmkFivB1DsRVDltkuCMzBo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:37:57"
+  },
+  {
+    "business_name": "Sharma Momo's",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "440012",
+    "phone_number": "+91 91306 98245",
+    "website": "https://www.instagram.com/invites/contact/?i=1ebz3h65elnh0&utm_content=ane361h",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "veterinary chowk, Seminary Hills, Nagpur, Maharashtra 440006",
+    "area": "Seminary Hills",
+    "latitude": 21.1651058,
+    "longitude": 79.05000969999999,
+    "place_id": "ChIJXcNB2EzA1DsRSgvHSwmMi3M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXcNB2EzA1DsRSgvHSwmMi3M",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:37:57"
+  }
+]

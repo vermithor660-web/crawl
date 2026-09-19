@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Welcome Farms",
+    "search_category": "Resort",
+    "primary_category": "Farm",
+    "all_categories": "Farm, Event venue, Resort hotel",
+    "pincode": "440014",
+    "phone_number": "+91 95523 33762",
+    "website": "https://www.instagram.com/p/DX3YiaTjALv/?igsh=aG1jNDFtdTU5djgz",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NDRF Rd, Suradevi, Maharashtra 441102",
+    "area": "440014",
+    "latitude": 21.2456407,
+    "longitude": 79.1320229,
+    "place_id": "ChIJ7XLmGFfF1DsRmmFYiEBfsqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7XLmGFfF1DsRmmFYiEBfsqk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:43:41"
+  },
+  {
+    "business_name": "Gangotri Resort N Lawn",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "440014",
+    "phone_number": "+91 93253 05344",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "63CQ+46R, Nara, Nagpur, Maharashtra 440014",
+    "area": "Nara",
+    "latitude": 21.2192906,
+    "longitude": 79.09131239999999,
+    "place_id": "ChIJwRJeHgbB1DsRxGujzYf8Bt0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwRJeHgbB1DsRxGujzYf8Bt0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:43:44"
+  }
+]

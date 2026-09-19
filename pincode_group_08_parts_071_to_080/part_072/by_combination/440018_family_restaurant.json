@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Madhuban - The Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Biryani restaurant, Indian restaurant",
+    "pincode": "440018",
+    "phone_number": "N/A",
+    "website": "https://instagram.com/hotel_madhuban_nagpur",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "NIT Complex, near, opposite Saint Stand Road, Ganeshpeth Colony, Nagpur, Maharashtra 440018",
+    "area": "Ganeshpeth Colony",
+    "latitude": 21.139350399999998,
+    "longitude": 79.0949475,
+    "place_id": "ChIJ5aK0GzDB1DsROYs49lO3gHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5aK0GzDB1DsROYs49lO3gHw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:51:32"
+  },
+  {
+    "business_name": "Vasvi Restaurant & Maple Banquet",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Banquet hall, Diner, Restaurant",
+    "pincode": "440018",
+    "phone_number": "+91 95791 87450",
+    "website": "http://vasvi.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Hudkeshwar Rd, Rajapeth Bus Stop, Chandrakiran Nagar, Nagpur, Maharashtra 440034",
+    "area": "Rajapeth Bus Stop, Chandrakiran Nagar",
+    "latitude": 21.1010885,
+    "longitude": 79.1224857,
+    "place_id": "ChIJ_fmRLAC51DsRKxWcLTso2CQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_fmRLAC51DsRKxWcLTso2CQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:51:34"
+  }
+]

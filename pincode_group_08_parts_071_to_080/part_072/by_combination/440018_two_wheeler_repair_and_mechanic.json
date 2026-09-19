@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SANJAY SCOOTERS Bike repair and service center",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "440018",
+    "phone_number": "+91 99220 82954",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "New Shukrawari, Mahal, Nagpur, Maharashtra 440032",
+    "area": "New Shukrawari, Mahal",
+    "latitude": 21.1398607,
+    "longitude": 79.10362789999999,
+    "place_id": "ChIJ9RvsU7HA1DsRTkh4YBR2fbI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9RvsU7HA1DsRTkh4YBR2fbI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:51:57"
+  },
+  {
+    "business_name": "Motowingz",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "440018",
+    "phone_number": "+91 78880 01744",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 272,
+    "address": "Plot 297, Hudkeshwar Rd, Mahatma Gandhi Nagar, New Subhedar Layout, Mhalgi Nagar, Nagpur, Maharashtra 440024",
+    "area": "Mahatma Gandhi Nagar, New Subhedar Layout, Mhalgi Nagar",
+    "latitude": 21.109268699999998,
+    "longitude": 79.1182822,
+    "place_id": "ChIJVQNFLAC51DsR8pYbqSKMe9k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQNFLAC51DsR8pYbqSKMe9k",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:51:59"
+  }
+]

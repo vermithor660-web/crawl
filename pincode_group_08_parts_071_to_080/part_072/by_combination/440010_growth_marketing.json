@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Growtechzone",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Advertising agency, Business development service, Business to business service",
+    "pincode": "440010",
+    "phone_number": "+91 93097 25908",
+    "website": "https://www.growtechzone.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Anant Apartment, Dharampeth, Nagpur, Maharashtra 440010",
+    "area": "Dharampeth",
+    "latitude": 21.1397728,
+    "longitude": 79.06474829999999,
+    "place_id": "ChIJ8wiKPWLB1DsRlupSbDAXgdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8wiKPWLB1DsRlupSbDAXgdM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:37:25"
+  },
+  {
+    "business_name": "Seller Drive",
+    "search_category": "Growth Marketing",
+    "primary_category": "E-commerce service",
+    "all_categories": "E-commerce service, Computer support and services, E - Commerce Agency, Service establishment",
+    "pincode": "440010",
+    "phone_number": "+91 2527 511 129",
+    "website": "https://www.sellerdrive.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Seller Drive, 440010, India",
+    "area": "440010",
+    "latitude": 40.266869,
+    "longitude": -47.802320699999996,
+    "place_id": "ChIJxVCu-WTA1DsRcrkcqr_hGto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxVCu-WTA1DsRcrkcqr_hGto",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:37:29"
+  }
+]

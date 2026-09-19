@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singh Protective Service Pvt Ltd",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security service",
+    "all_categories": "Security service",
+    "pincode": "440007",
+    "phone_number": "+91 88888 84582",
+    "website": "https://www.spspvt.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "5'th floor, Highway Castle Apartment, 504, Amravati Rd, Kachimet, Nagpur, Maharashtra 440023",
+    "area": "Kachimet",
+    "latitude": 21.1529515,
+    "longitude": 79.01865719999999,
+    "place_id": "ChIJib5x7fTA1DsRHSUS8xclorQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJib5x7fTA1DsRHSUS8xclorQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:32:31"
+  },
+  {
+    "business_name": "Gracious Security Services & Facilities Management",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "440007",
+    "phone_number": "N/A",
+    "website": "https://gsssecurity.blogspot.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Flat No. TF-6, Ashoka Apartment, Katol Rd, Prerna Nagar, Nagpur, Maharashtra 440013",
+    "area": "Prerna Nagar",
+    "latitude": 21.1725153,
+    "longitude": 79.0348041,
+    "place_id": "ChIJJzUIecbB1DsRTggBslQqU34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJzUIecbB1DsRTggBslQqU34",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:32:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "STAR INTERIORS",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Interior Decorator",
+    "pincode": "440018",
+    "phone_number": "+91 89560 90040",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Ganjipeth, Gandhibagh, Nagpur, Maharashtra 440018",
+    "area": "Ganjipeth, Gandhibagh",
+    "latitude": 21.1500254,
+    "longitude": 79.1025016,
+    "place_id": "ChIJKfnpGzrB1DsRf0W17VKx6vw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKfnpGzrB1DsRf0W17VKx6vw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:52:16"
+  },
+  {
+    "business_name": "design space interior",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "440018",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "manish nagar, Mahal, Nagpur, Maharashtra 440032",
+    "area": "manish nagar, Mahal",
+    "latitude": 21.145860199999998,
+    "longitude": 79.10477809999999,
+    "place_id": "ChIJ13QKxnDB1DsRh8wv8Imt7yo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ13QKxnDB1DsRh8wv8Imt7yo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:52:20"
+  }
+]

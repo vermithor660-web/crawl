@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashu Motors",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto air conditioning service",
+    "all_categories": "Auto air conditioning service, Air conditioning store, CNG Fitment Center, LPG conversion",
+    "pincode": "440012",
+    "phone_number": "+91 99939 94355",
+    "website": "http://ashumotors.business.site/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Madan Mahal Railway Station Rd, beside Of Anant Hospital, Wright Town, Jabalpur, Madhya Pradesh 482002",
+    "area": "Wright Town",
+    "latitude": 23.165021,
+    "longitude": 79.9218339,
+    "place_id": "ChIJ__-PKAWugTkRO9wfM0nbNXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__-PKAWugTkRO9wfM0nbNXg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:38:27"
+  },
+  {
+    "business_name": "Ahmad Car A.C.",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service, Air compressor repair service, Car repair and maintenance service",
+    "pincode": "440012",
+    "phone_number": "0300 9478600",
+    "website": "https://www.ahmadcarac.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "422, Pak Block Allama Iqbal Town, Lahore, 54000, Pakistan",
+    "area": "Pak Block Allama Iqbal Town",
+    "latitude": 31.5190006,
+    "longitude": 74.2988938,
+    "place_id": "ChIJA0M3zNkDGTkRFtJiDSquVCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA0M3zNkDGTkRFtJiDSquVCs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:38:28"
+  }
+]

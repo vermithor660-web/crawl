@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHAVHAN CARGO & LOGISTICS",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "440010",
+    "phone_number": "+91 70665 01664",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "43CH+H8M, Ajni, Nagpur, Maharashtra 440015",
+    "area": "Ajni",
+    "latitude": 21.121455899999997,
+    "longitude": 79.07828959999999,
+    "place_id": "ChIJAeG5QfbB1DsRrj05G3l07DE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAeG5QfbB1DsRrj05G3l07DE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:36:08"
+  },
+  {
+    "business_name": "JAY TRANS LOGISTICS",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "440010",
+    "phone_number": "+91 91756 11277",
+    "website": "https://www.jaytranslogistics.in/",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "Amravati Rd, opposite of bharat petrol pump (Panchsheel, Waddhamna, Maharashtra 440021",
+    "area": "440010",
+    "latitude": 21.1386248,
+    "longitude": 78.94612359999999,
+    "place_id": "ChIJrbCKa5rr1DsRr7uFy6sP4gQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrbCKa5rr1DsRr7uFy6sP4gQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:36:10"
+  }
+]

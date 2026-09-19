@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "It's New Always",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer, Florist",
+    "pincode": "440012",
+    "phone_number": "+91 98506 00800",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "96/403, Fortune Residency, opp. dr. Bisne hospital, Nagpur, Maharashtra 440010",
+    "area": "New Ramdaspeth",
+    "latitude": 21.1374174,
+    "longitude": 79.0749443,
+    "place_id": "ChIJkxthiUnB1DsRDKukWUnU5mQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkxthiUnB1DsRDKukWUnU5mQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:38:57"
+  },
+  {
+    "business_name": "Harsh Decorator",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Service establishment",
+    "pincode": "440012",
+    "phone_number": "+91 98218 37913",
+    "website": "https://www.harshdecorator.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Harsh Decorator, 440012, India",
+    "area": "440012",
+    "latitude": 28.627561999999998,
+    "longitude": 77.0731514,
+    "place_id": "ChIJ1_zldq-qgIQRwwS2QkDmV1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_zldq-qgIQRwwS2QkDmV1s",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:39:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Massage centre",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Massage therapist",
+    "all_categories": "Massage therapist, Hospital",
+    "pincode": "440012",
+    "phone_number": "+91 97652 50798",
+    "website": "http://luckyborkar.website3.me/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No2, Ittabhata Road, Samta Nagar, Nagpur, Maharashtra 440026",
+    "area": "Samta Nagar",
+    "latitude": 21.2026428,
+    "longitude": 79.101905,
+    "place_id": "ChIJIW3FfwDB1DsR_6h9hIhUL_k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIW3FfwDB1DsR_6h9hIhUL_k",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:38:54"
+  },
+  {
+    "business_name": "Body Massage Centre",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Spa Equipment Suppliers",
+    "all_categories": "Spa Equipment Suppliers",
+    "pincode": "440012",
+    "phone_number": "+91 89993 25554",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1299/1, Juni Shukrawari, Reshim Bagh, Nagpur, Maharashtra 440024",
+    "area": "Juni Shukrawari, Reshim Bagh",
+    "latitude": 21.136909199999998,
+    "longitude": 79.11149139999999,
+    "place_id": "ChIJ_1NuF03H1DsRHUX7BnqHIQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_1NuF03H1DsRHUX7BnqHIQk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:38:54"
+  }
+]

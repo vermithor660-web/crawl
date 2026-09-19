@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bolt Digital Inc",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Advertising agency, Internet marketing service, Marketing consultant",
+    "pincode": "440003",
+    "phone_number": "+91 88558 81514",
+    "website": "http://www.boltdigitalinc.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "32, Hanuman Nagar Rd, near Krida Chowk, Untkhana, Nagpur, Maharashtra 440024",
+    "area": "Untkhana",
+    "latitude": 21.1296634,
+    "longitude": 79.1023658,
+    "place_id": "ChIJF5tGhwTB1DsRGH1qRzSp0Eg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF5tGhwTB1DsRGH1qRzSp0Eg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:26:12"
+  },
+  {
+    "business_name": "Bigwig Digitals",
+    "search_category": "Lead Generation Agencies",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer Hardware Company, Computer Wholesaler, Second hand store, Used computer store",
+    "pincode": "440003",
+    "phone_number": "+91 96230 00026",
+    "website": "https://bigwigdigitals.com/",
+    "rating": 4.5,
+    "reviews_count": 65,
+    "address": "Plot no 246, Sathe Marg, beside ahilya Devi Mandir, Dhantoli, Nagpur, Maharashtra 440012",
+    "area": "Dhantoli",
+    "latitude": 21.1348394,
+    "longitude": 79.08252949999999,
+    "place_id": "ChIJD7n9rebB1DsRwoXGI4T0MpA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD7n9rebB1DsRwoXGI4T0MpA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:26:15"
+  }
+]

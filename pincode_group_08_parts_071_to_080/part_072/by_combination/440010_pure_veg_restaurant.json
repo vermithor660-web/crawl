@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JIMO",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "440010",
+    "phone_number": "+91 99700 71909",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "1st Floor, Ashish Annex, Whc Road, Laxminagar, Nagpur, Maharashtra 440022",
+    "area": "Laxminagar",
+    "latitude": 21.1243382,
+    "longitude": 79.0642591,
+    "place_id": "ChIJUX9Nyeq_1DsRvxxYJMvgg3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUX9Nyeq_1DsRvxxYJMvgg3Y",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:35:27"
+  },
+  {
+    "business_name": "The Traders Cafe & Restro",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe",
+    "pincode": "440010",
+    "phone_number": "+91 90115 66633",
+    "website": "https://www.instagram.com/thetraderscafe__?igsh=MXQ2cW1hdXp2eHRjMA==",
+    "rating": 4.8,
+    "reviews_count": 539,
+    "address": "plot no 15, RPTS Rd, P & T Colony, friends colony, Pratap Nagar, Nagpur, Maharashtra 440022",
+    "area": "P & T Colony, friends colony, Pratap Nagar",
+    "latitude": 21.1215378,
+    "longitude": 79.05730249999999,
+    "place_id": "ChIJP00bwZrB1DsRVgY2P3FiFOE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP00bwZrB1DsRVgY2P3FiFOE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:35:29"
+  }
+]

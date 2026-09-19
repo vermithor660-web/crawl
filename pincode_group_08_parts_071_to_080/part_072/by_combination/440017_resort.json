@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Signature Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "440017",
+    "phone_number": "+91 82610 07076",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 144,
+    "address": "Surabardi Rd, Drugdhamna, Nagpur, Maharashtra 440021",
+    "area": "440017",
+    "latitude": 21.161284,
+    "longitude": 78.947238,
+    "place_id": "ChIJHfsqEQDr1DsRjBCJe_D8frs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHfsqEQDr1DsRjBCJe_D8frs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:50:21"
+  },
+  {
+    "business_name": "Karhandla Farm and Resort Nagpur Office",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "440017",
+    "phone_number": "+91 70666 69066",
+    "website": "http://karhandlafarm.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Azam Shah Sq, Central Ave, beside Hotel Al Zam Zam, Ladpura, Itwari, Nagpur, Maharashtra 440002",
+    "area": "Ladpura, Itwari",
+    "latitude": 21.1493105,
+    "longitude": 79.1140317,
+    "place_id": "ChIJW6ijuOTH1DsRYUR8uo2l0yQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW6ijuOTH1DsRYUR8uo2l0yQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:50:22"
+  }
+]

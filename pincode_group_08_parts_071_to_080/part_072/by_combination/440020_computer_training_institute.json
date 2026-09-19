@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MJ Computer Education",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "440020",
+    "phone_number": "+91 89288 80328",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "439R+2V2, Rameshwari Rd, Khankhoje Nagar, Ambika Nagar, Ayodhya nagar, Nagpur, Maharashtra 440027",
+    "area": "Khankhoje Nagar, Ambika Nagar, Ayodhya nagar",
+    "latitude": 21.117506799999997,
+    "longitude": 79.0921329,
+    "place_id": "ChIJr885JeG_1DsRs09SzsWQH4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr885JeG_1DsRs09SzsWQH4w",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:56:47"
+  },
+  {
+    "business_name": "Unique Computer Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "College",
+    "all_categories": "College, Software Training Institute",
+    "pincode": "440020",
+    "phone_number": "+91 90670 35796",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Plot No, 11, Gayatri Mandir Rd, Gayatri Nagar, Shree Nagar, Pardi, Nagpur, Maharashtra 440022",
+    "area": "Gayatri Nagar, Shree Nagar",
+    "latitude": 21.116115,
+    "longitude": 79.0466225,
+    "place_id": "ChIJC9FXi4m_1DsR7sa-c4dAOsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC9FXi4m_1DsR7sa-c4dAOsc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:56:49"
+  }
+]

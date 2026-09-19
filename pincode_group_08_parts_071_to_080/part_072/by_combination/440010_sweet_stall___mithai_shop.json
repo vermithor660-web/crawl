@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Heera Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "440010",
+    "phone_number": "+91 90213 00949",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 95,
+    "address": "Bajaj Nagar, Nagpur, Maharashtra 440010",
+    "area": "Bajaj Nagar",
+    "latitude": 21.1298769,
+    "longitude": 79.0615838,
+    "place_id": "ChIJqyXr4XzA1DsRNLS45qk6JnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqyXr4XzA1DsRNLS45qk6JnE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:35:24"
+  },
+  {
+    "business_name": "Kamal Sweets & Namkeen",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop, Sweet shop, Grocery store",
+    "pincode": "440010",
+    "phone_number": "+91 91751 81338",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 6,
+    "address": "Hitesh Sahkul Apartment, Nara Rd, Ring Road, Jaripata, Nagpur, Maharashtra 440014",
+    "area": "Jaripata",
+    "latitude": 21.1879016,
+    "longitude": 79.0914781,
+    "place_id": "ChIJqUyEvz7B1DsRisCxdt8L-FQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqUyEvz7B1DsRisCxdt8L-FQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:35:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krips Hospitality Solution (Hotel and Restaurant Consultant)",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "440017",
+    "phone_number": "+91 87888 92211",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "no 2, near Shawade Hardware, Avdhut Nagar, Manewada, Nagpur, Maharashtra 440034",
+    "area": "Avdhut Nagar, Manewada",
+    "latitude": 21.094922999999998,
+    "longitude": 79.106993,
+    "place_id": "ChIJe1eaoYu_1DsRsFP2vlx08Hc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe1eaoYu_1DsRsFP2vlx08Hc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:50:26"
+  },
+  {
+    "business_name": "Atithi Hospitality and Event Associates",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "440017",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "309, Gandhi Nagar, Nagpur, Maharashtra 440010",
+    "area": "Gandhi Nagar",
+    "latitude": 21.1325991,
+    "longitude": 79.05280309999999,
+    "place_id": "ChIJo-siKprB1DsRVTuAnsyRnc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo-siKprB1DsRVTuAnsyRnc4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:50:26"
+  }
+]

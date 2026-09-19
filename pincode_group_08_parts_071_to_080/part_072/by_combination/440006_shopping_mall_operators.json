@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "V.I.P - Ashutosh",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Luggage store",
+    "all_categories": "Luggage store, Bag shop",
+    "pincode": "440006",
+    "phone_number": "N/A",
+    "website": "http://www.vipbags.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Shop No. 227/C, Sadoday Arcade, W High Ct Rd, Dharampeth, Nagpur, Maharashtra 440010",
+    "area": "Dharampeth",
+    "latitude": 21.1434724,
+    "longitude": 79.0608955,
+    "place_id": "ChIJBdE1Jl7A1DsRv85-rSavkrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBdE1Jl7A1DsRv85-rSavkrg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:30:46"
+  },
+  {
+    "business_name": "Shop nagpur",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "440006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1745/84, Prem Nagar, Nagpur, Maharashtra 440002",
+    "area": "Prem Nagar",
+    "latitude": 21.1602078,
+    "longitude": 79.1191253,
+    "place_id": "ChIJkatNSgDH1DsRDGh309tYY_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkatNSgDH1DsRDGh309tYY_4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:30:46"
+  }
+]

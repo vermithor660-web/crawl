@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Ruchika's Physiotherapy & Rehabilitation(Home physiotherapy service)",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "440016",
+    "phone_number": "+91 86009 70446",
+    "website": "https://www.drruchikaphysio.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "25, near viveka hospital, Naik Layout, Subhash Nagar, Nagpur, Maharashtra 440022",
+    "area": "Naik Layout, Parsodi, Subhash Nagar",
+    "latitude": 21.1214361,
+    "longitude": 79.04269049999999,
+    "place_id": "ChIJUzLYJqLB1DsRc76mGTd-yYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUzLYJqLB1DsRc76mGTd-yYA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:47:24"
+  },
+  {
+    "business_name": "Dr. Suvarn Gupta",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Orthopedic surgeon",
+    "all_categories": "Orthopedic surgeon, Orthopedic clinic, Sports medicine physician",
+    "pincode": "440016",
+    "phone_number": "+91 98605 05879",
+    "website": "https://in.linkedin.com/in/suvarn-gupta-628641151",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GM Taori CIIMS Hospital, Bajaj Nagar, Nagpur, Maharashtra 440010",
+    "area": "Bajaj Nagar",
+    "latitude": 21.1292235,
+    "longitude": 79.06155989999999,
+    "place_id": "ChIJL6mb8JrB1DsRb521K7_gfpk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL6mb8JrB1DsRb521K7_gfpk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:47:24"
+  }
+]

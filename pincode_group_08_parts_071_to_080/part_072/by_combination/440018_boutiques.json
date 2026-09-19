@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kala Art Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Cosmetics store, Gift shop, Pen store, Toy store",
+    "pincode": "440018",
+    "phone_number": "+91 70574 56115",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "532W+92F m, Santra market road, Daulat Patel Marg, Bajaria, Nagpur, Maharashtra 440018",
+    "area": "Sindhi Colony, Bajaria",
+    "latitude": 21.1509493,
+    "longitude": 79.0950493,
+    "place_id": "ChIJC1thxRjB1DsR3PmQDGZlvQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC1thxRjB1DsR3PmQDGZlvQg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:51:43"
+  },
+  {
+    "business_name": "Roop Rang",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store, Batik clothing store, Boutique, Clothes and fabric wholesaler, Clothes market, Clothing store, Clothing wholesaler, Dress store, Stitching Class, Tailor",
+    "pincode": "440018",
+    "phone_number": "+91 93731 18630",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "Haldiram Chowk, Golcha Bhawan, Bazar, Residency Rd, Sadar, Nagpur, Maharashtra 440001",
+    "area": "Sadar",
+    "latitude": 21.1632227,
+    "longitude": 79.0794282,
+    "place_id": "ChIJQxU1l-PA1DsRAUeWB72A7wY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQxU1l-PA1DsRAUeWB72A7wY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:51:46"
+  }
+]

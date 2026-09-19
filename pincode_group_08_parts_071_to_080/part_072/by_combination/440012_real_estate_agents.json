@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parmatma Ek Real Estate Group",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "440012",
+    "phone_number": "N/A",
+    "website": "https://www.parmatmaekrealestate.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "third Floor, RAHUL BAZAR COMPLEX, T.f-5, Sitabuldi, Nagpur, Maharashtra 440012",
+    "area": "Sitabuldi",
+    "latitude": 21.1439408,
+    "longitude": 79.0842455,
+    "place_id": "ChIJm5BxhqrB1DsRNfigmEhqXQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm5BxhqrB1DsRNfigmEhqXQs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:39:31"
+  },
+  {
+    "business_name": "Seven Estates",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "440012",
+    "phone_number": "+91 98222 21202",
+    "website": "http://sevenestatesindia.com/",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "301, Manomay Plaza, Central Bazar Road, New Ramdaspeth, Ramdaspeth, Nagpur, Maharashtra 440010",
+    "area": "New Ramdaspeth, Ramdaspeth",
+    "latitude": 21.132712299999998,
+    "longitude": 79.0699562,
+    "place_id": "ChIJAQCkrYjA1DsRdaHTDNvwst8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQCkrYjA1DsRdaHTDNvwst8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:39:34"
+  }
+]

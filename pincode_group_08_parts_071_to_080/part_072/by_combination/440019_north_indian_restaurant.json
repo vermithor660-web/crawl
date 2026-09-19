@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Foodasta",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Chinese restaurant, Fast food restaurant, Mughlai restaurant",
+    "pincode": "440019",
+    "phone_number": "+91 75586 61735",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 122,
+    "address": "Ekatmata Nagar, Nagpur, Maharashtra 440036",
+    "area": "Ekatmata Nagar",
+    "latitude": 21.1015274,
+    "longitude": 79.01865509999999,
+    "place_id": "ChIJoZi9sKK_1DsRjpjSREj3uq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoZi9sKK_1DsRjpjSREj3uq0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:53:37"
+  },
+  {
+    "business_name": "Ambika family restaurant and hotel",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "440019",
+    "phone_number": "+91 99220 25077",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 343,
+    "address": "Saoner, Maharashtra 441107",
+    "area": "440019",
+    "latitude": 21.3769635,
+    "longitude": 78.9170235,
+    "place_id": "ChIJ996nmxDk1DsRVTRuiV30aWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ996nmxDk1DsRVTRuiV30aWE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:53:41"
+  }
+]

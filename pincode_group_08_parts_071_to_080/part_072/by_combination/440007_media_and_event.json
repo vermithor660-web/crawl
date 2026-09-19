@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Web Magnet Media",
+    "search_category": "Media and Event",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "440007",
+    "phone_number": "+91 93257 00804",
+    "website": "https://webmagnetmedia.com/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Shivdham, Taywade Hospital, Plot No 01, Shatabdi Chowk, Backside, Nagpur, Maharashtra 440027",
+    "area": "Shatabdi Chowk, Backside",
+    "latitude": 21.1053109,
+    "longitude": 79.0884525,
+    "place_id": "ChIJL1cTfiy_1DsRQMIa9BlT6NY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL1cTfiy_1DsRQMIa9BlT6NY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:32:11"
+  },
+  {
+    "business_name": "Premier Retail",
+    "search_category": "Media and Event",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Electronics Company",
+    "pincode": "440007",
+    "phone_number": "+91 712 255 9803",
+    "website": "https://shopatsc.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Akshay Regency, Hill Rd, near Dande Hospital, Gokulpeth, Nagpur, Maharashtra 440010",
+    "area": "Gokulpeth",
+    "latitude": 21.1454848,
+    "longitude": 79.05676,
+    "place_id": "ChIJ0UpRrl3A1DsRPg7ekSl0qbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0UpRrl3A1DsRPg7ekSl0qbE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:32:12"
+  }
+]

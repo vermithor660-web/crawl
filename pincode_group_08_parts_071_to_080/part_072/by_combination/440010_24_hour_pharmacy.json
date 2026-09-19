@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LMH Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "440010",
+    "phone_number": "+91 88064 49077",
+    "website": "http://www.herdpharmacy.com/",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "Lata Mangeshkar Hospital, Hingna Rd, Digdoh Hills, Digdoh, Maharashtra 440019",
+    "area": "Digdoh Hills, Police Nagar",
+    "latitude": 21.101712,
+    "longitude": 79.001824,
+    "place_id": "ChIJO3Spe0aV1DsR2Aw5mqnEi5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3Spe0aV1DsR2Aw5mqnEi5A",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:35:49"
+  },
+  {
+    "business_name": "Care pharmacy 24*7",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "440010",
+    "phone_number": "+91 99589 34834",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5, Krishna Kunj Rd, Bhondsi, new gaon, Gurugram, Haryana 122102",
+    "area": "Bhondsi, new gaon",
+    "latitude": 28.366680499999998,
+    "longitude": 77.0735691,
+    "place_id": "ChIJo0PCBXQjDTkRdSCf6l_TEA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo0PCBXQjDTkRdSCf6l_TEA8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:35:49"
+  }
+]

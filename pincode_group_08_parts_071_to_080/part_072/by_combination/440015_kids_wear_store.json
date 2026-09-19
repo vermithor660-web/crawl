@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Label kiaa",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "440015",
+    "phone_number": "+91 99222 55184",
+    "website": "http://www.labelkiaa.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Prashant Nagar, Samarth Nagar East, Nagpur, Maharashtra 440015",
+    "area": "Prashant Nagar, Samarth Nagar East",
+    "latitude": 21.118610099999998,
+    "longitude": 79.07590809999999,
+    "place_id": "ChIJbeErFQq_1DsRquWt8XmP2qQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbeErFQq_1DsRquWt8XmP2qQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:44:55"
+  },
+  {
+    "business_name": "Maharaja Garments",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Childrens Store",
+    "pincode": "440015",
+    "phone_number": "+91 92712 34470",
+    "website": "https://www.instagram.com/maharaja.garments/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Juni Shukrawari Rd, Sakkardara Rd, Nagpur, Maharashtra 440024",
+    "area": "Raghuji Nagar",
+    "latitude": 21.128389199999997,
+    "longitude": 79.1130417,
+    "place_id": "ChIJQ6cHTwDH1DsRorH8KLZV674",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ6cHTwDH1DsRorH8KLZV674",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:44:56"
+  }
+]

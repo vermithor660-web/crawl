@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Us pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "440016",
+    "phone_number": "+91 93701 03707",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chandrabhaga apartment,Shop no. 2 First Floor Plot no. 1 , Bhende Layout square, Jaitala Road, near Ganesh Maidan, Bhende lay out, Deendayal Nagar, Nagpur, Maharashtra 440022",
+    "area": "Bhende lay out, Deendayal Nagar",
+    "latitude": 21.107186,
+    "longitude": 79.04517539999999,
+    "place_id": "ChIJ6yP_r2W_1DsRngLh6_mohAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6yP_r2W_1DsRngLh6_mohAI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:47:20"
+  },
+  {
+    "business_name": "Ikon Remedies Pvt. Ltd.",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company",
+    "pincode": "440016",
+    "phone_number": "+91 84848 60669",
+    "website": "https://www.ikonremedies.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "The Primus, Amravati Road, near Axis Bank, Wadi, Nagpur, Wadi, Maharashtra 440023",
+    "area": "Wadi",
+    "latitude": 21.150155899999998,
+    "longitude": 78.9949161,
+    "place_id": "ChIJ60vHFY7q1DsRLTrxN7pNhPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ60vHFY7q1DsRLTrxN7pNhPg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:47:20"
+  }
+]

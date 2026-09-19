@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "C.R.Sagdeo and Company",
+    "search_category": "Chartered Accountant (CA)",
+    "primary_category": "Accounting",
+    "all_categories": "Accounting",
+    "pincode": "440007",
+    "phone_number": "+91 98230 60910",
+    "website": "https://www.sagdeo.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "43HG+P92, Wardha Rd, Rahate Colony, Dhantoli, Nagpur, Maharashtra 440022",
+    "area": "Rahate Colony, Dhantoli",
+    "latitude": 21.129272999999998,
+    "longitude": 79.07587769999999,
+    "place_id": "ChIJ5eQ-K5vA1DsRdTUUwayyMWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5eQ-K5vA1DsRdTUUwayyMWs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:32:25"
+  },
+  {
+    "business_name": "Dhoka Bothra & Co",
+    "search_category": "Chartered Accountant (CA)",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "440007",
+    "phone_number": "+91 712 254 9997",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Plot No, First Floor, Gurushankar Apartment, 4b, Amravati Rd, Tilak Nagar, Nagpur, Maharashtra 440010",
+    "area": "Tilak Nagar",
+    "latitude": 21.1468962,
+    "longitude": 79.0581194,
+    "place_id": "ChIJISRlkF7A1DsRMZ3uM5yXk7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJISRlkF7A1DsRMZ3uM5yXk7s",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:32:28"
+  }
+]

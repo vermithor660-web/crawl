@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car Sonics Ghanshyam Automobiles",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "440016",
+    "phone_number": "+91 89568 88880",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.7, Wardha Rd, opposite Hotel Sunny International, Dhantoli, Nagpur, Maharashtra 440012",
+    "area": "Dhantoli",
+    "latitude": 21.137486,
+    "longitude": 79.079478,
+    "place_id": "ChIJ5TLWbZHA1DsRGUSEjx3dkvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5TLWbZHA1DsRGUSEjx3dkvg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:47:41"
+  },
+  {
+    "business_name": "Servo Services since 1984",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "440016",
+    "phone_number": "+91 94221 19977",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Priyadarshini T Point, Hingna Rd, Parsodi, Nagpur, Maharashtra 440036",
+    "area": "Parsodi",
+    "latitude": 21.1217862,
+    "longitude": 79.0306346,
+    "place_id": "ChIJPwOMIAbA1DsRT9kuMwkJ0gg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPwOMIAbA1DsRT9kuMwkJ0gg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:47:45"
+  }
+]

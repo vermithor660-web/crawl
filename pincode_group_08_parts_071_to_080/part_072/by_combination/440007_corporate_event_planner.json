@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Made In 7th Heaven",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "440007",
+    "phone_number": "+91 92267 72219",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Made In 7th Heaven, 440007, India",
+    "area": "440007",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ6zn727YWq20R-5zI5wokQvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6zn727YWq20R-5zI5wokQvc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:32:10"
+  },
+  {
+    "business_name": "Atharva_event_Nagpur",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "440007",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/atharva_event_nagpur/profilecard/?igsh=eW9rZGp2OHl1Zmdo",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hajaripahad, Vayusena Nagar, Nagpur, Maharashtra 440007",
+    "area": "Hajaripahad, Vayusena Nagar",
+    "latitude": 21.1670659,
+    "longitude": 79.035353,
+    "place_id": "ChIJM_JIyffB1DsRmJ2gFSHhFgg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM_JIyffB1DsRmJ2gFSHhFgg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:32:14"
+  }
+]

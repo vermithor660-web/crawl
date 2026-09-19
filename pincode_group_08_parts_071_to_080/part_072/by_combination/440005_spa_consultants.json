@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Green Gold Salon and Spa",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Beauty Parlour",
+    "pincode": "440005",
+    "phone_number": "+91 88062 33985",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Plot no. C1/C2 Shivneri Apartment opp. Arun bajaj, below cars 24, Khamla, Nagpur, Maharashtra 440015",
+    "area": "Gumasta Layout, Tatya Tope Nagar, Khamla",
+    "latitude": 21.1126309,
+    "longitude": 79.064177,
+    "place_id": "ChIJUxcS8by_1DsRCwT_gcqtPQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUxcS8by_1DsRCwT_gcqtPQE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:27:34"
+  },
+  {
+    "business_name": "Nagpur, Maharashtra 440005",
+    "search_category": "Spa Consultants",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "440005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nagpur, Maharashtra",
+    "area": "440005",
+    "latitude": 21.0811901,
+    "longitude": 79.0560311,
+    "place_id": "ChIJN9JJ5Lq_1DsR4Z1VLSBsPxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN9JJ5Lq_1DsR4Z1VLSBsPxc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:27:36"
+  }
+]

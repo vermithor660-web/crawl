@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A1 Medicare",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "440019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "32R2+9PM, Isasani, Maharashtra 440019",
+    "area": "440019",
+    "latitude": 21.090926,
+    "longitude": 79.0017637,
+    "place_id": "ChIJoxefFwCV1DsRT_dWKXfXErU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoxefFwCV1DsRT_dWKXfXErU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:54:02"
+  },
+  {
+    "business_name": "medical",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "440019",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "dilip mahadeorao deshmukh house no 229 durga nagar, Nildoh ct, Maharashtra 441110",
+    "area": "Nildoh",
+    "latitude": 21.1093051,
+    "longitude": 78.9910352,
+    "place_id": "ChIJs3xmNniV1DsRdlu7lT-Kkz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs3xmNniV1DsRdlu7lT-Kkz4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:54:02"
+  }
+]

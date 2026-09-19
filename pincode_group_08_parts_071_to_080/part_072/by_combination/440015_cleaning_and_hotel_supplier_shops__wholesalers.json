@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Rahul",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Guest house, Inn, Lodge, Motel, Resort hotel, Villa",
+    "pincode": "440015",
+    "phone_number": "+91 98347 08577",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "1 Rajat Plaza, St Stop Square, 1, Mokshdham Road, Ganeshpeth Colony, Nagpur, Maharashtra 440018",
+    "area": "Ganeshpeth Colony",
+    "latitude": 21.1398309,
+    "longitude": 79.0950819,
+    "place_id": "ChIJPSNCR2fB1DsRvCOLDkj92wk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPSNCR2fB1DsRvCOLDkj92wk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:45:57"
+  },
+  {
+    "business_name": "Ultracute Pavers & Tiles",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Brick Manufacturer, Bricklayer, Cement Manufacturer, Industrial consultant, Paving contractor, Paving materials supplier, Tile contractor, Tile manufacturer, Tile store",
+    "pincode": "440015",
+    "phone_number": "+91 93717 33301",
+    "website": "https://www.facebook.com/ultracutepavers/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No. 2, 1st Floor, Sai Shree Aptts., Mehadiya Layout, Matey Chouk, Maharashtra 440022",
+    "area": "Pratap Nagar",
+    "latitude": 21.1199001,
+    "longitude": 79.05648029999999,
+    "place_id": "ChIJ3fW0YmXB1DsRYZNJZsx47nw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3fW0YmXB1DsRYZNJZsx47nw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:45:57"
+  }
+]

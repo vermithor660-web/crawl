@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nizam Steel & Wood Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "440017",
+    "phone_number": "+91 93269 33877",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Kamptee Rd, Tipu Sultan Chowk, Shivaji Nagar, Sidharth Nagar, Nagpur, Maharashtra 440026",
+    "area": "Tipu Sultan Chowk, Shivaji Nagar, Sidharth Nagar",
+    "latitude": 21.184234699999998,
+    "longitude": 79.12507839999999,
+    "place_id": "ChIJe-b16sTG1DsRByRXie646N0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe-b16sTG1DsRByRXie646N0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:50:07"
+  },
+  {
+    "business_name": "Haniya Timber Mart",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Door manufacturer, Interior designer",
+    "pincode": "440017",
+    "phone_number": "+91 88883 49715",
+    "website": "https://www.google.com/search?q=haniya+timber+mart&oq=haniya+&gs_lcrp=EgZjaHJvbWUqCAgAEEUYJxg7MggIABBFGCcYOzIGCAEQRRg5MgYIAhAjGCcyBwgDEAAYgAQyDwgEEC4YChiDARixAxiABDIHCAUQABiABDIHCAYQABiABDINCAcQLhivARjHARiABDIHCAgQABiABDIHCAkQABiABDIHCAoQABiABDIHCAsQLhiABDIHCAwQABiABDIMCA0QABgKGLEDGIAEMgcIDhAAGIAE0gEIMjQ3M2owajeoAgCwAgA&client=ms-android-xiaomi-rvo2b&sourceid=chrome-mobile&ie=UTF-8",
+    "rating": 4.8,
+    "reviews_count": 12,
+    "address": "Plot No 29, near Taj Hotal, Asi Nagar, Balabhaupeth, Nagpur, Maharashtra 440017",
+    "area": "Asi Nagar, Balabhaupeth",
+    "latitude": 21.1738404,
+    "longitude": 79.1068679,
+    "place_id": "ChIJGY9k4AbB1DsRUeSdwCE5JYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGY9k4AbB1DsRUeSdwCE5JYg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:50:10"
+  }
+]

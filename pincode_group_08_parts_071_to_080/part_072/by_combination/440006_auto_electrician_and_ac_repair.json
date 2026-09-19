@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PATNI TOYOTA",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Toyota dealer",
+    "all_categories": "Toyota dealer, Auto repair shop, Car dealer, Used car dealer",
+    "pincode": "440006",
+    "phone_number": "+91 7104 674 000",
+    "website": "http://patnitoyota.com/",
+    "rating": 4.2,
+    "reviews_count": 879,
+    "address": "Patni Toyota Plot D3, Central, Midc, Hingna, Wadi, Maharashtra 440016",
+    "area": "Midc, Hingna",
+    "latitude": 21.1485694,
+    "longitude": 79.0031372,
+    "place_id": "ChIJGRArikPr1DsRHQv6ZXkBeVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRArikPr1DsRHQv6ZXkBeVg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:29:25"
+  },
+  {
+    "business_name": "bro-cars",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "440006",
+    "phone_number": "+91 97666 88738",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Hanuman temple, Hajaripahad, Saroj Nagar, Nagpur, Maharashtra 440007",
+    "area": "Hajaripahad, Saroj Nagar",
+    "latitude": 21.170076299999998,
+    "longitude": 79.0373486,
+    "place_id": "ChIJEXmzH17B1DsRSt70QXXvbSc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEXmzH17B1DsRSt70QXXvbSc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:29:29"
+  }
+]

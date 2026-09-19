@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fishworld Aquascapes",
+    "search_category": "Fish Market",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Fishing store",
+    "pincode": "440015",
+    "phone_number": "+91 93728 60071",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 48,
+    "address": "Shop No. 5 & 6, Jayanti Mansion II, Wednesday Market Road, Manish Nagar Railway Crossing, Nagar Vikas Hsg. Soc. Layout, Narendra Nagar, Badil Kheda, Nagpur, Maharashtra 440015",
+    "area": "Manish Nagar Railway Crossing, Nagar Vikas Hsg. Soc. Layout, Narendra Nagar, Badil Kheda",
+    "latitude": 21.1001725,
+    "longitude": 79.0721866,
+    "place_id": "ChIJedQLpnO_1DsRsNTJJ9cFN9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJedQLpnO_1DsRsNTJJ9cFN9Q",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:44:40"
+  },
+  {
+    "business_name": "R K FISH AQUARIUM",
+    "search_category": "Fish Market",
+    "primary_category": "Store",
+    "all_categories": "Store, Pet store, Tropical fish store",
+    "pincode": "440015",
+    "phone_number": "+91 81779 07686",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 4,
+    "address": "Mankapur Ring Rd, Sawarkar Nagar, Hanuman Nagar, Nagpur, Maharashtra 440015",
+    "area": "Sawarkar Nagar, Hanuman Nagar",
+    "latitude": 21.1128936,
+    "longitude": 79.0665576,
+    "place_id": "ChIJFfsx3WrH1DsRiaZmSPa-6Kk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFfsx3WrH1DsRiaZmSPa-6Kk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:44:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Skinfinity Skin Clinic",
+    "search_category": "Hair Transplant Clinic",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Dermatologist",
+    "pincode": "440010",
+    "phone_number": "+91 91681 99350",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Chamber No GS-06, Amar Jyoti Palace, Chitale Marg, Lokmat Square, Dhantoli, Nagpur, Maharashtra 440012",
+    "area": "Lokmat Square, Dhantoli",
+    "latitude": 21.1336919,
+    "longitude": 79.0782902,
+    "place_id": "ChIJCwydZpDA1DsRwIToSlCJDgg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCwydZpDA1DsRwIToSlCJDgg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:36:31"
+  },
+  {
+    "business_name": "SR hair fillers salon academy",
+    "search_category": "Hair Transplant Clinic",
+    "primary_category": "Hair replacement service",
+    "all_categories": "Hair replacement service",
+    "pincode": "440010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "440010, Gokulpeth, Nagpur, Maharashtra 440010",
+    "area": "Gokulpeth",
+    "latitude": 21.1413446,
+    "longitude": 79.05803949999999,
+    "place_id": "ChIJWVtgA0HB1DsRPXJS1uDN0YU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWVtgA0HB1DsRPXJS1uDN0YU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:36:32"
+  }
+]

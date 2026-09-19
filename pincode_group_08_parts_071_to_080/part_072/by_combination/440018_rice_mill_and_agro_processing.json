@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "COMMODITY IMPEX",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill, Exporter",
+    "pincode": "440018",
+    "phone_number": "+91 88888 68598",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "532V+CGQ, Empress Mill Rd, NO.1, Bajaria, Nagpur, Maharashtra 440018",
+    "area": "NO.1, Bajaria",
+    "latitude": 21.1510912,
+    "longitude": 79.0938678,
+    "place_id": "ChIJf2AoocbA1DsRNJW8ZHy9xVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf2AoocbA1DsRNJW8ZHy9xVY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:53:09"
+  },
+  {
+    "business_name": "Triveni Agro Industries",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "440018",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 4,
+    "address": "Khasra No 44 Mouza Mathani Teh Mouda, Bhandara Rd, Nagpur, Maharashtra 441104",
+    "area": "440018",
+    "latitude": 21.137079,
+    "longitude": 79.3823299,
+    "place_id": "ChIJFS8sgZ5LKzoRK7aTPA-xqGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFS8sgZ5LKzoRK7aTPA-xqGw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:53:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DHYAS Ai",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "440020",
+    "phone_number": "+91 99600 65866",
+    "website": "https://dhyasai.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5th floor, Jk hieghts, road, near ajani metro station, Near Tajshree Honda, Deo Nagar, Nagpur, Maharashtra 440015",
+    "area": "Near Tajshree Honda, Deo Nagar",
+    "latitude": 21.1166812,
+    "longitude": 79.0693282,
+    "place_id": "ChIJpQlQWDS_1DsRTwY5FV5d16A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpQlQWDS_1DsRTwY5FV5d16A",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:57:19"
+  },
+  {
+    "business_name": "Creativity Please",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Marketing agency, Marketing consultant, Website designer",
+    "pincode": "440020",
+    "phone_number": "+91 95959 05550",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "140, Bajaj Nagar, Nagpur, Maharashtra 440010",
+    "area": "Bajaj Nagar",
+    "latitude": 21.1282815,
+    "longitude": 79.0621695,
+    "place_id": "ChIJV2Sf13vA1DsR8HFOrXROXXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV2Sf13vA1DsR8HFOrXROXXM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:57:20"
+  }
+]

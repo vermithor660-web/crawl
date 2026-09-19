@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eagle cafe & restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "440008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Anupurna Mata Mandir, NEAR:, Old Bagadganj Rd, Old Bagadganj, Nandanvan, Nagpur, Maharashtra 440008",
+    "area": "Old Bagadganj, Nandanvan",
+    "latitude": 21.1437486,
+    "longitude": 79.12683229999999,
+    "place_id": "ChIJUb3VOgDH1DsRf_SC-usO9YM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUb3VOgDH1DsRf_SC-usO9YM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:33:16"
+  },
+  {
+    "business_name": "Halba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "440008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 136,
+    "address": "Central Ave, Queta Colony, Lakadganj, Nagpur, Maharashtra 440008",
+    "area": "Queta Colony, Lakadganj",
+    "latitude": 21.1489716,
+    "longitude": 79.118083,
+    "place_id": "ChIJXQE7TTbH1DsR5b6ooPKFO1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXQE7TTbH1DsR5b6ooPKFO1E",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:33:16"
+  }
+]

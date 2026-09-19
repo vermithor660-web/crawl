@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Five Star Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Wholesale bakery",
+    "all_categories": "Wholesale bakery, Bakery and Cake Shop",
+    "pincode": "440017",
+    "phone_number": "+91 70284 12599",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 66,
+    "address": "Plot No. 181, 182, Habib Nagar Teka, Teka, Nagpur, Maharashtra 440017",
+    "area": "Habib Nagar Teka, Teka",
+    "latitude": 21.1761555,
+    "longitude": 79.111841,
+    "place_id": "ChIJUdJwYtPG1DsRIWZZPT23kbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUdJwYtPG1DsRIWZZPT23kbg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:49:11"
+  },
+  {
+    "business_name": "PR Bakers - Culinary Classes & Cloud Kitchen",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cooking Class, Culinary school",
+    "pincode": "440017",
+    "phone_number": "+91 83299 93867",
+    "website": "http://www.chefpihurajmalani.com/",
+    "rating": 4.8,
+    "reviews_count": 41,
+    "address": "Bezonbagh Ground, Plot number 390, near lal school, Bezonbagh, Nagpur, Maharashtra 440014",
+    "area": "Bezonbagh",
+    "latitude": 21.1751587,
+    "longitude": 79.0925427,
+    "place_id": "ChIJSXeUOnDB1DsRviPFr0RIp-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSXeUOnDB1DsRviPFr0RIp-8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:49:13"
+  }
+]

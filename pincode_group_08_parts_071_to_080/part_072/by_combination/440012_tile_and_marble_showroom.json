@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Enterprises",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store, Construction Material Wholesaler, Flooring store, Home improvement store, Tile manufacturer",
+    "pincode": "440012",
+    "phone_number": "+91 712 243 0497",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Plot No 60, Abhyankar Marg, nearby Ashirwad Palace, Dhantoli, Nagpur, Maharashtra 440012",
+    "area": "Dhantoli",
+    "latitude": 21.1416465,
+    "longitude": 79.0886024,
+    "place_id": "ChIJvffi0jLB1DsRpS0qPSEd9lU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvffi0jLB1DsRpS0qPSEd9lU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:38:35"
+  },
+  {
+    "business_name": "Suman marble house",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store",
+    "pincode": "440012",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Suman marble house, harihar mandir, Baba Farid Nagar, Sitabuldi, Nagpur, Maharashtra 440001",
+    "area": "Baba Farid Nagar, Sitabuldi",
+    "latitude": 21.1458004,
+    "longitude": 79.0881546,
+    "place_id": "ChIJp7UbbgDB1DsRxerLQ68rDfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp7UbbgDB1DsRxerLQ68rDfQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:38:35"
+  }
+]

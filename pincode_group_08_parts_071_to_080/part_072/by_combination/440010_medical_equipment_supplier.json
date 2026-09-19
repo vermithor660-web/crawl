@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Sawariya Medical Agency",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "440010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "D-12 jeevan chaya complex near center point hotel Ramdaspeth C.B.Road, Maharashtra 440010",
+    "area": "Ramdaspeth",
+    "latitude": 21.134750699999998,
+    "longitude": 79.07646059999999,
+    "place_id": "ChIJha9nKgnB1DsRGyEILKEPnsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJha9nKgnB1DsRGyEILKEPnsc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:35:56"
+  },
+  {
+    "business_name": "Tinomed Healthcare Private Limited (THPL)",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "440010",
+    "phone_number": "+91 99362 62785",
+    "website": "http://www.tinomed.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lokmat Bhavan, 809, A-wing, Wardha Rd, Lokmat Square, Nagpur, Maharashtra 440010",
+    "area": "Lokmat Square, New Ramdaspeth",
+    "latitude": 21.135304599999998,
+    "longitude": 79.07781849999999,
+    "place_id": "ChIJ5yBI0uvB1DsR5cP2DlRGBUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5yBI0uvB1DsR5cP2DlRGBUw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:35:56"
+  }
+]

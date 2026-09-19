@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saifee Provisions",
+    "search_category": "Provision Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "440017",
+    "phone_number": "+91 87886 69814",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Shop NO.8, Alif Arcade, Kanji House Rd, Nagpur, Maharashtra 440017",
+    "area": "Binaki",
+    "latitude": 21.172265,
+    "longitude": 79.1197566,
+    "place_id": "ChIJz0Dw6NLH1DsRhIobJ7WRNxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0Dw6NLH1DsRhIobJ7WRNxs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:49:03"
+  },
+  {
+    "business_name": "Jay provision",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "440017",
+    "phone_number": "+91 99703 37106",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Regal Celebration Anand Nagar Nagpur Regal Celebration Anand Nagar, Nagpur, Maharashtra 440017",
+    "area": "Binaki",
+    "latitude": 21.1722809,
+    "longitude": 79.1199247,
+    "place_id": "ChIJy_sHPNbH1DsRzE7WNCncBz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy_sHPNbH1DsRzE7WNCncBz4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:49:03"
+  }
+]

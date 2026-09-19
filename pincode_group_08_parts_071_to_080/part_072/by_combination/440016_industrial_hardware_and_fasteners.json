@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shishir Traders",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Iron & Steel Store, Paint store, Pipe supplier, Plumbing supply store",
+    "pincode": "440016",
+    "phone_number": "+91 95954 89767",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "10, gajanan nagr,Hingna Road, Electronic Zone Square, M.I.D.C., Gajanan, midc, opposite Indian Oil Petrol Pump, Nildoh ct, Maharashtra 441110",
+    "area": "Lokmanya Nagar",
+    "latitude": 21.102842199999998,
+    "longitude": 78.9897238,
+    "place_id": "ChIJ967lDDqV1DsRT4qip0OOlNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ967lDDqV1DsRT4qip0OOlNQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:48:42"
+  },
+  {
+    "business_name": "R.K.SCREWS C/O A.R.MOTWANI SS HINGES WOOD SCREWS DRYWALL SCREWS SDS SCREWS IN AMRAVATI",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Screw supplier, Iron & Steel Store, Steel industry",
+    "pincode": "440016",
+    "phone_number": "+91 98558 49727",
+    "website": "http://www.rkscrews.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "plot no e-22, MIDC Area, Amravati, Wadi, Maharashtra 440021",
+    "area": "MIDC Area",
+    "latitude": 21.144218499999997,
+    "longitude": 78.9744886,
+    "place_id": "ChIJHQHsirbr1DsReCwcGtrtuQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHQHsirbr1DsReCwcGtrtuQc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:48:45"
+  }
+]

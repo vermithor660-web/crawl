@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANN Hospitality Services",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "440015",
+    "phone_number": "+91 98504 42048",
+    "website": "https://ann-hospitality-services.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "75, Gurunanakpura, Kamal Chowk, Nagpur, Maharashtra 440017",
+    "area": "Kamal Chowk, Balabhaupeth",
+    "latitude": 21.168633999999997,
+    "longitude": 79.10337229999999,
+    "place_id": "ChIJp6GY1b3B1DsRAK7fHXkUz2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp6GY1b3B1DsRAK7fHXkUz2Q",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:45:59"
+  },
+  {
+    "business_name": "Hotel Subsidy Solutions",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "440015",
+    "phone_number": "+91 77449 77447",
+    "website": "https://www.hotelsubsidysolutions.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "248, Laxminagar, Nagpur, Maharashtra 440022",
+    "area": "Laxminagar",
+    "latitude": 21.122363,
+    "longitude": 79.0600972,
+    "place_id": "ChIJxd1_wszB1DsRmnSGoZ-ikzA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxd1_wszB1DsRmnSGoZ-ikzA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:45:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MADHAV HOTELWARE",
+    "search_category": "Resort",
+    "primary_category": "Countertop store",
+    "all_categories": "Countertop store",
+    "pincode": "440002",
+    "phone_number": "+91 97677 66667",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "building no 06, Agraram devi chowk, near MR travels line, Ganeshpeth Colony, Nagpur, Maharashtra 440018",
+    "area": "Ganeshpeth Colony",
+    "latitude": 21.1422664,
+    "longitude": 79.09708069999999,
+    "place_id": "ChIJCz-D3krB1DsRNtvECqhoTqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCz-D3krB1DsRNtvECqhoTqM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:23:09"
+  },
+  {
+    "business_name": "Vraksh Resort office",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "440002",
+    "phone_number": "+91 80801 09194",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "897, Central Ave, Ladpura, Hansapuri, Nagpur, Maharashtra 440002",
+    "area": "Ladpura, Hansapuri",
+    "latitude": 21.1495994,
+    "longitude": 79.1128868,
+    "place_id": "ChIJlwxUUzTH1DsRTCjbCyaJqsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlwxUUzTH1DsRTCjbCyaJqsE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:23:09"
+  }
+]

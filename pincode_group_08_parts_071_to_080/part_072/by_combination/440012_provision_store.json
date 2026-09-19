@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Balaji Provision",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "440012",
+    "phone_number": "+91 712 272 5412",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "43VQ+MPC, Ghat Rd, Cotton Market, Empress City, Nagpur, Maharashtra 440018",
+    "area": "Cotton Market, Empress City",
+    "latitude": 21.1441828,
+    "longitude": 79.0892652,
+    "place_id": "ChIJJ13Cmr_A1DsR-TPJ4_UqcEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ13Cmr_A1DsR-TPJ4_UqcEc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:37:35"
+  },
+  {
+    "business_name": "Arvind Traders",
+    "search_category": "Provision Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Dairy store, Indian grocery store",
+    "pincode": "440012",
+    "phone_number": "+91 98601 04404",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Manewada Rd, Khankhoje Nagar, Ambika Nagar, Ayodhya nagar, Nagpur, Maharashtra 440024",
+    "area": "Khankhoje Nagar, Ambika Nagar, Ayodhya nagar",
+    "latitude": 21.115259299999998,
+    "longitude": 79.1053811,
+    "place_id": "ChIJWV-r6lO_1DsREDuJf9gO6G8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWV-r6lO_1DsREDuJf9gO6G8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:37:36"
+  }
+]

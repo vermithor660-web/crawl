@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hope Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital, Cardiologist, Emergency care service, Nephrologist, Oncologist, Orthopedic surgeon",
+    "pincode": "440017",
+    "phone_number": "N/A",
+    "website": "https://www.hopehospital.com/",
+    "rating": 4,
+    "reviews_count": 480,
+    "address": "Plot no: 2, Kamptee Rd, Teka Naka, Nagpur, Maharashtra 440026",
+    "area": "Teka Naka",
+    "latitude": 21.1807946,
+    "longitude": 79.11319499999999,
+    "place_id": "ChIJnQ4r4ejA1DsRc15angXDZw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnQ4r4ejA1DsRc15angXDZw4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:49:33"
+  },
+  {
+    "business_name": "Smt. Nimunabai Tirpude Hospital & Research Centre",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital, Research institute",
+    "pincode": "440017",
+    "phone_number": "N/A",
+    "website": "http://www.tirpudehospital.com/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "54G3+FGJ, 338, Kamptee Rd, Chalks Colony, New Indora, Nagpur, Maharashtra 440014",
+    "area": "Chalks Colony, New Indora",
+    "latitude": 21.1762904,
+    "longitude": 79.1034524,
+    "place_id": "ChIJyxzNqC7B1DsR-LZa2WD3QS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyxzNqC7B1DsR-LZa2WD3QS4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:49:35"
+  }
+]

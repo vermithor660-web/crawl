@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Chocolate Theory - Cafe & Bistro",
+    "search_category": "Patisserie",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "440006",
+    "phone_number": "+91 89750 04138",
+    "website": "https://instagram.com/thechocolate_theory",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Opposite University Ground, Amrawati Road Gurushankar Apartments, Tilak Nagar, Nagpur, Maharashtra 440010",
+    "area": "Tilak Nagar, Gokulpeth",
+    "latitude": 21.146976199999997,
+    "longitude": 79.0580923,
+    "place_id": "ChIJeWl_3DHB1DsRPPpX1L6n8HU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeWl_3DHB1DsRPPpX1L6n8HU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:28:49"
+  },
+  {
+    "business_name": "Bite Basket",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "440006",
+    "phone_number": "+91 98600 30223",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shiv Darshan Apartment, Infront Of Rachna Sayantara, Road, Hajaripahad, Phase 2, Seminary Hills, Nagpur, Maharashtra 440007",
+    "area": "Hajaripahad, Phase 2, Seminary Hills",
+    "latitude": 21.1672278,
+    "longitude": 79.0374543,
+    "place_id": "ChIJM0ZWvT_B1DsRkOEf8hnLa90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM0ZWvT_B1DsRkOEf8hnLa90",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:28:49"
+  }
+]

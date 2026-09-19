@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pohewala Sadar",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Indian restaurant",
+    "pincode": "440013",
+    "phone_number": "+91 77700 06104",
+    "website": "http://www.pohewala.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Anjuman Complex, opposite Anjuman Polytechnic College, Koradi Colony, Nagpur, Maharashtra 440000",
+    "area": "Koradi Colony",
+    "latitude": 21.1636231,
+    "longitude": 79.0801973,
+    "place_id": "ChIJ_2RkNNHB1DsR_9qc1-HfHQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2RkNNHB1DsR_9qc1-HfHQg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:40:14"
+  },
+  {
+    "business_name": "Jagat Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Banquet hall, Chinese restaurant, Fast food restaurant, Indian restaurant, Lunch restaurant, South Indian restaurant",
+    "pincode": "440013",
+    "phone_number": "+91 94221 47515",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 983,
+    "address": "43RJ+X8W, Wardha Rd, opp. Bus Mor Bhavan Stand, Sitabuldi, Nagpur, Maharashtra 440012",
+    "area": "Sitabuldi",
+    "latitude": 21.142011,
+    "longitude": 79.0806862,
+    "place_id": "ChIJMxmUeZPA1DsREmSRV9Dbpc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMxmUeZPA1DsREmSRV9Dbpc4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:40:17"
+  }
+]

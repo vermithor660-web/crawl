@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashok Auto Electrician",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "440010",
+    "phone_number": "+91 99106 38458",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No 2, Atul Kataria Chowk, opp. Marble Market, Rajiv Nagar, Sector 13, Gurugram, Haryana 122001",
+    "area": "Rajiv Nagar, Sector 13",
+    "latitude": 28.479010799999998,
+    "longitude": 77.0384783,
+    "place_id": "ChIJH5njZuEZDTkRj9I8w6UmlTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH5njZuEZDTkRj9I8w6UmlTk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:36:05"
+  },
+  {
+    "business_name": "Rawat Motors",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "440010",
+    "phone_number": "+91 98601 96449",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "IT Park Rd, Gayatri Nagar, Pratap Nagar, Nagpur, Maharashtra 440022",
+    "area": "Gayatri Nagar, Pratap Nagar",
+    "latitude": 21.1152648,
+    "longitude": 79.0464416,
+    "place_id": "ChIJPY1eyIu_1DsRgvfxoeU1kzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPY1eyIu_1DsRgvfxoeU1kzo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:36:08"
+  }
+]

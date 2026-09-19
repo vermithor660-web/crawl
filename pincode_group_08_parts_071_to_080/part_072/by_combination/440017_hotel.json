@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel sunshine classic",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "440017",
+    "phone_number": "+91 82089 22754",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 36,
+    "address": "Hotel sunshine classic Automotive square, opposite sharda company, Dixit Nagar, Nagpur, Maharashtra 440026",
+    "area": "Dixit Nagar",
+    "latitude": 21.184838799999998,
+    "longitude": 79.1181655,
+    "place_id": "ChIJk-zaiD7H1DsRnrn4D9qC2bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-zaiD7H1DsRnrn4D9qC2bw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:50:19"
+  },
+  {
+    "business_name": "Capital O 10842 Hotel Anjali Mahal",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "440017",
+    "phone_number": "+91 124 458 8630",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "54H5+RMP, Kamptee Road TEKA NAKA CHOWK, OPPOSITE DURGA MATA MANDIR, Nagpur, Maharashtra 440026",
+    "area": "Bank Colony",
+    "latitude": 21.1795763,
+    "longitude": 79.1091929,
+    "place_id": "ChIJb7LJMS3B1DsRXMH3pGo9CFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb7LJMS3B1DsRXMH3pGo9CFw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:50:19"
+  }
+]

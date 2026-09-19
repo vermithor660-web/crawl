@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bombaywala Sweets & Namkeen",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Cake shop, Dairy store",
+    "pincode": "440007",
+    "phone_number": "N/A",
+    "website": "https://rashmi1978-maker.github.io/bombaywala-website/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "wadi naka, Plot No.12, Opp Naka No.10, Popular Society, Kachimet, 10, Amravati Rd, Wadi, Nagpur, Maharashtra 440023",
+    "area": "Popular Layout, Wadi, Opposite Naka No. 10, Popular Society, Wadi",
+    "latitude": 21.153635899999998,
+    "longitude": 79.0143223,
+    "place_id": "ChIJj7dqeUPA1DsRVCQ9TQg5IOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj7dqeUPA1DsRVCQ9TQg5IOk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:30:56"
+  },
+  {
+    "business_name": "Satish Sweets & Namkeen",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "440007",
+    "phone_number": "+91 96288 04566",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "1, Chhapeda Pulia, Sharda Nagar, Kanpur, Uttar Pradesh 208025",
+    "area": "Chhapeda Pulia, Sharda Nagar",
+    "latitude": 26.4829443,
+    "longitude": 80.2859362,
+    "place_id": "ChIJe_fFiRk4nDkRdpMKRxo8idY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe_fFiRk4nDkRdpMKRxo8idY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:30:58"
+  }
+]

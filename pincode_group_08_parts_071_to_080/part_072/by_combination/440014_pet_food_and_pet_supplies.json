@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NAC Pet Food & Accessories",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "440014",
+    "phone_number": "+91 86686 44639",
+    "website": "https://nagpuranimalclub.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tathagat Square, Police Station, opposite of Sugat Nagar, Nari Village, Nagpur, Maharashtra 440026",
+    "area": "Nari Village",
+    "latitude": 21.189134,
+    "longitude": 79.1005933,
+    "place_id": "ChIJbbNWeCXB1DsRXCCNMn5cEWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbbNWeCXB1DsRXCCNMn5cEWc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:42:27"
+  },
+  {
+    "business_name": "My Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "440014",
+    "phone_number": "+91 80553 45884",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Manav nagar, Nari Rd, near SBI bank, Sanyal Nagar, Teka Naka, Nagpur, Maharashtra 440026",
+    "area": "Sanyal Nagar, Teka Naka",
+    "latitude": 21.182083,
+    "longitude": 79.1090229,
+    "place_id": "ChIJ-0NRykTB1DsROP77-INS1uA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-0NRykTB1DsROP77-INS1uA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:42:27"
+  }
+]

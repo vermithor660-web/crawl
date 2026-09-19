@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Bajrang Sales Corporation",
+    "search_category": "Shops",
+    "primary_category": "Auto Accessories Wholesaler",
+    "all_categories": "Auto Accessories Wholesaler, DS Automobiles dealer",
+    "pincode": "440018",
+    "phone_number": "+91 86685 71552",
+    "website": "https://newbajrangsalescorporation.in/",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "Plot No. 421, Central Ave, opposite Shivhare Medical stores, Bajaria, Nagpur, Maharashtra 440018",
+    "area": "Bajaria",
+    "latitude": 21.151062,
+    "longitude": 79.09512529999999,
+    "place_id": "ChIJFTgkQoHB1DsRFg6mW-BqScY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFTgkQoHB1DsRFg6mW-BqScY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:53:25"
+  },
+  {
+    "business_name": "Style Wagon",
+    "search_category": "Shops",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Electronics wholesaler",
+    "pincode": "440018",
+    "phone_number": "+91 90287 18804",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "nalsaheb chok timki road, near shree ram swami school, Nagpur, Maharashtra 440018",
+    "area": "Hansapuri",
+    "latitude": 21.1542298,
+    "longitude": 79.10138669999999,
+    "place_id": "ChIJH3GiQwLB1DsRL5jkWevUWa4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH3GiQwLB1DsRL5jkWevUWa4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:53:26"
+  }
+]

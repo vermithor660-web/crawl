@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hakimi computers",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer training school",
+    "all_categories": "Computer training school",
+    "pincode": "440018",
+    "phone_number": "+91 80551 11239",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "metro station, Mirza Rd, behind Agrasen Chowk, next to fakhree Hardware, Gandhibagh, Nagpur, Maharashtra 440018",
+    "area": "Gandhibagh",
+    "latitude": 21.152397699999998,
+    "longitude": 79.1023663,
+    "place_id": "ChIJH8Yk6hfB1DsRGPgwf6LPYp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH8Yk6hfB1DsRGPgwf6LPYp4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:52:41"
+  },
+  {
+    "business_name": "Prerna Institute Of Information Technology (MKCL Authorised Learning Center)",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "440018",
+    "phone_number": "+91 712 272 9015",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 45,
+    "address": "Gandhi Gate, Shivaji Maharaj Square, Mahal, Nagpur, Maharashtra 440032",
+    "area": "Mahal",
+    "latitude": 21.145004399999998,
+    "longitude": 79.1040502,
+    "place_id": "ChIJ0bj4EcDA1DsR2yV1tnGITsM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bj4EcDA1DsR2yV1tnGITsM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:52:42"
+  }
+]

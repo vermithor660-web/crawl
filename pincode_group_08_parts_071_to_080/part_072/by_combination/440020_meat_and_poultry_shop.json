@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandraneel Gavran Poultry",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "440020",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Shatabdi Square, Plot No.16, Rameshwari Rd, behind D Group Building, Kashi Nagar, Parvati Nagar, Nagpur, Maharashtra 440027",
+    "area": "Kashi Nagar, Parvati Nagar",
+    "latitude": 21.114877999999997,
+    "longitude": 79.0917722,
+    "place_id": "ChIJs2THBUK_1DsR1xF4SBdaWhs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs2THBUK_1DsR1xF4SBdaWhs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:55:29"
+  },
+  {
+    "business_name": "Madne Mutton And Chicken",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "440020",
+    "phone_number": "+91 99396 57663",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 17,
+    "address": "bus stop, Plot No 53, Gopan Nagar 2nd, Vijay Nagar, Gayatri Nagar, Pratap Nagar, Nagpur, Maharashtra 440022",
+    "area": "Vijay Nagar, Gayatri Nagar, Pratap Nagar",
+    "latitude": 21.1167224,
+    "longitude": 79.0519131,
+    "place_id": "ChIJ3SDW-iO_1DsRi5EvaJbkRUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3SDW-iO_1DsRi5EvaJbkRUg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:55:30"
+  }
+]

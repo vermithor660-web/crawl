@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GS Sales & Services",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Electrical repair shop",
+    "all_categories": "Electrical repair shop",
+    "pincode": "440020",
+    "phone_number": "+91 80552 54432",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "Plot no 2 , Khankhoje Nagar, Manewada Road, Near Siddheshwar Hall, opposite Shobha Computer, Nagpur, Maharashtra 440024",
+    "area": "Khankhoje Nagar, Ambika Nagar, Ayodhya nagar",
+    "latitude": 21.1166903,
+    "longitude": 79.104525,
+    "place_id": "ChIJnVNeB1S_1DsRWVCnl3Y-6sk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnVNeB1S_1DsRWVCnl3Y-6sk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:56:10"
+  },
+  {
+    "business_name": "GoMechanic Luxe - Mobeen Automobiles",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto electrical service",
+    "all_categories": "Auto electrical service, Auto Dent Removal Service Station, Auto repair shop, Auto painting, Auto window tinting service, Car repair and maintenance service, Car wash, Mechanic, Oil change service, Wheel alignment service",
+    "pincode": "440020",
+    "phone_number": "+91 83989 70970",
+    "website": "https://srd1.onelink.me/7EYj/GMB",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shankar Nagar, East Shankar Nagar, Nagpur, Maharashtra 440010",
+    "area": "Shankar Nagar, East Shankar Nagar",
+    "latitude": 21.1306236,
+    "longitude": 79.06335709999999,
+    "place_id": "ChIJ8aRStfjB1DsRa6NmoFT2Vms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8aRStfjB1DsRa6NmoFT2Vms",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:56:13"
+  }
+]

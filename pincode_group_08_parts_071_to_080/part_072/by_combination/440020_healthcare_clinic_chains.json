@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AMC - Akssons Multispeciality Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Medical Center",
+    "pincode": "440020",
+    "phone_number": "+91 99204 54333",
+    "website": "https://www.akssonshealthcare.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 2&3 Ground Floor And Basement, Acme Ozone, Khewra Circle Rd, Manpada, Thane West, Mumbai, Thane, Maharashtra 400610",
+    "area": "Manpada, Thane West",
+    "latitude": 19.2325257,
+    "longitude": 72.9717884,
+    "place_id": "ChIJr_OeY7y75zsR7ZvW4J8hrno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr_OeY7y75zsR7ZvW4J8hrno",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:56:04"
+  },
+  {
+    "business_name": "Dr Virag Uday Mahorkar",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Cardiologist",
+    "all_categories": "Cardiologist, Cardiovascular and thoracic surgeon",
+    "pincode": "440020",
+    "phone_number": "+91 80070 00345",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Avanti Institute Of cardiology, Dhantoli, Nagpur, Maharashtra 440012",
+    "area": "Dhantoli",
+    "latitude": 21.132062599999998,
+    "longitude": 79.0802788,
+    "place_id": "ChIJWb5UOQ3B1DsRCbQobBDBcmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWb5UOQ3B1DsRCbQobBDBcmM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:56:05"
+  }
+]

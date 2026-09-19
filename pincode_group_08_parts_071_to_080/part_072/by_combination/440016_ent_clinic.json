@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "E.N.T. Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "440016",
+    "phone_number": "+91 97674 49544",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "4382+JP8, Gopal Nagar Main Rd, Gopal Nagar, Gayatri Nagar, Pratap Nagar, Nagpur, Maharashtra 440022",
+    "area": "Gopal Nagar, Gayatri Nagar, Pratap Nagar",
+    "latitude": 21.116526099999998,
+    "longitude": 79.0518209,
+    "place_id": "ChIJw-ylYIi_1DsRP1wcbeAY9iY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-ylYIi_1DsRP1wcbeAY9iY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:47:26"
+  },
+  {
+    "business_name": "ENT ONE Clinics",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "440016",
+    "phone_number": "+91 86005 28504",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "3rd floor, Shewalkar Arcade, W High Ct Rd, Laxmibhavan Square, Dharampeth, Nagpur, Maharashtra 440010",
+    "area": "Laxmibhavan Square, Dharampeth",
+    "latitude": 21.140004299999998,
+    "longitude": 79.06018019999999,
+    "place_id": "ChIJHadouwPB1DsRIo7CXGdZ2tQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHadouwPB1DsRIo7CXGdZ2tQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:47:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajkaran Provision and general store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Tea store",
+    "pincode": "440018",
+    "phone_number": "+91 98227 00680",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chandralok Building, 48, opp. mayo Hospital, Nagpur, Maharashtra 440018",
+    "area": "Mominpura",
+    "latitude": 21.1531612,
+    "longitude": 79.0947119,
+    "place_id": "ChIJb9O7cgzB1DsRdvCN7VeJtLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb9O7cgzB1DsRdvCN7VeJtLk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:51:17"
+  },
+  {
+    "business_name": "Swastik Dhanya Bhandar",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, General store, Wholesale grocer",
+    "pincode": "440018",
+    "phone_number": "+91 93715 07441",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Subhash Road, St Stand Rd, near Agaram Devi Mandir, Ganeshpeth Colony, Nagpur, Maharashtra 440018",
+    "area": "Ganeshpeth Colony",
+    "latitude": 21.144340099999997,
+    "longitude": 79.09638509999999,
+    "place_id": "ChIJA_-xerjA1DsRTFmuZp2WYfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_-xerjA1DsRTFmuZp2WYfc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:51:17"
+  }
+]

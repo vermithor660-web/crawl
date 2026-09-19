@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Secret Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "440007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "525, Sangharsh Nagar, Nagpur, Maharashtra 440026",
+    "area": "Sangharsh Nagar",
+    "latitude": 21.1828596,
+    "longitude": 79.11961409999999,
+    "place_id": "ChIJtdWEKrnH1DsRlAWHsugB5Yw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtdWEKrnH1DsRlAWHsugB5Yw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:31:14"
+  },
+  {
+    "business_name": "PUMA Store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Clothing store, Clothing Accessories Store, Sportswear store, Sports Accessories Wholesaler",
+    "pincode": "440007",
+    "phone_number": "+91 79 4272 5411",
+    "website": "https://store-in.puma.com/puma-store-dharampeth-nagpur-sports-apparel-dharampeth-nagpur-250438/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop 6A, Poonam Bajar, N Ambazari Rd, opp. Alankar Theatre, Shankar Nagar, East Shankar Nagar, Dharampeth, Nagpur, Maharashtra 440010",
+    "area": "Shankar Nagar, East Shankar Nagar, Dharampeth",
+    "latitude": 21.1375194,
+    "longitude": 79.0685468,
+    "place_id": "ChIJldHde4vA1DsRZjnRF6vAV90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJldHde4vA1DsRZjnRF6vAV90",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:31:16"
+  }
+]

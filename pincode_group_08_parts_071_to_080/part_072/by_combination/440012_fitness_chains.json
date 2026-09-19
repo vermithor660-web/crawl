@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Elevate Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "440012",
+    "phone_number": "+91 79726 02698",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Plot No. 5, E High Ct Rd, Shankar Nagar, East Shankar Nagar, Ramdaspeth, Nagpur, Maharashtra 440010",
+    "area": "Shankar Nagar, East Shankar Nagar, Ramdaspeth",
+    "latitude": 21.1358473,
+    "longitude": 79.0686103,
+    "place_id": "ChIJMUNfkvPB1DsRKhz8ITANzqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMUNfkvPB1DsRKhz8ITANzqk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:38:20"
+  },
+  {
+    "business_name": "Anytime Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center",
+    "pincode": "440012",
+    "phone_number": "+91 92160 55339",
+    "website": "https://www.anytimefitness.com/en-in/locations/jaipur-rajasthan-in-1110",
+    "rating": 4.5,
+    "reviews_count": 405,
+    "address": "3rd FLOOR, Mansarovar Plaza, Madhyam Marg, Mansarovar Sector 7, Agarwal Farm, Sector 9, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Mansarovar Sector 7, Agarwal Farm, Sector 9, Mansarovar",
+    "latitude": 26.8546496,
+    "longitude": 75.7666459,
+    "place_id": "ChIJEXeZLRO1bTkRjsCHAWg8xYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEXeZLRO1bTkRjsCHAWg8xYo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:38:22"
+  }
+]

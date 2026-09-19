@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Excelsior Engineering Company",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Hydraulic equipment supplier",
+    "all_categories": "Hydraulic equipment supplier, Electric motor store, Hydraulic repair service",
+    "pincode": "440012",
+    "phone_number": "+91 98601 05562",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "43RJ+VQX, Abhyankar Marg, Sitabuldi, Nagpur, Maharashtra 440012",
+    "area": "Sitabuldi",
+    "latitude": 21.1422445,
+    "longitude": 79.08199019999999,
+    "place_id": "ChIJIxTOoX7A1DsRUaa0L66UhCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIxTOoX7A1DsRUaa0L66UhCw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:39:40"
+  },
+  {
+    "business_name": "CP Engineering works",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Hydraulic equipment supplier",
+    "all_categories": "Hydraulic equipment supplier",
+    "pincode": "440012",
+    "phone_number": "+91 94228 01312",
+    "website": "https://jsdl.in/RSL-LBI1695989869",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Ghat Rd, Sitabuldi, Nagpur, Maharashtra 440018",
+    "area": "Sitabuldi",
+    "latitude": 21.1378244,
+    "longitude": 79.08946379999999,
+    "place_id": "ChIJCVPDp2fB1DsRdJ330E9g8Uw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCVPDp2fB1DsRdJ330E9g8Uw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:39:42"
+  }
+]

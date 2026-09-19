@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tara Royal Massage-Spa",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "440006",
+    "phone_number": "N/A",
+    "website": "http://tararoyalmassagespa.shop/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "537/291/A, Amravati Rd, Vayusena Nagar, Nagpur, Maharashtra 440033",
+    "area": "Vayusena Nagar",
+    "latitude": 21.1490354,
+    "longitude": 79.0441365,
+    "place_id": "ChIJX7xPU7jB1DsROgmIuIGyAiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX7xPU7jB1DsROgmIuIGyAiM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:29:44"
+  },
+  {
+    "business_name": "The Gym",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "440006",
+    "phone_number": "+91 98235 50647",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "33, Amravati Rd, near L.I.T College, Hindustan Colony, RTMNU, Ram Nagar, Nagpur, Maharashtra 440033",
+    "area": "Hindustan Colony, RTMNU, Ram Nagar",
+    "latitude": 21.147622,
+    "longitude": 79.0464142,
+    "place_id": "ChIJ4xPCHHfB1DsRxUkilWXTzqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4xPCHHfB1DsRxUkilWXTzqQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:29:45"
+  }
+]
