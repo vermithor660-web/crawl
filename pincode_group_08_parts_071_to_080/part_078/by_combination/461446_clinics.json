@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Paliwal Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Doctor",
+    "pincode": "461446",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 14,
+    "address": "Q963+2MG, Sandiya Rd, Maharana Pratap Ward, Pipariya, Madhya Pradesh 461775",
+    "area": "Maharana Pratap Ward",
+    "latitude": 22.7600673,
+    "longitude": 78.35420649999999,
+    "place_id": "ChIJT98vXPFDfjkRkzixFllxdHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT98vXPFDfjkRkzixFllxdHg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:16:38"
+  },
+  {
+    "business_name": "Jai shri krishna medical store",
+    "search_category": "Clinics",
+    "primary_category": "Medical group",
+    "all_categories": "Medical group",
+    "pincode": "461446",
+    "phone_number": "+91 73541 92777",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HQXJ+H5J, NH46, Chayan Colony, Itarsi, Madhya Pradesh 461111",
+    "area": "Chayan Colony",
+    "latitude": 22.5989503,
+    "longitude": 77.7804046,
+    "place_id": "ChIJS5PRbfLcfTkRrzA3UQpLmlA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS5PRbfLcfTkRrzA3UQpLmlA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:16:40"
+  }
+]

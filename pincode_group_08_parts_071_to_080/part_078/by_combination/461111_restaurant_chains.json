@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dayalu Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant",
+    "pincode": "461111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "M3RH+Q73, MP SH 22, Semri, Madhya Pradesh 461668",
+    "area": "461111",
+    "latitude": 22.6918869,
+    "longitude": 78.0781871,
+    "place_id": "ChIJQZTpQ7JxfjkRgog70sG8KYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZTpQ7JxfjkRgog70sG8KYc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:57:02"
+  },
+  {
+    "business_name": "Ishwar Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "461111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "JQ99+V5W, Suraj Ganj, Itarsi, Madhya Pradesh 461111",
+    "area": "Suraj Ganj",
+    "latitude": 22.6197364,
+    "longitude": 77.7679584,
+    "place_id": "ChIJCY6x_6HcfTkRLojHC8mpOP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCY6x_6HcfTkRLojHC8mpOP0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:57:03"
+  }
+]

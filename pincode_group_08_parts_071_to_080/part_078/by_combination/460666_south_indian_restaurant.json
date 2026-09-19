@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Christys Southindian Restaurant Snacks Corner",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "460666",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "5CRP+65H, near Matrix Salon, E-8, Gulmohar, Gulmohar Colony, Bhopal, Madhya Pradesh 462039",
+    "area": "E-8, Gulmohar, Gulmohar Colony",
+    "latitude": 23.1905581,
+    "longitude": 77.4354843,
+    "place_id": "ChIJ-5J5VKNDfDkRVx1sjr55oGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-5J5VKNDfDkRVx1sjr55oGQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:48:29"
+  },
+  {
+    "business_name": "Shakti South Indian Food",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Vegetarian restaurant",
+    "pincode": "460666",
+    "phone_number": "+91 74156 01937",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Sonagiri, Bhopal, Madhya Pradesh 462022",
+    "area": "Sonagiri",
+    "latitude": 23.2502598,
+    "longitude": 77.4708498,
+    "place_id": "ChIJfSz_mvhBfDkRP5VYB9WekBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfSz_mvhBfDkRP5VYB9WekBQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:48:30"
+  }
+]

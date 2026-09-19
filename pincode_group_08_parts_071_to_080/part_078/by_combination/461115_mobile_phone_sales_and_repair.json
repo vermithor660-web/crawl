@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "461115",
+    "phone_number": "+91 88783 83814",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Plot No. 42, Shivaji Nagar, Rasuliya, Narmadapuram, Madhya Pradesh 461001",
+    "area": "Shivaji Nagar, Rasuliya",
+    "latitude": 22.726638599999998,
+    "longitude": 77.72756199999999,
+    "place_id": "ChIJh52MtzrPfTkRyOhIfcHluBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh52MtzrPfTkRyOhIfcHluBQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:01:34"
+  },
+  {
+    "business_name": "M.M MOBILE ZONE",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "461115",
+    "phone_number": "+91 99993 21998",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 38,
+    "address": "2/41, Sadar Bazar Rd, Kabul Lines, Delhi Cantonment, New Delhi, Delhi 110010",
+    "area": "Kabul Lines, Delhi Cantonment",
+    "latitude": 28.5939111,
+    "longitude": 77.122213,
+    "place_id": "ChIJGQYZHb8cDTkRSMi9txx2VvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQYZHb8cDTkRSMi9txx2VvY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:01:35"
+  }
+]

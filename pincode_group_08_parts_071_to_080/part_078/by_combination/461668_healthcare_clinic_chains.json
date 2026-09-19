@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "हेल्थ केयर क्लिनिक",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "461668",
+    "phone_number": "+91 85810 53762",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Phulwari Sharif, Patna, Bihar 801505",
+    "area": "Phulwari Sharif",
+    "latitude": 25.567354599999998,
+    "longitude": 85.0664694,
+    "place_id": "ChIJP8tYlzKo8jkRH-kbGsqZ5P8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP8tYlzKo8jkRH-kbGsqZ5P8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:22:14"
+  },
+  {
+    "business_name": "Health Care Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "461668",
+    "phone_number": "+91 90263 75907",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jalalipura, Varanasi, Uttar Pradesh 221002",
+    "area": "Jalalipura",
+    "latitude": 25.3370288,
+    "longitude": 83.0191438,
+    "place_id": "ChIJBdUiW0EujjkROqkAqqZJLbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBdUiW0EujjkROqkAqqZJLbE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:22:14"
+  }
+]

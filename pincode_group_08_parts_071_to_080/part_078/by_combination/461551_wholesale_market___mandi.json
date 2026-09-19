@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhamashah Mandi",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Wholesale market",
+    "all_categories": "Wholesale market",
+    "pincode": "461551",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 34,
+    "address": "PB3, PB3, Dhanmandi, Rajasthan 324007",
+    "area": "Indraprastha Industrial Area",
+    "latitude": 25.1205945,
+    "longitude": 75.8774335,
+    "place_id": "ChIJadV-lpqFbzkR9jXpcc0z0Rg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJadV-lpqFbzkR9jXpcc0z0Rg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:19:49"
+  },
+  {
+    "business_name": "Mechua Mandi Burra Bazar",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "461551",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "10, Madan Mohan Burman St, Block C, Jorasanko, Kolkata, West Bengal 700007",
+    "area": "Block C, Jorasanko",
+    "latitude": 22.5803261,
+    "longitude": 88.3593173,
+    "place_id": "ChIJE2nOlbN3AjoRAwLzb07crVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE2nOlbN3AjoRAwLzb07crVw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:19:49"
+  }
+]

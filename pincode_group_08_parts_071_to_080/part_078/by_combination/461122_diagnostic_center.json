@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baghel Sonograhy Center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "461122",
+    "phone_number": "+91 76103 43696",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "932Q+WMX baghel sonography centre, in front of janpat office, Harda, Madhya Pradesh 461331",
+    "area": "461122",
+    "latitude": 22.352354599999998,
+    "longitude": 77.08922009999999,
+    "place_id": "ChIJp7usi0hxfTkRC1ivVS_i9bQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp7usi0hxfTkRC1ivVS_i9bQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:04:14"
+  },
+  {
+    "business_name": "Care Diagnostic and Fetal Medicine Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, Mammography service, Medical diagnostic imaging center, Medical laboratory, Women's health clinic, Perinatal center, Pregnancy care center, Radiologist, X-ray lab",
+    "pincode": "461122",
+    "phone_number": "+91 1762 530 901",
+    "website": "https://carediagnostic.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "NH 5, Defence Colony, Zirakpur, Punjab 140604",
+    "area": "Defence Colony",
+    "latitude": 30.6610548,
+    "longitude": 76.8303942,
+    "place_id": "ChIJ2YxiOLSUDzkRnnvpK9q2eaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YxiOLSUDzkRnnvpK9q2eaU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:04:15"
+  }
+]

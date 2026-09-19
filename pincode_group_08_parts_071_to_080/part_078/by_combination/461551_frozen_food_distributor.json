@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ankit Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "461551",
+    "phone_number": "+91 70117 13130",
+    "website": "https://wa.me/c/917011713130",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 38, New Anaj Mandi, Sector-16, Faridabad, Haryana 121002",
+    "area": "New Anaj Mandi, Sector-16",
+    "latitude": 28.4137901,
+    "longitude": 77.31954379999999,
+    "place_id": "ChIJ4ZqbAWfdDDkRjmKVurfFbj0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ZqbAWfdDDkRjmKVurfFbj0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:18:11"
+  },
+  {
+    "business_name": "Choice Frozen Food",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Store",
+    "all_categories": "Store, Cold storage facility, Food Processing Company, Wholesaler",
+    "pincode": "461551",
+    "phone_number": "+91 98255 34800",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H.p. petrol pump lane, 43, swami Industrial society Opp. Gandhi kutir, Udhana - Magdalla Rd, nr. ambica Industrial, Udhana, Surat, Gujarat 395017",
+    "area": "Ambika Industrial Society 2, Udhana",
+    "latitude": 21.161297299999998,
+    "longitude": 72.8193375,
+    "place_id": "ChIJyfWD2SZP4DsRUUb86ZrzzAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyfWD2SZP4DsRUUb86ZrzzAU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:18:12"
+  }
+]

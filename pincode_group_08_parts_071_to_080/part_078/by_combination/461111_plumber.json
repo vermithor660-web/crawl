@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dilip kundan plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "461111",
+    "phone_number": "+91 83770 38034",
+    "website": "https://dilipkundanplumber.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "371, Gali No. 1, near vidhya niketan public school, Devilal Colony, Sector 9, Gurugram, Haryana 122001",
+    "area": "Devilal Colony, Sector 9",
+    "latitude": 28.461020299999998,
+    "longitude": 77.0010642,
+    "place_id": "ChIJ0UZutBYXDTkR2QX2DFnf8ho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0UZutBYXDTkR2QX2DFnf8ho",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:57:37"
+  },
+  {
+    "business_name": "Krishna plumbing electrical services",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "461111",
+    "phone_number": "+91 98713 45787",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "DLF Phase 5, Sector 42, Gurugram, Haryana 122009",
+    "area": "DLF Phase 5, Sector 42",
+    "latitude": 28.4476911,
+    "longitude": 77.09477849999999,
+    "place_id": "ChIJvZVDbTAZDTkReYGoto3pkeQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvZVDbTAZDTkReYGoto3pkeQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:57:37"
+  }
+]

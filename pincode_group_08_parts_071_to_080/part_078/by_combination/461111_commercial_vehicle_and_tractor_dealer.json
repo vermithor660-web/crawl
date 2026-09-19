@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dwarka Tractors",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "461111",
+    "phone_number": "+91 98260 52346",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 7,
+    "address": "Railway Station, Station Rd, Suraj Ganj, Itarsi, Madhya Pradesh 461111",
+    "area": "Suraj Ganj",
+    "latitude": 22.6092279,
+    "longitude": 77.767755,
+    "place_id": "ChIJN1Sh873cfTkRL3mRolUMstA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN1Sh873cfTkRL3mRolUMstA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:57:25"
+  },
+  {
+    "business_name": "Eicher Tractors Dealerships - Raghu Eicher",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer, Auto market, Tractor repair shop",
+    "pincode": "461111",
+    "phone_number": "+91 79 4716 4658",
+    "website": "https://dealers.eichertractors.in/eicher-tractors-raghu-eicher-in-madhya-pradesh-bhopal-kabhadkhana-87014/Home?utm_source=gmbeicher&utm_medium=googlewebsite",
+    "rating": 3.9,
+    "reviews_count": 64,
+    "address": "No.12, H.No.4, near Leelawati Hospital Patwari Halka, Jagdishpur, Bhopal, Madhya Pradesh 462038",
+    "area": "461111",
+    "latitude": 23.3397048,
+    "longitude": 77.4052641,
+    "place_id": "ChIJQRstUn5pfDkRiYMqn_E7uoY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRstUn5pfDkRiYMqn_E7uoY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:57:25"
+  }
+]

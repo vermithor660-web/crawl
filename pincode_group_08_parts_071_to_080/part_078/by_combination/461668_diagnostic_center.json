@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thyrocare Collection Center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "461668",
+    "phone_number": "+91 99775 41786",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 4, Govt Hospital, Road, Bhatgaon, Sohagpur, Madhya Pradesh 461771",
+    "area": "461668",
+    "latitude": 22.6956797,
+    "longitude": 78.19597999999999,
+    "place_id": "ChIJDbQRBC9vfjkRxUUcmPoKsHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDbQRBC9vfjkRxUUcmPoKsHk",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:22:08"
+  },
+  {
+    "business_name": "Pathkind Labs",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, Medical laboratory",
+    "pincode": "461668",
+    "phone_number": "+91 96442 29630",
+    "website": "https://nearby.pathkindlabs.com/pathkind-labs-sohagpur-hoshangabad-32713/home?utm_source=gmb",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Station Road, near Palakmati Bridge, Goutam Ward, Sohagpur, Madhya Pradesh 461771",
+    "area": "Goutam Ward",
+    "latitude": 22.6989833,
+    "longitude": 78.19620739999999,
+    "place_id": "ChIJORt1PApvfjkRQYGVc2tKhNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJORt1PApvfjkRQYGVc2tKhNU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:22:08"
+  }
+]

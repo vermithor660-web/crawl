@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Red Realm Marketing",
+    "search_category": "Social Media Marketing Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Business to business service, Design agency, Graphic designer, Internet marketing service, Marketing consultant, Website designer",
+    "pincode": "461221",
+    "phone_number": "+91 88002 29728",
+    "website": "http://www.redrealm.co.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "B-2, Gurudwara Rd, near Islam Motors, South Extension I, Housing Society, Block C, New Delhi, Delhi 110049",
+    "area": "South Extension I, Housing Society, Block C",
+    "latitude": 28.5693268,
+    "longitude": 77.223213,
+    "place_id": "ChIJwzYjgFziDDkRLr7XEw4fq9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzYjgFziDDkRLr7XEw4fq9o",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:07:08"
+  },
+  {
+    "business_name": "Unikqo - Influencer Marketing Agency",
+    "search_category": "Social Media Marketing Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Internet marketing service",
+    "pincode": "461221",
+    "phone_number": "+91 88003 62887",
+    "website": "https://unikqo.com/",
+    "rating": 4.9,
+    "reviews_count": 59,
+    "address": "3RD FLOOR, Plot No. 211, Okhla Industrial Estate Phase 3 Rd, Okhla Phase III, Okhla Industrial Estate, New Delhi, Delhi, 110020",
+    "area": "Okhla Phase III, Okhla Industrial Estate",
+    "latitude": 28.5518319,
+    "longitude": 77.2687443,
+    "place_id": "ChIJN9v1tO79DDkRnD5rzGTxpts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN9v1tO79DDkRnD5rzGTxpts",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:07:09"
+  }
+]

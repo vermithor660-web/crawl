@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Grid Architects",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "461441",
+    "phone_number": "+91 79 4002 7009",
+    "website": "http://thegrid-arch.com/",
+    "rating": 4.7,
+    "reviews_count": 80,
+    "address": "Ganesh Meridian, C 1008, Vishwas City 1, Chanakyapuri, Ahmedabad, Gujarat 380060",
+    "area": "Vishwas City 1, Chanakyapuri",
+    "latitude": 23.0759777,
+    "longitude": 72.5265208,
+    "place_id": "ChIJjRz6_EuDXjkRbTDfHm-nWN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjRz6_EuDXjkRbTDfHm-nWN4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:15:17"
+  },
+  {
+    "business_name": "Manoj Patel Design Studio",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm, Interior designer",
+    "pincode": "461441",
+    "phone_number": "+91 99243 76644",
+    "website": "http://www.manojpateldesignstudio.com/",
+    "rating": 4.7,
+    "reviews_count": 63,
+    "address": "Gunatit Park, B-71, behind the maa party plot, near Bhim Lake, Atladara, Vadodara, Gujarat 390012",
+    "area": "Mathura Nagri Society, Atladara",
+    "latitude": 22.278292999999998,
+    "longitude": 73.1596368,
+    "place_id": "ChIJuUbP2KzIXzkR9384mFnLPtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuUbP2KzIXzkR9384mFnLPtk",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:15:17"
+  }
+]

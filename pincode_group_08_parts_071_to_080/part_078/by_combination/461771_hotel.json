@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Citrine Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "461771",
+    "phone_number": "+91 97131 11188",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 55,
+    "address": "Pachmari Road, above Bank of Maharastra, Pipariya, Madhya Pradesh 461775",
+    "area": "461771",
+    "latitude": 22.750935,
+    "longitude": 78.3550447,
+    "place_id": "ChIJC_bdlcVDfjkR-QnxZPSH-x0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC_bdlcVDfjkR-QnxZPSH-x0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:24:31"
+  },
+  {
+    "business_name": "Hotel Satpura Inn",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "461771",
+    "phone_number": "+91 94065 45656",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 1016,
+    "address": "Hotel Satpura Inn, Shubhash road, Pachmarhi, Pachmarhi Cantt, Madhya Pradesh 461881",
+    "area": "461771",
+    "latitude": 22.473025999999997,
+    "longitude": 78.4364714,
+    "place_id": "ChIJocGeuxU7fjkR7E1IXdM9TpI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJocGeuxU7fjkR7E1IXdM9TpI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:24:31"
+  }
+]

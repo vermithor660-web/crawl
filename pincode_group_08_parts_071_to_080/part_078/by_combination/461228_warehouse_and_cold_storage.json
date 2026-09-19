@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jolly Ice & Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "461228",
+    "phone_number": "+91 11 4706 5030",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "A18 Block, Lawrence Rd, Shakur Basti, Dr Lohia Industrial Area, Keshav Puram, Tri Nagar, New Delhi, Delhi, 110035",
+    "area": "Shakur Basti, Dr Lohia Industrial Area, Keshav Puram, Tri Nagar",
+    "latitude": 28.6848982,
+    "longitude": 77.1512755,
+    "place_id": "ChIJsyeiNbUDDTkRKnPoLdEWzCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsyeiNbUDDTkRKnPoLdEWzCc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:10:37"
+  },
+  {
+    "business_name": "Marathwada Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "461228",
+    "phone_number": "+91 240 255 5346",
+    "website": "http://marathwadacold.co.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Q5HX+JGQ, Shivrai, Maharashtra 431133",
+    "area": "461228",
+    "latitude": 19.7790789,
+    "longitude": 75.1988738,
+    "place_id": "ChIJ856Uh42d2zsRpdpAovvyxKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ856Uh42d2zsRpdpAovvyxKA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:10:37"
+  }
+]

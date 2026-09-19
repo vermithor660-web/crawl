@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DS Haire Salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "461335",
+    "phone_number": "+91 83497 44713",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "09, Harda, Madhya Pradesh 461331",
+    "area": "461335",
+    "latitude": 22.337929,
+    "longitude": 77.08976849999999,
+    "place_id": "ChIJdVCHjDdxfTkRRPYsq_XUbj0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdVCHjDdxfTkRRPYsq_XUbj0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:13:32"
+  },
+  {
+    "business_name": "Hair Style Selun",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "461335",
+    "phone_number": "+91 81097 06330",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Btl, Masangaon, Madhya Pradesh 461331",
+    "area": "461335",
+    "latitude": 22.3361575,
+    "longitude": 77.09358019999999,
+    "place_id": "ChIJJ6bQXMFxfTkRfgE0wvfZg8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6bQXMFxfTkRfgE0wvfZg8I",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:13:32"
+  }
+]

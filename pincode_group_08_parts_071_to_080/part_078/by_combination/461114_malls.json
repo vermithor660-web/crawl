@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eva The Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "461114",
+    "phone_number": "+91 81419 97777",
+    "website": "http://evathemall.com/",
+    "rating": 4.4,
+    "reviews_count": 22716,
+    "address": "Saraswati Complex, Vrajdham Mandir Rd, Vaishnavdevi society, Manjalpur, Vadodara, Gujarat 390011",
+    "area": "Vaishnavdevi society, Manjalpur",
+    "latitude": 22.273391999999998,
+    "longitude": 73.188791,
+    "place_id": "ChIJ7ZHAKdzFXzkR1XQtaznZNIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7ZHAKdzFXzkR1XQtaznZNIw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:00:15"
+  },
+  {
+    "business_name": "Pacific D21 Mall",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "461114",
+    "phone_number": "+91 88006 93480",
+    "website": "https://www.pacificmalls.in/dwarka/",
+    "rating": 4.5,
+    "reviews_count": 9146,
+    "address": "Dwarka Sector 21 Metro Station, Dwarka, Delhi, 110077",
+    "area": "Sector 21, Dwarka",
+    "latitude": 28.5523641,
+    "longitude": 77.0578712,
+    "place_id": "ChIJoQmL2Q8bDTkRIncbxmSl9rg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoQmL2Q8bDTkRIncbxmSl9rg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:00:15"
+  }
+]

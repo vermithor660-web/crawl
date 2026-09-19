@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SANGHARSH POLYCLINIC",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "461441",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Charuwa, Madhya Pradesh 461441",
+    "area": "461441",
+    "latitude": 22.1099556,
+    "longitude": 76.910704,
+    "place_id": "ChIJRXIxCvNhfTkRJJxvVoqpsyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRXIxCvNhfTkRJJxvVoqpsyo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:14:55"
+  },
+  {
+    "business_name": "Dr. Anshul Taran Spine Joint Pain Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Pain management physician",
+    "all_categories": "Pain management physician, Doctor, Pain control clinic, Sports medicine physician",
+    "pincode": "461441",
+    "phone_number": "+91 89812 83208",
+    "website": "https://www.spinejointpainclinic.com/",
+    "rating": 4.9,
+    "reviews_count": 242,
+    "address": "94, Mangalwara Rd, near Mangalwara Thana, Mangalwara, Ghora Nakkas, Peer Gate Area, Bhopal, Madhya Pradesh 462001",
+    "area": "Mangalwara, Ghora Nakkas, Peer Gate Area",
+    "latitude": 23.261563199999998,
+    "longitude": 77.4059777,
+    "place_id": "ChIJ62KFK-lpfDkR41Q62v13INE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62KFK-lpfDkR41Q62v13INE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:14:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Absolute Wellness",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "461122",
+    "phone_number": "+91 755 357 3604",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "HIG - 139, Housing Board, E-7, Arera Colony, Bhopal, Madhya Pradesh 462016",
+    "area": "E-7, Arera Colony",
+    "latitude": 23.211432,
+    "longitude": 77.4348007,
+    "place_id": "ChIJ2aArNKVDfDkR23psLYZaqOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2aArNKVDfDkR23psLYZaqOs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:04:39"
+  },
+  {
+    "business_name": "Thai Aroma Wellness Centre Family Salon and Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "461122",
+    "phone_number": "+91 89594 84866",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Minal Shopping Street, Shop No. 16, Raj Avenue, 2, near JK Road, Bhopal, Madhya Pradesh 462023",
+    "area": "Minal Residency",
+    "latitude": 23.272042,
+    "longitude": 77.458962,
+    "place_id": "ChIJ_zC90_FpfDkRLjKsPu5YRk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_zC90_FpfDkRLjKsPu5YRk4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:04:39"
+  }
+]

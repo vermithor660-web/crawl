@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KM Rice Agency",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Food broker",
+    "all_categories": "Food broker, Rice shop",
+    "pincode": "461661",
+    "phone_number": "+91 91555 96910",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "C/O - Madan Mohan Singh, Mani Bhawan, Gola Rd, opp. Chappan Bhog Sweets, Danapur, Bihar 801503",
+    "area": "Ramjaipal Nagar",
+    "latitude": 25.6170008,
+    "longitude": 85.0567423,
+    "place_id": "ChIJXyKB6ldW7TkROB_lXOYbrGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXyKB6ldW7TkROB_lXOYbrGM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:19:54"
+  },
+  {
+    "business_name": "Agri Mall ( Samriddhi Organic Agro Biotech",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Agricultural Product Wholesaler",
+    "all_categories": "Agricultural Product Wholesaler, Agricultural service, Agricultural Seed Store",
+    "pincode": "461661",
+    "phone_number": "+91 93995 00173",
+    "website": "http://www.agrimall.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Devdhar Complex, 201, Chhawni, Indore, Madhya Pradesh 452001",
+    "area": "Chhawni",
+    "latitude": 22.7115838,
+    "longitude": 75.87043369999999,
+    "place_id": "ChIJU5Gwa1z9YjkRyUfynUxb8ZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU5Gwa1z9YjkRyUfynUxb8ZM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:19:55"
+  }
+]

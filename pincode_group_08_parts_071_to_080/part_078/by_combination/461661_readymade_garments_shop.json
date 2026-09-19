@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashok Readymade",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "461661",
+    "phone_number": "+91 97133 03581",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Balaji Mandir Road, opposite Bust Saand, Babai, Madhya Pradesh 461661",
+    "area": "461661",
+    "latitude": 22.702428299999998,
+    "longitude": 77.93509929999999,
+    "place_id": "ChIJwwxx9Nt3fjkRH0nJrPTCMIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwwxx9Nt3fjkRH0nJrPTCMIY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:20:05"
+  },
+  {
+    "business_name": "Piyushgarment",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "461661",
+    "phone_number": "+91 62606 73454",
+    "website": "https://omvantage-ai.github.io/piyush-garments/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "sarkari hospital ke, Near nasirabad chouraha, samne main road, makhan nagar, Babai, Madhya Pradesh 461661",
+    "area": "makhan nagar",
+    "latitude": 22.7044322,
+    "longitude": 77.93428589999999,
+    "place_id": "ChIJQ_Ie0Ld3fjkR72NN9ULxIxU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ_Ie0Ld3fjkR72NN9ULxIxU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:20:05"
+  }
+]

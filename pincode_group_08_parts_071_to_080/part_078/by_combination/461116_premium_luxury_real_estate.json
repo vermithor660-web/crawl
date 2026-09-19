@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apartment For Sale",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate rental agency",
+    "all_categories": "Real estate rental agency",
+    "pincode": "461116",
+    "phone_number": "+91 79870 25005",
+    "website": "https://flats99.com/",
+    "rating": 2.5,
+    "reviews_count": 4,
+    "address": "123, Near Sargam Cinema, Zone-II, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "Near Sargam Cinema, Zone-II, Maharana Pratap Nagar",
+    "latitude": 23.2283036,
+    "longitude": 77.43648879999999,
+    "place_id": "ChIJqWwhjBlDfDkRaBpPbtCmoBc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqWwhjBlDfDkRaBpPbtCmoBc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:03:29"
+  },
+  {
+    "business_name": "SOBHA Infinia",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "461116",
+    "phone_number": "+91 80 4646 4500",
+    "website": "http://www.sobha.com/",
+    "rating": 4,
+    "reviews_count": 143,
+    "address": "Sarjapur Main Rd, Jakkasandra Extension, 1st Block Koramangala, Koramangala, Bengaluru, Karnataka 560102",
+    "area": "Jakkasandra Extension, 1st Block Koramangala, Koramangala",
+    "latitude": 12.9256528,
+    "longitude": 77.6498309,
+    "place_id": "ChIJcx8p11sVrjsRmrkTf4-h9X8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcx8p11sVrjsRmrkTf4-h9X8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:03:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Repairing Center",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Washer & dryer repair service",
+    "all_categories": "Washer & dryer repair service, Microwave oven repair service, Refrigerator repair service",
+    "pincode": "461775",
+    "phone_number": "+91 99584 93527",
+    "website": "https://repairingcenter.in/",
+    "rating": 4.9,
+    "reviews_count": 321,
+    "address": "113, Sarai Shahji, Panchsheel Vihar, Khirki Extension, Malviya Nagar, New Delhi, Delhi 110017",
+    "area": "Sarai Shahji, Panchsheel Vihar, Khirki Extension, Malviya Nagar",
+    "latitude": 28.5346193,
+    "longitude": 77.2186796,
+    "place_id": "ChIJMflQoBrjDDkRp2Ruh4p70c0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMflQoBrjDDkRp2Ruh4p70c0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:26:01"
+  },
+  {
+    "business_name": "Somya Enterprise",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service, Air conditioning repair service, Microwave oven repair service, Washer & dryer repair service",
+    "pincode": "461775",
+    "phone_number": "+91 77779 30390",
+    "website": "https://somyawashingmachinerepair.in/",
+    "rating": 4.9,
+    "reviews_count": 90,
+    "address": "Shop Number 5, Bhumi Shopping Center, near Gopal Chowk Road, Venugopal Society, Nikol, Ahmedabad, Gujarat 380049",
+    "area": "Venugopal Society, Nikol",
+    "latitude": 23.0471157,
+    "longitude": 72.66012049999999,
+    "place_id": "ChIJCcmO9iiHXjkRJMJN-36MBFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCcmO9iiHXjkRJMJN-36MBFQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:26:02"
+  }
+]

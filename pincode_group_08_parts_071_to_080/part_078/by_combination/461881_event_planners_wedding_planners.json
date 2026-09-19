@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vivah Luxury Weddings",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event venue, Wedding service, Wedding venue",
+    "pincode": "461881",
+    "phone_number": "+91 99992 78742",
+    "website": "http://www.vivahluxuryweddings.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2nd Floor Block E, 3, Rani Jhansi Rd, Jhandewalan, Block E 4, Jhandewalan Extension, Karol Bagh, New Delhi, Delhi 110055",
+    "area": "Jhandewalan, Block E 4, Jhandewalan Extension, Karol Bagh",
+    "latitude": 28.6455299,
+    "longitude": 77.2042343,
+    "place_id": "ChIJLZTdqVr9DDkRGdZ1ElYUX_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZTdqVr9DDkRGdZ1ElYUX_o",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:28:01"
+  },
+  {
+    "business_name": "The Wedding Design Company | Backstage Productions Pvt. Ltd",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "461881",
+    "phone_number": "+91 11 4355 4400",
+    "website": "http://www.wdcindia.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Ground Floor, 63/2, Masjid Rd, Bhogal, Jangpura, New Delhi, Delhi 110014",
+    "area": "Bhogal, Jangpura",
+    "latitude": 28.5806489,
+    "longitude": 77.2485971,
+    "place_id": "ChIJ1cj7fAfjDDkRF0qSW2ZR6ao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1cj7fAfjDDkRF0qSW2ZR6ao",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:28:01"
+  }
+]

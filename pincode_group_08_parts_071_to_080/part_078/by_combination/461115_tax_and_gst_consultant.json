@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Tax Consultant",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant, Tax collector's office, Tax preparation service",
+    "pincode": "461115",
+    "phone_number": "+91 99533 10970",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Deep Public School, RZF-54, Sitapuri Rd, Near New, Part - II, Block H, Sitapuri Part 2, Sitapuri, Delhi, 110059",
+    "area": "Near New, Part - II, Block H, Sitapuri Part 2, Sitapuri",
+    "latitude": 28.610272,
+    "longitude": 77.07882699999999,
+    "place_id": "ChIJwQqdUjUbDTkRIZvypX-v6Kc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQqdUjUbDTkRIZvypX-v6Kc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:01:37"
+  },
+  {
+    "business_name": "Finance And Tax Guide - Accounting Firm",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm, Service establishment",
+    "pincode": "461115",
+    "phone_number": "+91 84859 72798",
+    "website": "https://financeandtaxguide.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Finance And Tax Guide - Accounting Firm, 461115, India",
+    "area": "461115",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJQ6MCKGfCyAAR_61BDZ0bJFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ6MCKGfCyAAR_61BDZ0bJFs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:01:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pooja Stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "461881",
+    "phone_number": "+91 94066 28351",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Arvind Marg, jawahar chowk, Pachmarhi, Pachmarhi Cantt, Madhya Pradesh 461881",
+    "area": "jawahar chowk",
+    "latitude": 22.473760799999997,
+    "longitude": 78.4371441,
+    "place_id": "ChIJI2RAhjE6fjkR8x728mAJO4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI2RAhjE6fjkR8x728mAJO4Q",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:28:14"
+  },
+  {
+    "business_name": "Vidya Store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "461881",
+    "phone_number": "+91 93120 49973",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "C-8/3, Block C, Yamuna Vihar, Shahdara, Delhi, 110053",
+    "area": "Block C, Yamuna Vihar, Shahdara",
+    "latitude": 28.7009185,
+    "longitude": 77.2742118,
+    "place_id": "ChIJ-5X3QGz8DDkRFP5zWJlRr9k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-5X3QGz8DDkRFP5zWJlRr9k",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:28:15"
+  }
+]

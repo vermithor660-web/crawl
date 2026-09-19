@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satpura Safari Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Resort hotel",
+    "pincode": "461668",
+    "phone_number": "+91 94256 86772",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Tahsil, Madai Village Sarangpur, Sohagpur, Madhya Pradesh 461771",
+    "area": "461668",
+    "latitude": 22.5836583,
+    "longitude": 78.14078669999999,
+    "place_id": "ChIJS6wy63FzfjkRO3SzSHjN3wU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS6wy63FzfjkRO3SzSHjN3wU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:22:44"
+  },
+  {
+    "business_name": "DREAM VIEW HERITAGE",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "461668",
+    "phone_number": "+91 93291 97477",
+    "website": "http://dreamviewresortmadhai.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "DREAM VIEW HERITAGE RESORT MADHAI NEAR SATPURA NATIONAL PARK GATE VILL- SARANGPUR POST, TEH, SOHAGPUR, Kamti, Madai, Madhya Pradesh 461771",
+    "area": "SOHAGPUR",
+    "latitude": 22.5766399,
+    "longitude": 78.1434139,
+    "place_id": "ChIJyXrIPdZzfjkRwjKR9bcCmZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXrIPdZzfjkRwjKR9bcCmZg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:22:44"
+  }
+]

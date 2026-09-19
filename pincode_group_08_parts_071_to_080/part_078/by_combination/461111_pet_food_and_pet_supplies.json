@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Bhagwati Traders",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "461111",
+    "phone_number": "+91 88398 00799",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gandhi Nagar, Itarsi, Madhya Pradesh 461111",
+    "area": "Gandhi Nagar",
+    "latitude": 22.6155388,
+    "longitude": 77.7648866,
+    "place_id": "ChIJkXrkUYTdfTkRhCf0m27uh9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkXrkUYTdfTkRhCf0m27uh9s",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:56:54"
+  },
+  {
+    "business_name": "Jagdamba medical agency",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet store, Pharmacy",
+    "pincode": "461111",
+    "phone_number": "+91 88397 75873",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Suraj Ganj, Itarsi, Madhya Pradesh 461111",
+    "area": "Suraj Ganj",
+    "latitude": 22.6168715,
+    "longitude": 77.76487589999999,
+    "place_id": "ChIJTZTJLQDdfTkRt-hTGaAPzCE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTZTJLQDdfTkRt-hTGaAPzCE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:56:54"
+  }
+]

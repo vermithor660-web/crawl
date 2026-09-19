@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kidfully Baby Store",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store, Baby clothing store, Childrens Store, Clothing store, Gift basket store, Gift shop, Toy store",
+    "pincode": "461881",
+    "phone_number": "+91 88517 67586",
+    "website": "https://www.instagram.com/kidfully_janakpuri/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "A-3/231, Bakington, Janakpuri, Delhi, 110058",
+    "area": "Bakington, Janakpuri",
+    "latitude": 28.623905599999997,
+    "longitude": 77.07996659999999,
+    "place_id": "ChIJa2S9I0YFDTkRT5oOUmCaHXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa2S9I0YFDTkRT5oOUmCaHXs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:27:16"
+  },
+  {
+    "business_name": "NEW Shilpi Fashion",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Clothes and fabric wholesaler",
+    "pincode": "461881",
+    "phone_number": "+91 99904 04733",
+    "website": "https://youtube.com/@Shilpifashions?si=Brmg13WrvHn4T4Z0",
+    "rating": 4.3,
+    "reviews_count": 59,
+    "address": "9/397, Bageechi Harphool Singh (Panditon Waali Gali - Gate No. 1 From Pushta Road, Subhash Rd, Gandhi Nagar, Delhi, 110031",
+    "area": "Gandhi Nagar",
+    "latitude": 28.6604533,
+    "longitude": 77.2612426,
+    "place_id": "ChIJjzRdEe38DDkRcS37wayvok4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjzRdEe38DDkRcS37wayvok4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:27:17"
+  }
+]

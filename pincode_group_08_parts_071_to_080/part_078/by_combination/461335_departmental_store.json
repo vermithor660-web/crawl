@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samir Shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "461335",
+    "phone_number": "+91 93996 70100",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "04, Harda, Madhya Pradesh 461335",
+    "area": "461335",
+    "latitude": 22.1518046,
+    "longitude": 77.0649213,
+    "place_id": "ChIJ27bly119fTkRHDvaT-8fQuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ27bly119fTkRHDvaT-8fQuA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:12:38"
+  },
+  {
+    "business_name": "Gurjar Home Industries",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "461335",
+    "phone_number": "+91 79877 34257",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "99, Main Market, Harda, Kamtada, Madhya Pradesh 461331",
+    "area": "461335",
+    "latitude": 22.250013499999998,
+    "longitude": 76.996527,
+    "place_id": "ChIJn0kmPx5lfTkRAwWPtrl7HY8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn0kmPx5lfTkRAwWPtrl7HY8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:12:39"
+  }
+]

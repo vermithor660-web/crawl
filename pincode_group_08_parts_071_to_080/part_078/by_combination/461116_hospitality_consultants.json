@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vainsh HR International",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting",
+    "pincode": "461116",
+    "phone_number": "+91 11 4905 5055",
+    "website": "https://vhri.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "M1, 1st floor, Gupta Plaza, Shaheed Rajguru Marg, opposite Kerala School, Site- 3, Block M, Vikaspuri, New Delhi, Delhi, 110018",
+    "area": "Site- 3, Block M, Vikaspuri",
+    "latitude": 28.6333411,
+    "longitude": 77.0762779,
+    "place_id": "ChIJPxGofuoEDTkRuXbZJOAbqqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPxGofuoEDTkRuXbZJOAbqqo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:03:07"
+  },
+  {
+    "business_name": "RB Hotel Consultants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "461116",
+    "phone_number": "+91 96902 27009",
+    "website": "https://www.rbhotelconsultants.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RB Hotel Consultants, 461116, India",
+    "area": "461116",
+    "latitude": 23.001548399999997,
+    "longitude": 5.1233103,
+    "place_id": "ChIJcUPIXKuWvakRq_UAfqRCSEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcUPIXKuWvakRq_UAfqRCSEA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:03:07"
+  }
+]

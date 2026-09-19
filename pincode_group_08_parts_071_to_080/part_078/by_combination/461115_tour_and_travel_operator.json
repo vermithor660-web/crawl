@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nirvana Tourism Pvt. Ltd",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "461115",
+    "phone_number": "+91 97111 53543",
+    "website": "https://nirvanatourism.in/",
+    "rating": 4.9,
+    "reviews_count": 14,
+    "address": "Ground Floor, C-25, Nangal Dewat, Sector D, Vasant Kunj, New Delhi, Delhi 110070",
+    "area": "Nangal Dewat, Sector D, Vasant Kunj",
+    "latitude": 28.5239221,
+    "longitude": 77.1397188,
+    "place_id": "ChIJO-kzgccfDTkR0yJJi4Ts-wA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO-kzgccfDTkR0yJJi4Ts-wA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:00:57"
+  },
+  {
+    "business_name": "Sushant Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Hotel, Tour agency, Tour operator, Tourist attraction, Tourist information center",
+    "pincode": "461115",
+    "phone_number": "+91 99997 06194",
+    "website": "http://www.sushanttravels.com/",
+    "rating": 4.8,
+    "reviews_count": 282,
+    "address": "5125, Main Bazar Rd, Bharat Nagar, Paharganj, New Delhi, Delhi 110055",
+    "area": "Bharat Nagar, Paharganj",
+    "latitude": 28.6406641,
+    "longitude": 77.2112657,
+    "place_id": "ChIJ03y3RAT9DDkRpNRSAFbNN4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ03y3RAT9DDkRpNRSAFbNN4s",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:00:57"
+  }
+]

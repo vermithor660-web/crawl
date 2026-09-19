@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mom's fast food",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "460665",
+    "phone_number": "+91 62631 23856",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Gurudwara Rd, opposite hotel ramkrishna, Ganj, Betul, Madhya Pradesh 460001",
+    "area": "Ganj",
+    "latitude": 21.9011118,
+    "longitude": 77.89642549999999,
+    "place_id": "ChIJ2YC0V8YJ1jsRL553vLqFiGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YC0V8YJ1jsRL553vLqFiGA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:46:53"
+  },
+  {
+    "business_name": "Level 3",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Bar, Pub",
+    "pincode": "460665",
+    "phone_number": "+91 97548 56011",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Balajipuram road, Betul, Hanotiya, Madhya Pradesh 460004",
+    "area": "460665",
+    "latitude": 21.8691875,
+    "longitude": 77.9213125,
+    "place_id": "ChIJcYfkLloL1jsR2wPEG7K0Rf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcYfkLloL1jsR2wPEG7K0Rf0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:46:54"
+  }
+]

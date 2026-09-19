@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Capri Hospitality Services Pvt. Ltd.",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "461775",
+    "phone_number": "+91 731 256 3565",
+    "website": "https://www.caprihospitality.com/",
+    "rating": 2.8,
+    "reviews_count": 13,
+    "address": "207, Navneet Plaza, Old Palasia, Indore, Madhya Pradesh 452018",
+    "area": "Old Palasia",
+    "latitude": 22.7256525,
+    "longitude": 75.8916289,
+    "place_id": "ChIJtdBfMjb9YjkRfYB0-arP_jQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtdBfMjb9YjkRfYB0-arP_jQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:26:20"
+  },
+  {
+    "business_name": "Hotels Pachmarhi Travels",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Hotel, Resort hotel, Sightseeing Tour Operator, Support group, Tour operator, Wildlife and safari park",
+    "pincode": "461775",
+    "phone_number": "+91 94066 21993",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Babu line civil area, Pachmarhi, Madhya Pradesh 461881",
+    "area": "461775",
+    "latitude": 22.474752499999997,
+    "longitude": 78.4274875,
+    "place_id": "ChIJAzCsv4A7fjkR38TQgtQRF8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAzCsv4A7fjkR38TQgtQRF8c",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:26:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Romi Beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "461111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 13,
+    "address": "JQ57+QVP, Gandhi Nagar, Itarsi, Madhya Pradesh 461111",
+    "area": "Gandhi Nagar",
+    "latitude": 22.6094618,
+    "longitude": 77.7646891,
+    "place_id": "ChIJyfOTLYXdfTkROAFr8Q5kdFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyfOTLYXdfTkROAFr8Q5kdFw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:57:43"
+  },
+  {
+    "business_name": "Shree gurukripa beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Barber shop",
+    "pincode": "461111",
+    "phone_number": "+91 97704 57417",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "NH 69 old itarsi, Itarsi, Madhya Pradesh 461111",
+    "area": "Purani Itarsi",
+    "latitude": 22.6062923,
+    "longitude": 77.7769654,
+    "place_id": "ChIJ2SQSYn3dfTkRy9Sa6eSqp60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2SQSYn3dfTkRy9Sa6eSqp60",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:57:43"
+  }
+]

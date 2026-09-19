@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sukoon Villa",
+    "search_category": "Hotel",
+    "primary_category": "Villa",
+    "all_categories": "Villa, Hotel, Resort hotel",
+    "pincode": "461122",
+    "phone_number": "N/A",
+    "website": "https://sukoonvilla.in/",
+    "rating": 4.4,
+    "reviews_count": 24,
+    "address": "National Higway 69, Kesla, Kaveli, Madhya Pradesh 461111",
+    "area": "461122",
+    "latitude": 22.517467399999997,
+    "longitude": 77.8233297,
+    "place_id": "ChIJNbxH7pDhfTkRdaIHwKFHBPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNbxH7pDhfTkRdaIHwKFHBPA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:04:47"
+  },
+  {
+    "business_name": "Capital O 48714 Tawa Plaza",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "461122",
+    "phone_number": "+91 124 620 1515",
+    "website": "https://www.oyorooms.com/78626/",
+    "rating": 3.7,
+    "reviews_count": 110,
+    "address": "beside Hotel Platinum, Itarsi, Madhya Pradesh 461111",
+    "area": "461122",
+    "latitude": 22.648284,
+    "longitude": 77.76682199999999,
+    "place_id": "ChIJnSZEs7PbfTkRILaghxd-5GM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnSZEs7PbfTkRILaghxd-5GM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:04:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smile Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "461115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "JQ78+95Q, Gandhi Nagar, Itarsi, Madhya Pradesh 461111",
+    "area": "Gandhi Nagar",
+    "latitude": 22.6134705,
+    "longitude": 77.7654831,
+    "place_id": "ChIJ_3m6VgPdfTkRVau0Q5XkVJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_3m6VgPdfTkRVau0Q5XkVJI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:00:45"
+  },
+  {
+    "business_name": "Patel Dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "461115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JQ74+PFC, Sabji Bazar, beside ICE Factory, near Sani mandir, Ward Number 17, Gandhi Nagar, Itarsi, Madhya Pradesh 461111",
+    "area": "Ward Number 17, Gandhi Nagar",
+    "latitude": 22.614315299999998,
+    "longitude": 77.7561346,
+    "place_id": "ChIJ5Xjwf0_dfTkRd7E4FSOtwlQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Xjwf0_dfTkRd7E4FSOtwlQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:00:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hornwill Ice Cream Factory",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "461122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 25,
+    "address": "Unnamed Road, Taprian Dyal Singh, Punjab 140111",
+    "area": "461122",
+    "latitude": 30.9246293,
+    "longitude": 76.3784709,
+    "place_id": "ChIJab6VcfCrGjkRhpMRiaO-U6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJab6VcfCrGjkRhpMRiaO-U6E",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:03:59"
+  },
+  {
+    "business_name": "Top N Town Ice Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "461122",
+    "phone_number": "N/A",
+    "website": "https://www.topntown.com/",
+    "rating": 4.6,
+    "reviews_count": 9,
+    "address": "2nd Floor, Aashima Mall, Narmadapuram Rd, Food Court, Danish Nagar, Bawaria Kalan, Bhopal, Madhya Pradesh 462026",
+    "area": "Food Court, Danish Nagar, Bawaria Kalan",
+    "latitude": 23.185788799999997,
+    "longitude": 77.45559829999999,
+    "place_id": "ChIJ8xr05OhDfDkRylJHePGPNQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8xr05OhDfDkRylJHePGPNQE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:03:59"
+  }
+]

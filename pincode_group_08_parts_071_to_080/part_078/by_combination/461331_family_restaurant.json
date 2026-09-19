@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree sukham bhojanalay",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "461331",
+    "phone_number": "+91 89595 29211",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Bus, Bus, Station Rd, near GP Mall, beside Mufti Showroom, Harda, Madhya Pradesh 461331",
+    "area": "461331",
+    "latitude": 22.3404168,
+    "longitude": 77.0943401,
+    "place_id": "ChIJ6WzwBQBxfTkRZe29-8LFY84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6WzwBQBxfTkRZe29-8LFY84",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:11:03"
+  },
+  {
+    "business_name": "Monday delight ofc",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Soup kitchen",
+    "pincode": "461331",
+    "phone_number": "+91 91112 18877",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near pragati vidhya peeth school, pathak colony, Harda, Madhya Pradesh 461331",
+    "area": "pathak colony",
+    "latitude": 22.348145499999998,
+    "longitude": 77.0956511,
+    "place_id": "ChIJWU73JgBxfTkRj5P42Vwc3P0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWU73JgBxfTkRj5P42Vwc3P0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:11:06"
+  }
+]

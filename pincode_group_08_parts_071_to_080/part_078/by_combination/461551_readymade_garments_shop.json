@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "India Readymade Shop",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "461551",
+    "phone_number": "+91 92729 01642",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 8, Parivartan Chauk, Muktainagar, Maharashtra 425306",
+    "area": "461551",
+    "latitude": 21.046098699999998,
+    "longitude": 76.0612123,
+    "place_id": "ChIJH1aoQoC52TsR9MzUPmNsLII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH1aoQoC52TsR9MzUPmNsLII",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:18:19"
+  },
+  {
+    "business_name": "Top Readymades",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "461551",
+    "phone_number": "+91 460 220 6970",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "29Q5+2J6, Taliparamba, Keralam 670141",
+    "area": "461551",
+    "latitude": 12.0375459,
+    "longitude": 75.359023,
+    "place_id": "ChIJQ8YSy_M_pDsRkFyRLnx8Wi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ8YSy_M_pDsRkFyRLnx8Wi4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:18:19"
+  }
+]

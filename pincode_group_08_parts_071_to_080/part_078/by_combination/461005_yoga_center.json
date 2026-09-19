@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tatvamasi Yoga",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga instructor",
+    "all_categories": "Yoga instructor, Service establishment",
+    "pincode": "461005",
+    "phone_number": "+91 93550 22333",
+    "website": "http://www.tatvamasiyoga.com/",
+    "rating": 4.9,
+    "reviews_count": 365,
+    "address": "Tatvamasi Yoga, 461005, India",
+    "area": "461005",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJOaW5SgwxLisRx_hoY6vnpPs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOaW5SgwxLisRx_hoY6vnpPs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:53:52"
+  },
+  {
+    "business_name": "Gurukripa Yoga classes",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "461005",
+    "phone_number": "+91 96498 48702",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 146,
+    "address": "Anand Bhawan, Ramdwara, Bache Ki Gali, near Clock Tower, near gulabsagar, Gulab Sagar, Jodhpur, Rajasthan 342001",
+    "area": "Gulab Sagar",
+    "latitude": 26.298139799999998,
+    "longitude": 73.0255617,
+    "place_id": "ChIJ02njMtCNQTkRfmWqMwf7p6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02njMtCNQTkRfmWqMwf7p6w",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:53:52"
+  }
+]

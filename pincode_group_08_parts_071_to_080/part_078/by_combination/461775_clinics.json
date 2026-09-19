@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suresh Medical Store",
+    "search_category": "Clinics",
+    "primary_category": "Medical group",
+    "all_categories": "Medical group",
+    "pincode": "461775",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Q944+C38, Pipariya, Madhya Pradesh 461775",
+    "area": "461775",
+    "latitude": 22.7560495,
+    "longitude": 78.3551987,
+    "place_id": "ChIJOZJUNjFDfjkRBN-QW-SKkNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZJUNjFDfjkRBN-QW-SKkNQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:25:40"
+  },
+  {
+    "business_name": "Samarth Clinuc",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "461775",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Q86X+VF8, SHOBHAPUR ROAD, near New Bus Stand, Chourasiya Colony, Pipariya, Madhya Pradesh 461775",
+    "area": "Chourasiya Colony",
+    "latitude": 22.762166099999998,
+    "longitude": 78.34869549999999,
+    "place_id": "ChIJLYyIRy1DfjkRMjpm0CYgnqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLYyIRy1DfjkRMjpm0CYgnqk",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:25:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ecom Express",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "460666",
+    "phone_number": "+91 83768 88888",
+    "website": "https://ecomexpress.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Q7J2+MWW, Multai, Madhya Pradesh 460661",
+    "area": "460666",
+    "latitude": 21.781737399999997,
+    "longitude": 78.2523326,
+    "place_id": "ChIJTU-MHFfB1TsRvoVgtyASbjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTU-MHFfB1TsRvoVgtyASbjo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:48:58"
+  },
+  {
+    "business_name": "Best Enterprises Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "460666",
+    "phone_number": "+91 98728 74082",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lakhi Colony, Barnala, Punjab 148101",
+    "area": "Lakhi Colony",
+    "latitude": 30.3595525,
+    "longitude": 75.5363069,
+    "place_id": "ChIJ8Z8ih_jxEDkRfjexhKYYEMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Z8ih_jxEDkRfjexhKYYEMw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:48:58"
+  }
+]

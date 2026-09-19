@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree annam",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "461111",
+    "phone_number": "+91 62601 32668",
+    "website": "https://shreeannam.in/",
+    "rating": 5,
+    "reviews_count": 33,
+    "address": "Gali no. 4, near Hinglaj Bakery, Sindhi Colony, Itarsi, Madhya Pradesh 461111",
+    "area": "Sindhi Colony",
+    "latitude": 22.614761899999998,
+    "longitude": 77.7653258,
+    "place_id": "ChIJdwOu5qzdfTkReowG7lDjER0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdwOu5qzdfTkReowG7lDjER0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:56:58"
+  },
+  {
+    "business_name": "Hotel Shri-Nivas",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bed & breakfast, Coffee shop, Fast food restaurant, Meal delivery, Punjabi restaurant, South Indian restaurant, Vegetarian restaurant, Wi-Fi spot",
+    "pincode": "461111",
+    "phone_number": "+91 91651 12318",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 413,
+    "address": "Railway, Station Rd, Suraj Ganj, Itarsi, Madhya Pradesh 461111",
+    "area": "Suraj Ganj",
+    "latitude": 22.6092347,
+    "longitude": 77.7679199,
+    "place_id": "ChIJ50kR9b3cfTkR7-cYAtvn57I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ50kR9b3cfTkR7-cYAtvn57I",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:56:58"
+  }
+]

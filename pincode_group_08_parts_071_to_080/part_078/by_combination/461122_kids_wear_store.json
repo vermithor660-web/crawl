@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gandharvi Kids Mart",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "461122",
+    "phone_number": "+91 77238 71265",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "467, Tilak Nagar Main Rd, Near Mangal Shree, Sector A, apartment, Indore, Madhya Pradesh 452018",
+    "area": "Near Mangal Shree, Sector A, apartment",
+    "latitude": 22.7187415,
+    "longitude": 75.8997292,
+    "place_id": "ChIJg4qZV8_9YjkRWsL5UPNtQJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg4qZV8_9YjkRWsL5UPNtQJ0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:04:03"
+  },
+  {
+    "business_name": "Kids Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "461122",
+    "phone_number": "+91 97025 88366",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Counter Market, New Market, STT Nagar, TT Nagar, Bhopal, Madhya Pradesh 462003",
+    "area": "Counter Market, New Market, STT Nagar, TT Nagar",
+    "latitude": 23.2351463,
+    "longitude": 77.3996592,
+    "place_id": "ChIJO9MhzPZDfDkRew9Io0z32qI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO9MhzPZDfDkRew9Io0z32qI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:04:03"
+  }
+]

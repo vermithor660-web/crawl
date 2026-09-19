@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madhur Courier Services",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "461775",
+    "phone_number": "N/A",
+    "website": "http://madhurcouriers.in/",
+    "rating": 3.8,
+    "reviews_count": 27,
+    "address": "262J+P8X, BMO Colony, Bareli, Madhya Pradesh 464665",
+    "area": "BMO Colony",
+    "latitude": 23.0018502,
+    "longitude": 78.2308729,
+    "place_id": "ChIJq1MIHLqLfjkRCrIAwtb6KXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq1MIHLqLfjkRCrIAwtb6KXA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:26:37"
+  },
+  {
+    "business_name": "Delhivery Private Limited",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Logistics service",
+    "pincode": "461775",
+    "phone_number": "+91 99933 80437",
+    "website": "http://www.delhivery.com/",
+    "rating": 2.3,
+    "reviews_count": 31,
+    "address": "Shop No 1,Shiva Garden Besides Shivaji ITI, Bareli, Madhya Pradesh 464665",
+    "area": "461775",
+    "latitude": 23.0171556,
+    "longitude": 78.2456256,
+    "place_id": "ChIJJdAZcUyLfjkR3GrqqNl6e2w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdAZcUyLfjkR3GrqqNl6e2w",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:26:38"
+  }
+]

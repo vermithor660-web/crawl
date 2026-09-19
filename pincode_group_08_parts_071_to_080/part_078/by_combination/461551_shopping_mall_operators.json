@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parsvnath City Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "461551",
+    "phone_number": "+91 90238 74328",
+    "website": "http://www.parsvnath.com/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "National Highway 2, Sector 12, Faridabad, Haryana 121007",
+    "area": "Sector 12",
+    "latitude": 28.383585099999998,
+    "longitude": 77.3141491,
+    "place_id": "ChIJmT_vckHcDDkRwhXE63VoBDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmT_vckHcDDkRwhXE63VoBDE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:19:48"
+  },
+  {
+    "business_name": "Atrium Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "461551",
+    "phone_number": "+91 90632 32981",
+    "website": "https://atriummall.in/about-us",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "3-12, Gachibowli - Miyapur Rd, P Janardhan Reddy Nagar, Gachibowli, Hyderabad, Telangana 500032",
+    "area": "P Janardhan Reddy Nagar, Gachibowli",
+    "latitude": 17.446265699999998,
+    "longitude": 78.3638649,
+    "place_id": "ChIJKxQNTsCTyzsR_WQ2cgkMQuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKxQNTsCTyzsR_WQ2cgkMQuo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:19:48"
+  }
+]

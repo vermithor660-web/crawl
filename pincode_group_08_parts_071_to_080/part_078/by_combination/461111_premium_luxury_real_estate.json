@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homeonline",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "461111",
+    "phone_number": "+91 88753 44344",
+    "website": "https://www.homeonline.com/",
+    "rating": 3.8,
+    "reviews_count": 53,
+    "address": "21, opp. Board Office Chouraha, Near Board Office, No 6 Locality, Shivaji Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "Near Board Office, No 6 Locality, Shivaji Nagar",
+    "latitude": 23.2305121,
+    "longitude": 77.4307029,
+    "place_id": "ChIJy-UsS2dCfDkR2s1AUIbdf-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy-UsS2dCfDkR2s1AUIbdf-U",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:58:16"
+  },
+  {
+    "business_name": "Royal play City",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "461111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JQ6M+HPF, Itarsi, Madhya Pradesh 461111",
+    "area": "461111",
+    "latitude": 22.6121238,
+    "longitude": 77.7849566,
+    "place_id": "ChIJm7igfQDdfTkRCHPfEoZoH_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm7igfQDdfTkRCHPfEoZoH_w",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:58:16"
+  }
+]

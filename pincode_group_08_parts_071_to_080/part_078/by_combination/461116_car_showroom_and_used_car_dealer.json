@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Justcar Galleria",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Auto insurance agency, Car dealer, Car finance and loan company",
+    "pincode": "461116",
+    "phone_number": "+91 78905 53345",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 40,
+    "address": "Mahanad, Nagarpara, West Bengal 712149",
+    "area": "461116",
+    "latitude": 23.010818099999998,
+    "longitude": 88.2572734,
+    "place_id": "ChIJYYalIgnz-DkRgzxjeEI7ajI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYYalIgnz-DkRgzxjeEI7ajI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:02:37"
+  },
+  {
+    "business_name": "Finance Point",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "461116",
+    "phone_number": "+91 99330 74452",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 294,
+    "address": "Kharagpur City Rd, opp. Exide Battery Show Room, Inda, Kharagpur, West Bengal 721305",
+    "area": "Inda",
+    "latitude": 22.3484956,
+    "longitude": 87.334823,
+    "place_id": "ChIJm4R6z_1EHToRXQOMh55IPoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm4R6z_1EHToRXQOMh55IPoE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:02:37"
+  }
+]

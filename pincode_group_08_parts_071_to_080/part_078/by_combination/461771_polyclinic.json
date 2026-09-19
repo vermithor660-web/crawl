@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mrityunjay Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "461771",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Q945+RP2, Pipariya, Madhya Pradesh 461775",
+    "area": "461771",
+    "latitude": 22.7570081,
+    "longitude": 78.35925309999999,
+    "place_id": "ChIJox4_IQBDfjkRKDJVUNe_i_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJox4_IQBDfjkRKDJVUNe_i_Y",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:23:55"
+  },
+  {
+    "business_name": "Near Samarth Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "461771",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Q963+V7C, Sandiya Rd, Maharana Pratap Ward, Colony, Pipariya, Madhya Pradesh 461775",
+    "area": "Maharana Pratap Ward, Colony",
+    "latitude": 22.762895999999998,
+    "longitude": 78.35495,
+    "place_id": "ChIJsd9zardDfjkRhhnVxW-tazQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsd9zardDfjkRhhnVxW-tazQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:23:55"
+  }
+]

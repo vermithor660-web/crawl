@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjabee Rasoi",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Kebab shop, Non Vegetarian Restaurant, North Indian restaurant, Restaurant",
+    "pincode": "461446",
+    "phone_number": "+91 98310 35662",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "196, Chakraborty Para Rd, near Overhead Water Tank, Rajdanga, Kasba, Kolkata, West Bengal 700107",
+    "area": "Rajdanga, Kasba",
+    "latitude": 22.515919,
+    "longitude": 88.392433,
+    "place_id": "ChIJzcT9r1JxAjoRwZ5xVny074Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzcT9r1JxAjoRwZ5xVny074Q",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:16:24"
+  },
+  {
+    "business_name": "Sanjha Chulha Dhaba - CIT. ROAD - North Indian - Punjabi",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Family restaurant",
+    "pincode": "461446",
+    "phone_number": "+91 98308 78727",
+    "website": "http://sanjhachulha.co.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Ladies Park, CIT Rd, Beniapukur, Kolkata, West Bengal 700014",
+    "area": "Beniapukur",
+    "latitude": 22.5483385,
+    "longitude": 88.3710486,
+    "place_id": "ChIJr9jOvuV2AjoR23-ATMDo86Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr9jOvuV2AjoR23-ATMDo86Y",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:16:24"
+  }
+]

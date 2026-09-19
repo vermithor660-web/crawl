@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anmol Frozen Snacks Store",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Bakery and Cake Shop",
+    "pincode": "461668",
+    "phone_number": "+91 94786 59004",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 44,
+    "address": "Shop No 1, Division Number 3, Naulakha Garden Colony, Ludhiana, Punjab 141008",
+    "area": "Naulakha Garden Colony",
+    "latitude": 30.915168299999998,
+    "longitude": 75.8626283,
+    "place_id": "ChIJP0VvLnODGjkRwILZI_3x3ws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0VvLnODGjkRwILZI_3x3ws",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:21:45"
+  },
+  {
+    "business_name": "Meat on Ice",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Restaurant",
+    "pincode": "461668",
+    "phone_number": "+91 78270 46520",
+    "website": "https://meatonice.com/",
+    "rating": 4.8,
+    "reviews_count": 75,
+    "address": "Sector 1, Vasundhara, Ghaziabad, Uttar Pradesh 201012",
+    "area": "Sector 1, Vasundhara",
+    "latitude": 28.6668414,
+    "longitude": 77.3906705,
+    "place_id": "ChIJOQHiqfL7DDkRYko4e26N-PU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOQHiqfL7DDkRYko4e26N-PU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:21:45"
+  }
+]

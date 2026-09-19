@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Auto Parts",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "461881",
+    "phone_number": "+91 94065 61201",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No 01, Cant Naka, Pachmarhi, Garage Line Pipariya Road, Pachmarhi Cantt, Madhya Pradesh 461881",
+    "area": "461881",
+    "latitude": 22.4783366,
+    "longitude": 78.44197779999999,
+    "place_id": "ChIJ83wBDwM7fjkRveVisVH5Su0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ83wBDwM7fjkRveVisVH5Su0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:27:33"
+  },
+  {
+    "business_name": "Autocare garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "461881",
+    "phone_number": "+91 62699 21455",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "6625+C2R, Sirol Rd, Vidhya Nagar, Kailash Nagar, Mahalgaon, Gwalior, Madhya Pradesh 474011",
+    "area": "Vidhya Nagar, Kailash Nagar, Mahalgaon",
+    "latitude": 26.201116499999998,
+    "longitude": 78.207523,
+    "place_id": "ChIJ02gY2C3DdjkR5c7kvKZoo5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02gY2C3DdjkR5c7kvKZoo5o",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:27:35"
+  }
+]

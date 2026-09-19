@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubh Labh Tractors",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "461775",
+    "phone_number": "+91 79747 33951",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shobhpur road, Hatwas, Pipariya, Madhya Pradesh 461775",
+    "area": "461775",
+    "latitude": 22.7689444,
+    "longitude": 78.3352815,
+    "place_id": "ChIJZWDO-shdfjkRB6bOE0uK0-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZWDO-shdfjkRB6bOE0uK0-s",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:25:51"
+  },
+  {
+    "business_name": "ACE Tractor Showroom Bareli",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "461775",
+    "phone_number": "+91 97133 81192",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No 1, near Shiva Garden, Bareli, Kamton, Madhya Pradesh 464668",
+    "area": "461775",
+    "latitude": 23.0165528,
+    "longitude": 78.2504244,
+    "place_id": "ChIJAXR1cQWLfjkRL5O_tB0Q0LE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAXR1cQWLfjkRL5O_tB0Q0LE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:25:51"
+  }
+]

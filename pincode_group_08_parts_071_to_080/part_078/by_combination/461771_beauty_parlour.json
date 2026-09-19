@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apsara Beauty Studio",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "461771",
+    "phone_number": "+91 94244 64174",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mohta plot, Panchmukhi Gali, tilak ward, Pipariya, Madhya Pradesh 461775",
+    "area": "tilak ward",
+    "latitude": 22.755394199999998,
+    "longitude": 78.34884129999999,
+    "place_id": "ChIJbX6hXaJDfjkRLNoJ6enT_TQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbX6hXaJDfjkRLNoJ6enT_TQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:24:20"
+  },
+  {
+    "business_name": "Brush and Blush by Priyanka",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "461771",
+    "phone_number": "+91 90827 96690",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "near by Kailash Printing Press, Maharana Pratap Ward, Pipariya, Madhya Pradesh 461775",
+    "area": "Maharana Pratap Ward",
+    "latitude": 22.7612296,
+    "longitude": 78.3536352,
+    "place_id": "ChIJnU9MXTRDfjkRz3djVIRWrp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnU9MXTRDfjkRz3djVIRWrp8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:24:20"
+  }
+]

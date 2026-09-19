@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ym store",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "461668",
+    "phone_number": "+91 62641 06184",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MP SH 22, Semri Harchand, Narmadapuram, Madhya Pradesh 461668",
+    "area": "461668",
+    "latitude": 22.6906158,
+    "longitude": 78.0835816,
+    "place_id": "ChIJW_Haow1xfjkRX3Bbgd81BlE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW_Haow1xfjkRX3Bbgd81BlE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:23:21"
+  },
+  {
+    "business_name": "Teleworld Marketing",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Telephone Marketing Agency",
+    "all_categories": "Telephone Marketing Agency",
+    "pincode": "461668",
+    "phone_number": "+91 731 679 1684",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 112,
+    "address": "84, Godhra Hwy, Greater Brijeshwari Annexe, Sahara City Homes, Indore, Madhya Pradesh 452016",
+    "area": "Greater Brijeshwari Annexe, Sahara City Homes",
+    "latitude": 22.7038649,
+    "longitude": 75.92031539999999,
+    "place_id": "ChIJy3Lv8CDjYjkRCiaN5NtEDkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy3Lv8CDjYjkRCiaN5NtEDkA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:23:22"
+  }
+]

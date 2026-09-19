@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tulip Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "461223",
+    "phone_number": "+91 91833 28564",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "near Rajput Hostel, Maharana Pratap Colony, Harda, Madhya Pradesh 461331",
+    "area": "Maharana Pratap Colony",
+    "latitude": 22.3415158,
+    "longitude": 77.0923474,
+    "place_id": "ChIJ3-xEaABxfTkRJ_FtUSthu0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-xEaABxfTkRJ_FtUSthu0Y",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:07:27"
+  },
+  {
+    "business_name": "Cloud Kitchen@555",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "461223",
+    "phone_number": "+91 73595 13755",
+    "website": "https://zomato.onelink.me/xqzv/6y3x74v8",
+    "rating": 4.7,
+    "reviews_count": 16,
+    "address": "Metro Station Nawa Wadaj, G.98/1172, 1st Floor, Shivam Appartment, Gate No.2 Nr Akhbarnagar Char Rasta, nr. Vadaj, Naranpura, Ahmedabad, Gujarat 380013",
+    "area": "Akhbar Nagar, Naranpura",
+    "latitude": 23.0679832,
+    "longitude": 72.56601409999999,
+    "place_id": "ChIJI7b79jqDXjkRCCNu-x4a3iE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI7b79jqDXjkRCCNu-x4a3iE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:07:27"
+  }
+]

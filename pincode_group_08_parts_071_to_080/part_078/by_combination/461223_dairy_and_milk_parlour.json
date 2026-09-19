@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gouras Milk Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "461223",
+    "phone_number": "+91 78695 55966",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Shop no. 1, Morya Complex, Chipanner road, near Excellence School, Harda, Madhya Pradesh 461331",
+    "area": "461223",
+    "latitude": 22.3423387,
+    "longitude": 77.0938851,
+    "place_id": "ChIJE9dVvkhxfTkR9XV7yPWI92A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE9dVvkhxfTkR9XV7yPWI92A",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:07:17"
+  },
+  {
+    "business_name": "The Dairy Story",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy Products Supplier",
+    "all_categories": "Dairy Products Supplier, Service establishment",
+    "pincode": "461223",
+    "phone_number": "+91 88608 33686",
+    "website": "http://thedairystory.com/",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "The Dairy Story, 461223, India",
+    "area": "461223",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJwRgp_lrjDDkRZbBX-RQjohU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwRgp_lrjDDkRZbBX-RQjohU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:07:17"
+  }
+]

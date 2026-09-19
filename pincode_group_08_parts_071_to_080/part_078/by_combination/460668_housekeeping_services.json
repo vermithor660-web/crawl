@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Izak Home Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Carpet cleaning service, Cleaning Services, Tile cleaning service, Upholstery cleaning service, Water Tank Cleaners",
+    "pincode": "460668",
+    "phone_number": "+91 97136 13207",
+    "website": "https://izakhomeservices.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Bajpai Compound, 45 Cantt, Penti Naka, Sadar, Jabalpur, Madhya Pradesh 482001",
+    "area": "Penti Naka, Sadar",
+    "latitude": 23.1534171,
+    "longitude": 79.9514901,
+    "place_id": "ChIJbZ2CINetgTkR_oUQdcXNOaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZ2CINetgTkR_oUQdcXNOaM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:51:19"
+  },
+  {
+    "business_name": "Alexandra's Home Cleaning Service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services, Service establishment",
+    "pincode": "460668",
+    "phone_number": "N/A",
+    "website": "https://www.alexandrashomecleaning.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Alexandra's Home Cleaning Service, 460668, India",
+    "area": "460668",
+    "latitude": 34.710578999999996,
+    "longitude": -92.3761215,
+    "place_id": "ChIJRYuIg18QE4gRBFkl2S6e7HY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRYuIg18QE4gRBFkl2S6e7HY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:51:20"
+  }
+]

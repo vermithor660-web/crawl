@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ikigai Schools",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Music school, Performing arts theater, School center, Theater production",
+    "pincode": "461115",
+    "phone_number": "+91 92203 39929",
+    "website": "https://www.ikigaischools.com/",
+    "rating": 4.8,
+    "reviews_count": 107,
+    "address": "Lower Ground Floor, 6/12, Balraj Khanna Marg, opp. W for Women, Block 6, East Patel Nagar, Patel Nagar, New Delhi, Delhi, 110008",
+    "area": "Block 6, East Patel Nagar, Patel Nagar",
+    "latitude": 28.647683599999997,
+    "longitude": 77.1666559,
+    "place_id": "ChIJUc2EtioDDTkRQlclpiudat4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUc2EtioDDTkRQlclpiudat4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:01:31"
+  },
+  {
+    "business_name": "Natraj Dance & Music Studio",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Music school",
+    "pincode": "461115",
+    "phone_number": "+91 87507 02601",
+    "website": "https://youtube.com/channel/UCnCobCTBnmVrmkBdesVzERg",
+    "rating": 4.4,
+    "reviews_count": 15,
+    "address": "Wz 56, near Gurdwara Mandir, near Subhash Nagar Metro Station, Meenakshi Garden, Ashok Nagar, New Delhi, Delhi, 110018",
+    "area": "Meenakshi Garden, Ashok Nagar",
+    "latitude": 28.638806799999998,
+    "longitude": 77.10570799999999,
+    "place_id": "ChIJdysFrdkFDTkRoKhPvxeAUvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdysFrdkFDTkRoKhPvxeAUvo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:01:31"
+  }
+]

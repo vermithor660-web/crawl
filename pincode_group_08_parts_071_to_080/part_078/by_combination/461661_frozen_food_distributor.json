@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dua Frozen food",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "461661",
+    "phone_number": "+91 98344 41983",
+    "website": "https://www.instagram.com/dua_frozen_food/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Shop no 8, maqsood plaza, Buddi Ln, Rauf Colony, Buddi lane, Naralibag, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Rauf Colony, Buddi lane, Naralibag",
+    "latitude": 19.889508499999998,
+    "longitude": 75.3274086,
+    "place_id": "ChIJd9fHWmKZ2zsRNXEBxckKGH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd9fHWmKZ2zsRNXEBxckKGH0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:19:56"
+  },
+  {
+    "business_name": "YB Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "461661",
+    "phone_number": "+91 74209 43260",
+    "website": "https://thehealthyumbrella.com/pages/contact",
+    "rating": 4.7,
+    "reviews_count": 13,
+    "address": "YB Foods, E 24/52, near Dekson Castings Pvt Lts, MIDC, Chilkalthana, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "MIDC, Chilkalthana",
+    "latitude": 19.8834089,
+    "longitude": 75.3813088,
+    "place_id": "ChIJkxv0qqqj2zsRorLZ24Kp0mc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkxv0qqqj2zsRorLZ24Kp0mc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:19:56"
+  }
+]

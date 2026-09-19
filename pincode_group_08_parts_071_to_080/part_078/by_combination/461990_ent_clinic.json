@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.Anil.Patel",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "461990",
+    "phone_number": "+91 96178 58088",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Palotan Gunj, Gadarwara, Madhya Pradesh 487551",
+    "area": "Palotan Gunj",
+    "latitude": 22.9148043,
+    "longitude": 78.78302169999999,
+    "place_id": "ChIJaz254P6pfzkRtIDMSsh9Z4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaz254P6pfzkRtIDMSsh9Z4U",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:29:19"
+  },
+  {
+    "business_name": "Dr. Arvind Jain",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "461990",
+    "phone_number": "+91 94254 67455",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WQFM+756, Gadarwara, Madhya Pradesh 487551",
+    "area": "461990",
+    "latitude": 22.923171399999998,
+    "longitude": 78.7828866,
+    "place_id": "ChIJleRTthqpfzkRdPhk8PHNmeg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJleRTthqpfzkRdPhk8PHNmeg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:29:19"
+  }
+]

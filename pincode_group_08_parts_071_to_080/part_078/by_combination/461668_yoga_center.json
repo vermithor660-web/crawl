@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yoga Classes",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga instructor",
+    "all_categories": "Yoga instructor",
+    "pincode": "461668",
+    "phone_number": "N/A",
+    "website": "https://instagram.com/divyanisuryawanshiiii?igshid=MzNlNGNkZWQ4Mg==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Narmadapuram, Madhya Pradesh 461001",
+    "area": "461668",
+    "latitude": 22.7519545,
+    "longitude": 77.72888259999999,
+    "place_id": "ChIJIY9lLonPfTkRRKGbfsXlW84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIY9lLonPfTkRRKGbfsXlW84",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:22:12"
+  },
+  {
+    "business_name": "Spandan yoga school",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "461668",
+    "phone_number": "+91 75002 32192",
+    "website": "https://spandanyogaschool.in/",
+    "rating": 4.9,
+    "reviews_count": 66,
+    "address": "SPANDAN YOGA 401, sigma legacy, IIM Rd, nr. Panjarapole Cross Road, University Area, Ahmedabad, Gujarat 380015",
+    "area": "University Area",
+    "latitude": 23.0279348,
+    "longitude": 72.5444326,
+    "place_id": "ChIJ3x1h8DeFXjkRsJ8qz95pDrw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3x1h8DeFXjkRsJ8qz95pDrw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:22:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uikey ji",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "461223",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "98GR+Q9J, Amlada Kalan, Madhya Pradesh 461223",
+    "area": "461223",
+    "latitude": 22.376974099999998,
+    "longitude": 77.3409022,
+    "place_id": "ChIJy8J1ndabfTkRSoX-1LF1QFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy8J1ndabfTkRSoX-1LF1QFs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:08:00"
+  },
+  {
+    "business_name": "Dhaval Motor Driving School",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school, Service establishment",
+    "pincode": "461223",
+    "phone_number": "+91 98240 84133",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "Dhaval Motor Driving School, 461223, India",
+    "area": "461223",
+    "latitude": 22.4158825,
+    "longitude": 71.32697209999999,
+    "place_id": "ChIJZZ461qqHXjkRbu4C8eie-uI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZZ461qqHXjkRbu4C8eie-uI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:08:01"
+  }
+]

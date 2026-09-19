@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siddhi vinayak general store & matching centre",
+    "search_category": "General Store",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "461441",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "no.7, Choukdi Rd, Choukdi, Khirkiya, Madhya Pradesh 461441",
+    "area": "Choukdi",
+    "latitude": 22.167600099999998,
+    "longitude": 76.8616784,
+    "place_id": "ChIJ493WCABhfTkR0FRShID-i1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ493WCABhfTkR0FRShID-i1A",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:14:30"
+  },
+  {
+    "business_name": "Kalpataru General Store",
+    "search_category": "General Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "461441",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5V72+8Q5, Khirkiya, Madhya Pradesh 461441",
+    "area": "461441",
+    "latitude": 22.1633417,
+    "longitude": 76.8520235,
+    "place_id": "ChIJMXt6OQBhfTkRY0rTjy6dajA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMXt6OQBhfTkRY0rTjy6dajA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:14:30"
+  }
+]

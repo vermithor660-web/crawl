@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rdx Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "461771",
+    "phone_number": "+91 79746 28469",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Shop No. 04 Bhatgaon, Road, Shobhapur, Pipariya, Madhya Pradesh 461771",
+    "area": "461771",
+    "latitude": 22.7802601,
+    "longitude": 78.2602793,
+    "place_id": "ChIJ0yjshfFnfjkRWjUDJrK26vQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0yjshfFnfjkRWjUDJrK26vQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:23:26"
+  },
+  {
+    "business_name": "NEERAJ KIRANA STORES VILLAGE - MUDIYAKHEDA",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "461771",
+    "phone_number": "+91 62649 85431",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward no. 11, MK.no.71, Patel Colony, vill, Mudiyakheda, Madhya Pradesh 461775",
+    "area": "Patel Colony, vill",
+    "latitude": 22.856740799999997,
+    "longitude": 78.40295499999999,
+    "place_id": "ChIJ0ZTtYf5bfjkRm9aqK8S3RnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ZTtYf5bfjkRm9aqK8S3RnI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:23:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SGA Chits",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution",
+    "pincode": "461668",
+    "phone_number": "+91 98651 81334",
+    "website": "http://sgachits.com/",
+    "rating": 4.9,
+    "reviews_count": 647,
+    "address": "12/1, Kamaraj Rd, Mahalingapuram, Pollachi, Tamil Nadu 642002",
+    "area": "461668",
+    "latitude": 10.6675737,
+    "longitude": 77.00870809999999,
+    "place_id": "ChIJwSS9mCs4qDsRnC4QNZzpAvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwSS9mCs4qDsRnC4QNZzpAvM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:23:04"
+  },
+  {
+    "business_name": "MYM Chit fund Private limited",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service",
+    "pincode": "461668",
+    "phone_number": "+91 73493 38333",
+    "website": "https://mymchitfund.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "19, 5th Cross Rd, 6th Block, Rajajinagar, Bengaluru, Karnataka 560010",
+    "area": "6th Block, Rajajinagar",
+    "latitude": 12.9798952,
+    "longitude": 77.5574453,
+    "place_id": "ChIJKVKnqew9rjsRPfUi9E5T6TQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKVKnqew9rjsRPfUi9E5T6TQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:23:04"
+  }
+]

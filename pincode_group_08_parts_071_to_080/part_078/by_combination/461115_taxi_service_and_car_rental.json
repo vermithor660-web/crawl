@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taxi In Aurangabad",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Car leasing service, Taxi service, Tour agency, Travel agency",
+    "pincode": "461115",
+    "phone_number": "+91 95959 54990",
+    "website": "https://taxisinaurangabad.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Chistiya Colony Rd, beside Baba Cake Shop, N-6, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "N-6, Cidco",
+    "latitude": 19.8784583,
+    "longitude": 75.3581152,
+    "place_id": "ChIJ3T2pIWqj2zsRIe1o6d3R5rI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3T2pIWqj2zsRIe1o6d3R5rI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:00:58"
+  },
+  {
+    "business_name": "Maruti travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi stand",
+    "all_categories": "Taxi stand",
+    "pincode": "461115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JQ58+MM7, Suraj Ganj Rd, Suraj Ganj, Itarsi, Madhya Pradesh 461111",
+    "area": "Suraj Ganj",
+    "latitude": 22.6091616,
+    "longitude": 77.766679,
+    "place_id": "ChIJ2RvnoGfdfTkR7vf77Zj4IFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2RvnoGfdfTkR7vf77Zj4IFo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:00:58"
+  }
+]

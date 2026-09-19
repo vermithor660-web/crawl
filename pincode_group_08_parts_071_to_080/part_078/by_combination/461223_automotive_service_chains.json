@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AUTO WORKS",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Service establishment",
+    "pincode": "461223",
+    "phone_number": "+91 81092 25323",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "AUTO WORKS, 461223, India",
+    "area": "461223",
+    "latitude": 23.1994097,
+    "longitude": 77.4058914,
+    "place_id": "ChIJM-PA9Z5DfDkRrzY77rkYPa0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-PA9Z5DfDkRrzY77rkYPa0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:08:01"
+  },
+  {
+    "business_name": "GLOBAL CAR SERVICE",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Service establishment",
+    "pincode": "461223",
+    "phone_number": "+91 90751 34647",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "GLOBAL CAR SERVICE, 461223, India",
+    "area": "461223",
+    "latitude": 21.168846199999997,
+    "longitude": 79.0132824,
+    "place_id": "ChIJldqfouLq1DsRQFkqIuK66sM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJldqfouLq1DsRQFkqIuK66sM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:08:01"
+  }
+]

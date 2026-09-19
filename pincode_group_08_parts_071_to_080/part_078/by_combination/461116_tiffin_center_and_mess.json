@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bismillah Catering",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Catering food and drink supplier, Mobile caterer",
+    "pincode": "461116",
+    "phone_number": "+91 99301 22235",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "11/12, Plot No.37, Mhalsa Heights, Airoli Tower Rd, Sector 20C, Sector-19, Airoli, Navi Mumbai, Maharashtra 400708",
+    "area": "Sector 20C, Sector-19, Airoli",
+    "latitude": 19.160850399999998,
+    "longitude": 72.990451,
+    "place_id": "ChIJKRfV9bS45zsR-GKY0IbsOak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKRfV9bS45zsR-GKY0IbsOak",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:02:12"
+  },
+  {
+    "business_name": "Jagannath's Kitchen",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Catering food and drink supplier",
+    "pincode": "461116",
+    "phone_number": "+91 99873 94444",
+    "website": "https://www.jagannathskitchen.in/",
+    "rating": 3.7,
+    "reviews_count": 177,
+    "address": "Building Number - 11/13, 1st Floor, Ropa Ln, Chandan Wadi, Chira Bazaar, Marine Lines, Mumbai, Maharashtra 400002",
+    "area": "Chandan Wadi, Chira Bazaar, Marine Lines",
+    "latitude": 18.9465263,
+    "longitude": 72.82558279999999,
+    "place_id": "ChIJ86nFe9nR5zsRbgdoOwCeLv4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ86nFe9nR5zsRbgdoOwCeLv4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:02:14"
+  }
+]

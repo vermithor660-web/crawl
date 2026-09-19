@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kherde Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Hospital",
+    "pincode": "461441",
+    "phone_number": "+91 72424 57815",
+    "website": "https://softspectra.co/webapp/kherde-hospital-nbsp",
+    "rating": 4.7,
+    "reviews_count": 1130,
+    "address": "KHERDE HOSPITAL, behind HOTEL CENTER PLAZA, RAMNAGAR, Akola, Maharashtra 444001",
+    "area": "RAMNAGAR",
+    "latitude": 20.710203099999998,
+    "longitude": 77.0122269,
+    "place_id": "ChIJj-BF2x0u1zsReWODSMhD8lQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj-BF2x0u1zsReWODSMhD8lQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:14:56"
+  },
+  {
+    "business_name": "ENT Clinic Khardaha (Dr Tanmoy Sarkar & Dr Riya Das)",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "461441",
+    "phone_number": "+91 79806 88599",
+    "website": "http://entclinickhardaha.com/?utm_source=gmb&utm_medium=referral",
+    "rating": 4.7,
+    "reviews_count": 25,
+    "address": "Dakshinpally, Rahara, Kolkata, Khardaha, West Bengal 700118",
+    "area": "Dakshinpally, Rahara",
+    "latitude": 22.7192842,
+    "longitude": 88.38627489999999,
+    "place_id": "ChIJ4QEBf8Ob-DkR8wBBlaGQg0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4QEBf8Ob-DkR8wBBlaGQg0s",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:14:56"
+  }
+]

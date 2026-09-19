@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soft Blush unisex salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "461111",
+    "phone_number": "+91 90051 78021",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "floor no 1, Awasthi Complex, IIM Rd, near mangalam grand, opposite to ajay super store, Madiyanva, Lucknow, Uttar Pradesh 226013",
+    "area": "Madiyanva",
+    "latitude": 26.9317566,
+    "longitude": 80.9231385,
+    "place_id": "ChIJW2Tj5PRXmTkRUwx2VIQHvUc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW2Tj5PRXmTkRUwx2VIQHvUc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:57:44"
+  },
+  {
+    "business_name": "Freshcut unisex salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "461111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "in front of sudharshan honda, above chaube dental clinic, Purani Itarsi, Itarsi, Madhya Pradesh 461111",
+    "area": "Purani Itarsi",
+    "latitude": 22.607369,
+    "longitude": 77.780951,
+    "place_id": "ChIJUYLBx3_dfTkRqHp62ft9eM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUYLBx3_dfTkRqHp62ft9eM8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:57:44"
+  }
+]

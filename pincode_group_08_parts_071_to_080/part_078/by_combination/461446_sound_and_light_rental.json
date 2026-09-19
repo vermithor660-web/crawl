@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Artist On Call",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Wedding service",
+    "all_categories": "Wedding service, Dance company, Entertainer, Entertainment agency, Event management company, Event planner, Wedding planner, Artist",
+    "pincode": "461446",
+    "phone_number": "+91 78369 91111",
+    "website": "https://www.artistoncall.in/contact.html",
+    "rating": 4.1,
+    "reviews_count": 17,
+    "address": "B-213, Block B, Hari Nagar, New Delhi, Delhi, 110018",
+    "area": "Block B, Hari Nagar",
+    "latitude": 28.632657,
+    "longitude": 77.101641,
+    "place_id": "ChIJY0BlY6AEDTkRJWvOwtzRXZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY0BlY6AEDTkRJWvOwtzRXZs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:17:20"
+  },
+  {
+    "business_name": "Puja Stage Light",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Association / Organization",
+    "all_categories": "Association / Organization",
+    "pincode": "461446",
+    "phone_number": "+91 96093 89686",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "4WVW+MX9, Tatharibar - Dakshin Kasimnagar Rd, Itamagra, West Bengal 721632",
+    "area": "461446",
+    "latitude": 22.1441548,
+    "longitude": 87.9474922,
+    "place_id": "ChIJsWN1DADtAjoRDcNIcyCzJCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsWN1DADtAjoRDcNIcyCzJCY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:17:20"
+  }
+]

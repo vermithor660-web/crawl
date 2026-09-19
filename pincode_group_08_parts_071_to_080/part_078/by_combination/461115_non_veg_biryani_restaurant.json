@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khan Biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "461115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Rms Office, Pudi Line, Suraj Ganj, Itarsi, Madhya Pradesh 461111",
+    "area": "Suraj Ganj",
+    "latitude": 22.6095819,
+    "longitude": 77.766992,
+    "place_id": "ChIJ6_GmYgDdfTkRoMS03xajpK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6_GmYgDdfTkRoMS03xajpK4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:00:26"
+  },
+  {
+    "business_name": "Sal sabeel restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "461115",
+    "phone_number": "+91 84588 68090",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "near Eidgha masjid, Lakkad ganj, Itarsi, Madhya Pradesh 461111",
+    "area": "Lakkad ganj",
+    "latitude": 22.6107183,
+    "longitude": 77.7623759,
+    "place_id": "ChIJMxVi_RjdfTkRPI-lslNaIac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMxVi_RjdfTkRPI-lslNaIac",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:00:28"
+  }
+]

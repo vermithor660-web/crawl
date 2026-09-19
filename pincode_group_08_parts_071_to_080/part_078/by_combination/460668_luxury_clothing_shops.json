@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Womaniya boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store, Boutique",
+    "pincode": "460668",
+    "phone_number": "+91 76928 95393",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Anmol palace Hotel, Burhar chowk, Ner, New Bus Stand Rd, Shahdol, Madhya Pradesh 484001",
+    "area": "Bhatnagar",
+    "latitude": 23.2972348,
+    "longitude": 81.3662708,
+    "place_id": "ChIJS5BrCgD7hjkRSRzW5U8C3-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS5BrCgD7hjkRSRzW5U8C3-0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:50:22"
+  },
+  {
+    "business_name": "NAKODA'S BOUTIQUE",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Designer Clothing Store",
+    "pincode": "460668",
+    "phone_number": "+91 81090 31521",
+    "website": "http://www.nakodasboutique.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "17, Kanchan Bagh, Indore, Madhya Pradesh 452001",
+    "area": "Kanchan Bagh",
+    "latitude": 22.7200478,
+    "longitude": 75.8826514,
+    "place_id": "ChIJJ8HDO6H9YjkRTzj5K6gFMl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8HDO6H9YjkRTzj5K6gFMl8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:50:22"
+  }
+]

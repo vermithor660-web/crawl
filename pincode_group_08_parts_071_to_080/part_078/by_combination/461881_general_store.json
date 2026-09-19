@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raja Paneer Shop",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "461881",
+    "phone_number": "+91 94797 45386",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Raja Paneer Shop, Pachmarhi, Pachmarhi Cantt, Madhya Pradesh 461881",
+    "area": "461881",
+    "latitude": 22.4734525,
+    "longitude": 78.4364913,
+    "place_id": "ChIJBQ3a92M7fjkRuQLA8tkXtzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBQ3a92M7fjkRuQLA8tkXtzc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:27:02"
+  },
+  {
+    "business_name": "Mohan Sahu Kirana",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "461881",
+    "phone_number": "+91 94065 25499",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sahu Kirana, Mohan, Pachmarhi, Pachmarhi Cantt, Madhya Pradesh 461881",
+    "area": "461881",
+    "latitude": 22.4734178,
+    "longitude": 78.43698619999999,
+    "place_id": "ChIJc-f-HaQ7fjkRlO9y_wpJg6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc-f-HaQ7fjkRlO9y_wpJg6E",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:27:04"
+  }
+]

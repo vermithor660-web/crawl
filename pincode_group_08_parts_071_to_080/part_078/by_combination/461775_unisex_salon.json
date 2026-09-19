@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jitendra Hair Saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "461775",
+    "phone_number": "+91 97554 18736",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "SBI Road, Pipariya, Madhya Pradesh 461775",
+    "area": "461775",
+    "latitude": 22.7551842,
+    "longitude": 78.3529234,
+    "place_id": "ChIJXUG9x6JDfjkRhr3hJi_2Sbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXUG9x6JDfjkRhr3hJi_2Sbo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:26:07"
+  },
+  {
+    "business_name": "Vikram man's hair cutting",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "461775",
+    "phone_number": "+91 96694 89532",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Q924+438, Pipariya, Madhya Pradesh 461775",
+    "area": "461775",
+    "latitude": 22.7503006,
+    "longitude": 78.3552953,
+    "place_id": "ChIJ5bcDj5xDfjkR5tIz7Ncx_FU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5bcDj5xDfjkR5tIz7Ncx_FU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:26:09"
+  }
+]

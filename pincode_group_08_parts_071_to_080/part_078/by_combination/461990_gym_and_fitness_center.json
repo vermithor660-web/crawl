@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jiya fitness club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "461990",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RMHG+HQ8, Babai Kalan, Madhya Pradesh 487881",
+    "area": "461990",
+    "latitude": 22.828892,
+    "longitude": 78.6768915,
+    "place_id": "ChIJn7Hb9gWtfzkRXnVN492PPLc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn7Hb9gWtfzkRXnVN492PPLc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:29:20"
+  },
+  {
+    "business_name": "Gym tha alfa fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "461990",
+    "phone_number": "+91 62608 14366",
+    "website": "https://www.instagram.com/fitness_freak_rk?igsh=c25lemxtNnVqcWRr",
+    "rating": null,
+    "reviews_count": null,
+    "address": "tha alfa fitness, khirka road, Mata mohalla, Chichli, Madhya Pradesh 487770",
+    "area": "Mata mohalla",
+    "latitude": 22.8326378,
+    "longitude": 78.8256882,
+    "place_id": "ChIJO-4lnumvfzkRkEM0a69-C4k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO-4lnumvfzkRkEM0a69-C4k",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:29:20"
+  }
+]

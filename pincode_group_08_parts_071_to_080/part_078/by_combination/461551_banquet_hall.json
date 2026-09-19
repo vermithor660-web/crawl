@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grand EnCasa",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall, Conference center, Event venue, Marriage celebrant, Wedding planner, Wedding venue",
+    "pincode": "461551",
+    "phone_number": "+91 79803 40547",
+    "website": "https://grandencasa.in/",
+    "rating": 4.6,
+    "reviews_count": 21,
+    "address": "128/2/A, Goswami Para Rd, Bally, Howrah, West Bengal 711201",
+    "area": "Bally",
+    "latitude": 22.6477501,
+    "longitude": 88.34349279999999,
+    "place_id": "ChIJt_vjnFmd-DkRoyzqF7d2i4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_vjnFmd-DkRoyzqF7d2i4c",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:19:06"
+  },
+  {
+    "business_name": "SRINIVASA BANQUETS",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall, Event planner, Event venue, Function room facility, Marriage celebrant, Wedding venue",
+    "pincode": "461551",
+    "phone_number": "+91 82473 18793",
+    "website": "https://srinivasabanquets.com/",
+    "rating": 4.8,
+    "reviews_count": 13,
+    "address": "4th FLOOR, BHARATH PLAZA Survey No 217/E1/1/2, 217/E1/1/1, 211/U & 211/U/1 Puppalguda Village Manikonda Muncipality Gandipet, Manikonda, Hyderabad, Telangana 500089",
+    "area": "Alkapur Township, Puppalguda",
+    "latitude": 17.4008692,
+    "longitude": 78.36708999999999,
+    "place_id": "ChIJFzl3qACVyzsRZugFgH6RXBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFzl3qACVyzsRZugFgH6RXBM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:19:06"
+  }
+]

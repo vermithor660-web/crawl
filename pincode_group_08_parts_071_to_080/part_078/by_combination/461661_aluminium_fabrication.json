@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Prakash Gupta & Sons",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "461661",
+    "phone_number": "+91 98730 97632",
+    "website": "https://vpgs-global.netlify.app/",
+    "rating": 4.8,
+    "reviews_count": 271,
+    "address": "Raghushree Building, Old Delhi, Kucha Tiku Shah, Chandni Chowk, Delhi, 110006",
+    "area": "Old Delhi, Kucha Tiku Shah, Chandni Chowk",
+    "latitude": 28.646365699999997,
+    "longitude": 77.2246182,
+    "place_id": "ChIJq6qq2kP9DDkRQteUTKo1amU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq2kP9DDkRQteUTKo1amU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:21:23"
+  },
+  {
+    "business_name": "Bansal Metals Private Limited",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Aluminium Supplier",
+    "all_categories": "Aluminium Supplier, Importer",
+    "pincode": "461661",
+    "phone_number": "+91 98111 05557",
+    "website": "http://www.bansalmetals.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "B-1/164, near Sunil Dairy, Khayala, Vishnu Garden, Delhi, 110018",
+    "area": "Khayala, Vishnu Garden",
+    "latitude": 28.6543769,
+    "longitude": 77.1002755,
+    "place_id": "ChIJmznqRA0FDTkRcBIivGzrp_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmznqRA0FDTkRcBIivGzrp_E",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:21:25"
+  }
+]

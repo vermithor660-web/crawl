@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandrika Boutique Showroom",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "461661",
+    "phone_number": "+91 70678 70937",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Babai Stand, ke pass Patel Moholla, Patel Moholla, Babai, Madhya Pradesh 461661",
+    "area": "Patel Moholla",
+    "latitude": 22.702139799999998,
+    "longitude": 77.9360603,
+    "place_id": "ChIJ2ZzG1C93fjkRh6tAU49DPOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ZzG1C93fjkRh6tAU49DPOo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:20:13"
+  },
+  {
+    "business_name": "Jyoti matching shop",
+    "search_category": "Boutiques",
+    "primary_category": "Lingerie store",
+    "all_categories": "Lingerie store",
+    "pincode": "461661",
+    "phone_number": "+91 83490 48520",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Itwara Bazar, Jagdish Pura, Narmadapuram, Madhya Pradesh 461001",
+    "area": "Itwara Bazar, Jagdish Pura",
+    "latitude": 22.7585434,
+    "longitude": 77.7158705,
+    "place_id": "ChIJB8r2tfPPfTkRHFg07sXJSBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8r2tfPPfTkRHFg07sXJSBQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:20:16"
+  }
+]

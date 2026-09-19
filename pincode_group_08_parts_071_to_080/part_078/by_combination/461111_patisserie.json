@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satish Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "461111",
+    "phone_number": "+91 91316 33745",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Jaisthamb Chowk, Jawahar Bazaar, Suraj Ganj, Itarsi, Madhya Pradesh 461111",
+    "area": "Jawahar Bazaar, Suraj Ganj",
+    "latitude": 22.6103485,
+    "longitude": 77.7678572,
+    "place_id": "ChIJ4yTvhr3cfTkRWU4yjBMzzJQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4yTvhr3cfTkRWU4yjBMzzJQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:56:55"
+  },
+  {
+    "business_name": "Satramdas enterprises",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "461111",
+    "phone_number": "+91 76928 46771",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Amjuman school ke pass, Suraj Ganj, Itarsi, Madhya Pradesh 461111",
+    "area": "Suraj Ganj",
+    "latitude": 22.6110093,
+    "longitude": 77.7669245,
+    "place_id": "ChIJDXZaCwDdfTkRzlWRkH32ECY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDXZaCwDdfTkRzlWRkH32ECY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:56:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "360Realtors",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "461551",
+    "phone_number": "+91 1800 120 0360",
+    "website": "https://www.360realtors.com/",
+    "rating": 3.7,
+    "reviews_count": 132,
+    "address": "1st floor office No 109,112& 103, Sprint Workspaces, Old Mumbai - Pune Hwy, Narveer Tanaji Wadi, Shivajinagar, Pune, Maharashtra 411005",
+    "area": "Narveer Tanaji Wadi, Shivajinagar",
+    "latitude": 18.5277292,
+    "longitude": 73.8508136,
+    "place_id": "ChIJVVXlemW_wjsRgGq4or4zfjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVXlemW_wjsRgGq4or4zfjA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:19:32"
+  },
+  {
+    "business_name": "Prestige Pinewood",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Condominium complex",
+    "all_categories": "Condominium complex",
+    "pincode": "461551",
+    "phone_number": "N/A",
+    "website": "https://www.prestigeconstructions.com/projects/prestige-pinewood/?utm_source=Google&utm_medium=GMB",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "6th cross road, S.T.Bed Extension, Cauvery Colony, 1st Block, Koramangala, S.T. Bed, Cauvery Colony, Bengaluru, Karnataka 560047",
+    "area": "S.T. Bed, Cauvery Colony, Koramangala",
+    "latitude": 12.931366899999999,
+    "longitude": 77.6349475,
+    "place_id": "ChIJ9bOTTBYVrjsR28Ap22lLDf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9bOTTBYVrjsR28Ap22lLDf4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:19:33"
+  }
+]

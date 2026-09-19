@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajdhani Chicken Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "461114",
+    "phone_number": "+91 98260 79761",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No. 1, Raisen Rd, Bhawani Chowk, Ashok Vihar, Anandnagar, Bhopal, Madhya Pradesh 462022",
+    "area": "Bhawani Chowk, Ashok Vihar, Anandnagar",
+    "latitude": 23.2522268,
+    "longitude": 77.4856519,
+    "place_id": "ChIJQR41auRBfDkRLhqkqVtMvLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQR41auRBfDkRLhqkqVtMvLA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:58:39"
+  },
+  {
+    "business_name": "Meat Shops",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "461114",
+    "phone_number": "+91 88008 96186",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Unnamed Road, Nand Vihar, Sector 16A, Dwarka, New Delhi, Delhi 110078",
+    "area": "Nand Vihar, Sector 16A, Dwarka",
+    "latitude": 28.6117009,
+    "longitude": 77.0200998,
+    "place_id": "ChIJHTLovVEFDTkRBhtwb9NcA48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHTLovVEFDTkRBhtwb9NcA48",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:58:39"
+  }
+]

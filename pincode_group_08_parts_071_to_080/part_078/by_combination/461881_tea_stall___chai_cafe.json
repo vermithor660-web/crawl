@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Thela Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop",
+    "pincode": "461881",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 39,
+    "address": "FCGP+6PJ, Madhya Pradesh State Highway 19A, Pachmarhi, Pachmarhi Cantt, Madhya Pradesh 461881",
+    "area": "461881",
+    "latitude": 22.4755883,
+    "longitude": 78.4367694,
+    "place_id": "ChIJE_zW3zE6fjkRPB35PjDo_Fs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_zW3zE6fjkRPB35PjDo_Fs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:27:05"
+  },
+  {
+    "business_name": "Chai stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "461881",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "8JWV+V5P, Pipariya Rd, Dundisikhar, Madhya Pradesh 480559",
+    "area": "461881",
+    "latitude": 22.3472163,
+    "longitude": 78.6429388,
+    "place_id": "ChIJO_S6_CktfjkRCRdzjKHWhCI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_S6_CktfjkRCRdzjKHWhCI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:27:05"
+  }
+]

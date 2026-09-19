@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MG Enterprises",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Household chemicals supplier",
+    "all_categories": "Household chemicals supplier, Chemical Manufacturer, Chemical wholesaler, Cleaning products supplier, FMCG Goods Wholesaler, Industrial chemicals wholesaler",
+    "pincode": "461223",
+    "phone_number": "+91 97163 38078",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 24,
+    "address": "123,chopla mandir, Ghaziabad, Uttar Pradesh 201001",
+    "area": "Sihani Gate, Richalpuri, Naya Ganj",
+    "latitude": 28.6651469,
+    "longitude": 77.4259111,
+    "place_id": "ChIJYW7uTdLxDDkRgIOJDhjP_a8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYW7uTdLxDDkRgIOJDhjP_a8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:08:23"
+  },
+  {
+    "business_name": "Shreya International",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Cleaning products supplier",
+    "all_categories": "Cleaning products supplier, Disposable Items shop, Household chemicals supplier, Office equipment supplier, Office supply wholesaler",
+    "pincode": "461223",
+    "phone_number": "+91 85273 47806",
+    "website": "https://shreyainternational.in/",
+    "rating": 4.8,
+    "reviews_count": 171,
+    "address": "Awana Complex, Plot No 1, Nithari Rd, opposite Primary School, Nithari, A-Block, Sector 31, Noida, Uttar Pradesh 201301",
+    "area": "Nithari, A-Block, Sector 31",
+    "latitude": 28.5755025,
+    "longitude": 77.345148,
+    "place_id": "ChIJSejKrzDlDDkRByBRWIAbvXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSejKrzDlDDkRByBRWIAbvXE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:08:24"
+  }
+]

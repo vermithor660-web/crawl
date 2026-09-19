@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Computer Solutions",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer accessories store, Computer service",
+    "pincode": "461668",
+    "phone_number": "+91 99163 06513",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 1612,
+    "address": "No 20/3, Laxmaiah Complex, opp. Metro Station, behind TATA motors, Vidya Nagar, T. Dasarahalli, Bengaluru, Karnataka 560057",
+    "area": "Vidya Nagar, T. Dasarahalli",
+    "latitude": 13.0425823,
+    "longitude": 77.5124204,
+    "place_id": "ChIJ0Q-2etc8rjsRyoKWorShi0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Q-2etc8rjsRyoKWorShi0c",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:22:57"
+  },
+  {
+    "business_name": "SMART IT SOLUTIONS",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer Wholesaler",
+    "all_categories": "Computer Wholesaler",
+    "pincode": "461668",
+    "phone_number": "+91 88792 97528",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "Near Surabhi Hotel, Ganpathi Nagar, Paharia, Varanasi, Uttar Pradesh 221007",
+    "area": "Near Surabhi Hotel, Ganpathi Nagar, Paharia",
+    "latitude": 25.3568352,
+    "longitude": 83.007356,
+    "place_id": "ChIJ8WH1uokujjkR53Cy9sC2Ey0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8WH1uokujjkR53Cy9sC2Ey0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:22:59"
+  }
+]

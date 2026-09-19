@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "John Deere Tractor",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer, Agricultural Product Wholesaler, Auto machine shop, Farm Equipment Repair Shop, Farm equipment supplier, Tractor repair shop, Used auto parts store",
+    "pincode": "460668",
+    "phone_number": "+91 87189 35522",
+    "website": "http://www.deere.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "11 mile, opposite international public school, Misrod, Bhopal, Madhya Pradesh 462047",
+    "area": "Misrod",
+    "latitude": 23.1464371,
+    "longitude": 77.4812946,
+    "place_id": "ChIJW2uiCV1ofDkR9pwRgcqP4gM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW2uiCV1ofDkR9pwRgcqP4gM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:50:35"
+  },
+  {
+    "business_name": "Shree Vinayak Motors(Sonalika Tractors)",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "460668",
+    "phone_number": "+91 97644 30666",
+    "website": "https://www.sonalika.com/",
+    "rating": 4.9,
+    "reviews_count": 11,
+    "address": "Amravati Walgaon Rd, Amravati, Warwad, Maharashtra 444801",
+    "area": "460668",
+    "latitude": 20.994605399999998,
+    "longitude": 77.7080223,
+    "place_id": "ChIJLeXFl-a91jsRFHFbqR1Y-Fc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLeXFl-a91jsRFHFbqR1Y-Fc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:50:35"
+  }
+]

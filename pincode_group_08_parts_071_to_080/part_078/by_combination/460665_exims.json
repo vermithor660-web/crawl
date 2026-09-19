@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gothi Agro Agencies",
+    "search_category": "EXIMS",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Agricultural Product Wholesaler, Agrochemicals Supplier, Agricultural Seed Store",
+    "pincode": "460665",
+    "phone_number": "+91 94240 03273",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 14,
+    "address": "Near Anaj Mandi, Badora, Madhya Pradesh 460001",
+    "area": "Bajpur",
+    "latitude": 21.8871036,
+    "longitude": 77.90247149999999,
+    "place_id": "ChIJxbLi9YoJ1jsRrfhhOM_M0Co",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxbLi9YoJ1jsRrfhhOM_M0Co",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:48:10"
+  },
+  {
+    "business_name": "Uttam Agencies",
+    "search_category": "EXIMS",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "460665",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Infront of HDFC. Bank, Ganj, Betul, Madhya Pradesh 460001",
+    "area": "Ganj",
+    "latitude": 21.900347999999997,
+    "longitude": 77.90785509999999,
+    "place_id": "ChIJw8kzfnAJ1jsRiksmcoYcXhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw8kzfnAJ1jsRiksmcoYcXhg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:48:10"
+  }
+]

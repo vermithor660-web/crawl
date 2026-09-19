@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aabushan",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Bridal shop, Diamond Merchant, Jewelry appraiser, Jewelry designer",
+    "pincode": "461116",
+    "phone_number": "+91 63643 53603",
+    "website": "http://www.aabushan.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "50, 8th F Main Rd, Jaya Nagar 1st Block, Jayanagar 3rd Block, Jayanagar, Bengaluru, Karnataka 560011",
+    "area": "Jaya Nagar 1st Block, Jayanagar 3rd Block, Jayanagar",
+    "latitude": 12.931744,
+    "longitude": 77.5833401,
+    "place_id": "ChIJH4-NPZgVrjsRWQw9R3tjNAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH4-NPZgVrjsRWQw9R3tjNAA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:02:19"
+  },
+  {
+    "business_name": "Amidhara Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "461116",
+    "phone_number": "+91 72111 11212",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 33,
+    "address": "1, Ankur Rd, opp. Rang Jyot Society, Krishnavan Society, Naranpura, Ahmedabad, Gujarat 380013",
+    "area": "Krishnavan Society, Naranpura",
+    "latitude": 23.056573399999998,
+    "longitude": 72.5577015,
+    "place_id": "ChIJeRsrFYOEXjkR5MdDTOaUPFg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeRsrFYOEXjkR5MdDTOaUPFg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:02:21"
+  }
+]

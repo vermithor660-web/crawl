@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Datora, Madhya Pradesh 460666",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "460666",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Datora, Madhya Pradesh",
+    "area": "460666",
+    "latitude": 21.694066,
+    "longitude": 78.17924339999999,
+    "place_id": "ChIJM1VWr2PE1TsR2SPDpjIzSsk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM1VWr2PE1TsR2SPDpjIzSsk",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:48:30"
+  },
+  {
+    "business_name": "NEW CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "460666",
+    "phone_number": "+91 85830 47086",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2/3, Kali Kumar Mukherjee Lane, near mukti enterprise, Tram Depot, Naora, Shibpur, Howrah, West Bengal 711102",
+    "area": "Tram Depot, Naora, Shibpur",
+    "latitude": 22.5682209,
+    "longitude": 88.3236321,
+    "place_id": "ChIJeQEIu3p3AjoRAv38SBtdjYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeQEIu3p3AjoRAv38SBtdjYM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:48:31"
+  }
+]

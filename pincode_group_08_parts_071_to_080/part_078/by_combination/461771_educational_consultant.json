@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tutor-ology",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "461771",
+    "phone_number": "+91 89621 94487",
+    "website": "https://www.tutor-ology.com/",
+    "rating": 4.9,
+    "reviews_count": 31,
+    "address": "Anand Bagh Colony, Rajendra Ward, Pipariya, Madhya Pradesh 461775",
+    "area": "Rajendra Ward",
+    "latitude": 22.760958499999997,
+    "longitude": 78.3529148,
+    "place_id": "ChIJuQLLXg1DfjkR9KNCAE5j1Dc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuQLLXg1DfjkR9KNCAE5j1Dc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:24:40"
+  },
+  {
+    "business_name": "Sri Pragyan Academy",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "461771",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Abcd Quarter, Maharana Pratap Ward, Pipariya, Madhya Pradesh 461775",
+    "area": "Maharana Pratap Ward",
+    "latitude": 22.759890199999997,
+    "longitude": 78.35626959999999,
+    "place_id": "ChIJtxjZ01BDfjkRSpTxc2UYBMw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtxjZ01BDfjkRSpTxc2UYBMw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:24:40"
+  }
+]

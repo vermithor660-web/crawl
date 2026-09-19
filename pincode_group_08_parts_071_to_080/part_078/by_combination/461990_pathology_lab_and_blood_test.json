@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samadhan pathology lab",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Blood testing service",
+    "all_categories": "Blood testing service",
+    "pincode": "461990",
+    "phone_number": "+91 88272 56864",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opp. Government hospital, near Dr. B.P. Gupta Clinic, Aamgaon Naka, Gadarwara, Madhya Pradesh 487551",
+    "area": "Aamgaon Naka",
+    "latitude": 22.9176297,
+    "longitude": 78.7802425,
+    "place_id": "ChIJAx-6SwCpfzkRMCafKQzTUBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAx-6SwCpfzkRMCafKQzTUBo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:29:17"
+  },
+  {
+    "business_name": "Redcliffe Labs - Collection Center",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, Medical diagnostic imaging center, Medical laboratory, Pathologist",
+    "pincode": "461990",
+    "phone_number": "+91 79 6928 5335",
+    "website": "https://redcliffelabs.com/centre/redcliffe-labs-collection-center-gadarwara-cc-diagnostic-centre-gadarwara-narsinghpur-265133",
+    "rating": 4.8,
+    "reviews_count": 23,
+    "address": "1st Floor, Ballabh Market, Gadarwara, Madhya Pradesh 487551",
+    "area": "461990",
+    "latitude": 22.923600399999998,
+    "longitude": 78.7849664,
+    "place_id": "ChIJg_q-vT2pfzkR_eIJLOZKCX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg_q-vT2pfzkR_eIJLOZKCX8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:29:18"
+  }
+]

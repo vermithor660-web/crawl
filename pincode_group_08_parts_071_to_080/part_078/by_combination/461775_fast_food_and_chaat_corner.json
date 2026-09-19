@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain delight Restro & Cafe",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "461775",
+    "phone_number": "+91 94253 67350",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 27,
+    "address": "Hotel satpura safari gandhi chowk, Pachmarhi, Pachmarhi Cantt, Madhya Pradesh 461881",
+    "area": "461775",
+    "latitude": 22.4724698,
+    "longitude": 78.4367238,
+    "place_id": "ChIJlWjF3Ko7fjkR7vzaZMNd7bE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlWjF3Ko7fjkR7vzaZMNd7bE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:25:24"
+  },
+  {
+    "business_name": "Banke bihari",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "461775",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Sandiya Rd, near Nav Chetna school Right, in front of Ripta mandir, Pipariya, Madhya Pradesh 461775",
+    "area": "461775",
+    "latitude": 22.7651988,
+    "longitude": 78.35285499999999,
+    "place_id": "ChIJ0aY_7WhDfjkRWnlmxwcfum0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0aY_7WhDfjkRWnlmxwcfum0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:25:25"
+  }
+]

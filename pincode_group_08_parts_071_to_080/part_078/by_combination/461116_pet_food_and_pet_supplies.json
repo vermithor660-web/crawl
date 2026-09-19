@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pet Market",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "461116",
+    "phone_number": "+91 79745 16425",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "4, Chiklod Rd, Infront Jain Mandir, Murghi Bazar, Berkhedi, Jahangirabad, Bhopal, Madhya Pradesh 462008",
+    "area": "Infront Jain Mandir, Murghi Bazar, Berkhedi, Jahangirabad",
+    "latitude": 23.2513188,
+    "longitude": 77.41473669999999,
+    "place_id": "ChIJawfZ34JCfDkRSe0IHHQ3rRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJawfZ34JCfDkRSe0IHHQ3rRg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:02:08"
+  },
+  {
+    "business_name": "Shree Sai Pets",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "461116",
+    "phone_number": "+91 84603 06678",
+    "website": "https://shreesaipets.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "S.k Complex, India Colony Rd, opp. navdeep medical, Bapunagar, Ahmedabad, Gujarat 380024",
+    "area": "Thakkarbapanagar, Bapunagar",
+    "latitude": 23.039051399999998,
+    "longitude": 72.6374958,
+    "place_id": "ChIJEUSzEJOGXjkRNnRjb2JvqOY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEUSzEJOGXjkRNnRjb2JvqOY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:02:10"
+  }
+]

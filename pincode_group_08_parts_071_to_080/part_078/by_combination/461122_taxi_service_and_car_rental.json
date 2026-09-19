@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CAB BOOKING TAXI SERVICE",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "461122",
+    "phone_number": "+91 78272 58727",
+    "website": "http://outstationcabbooking-taxiservice.com/",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "Kaling Marg, Abhay Khand 3, Sector 4, Vaishali, Ghaziabad, Uttar Pradesh 201019",
+    "area": "Abhay Khand 3, Sector 4, Vaishali",
+    "latitude": 28.6440716,
+    "longitude": 77.3394193,
+    "place_id": "ChIJVVVR3ND6DDkRgNxG-KDI7mo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVR3ND6DDkRgNxG-KDI7mo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:04:24"
+  },
+  {
+    "business_name": "Citycarz Car Rental",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport Shuttle Service Provider, Car leasing service, Car rental agency, Chauffeur service, Limousine service, Minibus taxi service, Transportation service",
+    "pincode": "461122",
+    "phone_number": "+91 78789 69612",
+    "website": "https://citycarzservices.com/",
+    "rating": 5,
+    "reviews_count": 118,
+    "address": "AMAN CITY, G 501, Narol - Vatva Rd, opp. AMAN RESIDENCY-2, Amirnoor Nagar, Vatva, Ahmedabad, Gujarat 382445",
+    "area": "Amirnoor Nagar, Vatva",
+    "latitude": 22.9583999,
+    "longitude": 72.608772,
+    "place_id": "ChIJtWgu2RaPXjkRvNOUpc1UKn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtWgu2RaPXjkRvNOUpc1UKn8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:04:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prerna Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "460668",
+    "phone_number": "+91 99933 08863",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "7VHC+X22, Cement Road, Bhoura, Betul, Madhya Pradesh 460440",
+    "area": "460668",
+    "latitude": 22.2798978,
+    "longitude": 77.8700171,
+    "place_id": "ChIJUTzhIjj8fTkRtFXdSHqu3wI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUTzhIjj8fTkRtFXdSHqu3wI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:50:23"
+  },
+  {
+    "business_name": "Aditi Pharma & Surgicals",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "460668",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JWF7+XH6, Athner, Madhya Pradesh 460110",
+    "area": "460668",
+    "latitude": 21.624918599999997,
+    "longitude": 77.9138889,
+    "place_id": "ChIJvxGN1uV31jsRFm-MHL3UjYE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvxGN1uV31jsRFm-MHL3UjYE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 08:50:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Uniform Unicorn",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store, Clothing manufacturer, Clothing store, Clothing supplier",
+    "pincode": "461221",
+    "phone_number": "+91 98796 80689",
+    "website": "http://www.uniformunicorn.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Uniform Unicorn, GIDC, Khatodra Wadi, Surat, Gujarat 395002",
+    "area": "Khatodra Wadi",
+    "latitude": 21.1793767,
+    "longitude": 72.82755399999999,
+    "place_id": "ChIJuxtf5TVP4DsR7nQR-9G-yzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuxtf5TVP4DsR7nQR-9G-yzo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:05:49"
+  },
+  {
+    "business_name": "Global friendly company",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store",
+    "pincode": "461221",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "INDIAN PETROL PUMP, near DISTT. HOSPITAL, Khalilabad, Nauhat, Uttar Pradesh 272175",
+    "area": "461221",
+    "latitude": 26.8007441,
+    "longitude": 83.06529929999999,
+    "place_id": "ChIJUxTQThwlkTkR596pMlFGyek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUxTQThwlkTkR596pMlFGyek",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 09:05:49"
+  }
+]
