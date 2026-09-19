@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khandesh Dairy products",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service",
+    "pincode": "444101",
+    "phone_number": "+91 86685 43186",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "P278+6F9, Raut Wadi, Chhoti Umari, Akola, Maharashtra 444005",
+    "area": "Raut Wadi, Chhoti Umari",
+    "latitude": 20.713036,
+    "longitude": 77.01622549999999,
+    "place_id": "ChIJazvdNBku1zsRcLzrQGSWbuk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJazvdNBku1zsRcLzrQGSWbuk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:14:03"
+  },
+  {
+    "business_name": "Shree Krushanna Dairy Mumbai",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Barber shop",
+    "pincode": "444101",
+    "phone_number": "+91 80824 69400",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop 3, Datta Sankul, Akola Rd, near Essar Petrol Pump, Gokul Colony, Akot, Maharashtra 444101",
+    "area": "Gokul Colony",
+    "latitude": 21.0872526,
+    "longitude": 77.0517248,
+    "place_id": "ChIJZxxOBwAb1zsRCJmN7hJzOs4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZxxOBwAb1zsRCJmN7hJzOs4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:14:03"
+  }
+]

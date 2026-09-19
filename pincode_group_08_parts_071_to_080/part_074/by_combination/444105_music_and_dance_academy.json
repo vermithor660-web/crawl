@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Music classes",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Music school",
+    "all_categories": "Music school",
+    "pincode": "444105",
+    "phone_number": "+91 91689 46264",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "3rd floor, Santkrupa Complex, Bus Stop, opposite Jijai Garden, Warje Jakat Naka, Tapodham, Warje, Pune, Maharashtra 411058",
+    "area": "Warje Jakat Naka, Tapodham, Warje",
+    "latitude": 18.4822755,
+    "longitude": 73.8077246,
+    "place_id": "ChIJ2UT7_Cq_wjsRpCOwxd7EOV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2UT7_Cq_wjsRpCOwxd7EOV8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:22:34"
+  },
+  {
+    "business_name": "Dance Adda",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school",
+    "pincode": "444105",
+    "phone_number": "+91 84464 06666",
+    "website": "https://youtube.com/channel/UCiTLfXXXQu1gbSJhelMi1wg",
+    "rating": 4.9,
+    "reviews_count": 233,
+    "address": "Chhangani Nagar, Ram Mandir Rd, Amravati, Maharashtra 444605",
+    "area": "Sharda Vihar",
+    "latitude": 20.9146187,
+    "longitude": 77.74516659999999,
+    "place_id": "ChIJcRU7K7Wk1jsRgqNUZnfyfOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcRU7K7Wk1jsRgqNUZnfyfOU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:22:34"
+  }
+]

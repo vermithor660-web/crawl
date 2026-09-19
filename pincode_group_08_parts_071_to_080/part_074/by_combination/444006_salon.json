@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soham Hair Salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "444006",
+    "phone_number": "+91 89830 43919",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Santoshi Mata Mandir Road, Mominpura, Akola, Maharashtra 444006",
+    "area": "Mominpura",
+    "latitude": 20.7153498,
+    "longitude": 76.9987889,
+    "place_id": "ChIJBeGP_ecx1zsRZFJgbsgJwJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBeGP_ecx1zsRZFJgbsgJwJI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:11:09"
+  },
+  {
+    "business_name": "Hair Port",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "444006",
+    "phone_number": "+91 99753 80866",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Shop No 7, Dipak Chowk, Front Of Alfa Corner, near by Umeed Children Hospital, Kalal Ki Chaal, Mominpura, Akola, Maharashtra 444006",
+    "area": "Kalal Ki Chaal, Mominpura",
+    "latitude": 20.714181699999997,
+    "longitude": 77.0005999,
+    "place_id": "ChIJZZ7W0AYx1zsRRR_H-cH2Gbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZZ7W0AYx1zsRRR_H-cH2Gbo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:11:09"
+  }
+]

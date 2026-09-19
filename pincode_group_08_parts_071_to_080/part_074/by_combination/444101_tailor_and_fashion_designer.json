@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tejaswi Ladies tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "444101",
+    "phone_number": "+91 99221 51419",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Belkhed, Maharashtra 444108",
+    "area": "444101",
+    "latitude": 21.0616727,
+    "longitude": 76.8616591,
+    "place_id": "ChIJySHzYwAT1zsRdjn1ve5L87s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJySHzYwAT1zsRdjn1ve5L87s",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:14:17"
+  },
+  {
+    "business_name": "Durgai Drycleaners",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "444101",
+    "phone_number": "+91 86057 56096",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Durgai Drycleaners, Darshan Apartment, Ramdhan Plot, A/2/2579, Ramdaspeth Rd, Tapadia Nagar, Akola, Maharashtra 444005",
+    "area": "Tapadia Nagar",
+    "latitude": 20.7181763,
+    "longitude": 77.00919979999999,
+    "place_id": "ChIJ12i4v98x1zsR9sKoWhKc1Ng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ12i4v98x1zsR9sKoWhKc1Ng",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:14:18"
+  }
+]

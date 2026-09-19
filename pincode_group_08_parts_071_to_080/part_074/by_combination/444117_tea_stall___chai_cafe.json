@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BABU TEA STALL",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "444117",
+    "phone_number": "+91 79761 79358",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 1233,
+    "address": "5RFV+RX7, Gumanpura, Kota, Kota Municipal Area, Rajasthan 324007",
+    "area": "Gumanpura",
+    "latitude": 25.1745292,
+    "longitude": 75.84491919999999,
+    "place_id": "ChIJN9LRvsGbbzkRMT9TeAgsKeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN9LRvsGbbzkRMT9TeAgsKeY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:34:02"
+  },
+  {
+    "business_name": "Cafe Crave VTC",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Vegetarian cafe and deli",
+    "all_categories": "Vegetarian cafe and deli, Cafe, Coffee store, Fast food restaurant, Restaurant",
+    "pincode": "444117",
+    "phone_number": "+91 80874 90733",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 25,
+    "address": "CAFE CRAVE VTC, Main Rd, Badgaun Balhe, Kotamgaon Kh., Yeola, Maharashtra 423401",
+    "area": "Badgaun Balhe",
+    "latitude": 20.0369439,
+    "longitude": 74.4957967,
+    "place_id": "ChIJmYiejuw53DsR1oWEMOBg0mg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmYiejuw53DsR1oWEMOBg0mg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:34:03"
+  }
+]

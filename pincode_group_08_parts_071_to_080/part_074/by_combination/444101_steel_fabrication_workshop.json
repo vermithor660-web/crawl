@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarang welding workshop",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Welding supply store",
+    "all_categories": "Welding supply store",
+    "pincode": "444101",
+    "phone_number": "+91 97661 59625",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Akola Rd, near shyam provision, Tekdi Pura, Akot, Maharashtra 444101",
+    "area": "Tekdi Pura",
+    "latitude": 21.096497799999998,
+    "longitude": 77.0538919,
+    "place_id": "ChIJcZ70uN0b1zsRK-ePq5cIEcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcZ70uN0b1zsRK-ePq5cIEcE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:15:29"
+  },
+  {
+    "business_name": "Sanjay Fabrication",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Welding supply store",
+    "all_categories": "Welding supply store",
+    "pincode": "444101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2, Jawahar Nagar Rd, near Andhare Canting, Chhoti Umari, Akola, Maharashtra 444001",
+    "area": "Chhoti Umari",
+    "latitude": 20.7087973,
+    "longitude": 77.02023609999999,
+    "place_id": "ChIJiRuO1XAv1zsRbrhrqNUTH_4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiRuO1XAv1zsRbrhrqNUTH_4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:15:32"
+  }
+]

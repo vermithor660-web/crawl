@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mauli Medical",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical supply store",
+    "pincode": "444102",
+    "phone_number": "+91 90282 37359",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "O/p, Gadge Maharaj Shcool, Satguru Complex, Murtizapur - Karanja Rd, Akola, Maharashtra 444107",
+    "area": "Patwari Colony",
+    "latitude": 20.734936299999998,
+    "longitude": 77.362509,
+    "place_id": "ChIJ5Xxble3R1jsRUl94Sbg8gwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Xxble3R1jsRUl94Sbg8gwM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:16:21"
+  },
+  {
+    "business_name": "Aparna Medical",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store, General store, Drug store",
+    "pincode": "444102",
+    "phone_number": "+91 82756 56846",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Shop No 4, Gov Hospital, opp. Murtizapur, Patwari Colony, Murtizapur, Maharashtra 444107",
+    "area": "Patwari Colony",
+    "latitude": 20.734775799999998,
+    "longitude": 77.36205009999999,
+    "place_id": "ChIJUYXrZf3R1jsRg88S8FDZDis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUYXrZf3R1jsRg88S8FDZDis",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:16:21"
+  }
+]

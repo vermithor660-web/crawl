@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jay Maharashtra AC Bar and Restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "444108",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Jay Maharashtra AC Bar and Restaurant, near Anand Sagar, behind Hotel Shreeman, Anand Sagar, Shegaon, Maharashtra 444203",
+    "area": "Anand Sagar",
+    "latitude": 20.7678218,
+    "longitude": 76.69987139999999,
+    "place_id": "ChIJ77_hCPFF1zsRHMQM0bRkQ6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ77_hCPFF1zsRHMQM0bRkQ6Q",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:27:00"
+  },
+  {
+    "business_name": "Manasawali Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "444108",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 6,
+    "address": "Akolkhed, Maharashtra 444101",
+    "area": "444108",
+    "latitude": 21.151937999999998,
+    "longitude": 77.09234599999999,
+    "place_id": "ChIJZ5boPVsb1zsRAODkVO6T2F4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ5boPVsb1zsRAODkVO6T2F4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:27:01"
+  }
+]

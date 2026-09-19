@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agrawal Cold drinks",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "444203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "PH48+6XG, Baradari, Khamgaon, Maharashtra 444303",
+    "area": "Baradari",
+    "latitude": 20.7055635,
+    "longitude": 76.5674428,
+    "place_id": "ChIJRWdUoCBR1zsRWsNZ2sY-nbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRWdUoCBR1zsRWsNZ2sY-nbo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:40:58"
+  },
+  {
+    "business_name": "Sweety Ice Cream Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop, Restaurant",
+    "pincode": "444203",
+    "phone_number": "+91 94228 82329",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Baradari, Khamgaon, Maharashtra 444303",
+    "area": "Baradari",
+    "latitude": 20.705457799999998,
+    "longitude": 76.56946099999999,
+    "place_id": "ChIJxzy9kgNR1zsRv3bBTrEESRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxzy9kgNR1zsRv3bBTrEESRc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:40:59"
+  }
+]

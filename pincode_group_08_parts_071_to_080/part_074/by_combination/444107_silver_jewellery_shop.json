@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SK Agrawal Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "444107",
+    "phone_number": "+91 94201 02073",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Shop No 2 Jaisthamb, Chouk, Sirso, Maharashtra 444107",
+    "area": "State Bank Colony, Ganesh Nagar",
+    "latitude": 20.7348016,
+    "longitude": 77.3552729,
+    "place_id": "ChIJo_NOM5PR1jsRBRgqY2Wz8TU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo_NOM5PR1jsRBRgqY2Wz8TU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:25:15"
+  },
+  {
+    "business_name": "Maa Shakambari Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "444107",
+    "phone_number": "+91 94221 93717",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 19,
+    "address": "Pedestrian Opas, Ganesh Nagar, Sirso, Maharashtra 444107",
+    "area": "Ganesh Nagar",
+    "latitude": 20.7349779,
+    "longitude": 77.3534808,
+    "place_id": "ChIJ62mXE5PR1jsRxk78t_Ck0FU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62mXE5PR1jsRxk78t_Ck0FU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:25:17"
+  }
+]

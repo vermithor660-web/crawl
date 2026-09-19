@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shyam Garments",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "444106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "Main road, Kurum Ta.Murtizapur, Maharashtra 444106",
+    "area": "444106",
+    "latitude": 20.766146499999998,
+    "longitude": 77.5700203,
+    "place_id": "ChIJJSv0r4q31jsRP_AqVNR2afs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJSv0r4q31jsRP_AqVNR2afs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:23:24"
+  },
+  {
+    "business_name": "SW MEN'S WEAR",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "444106",
+    "phone_number": "+91 75078 95549",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Front of jayswal mess, Jawahar Nagar Rd, near samarth public school, Chhoti Umari, Akola, Maharashtra 444001",
+    "area": "Chhoti Umari",
+    "latitude": 20.7082667,
+    "longitude": 77.0177874,
+    "place_id": "ChIJXRuSwBwv1zsRLHyh2KM3mCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXRuSwBwv1zsRLHyh2KM3mCo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:23:25"
+  }
+]

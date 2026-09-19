@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sumit Electricals Company",
+    "search_category": "Electrician",
+    "primary_category": "Electrical engineer",
+    "all_categories": "Electrical engineer",
+    "pincode": "444104",
+    "phone_number": "+91 94214 83947",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Midc Phase 2, MIDC, Akola, Maharashtra 444001",
+    "area": "Midc Phase 2, MIDC",
+    "latitude": 20.6820988,
+    "longitude": 77.03874019999999,
+    "place_id": "ChIJo6L_ch0t1zsR9Y1LS7d-BEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo6L_ch0t1zsR9Y1LS7d-BEI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:20:21"
+  },
+  {
+    "business_name": "Padiya Marketing",
+    "search_category": "Electrician",
+    "primary_category": "Electrical & Electronics Stores",
+    "all_categories": "Electrical & Electronics Stores",
+    "pincode": "444104",
+    "phone_number": "+91 98232 83807",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no 09, JMD market, Jawahar Nagar Rd, near Shitala mata temple, Ram Nagar, Ranpise Nagar, Akola, Maharashtra 444001",
+    "area": "Ram Nagar, Ranpise Nagar",
+    "latitude": 20.7072911,
+    "longitude": 77.0135767,
+    "place_id": "ChIJb7OR4xwu1zsRCAx4pA8QRdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb7OR4xwu1zsRCAx4pA8QRdU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:20:23"
+  }
+]

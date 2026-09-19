@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nitin Motors",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service",
+    "pincode": "444006",
+    "phone_number": "+91 78757 45647",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Prerana nagar, Barshitakli Rd, Khadki Bk, Khadki, Akola, Maharashtra 444004",
+    "area": "Khadki Bk, Khadki",
+    "latitude": 20.6600367,
+    "longitude": 77.02717539999999,
+    "place_id": "ChIJ4RlqqBYt1zsRTN04j_t3sEo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4RlqqBYt1zsRTN04j_t3sEo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:10:51"
+  },
+  {
+    "business_name": "New Bharat Auto Engineering, Akola",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Electric motor vehicle dealer",
+    "all_categories": "Electric motor vehicle dealer, Auto electrical service, Auto parts store, Business center, Department of motor vehicles, Two Wheeler Dealer, Garage",
+    "pincode": "444006",
+    "phone_number": "+91 81497 71377",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": 10,
+    "address": "Grampanchayat Karyalay, Jangid Motors Infront of, Malkapur - Khadki Rd, Malkapur, Akola, Maharashtra 444004",
+    "area": "VHB Colony, Malkapur",
+    "latitude": 20.677619099999998,
+    "longitude": 77.0324572,
+    "place_id": "ChIJgfzTQX0x1zsRPCqax2IqYIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgfzTQX0x1zsRPCqax2IqYIQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:10:53"
+  }
+]

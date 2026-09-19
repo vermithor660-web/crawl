@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dharme Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "444117",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "33W7+VV5, Keshavraj Vetaal, Akot, Maharashtra 444101",
+    "area": "Keshavraj Vetaal",
+    "latitude": 21.097135299999998,
+    "longitude": 77.0647221,
+    "place_id": "ChIJXUChWA0b1zsRldNDa_FrKWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXUChWA0b1zsRldNDa_FrKWY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:33:54"
+  },
+  {
+    "business_name": "Warula Chakki",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "444117",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "22PP+M6P, Warula, Belgaon, Maharashtra 444117",
+    "area": "444117",
+    "latitude": 21.0367387,
+    "longitude": 77.0358676,
+    "place_id": "ChIJM49sGAAZ1zsRC68-5wxNNN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM49sGAAZ1zsRC68-5wxNNN4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:33:54"
+  }
+]

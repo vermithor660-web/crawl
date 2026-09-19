@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rehan Clinic",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "444117",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Hiwarkhed Rd, near Gitai Hospital, Appaswami Colony, Akot, Maharashtra 444101",
+    "area": "Appaswami Colony",
+    "latitude": 21.100218599999998,
+    "longitude": 77.0475052,
+    "place_id": "ChIJh3c0y9Yb1zsRkhfCdaR0Lcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh3c0y9Yb1zsRkhfCdaR0Lcc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:34:18"
+  },
+  {
+    "business_name": "Dr Rohit Vyawahare Hospital",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444117",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shri siddhivinayak accident hospital, Popatkhed Rd, opp. Canara bank Wakhariya jin, Appaswami Colony, Akot, Maharashtra 444101",
+    "area": "Appaswami Colony",
+    "latitude": 21.0973361,
+    "longitude": 77.053568,
+    "place_id": "ChIJE7wy6Esa1zsRCV7ELB0VIgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE7wy6Esa1zsRCV7ELB0VIgA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:34:19"
+  }
+]

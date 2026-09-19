@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Work",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "444005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "1st Floor, Yamuna Sankul, opp. Hospital Main Road, New Radhakisan Plots, Akola, Maharashtra 444001",
+    "area": "New Radhakisan Plots",
+    "latitude": 20.705413999999998,
+    "longitude": 77.0060254,
+    "place_id": "ChIJwTyDcwAx1zsREzBfUr-yexY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTyDcwAx1zsREzBfUr-yexY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:09:49"
+  },
+  {
+    "business_name": "Placement and entrepreneurship cell",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "444005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M2VF+H3X, Old RTO Rd, Midc Phase 2, Sahakar Nagar, Akola, Maharashtra 444104",
+    "area": "Midc Phase 2, Sahakar Nagar",
+    "latitude": 20.6945148,
+    "longitude": 77.0220595,
+    "place_id": "ChIJK6eCUqYv1zsRdG71YGr3G50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK6eCUqYv1zsRdG71YGr3G50",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:09:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MUSIC CLASS OFFICE",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Music school",
+    "all_categories": "Music school",
+    "pincode": "444204",
+    "phone_number": "+91 70381 12134",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road Malkapur, behind State Bank, Raj Nagar, Nandura, Maharashtra 443404",
+    "area": "Raj Nagar",
+    "latitude": 20.837307499999998,
+    "longitude": 76.4573156,
+    "place_id": "ChIJUxyzrFVf1zsR5589vxbICA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUxyzrFVf1zsR5589vxbICA0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:43:58"
+  },
+  {
+    "business_name": "नाद ब्रह्म Music Academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Music instructor",
+    "all_categories": "Music instructor, Service establishment",
+    "pincode": "444204",
+    "phone_number": "+91 98262 51605",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "नाद ब्रह्म Music Academy, 444204, India",
+    "area": "444204",
+    "latitude": 21.9658384,
+    "longitude": 76.0341514,
+    "place_id": "ChIJx9eA6r4z2DsRy7-elsktKxw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9eA6r4z2DsRy7-elsktKxw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:43:58"
+  }
+]

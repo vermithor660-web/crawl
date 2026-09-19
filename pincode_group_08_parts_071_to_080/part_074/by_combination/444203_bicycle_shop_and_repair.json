@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siddhant Bicycle Repair",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "444203",
+    "phone_number": "+91 99217 96990",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nazare Road, Teen Putada, Maharashtra 444203",
+    "area": "Teen Putada, Mahatma Jyotiba Phule Nagar",
+    "latitude": 20.7861725,
+    "longitude": 76.703319,
+    "place_id": "ChIJVdFZ77VF1zsRV_fekzQ-X1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVdFZ77VF1zsRV_fekzQ-X1c",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:41:38"
+  },
+  {
+    "business_name": "Sitai motors e-bikes and Riksha Auto Show room",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Showroom",
+    "all_categories": "Showroom",
+    "pincode": "444203",
+    "phone_number": "+91 82088 46548",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 16,
+    "address": "Shri Gajanan Maharaj hospital, opposite Khamgaon Road, Adarsha Nagar, SBI Colony, Shegaon, Maharashtra 444203",
+    "area": "Adarsha Nagar, SBI Colony",
+    "latitude": 20.7867992,
+    "longitude": 76.6839559,
+    "place_id": "ChIJ-7yNo-dF1zsR_Y5aDud6xfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-7yNo-dF1zsR_Y5aDud6xfk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:41:38"
+  }
+]

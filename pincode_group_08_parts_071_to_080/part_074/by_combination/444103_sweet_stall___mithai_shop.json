@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agarwal sweet home",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "444103",
+    "phone_number": "+91 87887 28989",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C432+HMH, Umbraj, Maharashtra 415109",
+    "area": "444103",
+    "latitude": 17.403928099999998,
+    "longitude": 74.1017308,
+    "place_id": "ChIJmZxwfQApwjsRavPnIPkIsC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmZxwfQApwjsRavPnIPkIsC8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:17:48"
+  },
+  {
+    "business_name": "Pornima Pure Veg & Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Bakery and Cake Shop, Chinese restaurant, Indian sweets shop, South Indian restaurant, Vegetarian restaurant",
+    "pincode": "444103",
+    "phone_number": "+91 74180 19129",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 324,
+    "address": "1, Jijaumata Chowk, Sai Nagar, Kinwat, Maharashtra 431804",
+    "area": "Sai Nagar",
+    "latitude": 19.6227694,
+    "longitude": 78.1984877,
+    "place_id": "ChIJ1Vxb7yY80jsRy7aX6oJgPs8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Vxb7yY80jsRy7aX6oJgPs8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:17:50"
+  }
+]

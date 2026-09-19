@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eagle Engineering",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Fastener supplier",
+    "all_categories": "Fastener supplier",
+    "pincode": "444203",
+    "phone_number": "+91 96321 44367",
+    "website": "https://eagleeng.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "First Floor, No. 22, Kothnur, Kothnoor Dinne, 8th Phase, Kalena Agrahara, Bengaluru, Karnataka 560076",
+    "area": "Kothnur, Kothnoor Dinne, 8th Phase, Kalena Agrahara",
+    "latitude": 12.8769811,
+    "longitude": 77.5852965,
+    "place_id": "ChIJr0UjVi4VrjsR33HbwFhYxzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr0UjVi4VrjsR33HbwFhYxzc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:42:33"
+  },
+  {
+    "business_name": "New Malkapur Hardware",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "444203",
+    "phone_number": "+91 95278 13816",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Malkapur, Akola, Maharashtra 444004",
+    "area": "Malkapur",
+    "latitude": 20.6769113,
+    "longitude": 77.03312629999999,
+    "place_id": "ChIJ5Wk9Buot1zsResmU4m3bpT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Wk9Buot1zsResmU4m3bpT4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:42:33"
+  }
+]

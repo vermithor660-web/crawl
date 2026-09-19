@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Oil Depot",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Store",
+    "pincode": "444203",
+    "phone_number": "+91 77000 07790",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "5XR2+73H, Gupta Niwas, Road No. 16, Kisan Nagar 2, Kisan Nagar, Thane West, Thane, Maharashtra 400604",
+    "area": "Kisan Nagar 2, Kisan Nagar, Thane West",
+    "latitude": 19.1915652,
+    "longitude": 72.9508519,
+    "place_id": "ChIJJX-plga55zsRPMnYMNuic5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJX-plga55zsRPMnYMNuic5g",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:41:01"
+  },
+  {
+    "business_name": "Purohit Food Products Pvt Ltd",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "444203",
+    "phone_number": "+91 22 2820 8157",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "New Empire Industrial Estate, Kondivita Rd, Mumbai, Maharashtra 400059",
+    "area": "Bhim Nagar, Andheri East",
+    "latitude": 19.114398899999998,
+    "longitude": 72.8704472,
+    "place_id": "ChIJdQmhfznI5zsRGFzFdRdHYdk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQmhfznI5zsRGFzFdRdHYdk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:41:01"
+  }
+]

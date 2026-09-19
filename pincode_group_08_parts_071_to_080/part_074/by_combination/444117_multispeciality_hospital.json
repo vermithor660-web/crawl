@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Malviya Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444117",
+    "phone_number": "+91 72424 58140",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shastri Nagar Rd, Shastri Nagar, Akola, Maharashtra 444001",
+    "area": "Shastri Nagar",
+    "latitude": 20.7054234,
+    "longitude": 77.0122049,
+    "place_id": "ChIJDS9wzSsv1zsRDfBmWYSA0jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDS9wzSsv1zsRDfBmWYSA0jo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:34:17"
+  },
+  {
+    "business_name": "Paramveer Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444117",
+    "phone_number": "+91 90283 80251",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Gorakshan Rd, Aadarsh Colony, Akola, Maharashtra 444004",
+    "area": "Aadarsh Colony",
+    "latitude": 20.6935203,
+    "longitude": 77.0141202,
+    "place_id": "ChIJAxDN96At1zsRquMMRazrK-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAxDN96At1zsRquMMRazrK-A",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:34:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHIPRA CSC AND MULTISERVICESS CENTRE",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "444201",
+    "phone_number": "+91 99220 31158",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 01, Main Road, near Grampanchayat, Bhongaon, Maharashtra 444203",
+    "area": "444201",
+    "latitude": 20.9150703,
+    "longitude": 76.6281315,
+    "place_id": "ChIJB4k1Xydd1zsRM6ZJqWL9ttI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB4k1Xydd1zsRM6ZJqWL9ttI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:38:42"
+  },
+  {
+    "business_name": "BHARATI COMPUTERS",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service",
+    "pincode": "444201",
+    "phone_number": "+91 96194 30494",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 26,
+    "address": "Sector 12, Kharghar, Panvel, Maharashtra 410210",
+    "area": "Sector 12, Kharghar",
+    "latitude": 19.0436621,
+    "longitude": 73.0676316,
+    "place_id": "ChIJ______PB5zsR4wVY4_GPenE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ______PB5zsR4wVY4_GPenE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:38:44"
+  }
+]

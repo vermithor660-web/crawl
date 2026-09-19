@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "360 SAMARTH WELLNESS AND FITTNESS CENTER",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "444109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PR98+P9M, near Laxmi Hospital, Teacher Colony, Paras, Maharashtra 444109",
+    "area": "Teacher Colony, Paras",
+    "latitude": 20.7192363,
+    "longitude": 76.8158993,
+    "place_id": "ChIJRTnbBABJ1zsRIowQ6XqGxAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRTnbBABJ1zsRIowQ6XqGxAs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:29:07"
+  },
+  {
+    "business_name": "Friends fitness club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "444109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "MQ88+MG4, Abad Nagar, Balapur, Maharashtra 444302",
+    "area": "Abad Nagar",
+    "latitude": 20.6666277,
+    "longitude": 76.7663208,
+    "place_id": "ChIJXZg0cQBL1zsRdwYYUw6gYpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXZg0cQBL1zsRdwYYUw6gYpQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:29:07"
+  }
+]

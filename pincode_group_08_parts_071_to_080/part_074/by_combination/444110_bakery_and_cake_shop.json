@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anas Sweet Mart",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "444110",
+    "phone_number": "+91 93593 93471",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Godad Shah, JG95, CJ 935, Baba Road, Maharashtra 444110",
+    "area": "444110",
+    "latitude": 20.619069,
+    "longitude": 77.5028315,
+    "place_id": "ChIJOcmnS2810TsR-LAKU3GhmDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOcmnS2810TsR-LAKU3GhmDk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:30:28"
+  },
+  {
+    "business_name": "Siddheshwar Cake Shop And Cake Tools",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "444110",
+    "phone_number": "+91 76207 21884",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "Mahalaxmi Complex,Nagartas Road, Malegaon, Malegaon Jahangir, Maharashtra 444503",
+    "area": "444110",
+    "latitude": 20.243878,
+    "longitude": 77.0038908,
+    "place_id": "ChIJq2F4X4vD0DsRPiS61jknYLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq2F4X4vD0DsRPiS61jknYLk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:30:29"
+  }
+]

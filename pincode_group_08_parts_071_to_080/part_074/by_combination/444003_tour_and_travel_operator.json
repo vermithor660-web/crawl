@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Matoshree tours and travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "444003",
+    "phone_number": "+91 90281 11595",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "MATOSHREE NIWAS, SHIV NAGAR, Mothi Umri, Akola, Maharashtra 444005",
+    "area": "SHIV NAGAR, Mothi Umri",
+    "latitude": 20.722068,
+    "longitude": 77.0251184,
+    "place_id": "ChIJUW8HYuMv1zsRZ-G7hHI44yg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUW8HYuMv1zsRZ-G7hHI44yg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:05:12"
+  },
+  {
+    "business_name": "Divya tours and travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "444003",
+    "phone_number": "+91 98226 68762",
+    "website": "https://t.ly/aaD0p",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Kharap Rd, Kharab Bk, Akola, Maharashtra 444003",
+    "area": "Kharab Bk",
+    "latitude": 20.7369731,
+    "longitude": 77.02584089999999,
+    "place_id": "ChIJYeS4q4cv1zsRzfdhbJMTj4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYeS4q4cv1zsRzfdhbJMTj4Q",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:05:12"
+  }
+]

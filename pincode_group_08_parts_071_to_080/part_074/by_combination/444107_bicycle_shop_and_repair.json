@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manish auto parts murtizapur",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store",
+    "pincode": "444107",
+    "phone_number": "+91 98605 80252",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Friday market, Kokanwadi, Murtizapur, Maharashtra 444107",
+    "area": "Kokanwadi",
+    "latitude": 20.736195,
+    "longitude": 77.36650379999999,
+    "place_id": "ChIJ82G8SdLR1jsRrP-RlQ4rtDk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ82G8SdLR1jsRrP-RlQ4rtDk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:25:39"
+  },
+  {
+    "business_name": "NEW BIKE SERVICE CENTER",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "444107",
+    "phone_number": "+91 97639 13091",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, MAIN ROAD, near SUB GOVERNMENT HOSPITAL, Patwari Colony, Murtizapur, Maharashtra 444107",
+    "area": "Patwari Colony",
+    "latitude": 20.734866999999998,
+    "longitude": 77.3619709,
+    "place_id": "ChIJ_clQw8nR1jsRvQC07aSqO8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_clQw8nR1jsRvQC07aSqO8c",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:25:40"
+  }
+]

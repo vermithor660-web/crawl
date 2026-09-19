@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Friends Computer Kurum",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "444110",
+    "phone_number": "+91 73048 10474",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kurum, Maharashtra 444106",
+    "area": "444110",
+    "latitude": 20.7639812,
+    "longitude": 77.5692785,
+    "place_id": "ChIJ-aX3vu631jsRMzvWkq3M_qk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-aX3vu631jsRMzvWkq3M_qk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:31:30"
+  },
+  {
+    "business_name": "Omkar Computer Typing Institute Washim",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "444110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "444R+9R4, Pusad Naka, Washim, Maharashtra 444505",
+    "area": "Pusad Naka",
+    "latitude": 20.1058961,
+    "longitude": 77.1420705,
+    "place_id": "ChIJ5fNMN_Pj0DsRQFoW08pxidg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5fNMN_Pj0DsRQFoW08pxidg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:31:34"
+  }
+]

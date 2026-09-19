@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pushpak kirana",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "444110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JG92+666, Unnamed Road, Kamargaon, Maharashtra 444110",
+    "area": "444110",
+    "latitude": 20.6180392,
+    "longitude": 77.500512,
+    "place_id": "ChIJ-S4ej4E10TsRfdTfpwFNwHQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-S4ej4E10TsRfdTfpwFNwHQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:32:03"
+  },
+  {
+    "business_name": "Kamal Traders",
+    "search_category": "Malls",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "444110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "BALAJI COMPLEX, 01, near Union Bank, Washim, Maharashtra 444505",
+    "area": "444110",
+    "latitude": 20.110138,
+    "longitude": 77.1307949,
+    "place_id": "ChIJFVVM_Q3j0DsRn8yIICoEX38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFVVM_Q3j0DsRn8yIICoEX38",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:32:05"
+  }
+]

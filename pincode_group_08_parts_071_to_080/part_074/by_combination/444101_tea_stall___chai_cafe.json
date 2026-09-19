@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mauli Krupa Tea Center",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "444101",
+    "phone_number": "+91 80103 92973",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 9,
+    "address": "Shop No 8 Main Road At, Chohatta, Maharashtra 444101",
+    "area": "444101",
+    "latitude": 20.920959099999997,
+    "longitude": 77.0077821,
+    "place_id": "ChIJbyGKO5c91zsRTeGeerX7S6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbyGKO5c91zsRTeGeerX7S6s",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:14:07"
+  },
+  {
+    "business_name": "Chintamani Cold And Tea",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "444101",
+    "phone_number": "+91 91308 05090",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Front Of Agresen Bhawan,Mata Maidan,Akot Di. Akola Mata Maidan,Akot, Di, Akola, Maharashtra 444006",
+    "area": "Mominpura",
+    "latitude": 20.715519999999998,
+    "longitude": 77.00107059999999,
+    "place_id": "ChIJ_xctpr4x1zsRJyzoaZ-KUmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_xctpr4x1zsRJyzoaZ-KUmA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:14:10"
+  }
+]

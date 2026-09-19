@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Insight Computer",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Computer store, Education center",
+    "pincode": "444107",
+    "phone_number": "N/A",
+    "website": "https://insight-computer.grexa.site/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "vaidya wada, near Police Station, Civil Line, Daryapur Banosa, Maharashtra 444803",
+    "area": "Civil Line",
+    "latitude": 20.9247887,
+    "longitude": 77.32702929999999,
+    "place_id": "ChIJC4ST70Ld1jsROHdaWKVVKaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC4ST70Ld1jsROHdaWKVVKaU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:26:14"
+  },
+  {
+    "business_name": "Mauli online & multi services 💻",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "444107",
+    "phone_number": "+91 93251 08836",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sarkari dawakhana, jwala Shri Ganesh Lakshmi mandir, samor, Daryapur, Maharashtra 444803",
+    "area": "samor",
+    "latitude": 20.9237908,
+    "longitude": 77.3496708,
+    "place_id": "ChIJ7Uq8iwDd1jsR_XmZkGE1fDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Uq8iwDd1jsR_XmZkGE1fDc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:26:14"
+  }
+]

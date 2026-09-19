@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jatharpeth",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real Estate Agents",
+    "all_categories": "Real Estate Agents",
+    "pincode": "444005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Akola, Maharashtra 444005",
+    "area": "Jatharpeth",
+    "latitude": 20.718763,
+    "longitude": 77.01758319999999,
+    "place_id": "ChIJFQLCjiIu1zsR9H8YpghR0Dk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFQLCjiIu1zsR9H8YpghR0Dk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:09:53"
+  },
+  {
+    "business_name": "नवले पाटील ( homes)",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "444005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P28H+G53, Gurudev Nagar, Vitthal Nagar, Mothi Umri, Akola, Maharashtra 444005",
+    "area": "Gurudev Nagar, Vitthal Nagar, Mothi Umri",
+    "latitude": 20.716257199999998,
+    "longitude": 77.0279256,
+    "place_id": "ChIJbfKgcAAv1zsR9W1q-yI6Utw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbfKgcAAv1zsR9W1q-yI6Utw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:09:53"
+  }
+]

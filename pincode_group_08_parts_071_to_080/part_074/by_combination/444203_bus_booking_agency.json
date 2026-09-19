@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Avinash Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Transportation escort service",
+    "pincode": "444203",
+    "phone_number": "+91 72760 09128",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "QMRP+867, Watika, Shegaon, Maharashtra 444203",
+    "area": "SBI Colony",
+    "latitude": 20.7907898,
+    "longitude": 76.685553,
+    "place_id": "ChIJTQBT2w1F1zsRHmP9oMnypr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQBT2w1F1zsRHmP9oMnypr8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:41:39"
+  },
+  {
+    "business_name": "Sangitam Travels Shegaon",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "444203",
+    "phone_number": "+91 95618 68082",
+    "website": "N/A",
+    "rating": 2.4,
+    "reviews_count": null,
+    "address": "Khamgaon Rd, near Gajanan Maharaj Vatika Garden, SBI Colony, Shegaon, Maharashtra 444203",
+    "area": "SBI Colony",
+    "latitude": 20.7911163,
+    "longitude": 76.68572379999999,
+    "place_id": "ChIJX49cFtVF1zsRhzdPWRB2cyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX49cFtVF1zsRhzdPWRB2cyk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:41:39"
+  }
+]

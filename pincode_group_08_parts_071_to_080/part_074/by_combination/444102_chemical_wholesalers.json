@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goyal Soap industries",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Industrial chemicals wholesaler",
+    "all_categories": "Industrial chemicals wholesaler",
+    "pincode": "444102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Borgaon, Maharashtra 444102",
+    "area": "444102",
+    "latitude": 20.718329,
+    "longitude": 77.16166319999999,
+    "place_id": "ChIJ_14mx_0p1zsROWHo41BoVKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_14mx_0p1zsROWHo41BoVKc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:17:24"
+  },
+  {
+    "business_name": "MANIKJI METACHEM PVT LTD",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer",
+    "pincode": "444102",
+    "phone_number": "+91 84466 00957",
+    "website": "http://www.manikjimeta.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4, Shriram Nagar, Sirso, Maharashtra 444107",
+    "area": "Shriram Nagar",
+    "latitude": 20.7485468,
+    "longitude": 77.36196029999999,
+    "place_id": "ChIJQVrz1__R1jsRtnSr87TzgwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQVrz1__R1jsRtnSr87TzgwI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:17:25"
+  }
+]

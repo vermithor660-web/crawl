@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GURUUKRUPA WHOLESALE MART",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "444303",
+    "phone_number": "+91 74995 97181",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gurukrupa Wholesale Mart, Sati Fail, Khamgaon, Maharashtra 444303",
+    "area": "Sati Fail",
+    "latitude": 20.7036473,
+    "longitude": 76.569603,
+    "place_id": "ChIJM2MXuY1R1zsRFTE8Pp9vsvE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM2MXuY1R1zsRFTE8Pp9vsvE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:48:15"
+  },
+  {
+    "business_name": "DARSHIKA SUPER MART",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "444303",
+    "phone_number": "+91 98907 12182",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no.2, Darshika Super Mart, Shegaon Rd, MSEB Colony, Khamgaon Rural, Maharashtra 444303",
+    "area": "MSEB Colony",
+    "latitude": 20.7105693,
+    "longitude": 76.5870149,
+    "place_id": "ChIJ0yvuApBR1zsRNkTXCUdGRzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0yvuApBR1zsRNkTXCUdGRzo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:48:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tea Corner Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "444103",
+    "phone_number": "+91 84129 07780",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "KT nagar square, Katol Rd, KT Nagar, Nagpur, Maharashtra 440013",
+    "area": "KT Nagar",
+    "latitude": 21.176395,
+    "longitude": 79.04981579999999,
+    "place_id": "ChIJDZQWNgbB1DsR3h-8uFmAOLE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZQWNgbB1DsR3h-8uFmAOLE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:17:50"
+  },
+  {
+    "business_name": "Khowa ChaiWala",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop, Tea store",
+    "pincode": "444103",
+    "phone_number": "+91 84598 88515",
+    "website": "https://www.instagram.com/khowa_chaiwala?igsh=MTBrMDBncG83MzJpNg==",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No-9, Metro Plaza, Ring Road Square, Gorewada, Nagpur, Maharashtra 440013",
+    "area": "Gorewada",
+    "latitude": 21.1862438,
+    "longitude": 79.0508124,
+    "place_id": "ChIJ79FYMivB1DsRKGmBiyjTCH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ79FYMivB1DsRKGmBiyjTCH8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:17:50"
+  }
+]

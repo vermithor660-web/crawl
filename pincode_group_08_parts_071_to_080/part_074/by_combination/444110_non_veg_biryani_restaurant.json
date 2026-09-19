@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tandoori Nights",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant, Dhaba, Fast food restaurant",
+    "pincode": "444110",
+    "phone_number": "+91 80071 47910",
+    "website": "N/A",
+    "rating": 2.9,
+    "reviews_count": 7331,
+    "address": "Nagpur - Chhatrapati Sambhaji Nagar Hwy, Belora Hirapur, Maharashtra 444701",
+    "area": "444110",
+    "latitude": 20.8056387,
+    "longitude": 77.6998246,
+    "place_id": "ChIJ83uPf1iw1jsRGjwTp2ezRhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ83uPf1iw1jsRGjwTp2ezRhQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:30:30"
+  },
+  {
+    "business_name": "Charminar Biryani House",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "444110",
+    "phone_number": "+91 86690 22702",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 25,
+    "address": "Shop No. 18, at Tapdia Cine Market, Plot No.01, Sector C, Town Centre, N 1, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Sector C, Town Centre, N 1, Cidco",
+    "latitude": 19.8788128,
+    "longitude": 75.36604249999999,
+    "place_id": "ChIJ-_1IPC6j2zsRX48pvI9m4vA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-_1IPC6j2zsRX48pvI9m4vA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:30:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "T1 Salon Jawed Habib",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hair salon",
+    "pincode": "444203",
+    "phone_number": "+91 88882 27200",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Civil Line Rd, Shivalay Vihar, Khamgaon, Maharashtra 444303",
+    "area": "Shivalay Vihar",
+    "latitude": 20.7095236,
+    "longitude": 76.5659107,
+    "place_id": "ChIJa2W-M9lQ1zsRpNxS5wfprJQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa2W-M9lQ1zsRpNxS5wfprJQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:41:55"
+  },
+  {
+    "business_name": "Diamond Beauty Parlour and Academy",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "444203",
+    "phone_number": "+91 98503 08449",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jalamb Rd, Amrut Nagar, Sutala Kh., Maharashtra 444312",
+    "area": "Amrut Nagar",
+    "latitude": 20.7241499,
+    "longitude": 76.5667605,
+    "place_id": "ChIJDzCv4K1R1zsRwmMU8h7VfOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDzCv4K1R1zsRwmMU8h7VfOo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:41:57"
+  }
+]

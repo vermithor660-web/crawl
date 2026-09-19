@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KWALITY KING BAKERY",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "444107",
+    "phone_number": "+91 97639 13119",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Sarafa Line Rd, near Central Bank, State Bank Colony, Ganesh Nagar, Sirso, Maharashtra 444107",
+    "area": "State Bank Colony, Ganesh Nagar",
+    "latitude": 20.734866399999998,
+    "longitude": 77.3550317,
+    "place_id": "ChIJlczo3o3R1jsRNEFNmbx5SP4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlczo3o3R1jsRNEFNmbx5SP4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:25:05"
+  },
+  {
+    "business_name": "cafe cup of joy",
+    "search_category": "Patisserie",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop",
+    "pincode": "444107",
+    "phone_number": "+91 87669 29039",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 15,
+    "address": "Maa shakambhari chowk station area murtizapur Near vakratund bakery Shakambhari complex, Sirso, Maharashtra 444107",
+    "area": "Ganesh Nagar",
+    "latitude": 20.7346701,
+    "longitude": 77.35437639999999,
+    "place_id": "ChIJGTj_4kXR1jsRepZOfC_l5PA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGTj_4kXR1jsRepZOfC_l5PA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:25:07"
+  }
+]

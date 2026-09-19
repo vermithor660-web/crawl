@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lions Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "V9J8+JWQ, Bhakti Nagar, N 1, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "Bhakti Nagar, N 1, Cidco",
+    "latitude": 19.881575599999998,
+    "longitude": 75.3673544,
+    "place_id": "ChIJIRL2Cuui2zsRnU_W-jLJRKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIRL2Cuui2zsRnU_W-jLJRKA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:36:05"
+  },
+  {
+    "business_name": "POPLI EYE CARE",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "444126",
+    "phone_number": "+91 82696 11355",
+    "website": "https://id.vyaparify.com/popli-eye-care",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "near PUNJAB MANGAL BHWAN, RAJENDRA WARD, Ganj, Betul, Madhya Pradesh 460001",
+    "area": "RAJENDRA WARD, Ganj",
+    "latitude": 21.9004264,
+    "longitude": 77.9094728,
+    "place_id": "ChIJPYjBg3sJ1jsREW6xUFGnwYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPYjBg3sJ1jsREW6xUFGnwYo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:36:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ajay Printing Press",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "444006",
+    "phone_number": "+91 98239 86359",
+    "website": "https://ajay-printing-press.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mahta Mill Rd, Malipura, Akola, Maharashtra 444006",
+    "area": "Malipura",
+    "latitude": 20.7112077,
+    "longitude": 76.9918988,
+    "place_id": "ChIJG1VVAOwx1zsRAAAAsKyABRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG1VVAOwx1zsRAAAAsKyABRg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:11:28"
+  },
+  {
+    "business_name": "Utkarsh Entetprises",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "444006",
+    "phone_number": "+91 98502 63103",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "02, Jay Plaza, Akot Stand road, Damle Chowk, Ramdaspeth, Akola, Maharashtra 444006",
+    "area": "Ramdaspeth",
+    "latitude": 20.7157515,
+    "longitude": 77.0004639,
+    "place_id": "ChIJ0d9MH5Qx1zsRzdFWdZqETCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0d9MH5Qx1zsRzdFWdZqETCM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:11:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maharashtra Transport",
+    "search_category": "Packers and Movers",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "444303",
+    "phone_number": "+91 93726 36473",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "PH4F+33H, Baradari, Khamgaon, Maharashtra 444303",
+    "area": "Baradari",
+    "latitude": 20.7051828,
+    "longitude": 76.57275,
+    "place_id": "ChIJq5eIEE5R1zsR243aziZ-HwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq5eIEE5R1zsR243aziZ-HwI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:48:57"
+  },
+  {
+    "business_name": "Pawar transport",
+    "search_category": "Packers and Movers",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "444303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PGJP+FJ6, Khandelwal weigh bridge bridge, near Sutala Bk, MIDC, Sutala Bk., Maharashtra 444312",
+    "area": "MIDC, Khamgaon",
+    "latitude": 20.7311683,
+    "longitude": 76.5365133,
+    "place_id": "ChIJWbxQIeRX1zsRod23E6H8874",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWbxQIeRX1zsRod23E6H8874",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:48:57"
+  }
+]

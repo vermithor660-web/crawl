@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harsh@Home decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "444106",
+    "phone_number": "+91 90281 95142",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Toshniwal Layout, Dwarka Nagri, Akola, Maharashtra 444001",
+    "area": "Toshniwal Layout, Dwarka Nagri",
+    "latitude": 20.699675199999998,
+    "longitude": 77.0160691,
+    "place_id": "ChIJ5f75Tlgv1zsRfT2Y1xM4Znc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5f75Tlgv1zsRfT2Y1xM4Znc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:24:18"
+  },
+  {
+    "business_name": "TUX WEDDINGS",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "444106",
+    "phone_number": "+91 79772 38189",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M.S J-10 Phase III, MIDC, Shivani, Maharashtra 444004",
+    "area": "VHB Colony, MIDC",
+    "latitude": 20.679510399999998,
+    "longitude": 77.0363405,
+    "place_id": "ChIJ9_bstMMt1zsRbYsb1uyIFnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9_bstMMt1zsRbYsb1uyIFnI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:24:18"
+  }
+]

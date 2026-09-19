@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OMX Technologies - Digital Marketing Agency",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Advertising agency, Business development service, Graphic designer, Internet marketing service, Marketing consultant, Video editing service",
+    "pincode": "444110",
+    "phone_number": "+91 91049 99222",
+    "website": "https://omxtechnologies.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2nd floor, Solitaire Business Hub, H-2070, Society, opposite Neco Garden Road, Clover Park, Viman Nagar, Pune, Maharashtra 411014",
+    "area": "Clover Park, Viman Nagar",
+    "latitude": 18.563147999999998,
+    "longitude": 73.9141575,
+    "place_id": "ChIJL_dg0Lq5wjsR6O3_zHl18zk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL_dg0Lq5wjsR6O3_zHl18zk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:31:59"
+  },
+  {
+    "business_name": "iWrite India",
+    "search_category": "Digital Marketing Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Branding agency, E-commerce service, Graphic designer, Marketing agency, Marketing consultant, Software company, Video editing service, Web hosting company",
+    "pincode": "444110",
+    "phone_number": "+91 11 4300 3984",
+    "website": "https://iwriteindia.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "C-81, near ICICI Bank, Block C, Malviya Nagar, New Delhi, Delhi 110017",
+    "area": "Block C, Malviya Nagar",
+    "latitude": 28.536861599999998,
+    "longitude": 77.2103344,
+    "place_id": "ChIJK8mSCIDiDDkR40IWqFNKQqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK8mSCIDiDDkR40IWqFNKQqA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:31:59"
+  }
+]

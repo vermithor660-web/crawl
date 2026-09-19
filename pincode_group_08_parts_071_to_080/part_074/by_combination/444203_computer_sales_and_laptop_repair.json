@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anant Labdhi Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "444203",
+    "phone_number": "+91 86682 91134",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Station Road, Baradari, Khamgaon, Maharashtra 444303",
+    "area": "Baradari",
+    "latitude": 20.7054673,
+    "longitude": 76.56943629999999,
+    "place_id": "ChIJnYv7JSZR1zsRw6UOfbVzFTg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnYv7JSZR1zsRw6UOfbVzFTg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:42:16"
+  },
+  {
+    "business_name": "UDEEP SYSTEMS COMPUTER",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "444203",
+    "phone_number": "+91 80879 42426",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Shop No - 26 , Maharana Pratap Complex , Karnja Chowk Tilak Putala, MH MSH 24, Khamgaon, Maharashtra 444303",
+    "area": "Baradari",
+    "latitude": 20.7047873,
+    "longitude": 76.57164259999999,
+    "place_id": "ChIJsX5YHiBR1zsRlbNvd83ZR8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsX5YHiBR1zsRlbNvd83ZR8c",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:42:16"
+  }
+]

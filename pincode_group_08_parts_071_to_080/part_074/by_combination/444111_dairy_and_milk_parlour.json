@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dairy King",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "444111",
+    "phone_number": "+91 731 255 7133",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 78,
+    "address": "AF-175, Vijay Nagar, Scheme No 74C, Indore, Madhya Pradesh 452010",
+    "area": "Vijay Nagar, Scheme No 74C",
+    "latitude": 22.756356999999998,
+    "longitude": 75.8923428,
+    "place_id": "ChIJ9eZYyK4CYzkRuwsQ2Mi9ShY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9eZYyK4CYzkRuwsQ2Mi9ShY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:32:10"
+  },
+  {
+    "business_name": "Rajsons Dairy Products",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy Products Supplier",
+    "all_categories": "Dairy Products Supplier, Manufacturer",
+    "pincode": "444111",
+    "phone_number": "+91 755 425 8332",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 22,
+    "address": "Plot No, 4 To 8, JK Rd, Sector H, Govindpura Industrial Area, Bhopal, Madhya Pradesh 462023",
+    "area": "Sector H, Govindpura Industrial Area",
+    "latitude": 23.2669085,
+    "longitude": 77.4545594,
+    "place_id": "ChIJnQOsv-VpfDkRVoiY60HdMYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnQOsv-VpfDkRVoiY60HdMYk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:32:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harshashree parlour",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "444102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Wani, Rambhapur, Maharashtra 444102",
+    "area": "444102",
+    "latitude": 20.70958,
+    "longitude": 77.18589949999999,
+    "place_id": "ChIJfd6QHZsp1zsRSLYSO2V-hf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfd6QHZsp1zsRSLYSO2V-hf0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:16:46"
+  },
+  {
+    "business_name": "Ajay Clinical Lab",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "444102",
+    "phone_number": "+91 70285 05665",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No, 1, Main Road, near Hanuman Mandir, opp. Bhawane Medical, Borgaon Manju, Borgaon, Maharashtra 444102",
+    "area": "Borgaon Manju",
+    "latitude": 20.719481899999998,
+    "longitude": 77.1520752,
+    "place_id": "ChIJZXAXUu0p1zsRKwR9ML0fMq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXAXUu0p1zsRKwR9ML0fMq8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:16:48"
+  }
+]

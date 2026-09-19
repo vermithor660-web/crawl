@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHAIWALE BHAI",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "444102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Veer Bhagat Singh chowk, Kokanwadi Rd, Kokanwadi, Murtizapur, Maharashtra 444104",
+    "area": "Kokanwadi",
+    "latitude": 20.7346899,
+    "longitude": 77.3678357,
+    "place_id": "ChIJu21JSsTR1jsRhjVk2mzTLak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu21JSsTR1jsRhjVk2mzTLak",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:15:55"
+  },
+  {
+    "business_name": "Kapil Tea Shop",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "444102",
+    "phone_number": "+91 90117 41483",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 3, Shivaji Nagar, Akola, Maharashtra 444002",
+    "area": "Shivaji Nagar",
+    "latitude": 20.708850599999998,
+    "longitude": 76.98764539999999,
+    "place_id": "ChIJ79Gp1_Mx1zsRc5sdRndN2y0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ79Gp1_Mx1zsRc5sdRndN2y0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:15:58"
+  }
+]

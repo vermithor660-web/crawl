@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS Law Firm",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Law firm",
+    "all_categories": "Law firm",
+    "pincode": "444004",
+    "phone_number": "+91 80559 44185",
+    "website": "https://sslawfirm.in/",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "Madhupushpa apartment, flat no 7, behind new court building, Sangli, Vijaynagar, Maharashtra 416415",
+    "area": "Sangli, Vijaynagar",
+    "latitude": 16.8397966,
+    "longitude": 74.6047858,
+    "place_id": "ChIJZeWUc70jwTsRkkrleLIWK2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZeWUc70jwTsRkkrleLIWK2c",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:07:56"
+  },
+  {
+    "business_name": "Adv.Vikram Sawant Inamdar",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Lawyer",
+    "all_categories": "Lawyer",
+    "pincode": "444004",
+    "phone_number": "N/A",
+    "website": "https://www.facebook.com/adv.vikramsawi",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "District & Session Court, Shivajinagar, Pune, Maharashtra 411005",
+    "area": "Shivajinagar",
+    "latitude": 18.527922699999998,
+    "longitude": 73.85486019999999,
+    "place_id": "ChIJRaGJAOfBwjsRrLiAD91TsaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRaGJAOfBwjsRrLiAD91TsaA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:07:56"
+  }
+]

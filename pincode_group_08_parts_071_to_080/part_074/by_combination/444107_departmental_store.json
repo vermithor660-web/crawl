@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAHARA GENERAL STORES",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "444107",
+    "phone_number": "+91 98229 09431",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, STATION AREA, Tidke Nagar, Murtizapur, Maharashtra 444107",
+    "area": "Tidke Nagar",
+    "latitude": 20.7326774,
+    "longitude": 77.3588908,
+    "place_id": "ChIJsbNvJefR1jsRGXL8RoeEoJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsbNvJefR1jsRGXL8RoeEoJ8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:24:57"
+  },
+  {
+    "business_name": "SATGURU DAILY NEEDS",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "444107",
+    "phone_number": "+91 84218 59320",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SHOP NO . 1, AKOLA NAKA, Murtizapur - Karanja Rd, Vrundavan Nagar, Akola, Murtizapur, Maharashtra 444107",
+    "area": "Vrundavan Nagar",
+    "latitude": 20.7269742,
+    "longitude": 77.3645737,
+    "place_id": "ChIJm5srQObR1jsR3YSNDtuTEIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm5srQObR1jsR3YSNDtuTEIg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:24:57"
+  }
+]

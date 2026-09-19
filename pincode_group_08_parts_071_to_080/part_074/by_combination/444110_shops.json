@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sagar Pan Senter And Coldrinks",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "444110",
+    "phone_number": "+91 80072 92171",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 10,
+    "address": "Shop No 2, Nagpur Pune, High Bus Stop, Kamargaon, Maharashtra 444110",
+    "area": "444110",
+    "latitude": 20.620263299999998,
+    "longitude": 77.4983551,
+    "place_id": "ChIJi1BqxJM10TsRPh8li3TMYw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi1BqxJM10TsRPh8li3TMYw4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:32:06"
+  },
+  {
+    "business_name": "Al Noor Mobile Shop",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "444110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ke Samne, Al Noor Mobile Shop, Police Chowki, Kamargaon, Maharashtra 444110",
+    "area": "444110",
+    "latitude": 20.6178238,
+    "longitude": 77.5010142,
+    "place_id": "ChIJS2-u9oI10TsRilpN0NVgCNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS2-u9oI10TsRilpN0NVgCNc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:32:06"
+  }
+]

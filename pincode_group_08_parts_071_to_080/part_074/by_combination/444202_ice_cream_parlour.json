@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ansar Shaikh Taj Colddrink",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "444202",
+    "phone_number": "+91 70306 73370",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Water Tank, Bawanbir - Umra Road, Bawanbir, Maharashtra 444204",
+    "area": "444202",
+    "latitude": 21.0857217,
+    "longitude": 76.7114501,
+    "place_id": "ChIJo3G4EZ1v1zsRTVH6ILLbqvE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3G4EZ1v1zsRTVH6ILLbqvE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:39:24"
+  },
+  {
+    "business_name": "Shri Sai Shri Gajanan Gajanan cold drink and ice cream parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "444202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2MJM+X2H, Sangrampur, Maharashtra 444202",
+    "area": "444202",
+    "latitude": 21.0324484,
+    "longitude": 76.6826066,
+    "place_id": "ChIJk1MUSnhp1zsRAvjWpJjQtzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk1MUSnhp1zsRAvjWpJjQtzk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:39:24"
+  }
+]

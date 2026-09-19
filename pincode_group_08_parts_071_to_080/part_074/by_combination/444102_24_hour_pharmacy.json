@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Sai Medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "444102",
+    "phone_number": "+91 94216 31984",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opp. Idbi Bank Gangadhar Plot, Mominpura, Akola, Maharashtra 444001",
+    "area": "Mominpura",
+    "latitude": 20.7140289,
+    "longitude": 77.0026833,
+    "place_id": "ChIJr7Xptj4x1zsRQNG4DK6PYdg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr7Xptj4x1zsRQNG4DK6PYdg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:16:15"
+  },
+  {
+    "business_name": "Sahara Medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Local medical services",
+    "pincode": "444102",
+    "phone_number": "+91 73504 01960",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 2, near Bus Stand, Pinjar, Maharashtra 444407",
+    "area": "444102",
+    "latitude": 20.5468886,
+    "longitude": 77.25865809999999,
+    "place_id": "ChIJeRZD9f8r0TsRwWjtLqiWBBg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeRZD9f8r0TsRwWjtLqiWBBg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:16:16"
+  }
+]

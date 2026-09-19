@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adhira Footwear And Running Shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "444103",
+    "phone_number": "+91 85309 50887",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Main Rd, near Z P School, Hiwarkhed, Maharashtra 444103",
+    "area": "444103",
+    "latitude": 21.132614,
+    "longitude": 76.860102,
+    "place_id": "ChIJDSHHvBIT1zsROBf4vFlYgtI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDSHHvBIT1zsROBf4vFlYgtI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:18:00"
+  },
+  {
+    "business_name": "Shivshakti Dange boot house",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "444103",
+    "phone_number": "+91 87880 57176",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Chandika chowk hiwarkhed rup, Hiwarkhed, Maharashtra 444103",
+    "area": "444103",
+    "latitude": 21.1325015,
+    "longitude": 76.8599687,
+    "place_id": "ChIJD-zo8gYT1zsROPVborBAsr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD-zo8gYT1zsROPVborBAsr0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:18:02"
+  }
+]

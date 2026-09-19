@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Paints And Hardware",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paintings store",
+    "all_categories": "Paintings store",
+    "pincode": "444117",
+    "phone_number": "+91 2487 232 222",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 38,
+    "address": "Kasti, Maharashtra 414701",
+    "area": "444117",
+    "latitude": 18.547272,
+    "longitude": 74.58404879999999,
+    "place_id": "ChIJfZwmF_0_wzsRi_Zamutlg_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfZwmF_0_wzsRi_Zamutlg_E",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:34:38"
+  },
+  {
+    "business_name": "Nerolac Paints Store",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "444117",
+    "phone_number": "+91 97786 41021",
+    "website": "https://www.nerolac.com/",
+    "rating": 4.5,
+    "reviews_count": 15,
+    "address": "Choudhury Bazar, Nandi Sahi, Kataka, Odisha 753001",
+    "area": "Choudhury Bazar, Nandi Sahi",
+    "latitude": 20.4647,
+    "longitude": 85.86699999999999,
+    "place_id": "ChIJP170DvMNGToRyX0qdZ7B6ZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP170DvMNGToRyX0qdZ7B6ZQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:34:38"
+  }
+]

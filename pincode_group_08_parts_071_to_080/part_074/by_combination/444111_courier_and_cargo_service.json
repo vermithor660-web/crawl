@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "post",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "444111",
+    "phone_number": "N/A",
+    "website": "http://www.indiapost.gov.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "V4PG+7VP, At, Dahihanda, Maharashtra 444111",
+    "area": "Dahihanda",
+    "latitude": 20.8857212,
+    "longitude": 77.12720689999999,
+    "place_id": "ChIJFXg5Q8om1zsRbXuL7ApkKqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFXg5Q8om1zsRbXuL7ApkKqg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:33:29"
+  },
+  {
+    "business_name": "DSK GLOBAL Express Pvt Ltd",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "444111",
+    "phone_number": "+91 94413 00231",
+    "website": "http://www.dskglobal.in/",
+    "rating": 5,
+    "reviews_count": 114,
+    "address": "Plot no : 2-52/1, Ground floor ,Opp Metro Pillar C1728 and EASTIN Hotels , Madhapur, HITEC City, Hyderabad, Telangana 500081",
+    "area": "Megha Hills, Sri Sai Nagar, HITEC City",
+    "latitude": 17.4411006,
+    "longitude": 78.3921124,
+    "place_id": "ChIJH8XqR06RyzsRsWgnQtzK1fY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH8XqR06RyzsRsWgnQtzK1fY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:33:32"
+  }
+]

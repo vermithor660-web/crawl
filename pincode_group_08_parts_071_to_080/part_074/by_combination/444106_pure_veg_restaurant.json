@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Tulsi Pure Veg",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "444106",
+    "phone_number": "+91 78751 00261",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Murtizapur, Hendaj, Maharashtra 444107",
+    "area": "444106",
+    "latitude": 20.7327288,
+    "longitude": 77.39946479999999,
+    "place_id": "ChIJ-bfBOwDP1jsRmJTawBMUmBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-bfBOwDP1jsRmJTawBMUmBY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:23:16"
+  },
+  {
+    "business_name": "Sikchi Pure Veg Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Restaurant",
+    "pincode": "444106",
+    "phone_number": "+91 94229 18804",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Sikchi Resort, beside Bus Stand, Walgaon, Maharashtra 444801",
+    "area": "Walgaon",
+    "latitude": 21.0108443,
+    "longitude": 77.6980178,
+    "place_id": "ChIJYQxSrZu91jsR67Y4MPSFws4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYQxSrZu91jsR67Y4MPSFws4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:23:16"
+  }
+]

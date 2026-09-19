@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Santkrupa Flowers",
+    "search_category": "Flower Decorator",
+    "primary_category": "Music instructor",
+    "all_categories": "Music instructor, Flower designer",
+    "pincode": "444005",
+    "phone_number": "+91 98505 99491",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "P277+JW3, Wakarewadi, Jatharpeth, Akola, Maharashtra 444005",
+    "area": "Wakarewadi, Jatharpeth",
+    "latitude": 20.7140037,
+    "longitude": 77.014782,
+    "place_id": "ChIJzX_J3x4u1zsRCgfaLVSOrVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzX_J3x4u1zsRCgfaLVSOrVk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:09:24"
+  },
+  {
+    "business_name": "munna flower decorator",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer, Service establishment",
+    "pincode": "444005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "munna flower decorator, 444005, India",
+    "area": "444005",
+    "latitude": 25.5907044,
+    "longitude": 85.1710769,
+    "place_id": "ChIJdckuX7BX7TkRV4262dIaqqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdckuX7BX7TkRV4262dIaqqY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:09:26"
+  }
+]

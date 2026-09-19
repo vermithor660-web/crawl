@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandak Rice Mill.",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill, Corporate office",
+    "pincode": "444301",
+    "phone_number": "+91 2553 220 810",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Bhandardara Chowk, Old Agra Rd, opp. Jain Mandir, Ghoti, Maharashtra 422402",
+    "area": "Ghoti",
+    "latitude": 19.717960299999998,
+    "longitude": 73.6281936,
+    "place_id": "ChIJd7hKNRiF3TsRKthIYyF3NEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd7hKNRiF3TsRKthIYyF3NEE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:44:37"
+  },
+  {
+    "business_name": "Amdapur, Maharashtra 444301",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "444301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Amdapur, Maharashtra",
+    "area": "444301",
+    "latitude": 20.395212,
+    "longitude": 76.4794435,
+    "place_id": "ChIJRRkGrO2n0DsR2C1nATC_o0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRRkGrO2n0DsR2C1nATC_o0w",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:44:38"
+  }
+]

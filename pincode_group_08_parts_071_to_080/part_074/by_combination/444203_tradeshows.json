@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S. Raj Events Shegaon",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "444203",
+    "phone_number": "+91 77768 79854",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khamgaon Rd, Adarsha Nagar, SBI Colony, Shegaon, Maharashtra 444203",
+    "area": "Adarsha Nagar, SBI Colony",
+    "latitude": 20.7867969,
+    "longitude": 76.683967,
+    "place_id": "ChIJc2GrIBtF1zsRpggmSp76NDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2GrIBtF1zsRpggmSp76NDo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:42:37"
+  },
+  {
+    "business_name": "Saraswati College, Shegaon",
+    "search_category": "Tradeshows",
+    "primary_category": "College",
+    "all_categories": "College, Institute of technology, Technical school",
+    "pincode": "444203",
+    "phone_number": "+91 93569 70144",
+    "website": "http://www.saraswaticollege.edu.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Survey No:374/1, Gaulkhed Road, Shegaon, Maharashtra 444203",
+    "area": "SBI Colony",
+    "latitude": 20.7909929,
+    "longitude": 76.67165949999999,
+    "place_id": "ChIJnV39E6RF1zsRLLEL5eiu1CU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnV39E6RF1zsRLLEL5eiu1CU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:42:37"
+  }
+]

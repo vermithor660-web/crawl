@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe Prime Time",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Restaurant",
+    "pincode": "444108",
+    "phone_number": "+91 72619 18111",
+    "website": "https://cafe-prime-time.grexa.site/",
+    "rating": 4.1,
+    "reviews_count": 434,
+    "address": "Signature Heights, Congress Nagar Rd, behind Shree Shekhawat's Bungalow, Amravati, Maharashtra 444606",
+    "area": "Shyam Nagar",
+    "latitude": 20.9276287,
+    "longitude": 77.77866999999999,
+    "place_id": "ChIJDxm0Foql1jsRjdM2N8dwbvw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDxm0Foql1jsRjdM2N8dwbvw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:26:56"
+  },
+  {
+    "business_name": "Akola News Network",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Television Channel",
+    "all_categories": "Television Channel, Advertising agency",
+    "pincode": "444108",
+    "phone_number": "+91 77209 90022",
+    "website": "http://www.akolanews.in/",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "Mishra complex, Tilak Rd, in front of Manik talkies, Malipura, Akola, Maharashtra 444006",
+    "area": "Malipura",
+    "latitude": 20.7141925,
+    "longitude": 76.99689169999999,
+    "place_id": "ChIJdx3GO-gx1zsRaaHDWToszlE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdx3GO-gx1zsRaaHDWToszlE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:26:56"
+  }
+]

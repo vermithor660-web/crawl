@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ASHA GENERAL",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Gift shop",
+    "pincode": "444005",
+    "phone_number": "+91 98905 54368",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Gayatri Nagar, Vitthal Nagar, Mothi Umri, Akola, Maharashtra 444005",
+    "area": "Gayatri Nagar, Vitthal Nagar, Mothi Umri",
+    "latitude": 20.7179051,
+    "longitude": 77.03482149999999,
+    "place_id": "ChIJ6yK9vWou1zsRlmCUqq69a2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6yK9vWou1zsRlmCUqq69a2U",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:08:21"
+  },
+  {
+    "business_name": "Vardman General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "444005",
+    "phone_number": "+91 98505 82106",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Shop No 4, Gore Appartment, No 3, Jatharpeth, Akola, Maharashtra 444005",
+    "area": "No 3, Jatharpeth",
+    "latitude": 20.718353099999998,
+    "longitude": 77.0148471,
+    "place_id": "ChIJkQ8E6SEu1zsRfrN9IYtu50Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkQ8E6SEu1zsRfrN9IYtu50Q",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:08:21"
+  }
+]

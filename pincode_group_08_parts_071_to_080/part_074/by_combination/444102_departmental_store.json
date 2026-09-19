@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soubhagya General Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, General store",
+    "pincode": "444102",
+    "phone_number": "+91 91568 09223",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Main Road, near Aathavdi Bajar, Gawande, Dahigaon, Akola, Maharashtra 444102",
+    "area": "Gawande",
+    "latitude": 20.7625367,
+    "longitude": 77.19520419999999,
+    "place_id": "ChIJW2_p_AnX1jsRG3TEG5DU2uE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW2_p_AnX1jsRG3TEG5DU2uE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:15:48"
+  },
+  {
+    "business_name": "Arun Enterprises",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "444102",
+    "phone_number": "+91 99226 45438",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1 Near Borgaon Manju Murtizapur Road, Nh 6, Hghiway, Akola, Maharashtra 444102",
+    "area": "444102",
+    "latitude": 20.715377399999998,
+    "longitude": 77.17715059999999,
+    "place_id": "ChIJ7VdhlHIp1zsR7-lQQ4jtyW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7VdhlHIp1zsR7-lQQ4jtyW8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:15:49"
+  }
+]

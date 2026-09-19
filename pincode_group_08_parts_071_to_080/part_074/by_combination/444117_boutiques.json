@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Simaya Outfits",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "444117",
+    "phone_number": "+91 88397 61139",
+    "website": "https://instagram.com/simayaoutfits?utm_medium=copy_link",
+    "rating": 4.9,
+    "reviews_count": 18,
+    "address": "Shastri Complex, Jhansi Rd, below Forever Fitness Gym, Ankur Colony, Makroniya, Sagar, Madhya Pradesh 470004",
+    "area": "Ankur Colony",
+    "latitude": 23.852532999999998,
+    "longitude": 78.7891727,
+    "place_id": "ChIJBcdVELnReDkRWW-T9Zp2Kek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBcdVELnReDkRWW-T9Zp2Kek",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:34:15"
+  },
+  {
+    "business_name": "Akarshan Bina's Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "444117",
+    "phone_number": "+91 240 233 3904",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "125, Varad Ganesh Mandir Rd, Samarth Nagar, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Samarth Nagar",
+    "latitude": 19.8784889,
+    "longitude": 75.3219096,
+    "place_id": "ChIJwejXLmeZ2zsR81ToYWyCJJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwejXLmeZ2zsR81ToYWyCJJM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:34:15"
+  }
+]

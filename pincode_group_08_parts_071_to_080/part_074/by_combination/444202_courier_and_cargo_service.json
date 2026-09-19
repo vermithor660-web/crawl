@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Post Office Palshi Zasi",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "444202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "3M5F+J34, Palshi Zasi, Maharashtra 444202",
+    "area": "444202",
+    "latitude": 21.059006699999998,
+    "longitude": 76.67271629999999,
+    "place_id": "ChIJGTJtCxtv1zsRI4n4ozsnQAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGTJtCxtv1zsRI4n4ozsnQAw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:40:36"
+  },
+  {
+    "business_name": "Post Office, Katel Dham",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "444202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3P2W+8C8, Katel, Maharashtra 444204",
+    "area": "444202",
+    "latitude": 21.050783499999998,
+    "longitude": 76.7460807,
+    "place_id": "ChIJOeADUXdt1zsRjFlDprg9kwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOeADUXdt1zsRjFlDprg9kwA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:40:36"
+  }
+]

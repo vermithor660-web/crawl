@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganga Paints & Hardware",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Hardware store",
+    "pincode": "444007",
+    "phone_number": "+91 90393 96222",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "G-1, Laxmi Plaza, G-1, Plot No- 125, Zone-II, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "Zone-II, Maharana Pratap Nagar",
+    "latitude": 23.229620399999998,
+    "longitude": 77.4368453,
+    "place_id": "ChIJAQAAwGdCfDkR3kaNXOH08JU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAwGdCfDkR3kaNXOH08JU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:12:54"
+  },
+  {
+    "business_name": "Asian Paints & Hardware Store",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "444007",
+    "phone_number": "+91 94250 16803",
+    "website": "http://www.asianpaints.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shop No: G-13, Ground Floor, Guru Kripa Plaza, Opp Citi Hospital, Zone-II, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "Near City Hospital, Zone-II, Maharana Pratap Nagar",
+    "latitude": 23.2304587,
+    "longitude": 77.4358769,
+    "place_id": "ChIJAQAAwGdCfDkRyjTLvt6agFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAwGdCfDkRyjTLvt6agFk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:12:54"
+  }
+]

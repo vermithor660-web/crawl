@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAYANK CHILDREN HOSPITAL",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444101",
+    "phone_number": "+91 75176 82251",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Railway Station Rd, Appaswami Colony, Akot, Maharashtra 444101",
+    "area": "Appaswami Colony",
+    "latitude": 21.0969361,
+    "longitude": 77.0514496,
+    "place_id": "ChIJiSEQ12Mb1zsR-PLCIMbuCgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiSEQ12Mb1zsR-PLCIMbuCgA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:14:27"
+  },
+  {
+    "business_name": "Gawande Maternity Children Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Gynecologist, Hospital",
+    "pincode": "444101",
+    "phone_number": "+91 93702 73737",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Purva nagar, Gawande maternity and children hospital, akola road, behind Vrindavan hotel, Gokul Colony, Akot, Maharashtra 444101",
+    "area": "Gokul Colony",
+    "latitude": 21.0853917,
+    "longitude": 77.0529138,
+    "place_id": "ChIJFagrYjQb1zsRozEyHEs2pp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFagrYjQb1zsRozEyHEs2pp0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:14:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adarsh kirana store",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "444303",
+    "phone_number": "+91 83292 02947",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Shop No 2, Newasa, opp. Devi Mandir, Dhangrwadi, Khamgaon, Maharashtra 414603",
+    "area": "Dhangrwadi",
+    "latitude": 19.5345025,
+    "longitude": 75.1487166,
+    "place_id": "ChIJk4j1kGV72zsR7vJRWK612zg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk4j1kGV72zsR7vJRWK612zg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:48:19"
+  },
+  {
+    "business_name": "Dnyaneshwar kirana store",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "444303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khamgaon, Maharashtra 443203",
+    "area": "444303",
+    "latitude": 19.9002077,
+    "longitude": 76.1631618,
+    "place_id": "ChIJp2eeLz5n2jsROpZSscMkVDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp2eeLz5n2jsROpZSscMkVDI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:48:19"
+  }
+]

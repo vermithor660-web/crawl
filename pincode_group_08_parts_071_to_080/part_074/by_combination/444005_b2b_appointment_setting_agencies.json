@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nishant Enterprises",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "444005",
+    "phone_number": "+91 97665 77886",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 0088, near Qwlry Bekery, Ranpise Nagar, Akola, Maharashtra 444001",
+    "area": "Ranpise Nagar",
+    "latitude": 20.7097074,
+    "longitude": 77.0170996,
+    "place_id": "ChIJt_pY3okv1zsRaIUtW0TX5H8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_pY3okv1zsRaIUtW0TX5H8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:10:06"
+  },
+  {
+    "business_name": "Ranpise Nagar Akola",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "444005",
+    "phone_number": "N/A",
+    "website": "https://ranpise-nagar-akola.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ranpise Nagar, Akola, Maharashtra 444001",
+    "area": "Ranpise Nagar",
+    "latitude": 20.707046899999998,
+    "longitude": 77.01565529999999,
+    "place_id": "ChIJzeLqRgAv1zsRUL5mH_pfsuE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzeLqRgAv1zsRUL5mH_pfsuE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:10:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nwellness",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center, Beauty Parlour, Day spa, Spa",
+    "pincode": "444126",
+    "phone_number": "+91 93918 03316",
+    "website": "https://nwellness.in/",
+    "rating": 4.6,
+    "reviews_count": 175,
+    "address": "First floor, Plot no. 6, Rd Number 3, UBI Colony, Andhra Pradesh Real Estate, Green Valley, Banjara Hills, Hyderabad, Telangana 500034",
+    "area": "UBI Colony, Andhra Pradesh Real Estate, Green Valley, Banjara Hills",
+    "latitude": 17.4246695,
+    "longitude": 78.43705779999999,
+    "place_id": "ChIJG8dfAACXyzsRFPjN9F1vBV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG8dfAACXyzsRFPjN9F1vBV4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:36:36"
+  },
+  {
+    "business_name": "Ayurved Prakrutik Panchkarma Chikitsa",
+    "search_category": "Wellness Center",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Addiction treatment center, Homeopath, Laser tag center, Massage therapist, Medical clinic, Neurologist, Private hospital, Ayurvedic clinic, Thai massage therapist",
+    "pincode": "444126",
+    "phone_number": "+91 93711 06567",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "No.6, Rajkamal Square, Namuna Lane, near Sahil Optical, Amravati, Maharashtra 444601",
+    "area": "444126",
+    "latitude": 20.9262566,
+    "longitude": 77.7529256,
+    "place_id": "ChIJlWdoOCil1jsRHD9VzAEq0eU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlWdoOCil1jsRHD9VzAEq0eU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:36:36"
+  }
+]

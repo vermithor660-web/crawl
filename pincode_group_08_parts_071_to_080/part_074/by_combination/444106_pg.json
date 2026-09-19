@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akshay's Mens PG Hostel",
+    "search_category": "PG",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "444106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 18,
+    "address": "28 Akshay Telecom colony, Akoli Rd, Amravati, Maharashtra 444605",
+    "area": "Ayodhya Vihar, Sharda Vihar",
+    "latitude": 20.911248999999998,
+    "longitude": 77.740183,
+    "place_id": "ChIJaYuXYk271jsRyoM4xbUim6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaYuXYk271jsRyoM4xbUim6A",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:24:14"
+  },
+  {
+    "business_name": "Dubey Agriculture Farm",
+    "search_category": "PG",
+    "primary_category": "Garden",
+    "all_categories": "Garden",
+    "pincode": "444106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QGPF+PG, Pota, Maharashtra 444106",
+    "area": "444106",
+    "latitude": 20.786804,
+    "longitude": 77.523871,
+    "place_id": "ChIJl1kz-RvJ1jsRcOoDypI6oWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl1kz-RvJ1jsRcOoDypI6oWQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:24:15"
+  }
+]

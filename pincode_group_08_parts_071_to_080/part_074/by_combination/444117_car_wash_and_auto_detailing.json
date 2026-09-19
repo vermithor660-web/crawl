@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAHALAXMI AUTOMOTIVE & WASHING CENTER",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto painting, Auto repair shop",
+    "pincode": "444117",
+    "phone_number": "+91 97301 08132",
+    "website": "http://mahalaxmiautomotive.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "besides ashapura hotel, Service Rd, near Chellaram Hospital, Sunarwadi, Patil Nagar, Bavdhan, mumbai, Pune, Maharashtra 411021",
+    "area": "Sunarwadi, Patil Nagar, Bavdhan",
+    "latitude": 18.5219566,
+    "longitude": 73.7701132,
+    "place_id": "ChIJCVzf0mO_wjsRMmGGUfIyR5Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCVzf0mO_wjsRMmGGUfIyR5Q",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:34:27"
+  },
+  {
+    "business_name": "DirtyClean Auto Detailing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "444117",
+    "phone_number": "+91 93210 10932",
+    "website": "https://www.dirtyclean.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9A, Ramchandra Ln, Malad, Kanchpada, Malad West, Mumbai, Maharashtra 400064",
+    "area": "Malad, Kanchpada, Malad West",
+    "latitude": 19.1879158,
+    "longitude": 72.8378896,
+    "place_id": "ChIJu8MLgKy35zsRQkf5fqh44oE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu8MLgKy35zsRQkf5fqh44oE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:34:30"
+  }
+]

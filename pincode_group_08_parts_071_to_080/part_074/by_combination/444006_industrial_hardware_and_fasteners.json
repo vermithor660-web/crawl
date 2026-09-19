@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhavsar Gruh Uddyog",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "444006",
+    "phone_number": "+91 99702 58606",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.1, Vasahat Natraj Chauk, near by Shivsena Road, Shivsena Nagar, Akola, Maharashtra 444002",
+    "area": "Shivsena Nagar",
+    "latitude": 20.6986512,
+    "longitude": 76.9811024,
+    "place_id": "ChIJu9Vl01gx1zsR798lP7eSPI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu9Vl01gx1zsR798lP7eSPI4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:11:48"
+  },
+  {
+    "business_name": "Fajil Shah Hardware",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "444006",
+    "phone_number": "+91 95037 16372",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1 Higana Fata, Akola, Maharashtra 444004",
+    "area": "Aadarsh Colony",
+    "latitude": 20.6879587,
+    "longitude": 77.00970939999999,
+    "place_id": "ChIJ5YWD83Az1zsR3hN1IrlPEeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5YWD83Az1zsR3hN1IrlPEeY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:11:48"
+  }
+]

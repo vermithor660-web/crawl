@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ROYAL TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "444126",
+    "phone_number": "+91 99236 82028",
+    "website": "http://www.royalbusonline.com/",
+    "rating": 3.1,
+    "reviews_count": 102,
+    "address": "NR.D-MART, 01, Mayurban Colony, Garkheda, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Mayurban Colony, Garkheda",
+    "latitude": 19.8577825,
+    "longitude": 75.3362118,
+    "place_id": "ChIJp3dPxYCY2zsRztL1Jqho_-k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp3dPxYCY2zsRztL1Jqho_-k",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:36:18"
+  },
+  {
+    "business_name": "Akshay Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Airline ticket agency",
+    "pincode": "444126",
+    "phone_number": "+91 253 245 9097",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 216,
+    "address": "Shanti Sadan, Nashik Rd, Near Bank of Baroda, Bytco Point, Government Colony, Nashik, Maharashtra 422101",
+    "area": "Near Bank of Baroda, Bytco Point, Government Colony",
+    "latitude": 19.9537531,
+    "longitude": 73.8383449,
+    "place_id": "ChIJS-fyOgHr3TsRen3suWrhcmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS-fyOgHr3TsRen3suWrhcmg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:36:18"
+  }
+]

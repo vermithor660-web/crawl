@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deshmukh servicing centre",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "444006",
+    "phone_number": "+91 99229 48393",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Haidarabad Road, Balapur, Maharashtra 444302",
+    "area": "Haidarabad Road",
+    "latitude": 20.665207799999997,
+    "longitude": 76.7833266,
+    "place_id": "ChIJVRT8301L1zsRMfy6NYMukBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVRT8301L1zsRMfy6NYMukBo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:10:47"
+  },
+  {
+    "business_name": "Dhuliya Auto Glass",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Lodging",
+    "all_categories": "Lodging",
+    "pincode": "444006",
+    "phone_number": "+91 93257 31985",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 44,
+    "address": "AH46, Shivani AirPort Area, Akola, Maharashtra 444104",
+    "area": "Shivani AirPort Area",
+    "latitude": 20.6913442,
+    "longitude": 77.0525794,
+    "place_id": "ChIJZ9sRAn0t1zsR5hf5PVRtsZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ9sRAn0t1zsR5hf5PVRtsZ4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:10:47"
+  }
+]

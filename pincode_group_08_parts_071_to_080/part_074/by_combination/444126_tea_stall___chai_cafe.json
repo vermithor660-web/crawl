@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Tapri",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "444126",
+    "phone_number": "+91 98901 96410",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 942,
+    "address": "Pandit Colony Rd, Pandit Colony, Nashik, Maharashtra 422002",
+    "area": "Pandit Colony",
+    "latitude": 20.004219799999998,
+    "longitude": 73.7776166,
+    "place_id": "ChIJz1XRfaLr3TsRedm3LMc5A8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz1XRfaLr3TsRedm3LMc5A8Y",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:35:46"
+  },
+  {
+    "business_name": "Prabhat chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea Manufacturer",
+    "all_categories": "Tea Manufacturer",
+    "pincode": "444126",
+    "phone_number": "+91 94218 93336",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "153, Washim - Akola Rd, Sane Guruji Nagar, At, Chandur, Akola, Maharashtra 444004",
+    "area": "Sane Guruji Nagar, At",
+    "latitude": 20.662260399999997,
+    "longitude": 77.024909,
+    "place_id": "ChIJ-cva_5At1zsRFqPLo7SNLQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-cva_5At1zsRFqPLo7SNLQ0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:35:49"
+  }
+]

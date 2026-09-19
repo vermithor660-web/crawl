@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Vedanta Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "444101",
+    "phone_number": "N/A",
+    "website": "https://thevedantahotel.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "1st Floor, 33X2+932, Sindhi Cp Rd, opposite WATER SUPPLY OFFICE, Appaswami Colony, Akot, Maharashtra 444101",
+    "area": "Appaswami Colony",
+    "latitude": 21.0984375,
+    "longitude": 77.05018749999999,
+    "place_id": "ChIJTf7MsEAb1zsRshmsKsct-AI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTf7MsEAb1zsRshmsKsct-AI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:15:04"
+  },
+  {
+    "business_name": "Shri Hari Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "444101",
+    "phone_number": "+91 84464 27046",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Food Park, Mandakini lawns, Akot, Maharashtra 444101",
+    "area": "444101",
+    "latitude": 21.0776339,
+    "longitude": 77.04930449999999,
+    "place_id": "ChIJSd_Tsawb1zsRrNYzAreauCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSd_Tsawb1zsRrNYzAreauCk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:15:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Purple United Kids",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store",
+    "pincode": "444007",
+    "phone_number": "N/A",
+    "website": "https://purpleunited.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Jai Bhawani, A-65, near Gulmohar, Phase 1, Rohit Nagar, Bawadiya Kalan, Gulmohar Colony, Bhopal, Madhya Pradesh 462039",
+    "area": "Phase 1, Rohit Nagar, Bawadiya Kalan, Gulmohar Colony",
+    "latitude": 23.1871615,
+    "longitude": 77.4365581,
+    "place_id": "ChIJefjltKLzRmMRAWbdnH3nSK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJefjltKLzRmMRAWbdnH3nSK4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:12:21"
+  },
+  {
+    "business_name": "Couture For Lil Brats",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store",
+    "pincode": "444007",
+    "phone_number": "+91 95149 50467",
+    "website": "http://www.instgram.com/coutureforlilbrats",
+    "rating": 4.7,
+    "reviews_count": 1248,
+    "address": "52A, Gangadeeshwar Koil St, Purasaiwakkam, Chennai, Tamil Nadu 600084",
+    "area": "Purasaiwakkam",
+    "latitude": 13.0823544,
+    "longitude": 80.2544116,
+    "place_id": "ChIJrzkTg-BlUjoR70nPJkGT57I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrzkTg-BlUjoR70nPJkGT57I",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:12:23"
+  }
+]

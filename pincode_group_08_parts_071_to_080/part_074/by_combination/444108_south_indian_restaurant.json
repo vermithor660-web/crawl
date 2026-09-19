@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ADHIRA DOSA CENTRE",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "444108",
+    "phone_number": "+91 97308 63999",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "near vatika, SBI Colony, Shegaon, Maharashtra 444203",
+    "area": "SBI Colony",
+    "latitude": 20.7905965,
+    "longitude": 76.6853837,
+    "place_id": "ChIJSSfrcaVF1zsRxXlT2AsC_c4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSSfrcaVF1zsRxXlT2AsC_c4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:26:57"
+  },
+  {
+    "business_name": "Pankaj Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, South Indian restaurant, Vegetarian restaurant",
+    "pincode": "444108",
+    "phone_number": "+91 98229 61421",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "near Gajanan Maharaj Temple, Shegaon, Maharashtra 444203",
+    "area": "444108",
+    "latitude": 20.7931384,
+    "longitude": 76.700711,
+    "place_id": "ChIJMVRBFApF1zsRqjrrvIgJ1Ns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMVRBFApF1zsRqjrrvIgJ1Ns",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:26:57"
+  }
+]

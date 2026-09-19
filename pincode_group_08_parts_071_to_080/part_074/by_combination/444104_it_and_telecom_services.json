@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "COMPUTER TECHNIQUES",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Internet service provider",
+    "pincode": "444104",
+    "phone_number": "+91 82757 30033",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ravindra Digamber Choudhari, C/o Shree Digamber Dagduji Chaudhari \"MATOSHREE\", 523 Post Shivaji Park, Kharap Rd, New Tapdia Nagar, Akola, Maharashtra 444003",
+    "area": "New Tapdia Nagar, Jafrabad",
+    "latitude": 20.7283546,
+    "longitude": 77.0231553,
+    "place_id": "ChIJZz5BvDou1zsRAAoe3EqcNGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZz5BvDou1zsRAAoe3EqcNGw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:20:54"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "444104",
+    "phone_number": "+91 94228 55183",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1LAHAN, Umari Rd, NNEARMAHADEV MANDIRAKOLAAkolaMAHARASHTRA, Akola, Maharashtra 444001",
+    "area": "NNEARMAHADEV MANDIRAKOLAAkolaMAHARASHTRA, Chhoti Umari",
+    "latitude": 20.7143242,
+    "longitude": 77.0178885,
+    "place_id": "ChIJXQzNLxsv1zsRHQSMyh_FeGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXQzNLxsv1zsRHQSMyh_FeGI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:20:55"
+  }
+]

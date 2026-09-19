@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ms Men's Wear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "444003",
+    "phone_number": "+91 70837 98902",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "1213 Aokot Fail Akola Quba Masjid Bharat Nagar, Maharashtra 444003",
+    "area": "Akot Fail, Jafrabad",
+    "latitude": 20.7325135,
+    "longitude": 76.999436,
+    "place_id": "ChIJKfh4Gv8x1zsRyamSAUx4wJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKfh4Gv8x1zsRyamSAUx4wJM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:04:46"
+  },
+  {
+    "business_name": "SS Men's Store",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "444003",
+    "phone_number": "+91 86684 10010",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bara Jyotiling Rd, Chhoti Umari, Akola, Maharashtra 444005",
+    "area": "Chhoti Umari",
+    "latitude": 20.712029599999997,
+    "longitude": 77.0160736,
+    "place_id": "ChIJh7nR4hIv1zsRv9uxFCSytqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh7nR4hIv1zsRv9uxFCSytqM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:04:47"
+  }
+]

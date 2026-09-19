@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "District Hospital, Washim",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "444110",
+    "phone_number": "+91 72522 35720",
+    "website": "http://www.districthospitalwashim.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "44CM+WV Akola Naka, near Municipal Council, opposite Municipal Council Shopping complex, Washim, Maharashtra 444505",
+    "area": "444110",
+    "latitude": 20.1217158,
+    "longitude": 77.13078759999999,
+    "place_id": "ChIJfwbHtMbj0DsRlrUKPZG8Ldw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfwbHtMbj0DsRlrUKPZG8Ldw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:30:47"
+  },
+  {
+    "business_name": "Khandeshwar multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444110",
+    "phone_number": "+91 97632 99819",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Dhanora kh, Washim, SH-209, Washim Dhanora Mangrulpir Road, Washim, Washim, Maharashtra 444409",
+    "area": "444110",
+    "latitude": 20.2176568,
+    "longitude": 77.332442,
+    "place_id": "ChIJ-Yr3KfYY0TsRYyyUYO69jSw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Yr3KfYY0TsRYyyUYO69jSw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:30:47"
+  }
+]

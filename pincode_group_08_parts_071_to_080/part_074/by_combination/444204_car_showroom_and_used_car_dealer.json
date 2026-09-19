@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Auto Deals",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "444204",
+    "phone_number": "+91 94214 94333",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Opp Goverment hospital c/0 KHAMGAON SAHKARI NO 1 GRAMseva santha sahakari, Shegaon Rd, Khamgaon, Maharashtra 444303",
+    "area": "Balaji Plots",
+    "latitude": 20.7084089,
+    "longitude": 76.5667041,
+    "place_id": "ChIJX30Nav9R1zsR0raK4qRaZlI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX30Nav9R1zsR0raK4qRaZlI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:43:22"
+  },
+  {
+    "business_name": "NATIONAL AUTO CONSULTANT DHAD",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer, Finance broker, Motor vehicle dealer",
+    "pincode": "444204",
+    "phone_number": "+91 98602 16062",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Buldhana road, Dhad, Maharashtra 443106",
+    "area": "444204",
+    "latitude": 20.407598999999998,
+    "longitude": 76.0125609,
+    "place_id": "ChIJ3Tw5Uowj2jsRONnrqqlxMFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Tw5Uowj2jsRONnrqqlxMFY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:43:25"
+  }
+]

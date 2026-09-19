@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nishant Traders",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Cement Supplier, Paint store, Pipe supplier, Sanitary inspection, Water Pump Supplier",
+    "pincode": "444104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M2GP+G29, Malkapur Rd, Ambika Nagar, Malkapur, Akola, Maharashtra 444004",
+    "area": "Ambika Nagar, Malkapur",
+    "latitude": 20.6762958,
+    "longitude": 77.0351185,
+    "place_id": "ChIJGwQHqekt1zsRbVJF5PoBKPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGwQHqekt1zsRbVJF5PoBKPA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:20:22"
+  },
+  {
+    "business_name": "Motwani Constructions",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "444104",
+    "phone_number": "+91 674 324 2008",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 5,
+    "address": "At post sarav, Maharashtra 444401",
+    "area": "444104",
+    "latitude": 20.6319241,
+    "longitude": 77.0777198,
+    "place_id": "ChIJUxTNWR8t1zsR3dp9TGbEsN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUxTNWR8t1zsR3dp9TGbEsN4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:20:22"
+  }
+]

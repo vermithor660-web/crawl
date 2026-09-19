@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adarsh Technical And Management Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "444003",
+    "phone_number": "+91 98223 65608",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Tata Market, Kumbhari Rd, Shivani AirPort Area, Akola, Maharashtra 444104",
+    "area": "Shivani AirPort Area",
+    "latitude": 20.6877052,
+    "longitude": 77.0480049,
+    "place_id": "ChIJJaMKhtEt1zsR_EDCfiSM3Ws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJaMKhtEt1zsR_EDCfiSM3Ws",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:05:45"
+  },
+  {
+    "business_name": "Sharp Computer",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer training school",
+    "all_categories": "Computer training school, Training center",
+    "pincode": "444003",
+    "phone_number": "+91 94043 74648",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 29,
+    "address": "Ring Rd, near Janorkar Mangal Karyalay, near Gorakshan Road, Lahariya Nagar, Kaulkhed, Akola, Maharashtra 444004",
+    "area": "Lahariya Nagar, Kaulkhed",
+    "latitude": 20.678861599999998,
+    "longitude": 77.011759,
+    "place_id": "ChIJu-ZIfuUt1zsRGeNn_dOeODI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu-ZIfuUt1zsRGeNn_dOeODI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:05:48"
+  }
+]

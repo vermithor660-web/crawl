@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohini Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Maternity Centre",
+    "all_categories": "Maternity Centre, Fertility clinic, Hospital, Women's health clinic",
+    "pincode": "444102",
+    "phone_number": "+91 72562 45888",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 67,
+    "address": "P9J5+HRG, Tidke Nagar, Murtizapur, Maharashtra 444107",
+    "area": "Tidke Nagar",
+    "latitude": 20.7314495,
+    "longitude": 77.3595777,
+    "place_id": "ChIJUTnyiu3R1jsR2lmCmWb_noc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUTnyiu3R1jsR2lmCmWb_noc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:16:15"
+  },
+  {
+    "business_name": "Vijaya Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Obstetrician-gynecologist",
+    "all_categories": "Obstetrician-gynecologist",
+    "pincode": "444102",
+    "phone_number": "+91 72424 88566",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 30,
+    "address": "Ring Rd, Samata Colony, Akola, Maharashtra 444004",
+    "area": "Samata Colony",
+    "latitude": 20.680303,
+    "longitude": 77.01927309999999,
+    "place_id": "ChIJwc9ylbAt1zsRNq9LMmKZGX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwc9ylbAt1zsRNq9LMmKZGX4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:16:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Punjabi Dhaba & Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Indian restaurant",
+    "pincode": "444005",
+    "phone_number": "+91 94030 91116",
+    "website": "https://newpunjabidhabarestaurant.shop/",
+    "rating": 4.1,
+    "reviews_count": 1918,
+    "address": "Nanda Market, 149, kanwar Nagar Rd, sai prasth Road, behind Dr bonde hospital, Rajapeth, Amravati, Maharashtra 444603",
+    "area": "Rajapeth, Vivekanand Colony",
+    "latitude": 20.919175499999998,
+    "longitude": 77.7588615,
+    "place_id": "ChIJhd3SKLqk1jsR55wJ6ZlBKEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhd3SKLqk1jsR55wJ6ZlBKEE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:08:25"
+  },
+  {
+    "business_name": "Hotel Deva Family Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "444005",
+    "phone_number": "+91 73852 18700",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Akola, NH-6, Nagpur Mumbai Highway, Murtijapur, Sonori, Maharashtra 444107",
+    "area": "444005",
+    "latitude": 20.723841999999998,
+    "longitude": 77.35924299999999,
+    "place_id": "ChIJF75OQvTR1jsRBsk4JJNcqoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF75OQvTR1jsRBsk4JJNcqoE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:08:27"
+  }
+]

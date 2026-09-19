@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maharana kela chips shop",
+    "search_category": "Fish Market",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "444109",
+    "phone_number": "+91 97303 63359",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Shop No 1, Bus Stand, Ward No 2, Main Road, opp. Water Tank, Shegaon, Jawala Palaskhed, Maharashtra 444203",
+    "area": "Shegaon",
+    "latitude": 20.7178432,
+    "longitude": 76.7111741,
+    "place_id": "ChIJ0VfEdABP1zsR8Qfd73dqGm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0VfEdABP1zsR8Qfd73dqGm4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:28:38"
+  },
+  {
+    "business_name": "Sagar Fish Center",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "444109",
+    "phone_number": "+91 95277 90670",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Athvadi Bajar Patur, Maharashtra 444109",
+    "area": "444109",
+    "latitude": 20.693840599999998,
+    "longitude": 76.7401591,
+    "place_id": "ChIJH6RP4TpJ1zsReLdmMFxI8GU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH6RP4TpJ1zsReLdmMFxI8GU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:28:38"
+  }
+]

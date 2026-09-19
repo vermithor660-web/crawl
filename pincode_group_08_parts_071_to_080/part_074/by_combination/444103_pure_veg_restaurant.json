@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL BALIRAJA-pure veg",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "444103",
+    "phone_number": "+91 72768 44120",
+    "website": "http://facebook.com/HotelBaliraja",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Yeola, Maharashtra 423401",
+    "area": "444103",
+    "latitude": 20.044936699999997,
+    "longitude": 74.48318789999999,
+    "place_id": "ChIJhWv43MY43DsRw5FN1R0fieU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhWv43MY43DsRw5FN1R0fieU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:17:50"
+  },
+  {
+    "business_name": "Saksham Cafe ( Pure Veg)",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "444103",
+    "phone_number": "+91 97672 26000",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Adarsh College - Akola Bypass Rd, Mauli Nagar, Ramakrishna Nagar, Balsond, Maharashtra 431513",
+    "area": "Mauli Nagar, Ramakrishna Nagar",
+    "latitude": 19.7418145,
+    "longitude": 77.1557478,
+    "place_id": "ChIJq2muh31T0DsR78mW15iY84c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq2muh31T0DsR78mW15iY84c",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:17:51"
+  }
+]

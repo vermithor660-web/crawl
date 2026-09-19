@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Google Ayurveda",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "444107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "189, SHRIPAT VADA, SONORI-BAPORI, Akola, Maharashtra 444107",
+    "area": "444107",
+    "latitude": 20.715756499999998,
+    "longitude": 77.3467996,
+    "place_id": "ChIJQ3RmwxDT1jsRR0fHhRqk3dQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ3RmwxDT1jsRR0fHhRqk3dQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:24:58"
+  },
+  {
+    "business_name": "Bramhandnayak Satvik Aahar",
+    "search_category": "Organic Food Store",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "444107",
+    "phone_number": "+91 73854 98259",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No. 19, Krushi Utpanna Bazar Samiti, Akot Rd, Samor, Sahakar Nagar, Daryapur Banosa, Maharashtra 444803",
+    "area": "Samor, Sahakar Nagar",
+    "latitude": 20.9224094,
+    "longitude": 77.3168149,
+    "place_id": "ChIJtRiSsjjd1jsRNmTFWRMYQXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtRiSsjjd1jsRNmTFWRMYQXw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:24:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saoji chainess and south Indian kamrgaon",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "444110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JF9X+WF4, Main Rd, Kamargaon, Maharashtra 444110",
+    "area": "444110",
+    "latitude": 20.619876599999998,
+    "longitude": 77.4987704,
+    "place_id": "ChIJ_81mPgA10TsRVqC7-9r4wZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_81mPgA10TsRVqC7-9r4wZ0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:30:30"
+  },
+  {
+    "business_name": "Rayba Food Point",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Soup kitchen",
+    "pincode": "444110",
+    "phone_number": "+91 73505 78830",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "8 Pratibha want Complex, Murtizapur, Maharashtra 444107",
+    "area": "State Bank Colony, Vrundavan Nagar",
+    "latitude": 20.7320217,
+    "longitude": 77.3577179,
+    "place_id": "ChIJTRFOd-zR1jsRx5B2s209kDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTRFOd-zR1jsRx5B2s209kDY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:30:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Gajanan Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "444110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gopala Tawor, Zp Highschool, Men Rod, Kamargaon, Maharashtra 444110",
+    "area": "444110",
+    "latitude": 20.618113299999997,
+    "longitude": 77.5006287,
+    "place_id": "ChIJz63bjcM00TsRkRjNpir_puw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz63bjcM00TsRkRjNpir_puw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:30:38"
+  },
+  {
+    "business_name": "Chiddarwar Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "444110",
+    "phone_number": "+91 78880 47331",
+    "website": "http://www.chiddarwarjewellers.com/",
+    "rating": 4.3,
+    "reviews_count": 118,
+    "address": "Devi Ward, Pusad, Maharashtra 445204",
+    "area": "Devi Ward",
+    "latitude": 19.912395099999998,
+    "longitude": 77.5765964,
+    "place_id": "ChIJpRTe-UZ10TsRrPGxyYx4dwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpRTe-UZ10TsRrPGxyYx4dwo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:30:40"
+  }
+]

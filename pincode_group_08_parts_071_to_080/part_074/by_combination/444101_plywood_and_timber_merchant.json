@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HARIOM PLYWOOD",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Lumber store",
+    "all_categories": "Lumber store",
+    "pincode": "444101",
+    "phone_number": "+91 98224 48477",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shivaji chowk, Hiwarkhed Rd, Gajanan Nagar, Akot, Maharashtra 444101",
+    "area": "Gajanan Nagar",
+    "latitude": 21.097781899999998,
+    "longitude": 77.05308,
+    "place_id": "ChIJbVNXrksa1zsRADPZKxpqHN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVNXrksa1zsRADPZKxpqHN0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:14:45"
+  },
+  {
+    "business_name": "Pethe Plywood",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier, Lumber store",
+    "pincode": "444101",
+    "phone_number": "+91 98503 43543",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "33X2+Q63, Popatkhed Rd, Ambika Nagar, Gajanan Nagar, Akot, Maharashtra 444101",
+    "area": "Ambika Nagar, Gajanan Nagar",
+    "latitude": 21.099391699999998,
+    "longitude": 77.0505618,
+    "place_id": "ChIJfWMwVkka1zsRzduQ9aknq2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfWMwVkka1zsRzduQ9aknq2s",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:14:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OYO 63177 Hotel Simran Heritage",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "444105",
+    "phone_number": "+91 124 620 1513",
+    "website": "https://www.oyorooms.com/85118/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "1, 2nd floor,Shanti Complex Jhansi Rani Chowk, Bypass, Karanja Lad, Washim, Maharashtra 444105",
+    "area": "Sudarshan Colony, Prashant Nagar",
+    "latitude": 20.479627,
+    "longitude": 77.47722999999999,
+    "place_id": "ChIJCxKT9KA30TsRdpuqYA_9GNE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCxKT9KA30TsRdpuqYA_9GNE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:22:23"
+  },
+  {
+    "business_name": "OYO 63434 Shital Residency And Restaurant",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "444105",
+    "phone_number": "+91 124 620 1513",
+    "website": "https://www.oyorooms.com/85464/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "181, Ugam Tower, 2, Jaistambh Rd, Gawalipura, Karanja Lad, Maharashtra 444105",
+    "area": "Gawalipura",
+    "latitude": 20.484064,
+    "longitude": 77.48542599999999,
+    "place_id": "ChIJC0quy_Q30TsRCD1BaCmuS6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC0quy_Q30TsRCD1BaCmuS6E",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:22:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri gajanan clinic ( Dr Mahesh Innani)",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "444109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Devi Khandan Naka, Vathorkar Market, Barshitakli Rd, opp. Sarkari Godown, Wathurkar Layout, Aadarsh Colony, Akola, Maharashtra 444004",
+    "area": "Wathurkar Layout, Aadarsh Colony",
+    "latitude": 20.6906437,
+    "longitude": 77.0082632,
+    "place_id": "ChIJo1DIuVoz1zsRyG0Jh-PG4C0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo1DIuVoz1zsRyG0Jh-PG4C0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:29:04"
+  },
+  {
+    "business_name": "Reliance Hospital (Unit Of Mandke Foundation)",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Nh6, Balapur Rd, Akola, Ridhora, Maharashtra 444302",
+    "area": "444109",
+    "latitude": 20.694008,
+    "longitude": 76.935565,
+    "place_id": "ChIJjVdxB1wx1zsRNxYzpm-5U28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVdxB1wx1zsRNxYzpm-5U28",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:29:05"
+  }
+]

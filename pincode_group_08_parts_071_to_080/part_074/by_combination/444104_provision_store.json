@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mayur Provision",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "444104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "M3WX+434, Dongargaon, Maharashtra 444104",
+    "area": "444104",
+    "latitude": 20.6952641,
+    "longitude": 77.0976932,
+    "place_id": "ChIJHzqJQwEs1zsRK2lctaZ-Yfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHzqJQwEs1zsRK2lctaZ-Yfo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:19:29"
+  },
+  {
+    "business_name": "Aditya Sawate Kirana",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "444104",
+    "phone_number": "+91 95520 42117",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Midc Phase 2, Kapilvastu Nagar, Shivani, Akola, Maharashtra 444104",
+    "area": "Midc Phase 2, Kapilvastu Nagar",
+    "latitude": 20.6827343,
+    "longitude": 77.04944979999999,
+    "place_id": "ChIJd1GqtBst1zsRO9IZHOasZ2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1GqtBst1zsRO9IZHOasZ2s",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:19:29"
+  }
+]

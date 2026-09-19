@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kitoff Pest Control",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service, Service establishment",
+    "pincode": "444101",
+    "phone_number": "N/A",
+    "website": "https://kitoffpestcontrol.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kitoff Pest Control, 444101, India",
+    "area": "444101",
+    "latitude": 18.8181773,
+    "longitude": 76.7698374,
+    "place_id": "ChIJ60MYMO2tGKERJmU7iAq11lI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ60MYMO2tGKERJmU7iAq11lI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:15:26"
+  },
+  {
+    "business_name": "SHINY CLEANING SERVICES",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Service establishment",
+    "pincode": "444101",
+    "phone_number": "N/A",
+    "website": "https://www.shinycleaningandservices.com/",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "SHINY CLEANING SERVICES, 444101, India",
+    "area": "444101",
+    "latitude": 41.0234677,
+    "longitude": -73.76496589999999,
+    "place_id": "ChIJy9IIkFOEumIR4KuWqGybvVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy9IIkFOEumIR4KuWqGybvVI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:15:28"
+  }
+]

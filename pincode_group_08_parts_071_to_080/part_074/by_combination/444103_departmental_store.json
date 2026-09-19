@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Melghat Kirana and Cold Drinks",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "444103",
+    "phone_number": "+91 90211 31755",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "1, Main Road, Po, Navi Talai, Khandala, Maharashtra 444103",
+    "area": "Po",
+    "latitude": 21.1869668,
+    "longitude": 76.8864043,
+    "place_id": "ChIJ60gxldoN1zsR8TdoJ2DXEw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ60gxldoN1zsR8TdoJ2DXEw0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:17:41"
+  },
+  {
+    "business_name": "Patanjali Gramin Arogya Kendra",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "444103",
+    "phone_number": "+91 93707 74700",
+    "website": "https://patanjalistores.patanjaliayurved.org/patanjali-gramin-arogya-kendra-indian-grocery-store-adgaon-bk-akola-269183/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward No 6, Malmatta No 182 Telhara, Adgaon Bk., Maharashtra 444126",
+    "area": "444103",
+    "latitude": 21.1184001,
+    "longitude": 76.9413873,
+    "place_id": "ChIJWaXciw0R1zsR1VWrYUPjA5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWaXciw0R1zsR1VWrYUPjA5Y",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:17:43"
+  }
+]

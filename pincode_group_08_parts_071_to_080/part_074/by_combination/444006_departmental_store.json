@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Jalaram Stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "444006",
+    "phone_number": "+91 94228 64181",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1 Old Dana Bazar, Maharashtra 444006",
+    "area": "Nimwadi",
+    "latitude": 20.708999,
+    "longitude": 76.996522,
+    "place_id": "ChIJYQIG2wkx1zsRsAZiv9kxeYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYQIG2wkx1zsRsAZiv9kxeYs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:10:10"
+  },
+  {
+    "business_name": "Nexus The Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Furniture Manufacturer",
+    "all_categories": "Furniture Manufacturer, Bedroom furniture store, Door shop, Furniture store, Hospital equipment and supplies, Kitchen furniture store, Office furniture store, Playground equipment supplier, Shelving store, Sofa store",
+    "pincode": "444006",
+    "phone_number": "+91 93706 80845",
+    "website": "https://www.nexusthestore.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Nexus ‘T’ Point, Kumbhari Rd, Midc Phase 3 and 4, MIDC, Shivar, Maharashtra 444104",
+    "area": "Midc Phase 3 and 4, MIDC",
+    "latitude": 20.6843999,
+    "longitude": 77.0601453,
+    "place_id": "ChIJQc-6bjIs1zsRlxmMTS28Qhs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQc-6bjIs1zsRlxmMTS28Qhs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:10:13"
+  }
+]

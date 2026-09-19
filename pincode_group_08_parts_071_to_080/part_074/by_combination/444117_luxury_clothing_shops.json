@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kia Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "444117",
+    "phone_number": "+91 82919 94167",
+    "website": "http://www.kiaboutique.com/",
+    "rating": 4.6,
+    "reviews_count": 99,
+    "address": "Shop No.6, Rustomjee Regency, Adarsh Vihar Complex, Adarsh Dairy Rd, Malad, Adarsh Dugdhalaya, Dominic Colony, Malad West, Mumbai, Maharashtra 400064",
+    "area": "Malad, Adarsh Dugdhalaya, Dominic Colony, Malad West",
+    "latitude": 19.1943233,
+    "longitude": 72.8425817,
+    "place_id": "ChIJM2jGqee25zsRsLCbrMkkX1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM2jGqee25zsRsLCbrMkkX1o",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:34:15"
+  },
+  {
+    "business_name": "Fuel The Fashion Store",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "444117",
+    "phone_number": "+91 93212 65741",
+    "website": "https://www.fuelthestore.com/",
+    "rating": 4.4,
+    "reviews_count": 397,
+    "address": "No. 539, Ground Floor, Chowpatty View Building Sandhurst Bridge, Road, opposite Sukh Sagar, Chowpatty, Mumbai, Maharashtra 400007",
+    "area": "Chowpatty, Girgaon",
+    "latitude": 18.9559325,
+    "longitude": 72.8135906,
+    "place_id": "ChIJa-FQg_rO5zsRo5fw5xhoxZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa-FQg_rO5zsRo5fw5xhoxZU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:34:15"
+  }
+]

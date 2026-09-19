@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trackon Couriers Pvt. Ltd.",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Freight Forwarding Agency, Shipping service",
+    "pincode": "444126",
+    "phone_number": "+91 11 4559 3500",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "Shop No.4, Lal Mohammed Complex, Gowardhan Ghat Road, Tiranga Chowk, Vazirabad, Nanded, Maharashtra 431601",
+    "area": "Vazirabad",
+    "latitude": 19.153423,
+    "longitude": 77.30919,
+    "place_id": "ChIJd--4dGrW0TsRkFsQ4FBdHvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd--4dGrW0TsRkFsQ4FBdHvA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:37:04"
+  },
+  {
+    "business_name": "Post Office Bordi",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "444126",
+    "phone_number": "+91 97673 11089",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Jama Masjid, Akot Road, Bordi, Maharashtra 444101",
+    "area": "444126",
+    "latitude": 21.1512664,
+    "longitude": 77.031454,
+    "place_id": "ChIJ3zrOBTob1zsR8_NJt4kWIrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3zrOBTob1zsR8_NJt4kWIrE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:37:05"
+  }
+]

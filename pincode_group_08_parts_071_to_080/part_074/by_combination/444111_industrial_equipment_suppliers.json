@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paragon Supply Company Inc",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Industrial equipment supplier",
+    "all_categories": "Industrial equipment supplier, Abrasives supplier, Hydraulic equipment supplier, Metal industry suppliers, Metal machinery supplier, Safety equipment supplier, Tool store, Vending machine supplier",
+    "pincode": "444111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "160 Reaser Ct, Elyria, OH 44035, United States",
+    "area": "Eastern Heights",
+    "latitude": 41.367096,
+    "longitude": -82.0736277,
+    "place_id": "ChIJ76RzUE2YMIgRqJKiQoezUG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ76RzUE2YMIgRqJKiQoezUG8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:33:40"
+  },
+  {
+    "business_name": "M.M Industrial Suppliers",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "444111",
+    "phone_number": "+91 90198 39052",
+    "website": "https://nfc.dgtechsoln.com/m-m-industrial-suppliers/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "MRR Ln, Kalasipalam New Exte, Kumbarpet, Dodpete, Kalasipalya, Bengaluru, Karnataka 560002",
+    "area": "Kalasipalam New Exte, Kumbarpet, Dodpete, Kalasipalya",
+    "latitude": 12.9646163,
+    "longitude": 77.5792946,
+    "place_id": "ChIJu7lZDgAVrjsRaWoimODJazk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu7lZDgAVrjsRaWoimODJazk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:33:42"
+  }
+]

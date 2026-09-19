@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nirmal Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "444007",
+    "phone_number": "+91 72999 58489",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 219,
+    "address": "32, Poonamallee - Avadi High Rd, Karayanchavadi, Poonamallee, Senneerkuppam, Tamil Nadu 600056",
+    "area": "Karayanchavadi, Poonamallee",
+    "latitude": 13.0481512,
+    "longitude": 80.11198279999999,
+    "place_id": "ChIJeeb-eMNhUjoRq15PP8WJnJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeeb-eMNhUjoRq15PP8WJnJA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:12:25"
+  },
+  {
+    "business_name": "B.k. jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler, Jewelry store",
+    "pincode": "444007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "shop no. 4, Landmark Complex, Old, Gorakshan Rd, Income Tax Square, Akola, Maharashtra 444005",
+    "area": "Income Tax Square",
+    "latitude": 20.6953599,
+    "longitude": 77.0131518,
+    "place_id": "ChIJl8F-RDQv1zsRC-zUDwYESr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl8F-RDQv1zsRC-zUDwYESr4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:12:27"
+  }
+]

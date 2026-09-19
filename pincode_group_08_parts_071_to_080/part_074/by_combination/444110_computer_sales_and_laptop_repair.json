@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A One Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "444110",
+    "phone_number": "+91 97676 20606",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NEW, Bypass Rd, near VITTHAL RUKHMINI TEMPLE, Sonkhas, Mangrulpir, Maharashtra 444403",
+    "area": "444110",
+    "latitude": 20.3155116,
+    "longitude": 77.33447509999999,
+    "place_id": "ChIJkdVgtaUj0TsRH1ntOjMAZtc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkdVgtaUj0TsRH1ntOjMAZtc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:31:38"
+  },
+  {
+    "business_name": "Nucleus Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer Wholesaler",
+    "pincode": "444110",
+    "phone_number": "+91 90210 94013",
+    "website": "http://www.nucleustechno.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "opposite Post office, Vasant Nagar, Hyder Bagh, Dashmesh Nagar, Harsh Nagar, Nanded, Maharashtra 431602",
+    "area": "Vasant Nagar, Hyder Bagh, Dashmesh Nagar, Harsh Nagar",
+    "latitude": 19.1696429,
+    "longitude": 77.3191004,
+    "place_id": "ChIJJfvRKLTX0TsRo2R35NgfnUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJfvRKLTX0TsRo2R35NgfnUE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:31:38"
+  }
+]

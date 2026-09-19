@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shashwat Ice Cream & Juice Center And Wadapaw Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "444101",
+    "phone_number": "+91 90110 02209",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sambhaji Nagar, Shri Shivaji College Road, Tq, Akot, Maharashtra 444101",
+    "area": "Sambhaji Nagar",
+    "latitude": 21.091254199999998,
+    "longitude": 77.0600442,
+    "place_id": "ChIJU9vOus8b1zsRnlHF5OAk5ZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU9vOus8b1zsRnlHF5OAk5ZM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:14:07"
+  },
+  {
+    "business_name": "Aslam Cold Drink",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "444101",
+    "phone_number": "+91 74991 09995",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Iftekhar Plot, At, Akot, Maharashtra 444101",
+    "area": "At",
+    "latitude": 21.103116699999998,
+    "longitude": 77.0592498,
+    "place_id": "ChIJTQejpJob1zsRQJZZBncKV4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQejpJob1zsRQJZZBncKV4I",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:14:11"
+  }
+]

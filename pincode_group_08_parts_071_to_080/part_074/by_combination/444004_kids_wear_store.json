@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KIDS CITY",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "444004",
+    "phone_number": "+91 95526 66502",
+    "website": "http://joshi991277883.lifemitra.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hotel Yogi, Pusad Naka, Washim, Maharashtra 444505",
+    "area": "Pusad Naka",
+    "latitude": 20.1106923,
+    "longitude": 77.1392738,
+    "place_id": "ChIJqYIBjWHj0DsRgqR-_vNxXtM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqYIBjWHj0DsRgqR-_vNxXtM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:06:42"
+  },
+  {
+    "business_name": "Baby care & toys",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "444004",
+    "phone_number": "+91 99223 31088",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Paras plaza, 2, Risod - Washim Rd, near IDBI BANK, Washim, Maharashtra 444505",
+    "area": "444004",
+    "latitude": 20.1105228,
+    "longitude": 77.1252944,
+    "place_id": "ChIJq2q5Hbzj0DsREPjzteGBaeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq2q5Hbzj0DsREPjzteGBaeU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:06:42"
+  }
+]

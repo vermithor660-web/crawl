@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pranita Beauty Salon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist, Hairdresser",
+    "pincode": "444006",
+    "phone_number": "+91 89997 16113",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ratanlal Plot, Necklace Rd, Ambedkar Nagar, Akola, Maharashtra 444001",
+    "area": "Ambedkar Nagar",
+    "latitude": 20.7085711,
+    "longitude": 77.0096714,
+    "place_id": "ChIJ7TE28UUx1zsRnr0_6Opt4H0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7TE28UUx1zsRnr0_6Opt4H0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:11:07"
+  },
+  {
+    "business_name": "Anu beauty parlour and academy",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "444006",
+    "phone_number": "+91 92845 91726",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near ganpati temple, Aadarsh Colony, Akola, Maharashtra 444001",
+    "area": "Aadarsh Colony",
+    "latitude": 20.6919267,
+    "longitude": 77.01256769999999,
+    "place_id": "ChIJQxF_JwAt1zsR-ehItYJ7mj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQxF_JwAt1zsR-ehItYJ7mj4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:11:09"
+  }
+]

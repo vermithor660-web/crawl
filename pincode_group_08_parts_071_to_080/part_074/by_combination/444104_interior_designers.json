@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Decor Studio (MIDC)",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "444104",
+    "phone_number": "+91 88885 09030",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Growth Centre, T/I -34, Midc Phase 3 and 4, MIDC, Shivani, Maharashtra 444104",
+    "area": "Midc Phase 3 and 4, MIDC",
+    "latitude": 20.6792902,
+    "longitude": 77.053409,
+    "place_id": "ChIJO695IwAt1zsRLzxN2QTPJco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO695IwAt1zsRLzxN2QTPJco",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:20:22"
+  },
+  {
+    "business_name": "Ralekar Interior's",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "444104",
+    "phone_number": "+91 94228 60656",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "P247+7JG, z.p. colony,shashtri nagar ,amankhan plot, Akola, Maharashtra 444001",
+    "area": "Shastri Nagar",
+    "latitude": 20.7056921,
+    "longitude": 77.0140773,
+    "place_id": "ChIJs8kSzhwu1zsRljrVFJYpB_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs8kSzhwu1zsRljrVFJYpB_A",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:20:24"
+  }
+]

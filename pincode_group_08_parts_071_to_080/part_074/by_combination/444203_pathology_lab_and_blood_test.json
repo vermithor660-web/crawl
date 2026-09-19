@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nexlyfe Diagnostic Centre",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Pathologist",
+    "pincode": "444203",
+    "phone_number": "+91 91724 34134",
+    "website": "https://nexlyfe.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "117, Kohinoor City Centre, Maharashtra 415612",
+    "area": "Police Head Quarters",
+    "latitude": 16.9934585,
+    "longitude": 73.2945022,
+    "place_id": "ChIJLV9FjfQN6jsRkFKgDyylamU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLV9FjfQN6jsRkFKgDyylamU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:41:30"
+  },
+  {
+    "business_name": "Medicheck Diagnostic Center",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Pathologist",
+    "all_categories": "Pathologist",
+    "pincode": "444203",
+    "phone_number": "+91 70283 18994",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "112, S. B. Nalawade commercial complex, Mazgaon Road, near Maruti Mandir, Ratnagiri, Maharashtra 415639",
+    "area": "444203",
+    "latitude": 16.990805299999998,
+    "longitude": 73.3120656,
+    "place_id": "ChIJHyZ1qyIN6jsRV0ZJb1nDR_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHyZ1qyIN6jsRV0ZJb1nDR_c",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:41:30"
+  }
+]

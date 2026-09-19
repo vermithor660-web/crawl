@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naman Bhog , Restaurant & Clouds kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Restaurant",
+    "pincode": "444101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "kabutari maidan, opposite palekar cycle showroom, Gajanan Nagar, Akot, Maharashtra 444101",
+    "area": "Gajanan Nagar",
+    "latitude": 21.0972769,
+    "longitude": 77.0537986,
+    "place_id": "ChIJMWKYIAAb1zsRhieAbJF7bxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWKYIAAb1zsRhieAbJF7bxY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:14:11"
+  },
+  {
+    "business_name": "Rasoi Craft",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "444101",
+    "phone_number": "+91 90962 97530",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Modraj Villa, Madhav nagar, Kapila Nagar, Akola, Maharashtra 444004",
+    "area": "Madhav nagar, Kapila Nagar",
+    "latitude": 20.6849605,
+    "longitude": 77.0225933,
+    "place_id": "ChIJifFlImEt1zsRxKGATJN97Ag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJifFlImEt1zsRxKGATJN97Ag",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:14:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "One roof Kitchen",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "444201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 13,
+    "address": "Rokadiya Nagar, Shegaon, Maharashtra 444203",
+    "area": "Rokadiya Nagar",
+    "latitude": 20.7804926,
+    "longitude": 76.6823733,
+    "place_id": "ChIJF3CItytF1zsRVY0E9hrzx6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF3CItytF1zsRVY0E9hrzx6w",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:37:38"
+  },
+  {
+    "business_name": "Mauli Tea Center (गूळ चाय)",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "444201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road Shegaon, near Bus Stop, Warwat Bakal, Maharashtra 444202",
+    "area": "444201",
+    "latitude": 21.019331299999997,
+    "longitude": 76.7161429,
+    "place_id": "ChIJb_zl4ddp1zsROfYTT8GFth4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb_zl4ddp1zsROfYTT8GFth4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:37:41"
+  }
+]

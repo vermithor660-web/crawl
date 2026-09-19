@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zoya Collection ✨",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "444109",
+    "phone_number": "+91 77988 42887",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "10, Indor Galli, Akola, Maharashtra 444001",
+    "area": "Baid Pura",
+    "latitude": 20.7091013,
+    "longitude": 76.99951109999999,
+    "place_id": "ChIJkZzNUc8x1zsRDDjClhTEfcY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZzNUc8x1zsRDDjClhTEfcY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:28:57"
+  },
+  {
+    "business_name": "Baba Collection",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "444109",
+    "phone_number": "+91 86006 33207",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.1, Nimkarda Road, near by Edgah Plot, Paras, Maharashtra 444109",
+    "area": "Paras",
+    "latitude": 20.7200378,
+    "longitude": 76.82701999999999,
+    "place_id": "ChIJqw4RkqU31zsRfzxENgQ4Rcw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqw4RkqU31zsRfzxENgQ4Rcw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:28:57"
+  }
+]

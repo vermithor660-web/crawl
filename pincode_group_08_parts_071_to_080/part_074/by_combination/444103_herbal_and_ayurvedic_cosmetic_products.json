@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punarjith Ayurveda Hospital",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant, Physician referral service",
+    "pincode": "444103",
+    "phone_number": "+91 99958 31222",
+    "website": "https://punarjith.com/hospital",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "P.O, South Mazhuvannoor, Mazhuvannoor, Keralam 686669",
+    "area": "P.O",
+    "latitude": 10.0143752,
+    "longitude": 76.4871593,
+    "place_id": "ChIJKU-C-ZfhBzsRlA2ZgogdZ80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKU-C-ZfhBzsRlA2ZgogdZ80",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:18:39"
+  },
+  {
+    "business_name": "Teju herbal products",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "444103",
+    "phone_number": "N/A",
+    "website": "https://sharemystore.com/tejuharbalproducts",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2W9R+76M, At post pathardi tq telhara di, Pathardi, Maharashtra 444117",
+    "area": "444103",
+    "latitude": 21.0182242,
+    "longitude": 76.94053869999999,
+    "place_id": "ChIJr45yLXcX1zsRJe37PqekI8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr45yLXcX1zsRJe37PqekI8E",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:18:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PAVAN MOBILE SHOP",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "444201",
+    "phone_number": "+91 92843 82336",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 1 Main Road, near Bus Stop, Warwat Bakal, Maharashtra 444202",
+    "area": "444201",
+    "latitude": 21.0202141,
+    "longitude": 76.71563019999999,
+    "place_id": "ChIJtfmiL3Jp1zsRt7YBJnxR5FE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtfmiL3Jp1zsRt7YBJnxR5FE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:39:04"
+  },
+  {
+    "business_name": "NAVDURGA WELDING WORKS",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "444201",
+    "phone_number": "+91 99709 10542",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Main Road, near Bus Stop, Warwat Bakal, Maharashtra 444202",
+    "area": "444201",
+    "latitude": 21.0208513,
+    "longitude": 76.71670689999999,
+    "place_id": "ChIJZ_TQBppp1zsRKSy0jFuxL38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ_TQBppp1zsRKSy0jFuxL38",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:39:04"
+  }
+]

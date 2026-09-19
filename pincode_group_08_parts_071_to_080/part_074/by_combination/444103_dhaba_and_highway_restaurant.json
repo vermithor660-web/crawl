@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Shakti Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "444103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "4VQ2+JQF, MH SH 194, Hiwarkhed, Maharashtra 444103",
+    "area": "444103",
+    "latitude": 21.1390745,
+    "longitude": 76.8519299,
+    "place_id": "ChIJRTndspkS1zsRqXH9p2_2wpI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRTndspkS1zsRqXH9p2_2wpI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:17:50"
+  },
+  {
+    "business_name": "Neelkanth Restaurant & Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Restaurant",
+    "pincode": "444103",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/theneelkanthrestaurant?igsh=anowbmY0aTM0dGph&utm_source=qr",
+    "rating": 4.7,
+    "reviews_count": 325,
+    "address": "National Highway, 47, Badchicholi, Madhya Pradesh 480337",
+    "area": "444103",
+    "latitude": 21.4959685,
+    "longitude": 78.7071514,
+    "place_id": "ChIJmdLztXcB1TsRG4AMJcGXO3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmdLztXcB1TsRG4AMJcGXO3Q",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:17:52"
+  }
+]

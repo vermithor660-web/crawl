@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gaurav Ambuskar",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Service establishment",
+    "pincode": "444004",
+    "phone_number": "+91 90670 97561",
+    "website": "https://www.youtube.com/channel/UCOrrj85N8X_gFiuCpk5GHNQ",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gaurav Ambuskar, 444004, India",
+    "area": "444004",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJISccBgwt1zsRvwFJ3AM-hJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJISccBgwt1zsRvwFJ3AM-hJs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:07:41"
+  },
+  {
+    "business_name": "RG Education Consultancy",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "444004",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 8,
+    "address": "Jai Guru, Plot No 01, Post, Visawa Colony, Akola, Maharashtra 444004",
+    "area": "Visawa Colony, Kaulkhed",
+    "latitude": 20.6771259,
+    "longitude": 77.01415639999999,
+    "place_id": "ChIJWz28xcEt1zsRA9Omh6VajnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWz28xcEt1zsRA9Omh6VajnE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:07:42"
+  }
+]

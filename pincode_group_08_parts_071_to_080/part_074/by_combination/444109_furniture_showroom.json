@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MOHATA FURNITURE MALL",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "444109",
+    "phone_number": "+91 99217 04823",
+    "website": "https://profile.brands.live/mohatafurnituremall",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Khamgaon Rd, near HOTEL SUKHSAGAR, Rokadiya Nagar, Shegaon, Maharashtra 444203",
+    "area": "Rokadiya Nagar",
+    "latitude": 20.785328099999997,
+    "longitude": 76.6839557,
+    "place_id": "ChIJYT7Ex45R1zsR7Ix1eUfmxio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYT7Ex45R1zsR7Ix1eUfmxio",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:29:26"
+  },
+  {
+    "business_name": "Craftedcomfort.Store",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture maker",
+    "all_categories": "Furniture maker",
+    "pincode": "444109",
+    "phone_number": "+91 84219 75703",
+    "website": "https://craftedcomfort.store/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near hanuman mandir, Sopinath Nagar, At post, Bhaurad, Akola, Maharashtra 444001",
+    "area": "Sopinath Nagar, At post",
+    "latitude": 20.729450999999997,
+    "longitude": 76.95591859999999,
+    "place_id": "ChIJQdjhWe0x1zsR-Ukw900ls28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdjhWe0x1zsR-Ukw900ls28",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:29:28"
+  }
+]

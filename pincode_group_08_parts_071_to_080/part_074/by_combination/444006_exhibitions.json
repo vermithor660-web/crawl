@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stockola Academy",
+    "search_category": "Exhibitions",
+    "primary_category": "Community center",
+    "all_categories": "Community center",
+    "pincode": "444006",
+    "phone_number": "N/A",
+    "website": "https://wa.me/message/AKXMBGIVB3ZZB1",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "MH SH 204, Mominpura, Akola, Maharashtra 444006",
+    "area": "Mominpura",
+    "latitude": 20.7136572,
+    "longitude": 76.9968713,
+    "place_id": "ChIJX52-KwAx1zsRljMSzDlv9GE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX52-KwAx1zsRljMSzDlv9GE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:11:52"
+  },
+  {
+    "business_name": "Gorakshan, Aagar",
+    "search_category": "Exhibitions",
+    "primary_category": "Museum",
+    "all_categories": "Museum",
+    "pincode": "444006",
+    "phone_number": "+91 99212 76828",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "RX92+QC9, Agar, Maharashtra 444006",
+    "area": "444006",
+    "latitude": 20.819405399999997,
+    "longitude": 76.9511071,
+    "place_id": "ChIJsyoXuU861zsRpF1i0r4LN8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsyoXuU861zsRpF1i0r4LN8Y",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:11:53"
+  }
+]

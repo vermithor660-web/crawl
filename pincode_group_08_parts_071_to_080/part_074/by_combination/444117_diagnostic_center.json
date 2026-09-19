@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mauli Sonography Clinic",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444117",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "422X+5CJ, Appaswami Colony, Akot, Maharashtra 444101",
+    "area": "Appaswami Colony",
+    "latitude": 21.1004707,
+    "longitude": 77.04852,
+    "place_id": "ChIJdZhNcvIb1zsRGhS1TheadQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZhNcvIb1zsRGhS1TheadQQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:34:21"
+  },
+  {
+    "business_name": "VIGHNAHARTA DIAGNOSTICS",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444117",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "near POLICE SATION, APPASAWAMI COLONY, Arvind Nagar Colony, Appaswami Colony, Akot, Maharashtra 444101",
+    "area": "APPASAWAMI COLONY, Arvind Nagar Colony, Appaswami Colony",
+    "latitude": 21.0945957,
+    "longitude": 77.0513721,
+    "place_id": "ChIJX5rHIUMb1zsRPsCg1QwaUHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX5rHIUMb1zsRPsCg1QwaUHs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:34:22"
+  }
+]

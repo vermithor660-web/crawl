@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prasad Automobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "444302",
+    "phone_number": "+91 89832 20329",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Mominpura, Akola, Maharashtra 444006",
+    "area": "Mominpura",
+    "latitude": 20.715447899999997,
+    "longitude": 77.0001336,
+    "place_id": "ChIJV28ci-cx1zsRZVjgMBWE9Jk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV28ci-cx1zsRZVjgMBWE9Jk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:47:01"
+  },
+  {
+    "business_name": "MADRAS MOTORS - ASHOK LEYLAND RETAIL PARTS STORE",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "444302",
+    "phone_number": "+91 90221 46021",
+    "website": "https://www.ashokleyland.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MUMBAI NGP HIGHWAY, NH-6, AKOLA BYPASS AK, Akola, Maharashtra 444001",
+    "area": "Akoli Kh.",
+    "latitude": 20.674135,
+    "longitude": 76.972883,
+    "place_id": "ChIJweRj1Hcz1zsRE3p9HC2GzSw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJweRj1Hcz1zsRE3p9HC2GzSw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:47:02"
+  }
+]

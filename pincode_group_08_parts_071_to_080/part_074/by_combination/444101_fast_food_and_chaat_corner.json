@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akola fried chicken",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "444101",
+    "phone_number": "+91 89990 42810",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Akashwani Rd, near neev academy, Shastri Nagar, Akola, Maharashtra 444002",
+    "area": "Shastri Nagar",
+    "latitude": 20.7019332,
+    "longitude": 77.00983,
+    "place_id": "ChIJ2VWu7F0x1zsRxCDgsikIlXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2VWu7F0x1zsRxCDgsikIlXk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:14:12"
+  },
+  {
+    "business_name": "Shivam Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "444101",
+    "phone_number": "+91 96233 53046",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "33W3+XWG, Jawahar Road,, Akot, Maharashtra 444101",
+    "area": "Gajanan Nagar",
+    "latitude": 21.097447799999998,
+    "longitude": 77.0548163,
+    "place_id": "ChIJQS814Eoa1zsRBmFXa-5ACEo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQS814Eoa1zsRBmFXa-5ACEo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:14:13"
+  }
+]

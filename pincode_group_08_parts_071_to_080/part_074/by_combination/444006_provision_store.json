@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rathi Provision Stores",
+    "search_category": "Provision Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Grocery store",
+    "pincode": "444006",
+    "phone_number": "+91 98503 59921",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "W2C4+JXH, Chohatta, Maharashtra 444101",
+    "area": "444006",
+    "latitude": 20.9215616,
+    "longitude": 77.0074922,
+    "place_id": "ChIJzdEDftQ81zsRNbpSsgXHe-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzdEDftQ81zsRNbpSsgXHe-w",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:10:12"
+  },
+  {
+    "business_name": "Lalita Daily Needs",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "444006",
+    "phone_number": "+91 94228 93053",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "below Jain Mandir, Kala Chabutra, Baid Pura, Akola, Maharashtra 444006",
+    "area": "Kala Chabutra, Baid Pura",
+    "latitude": 20.708852399999998,
+    "longitude": 76.9974364,
+    "place_id": "ChIJTXxhERwx1zsRiM9F_f20fSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTXxhERwx1zsRiM9F_f20fSU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:10:13"
+  }
+]

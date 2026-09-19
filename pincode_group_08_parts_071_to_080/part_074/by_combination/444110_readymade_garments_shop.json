@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "vijay cloth stores",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "444110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 4,
+    "address": "Unnamed Road, Papal, Maharashtra 444701",
+    "area": "444110",
+    "latitude": 20.639027499999997,
+    "longitude": 77.68078009999999,
+    "place_id": "ChIJa6OjZeBN0TsRKaDGlGmm2LM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa6OjZeBN0TsRKaDGlGmm2LM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:30:35"
+  },
+  {
+    "business_name": "Samyak Tellers & Readymade Center",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "444110",
+    "phone_number": "+91 77698 68629",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, near by Zp School, Bhim nagar, Hatgaon, Maharashtra 444107",
+    "area": "Bhim nagar",
+    "latitude": 20.7235047,
+    "longitude": 77.3638465,
+    "place_id": "ChIJfRNm94PR1jsROVHrSWvShgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRNm94PR1jsROVHrSWvShgo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:30:38"
+  }
+]

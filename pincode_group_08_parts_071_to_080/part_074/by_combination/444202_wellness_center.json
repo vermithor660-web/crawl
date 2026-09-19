@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sub Centre, Niwana",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444202",
+    "phone_number": "+91 99224 65327",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "2JVP+9MR, MH SH 195, Nivana, Maharashtra 443402",
+    "area": "444202",
+    "latitude": 21.0434833,
+    "longitude": 76.6366273,
+    "place_id": "ChIJ6YFQt_5l1zsRTvr_NY78_B4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6YFQt_5l1zsRTvr_NY78_B4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:40:09"
+  },
+  {
+    "business_name": "Arya ayurvedik hospitel",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2M32+Q92, Bhilkhed, Maharashtra 444202",
+    "area": "444202",
+    "latitude": 21.0044561,
+    "longitude": 76.6510139,
+    "place_id": "ChIJmSbmYQBp1zsRG07FA2a_JtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmSbmYQBp1zsRG07FA2a_JtQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:40:09"
+  }
+]

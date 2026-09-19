@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BHATI UDYOG AKOLA",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Wholesale market",
+    "pincode": "444003",
+    "phone_number": "+91 94221 60251",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No B7, New WHOLESALE Kirana market, Dahigaon Gawande, Akola, Maharashtra 444007",
+    "area": "Dahigaon Gawande",
+    "latitude": 20.695702,
+    "longitude": 76.97685,
+    "place_id": "ChIJ-yKZxogx1zsRAAAAsFy6U0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-yKZxogx1zsRAAAAsFy6U0A",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:04:33"
+  },
+  {
+    "business_name": "Manish Oil Industries",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "444003",
+    "phone_number": "+91 94215 50580",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "L 14, 3rd Phase, MIDC, Shivar, Maharashtra 444104",
+    "area": "3rd Phase, MIDC",
+    "latitude": 20.6859818,
+    "longitude": 77.0621267,
+    "place_id": "ChIJdxja_S0s1zsRReAvl2HGTUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdxja_S0s1zsRReAvl2HGTUs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:04:35"
+  }
+]

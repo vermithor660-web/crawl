@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kirti Agri Solutions Pvt. Ltd. Khamgaon",
+    "search_category": "Organic Food Store",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "444303",
+    "phone_number": "+91 98817 43433",
+    "website": "https://www.kirtigold.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Pimprala, Khamgaon, Maharashtra 444303",
+    "area": "444303",
+    "latitude": 20.670572999999997,
+    "longitude": 76.65149149999999,
+    "place_id": "ChIJvYPwwA1P1zsRYUm3hjn931k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvYPwwA1P1zsRYUm3hjn931k",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:48:16"
+  },
+  {
+    "business_name": "TUHITU FOODS KHAMGAON",
+    "search_category": "Organic Food Store",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "444303",
+    "phone_number": "+91 72632 77004",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "C1/19,20, near SHELKE LAW COLLEGE, MIDC, Khamgaon, Sutala Bk., Maharashtra 444312",
+    "area": "MIDC, Khamgaon",
+    "latitude": 20.7330631,
+    "longitude": 76.53416899999999,
+    "place_id": "ChIJocrhMURX1zsRpm6ma3GWDBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJocrhMURX1zsRpm6ma3GWDBQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:48:18"
+  }
+]

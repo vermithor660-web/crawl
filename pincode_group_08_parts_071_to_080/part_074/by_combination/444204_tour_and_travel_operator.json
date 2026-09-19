@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Virat Tours And Travel",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "444204",
+    "phone_number": "+91 94200 30052",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 61,
+    "address": "Kaij - Ambajogai Rd, Kaij, Maharashtra 431123",
+    "area": "444204",
+    "latitude": 18.713708399999998,
+    "longitude": 76.0708638,
+    "place_id": "ChIJgS2waM0_xTsRTus2dGP36_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgS2waM0_xTsRTus2dGP36_A",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:43:26"
+  },
+  {
+    "business_name": "Shree Swami Samarth Tours and Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "444204",
+    "phone_number": "+91 87883 99862",
+    "website": "http://ssstours.vercel.app/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Lane No. 12, Jai Bhavani Nagar, Sector N 4, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "Jai Bhavani Nagar, Sector N 4, Cidco",
+    "latitude": 19.8619506,
+    "longitude": 75.36822269999999,
+    "place_id": "ChIJZ2lzVwCj2zsRcCqZvgzWwmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ2lzVwCj2zsRcCqZvgzWwmk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:43:28"
+  }
+]

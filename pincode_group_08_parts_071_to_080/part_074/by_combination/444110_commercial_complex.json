@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Mobile Shop UG",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "444110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 5,
+    "address": "MJ3G+GRQ, Dhanaj, Dhanaj Budruk, Maharashtra 444110",
+    "area": "Dhanaj",
+    "latitude": 20.6538346,
+    "longitude": 77.6271015,
+    "place_id": "ChIJwxoyG8m01jsRAqVtYEQT6qA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwxoyG8m01jsRAqVtYEQT6qA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:32:04"
+  },
+  {
+    "business_name": "GT Market",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "444110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "JG92+C2J, Kamargaon, Maharashtra 444110",
+    "area": "444110",
+    "latitude": 20.618575099999997,
+    "longitude": 77.5000306,
+    "place_id": "ChIJGTnS9cM00TsRuCgFkgmAUQo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGTnS9cM00TsRuCgFkgmAUQo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:32:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Income Tax Office",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Tax department",
+    "all_categories": "Tax department",
+    "pincode": "444303",
+    "phone_number": "+91 1800 180 1961",
+    "website": "https://www.incometax.gov.in/iec/foportal/",
+    "rating": 4.7,
+    "reviews_count": 7,
+    "address": "Nandura -Jalgaon Jamod Rd, Baradari, Khamgaon, Maharashtra 444303",
+    "area": "Baradari",
+    "latitude": 20.7078009,
+    "longitude": 76.5700075,
+    "place_id": "ChIJQXgYDttQ1zsRl33g01cfRT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQXgYDttQ1zsRl33g01cfRT4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:49:46"
+  },
+  {
+    "business_name": "Digital India Pan Card, Aadhar Card Center",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Aadhaar center",
+    "all_categories": "Aadhaar center, Internet cafe",
+    "pincode": "444303",
+    "phone_number": "+91 82377 44402",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 14,
+    "address": "PH39+4JQ, Bhusawal chowk, Sarki line, Sati Fail, Khamgaon, Maharashtra 444303",
+    "area": "Sati Fail",
+    "latitude": 20.702827,
+    "longitude": 76.5691198,
+    "place_id": "ChIJP9SWqiFR1zsR1xWq2Azi_R8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP9SWqiFR1zsR1xWq2Azi_R8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:49:46"
+  }
+]

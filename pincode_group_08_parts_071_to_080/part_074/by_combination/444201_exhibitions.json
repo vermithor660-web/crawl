@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deshmukh pithgirni",
+    "search_category": "Exhibitions",
+    "primary_category": "Opera house",
+    "all_categories": "Opera house",
+    "pincode": "444201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khel Dalvi Paturda, Paturda, Maharashtra 444201",
+    "area": "Paturda",
+    "latitude": 20.9513242,
+    "longitude": 76.7285512,
+    "place_id": "ChIJ4bqFSGhD1zsR3j8eXZXQOPo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4bqFSGhD1zsR3j8eXZXQOPo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:39:01"
+  },
+  {
+    "business_name": "Suhas",
+    "search_category": "Exhibitions",
+    "primary_category": "Community center",
+    "all_categories": "Community center",
+    "pincode": "444201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2MJF+VMM, Sangrampur, Maharashtra 444202",
+    "area": "444201",
+    "latitude": 21.0322012,
+    "longitude": 76.6741792,
+    "place_id": "ChIJoZVDMwBp1zsRFX3Vx8rPh-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoZVDMwBp1zsRFX3Vx8rPh-s",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:39:03"
+  }
+]

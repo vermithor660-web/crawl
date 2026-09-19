@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Sports Academy",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Sports club",
+    "all_categories": "Sports club",
+    "pincode": "444005",
+    "phone_number": "+91 86685 76458",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "uday colony no.2, 2, Akoli Rd, Usha Colony, Guruchhaya Colony, Sai Nagar, Amravati, Maharashtra 444607",
+    "area": "Usha Colony, Guruchhaya Colony, Sai Nagar",
+    "latitude": 20.892314499999998,
+    "longitude": 77.7381249,
+    "place_id": "ChIJb7vnLUm71jsRhARSjHwepx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb7vnLUm71jsRhARSjHwepx4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:09:36"
+  },
+  {
+    "business_name": "Udaan Sports Academy",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Sports school",
+    "all_categories": "Sports school",
+    "pincode": "444005",
+    "phone_number": "+91 94793 10611",
+    "website": "https://udaansportsacademy.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "no. 3, Ayodhya Bypass Rd, opp. Minal Gate, Housing Board Colony, Ayodhya Nagar, Bhopal, Madhya Pradesh 462041",
+    "area": "Housing Board Colony, Ayodhya Nagar",
+    "latitude": 23.2780404,
+    "longitude": 77.4592211,
+    "place_id": "ChIJeUjQo_JpfDkRPKWg9sSkx-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeUjQo_JpfDkRPKWg9sSkx-I",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:09:36"
+  }
+]

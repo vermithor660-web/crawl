@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tushar",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "444003",
+    "phone_number": "+91 70307 77780",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "P2CQ+7WF, Dahigaon Road, Vitthal Nagar, Mothi Umri, Akola, Maharashtra 444005",
+    "area": "Vitthal Nagar, Mothi Umri",
+    "latitude": 20.7206925,
+    "longitude": 77.0397907,
+    "place_id": "ChIJyZC4HkIu1zsRsBTavdVATSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZC4HkIu1zsRsBTavdVATSE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:05:41"
+  },
+  {
+    "business_name": "Yes+ Consultants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "444003",
+    "phone_number": "+91 82758 08800",
+    "website": "https://yesplusconsultants.in/",
+    "rating": 5,
+    "reviews_count": 29,
+    "address": "Akola Road, Akot, Maharashtra 444101",
+    "area": "444003",
+    "latitude": 21.079414,
+    "longitude": 77.0504387,
+    "place_id": "ChIJbWJdMU8b1zsRUXnfe1tFTTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbWJdMU8b1zsRUXnfe1tFTTc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:05:44"
+  }
+]

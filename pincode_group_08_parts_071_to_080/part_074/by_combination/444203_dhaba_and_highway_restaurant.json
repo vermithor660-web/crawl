@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Galaxy Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "444203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "QMPM+VMJ, Adarsha Nagar, SBI Colony, Shegaon, Maharashtra 444203",
+    "area": "Adarsha Nagar, SBI Colony",
+    "latitude": 20.7872162,
+    "longitude": 76.6841457,
+    "place_id": "ChIJrwEw9pZF1zsR_phWwIB7EoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrwEw9pZF1zsR_phWwIB7EoE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:41:06"
+  },
+  {
+    "business_name": "Atithi Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "444203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 12,
+    "address": "QMRP+265, Rokadiya Nagar, Shegaon, Maharashtra 444203",
+    "area": "Rokadiya Nagar",
+    "latitude": 20.790021,
+    "longitude": 76.6856169,
+    "place_id": "ChIJyx8AtQpF1zsRYXIqULCgED8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyx8AtQpF1zsRYXIqULCgED8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:41:08"
+  }
+]

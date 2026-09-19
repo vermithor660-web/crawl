@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KOMAL BOOT HOUSE",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "444202",
+    "phone_number": "+91 94216 56930",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 2 Near Athwadi Bajar Wasadi Rd, Tunki Bk., Maharashtra 444204",
+    "area": "444202",
+    "latitude": 21.1113316,
+    "longitude": 76.6887331,
+    "place_id": "ChIJoXS_AYVv1zsRMcHI1RFyjsI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXS_AYVv1zsRMcHI1RFyjsI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:39:30"
+  },
+  {
+    "business_name": "Vaibhav Footwear sangrampur",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "444202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2MJG+WGJ, Sangrampur, Maharashtra 444202",
+    "area": "444202",
+    "latitude": 21.0323372,
+    "longitude": 76.6762742,
+    "place_id": "ChIJPZn7yuFp1zsRd6xrhxPgSNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPZn7yuFp1zsRd6xrhxPgSNM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:39:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thekedar chai center",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "444006",
+    "phone_number": "+91 77209 30227",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 20,
+    "address": "PVJM+49, Manali, Maharashtra 444109",
+    "area": "444006",
+    "latitude": 20.730188599999998,
+    "longitude": 76.8845645,
+    "place_id": "ChIJMQOxRwA31zsRVrM7Hq-3cG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMQOxRwA31zsRVrM7Hq-3cG4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:10:18"
+  },
+  {
+    "business_name": "Shri Vitthal Chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Coffee shop, Tea store",
+    "pincode": "444006",
+    "phone_number": "+91 70579 28299",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Laxmi narayan complex indain pretol pump akot road nimba pahta tq, Akola, Maharashtra 444311",
+    "area": "444006",
+    "latitude": 20.8460617,
+    "longitude": 76.8130635,
+    "place_id": "ChIJFde8OABH1zsR9jv6i4bXFrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFde8OABH1zsR9jv6i4bXFrk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:10:18"
+  }
+]

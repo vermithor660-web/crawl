@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonone Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "444005",
+    "phone_number": "+91 84460 76500",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P255+MW4, Necklace Rd, Ranpise Nagar, Akola, Maharashtra 444001",
+    "area": "Ranpise Nagar",
+    "latitude": 20.7091484,
+    "longitude": 77.00983289999999,
+    "place_id": "ChIJi8pIcuIx1zsRIl4_mBYnRro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi8pIcuIx1zsRIl4_mBYnRro",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:08:53"
+  },
+  {
+    "business_name": "Vrundavan medical",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "444005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P265+MPR, Necklace Rd, New Radhakisan Plots, Ranpise Nagar, Akola, Maharashtra 444001",
+    "area": "New Radhakisan Plots, Ranpise Nagar",
+    "latitude": 20.7117421,
+    "longitude": 77.0092591,
+    "place_id": "ChIJs017JAAx1zsRVhm6t0XgFgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs017JAAx1zsRVhm6t0XgFgM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:08:56"
+  }
+]

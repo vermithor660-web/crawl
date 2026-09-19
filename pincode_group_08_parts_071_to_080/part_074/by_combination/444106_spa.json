@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ram lakhan hotel",
+    "search_category": "Spa",
+    "primary_category": "Wellness hotel",
+    "all_categories": "Wellness hotel",
+    "pincode": "444106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "PJV6+5VJ, Toll Naka, Wadgaon Kurum, Maharashtra 444106",
+    "area": "444106",
+    "latitude": 20.742962,
+    "longitude": 77.61213029999999,
+    "place_id": "ChIJIxEBuDy31jsRpk5FWmN2zS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIxEBuDy31jsRpk5FWmN2zS0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:24:04"
+  },
+  {
+    "business_name": "Royal Gents Parlour",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "444106",
+    "phone_number": "+91 77588 51858",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2 At Post Mana, Murtizapur, Maharashtra 444106",
+    "area": "444106",
+    "latitude": 20.7663777,
+    "longitude": 77.4794512,
+    "place_id": "ChIJ0YQ6ldDJ1jsRE3Su0QGfXgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0YQ6ldDJ1jsRE3Su0QGfXgw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:24:04"
+  }
+]

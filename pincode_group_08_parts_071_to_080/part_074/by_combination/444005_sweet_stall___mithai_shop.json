@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Coldrinks and sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Sweet shop",
+    "pincode": "444005",
+    "phone_number": "+91 94221 58969",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 160,
+    "address": "Gandhi chowk, Warud, Maharashtra 444906",
+    "area": "444005",
+    "latitude": 21.4724739,
+    "longitude": 78.2685185,
+    "place_id": "ChIJVVVVVenK1TsRF-2TH9gv_JI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVenK1TsRF-2TH9gv_JI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:08:25"
+  },
+  {
+    "business_name": "Mahaveer Farsan",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Cake shop",
+    "pincode": "444005",
+    "phone_number": "+91 94217 45055",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 12,
+    "address": "Shop No 1, Old City, Murtizapur, Maharashtra 444107",
+    "area": "Old City",
+    "latitude": 20.734636,
+    "longitude": 77.3702133,
+    "place_id": "ChIJDxDW-eTR1jsR_fID42SJAeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDxDW-eTR1jsR_fID42SJAeo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:08:25"
+  }
+]

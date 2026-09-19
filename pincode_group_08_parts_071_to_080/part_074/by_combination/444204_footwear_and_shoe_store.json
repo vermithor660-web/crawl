@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divya Boot House",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "444204",
+    "phone_number": "+91 95275 91034",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "4J43+3CW, Khelmali (Jamod), Maharashtra 443402",
+    "area": "444204",
+    "latitude": 21.1051875,
+    "longitude": 76.6035625,
+    "place_id": "ChIJL8UtJ-Jl1zsR49aLw16SxHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL8UtJ-Jl1zsR49aLw16SxHY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:43:07"
+  },
+  {
+    "business_name": "Rohit footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "444204",
+    "phone_number": "+91 97651 31503",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "At, post, Kingaon, Maharashtra 413523",
+    "area": "444204",
+    "latitude": 18.722690699999998,
+    "longitude": 76.7680122,
+    "place_id": "ChIJSYn23FPrzzsR4Bu6wuZU1Ac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSYn23FPrzzsR4Bu6wuZU1Ac",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:43:07"
+  }
+]

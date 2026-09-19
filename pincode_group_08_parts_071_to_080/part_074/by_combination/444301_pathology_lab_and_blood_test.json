@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hi Tech Clinical Lab",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Laboratory",
+    "all_categories": "Laboratory",
+    "pincode": "444301",
+    "phone_number": "+91 92215 95671",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mirza Nagar, Buldhana, Maharashtra 443001",
+    "area": "Mirza Nagar",
+    "latitude": 20.538745499999997,
+    "longitude": 76.1865487,
+    "place_id": "ChIJs3bijTn32TsR-J0a-6hpocc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs3bijTn32TsR-J0a-6hpocc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:45:03"
+  },
+  {
+    "business_name": "Matoshri Pathology Lab",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "444301",
+    "phone_number": "+91 86695 32656",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "sara city, Paithan Rd, Walmi Naka, Kanchanwadi, Chhatrapati Sambhajinagar, Maharashtra 431011",
+    "area": "Walmi Naka, Kanchanwadi",
+    "latitude": 19.823605099999998,
+    "longitude": 75.2898069,
+    "place_id": "ChIJ8RBszKuZ2zsRmaSmWdsrgyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8RBszKuZ2zsRmaSmWdsrgyA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:45:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "House cleaning",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "444106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Devi Nagar wadali, Madhokar Peth, Amravati, Maharashtra 444605",
+    "area": "Madhokar Peth",
+    "latitude": 20.9202265,
+    "longitude": 77.7511287,
+    "place_id": "ChIJpzWTDIil1jsRSdHbFZQZyKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpzWTDIil1jsRSdHbFZQZyKY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:24:37"
+  },
+  {
+    "business_name": "HAPPY HELPERS S.G.B. Home Services And Maintenance",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Water Tank Cleaners",
+    "all_categories": "Water Tank Cleaners, Service establishment",
+    "pincode": "444106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HAPPY HELPERS S.G.B. Home Services And Maintenance, 444106, India",
+    "area": "444106",
+    "latitude": 20.9141126,
+    "longitude": 77.7684455,
+    "place_id": "ChIJj3SiTkvd1jsRxpeioscEISY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj3SiTkvd1jsRxpeioscEISY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:24:38"
+  }
+]

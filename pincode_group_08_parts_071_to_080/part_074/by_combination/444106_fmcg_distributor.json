@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fandango Private Limited",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Electronics Accessories Wholesaler, Warehouse",
+    "pincode": "444106",
+    "phone_number": "+91 77380 27732",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "House no. 42, 2B, Barshitakli Rd, Balwant Darshan Colony, Kaulkhed, Akola, Maharashtra 444004",
+    "area": "Balwant Darshan Colony, Kaulkhed",
+    "latitude": 20.6868333,
+    "longitude": 77.01068769999999,
+    "place_id": "ChIJTf3OhJIt1zsRWgt1AacpphE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTf3OhJIt1zsRWgt1AacpphE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:23:13"
+  },
+  {
+    "business_name": "KALPTARU AGENCY",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "444106",
+    "phone_number": "+91 91309 20017",
+    "website": "https://kalptaru-agency.grexa.site/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "rasane complex, Karkhana road, Akole, Maharashtra 422601",
+    "area": "444106",
+    "latitude": 19.540408199999998,
+    "longitude": 74.0098435,
+    "place_id": "ChIJxR-PLAIJ3TsRfdTcqPJ1fIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxR-PLAIJ3TsRfdTcqPJ1fIM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:23:13"
+  }
+]

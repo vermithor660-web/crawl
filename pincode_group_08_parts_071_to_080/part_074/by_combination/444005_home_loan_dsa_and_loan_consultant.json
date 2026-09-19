@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FinXpert",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Financial planner",
+    "all_categories": "Financial planner",
+    "pincode": "444005",
+    "phone_number": "+91 98986 17043",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 11,
+    "address": "104, Aakash Complex, citi bank lane, Mithakhali, Navrangpura, Ahmedabad, Gujarat 380009",
+    "area": "Mithakhali, Navrangpura",
+    "latitude": 23.0338749,
+    "longitude": 72.56137869999999,
+    "place_id": "ChIJl68a8_OEXjkR6i_DwnlixgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl68a8_OEXjkR6i_DwnlixgU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:09:44"
+  },
+  {
+    "business_name": "Profin Advisory",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency",
+    "pincode": "444005",
+    "phone_number": "+91 79 4591 7381",
+    "website": "https://www.profin-advisory.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sun Gravitas, 301, Ahmedabad, Gujarat 380051",
+    "area": "Rajmani Society, Shyamal",
+    "latitude": 23.0108839,
+    "longitude": 72.5307888,
+    "place_id": "ChIJXY7iRtCFXjkRmGwJ-N2lI8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXY7iRtCFXjkRmGwJ-N2lI8U",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:09:44"
+  }
+]

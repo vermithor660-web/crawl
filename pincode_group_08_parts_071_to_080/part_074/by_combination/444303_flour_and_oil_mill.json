@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Mahesh Industries",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "444303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PGHJ+RCV, MIDC, Khamgaon, Sutala Bk., Maharashtra 444312",
+    "area": "MIDC, Khamgaon",
+    "latitude": 20.7296022,
+    "longitude": 76.5310423,
+    "place_id": "ChIJFw97bgBX1zsRZf3uzEIQDW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFw97bgBX1zsRZf3uzEIQDW4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:49:52"
+  },
+  {
+    "business_name": "Sanjay Industries",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Mill",
+    "all_categories": "Mill",
+    "pincode": "444303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "E-2, M.I.D.C., Khamgaon, Maharashtra 444312",
+    "area": "MIDC, Khamgaon",
+    "latitude": 20.7358092,
+    "longitude": 76.54059199999999,
+    "place_id": "ChIJ118ST05X1zsRbI3BvZcQ7uE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ118ST05X1zsRbI3BvZcQ7uE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:49:52"
+  }
+]

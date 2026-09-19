@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjivani Multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Doctor, Emergency care service, Medical laboratory, Pharmacy",
+    "pincode": "444302",
+    "phone_number": "+91 96996 59717",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Balapur - Patur Road, opposite Renuka Mata Mandir, Wadegaon, Maharashtra 444501",
+    "area": "444302",
+    "latitude": 20.5746959,
+    "longitude": 76.8506506,
+    "place_id": "ChIJ0Q6n7y3L0DsRJpmiT2VQSlc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Q6n7y3L0DsRJpmiT2VQSlc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:46:50"
+  },
+  {
+    "business_name": "Vijaya Hospital Dr Indrajeet Deshmukh (MS Ortho)",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444302",
+    "phone_number": "+91 95311 08108",
+    "website": "https://softspectra.co/webapp/nbsp-vijaya-hospital",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Civil Line Rd, opp. Datta Medicals, New Radhakisan Plots, Akola, Maharashtra 444001",
+    "area": "New Radhakisan Plots",
+    "latitude": 20.7054807,
+    "longitude": 77.0095577,
+    "place_id": "ChIJFUknjeUx1zsRrGsCsVZhS8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFUknjeUx1zsRrGsCsVZhS8U",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:46:50"
+  }
+]

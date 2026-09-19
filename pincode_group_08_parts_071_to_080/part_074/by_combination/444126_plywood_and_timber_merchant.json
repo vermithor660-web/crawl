@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Greenply Industries Limited",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier, Corporate office, Manufacturer",
+    "pincode": "444126",
+    "phone_number": "+91 1800 103 4050",
+    "website": "https://www.greenply.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "5th Floor, Madgul Lounge, No 23, Chetla Central Rd, opposite Chetla Park, Chetla, Kolkata, West Bengal 700027",
+    "area": "Chetla",
+    "latitude": 22.5177773,
+    "longitude": 88.3367329,
+    "place_id": "ChIJ-_amIE13AjoRxgxM1qGrMrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-_amIE13AjoRxgxM1qGrMrE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:36:25"
+  },
+  {
+    "business_name": "Radhekrishna Plywood & Hardware - Best Plywood Dealer Shop in Nanded | Best Hardware Shop in Nanded | Best Cermica Shop",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier, Hardware store, Store",
+    "pincode": "444126",
+    "phone_number": "+91 97666 68279",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nanded Malegaon Rd, Bhavsar chowk, Ashtvinayak Nagar, Nanded, Maharashtra 431605",
+    "area": "Bhavsar chowk, Ashtvinayak Nagar",
+    "latitude": 19.1873173,
+    "longitude": 77.3002539,
+    "place_id": "ChIJndFTrP7X0TsRCnLQCoPVzWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJndFTrP7X0TsRCnLQCoPVzWU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:36:25"
+  }
+]

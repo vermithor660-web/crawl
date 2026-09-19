@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHRI SHIV MEDICAL AND GENERAL STORES",
+    "search_category": "General Store",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "444202",
+    "phone_number": "+91 91462 62084",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1 Main Road, Palshi Zasi, Maharashtra 444202",
+    "area": "444202",
+    "latitude": 21.058328,
+    "longitude": 76.6719998,
+    "place_id": "ChIJ5W3iX3Vv1zsRrT7vcC6KTXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5W3iX3Vv1zsRrT7vcC6KTXs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:39:16"
+  },
+  {
+    "business_name": "RAJAS GENERAL STORE",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "444202",
+    "phone_number": "+91 88880 59681",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SHOP NO 01 MAIN ROAD, near BUS STOP, Sangrampur, Maharashtra 444202",
+    "area": "444202",
+    "latitude": 21.0329823,
+    "longitude": 76.6764118,
+    "place_id": "ChIJoR9mHIRp1zsR8NRFTyqPKVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoR9mHIRp1zsR8NRFTyqPKVc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:39:17"
+  }
+]

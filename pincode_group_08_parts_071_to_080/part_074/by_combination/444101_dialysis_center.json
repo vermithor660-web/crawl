@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Faizan Ahmed Ansari",
+    "search_category": "Dialysis Center",
+    "primary_category": "Nephrologist",
+    "all_categories": "Nephrologist",
+    "pincode": "444101",
+    "phone_number": "+91 70204 37707",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "ANSARI HOSPITAL, Chawk, near Phadke Hospital, Jatharpeth, Akola, Maharashtra 444005",
+    "area": "Jatharpeth",
+    "latitude": 20.7148271,
+    "longitude": 77.0162295,
+    "place_id": "ChIJzfpBmyJJ1zsRCyFUhyx4wOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzfpBmyJJ1zsRCyFUhyx4wOA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:14:33"
+  },
+  {
+    "business_name": "Noble Hospital",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444101",
+    "phone_number": "+91 70205 14239",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Noble Hospital, near Bus Station, New Radhakisan Plots, Akola, Maharashtra 444001",
+    "area": "New Radhakisan Plots",
+    "latitude": 20.7062802,
+    "longitude": 77.0053156,
+    "place_id": "ChIJdbL7Z-Mx1zsRALYsNGOPYw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdbL7Z-Mx1zsRALYsNGOPYw4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:14:33"
+  }
+]

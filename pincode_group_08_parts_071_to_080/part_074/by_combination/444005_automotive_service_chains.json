@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalyani Automotive",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "444005",
+    "phone_number": "+91 93730 81851",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Bus Stand, Plot No. 38 Service Industry Zone, near Ravi Masale, behind CIDCO, Town Centre, N 1, New Aurangabad, Maharashtra 431006",
+    "area": "Sambhaji Nagar, Town Centre, N 1, Cidco",
+    "latitude": 19.874693999999998,
+    "longitude": 75.36940849999999,
+    "place_id": "ChIJg68vRyyj2zsRkTr6-p6nP8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg68vRyyj2zsRkTr6-p6nP8I",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:09:04"
+  },
+  {
+    "business_name": "Sanjay Motors",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "444005",
+    "phone_number": "+91 94253 82059",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Sanjay Motors, Bajpur, Badora, Betul, Madhya Pradesh 460001",
+    "area": "Bajpur",
+    "latitude": 21.8882062,
+    "longitude": 77.901252,
+    "place_id": "ChIJ6Rl2tYsJ1jsRhU2UafHi5Nk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Rl2tYsJ1jsRhU2UafHi5Nk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:09:04"
+  }
+]
