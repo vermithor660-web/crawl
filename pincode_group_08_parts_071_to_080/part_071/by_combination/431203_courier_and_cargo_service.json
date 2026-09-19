@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prasad Multi Services",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Service establishment",
+    "pincode": "431203",
+    "phone_number": "+91 2482 243 040",
+    "website": "http://www.shreetirupaticourier.net/",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "Prasad Multi Services, 431203, India",
+    "area": "431203",
+    "latitude": 19.918964199999998,
+    "longitude": 76.059871,
+    "place_id": "ChIJe4652_xZ2jsRev7-KSgspzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe4652_xZ2jsRev7-KSgspzU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:38:57"
+  },
+  {
+    "business_name": "Vikas Courier Argo",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Shipping service",
+    "all_categories": "Shipping service",
+    "pincode": "431203",
+    "phone_number": "+91 98222 50089",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "VW22+242, near Akeli Masjid, Naya Bazar, Dhangarpura, Jalna, Maharashtra 431203",
+    "area": "Naya Bazar, Dhangarpura",
+    "latitude": 19.850002999999997,
+    "longitude": 75.900267,
+    "place_id": "ChIJpSSFZP1Z2jsRxijsj71Dehs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpSSFZP1Z2jsRxijsj71Dehs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:38:57"
+  }
+]

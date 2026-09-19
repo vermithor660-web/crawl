@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "B .Sc .Graduate Chai Wala At",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Restaurant",
+    "pincode": "431147",
+    "phone_number": "+91 96650 20342",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bus Stand, Shop No 3mai, Nagad, Maharashtra 431103",
+    "area": "431147",
+    "latitude": 20.4589946,
+    "longitude": 75.17286109999999,
+    "place_id": "ChIJH3w6OgNZ2TsR8amw7XjQfoQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH3w6OgNZ2TsR8amw7XjQfoQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:22:35"
+  },
+  {
+    "business_name": "Tea Centre",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "431147",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Panchavati Rd, Samadhan Colony, Konkanwadi, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "Samadhan Colony, Konkanwadi",
+    "latitude": 19.8721599,
+    "longitude": 75.3149897,
+    "place_id": "ChIJa9R2AkOY2zsRP4xGox1oiCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa9R2AkOY2zsRP4xGox1oiCA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:22:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Animal Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "431134",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "XJFF+W6P, Ladsavngi, Maharashtra 431154",
+    "area": "431134",
+    "latitude": 19.974042,
+    "longitude": 75.6235095,
+    "place_id": "ChIJZXtlRACz2zsRBiZVB5nFQ4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXtlRACz2zsRBiZVB5nFQ4E",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:09:42"
+  },
+  {
+    "business_name": "Animal Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431134",
+    "phone_number": "+91 90118 80340",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hanumannagar, Bhakarwadi, Murshadpur, Maharashtra 431213",
+    "area": "Hanumannagar",
+    "latitude": 19.9798753,
+    "longitude": 75.5916633,
+    "place_id": "ChIJQ-eEBG2x2zsRcBSz2h91MLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ-eEBG2x2zsRcBSz2h91MLg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:09:42"
+  }
+]

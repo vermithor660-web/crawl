@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAKSUD TAILORS",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431202",
+    "phone_number": "+91 78754 65913",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Shop No 1 Near Om Medical Main Road Lonar Bhayegaon, Maharashtra 431202",
+    "area": "431202",
+    "latitude": 19.7306493,
+    "longitude": 75.7144532,
+    "place_id": "ChIJP_NR_xf_2jsRMSpylTIrXYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP_NR_xf_2jsRMSpylTIrXYo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:35:51"
+  },
+  {
+    "business_name": "Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "431202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop no. 2, sul apartment, Sector-19, Airoli, Navi Mumbai, Maharashtra 400708",
+    "area": "Sector-19, Airoli",
+    "latitude": 19.1612375,
+    "longitude": 72.9918837,
+    "place_id": "ChIJ82LU9Qq55zsRvnE78Wquias",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ82LU9Qq55zsRvnE78Wquias",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:35:52"
+  }
+]

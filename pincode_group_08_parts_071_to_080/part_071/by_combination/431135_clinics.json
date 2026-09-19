@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pain Relief Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431135",
+    "phone_number": "+91 84598 80280",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dr Zakir Husain Nagar, Sillod, Maharashtra 431112",
+    "area": "Dr Zakir Husain Nagar",
+    "latitude": 20.3032026,
+    "longitude": 75.65488979999999,
+    "place_id": "ChIJVfGPFnHN2zsRcDUUjH0xIUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVfGPFnHN2zsRcDUUjH0xIUw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:11:33"
+  },
+  {
+    "business_name": "Shobha Clinical Laboratory",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "431135",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Riksha Stand, Shivaji Nagar, Sillod, Maharashtra 431112",
+    "area": "Shivaji Nagar",
+    "latitude": 20.308746499999998,
+    "longitude": 75.65994979999999,
+    "place_id": "ChIJk9lrKVDT2zsRoBS-qWzYWWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk9lrKVDT2zsRoBS-qWzYWWs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:11:33"
+  }
+]

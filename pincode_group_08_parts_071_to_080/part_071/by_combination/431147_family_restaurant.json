@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anandhi Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "431147",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "W26F+34C, Aurangabad - Nagpur Rd, Navha, Maharashtra 431213",
+    "area": "431147",
+    "latitude": 19.9103203,
+    "longitude": 76.0228048,
+    "place_id": "ChIJvypAkgpd2jsRTMu58wUJFSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvypAkgpd2jsRTMu58wUJFSQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:22:40"
+  },
+  {
+    "business_name": "Hotel Mejwani",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Bar, Diner, Lunch restaurant, Public parking space",
+    "pincode": "431147",
+    "phone_number": "+91 98237 40001",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 82,
+    "address": "Plot No-X-76, near Garudzep Cariear Acedemy, Bajaj Nagar, Waluj, Wadgaon Kolhati, Maharashtra 431136",
+    "area": "Bajaj Nagar, Waluj",
+    "latitude": 19.840864099999997,
+    "longitude": 75.24408009999999,
+    "place_id": "ChIJFxqA2BKb2zsRj_9of0N9Tf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFxqA2BKb2zsRj_9of0N9Tf0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:22:43"
+  }
+]

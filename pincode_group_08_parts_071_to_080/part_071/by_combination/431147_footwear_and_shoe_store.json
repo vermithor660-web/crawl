@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "431147",
+    "phone_number": "+91 94214 01121",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1, Khandoba Mandir, Chincholi Li, near Bustand, Chincholi, Maharashtra 431147",
+    "area": "431147",
+    "latitude": 20.3837634,
+    "longitude": 75.3691044,
+    "place_id": "ChIJ6cJykv7f2zsR0jG9KwClSFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6cJykv7f2zsR0jG9KwClSFw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:22:46"
+  },
+  {
+    "business_name": "ROYAL FOOTWEAR",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "431147",
+    "phone_number": "+91 76669 57223",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "MIDC, Ranjangaon Shenpunji, Waluj, Ranjangaon (Shenpunji), Maharashtra 431136",
+    "area": "MIDC, Ranjangaon Shenpunji, Waluj",
+    "latitude": 19.84294,
+    "longitude": 75.218025,
+    "place_id": "ChIJccKDSLGb2zsRY6-ybwiwym4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJccKDSLGb2zsRY6-ybwiwym4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:22:47"
+  }
+]

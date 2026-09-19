@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Friends Hair Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair removal service",
+    "all_categories": "Hair removal service",
+    "pincode": "431213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Sindkhed Raja, Maharashtra 443203",
+    "area": "431213",
+    "latitude": 19.9564266,
+    "longitude": 76.124805,
+    "place_id": "ChIJ55QnKABn2jsRcLX6x3icHv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ55QnKABn2jsRcLX6x3icHv0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:54:48"
+  },
+  {
+    "business_name": "Venkatesh Mens Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431213",
+    "phone_number": "+91 96655 18888",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2 Swami Samarth Nagar Satkar Complex, Maharashtra 431213",
+    "area": "Samarth Nagar",
+    "latitude": 19.825716099999998,
+    "longitude": 75.878993,
+    "place_id": "ChIJcUAYAwlX2jsRTxO5HXxi5ZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcUAYAwlX2jsRTxO5HXxi5ZY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:54:50"
+  }
+]

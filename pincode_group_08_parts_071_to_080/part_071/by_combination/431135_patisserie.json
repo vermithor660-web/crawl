@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SARVADNYA PATANJALI",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Hospital",
+    "pincode": "431135",
+    "phone_number": "+91 99750 21132",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1, near Tayde Hospital, Jai Bhawani Nagar, Sillod, Maharashtra 431112",
+    "area": "Jai Bhawani Nagar",
+    "latitude": 20.3050002,
+    "longitude": 75.65249949999999,
+    "place_id": "ChIJ8amP937T2zsRWxMbUWq6agk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8amP937T2zsRWxMbUWq6agk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:11:14"
+  },
+  {
+    "business_name": "Siddhant Agencies",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "431135",
+    "phone_number": "+91 93596 97447",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 10 Sneha Nagar Laxmi Nagar Sillod Road, Silload Rod, Maharashtra 431112",
+    "area": "Sneha Nagar",
+    "latitude": 20.3001196,
+    "longitude": 75.6515313,
+    "place_id": "ChIJZymljvrN2zsRAsJjgrN5ktE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZymljvrN2zsRAsJjgrN5ktE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:11:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sancheti wholesale",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Wholesale market",
+    "all_categories": "Wholesale market",
+    "pincode": "431137",
+    "phone_number": "+91 98239 56649",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Rangar Galli, behind Uttam sweets, Gulmandi, Shahgunj, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Gulmandi, Shahgunj",
+    "latitude": 19.8864496,
+    "longitude": 75.3299329,
+    "place_id": "ChIJk6HTD3OZ2zsREhepJR8ANRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk6HTD3OZ2zsREhepJR8ANRs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:15:20"
+  },
+  {
+    "business_name": "Yash Fabrics",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Fabric store",
+    "all_categories": "Fabric store",
+    "pincode": "431137",
+    "phone_number": "+91 88063 60098",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop 2, Road, near Hotel Surya, Padegaon, Chhatrapati Sambhajinagar, Maharashtra 431002",
+    "area": "Padegaon",
+    "latitude": 19.8889124,
+    "longitude": 75.2824244,
+    "place_id": "ChIJGdW9XcWZ2zsRAAAAMP6X424",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGdW9XcWZ2zsRAAAAMP6X424",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:15:22"
+  }
+]

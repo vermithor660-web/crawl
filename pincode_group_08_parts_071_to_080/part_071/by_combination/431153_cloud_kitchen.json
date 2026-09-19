@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Achaat Haaus (Cloud Kitchen)",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Takeout restaurant",
+    "all_categories": "Takeout restaurant",
+    "pincode": "431153",
+    "phone_number": "+91 93097 96877",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 18,
+    "address": "Chandraneel Co-op. Hsg. Soc, A-206, near Ramkrushna MathRoad, Panmala, Dattawadi, Pune, Maharashtra 411009",
+    "area": "Panmala, Dattawadi",
+    "latitude": 18.4993961,
+    "longitude": 73.843597,
+    "place_id": "ChIJgbFkE9GVwjsRIGG3-v6KVE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgbFkE9GVwjsRIGG3-v6KVE8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:32:05"
+  },
+  {
+    "business_name": "Select kitchen equipment (commercial, domestic)",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Kitchen supply store",
+    "all_categories": "Kitchen supply store, Manufacturer",
+    "pincode": "431153",
+    "phone_number": "+91 83284 05422",
+    "website": "http://selectkitchen.in/",
+    "rating": 4.9,
+    "reviews_count": 91,
+    "address": "7-2-2, near flyover bridge, near city broiler chicken center, Neemkar Nagar, Shastri Nagar, Fatehnagar, Sanath Nagar, Hyderabad, Telangana 500018",
+    "area": "Neemkar Nagar, Shastri Nagar, Fatehnagar, Sanath Nagar",
+    "latitude": 17.4531209,
+    "longitude": 78.4504992,
+    "place_id": "ChIJvd56NZORyzsRKg4ZQii76o4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvd56NZORyzsRKg4ZQii76o4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:32:06"
+  }
+]

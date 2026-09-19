@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devashi Alloys & Food Pvt Ltd",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "431202",
+    "phone_number": "+91 87933 70385",
+    "website": "http://www.devofoods.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Plot No. A-1,A-2,A-3/2/1 Addl. Jalna Ph-3 Industrial Area, Maharashtra 431213",
+    "area": "431202",
+    "latitude": 19.8743205,
+    "longitude": 75.8237237,
+    "place_id": "ChIJcaG8mAlR2jsR6AgjKVdAxO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcaG8mAlR2jsR6AgjKVdAxO0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:35:53"
+  },
+  {
+    "business_name": "Devo Pasta",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer, Confectionery store, Food Processing Company, Pasta shop",
+    "pincode": "431202",
+    "phone_number": "+91 87933 70385",
+    "website": "https://www.devofoods.com/",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "Industrial Area, Phase 3, Jalna Industrial Area MIDC, Jalna, Maharashtra 431213",
+    "area": "Industrial Area, Phase 3, Jalna Industrial Area MIDC",
+    "latitude": 19.874314299999998,
+    "longitude": 75.8235684,
+    "place_id": "ChIJlees7vBX2jsRm_UptiKymL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlees7vBX2jsRm_UptiKymL8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:35:53"
+  }
+]

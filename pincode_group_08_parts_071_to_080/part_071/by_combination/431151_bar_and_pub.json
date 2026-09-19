@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NISARGA HOTEL BEER BAR",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "431151",
+    "phone_number": "+91 97666 55123",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1 Wahegaon Pishor Road Chatrapati Sambhajinagar Pushor, Road, Wahegaon, Maharashtra 431151",
+    "area": "431151",
+    "latitude": 20.1909146,
+    "longitude": 75.38115189999999,
+    "place_id": "ChIJGcb8v7fD2zsRMet_dtI4ljQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGcb8v7fD2zsRMet_dtI4ljQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:28:23"
+  },
+  {
+    "business_name": "HOTEL RAGOLI",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "431151",
+    "phone_number": "+91 76200 57302",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop.No.03 Nachanwel Road Mohra Near Sai Mandir Andheri Road, Main, Aland, Sillod, Maharashtra 431104",
+    "area": "431151",
+    "latitude": 20.2804269,
+    "longitude": 75.4319249,
+    "place_id": "ChIJ9TkttlXD2zsReuqNArIfFKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9TkttlXD2zsReuqNArIfFKg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:28:23"
+  }
+]

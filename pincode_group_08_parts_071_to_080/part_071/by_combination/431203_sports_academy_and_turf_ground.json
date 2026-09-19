@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RHV Ground",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Playground",
+    "all_categories": "Playground",
+    "pincode": "431203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "VW52+2FC, Devalgaon Raja Rd, Badi Sadak, Jalna, Maharashtra 431203",
+    "area": "Badi Sadak",
+    "latitude": 19.857564,
+    "longitude": 75.9011529,
+    "place_id": "ChIJUZbLx_9Z2jsRhKV0ZC_Fp7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUZbLx_9Z2jsRhKV0ZC_Fp7M",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:38:46"
+  },
+  {
+    "business_name": "Rathi's Sports Turf",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Cricket ground",
+    "all_categories": "Cricket ground",
+    "pincode": "431203",
+    "phone_number": "+91 94222 44652",
+    "website": "https://www.instagram.com/rathis_sports_turf",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Krishna Files Company, A-22, beside Pavillion Turf, Old MIDC, Jalna, Maharashtra 431203",
+    "area": "Old MIDC",
+    "latitude": 19.8604336,
+    "longitude": 75.9067893,
+    "place_id": "ChIJMYs-mEdb2jsRL5FexdHVNSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMYs-mEdb2jsRL5FexdHVNSY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:38:48"
+  }
+]

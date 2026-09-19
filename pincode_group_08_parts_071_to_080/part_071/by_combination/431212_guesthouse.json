@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samrath Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "431212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "9PR5+973, Mahakala, Maharashtra 431212",
+    "area": "431212",
+    "latitude": 19.390881699999998,
+    "longitude": 75.7081567,
+    "place_id": "ChIJI2PoVeMf2zsRqx-C01AjsIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI2PoVeMf2zsRqx-C01AjsIs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:53:05"
+  },
+  {
+    "business_name": "Chhatrapati Shivaji Maharaj Smarak Jalna",
+    "search_category": "Guesthouse",
+    "primary_category": "Historical landmark",
+    "all_categories": "Historical landmark",
+    "pincode": "431212",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No 1, Front Ganga Hotel, Chatrapati Shivaji Maharaj Rd, near by Kailsad Chat In, Chauk, Jalna, Maharashtra 431203",
+    "area": "Chauk",
+    "latitude": 19.8443024,
+    "longitude": 75.9058211,
+    "place_id": "ChIJhXjvelNZ2jsReYNyEIfdbRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhXjvelNZ2jsReYNyEIfdbRI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:53:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homefixer",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop, Service establishment",
+    "pincode": "431142",
+    "phone_number": "+91 88510 17494",
+    "website": "https://homefixer.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Homefixer, 431142, India",
+    "area": "431142",
+    "latitude": 28.649372999999997,
+    "longitude": 77.1865712,
+    "place_id": "ChIJ8fTVhyaZ3U4RMqnfhJds6Bk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8fTVhyaZ3U4RMqnfhJds6Bk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:17:48"
+  },
+  {
+    "business_name": "Sandeshwar Refrigeration & Sir Conditioner",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Refrigerator repair service",
+    "all_categories": "Refrigerator repair service",
+    "pincode": "431142",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sandeshwar Mandir road, Sandas Chincholi, Majlgaon, Sandas Chincholi, Maharashtra 431131",
+    "area": "Sandas Chincholi",
+    "latitude": 19.212431799999997,
+    "longitude": 76.2634807,
+    "place_id": "ChIJiez9Alyx2jsRB5b76sDPIxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiez9Alyx2jsRB5b76sDPIxY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:17:50"
+  }
+]

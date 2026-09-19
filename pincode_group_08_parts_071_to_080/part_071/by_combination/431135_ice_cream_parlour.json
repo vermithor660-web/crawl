@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vyankatesh Agency",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "431135",
+    "phone_number": "+91 97631 88838",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shri Krishna Nagar, Jai Bhawani Nagar, Sillod, Maharashtra 431112",
+    "area": "Shri Krishna Nagar, Jai Bhawani Nagar",
+    "latitude": 20.3085229,
+    "longitude": 75.6529978,
+    "place_id": "ChIJi3U7EWfT2zsR5dkA9--iJIc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi3U7EWfT2zsR5dkA9--iJIc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:11:18"
+  },
+  {
+    "business_name": "Mauli Ice Cream ,daily needs and Cake shop",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Cake shop",
+    "pincode": "431135",
+    "phone_number": "+91 73784 03143",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 45,
+    "address": "VP99+GF9, Nagpur - Aurangabad - Mumbai Hwy, Badnapur, Maharashtra 431202",
+    "area": "431135",
+    "latitude": 19.8687705,
+    "longitude": 75.71868429999999,
+    "place_id": "ChIJn2QShC1T2jsRwQPP3-iJo1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn2QShC1T2jsRwQPP3-iJo1A",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:11:18"
+  }
+]

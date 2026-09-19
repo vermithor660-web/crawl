@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rohit Printers",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Offset Printer",
+    "all_categories": "Offset Printer, Apartment building",
+    "pincode": "431133",
+    "phone_number": "+91 98501 17758",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W-56, Vaishnav Devi Mata Mandir Road, Pandharpur, Waladgaon, Maharashtra 431136",
+    "area": "Pandharpur",
+    "latitude": 19.835842,
+    "longitude": 75.247,
+    "place_id": "ChIJf75Eutib2zsRb9-izdztfq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf75Eutib2zsRb9-izdztfq4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:08:31"
+  },
+  {
+    "business_name": "MARUTI PRINTERS",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop, Invitation printing service, Offset Printer, Packaging supply store",
+    "pincode": "431133",
+    "phone_number": "+91 90119 93905",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Lat, Minatai Thakre Complex, Market, Maharana Pratap Chowk, Bajaj Nagar, Waluj, Wadgaon Kolhati, Maharashtra 431136",
+    "area": "Maharana Pratap Chowk, Bajaj Nagar, Waluj",
+    "latitude": 19.8401639,
+    "longitude": 75.240753,
+    "place_id": "ChIJu18PC9qb2zsRh7FWK0XUkDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu18PC9qb2zsRh7FWK0XUkDg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:08:31"
+  }
+]

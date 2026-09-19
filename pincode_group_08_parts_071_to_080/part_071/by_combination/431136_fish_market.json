@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suraj Fish shop",
+    "search_category": "Fish Market",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "431136",
+    "phone_number": "+91 97671 34096",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Colget Chowak, MIDC Waluj, Bajaj Nagar, Ranjangaon Shenpunji, Waluj, Wadgaon Kolhati, Maharashtra 431136",
+    "area": "MIDC Waluj, Bajaj Nagar, Ranjangaon Shenpunji, Waluj",
+    "latitude": 19.840769299999998,
+    "longitude": 75.23270339999999,
+    "place_id": "ChIJuRC0fqqb2zsR3NqRGKtUnn0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuRC0fqqb2zsR3NqRGKtUnn0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:13:05"
+  },
+  {
+    "business_name": "Prakash Fish Center",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "431136",
+    "phone_number": "+91 91123 50087",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.1, Bombay High Way, near Bombay High Way, Waluj, Chhatrapati Sambhajinagar, Tisgaon, Maharashtra 431136",
+    "area": "Waluj",
+    "latitude": 19.860775399999998,
+    "longitude": 75.2559758,
+    "place_id": "ChIJ47Aj6byZ2zsRU6xY1C09_OQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ47Aj6byZ2zsRU6xY1C09_OQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:13:08"
+  }
+]

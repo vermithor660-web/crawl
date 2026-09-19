@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bio Informatika",
+    "search_category": "Market Research Firms",
+    "primary_category": "Market researcher",
+    "all_categories": "Market researcher, Service establishment",
+    "pincode": "431133",
+    "phone_number": "N/A",
+    "website": "https://bioinformatika.ueniweb.com/?utm_campaign=gmb",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bio Informatika, 431133, India",
+    "area": "431133",
+    "latitude": 19.8751684,
+    "longitude": 75.3408714,
+    "place_id": "ChIJPz9qB2OZ2zsR789Vaz5LNvs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPz9qB2OZ2zsR789Vaz5LNvs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:09:00"
+  },
+  {
+    "business_name": "Shreya Life Sciences Pvt Ltd",
+    "search_category": "Market Research Firms",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company",
+    "pincode": "431133",
+    "phone_number": "+91 240 255 4224",
+    "website": "http://www.shreya.co.in/",
+    "rating": 4,
+    "reviews_count": 21,
+    "address": "B-9/2, M I D C, Waluj, Wadgaon Kolhati, Maharashtra 431136",
+    "area": "Waluj",
+    "latitude": 19.8388185,
+    "longitude": 75.23868039999999,
+    "place_id": "ChIJVVVVVcWb2zsR3_4s9_eDxEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVcWb2zsR3_4s9_eDxEg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:09:02"
+  }
+]

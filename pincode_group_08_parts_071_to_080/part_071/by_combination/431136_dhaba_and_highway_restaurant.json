@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Happy",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Vegan restaurant",
+    "all_categories": "Vegan restaurant",
+    "pincode": "431136",
+    "phone_number": "+91 98507 17174",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 583,
+    "address": "Chhatrapati Sambhajinagar - Ahilyanagar - Pune Hwy, near OM Agro, Waluj, Chhatrapati Sambhajinagar, Waluj Kh., Maharashtra 431133",
+    "area": "Waluj",
+    "latitude": 19.7890961,
+    "longitude": 75.21583559999999,
+    "place_id": "ChIJP4jSVG6c2zsRxqs-X_PWg-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP4jSVG6c2zsRxqs-X_PWg-M",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:13:13"
+  },
+  {
+    "business_name": "Hotel Baliraja",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Restaurant",
+    "pincode": "431136",
+    "phone_number": "+91 88304 19277",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 212,
+    "address": "Gat 112, Hotel Baliraja, 1, Nagpur - Aurangabad - Mumbai Hwy, near Hp Petrol Pump, Karodi, Chhatrapati Sambhajinagar, Maharashtra 431136",
+    "area": "431136",
+    "latitude": 19.8814516,
+    "longitude": 75.2055828,
+    "place_id": "ChIJH4wVEWOa2zsR5OoSGU0RDmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH4wVEWOa2zsR5OoSGU0RDmM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:13:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vikson Bikes",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "431144",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 29,
+    "address": "Chhatrapati Shivaji Maharaj Rd, Shastri Nagar, Parbhani, Maharashtra 431401",
+    "area": "Shastri Nagar",
+    "latitude": 19.2707689,
+    "longitude": 76.7707745,
+    "place_id": "ChIJv6Yp6bUZ0DsRTDr107Xusw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv6Yp6bUZ0DsRTDr107Xusw4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:21:20"
+  },
+  {
+    "business_name": "Yelppa Gayakwad",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "431144",
+    "phone_number": "+91 76207 37818",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1, Mein Road, near Bas Stop, opp. Kasarwadi, Kasarwadi, Maharashtra 431128",
+    "area": "431144",
+    "latitude": 19.0674317,
+    "longitude": 76.39734659999999,
+    "place_id": "ChIJjXL-zbCr2jsRi9ML9COQ4xk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXL-zbCr2jsRi9ML9COQ4xk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:21:20"
+  }
+]

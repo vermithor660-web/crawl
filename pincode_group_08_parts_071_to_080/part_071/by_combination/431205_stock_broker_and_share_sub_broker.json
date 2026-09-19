@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Terra Investment",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service",
+    "pincode": "431205",
+    "phone_number": "+91 77788 80428",
+    "website": "https://terrainvestment.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kohinoor Square, 1002, N C. Kelkar Marg, Dadar West, Shivaji Park, Mumbai, Maharashtra 400028",
+    "area": "Dadar West, Shivaji Park",
+    "latitude": 19.0249584,
+    "longitude": 72.8409452,
+    "place_id": "ChIJl2vPbuAG0m4RUhCuiBZzlVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl2vPbuAG0m4RUhCuiBZzlVI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:42:37"
+  },
+  {
+    "business_name": "Tanna Consultancy",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "431205",
+    "phone_number": "+91 99237 50549",
+    "website": "http://www.bharattanna.com/",
+    "rating": 4.1,
+    "reviews_count": 10,
+    "address": "Shop No.1, Shardha CHS Alibag, Distric-Raigad, opp. S.T Stand, Alibag, Maharashtra 402201",
+    "area": "Brahmin Lane, PNP Nagar",
+    "latitude": 18.64715,
+    "longitude": 72.873712,
+    "place_id": "ChIJt2vlc0B66DsRK7s5xz30vxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt2vlc0B66DsRK7s5xz30vxo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:42:37"
+  }
+]

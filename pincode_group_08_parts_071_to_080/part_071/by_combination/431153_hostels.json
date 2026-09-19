@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ycip hostel",
+    "search_category": "Hostels",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "431153",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XQ97+VR5 Ycip hostel, Bid Rural, Prakash Ambedkar Nagar, Beed, Maharashtra 431122",
+    "area": "Bid Rural, Prakash Ambedkar Nagar",
+    "latitude": 18.969641,
+    "longitude": 75.7646031,
+    "place_id": "ChIJszE3nHsrxTsRn6R19uCKfGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJszE3nHsrxTsRn6R19uCKfGw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:32:59"
+  },
+  {
+    "business_name": "Samanvay ashram hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "431153",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3Q45+RQV, Namalgaon, Ghosapuri, Maharashtra 431153",
+    "area": "431153",
+    "latitude": 19.057118799999998,
+    "longitude": 75.7594295,
+    "place_id": "ChIJJ2Q4FBjV2jsRi4gaav9PY20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ2Q4FBjV2jsRi4gaav9PY20",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:33:02"
+  }
+]

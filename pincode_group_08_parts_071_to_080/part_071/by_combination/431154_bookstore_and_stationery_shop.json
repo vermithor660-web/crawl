@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shreemant Book and Stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "431154",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 27,
+    "address": "Ekta Nagar - Jatwada Rd, near Central Jail, Harsul, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Harsul",
+    "latitude": 19.914443,
+    "longitude": 75.3470969,
+    "place_id": "ChIJDcFcKyCX2zsR1TPHg7zRXEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDcFcKyCX2zsR1TPHg7zRXEE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:35:03"
+  },
+  {
+    "business_name": "Sadhana Book Center",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "431154",
+    "phone_number": "+91 94202 64382",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 19,
+    "address": "SB College Rd, near Nath Mandir, Nath Mandir, Gulmandi, Aurangpura, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Nath Mandir, Gulmandi, Aurangpura",
+    "latitude": 19.88401,
+    "longitude": 75.328367,
+    "place_id": "ChIJiT2TlRKY2zsRt3WsTM3WVlE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiT2TlRKY2zsRt3WsTM3WVlE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:35:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Machinery",
+    "search_category": "Generator Sales and Rental",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "431208",
+    "phone_number": "+91 2482 239 284",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 5, police complex, bus stand road, Maharashtra 431203",
+    "area": "Rahman Ganj",
+    "latitude": 19.8479208,
+    "longitude": 75.8964077,
+    "place_id": "ChIJszxcfFdX2jsR_Y7g2a90X6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJszxcfFdX2jsR_Y7g2a90X6w",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:48:14"
+  },
+  {
+    "business_name": "Sachin Generator",
+    "search_category": "Generator Sales and Rental",
+    "primary_category": "Electric generator shop",
+    "all_categories": "Electric generator shop",
+    "pincode": "431208",
+    "phone_number": "+91 98907 76340",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ahmednagar-Kalyan Rd,Maharashtra, Pune,Junnar, Ale Gao, Ale, Maharashtra 412411",
+    "area": "431208",
+    "latitude": 19.1723125,
+    "longitude": 74.1120625,
+    "place_id": "ChIJH9aOu1Yj3TsR1NURZ8jILqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH9aOu1Yj3TsR1NURZ8jILqE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:48:14"
+  }
+]

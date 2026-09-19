@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAHIM AUTO GARAGE",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "431150",
+    "phone_number": "+91 91464 38721",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, Main Road, Banoti, Maharashtra 431150",
+    "area": "431150",
+    "latitude": 20.510393699999998,
+    "longitude": 75.3437853,
+    "place_id": "ChIJR3Q99Vlh2TsRlGTt9nM3CQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR3Q99Vlh2TsRlGTt9nM3CQ0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:26:52"
+  },
+  {
+    "business_name": "Shree Samarth Motors TVS - Tongaon",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer, Electric motor vehicle dealer, Motor scooter dealer, Motor vehicle dealer, Motorcycle shop",
+    "pincode": "431150",
+    "phone_number": "+91 8071 406 865",
+    "website": "https://showroom.tvsmotor.com/locator/jalgaon//shree-samarth-motors-tvs-in-jalgaon--77pmP5/home",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Plot No 25, Chalisgaon Road, opposite Bus Stand, Tongaon, Bhadgaon, Maharashtra 424105",
+    "area": "Tongaon",
+    "latitude": 20.6625913,
+    "longitude": 75.2288863,
+    "place_id": "ChIJNX2adW1F2TsRZFGiw20DgsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNX2adW1F2TsRZFGiw20DgsE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:26:55"
+  }
+]

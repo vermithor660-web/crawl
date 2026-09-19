@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sachin Vishnu Bhosale",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "431150",
+    "phone_number": "+91 99752 98004",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, in front of Court Bus Stop, Bhadgaon, Maharashtra 424105",
+    "area": "431150",
+    "latitude": 20.6678212,
+    "longitude": 75.2276688,
+    "place_id": "ChIJTRu7FTdF2TsRS66MSpZXOxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTRu7FTdF2TsRS66MSpZXOxo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:27:49"
+  },
+  {
+    "business_name": "Sangharsh multiservices",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Bankruptcy service",
+    "all_categories": "Bankruptcy service",
+    "pincode": "431150",
+    "phone_number": "+91 88887 37331",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus stand, Ghat Nandra, Ghatnandra, Maharashtra 431113",
+    "area": "Ghat Nandra",
+    "latitude": 20.448032899999998,
+    "longitude": 75.4220802,
+    "place_id": "ChIJlVHgKITf2zsRjuUNMySYWeQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlVHgKITf2zsRjuUNMySYWeQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:27:49"
+  }
+]

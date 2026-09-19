@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vakrangee Kendra",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, ATM, Bank, Insurance agency",
+    "pincode": "431153",
+    "phone_number": "+91 22 6776 5178",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WR8F+XPW, Wangi, Maharashtra 431153",
+    "area": "431153",
+    "latitude": 18.9174983,
+    "longitude": 75.8243427,
+    "place_id": "ChIJVVVVVaEuxTsRWAUKRiBgwDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVaEuxTsRWAUKRiBgwDI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:33:21"
+  },
+  {
+    "business_name": "ALLIANCE FREIGHT EXPRESS PVT LTD",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Freight Forwarding Agency",
+    "all_categories": "Freight Forwarding Agency, Courier service, Customs consultant, Logistics service",
+    "pincode": "431153",
+    "phone_number": "+91 98412 91255",
+    "website": "http://alliancecargo.ind.in/",
+    "rating": 4.8,
+    "reviews_count": 68,
+    "address": "No, 22G, Tiny Sector, Thiru Vi Ka Industrial Estate, Ekkatuthangal, Chennai, Tamil Nadu 600032",
+    "area": "Tiny Sector, Thiru Vi Ka Industrial Estate, Ekkatuthangal",
+    "latitude": 13.024954,
+    "longitude": 80.2096574,
+    "place_id": "ChIJiRRv0URmUjoRY7CHOzIM_WQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiRRv0URmUjoRY7CHOzIM_WQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:33:23"
+  }
+]

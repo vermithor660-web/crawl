@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LASTONE CAFE (लास्टवन कॅफे)",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "431154",
+    "phone_number": "+91 73978 49104",
+    "website": "http://www.lastonecafeshendra.com/",
+    "rating": 5,
+    "reviews_count": 76,
+    "address": "Aurangabad Road, near Hero showroom, opposite The HUB, Shendra Kamangar, Maharashtra 431154",
+    "area": "431154",
+    "latitude": 19.8654375,
+    "longitude": 75.4711875,
+    "place_id": "ChIJsTyT50ul2zsRACHFpJnDb30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsTyT50ul2zsRACHFpJnDb30",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:33:56"
+  },
+  {
+    "business_name": "Cafe Treats",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431154",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Building A1 Shop Number 7, My World My Pride, opposite Airport Road, Chilkalthana, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "MIDC Industrial Area, Chilkalthana",
+    "latitude": 19.8710272,
+    "longitude": 75.3945619,
+    "place_id": "ChIJbcHDW46j2zsROoAuDmvN0pM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbcHDW46j2zsROoAuDmvN0pM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:33:57"
+  }
+]

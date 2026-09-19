@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRITAM CYCLE STORES",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "431206",
+    "phone_number": "+91 72766 70506",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 10,
+    "address": "Chikhali Rd, near Shivaji Maharaj Chowk, Chikhali, Buldana, Chikhli, Maharashtra 443201",
+    "area": "Chikhali",
+    "latitude": 20.3460814,
+    "longitude": 76.25769749999999,
+    "place_id": "ChIJj42rraUR2jsRTmtOkJb66ME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj42rraUR2jsRTmtOkJb66ME",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:43:41"
+  },
+  {
+    "business_name": "Indian Cycle repair centre",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "431206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "83JJ+FJ3, Dr.B.R.Ambedkar Rd, Adha, Maharashtra 431206",
+    "area": "431206",
+    "latitude": 20.331125,
+    "longitude": 76.0815345,
+    "place_id": "ChIJFcylmR892jsRki7vhtW4Qpg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFcylmR892jsRki7vhtW4Qpg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:43:43"
+  }
+]

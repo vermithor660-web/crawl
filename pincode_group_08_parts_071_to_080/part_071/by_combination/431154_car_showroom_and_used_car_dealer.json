@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ŠKODA Showroom and Service",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "431154",
+    "phone_number": "+91 1800 209 4646",
+    "website": "https://dealers.skoda-auto.co.in/",
+    "rating": 4.4,
+    "reviews_count": 125,
+    "address": "A-1/1, MIDC, Shendra Kamangar, Maharashtra 431007, Aurangabad, Maharashtra 431154",
+    "area": "Shendra MIDC",
+    "latitude": 19.874543,
+    "longitude": 75.48782299999999,
+    "place_id": "ChIJq6qqagel2zsRbQyIGPLFCes",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqagel2zsRbQyIGPLFCes",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:34:22"
+  },
+  {
+    "business_name": "Zoom Carz",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "431154",
+    "phone_number": "+91 70202 92596",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Zoom carz, Nr Gas pump, Jalna Rd, opposite to Auto LPG, Shri Krishna Colony, Chilkalthana, Chhatrapati Sambhajinagar, Maharashtra 431007",
+    "area": "Shri Krishna Colony, Chilkalthana",
+    "latitude": 19.8655933,
+    "longitude": 75.41639409999999,
+    "place_id": "ChIJbeQHwk2Z2zsR1ObCRPedic4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbeQHwk2Z2zsR1ObCRPedic4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:34:22"
+  }
+]

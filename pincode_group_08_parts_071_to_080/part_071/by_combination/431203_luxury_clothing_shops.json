@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahira designer studio",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Women's clothing store",
+    "pincode": "431203",
+    "phone_number": "+91 78752 18979",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Old khava market, Machli khadak, Ambedkarwadi, Maharashtra 431203",
+    "area": "Naya Bazar, Dhangarpura",
+    "latitude": 19.8489284,
+    "longitude": 75.9012339,
+    "place_id": "ChIJSdpF6-JZ2jsRFFEbXb5RbU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSdpF6-JZ2jsRFFEbXb5RbU0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:37:53"
+  },
+  {
+    "business_name": "Sayee Creation",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "431203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "Sukhshanti Nagar, Mantha Rd, Jalna, Maharashtra 431203",
+    "area": "Telecom Colony",
+    "latitude": 19.8450693,
+    "longitude": 75.9185415,
+    "place_id": "ChIJgQQomLJZ2jsR0IoKy6aRaaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgQQomLJZ2jsR0IoKy6aRaaE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:37:53"
+  }
+]

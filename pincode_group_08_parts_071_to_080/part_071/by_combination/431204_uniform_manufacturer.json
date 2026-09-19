@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A One Tailours",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "431204",
+    "phone_number": "+91 94237 46894",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no 1, Rajendra Mantri Market, Jalna - Beed Rd, Ambad, Maharashtra 431204",
+    "area": "431204",
+    "latitude": 19.615218199999997,
+    "longitude": 75.7963035,
+    "place_id": "ChIJdS7Pqkn92jsRaDUkZqKYrLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdS7Pqkn92jsRaDUkZqKYrLA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:39:43"
+  },
+  {
+    "business_name": "Saudagar Traders",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Store",
+    "all_categories": "Store, Building materials supplier, Cement Supplier, Iron & Steel Store, Paint store, Pipe supplier",
+    "pincode": "431204",
+    "phone_number": "+91 94237 47274",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Hospital Rd, Ghansawangi, Maharashtra 431209",
+    "area": "431204",
+    "latitude": 19.521533299999998,
+    "longitude": 75.9846939,
+    "place_id": "ChIJb9-Llp7u2jsR5xNpO05ANAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb9-Llp7u2jsR5xNpO05ANAs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:39:45"
+  }
+]

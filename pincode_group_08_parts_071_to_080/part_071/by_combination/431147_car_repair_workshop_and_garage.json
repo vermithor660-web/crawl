@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pooja Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "431147",
+    "phone_number": "+91 99237 71658",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.5, Main Road, Karanjkheda Khalsa, Maharashtra 431147",
+    "area": "431147",
+    "latitude": 20.376022499999998,
+    "longitude": 75.28734589999999,
+    "place_id": "ChIJv9nzSeTh2zsRBWigKL5PGeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv9nzSeTh2zsRBWigKL5PGeY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:23:01"
+  },
+  {
+    "business_name": "Nade Auto Garaje",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "431147",
+    "phone_number": "+91 83082 19916",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1 sakarvel, Kannad - Sillod Rd, Sakharwel, Maharashtra 431104",
+    "area": "431147",
+    "latitude": 20.3089294,
+    "longitude": 75.2857282,
+    "place_id": "ChIJ1z26lzbn2zsR7Sys_YT_j0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1z26lzbn2zsR7Sys_YT_j0E",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:23:03"
+  }
+]

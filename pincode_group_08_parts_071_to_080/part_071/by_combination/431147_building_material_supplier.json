@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jagdamba Workshop",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Metal fabricator",
+    "all_categories": "Metal fabricator, Hardware store",
+    "pincode": "431147",
+    "phone_number": "+91 83808 32266",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Chalisgaon - Silod Rd, Newpur Khalsa, Maharashtra 431147",
+    "area": "431147",
+    "latitude": 20.384693,
+    "longitude": 75.33677159999999,
+    "place_id": "ChIJd0-Raqbg2zsR8o4dUq8G7QM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd0-Raqbg2zsR8o4dUq8G7QM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:23:16"
+  },
+  {
+    "business_name": "Arihant Building Materials",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "431147",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F56F+54F, Nagad, Maharashtra 431103",
+    "area": "431147",
+    "latitude": 20.4604484,
+    "longitude": 75.17293269999999,
+    "place_id": "ChIJZXtJOclZ2TsR5nv5dA73tq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXtJOclZ2TsR5nv5dA73tq8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:23:18"
+  }
+]

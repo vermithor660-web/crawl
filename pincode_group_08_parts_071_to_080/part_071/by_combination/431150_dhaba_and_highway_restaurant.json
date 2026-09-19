@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BHAU's Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431150",
+    "phone_number": "+91 75074 06418",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "At Bhambarwadi post kalimath, Near Chalisgaon Ghat, Chalisgaon road, Tq, Kannad, Maharashtra 431103",
+    "area": "431150",
+    "latitude": 20.333496099999998,
+    "longitude": 75.0657159,
+    "place_id": "ChIJmaV5WnP72zsRwZi_Mz-v0ds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmaV5WnP72zsRwZi_Mz-v0ds",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:26:24"
+  },
+  {
+    "business_name": "Daawat lawn’s",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Lawn care service",
+    "pincode": "431150",
+    "phone_number": "+91 95614 32030",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Chhatrapati Sambhajinagar - Nashik Hwy, Deogiri Valley, Chhatrapati Sambhajinagar, Maharashtra 431002",
+    "area": "Deogiri Valley",
+    "latitude": 19.903194199999998,
+    "longitude": 75.25754429999999,
+    "place_id": "ChIJS6MYVmqX2zsRnkT4m0liOpg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS6MYVmqX2zsRnkT4m0liOpg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:26:27"
+  }
+]

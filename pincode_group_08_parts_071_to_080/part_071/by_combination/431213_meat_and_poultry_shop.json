@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Matrutirth Enterprises",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry store",
+    "all_categories": "Poultry store, Poultry farm",
+    "pincode": "431213",
+    "phone_number": "+91 98588 87272",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jalna - Mehkar Rd, opposite Indian Oil Petrol Pump, Sindkhed Raja, Maharashtra 443203",
+    "area": "431213",
+    "latitude": 19.9561589,
+    "longitude": 76.1305704,
+    "place_id": "ChIJW6KPgCZn2jsRuYqpV-aCcOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW6KPgCZn2jsRuYqpV-aCcOs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:53:52"
+  },
+  {
+    "business_name": "Mutton Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "431213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RVC9+QWX, Mallhar Nagar, Jalna, Maharashtra 431213",
+    "area": "Mallhar Nagar",
+    "latitude": 19.8219757,
+    "longitude": 75.86985899999999,
+    "place_id": "ChIJGcofLopX2jsRotSbQgZocf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGcofLopX2jsRotSbQgZocf4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:53:54"
+  }
+]

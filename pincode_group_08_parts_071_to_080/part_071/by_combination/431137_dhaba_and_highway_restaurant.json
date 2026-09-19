@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431137",
+    "phone_number": "+91 95791 71777",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, Shajapur Main Road, near Mumbai Highway, Aurangabad, Chhatrapati Sambhajinagar, Shahajapur, Maharashtra 431136",
+    "area": "Aurangabad",
+    "latitude": 19.8736055,
+    "longitude": 75.2275021,
+    "place_id": "ChIJu7oGtQab2zsRud3KBFu434o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu7oGtQab2zsRud3KBFu434o",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:15:15"
+  },
+  {
+    "business_name": "Hotel Diamond",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant",
+    "pincode": "431137",
+    "phone_number": "+91 84839 35554",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Harsul - Pisadevi Rd, Aarati Nagar, Harsul, Chhatrapati Sambhajinagar, Maharashtra 431008",
+    "area": "Aarati Nagar, Harsul",
+    "latitude": 19.9070592,
+    "longitude": 75.3727396,
+    "place_id": "ChIJPWf5mQWj2zsRg3ysMij0mxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPWf5mQWj2zsRg3ysMij0mxk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:15:15"
+  }
+]

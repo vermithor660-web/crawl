@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TAALISH - A BOUTIQUE RESORT",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "431205",
+    "phone_number": "+91 84089 41919",
+    "website": "https://www.taalishresort.com/index.html",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Taalish Resort junnar, Ghatghar, Maharashtra 410502",
+    "area": "431205",
+    "latitude": 19.2969492,
+    "longitude": 73.68546239999999,
+    "place_id": "ChIJ77thFYxp3TsR_cLlkoejdck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ77thFYxp3TsR_cLlkoejdck",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:42:16"
+  },
+  {
+    "business_name": "RAMDEV CHOWDHAEI",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431205",
+    "phone_number": "+91 70235 65808",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, Men Road, Dongaon, Maharashtra 431121",
+    "area": "431205",
+    "latitude": 19.5273105,
+    "longitude": 75.65995579999999,
+    "place_id": "ChIJd_163NEd2zsRSMeMJ-X_j8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd_163NEd2zsRSMeMJ-X_j8o",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:42:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Purushottam Bhagwan",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "431211",
+    "phone_number": "+91 95271 55618",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 6, Main Road, near Sai Hotel In Kalecomplex, Purusottam Puri, Purushottampuri, Maharashtra 431131",
+    "area": "Purusottam Puri",
+    "latitude": 19.2806465,
+    "longitude": 76.1612305,
+    "place_id": "ChIJuXkRxyq52jsRVNIktRHcDbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuXkRxyq52jsRVNIktRHcDbA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:50:21"
+  },
+  {
+    "business_name": "Aarohi Homemade Cake",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "431211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "834V+XMW, Siraswadi Rd, Gunj Bk., Maharashtra 431211",
+    "area": "431211",
+    "latitude": 19.307480299999998,
+    "longitude": 76.0941907,
+    "place_id": "ChIJTeuJnHm52jsR5lUG5n0uhAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTeuJnHm52jsR5lUG5n0uhAY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:50:23"
+  }
+]

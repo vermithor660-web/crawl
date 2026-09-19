@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "mehta mobile agency",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "431211",
+    "phone_number": "+91 98909 66992",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "J9XP+2W4, near Bus Stop, Mantha, Jalna 431504",
+    "area": "431211",
+    "latitude": 19.647522,
+    "longitude": 76.3873191,
+    "place_id": "ChIJhVA5VhOD2jsR8mvTQbEWFwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhVA5VhOD2jsR8mvTQbEWFwM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:51:35"
+  },
+  {
+    "business_name": "TIWARI SALES AND SERVICES",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "431211",
+    "phone_number": "+91 98235 28333",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Jintur Rd, Karwa Nagar, Jalna, Maharashtra 431203",
+    "area": "Karwa Nagar",
+    "latitude": 19.8444087,
+    "longitude": 75.90651079999999,
+    "place_id": "ChIJP9INa-RZ2jsRWXQgFzqzatM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP9INa-RZ2jsRWXQgFzqzatM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:51:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manwat Multi-Speciality Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431209",
+    "phone_number": "+91 97979 79696",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Akshay Gayatri Road, Main Rd, Manwath, Maharashtra 431505",
+    "area": "431209",
+    "latitude": 19.3026823,
+    "longitude": 76.49555029999999,
+    "place_id": "ChIJx7uDjKwJ0DsR92hC5ua6UPo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx7uDjKwJ0DsR92hC5ua6UPo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:48:58"
+  },
+  {
+    "business_name": "Bagwe Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431209",
+    "phone_number": "+91 94234 58718",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M92Q+R35, Main Rd, Mantha, Maharashtra 431504",
+    "area": "431209",
+    "latitude": 19.6520239,
+    "longitude": 76.3877222,
+    "place_id": "ChIJ75S7uRKD2jsRCIR9maXeZSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ75S7uRKD2jsRCIR9maXeZSQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:48:58"
+  }
+]

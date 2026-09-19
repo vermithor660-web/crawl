@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EKTA medical and general Store Partur",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "431209",
+    "phone_number": "+91 98600 95878",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Main Rd, near SBI Bank Partur, Partur, Maharashtra 431501",
+    "area": "431209",
+    "latitude": 19.5855483,
+    "longitude": 76.2121281,
+    "place_id": "ChIJh6mijjiR2jsRtROlYXVes8o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh6mijjiR2jsRtROlYXVes8o",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:48:51"
+  },
+  {
+    "business_name": "SIDDHKRUPA MEDICAL",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "431209",
+    "phone_number": "+91 98234 29192",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No 1, Ashti - Partur Rd, Ashti, Maharashtra 431507",
+    "area": "431209",
+    "latitude": 19.380574,
+    "longitude": 76.2217198,
+    "place_id": "ChIJF1SH8OO92jsRVgs17SjaM5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF1SH8OO92jsRVgs17SjaM5o",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:48:52"
+  }
+]

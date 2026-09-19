@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL SAIBA RESTURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "431206",
+    "phone_number": "+91 89997 35034",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "At.gajanan petrol pump, Bhokardan road, Jafrabad, Maharashtra 431206",
+    "area": "431206",
+    "latitude": 20.210895999999998,
+    "longitude": 76.0009099,
+    "place_id": "ChIJczG8LWI_2jsRo0bY0lvDTHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJczG8LWI_2jsRo0bY0lvDTHw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:43:14"
+  },
+  {
+    "business_name": "HOTEL AJINKYA FAMILY RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431206",
+    "phone_number": "+91 88880 82743",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Shop No 1, Near, Jalna Road, Muradpur, Maharashtra 443201",
+    "area": "431206",
+    "latitude": 20.2628366,
+    "longitude": 76.2459205,
+    "place_id": "ChIJwwJ5DrcR2jsRRomYiK7wDDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwwJ5DrcR2jsRRomYiK7wDDM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:43:15"
+  }
+]

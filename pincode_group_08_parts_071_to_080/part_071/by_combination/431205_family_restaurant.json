@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Palace family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "431205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "Dodadgaon, Maharashtra 431205",
+    "area": "431205",
+    "latitude": 19.4841658,
+    "longitude": 75.698019,
+    "place_id": "ChIJ8yT8HAAd2zsR0oNFy6ZXmYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8yT8HAAd2zsR0oNFy6ZXmYs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:41:23"
+  },
+  {
+    "business_name": "Hotel Bhumre Palace",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431205",
+    "phone_number": "+91 88303 44141",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 9,
+    "address": "SHOP NO 1, CHAVARE PETROL PUMP, CHH. SAMBHAJI NAGAR, Pachod Bk., Jalna, Maharashtra 431121",
+    "area": "431205",
+    "latitude": 19.5806804,
+    "longitude": 75.62666209999999,
+    "place_id": "ChIJAeaiXLQD2zsR4F423xqju2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAeaiXLQD2zsR4F423xqju2o",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:41:25"
+  }
+]

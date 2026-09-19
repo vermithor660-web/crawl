@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Purnanand Provision.",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "431152",
+    "phone_number": "+91 80074 44477",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 10,
+    "address": "Jalna Rd, Infront of shivaji statue, Dadhadi, Aurangabad, Karmad, Maharashtra 431154",
+    "area": "Dadhadi",
+    "latitude": 19.867775599999998,
+    "longitude": 75.5418558,
+    "place_id": "ChIJA3-qUXCv2zsRRKV8WORzehw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA3-qUXCv2zsRRKV8WORzehw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:30:01"
+  },
+  {
+    "business_name": "Sukun Chaha And General Strore",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431152",
+    "phone_number": "+91 99230 15623",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 3 pishor Phulambari Road At Post Nidhona TQ Phulambri, Sambhaji Nagar, Aurangabad, Maharashtra 431152",
+    "area": "Sambhaji Nagar",
+    "latitude": 20.0697862,
+    "longitude": 75.3129174,
+    "place_id": "ChIJuWt8XEeV2zsRAmYRIz2P8mU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuWt8XEeV2zsRAmYRIz2P8mU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:30:01"
+  }
+]

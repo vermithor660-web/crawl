@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fortune Skyline",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "431133",
+    "phone_number": "N/A",
+    "website": "https://fortuneskyline.in/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "V72X+583, Kanchanwadi, Chhatrapati Sambhajinagar, Maharashtra 431011",
+    "area": "Kanchanwadi",
+    "latitude": 19.850386,
+    "longitude": 75.29829,
+    "place_id": "ChIJr-jldACZ2zsR0sKVUTrr76w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-jldACZ2zsR0sKVUTrr76w",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:08:45"
+  },
+  {
+    "business_name": "StayVista Villa",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Cottage, Guest house, Holiday home, Villa, Inn, Lodge, Home Stay, Resort hotel",
+    "pincode": "431133",
+    "phone_number": "+91 81049 54254",
+    "website": "http://www.stayvista.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "House No, Sirasmal Tanda, Daulatabad, Maharashtra 431002",
+    "area": "Sirasmal Tanda",
+    "latitude": 19.9389185,
+    "longitude": 75.20705939999999,
+    "place_id": "ChIJe1MRWgiR2zsRcymnGMV21Kc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe1MRWgiR2zsRcymnGMV21Kc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:08:45"
+  }
+]

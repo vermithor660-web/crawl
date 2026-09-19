@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SM Realty",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "431202",
+    "phone_number": "+91 88888 84315",
+    "website": "https://www.smrealty.co/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. K371, APMC Marketyard, New Mondha, Jalna, Maharashtra 431203",
+    "area": "New Mondha",
+    "latitude": 19.8694399,
+    "longitude": 75.8931842,
+    "place_id": "ChIJaRhcyZJR2jsRrhI6YZc5zh4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaRhcyZJR2jsRrhI6YZc5zh4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:37:09"
+  },
+  {
+    "business_name": "Aurika Vista",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "431202",
+    "phone_number": "N/A",
+    "website": "http://smrealty.co/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kundan Heritage, Plot No 42/43, Bhokardan Rd, Saklecha Nagar, Jalna, Maharashtra 431203",
+    "area": "Saklecha Nagar",
+    "latitude": 19.854783599999998,
+    "longitude": 75.8839574,
+    "place_id": "ChIJ6Z6oGQBX2jsRy9VLLR_t_nE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Z6oGQBX2jsRy9VLLR_t_nE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:37:11"
+  }
+]

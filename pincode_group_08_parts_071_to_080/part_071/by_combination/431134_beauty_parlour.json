@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "om sai jents parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431134",
+    "phone_number": "+91 70833 62459",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "shop no 1, borgaon ganpati, Aurangabad, Maharashtra 431134",
+    "area": "431134",
+    "latitude": 20.1499024,
+    "longitude": 75.5840162,
+    "place_id": "ChIJx2kdfuTJ2zsROA6MRTQM4fk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx2kdfuTJ2zsROA6MRTQM4fk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:10:06"
+  },
+  {
+    "business_name": "Mauli Gents Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431134",
+    "phone_number": "+91 95183 70702",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Aurangabad Rd, near by Bus Stop, Bankinhola, Maharashtra 431135",
+    "area": "431134",
+    "latitude": 20.2217391,
+    "longitude": 75.5854909,
+    "place_id": "ChIJJ89caIPP2zsRmxgJbybNnB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ89caIPP2zsRmxgJbybNnB4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:10:06"
+  }
+]

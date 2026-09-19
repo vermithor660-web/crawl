@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE BRAND HUB",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431136",
+    "phone_number": "+91 95526 05963",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 3, Lakshumipati balaji mandir, Mohata Devi Mandir Rd, Sitanagar CIDCO, Bajaj Nagar, Waluj, Wadgaon Kolhati, Maharashtra 431136",
+    "area": "Sitanagar CIDCO, Bajaj Nagar, Waluj",
+    "latitude": 19.8479915,
+    "longitude": 75.2435711,
+    "place_id": "ChIJSerP_seb2zsR6lQFRtyU5Yw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSerP_seb2zsR6lQFRtyU5Yw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:13:23"
+  },
+  {
+    "business_name": "Rida international",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Cotton Supplier",
+    "all_categories": "Cotton Supplier",
+    "pincode": "431136",
+    "phone_number": "+91 99209 81239",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MIDC, C 233, MNS Chowk, Waluj, Pandharpur, Maharashtra 431136",
+    "area": "Waluj",
+    "latitude": 19.8310206,
+    "longitude": 75.2466646,
+    "place_id": "ChIJoc7a-2KZ2zsRqQWTZw7xGQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoc7a-2KZ2zsRqQWTZw7xGQw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:13:25"
+  }
+]

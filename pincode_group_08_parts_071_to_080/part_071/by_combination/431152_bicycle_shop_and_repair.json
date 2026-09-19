@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prashant Cycle Mart",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "431152",
+    "phone_number": "+91 98815 59665",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1 Bazar Patti, Road, Tisgaon, Chikhalthan, Maharashtra 431103",
+    "area": "431152",
+    "latitude": 20.196726599999998,
+    "longitude": 75.2019797,
+    "place_id": "ChIJISFcr7fv2zsR6RNeAG3mAmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJISFcr7fv2zsR6RNeAG3mAmQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:30:42"
+  },
+  {
+    "business_name": "Sai Sarang Cycle Stores",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop",
+    "pincode": "431152",
+    "phone_number": "+91 82753 88394",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Plot No. 35, Sector H, Satyam Nagar, N 5, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Sector H, Satyam Nagar, N 5, Cidco",
+    "latitude": 19.8865719,
+    "longitude": 75.3649109,
+    "place_id": "ChIJ84W0DsCi2zsRWpZWHu2lpJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ84W0DsCi2zsRWpZWHu2lpJE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:30:43"
+  }
+]

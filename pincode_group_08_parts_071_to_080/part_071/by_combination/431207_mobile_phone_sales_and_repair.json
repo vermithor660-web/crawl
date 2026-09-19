@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHREE SALES CORPORATION I.T. SHOWROOM",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "431207",
+    "phone_number": "+91 94229 92799",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shambhuraje complezx, Main Rd, opp. shyam bhojnalaya, Partur, Maharashtra 431501",
+    "area": "431207",
+    "latitude": 19.5826985,
+    "longitude": 76.2114903,
+    "place_id": "ChIJoVdozfqR2jsRk-NevOv8xro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoVdozfqR2jsRk-NevOv8xro",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:46:11"
+  },
+  {
+    "business_name": "BHAGAT GAS SALES AND SERVICE",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Gas shop",
+    "all_categories": "Gas shop",
+    "pincode": "431207",
+    "phone_number": "+91 80809 19549",
+    "website": "https://www.instagram.com/bhagat_gas_sales_and_service?igsh=ZGUzMzM3NWJiOQ==",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "NEAR ALANKAR TALKIES KHADKPURA, Jalna, Maharashtra 431203",
+    "area": "Gawali Pura",
+    "latitude": 19.847445,
+    "longitude": 75.90048809999999,
+    "place_id": "ChIJRcIjlLBX2jsRCLU5GYVLf_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRcIjlLBX2jsRCLU5GYVLf_Y",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:46:12"
+  }
+]

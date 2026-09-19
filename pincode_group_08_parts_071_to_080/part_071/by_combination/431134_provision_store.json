@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Omkar Provision Talegaon",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Store",
+    "pincode": "431134",
+    "phone_number": "+91 91583 20651",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Takli Road, Talegaon, Maharashtra 431134",
+    "area": "431134",
+    "latitude": 20.0777759,
+    "longitude": 75.6581623,
+    "place_id": "ChIJJ4A4ejq12zsR6AatChGjvMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ4A4ejq12zsR6AatChGjvMY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:09:05"
+  },
+  {
+    "business_name": "Pawan Agro Sales And Service",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431134",
+    "phone_number": "+91 95116 32028",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Talegaon, Aurangabad, Maharashtra 431134",
+    "area": "431134",
+    "latitude": 20.077720199999998,
+    "longitude": 75.6585415,
+    "place_id": "ChIJzVdxza212zsRd4UM7emZQII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzVdxza212zsRd4UM7emZQII",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:09:08"
+  }
+]

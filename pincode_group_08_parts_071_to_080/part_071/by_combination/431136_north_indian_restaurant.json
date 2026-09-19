@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blackstone The Multicuisine Veg Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431136",
+    "phone_number": "+91 72183 67261",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 216,
+    "address": "Police Colony, Padegaon, Chhatrapati Sambhajinagar, Maharashtra 431002",
+    "area": "Police Colony, Padegaon",
+    "latitude": 19.891017599999998,
+    "longitude": 75.2791143,
+    "place_id": "ChIJOz0MK1mZ2zsRgbFB-gKKgiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOz0MK1mZ2zsRgbFB-gKKgiA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:13:13"
+  },
+  {
+    "business_name": "Hotel Sai Prasad",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Maharashtrian Restaurant",
+    "all_categories": "Maharashtrian Restaurant, Rajasthani Restaurant",
+    "pincode": "431136",
+    "phone_number": "+91 98239 68215",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 379,
+    "address": "Ambedkar Chowk, near Axis Bank, MIDC Waluj, Bajaj Nagar, Waluj, Wadgaon Kolhati, Maharashtra 431136",
+    "area": "MIDC Waluj, Bajaj Nagar, Waluj",
+    "latitude": 19.8401255,
+    "longitude": 75.23875989999999,
+    "place_id": "ChIJAZ8Bgtqb2zsR-7O3rAJClmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAZ8Bgtqb2zsR-7O3rAJClmk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:13:13"
+  }
+]

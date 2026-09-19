@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaishnavi Medical",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "431206",
+    "phone_number": "+91 80879 13899",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop Number 2, At Warud Bk, Jafrabad, Maharashtra 431206",
+    "area": "431206",
+    "latitude": 20.198715099999998,
+    "longitude": 76.0099106,
+    "place_id": "ChIJcbYb9w4_2jsRUwv7pVNnL7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcbYb9w4_2jsRUwv7pVNnL7s",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:43:56"
+  },
+  {
+    "business_name": "Pooja Hair Salon",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "431206",
+    "phone_number": "+91 87886 72293",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop 1 Near Shivaji Maharaj Putla Hanuman Temple Kubharzhari, Jalna, Maharashtra 431208",
+    "area": "431206",
+    "latitude": 20.1523464,
+    "longitude": 76.0889653,
+    "place_id": "ChIJlRGN46Zr2jsRWdOkRDKdT5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlRGN46Zr2jsRWdOkRDKdT5g",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:43:56"
+  }
+]

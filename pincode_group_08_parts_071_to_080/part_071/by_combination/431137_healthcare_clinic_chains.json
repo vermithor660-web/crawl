@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "431137",
+    "phone_number": "+91 88064 32756",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "V922+QJR, Main Rd, Shivaji Nagar, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Shivaji Nagar, Cidco",
+    "latitude": 19.8519838,
+    "longitude": 75.3515062,
+    "place_id": "ChIJTZwO3Xqi2zsR0m655bcHMec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTZwO3Xqi2zsR0m655bcHMec",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:15:41"
+  },
+  {
+    "business_name": "Day Care Center",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431137",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W89X+Q7F, Unnamed Road, Harsul, Chhatrapati Sambhajinagar, Maharashtra 431008",
+    "area": "Harsul",
+    "latitude": 19.919434,
+    "longitude": 75.348157,
+    "place_id": "ChIJx8dC9V692zsRsqBQKNcdzNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx8dC9V692zsRsqBQKNcdzNw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:15:41"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gayatri Pustakalaya & Xerox",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Pen store",
+    "all_categories": "Pen store",
+    "pincode": "431213",
+    "phone_number": "+91 73509 04803",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "RVQH+R7H, Akshay plaza, Kacheri Rd, Old jalana, Jalna, Maharashtra 431213",
+    "area": "Old jalana",
+    "latitude": 19.8395656,
+    "longitude": 75.8782342,
+    "place_id": "ChIJJQHJx0BX2jsRk7atHX-Afc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJQHJx0BX2jsRk7atHX-Afc0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:55:06"
+  },
+  {
+    "business_name": "Arjun stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, School supply store",
+    "pincode": "431213",
+    "phone_number": "+91 98340 01079",
+    "website": "http://aes27.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "at,post, gondegaon. tq,dist, Gondegaon, Maharashtra 431213",
+    "area": "431213",
+    "latitude": 19.9272347,
+    "longitude": 75.93701539999999,
+    "place_id": "ChIJh-_cW6xb2jsRSzcrrNu5p2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh-_cW6xb2jsRSzcrrNu5p2U",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:55:06"
+  }
+]

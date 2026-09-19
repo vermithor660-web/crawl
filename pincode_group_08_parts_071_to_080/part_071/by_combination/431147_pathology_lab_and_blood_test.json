@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lokseva Pathology Laboratory",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "431147",
+    "phone_number": "+91 82085 54418",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C/o.Ramkrishna Hospital, Plot no 56-J, near Foaster college, Vijayshri Colony, N 5, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Jayalaxmi Colony, Vijayshri Colony, N 5, Cidco",
+    "latitude": 19.885028,
+    "longitude": 75.36384009999999,
+    "place_id": "ChIJlbogL9-j2zsRftxuF-FvZVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlbogL9-j2zsRftxuF-FvZVo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:23:00"
+  },
+  {
+    "business_name": "House of pathology services",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Blood testing service",
+    "all_categories": "Blood testing service",
+    "pincode": "431147",
+    "phone_number": "+91 80871 14001",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jayhind Nagar Chowk, Murtijapur, near vyankatesh public school, Mhada Colony, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "Mhada Colony, N 2, Cidco",
+    "latitude": 19.8668785,
+    "longitude": 75.3896905,
+    "place_id": "ChIJIdMKNFSj2zsRSgWjoreBiCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIdMKNFSj2zsRSgWjoreBiCQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:23:00"
+  }
+]

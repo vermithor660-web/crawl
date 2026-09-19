@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samarth Tea Hose",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "431134",
+    "phone_number": "+91 99609 65911",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop 2 Cannotgh Tej Comlax Cidco, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "CIDCO Cannought, Cidco",
+    "latitude": 19.876495,
+    "longitude": 75.36202899999999,
+    "place_id": "ChIJeQSXRmSj2zsRtAY80OHiTe8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeQSXRmSj2zsRtAY80OHiTe8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:09:16"
+  },
+  {
+    "business_name": "Tea HUB Chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Coffee shop",
+    "pincode": "431134",
+    "phone_number": "+91 84211 45016",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.1, CSMSS College, Kanchanwadi, Chhatrapati Sambhajinagar, Maharashtra 431011",
+    "area": "Kanchanwadi",
+    "latitude": 19.8326517,
+    "longitude": 75.2889285,
+    "place_id": "ChIJdY0a9DuZ2zsRsHPHxi_gKfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdY0a9DuZ2zsRsHPHxi_gKfc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:09:17"
+  }
+]

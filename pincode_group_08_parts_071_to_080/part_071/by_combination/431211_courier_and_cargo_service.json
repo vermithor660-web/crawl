@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Professional Couriers",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "431211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 2,
+    "address": "Vemagal, Vemagal-Kurugal, Karnataka 563157",
+    "area": "Vemagal",
+    "latitude": 13.1922143,
+    "longitude": 78.0164238,
+    "place_id": "ChIJLxoBYcr-rTsRh50z-Srh2cU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLxoBYcr-rTsRh50z-Srh2cU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:51:40"
+  },
+  {
+    "business_name": "Delhivery Courier",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Shipping service",
+    "all_categories": "Shipping service, Service establishment",
+    "pincode": "431211",
+    "phone_number": "+91 99700 04664",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "Delhivery Courier, 431211, India",
+    "area": "431211",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ9ViDjFqCwTsRAAAAsEjf7Fo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ViDjFqCwTsRAAAAsEjf7Fo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:51:40"
+  }
+]

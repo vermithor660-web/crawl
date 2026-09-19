@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mumtaj Ali",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "431136",
+    "phone_number": "+91 70838 68820",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mumtaj Dahigon, 21, Chhatrapati Sambhajinagar, Maharashtra 431133",
+    "area": "Waluj",
+    "latitude": 19.8002146,
+    "longitude": 75.22379099999999,
+    "place_id": "ChIJm18rv_md2zsRoFwxxIr-Xdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm18rv_md2zsRoFwxxIr-Xdc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:13:53"
+  },
+  {
+    "business_name": "Hindavi Travels",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "431136",
+    "phone_number": "+91 99213 04737",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Fatak Gramin Bank, Ranjangaon, Waluj, Ranjangaon (Shenpunji), Maharashtra 431136",
+    "area": "Ranjangaon, Waluj",
+    "latitude": 19.8423966,
+    "longitude": 75.2196661,
+    "place_id": "ChIJeYHQMlSb2zsRjQUI87r3f-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeYHQMlSb2zsRjQUI87r3f-0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:13:53"
+  }
+]

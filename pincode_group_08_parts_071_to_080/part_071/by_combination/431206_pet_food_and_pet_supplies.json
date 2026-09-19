@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajlaxmi Traders and animal food",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "431206",
+    "phone_number": "+91 98901 75187",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jaisthamb chowk, near Babasaheb ambedkar putala, Khadakpura, Chikhli, Maharashtra 443201",
+    "area": "Khadakpura",
+    "latitude": 20.3462989,
+    "longitude": 76.2561979,
+    "place_id": "ChIJJUbHKggR2jsR9Xq1myk8D2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJUbHKggR2jsR9Xq1myk8D2A",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:43:06"
+  },
+  {
+    "business_name": "RAUT PET SHOP",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "431206",
+    "phone_number": "+91 95528 18542",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 3, Tahsil road, near Nagarparisad School, Shivaji Nagar, Chikhli, Maharashtra 443201",
+    "area": "Shivaji Nagar",
+    "latitude": 20.353654799999997,
+    "longitude": 76.25910689999999,
+    "place_id": "ChIJKfrDsnUR2jsROtDh-F9FQSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKfrDsnUR2jsROtDh-F9FQSI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:43:06"
+  }
+]

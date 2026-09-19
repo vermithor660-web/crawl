@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "431135",
+    "phone_number": "+91 94221 46577",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "AT SIRASGAON MANDAP, HASNABAD, BHOKARDAN, Maharashtra 431206",
+    "area": "HASNABAD",
+    "latitude": 20.2237132,
+    "longitude": 75.7422703,
+    "place_id": "ChIJ8e5RAesz2jsRAVSuN48aIeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8e5RAesz2jsRAVSuN48aIeo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:12:31"
+  },
+  {
+    "business_name": "Vi - Vodafone Idea mini Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider, Internet service provider, Mobile network operator, Telecommunications contractor, Telephone company",
+    "pincode": "431135",
+    "phone_number": "+91 91587 37363",
+    "website": "https://stores.myvi.in/vi-vodafone-idea-mini-store-mi-yashwant-cellular-telecommunications-service-provider-sillod-aurangabad-181119/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Sillod, Ajanta Rd, above Tayade Hospital, Harsul, Aurangabad, Maharashtra 431112",
+    "area": "Harsul",
+    "latitude": 20.30497,
+    "longitude": 75.652518,
+    "place_id": "ChIJe3uLUOvN2zsRDwmOJIsEW5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe3uLUOvN2zsRDwmOJIsEW5Y",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:12:31"
+  }
+]

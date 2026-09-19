@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sudhir",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "431213",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RVPP+7VR, Swaraj Rd, Incometax Colony, Jalna, Maharashtra 431213",
+    "area": "Incometax Colony, Jalna",
+    "latitude": 19.835747599999998,
+    "longitude": 75.88713729999999,
+    "place_id": "ChIJpX4-ESpX2jsRPma7IDTkSEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpX4-ESpX2jsRPma7IDTkSEI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:55:21"
+  },
+  {
+    "business_name": "Jasnoor Real Estate",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "431213",
+    "phone_number": "+91 70098 49380",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sanjay Gandhi Colony, Sector 32A, Ludhiana, Punjab 141008",
+    "area": "Sanjay Gandhi Colony, Sector 32A",
+    "latitude": 30.913930899999997,
+    "longitude": 75.8952643,
+    "place_id": "ChIJe6Q8PjSDGjkRGLNHUJ0VwPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe6Q8PjSDGjkRGLNHUJ0VwPQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:55:23"
+  }
+]

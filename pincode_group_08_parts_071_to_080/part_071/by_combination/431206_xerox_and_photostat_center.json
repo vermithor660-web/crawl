@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LAXMI XEROX & CAFE",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "431206",
+    "phone_number": "+91 99213 80079",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Chikhali's Main Gate, in front of Shri Shivaji Senior College, Gandhi Nagar, Chikhli, Maharashtra 443201",
+    "area": "Gandhi Nagar",
+    "latitude": 20.3490807,
+    "longitude": 76.2652876,
+    "place_id": "ChIJS7tv6AYQ2jsRD_lSFZzA3Ws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS7tv6AYQ2jsRD_lSFZzA3Ws",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:44:17"
+  },
+  {
+    "business_name": "Jay Bhadra Xerox Amol Kharat",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "431206",
+    "phone_number": "+91 86055 51149",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Palaskheda dabhadi, Maharashtra 431215",
+    "area": "431206",
+    "latitude": 20.0724265,
+    "longitude": 75.7310143,
+    "place_id": "ChIJWdFP1-tL2jsRkc3LmhhHUXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWdFP1-tL2jsRkc3LmhhHUXo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:44:17"
+  }
+]

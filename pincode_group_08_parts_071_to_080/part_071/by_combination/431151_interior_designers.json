@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Interior design and Landscape Development",
+    "search_category": "Interior Designers",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "431151",
+    "phone_number": "+91 70202 93340",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "aazad chowk, Dr Zakir Husain Nagar, Sillod, Maharashtra 431112",
+    "area": "Dr Zakir Husain Nagar",
+    "latitude": 20.3030696,
+    "longitude": 75.657674,
+    "place_id": "ChIJbZv22fjN2zsRUOglMN6jAw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZv22fjN2zsRUOglMN6jAw4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:29:04"
+  },
+  {
+    "business_name": "Choice Interior Home Design & Doors & Furniture",
+    "search_category": "Interior Designers",
+    "primary_category": "Wallpaper store",
+    "all_categories": "Wallpaper store",
+    "pincode": "431151",
+    "phone_number": "+91 88059 33166",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ship No 2,oppo S S Motors, Sillod, Maharashtra 431112",
+    "area": "Yashwant Nagar",
+    "latitude": 20.2953461,
+    "longitude": 75.6577144,
+    "place_id": "ChIJJRaVh03N2zsR0skx8tUsQLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJRaVh03N2zsR0skx8tUsQLo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:29:04"
+  }
+]

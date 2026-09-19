@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VARSHA HAIR SALON",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431212",
+    "phone_number": "+91 98345 38862",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, near Bustand, Gondi, Maharashtra 431212",
+    "area": "431212",
+    "latitude": 19.4072449,
+    "longitude": 75.78896999999999,
+    "place_id": "ChIJiaPY8-rh2jsRhqHrF4wZEqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiaPY8-rh2jsRhqHrF4wZEqg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:52:55"
+  },
+  {
+    "business_name": "Alankar Hair Parlar",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431212",
+    "phone_number": "+91 97649 40115",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 2, Au. Bad, Main Rd, near Sbi Bank, Shahgadh, Maharashtra 431212",
+    "area": "431212",
+    "latitude": 19.3616223,
+    "longitude": 75.712867,
+    "place_id": "ChIJc74SNbQh2zsRyrZWo8N5V5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc74SNbQh2zsRyrZWo8N5V5I",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:52:55"
+  }
+]

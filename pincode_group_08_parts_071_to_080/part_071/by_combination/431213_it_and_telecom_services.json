@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "431213",
+    "phone_number": "+91 94050 80496",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3-10 RAMABAI NAGAR, behind ZP QUARTER, MOTI BAG, Jalna, Maharashtra 431203",
+    "area": "MOTI BAG, Jalna Industrial Area MIDC",
+    "latitude": 19.8374012,
+    "longitude": 75.86532489999999,
+    "place_id": "ChIJ6cEidfpX2jsRgZQpTUp9KeQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6cEidfpX2jsRgZQpTUp9KeQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:55:13"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "431213",
+    "phone_number": "+91 94219 24924",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "KADAM KIRANA, KADAM KIRANA JAWAL, Ambad Rd, Jalna, Maharashtra 431203",
+    "area": "Kharat Nagar",
+    "latitude": 19.831778,
+    "longitude": 75.881821,
+    "place_id": "ChIJtRZRUqBX2jsRL6txPIrEPzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtRZRUqBX2jsRL6txPIrEPzk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:55:13"
+  }
+]

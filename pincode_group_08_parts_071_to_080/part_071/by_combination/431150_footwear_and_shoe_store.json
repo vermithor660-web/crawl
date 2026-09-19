@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devanshi Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "431150",
+    "phone_number": "+91 95033 69591",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Devanshi Footwear, Main Roa, Nagardeola, Maharashtra 424104",
+    "area": "431150",
+    "latitude": 20.565825999999998,
+    "longitude": 75.2082496,
+    "place_id": "ChIJle8aBmdb2TsRv51wDkzQdnM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJle8aBmdb2TsRv51wDkzQdnM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:26:36"
+  },
+  {
+    "business_name": "AMAR BOOT HOUSE",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Footwear wholesaler",
+    "pincode": "431150",
+    "phone_number": "+91 94214 31940",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 8,
+    "address": "Shop No.2, near Bustand, Nagad, Maharashtra 431103",
+    "area": "431150",
+    "latitude": 20.4597652,
+    "longitude": 75.1728703,
+    "place_id": "ChIJXxHBzw1Y2TsR0I3ZZR-R35I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXxHBzw1Y2TsR0I3ZZR-R35I",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:26:37"
+  }
+]

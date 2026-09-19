@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Allen Solly - Jalna",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Jeans shop, Designer Clothing Store, Clothing Accessories Store, Formal Clothing Store, Men's clothing store, T-shirt store, Tuxedo shop, Youth clothing store",
+    "pincode": "431202",
+    "phone_number": "N/A",
+    "website": "https://allensolly.abfrl.in/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "2/2/26, Mahatma Gandhi Rd, opposite Firstcry, Gawali Pura, Jalna, Maharashtra 431203",
+    "area": "Gawali Pura",
+    "latitude": 19.8466921,
+    "longitude": 75.8986626,
+    "place_id": "ChIJr4yxsaVX2jsRkO7Hn-s3Fg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr4yxsaVX2jsRkO7Hn-s3Fg8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:36:02"
+  },
+  {
+    "business_name": "Linen Club Jalna - Maharashtra",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Designer Clothing Store, Fabric store, Men's clothing store",
+    "pincode": "431202",
+    "phone_number": "N/A",
+    "website": "http://www.linenclub.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No G 1, Mama Chowk, Cristal business center, Linen Club, Subhash Rd, Jalna, Maharashtra 431203",
+    "area": "Dhangarpura",
+    "latitude": 19.8479869,
+    "longitude": 75.8985677,
+    "place_id": "ChIJa2OZPUNX2jsRtgof3bj89YE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa2OZPUNX2jsRtgof3bj89YE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:36:05"
+  }
+]

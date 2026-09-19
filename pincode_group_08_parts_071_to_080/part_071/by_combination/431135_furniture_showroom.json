@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srinath furnishing",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "431135",
+    "phone_number": "+91 77760 05200",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shastri Nagar, Laxmi Nagar, Sillod, Maharashtra 431112",
+    "area": "Shastri Nagar, Laxmi Nagar",
+    "latitude": 20.3020328,
+    "longitude": 75.6509878,
+    "place_id": "ChIJUdNTpt_N2zsRC8DKyaSSspw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUdNTpt_N2zsRC8DKyaSSspw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:12:04"
+  },
+  {
+    "business_name": "Durga furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture maker",
+    "all_categories": "Furniture maker, Bed shop, Cabinet maker, Carpenter, Furniture accessories supplier, Furniture Manufacturer, Furniture repair shop, Interior designer, Office furniture store, Sofa store",
+    "pincode": "431135",
+    "phone_number": "+91 79720 63183",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Toranagad Nagar, Sangharsh Nagar, N 2, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "Toranagad Nagar, Sangharsh Nagar, N 2, Cidco",
+    "latitude": 19.8670045,
+    "longitude": 75.3841989,
+    "place_id": "ChIJK-amEDWj2zsRMs0kJtNrzvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK-amEDWj2zsRMs0kJtNrzvM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:12:05"
+  }
+]

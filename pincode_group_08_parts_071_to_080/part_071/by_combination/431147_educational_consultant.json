@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MentorSarthi",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Service establishment",
+    "pincode": "431147",
+    "phone_number": "+91 72492 51499",
+    "website": "https://www.mentorsarthi.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MentorSarthi, 431147, India",
+    "area": "431147",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJvQyZNlPs2mwR-sg1gNWkd40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvQyZNlPs2mwR-sg1gNWkd40",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:23:44"
+  },
+  {
+    "business_name": "Sai Digital",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "431147",
+    "phone_number": "+91 97304 19021",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Bajarpeth, Ghatshendra, Maharashtra 431147",
+    "area": "431147",
+    "latitude": 20.413623899999997,
+    "longitude": 75.3483992,
+    "place_id": "ChIJP_5ge3jf2zsRjbQEiakg0ko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP_5ge3jf2zsRjbQEiakg0ko",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:23:44"
+  }
+]

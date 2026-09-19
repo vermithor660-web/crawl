@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jagadmba Provision",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "431137",
+    "phone_number": "+91 93726 89053",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Men Rod Vihamandawa, FH4H 983, Men Rod, Vihamandwa, Maharashtra 431137",
+    "area": "431137",
+    "latitude": 19.455767299999998,
+    "longitude": 75.5784192,
+    "place_id": "ChIJZcrdyn4Z2zsRda-7Ny6ETGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZcrdyn4Z2zsRda-7Ny6ETGQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:15:03"
+  },
+  {
+    "business_name": "ONKAR RAJENDRA DHOLE",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "431137",
+    "phone_number": "+91 94212 00178",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 2, Men Rod, Apegaon, Maharashtra 431137",
+    "area": "431137",
+    "latitude": 19.3765641,
+    "longitude": 75.6220051,
+    "place_id": "ChIJfz_GdCgf2zsRW7aBV5PwCtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfz_GdCgf2zsRW7aBV5PwCtk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:15:03"
+  }
+]

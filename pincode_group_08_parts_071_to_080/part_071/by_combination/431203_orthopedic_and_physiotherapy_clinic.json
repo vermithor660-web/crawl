@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ojas Sports & Advanced Rehabilitation Center",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center, Chiropractor, Osteopath, Physiotherapist",
+    "pincode": "431203",
+    "phone_number": "+91 94040 36688",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "R P Road, opposite Kulkarni Hospital, Modikhana, Badi Sadak, Jalna, Maharashtra 431203",
+    "area": "Modikhana, Badi Sadak",
+    "latitude": 19.8525442,
+    "longitude": 75.90098979999999,
+    "place_id": "ChIJOUVFZDpR2jsRDG8lxp29uyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOUVFZDpR2jsRDG8lxp29uyE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:37:59"
+  },
+  {
+    "business_name": "Dr. Meetali's M flex physio clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "431203",
+    "phone_number": "+91 92708 90690",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 15,
+    "address": "near azad maidan, Ramnagar colony, Vyankatesh Nagar, Jalna, Maharashtra 431203",
+    "area": "Ramnagar colony, Vyankatesh Nagar",
+    "latitude": 19.8413853,
+    "longitude": 75.91081439999999,
+    "place_id": "ChIJZ6Qc-YFZ2jsRGM81cMbWyII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ6Qc-YFZ2jsRGM81cMbWyII",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:37:59"
+  }
+]

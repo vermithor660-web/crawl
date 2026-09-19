@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shitole Architects",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "431133",
+    "phone_number": "+91 84464 64608",
+    "website": "https://shitolearchitects.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Office 03, Udyog Indrakamal, Beed Bypass Rd, Near MIT College, PWD Colony, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Near MIT College, PWD Colony",
+    "latitude": 19.852874699999997,
+    "longitude": 75.3219582,
+    "place_id": "ChIJ39q40pmZ2zsRsDT1Cz_xwHI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ39q40pmZ2zsRsDT1Cz_xwHI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:08:02"
+  },
+  {
+    "business_name": "SHambhava ARCHITECTURAL STUDIO",
+    "search_category": "Architects",
+    "primary_category": "Architectural designer",
+    "all_categories": "Architectural designer",
+    "pincode": "431133",
+    "phone_number": "+91 93251 93425",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 02, Renuka Mata Mandir Kaman, Balaji Tower, Beed Bypass Rd, behind GNI House, Satara Deolai Parisar, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Satara Deolai Parisar",
+    "latitude": 19.8490911,
+    "longitude": 75.3399103,
+    "place_id": "ChIJXRv0SwiZ2zsR3kUnSTeBfuI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXRv0SwiZ2zsR3kUnSTeBfuI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:08:05"
+  }
+]

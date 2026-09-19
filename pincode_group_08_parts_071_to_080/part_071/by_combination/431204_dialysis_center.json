@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Seva Hospital And I.C.U",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 12,
+    "address": "Oppo. New, Jalna - Beed Rd, Matsyodari Colony, Mondha, Ambad, Maharashtra 431204",
+    "area": "Matsyodari Colony, Mondha",
+    "latitude": 19.6103778,
+    "longitude": 75.7932381,
+    "place_id": "ChIJyaTAY4_82jsR0FZfCOrLMSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyaTAY4_82jsR0FZfCOrLMSI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:39:52"
+  },
+  {
+    "business_name": "Lala Bhai kidney stone medicine",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F3X3+C6F, Machindranath Chincholi, Maharashtra 431209",
+    "area": "431204",
+    "latitude": 19.498573399999998,
+    "longitude": 76.0530623,
+    "place_id": "ChIJ1-k7GSDr2jsRYgYmg71LFNA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1-k7GSDr2jsRYgYmg71LFNA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:39:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tata Play Service Center",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "431133",
+    "phone_number": "+91 82082 21873",
+    "website": "https://www.tatasky.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "P.NO2, Growth Center, P.NO. 285/2, CIDCO Waluj Mahanagar 1, midc, Waluj, Tisgaon, Maharashtra 431136",
+    "area": "CIDCO Waluj Mahanagar 1, midc, Waluj",
+    "latitude": 19.847976799999998,
+    "longitude": 75.2543274,
+    "place_id": "ChIJ5Qy1HTiZ2zsR2wG_VwrWwOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Qy1HTiZ2zsR2wG_VwrWwOo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:09:03"
+  },
+  {
+    "business_name": "Sanjbhumi,Sara Gaurav,A-46,",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Condominium complex",
+    "all_categories": "Condominium complex",
+    "pincode": "431133",
+    "phone_number": "+91 72046 55010",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Sara Gourav, Mohata Devi Mandir Rd, Mahada Colony, Waluj, Chhatrapati Sambhajinagar, Wadgaon Kolhati, Maharashtra 431136",
+    "area": "Mahada Colony, Waluj",
+    "latitude": 19.8513169,
+    "longitude": 75.24493939999999,
+    "place_id": "ChIJkwMNJtWb2zsRQCiZIMmI7o0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkwMNJtWb2zsRQCiZIMmI7o0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:09:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "jalna sports",
+    "search_category": "Fitness Chains",
+    "primary_category": "Sporting goods store",
+    "all_categories": "Sporting goods store",
+    "pincode": "431202",
+    "phone_number": "+91 98815 56377",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "shop no-05 Jawahar baag complex,deoulganv raja road,Jalna,Maharashtra,431213,India shop no-05 Jawahar baag complex,deoulganv, raja road, Jalna, Maharashtra 431203",
+    "area": "Gyatri Nagar",
+    "latitude": 19.853853,
+    "longitude": 75.89941879999999,
+    "place_id": "ChIJb2r0B1ZX2jsRlkrD53npkAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb2r0B1ZX2jsRlkrD53npkAE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:36:15"
+  },
+  {
+    "business_name": "GYM BHUSHAN",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "431202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sambhaji Nagar, Jalna, Maharashtra 431203",
+    "area": "Sambhaji Nagar",
+    "latitude": 19.8490395,
+    "longitude": 75.8921968,
+    "place_id": "ChIJc1Ft7FBX2jsRPlLQCc3G6yw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc1Ft7FBX2jsRPlLQCc3G6yw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:36:15"
+  }
+]

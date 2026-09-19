@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saniya Chiken Shope",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "431135",
+    "phone_number": "+91 93563 11399",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1 Opp Karkhana, Sillod Rd, Bhavannagar, Maharashtra 431135",
+    "area": "Karkhana",
+    "latitude": 20.2638394,
+    "longitude": 75.6394936,
+    "place_id": "ChIJoUUv3-zN2zsRqXnBw0IDLbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoUUv3-zN2zsRqXnBw0IDLbM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:11:11"
+  },
+  {
+    "business_name": "Sufiyan Kirana Store",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "431135",
+    "phone_number": "+91 6355 132 274",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Sahara City Gaffur School, Sillod - Aurangabad Rd, Sillod, Maharashtra 431112",
+    "area": "431135",
+    "latitude": 20.3044033,
+    "longitude": 75.6619999,
+    "place_id": "ChIJcwhOcyfN2zsReKO3RnJ4rAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcwhOcyfN2zsReKO3RnJ4rAY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:11:11"
+  }
+]

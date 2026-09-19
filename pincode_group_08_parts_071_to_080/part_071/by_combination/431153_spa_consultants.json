@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paradise Spa Home Service",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Service establishment",
+    "pincode": "431153",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Paradise Spa Home Service, 431153, India",
+    "area": "431153",
+    "latitude": 19.0815074,
+    "longitude": 72.8783527,
+    "place_id": "ChIJ7-aXRPKNFUYRiI2GxohWQfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7-aXRPKNFUYRiI2GxohWQfE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:32:55"
+  },
+  {
+    "business_name": "Eira international Spa",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "431153",
+    "phone_number": "+91 90598 18106",
+    "website": "https://activeinternationalspa.in/",
+    "rating": 5,
+    "reviews_count": 60,
+    "address": "B1, 1st Floor, Kalpavruksha Estates, D.no. 3-6-475/3, Himayatnagar, Hyderabad, Telangana 500029",
+    "area": "Himayatnagar",
+    "latitude": 17.4024721,
+    "longitude": 78.4835044,
+    "place_id": "ChIJz_EUTMiZyzsRmC_ybzE5gXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz_EUTMiZyzsRmC_ybzE5gXk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:32:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Johare poultry Farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "431206",
+    "phone_number": "+91 88060 57279",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "At konad po warud, Tq, Jafrabad, Maharashtra 443201",
+    "area": "431206",
+    "latitude": 20.2405807,
+    "longitude": 76.1525745,
+    "place_id": "ChIJ5eEoUCoV2jsRk5ZX9EbbsoI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5eEoUCoV2jsRk5ZX9EbbsoI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:43:04"
+  },
+  {
+    "business_name": "FINE CHIKEN CENTRE",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "431206",
+    "phone_number": "+91 96654 51743",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.1, Near, Linking Rd, Gandhi Nagar, Chikhli, Maharashtra 443201",
+    "area": "Gandhi Nagar",
+    "latitude": 20.347707099999997,
+    "longitude": 76.2564821,
+    "place_id": "ChIJO2LxKPER2jsRAjz-04-n6ds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO2LxKPER2jsRAjz-04-n6ds",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:43:05"
+  }
+]

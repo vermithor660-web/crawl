@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Capital O Hotel Siya",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431134",
+    "phone_number": "+91 124 620 1126",
+    "website": "https://www.oyorooms.com/109547",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "20, Chhatrapati Sambhajinagar, Maharashtra 431154",
+    "area": "431134",
+    "latitude": 19.879893799999998,
+    "longitude": 75.5118909,
+    "place_id": "ChIJSUhfPfOl2zsR1XqCB5WBmOA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSUhfPfOl2zsR1XqCB5WBmOA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:10:17"
+  },
+  {
+    "business_name": "Hotel Rahul",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431134",
+    "phone_number": "+91 94214 29918",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Aurangabad Rd, Bhawan, Maharashtra 431135",
+    "area": "431134",
+    "latitude": 20.267794,
+    "longitude": 75.64018,
+    "place_id": "ChIJX5R5lMjN2zsRrYQn3tdBooA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX5R5lMjN2zsRrYQn3tdBooA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:10:20"
+  }
+]

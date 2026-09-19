@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agrawal Military Stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431205",
+    "phone_number": "+91 82752 70715",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 11,
+    "address": "RWX3+7WW, Dr Rajendra Prasad Rd, Gajanan Colony, modikhana, Jalna, Maharashtra 431203",
+    "area": "Gajanan Colony, modikhana",
+    "latitude": 19.8482417,
+    "longitude": 75.9048354,
+    "place_id": "ChIJqwYQTeNZ2jsRIlMhshytuq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwYQTeNZ2jsRIlMhshytuq4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:41:10"
+  },
+  {
+    "business_name": "KARN KIRANA AND GENERAL STORES",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431205",
+    "phone_number": "+91 80875 75728",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, Main Road, Hatgaon, Ghungarde Hadgaon, Maharashtra 431209",
+    "area": "Hatgaon",
+    "latitude": 19.4316981,
+    "longitude": 75.8206402,
+    "place_id": "ChIJsx1RwUzn2jsRerd5-ZzWZr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsx1RwUzn2jsRerd5-ZzWZr4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:41:11"
+  }
+]

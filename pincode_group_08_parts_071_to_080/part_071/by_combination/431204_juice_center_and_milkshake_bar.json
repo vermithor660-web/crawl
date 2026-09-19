@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juicy corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "431204",
+    "phone_number": "+91 99283 94858",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 596,
+    "address": "7 TA 20, JJJ Rd, Sector 7, Jawahar Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302004",
+    "area": "Sector 7, Jawahar Nagar",
+    "latitude": 26.892062499999998,
+    "longitude": 75.8335445,
+    "place_id": "ChIJw42kEGa3bTkROSTRuerxZpM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw42kEGa3bTkROSTRuerxZpM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:39:31"
+  },
+  {
+    "business_name": "Shri K K Agrawal & Company",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Aerated Drinks Supplier, Beverage Store, Soft drinks shop, Wholesaler",
+    "pincode": "431204",
+    "phone_number": "+91 76109 13168",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "Shop No. 20-21, NK Tower, Sikar Rd, near jodla power house, Kishan Vatika, Harmada, Jaipur, Jaipur Greater (M Corp.) (Part), Rajasthan 302013",
+    "area": "Kishan Vatika, Harmada",
+    "latitude": 27.0040183,
+    "longitude": 75.7707123,
+    "place_id": "ChIJn_nVTXmzbTkRESauw5MTiRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn_nVTXmzbTkRESauw5MTiRU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:39:33"
+  }
+]

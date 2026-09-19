@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cold Rock Beer Shope",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Liquor Shop",
+    "all_categories": "Liquor Shop, Beer store, Wine bar",
+    "pincode": "431133",
+    "phone_number": "+91 93736 09801",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 103,
+    "address": "Gurudwara Road Opp. Konark Estate, New Usmanpura, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "New Usmanpura",
+    "latitude": 19.8694469,
+    "longitude": 75.32666309999999,
+    "place_id": "ChIJE6aEdWWY2zsR3Viy1Sl4eBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE6aEdWWY2zsR3Viy1Sl4eBs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:08:52"
+  },
+  {
+    "business_name": "Swad Cold Press (Lakdi Ghana)",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "431133",
+    "phone_number": "+91 86986 67656",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Shreenand Plaza, Plot no :- 148, CIDCO Waluj Mahanagar 1, Chtt, Waluj, Tisgaon, Maharashtra 431136",
+    "area": "CIDCO Waluj Mahanagar 1, Chtt, Waluj",
+    "latitude": 19.846019599999998,
+    "longitude": 75.2549597,
+    "place_id": "ChIJM_r5UrCZ2zsRb_PP9I_gZXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM_r5UrCZ2zsRb_PP9I_gZXw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:08:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hindavi Holidays",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "431211",
+    "phone_number": "+91 73871 54869",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 8,
+    "address": "Shop no 13, Balwant Niwas, Complex, Jalna Rd, Mondha Naka, Kailash Nagar, Mondha, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Mondha Naka, Kailash Nagar, Mondha",
+    "latitude": 19.8763055,
+    "longitude": 75.34062569999999,
+    "place_id": "ChIJARgvs3qZ2zsRyiSee1gBLbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJARgvs3qZ2zsRyiSee1gBLbM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:50:54"
+  },
+  {
+    "business_name": "Shri Samarth tours & Travels Jaambsamarth jalna 431211",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "431211",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kam samarth, Ambad Pathri, road, Jamb Samarth, Maharashtra 431507",
+    "area": "431211",
+    "latitude": 19.3984986,
+    "longitude": 76.1188375,
+    "place_id": "ChIJM29lJrC_2jsRpo224iFh2LU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM29lJrC_2jsRpo224iFh2LU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:50:56"
+  }
+]

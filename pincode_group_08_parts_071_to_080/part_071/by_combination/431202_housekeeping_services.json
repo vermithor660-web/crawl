@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gaurav Pest Control Service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service",
+    "pincode": "431202",
+    "phone_number": "+91 98229 76500",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Jijau nagar, road, near guruchran hospital, Samangaon, Jalna, Maharashtra 431213",
+    "area": "431202",
+    "latitude": 19.821415,
+    "longitude": 75.8869426,
+    "place_id": "ChIJUUd7yhtX2jsRhOuHiO8IY3w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUUd7yhtX2jsRhOuHiO8IY3w",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:37:07"
+  },
+  {
+    "business_name": "psk pest control jalna",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service",
+    "pincode": "431202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Krishna nagar mundhe chowk, Shree Krishna Nagar, Jalna, Maharashtra 431203",
+    "area": "Shree Krishna Nagar",
+    "latitude": 19.8589073,
+    "longitude": 75.888763,
+    "place_id": "ChIJJXfX2VdR2jsRlqPxj_7VX9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJXfX2VdR2jsRlqPxj_7VX9I",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:37:07"
+  }
+]

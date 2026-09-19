@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A S Agro Foods Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "431213",
+    "phone_number": "+91 98144 45343",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": 6,
+    "address": "Punjab 147007",
+    "area": "431213",
+    "latitude": 30.2356256,
+    "longitude": 76.358935,
+    "place_id": "ChIJeSAnZHcsEDkRlAEo6Slv4jc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeSAnZHcsEDkRlAEo6Slv4jc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:55:28"
+  },
+  {
+    "business_name": "Annapurna Agro International Pvt Ltd",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Agricultural machinery manufacturer",
+    "all_categories": "Agricultural machinery manufacturer, Farm equipment supplier",
+    "pincode": "431213",
+    "phone_number": "N/A",
+    "website": "http://www.annapurnaagro.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Kalidaspur, Balia, Chhanpur, Januganj, Odisha 756056",
+    "area": "Kalidaspur, Balia",
+    "latitude": 21.505176199999998,
+    "longitude": 86.8920667,
+    "place_id": "ChIJ4YkcCXBfHDoRFJvJjqVnhCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4YkcCXBfHDoRFJvJjqVnhCA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:55:29"
+  }
+]

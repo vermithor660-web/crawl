@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nilesh Clinical Lab",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "431206",
+    "phone_number": "+91 98908 90708",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nilesh Clinical Lab, MH SH 178, Tembhurni, Maharashtra 431208",
+    "area": "431206",
+    "latitude": 20.1251534,
+    "longitude": 75.9942475,
+    "place_id": "ChIJA2b6FbVA2jsRoDo_76g1-_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA2b6FbVA2jsRoDo_76g1-_s",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:43:31"
+  },
+  {
+    "business_name": "Rama Clinical lab",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, HIV testing center",
+    "pincode": "431206",
+    "phone_number": "+91 79723 20129",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sai nagar, near sadhabhav bank, Siddhartha Nagar, Chikhali, Chikhli, Maharashtra 443201",
+    "area": "Siddhartha Nagar, Chikhali",
+    "latitude": 20.3447796,
+    "longitude": 76.2617209,
+    "place_id": "ChIJxU66Rr8R2jsROm01cyN4Xx4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxU66Rr8R2jsROm01cyN4Xx4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:43:31"
+  }
+]

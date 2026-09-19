@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepa's Beauty Parlor",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "431142",
+    "phone_number": "+91 92846 12486",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Swami Vivekananda Nagar, Bank Colany, Majalgaon, Maharashtra 431131",
+    "area": "Swami Vivekananda Nagar, Bank Colany",
+    "latitude": 19.1650475,
+    "longitude": 76.2048021,
+    "place_id": "ChIJBe8AVBSx2jsRiKKeJT3XCaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBe8AVBSx2jsRiKKeJT3XCaQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:17:51"
+  },
+  {
+    "business_name": "Swamini parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "431142",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "557X+W25, Chinchgavan, Chinchgavhan, Maharashtra 431131",
+    "area": "Chinchgavan",
+    "latitude": 19.1648067,
+    "longitude": 76.1976646,
+    "place_id": "ChIJxZISFwCx2jsRsV7aZ9xuKU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZISFwCx2jsRsV7aZ9xuKU8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:17:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rani Flower Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "431209",
+    "phone_number": "+91 99748 32682",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Rani Flower Decoration, 431209, India",
+    "area": "431209",
+    "latitude": 25.310378999999998,
+    "longitude": 82.4778958,
+    "place_id": "ChIJtUti-vDnaasROg265McuuSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtUti-vDnaasROg265McuuSg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:49:30"
+  },
+  {
+    "business_name": "Michael flower Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "431209",
+    "phone_number": "+91 90440 99211",
+    "website": "http://www.michaelflowerdecoration.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rehiya, Kandwa, Chunar, Uttar Pradesh 231304",
+    "area": "431209",
+    "latitude": 25.105246299999997,
+    "longitude": 82.95766979999999,
+    "place_id": "ChIJMQDAfIFLjjkR4wjN-EGlk_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMQDAfIFLjjkR4wjN-EGlk_o",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:49:30"
+  }
+]

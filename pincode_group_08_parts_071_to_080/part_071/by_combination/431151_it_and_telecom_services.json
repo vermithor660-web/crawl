@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "telecom .pvt .Ltd",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Civil engineer",
+    "all_categories": "Civil engineer, Store",
+    "pincode": "431151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 7 Padli Wawna, Maharashtra 431151",
+    "area": "431151",
+    "latitude": 20.2253384,
+    "longitude": 75.3745757,
+    "place_id": "ChIJzaYAnkSB2TsR_ebD_syBuSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzaYAnkSB2TsR_ebD_syBuSQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:29:35"
+  },
+  {
+    "business_name": "JIO TOWER WAKOD PHULAMBRI AURANGABAD",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile network operator",
+    "all_categories": "Mobile network operator",
+    "pincode": "431151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "5F4P+M3P, Wakad, Maharashtra 431151",
+    "area": "431151",
+    "latitude": 20.1567236,
+    "longitude": 75.4851877,
+    "place_id": "ChIJ_SBw7ODH2zsRens9o816qZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_SBw7ODH2zsRens9o816qZE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:29:35"
+  }
+]

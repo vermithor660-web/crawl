@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay Traders",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "431204",
+    "phone_number": "+91 75077 54877",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mahaveer Chouk, Jalna - Beed Rd, near Mahavir Chouk, Matsyodari Colony, Jalna, Ambad, Maharashtra 431204",
+    "area": "Matsyodari Colony",
+    "latitude": 19.6113328,
+    "longitude": 75.7951361,
+    "place_id": "ChIJ9dlFWVf92jsRs2hj6-3zKCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9dlFWVf92jsRs2hj6-3zKCo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:40:13"
+  },
+  {
+    "business_name": "जिजाऊ मंडप",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "431204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HV4X+V7V, Ambad - Manwath Rd, Bondhalapuri, Maharashtra 431204",
+    "area": "431204",
+    "latitude": 19.5572274,
+    "longitude": 75.8981629,
+    "place_id": "ChIJMVICTQDl2jsR0wirMvdDQgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMVICTQDl2jsR0wirMvdDQgA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:40:13"
+  }
+]

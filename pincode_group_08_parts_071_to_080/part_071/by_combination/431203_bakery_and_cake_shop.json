@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cakes by Divya",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Bakery and Cake Shop",
+    "pincode": "431203",
+    "phone_number": "+91 80072 86657",
+    "website": "https://cakesbydivyajalna.my.canva.site/",
+    "rating": 4.9,
+    "reviews_count": 161,
+    "address": "Nehru Rd, Sarafa Bazar, Gawali Pura, Jalna, Maharashtra 431203",
+    "area": "Sarafa Bazar, Gawali Pura",
+    "latitude": 19.846026,
+    "longitude": 75.9019812,
+    "place_id": "ChIJ7Zt-ArhZ2jsRxAESqz5Mq1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Zt-ArhZ2jsRxAESqz5Mq1s",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:37:36"
+  },
+  {
+    "business_name": "CAKE ADDICT",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "431203",
+    "phone_number": "+91 89283 73777",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "shop no 27,prem ganga plaza chhatrapati shivaji maharaj statue, Jalna, Maharashtra 431203",
+    "area": "Karwa Nagar",
+    "latitude": 19.8443838,
+    "longitude": 75.90629419999999,
+    "place_id": "ChIJJxpCoHdZ2jsRM-3qzYuwo9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJxpCoHdZ2jsRM-3qzYuwo9w",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:37:37"
+  }
+]

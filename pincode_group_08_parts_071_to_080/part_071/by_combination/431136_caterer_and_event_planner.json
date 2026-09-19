@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AB events and decoration",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "431136",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bajaj nagar, MIDC, above Bajaj nagar, Waluj, Waladgaon, Maharashtra 431136",
+    "area": "Waluj",
+    "latitude": 19.8198646,
+    "longitude": 75.241755,
+    "place_id": "ChIJ5U29ANeb2zsRqUROz3pJR6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5U29ANeb2zsRqUROz3pJR6I",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:14:13"
+  },
+  {
+    "business_name": "Ramji caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "431136",
+    "phone_number": "+91 98504 61796",
+    "website": "http://www.ramjicaterers.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "5, Gut No 11, Waluj, Wadgaon Kolhati, Maharashtra 431136",
+    "area": "Waluj",
+    "latitude": 19.854162199999998,
+    "longitude": 75.2405332,
+    "place_id": "ChIJY-nmnxSZ2zsRRrIXvNZIHNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY-nmnxSZ2zsRRrIXvNZIHNQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:14:15"
+  }
+]

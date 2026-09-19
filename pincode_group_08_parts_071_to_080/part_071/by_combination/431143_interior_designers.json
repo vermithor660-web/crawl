@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manoj decorators",
+    "search_category": "Interior Designers",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "431143",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4PXJ+749, Kumbharwadi, Maharashtra 431143",
+    "area": "431143",
+    "latitude": 19.1481532,
+    "longitude": 75.7303644,
+    "place_id": "ChIJu_F6QQDX2jsRkCCR0XzKGUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu_F6QQDX2jsRkCCR0XzKGUY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:19:38"
+  },
+  {
+    "business_name": "Arush Multiservises",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "431143",
+    "phone_number": "+91 99218 89387",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Shastri Chowk, Tahsil Rd, Shastri Chauk, Gevrai, Maharashtra 431127",
+    "area": "Shastri Chauk",
+    "latitude": 19.2636567,
+    "longitude": 75.7474915,
+    "place_id": "ChIJpeGGkk3Z2jsRnVXUhdRdRGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpeGGkk3Z2jsRnVXUhdRdRGg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:19:39"
+  }
+]

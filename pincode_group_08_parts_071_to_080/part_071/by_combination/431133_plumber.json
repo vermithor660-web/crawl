@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fabrication, Plumbing electrical",
+    "search_category": "Plumber",
+    "primary_category": "Contractor",
+    "all_categories": "Contractor",
+    "pincode": "431133",
+    "phone_number": "N/A",
+    "website": "https://pravinpatil.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Thakare Chowk, Waluj, Waladgaon, Wadgaon Kolhati, Maharashtra 431136",
+    "area": "Waluj",
+    "latitude": 19.8399102,
+    "longitude": 75.2362381,
+    "place_id": "ChIJCdnHtU2b2zsRaF0a3YfbOg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCdnHtU2b2zsRaF0a3YfbOg4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:07:58"
+  },
+  {
+    "business_name": "Siraj pathan",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "431133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Unnamed Road, Farola, Maharashtra 431105",
+    "area": "431133",
+    "latitude": 19.7313878,
+    "longitude": 75.297883,
+    "place_id": "ChIJLRzzT_2f2zsRlrgr2k3t040",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLRzzT_2f2zsRlrgr2k3t040",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:07:59"
+  }
+]

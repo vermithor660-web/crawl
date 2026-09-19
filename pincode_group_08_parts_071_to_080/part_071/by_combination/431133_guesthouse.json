@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai trupti guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "431133",
+    "phone_number": "+91 88570 85624",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "x 323 maharana pratap chowk, MIDC Waluj, Chh, Wadgaon Kolhati, Maharashtra 431136",
+    "area": "MIDC Waluj, Bajaj Nagar, Chh, Waluj",
+    "latitude": 19.8397129,
+    "longitude": 75.241095,
+    "place_id": "ChIJX3h6HNKb2zsRaB_22-xTQzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX3h6HNKb2zsRaB_22-xTQzc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:08:17"
+  },
+  {
+    "business_name": "ANNAPURNA SERVICES",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431133",
+    "phone_number": "+91 72491 02009",
+    "website": "https://annapurnaservices.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "LASUR ROAD, nr. GRAMPANCHAYAT, Waluj, Chhatrapati Sambhajinagar, Waluj Bk., Maharashtra 431136",
+    "area": "Waluj",
+    "latitude": 19.7976112,
+    "longitude": 75.2234955,
+    "place_id": "ChIJT2TrXNSd2zsReWWAuK4v1kQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT2TrXNSd2zsReWWAuK4v1kQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:08:20"
+  }
+]

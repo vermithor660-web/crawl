@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganga agro and Plumbing",
+    "search_category": "Plumber",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service",
+    "pincode": "431209",
+    "phone_number": "+91 70207 06560",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tirupati complex, ku.pimpalgaon, Kum Pimpalgaon, Maharashtra 431211",
+    "area": "431209",
+    "latitude": 19.392056999999998,
+    "longitude": 76.059497,
+    "place_id": "ChIJi3mRLcLB2jsRRHKQIrLAC0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi3mRLcLB2jsRRHKQIrLAC0I",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:49:16"
+  },
+  {
+    "business_name": "Pawan Treders",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "431209",
+    "phone_number": "+91 91468 89441",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Jalna, Ghansawangi, Jalna, Maharashtra 431209",
+    "area": "Jalna",
+    "latitude": 19.523100499999998,
+    "longitude": 75.9864405,
+    "place_id": "ChIJ-ex7tknv2jsRfQmIdsbWYyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ex7tknv2jsRfQmIdsbWYyw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:49:16"
+  }
+]

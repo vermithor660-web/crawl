@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SI brothers Tours and Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "431133",
+    "phone_number": "+91 84214 31315",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no.1, Motadevi Chowk, Bajajnagar, CIDCO Waluj Mahanagar 1, Waluj, Tisgaon, Maharashtra 431136",
+    "area": "CIDCO Waluj Mahanagar 1, Waluj",
+    "latitude": 19.8476252,
+    "longitude": 75.27008169999999,
+    "place_id": "ChIJHxvCPJeZ2zsRnExlYGVBIek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHxvCPJeZ2zsRnExlYGVBIek",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:07:49"
+  },
+  {
+    "business_name": "Shrinika Tours and Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "431133",
+    "phone_number": "N/A",
+    "website": "https://shrinika-tours-and-travels.ueniweb.com/?utm_campaign=gmb",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Maharana Pratap Chowk, Bajaj Nagar, Waluj, Wadgaon Kolhati, Maharashtra 431136",
+    "area": "Maharana Pratap Chowk, Bajaj Nagar, Waluj",
+    "latitude": 19.8408896,
+    "longitude": 75.2415248,
+    "place_id": "ChIJPU_5x12b2zsRmgSnStuJQQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPU_5x12b2zsRmgSnStuJQQw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:07:49"
+  }
+]

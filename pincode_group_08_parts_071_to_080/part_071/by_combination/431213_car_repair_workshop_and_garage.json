@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAULI AUTO GARAGE AND SPARES PART",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "431213",
+    "phone_number": "+91 98813 16189",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Near Pawan General Store Bavani Pangri, Road, opp. Jalna, Jalna, Maharashtra 431213",
+    "area": "431213",
+    "latitude": 19.9784834,
+    "longitude": 75.8749783,
+    "place_id": "ChIJKb21J4pP2jsRf8SrD30snQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKb21J4pP2jsRf8SrD30snQk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:54:24"
+  },
+  {
+    "business_name": "NEW SUPER MOTOR GARAGE",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "431213",
+    "phone_number": "+91 91469 93868",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VISHAL CORNER, Shop No. 3 Opp Merit Hotel, Parking Area, Jalna, Maharashtra 431213",
+    "area": "Bhawani Nagar",
+    "latitude": 19.848484199999998,
+    "longitude": 75.8705913,
+    "place_id": "ChIJv0FOQxFX2jsRfCKLWSuYSgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv0FOQxFX2jsRfCKLWSuYSgo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:54:27"
+  }
+]

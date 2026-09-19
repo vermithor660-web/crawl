@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shriniwas Lodge",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431207",
+    "phone_number": "+91 94209 84927",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 23,
+    "address": "Shop No 3, Railway Station Road, near Bageshwari Car Decor, At, Partur, Maharashtra 431501",
+    "area": "At",
+    "latitude": 19.5773604,
+    "longitude": 76.21400349999999,
+    "place_id": "ChIJv2slBeiR2jsRGZYqJci9TkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2slBeiR2jsRGZYqJci9TkE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:45:55"
+  },
+  {
+    "business_name": "Hotel 'Krishna Moti\" Lodging & Veg. Restaurant",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431207",
+    "phone_number": "+91 97661 96669",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Road, Watur, Partur, Maharashtra 431501",
+    "area": "431207",
+    "latitude": 19.5775374,
+    "longitude": 76.21600819999999,
+    "place_id": "ChIJpUnZH7eR2jsR9wGxKeSjz2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpUnZH7eR2jsR9wGxKeSjz2I",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:45:56"
+  }
+]

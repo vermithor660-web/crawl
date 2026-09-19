@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Furniture Bazaar",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "431152",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Bhanudas Nagar, Nyay Nagar, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "Bhanudas Nagar, Nyay Nagar",
+    "latitude": 19.875964099999997,
+    "longitude": 75.3453732,
+    "place_id": "ChIJ91QuQ5yi2zsRdrvLwvuq78Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91QuQ5yi2zsRdrvLwvuq78Y",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:30:55"
+  },
+  {
+    "business_name": "SHRI NARASIMHA ENTERPRISES",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "431152",
+    "phone_number": "+91 95118 59350",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khultabad Phulambri Road, near Bharat Petrol Pump, Katshivari Fata, Mamnapur, Maharashtra 431101",
+    "area": "Katshivari Fata",
+    "latitude": 20.0338808,
+    "longitude": 75.2528031,
+    "place_id": "ChIJQ-jeGrGV2zsRzZH4RHYc-2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ-jeGrGV2zsRzZH4RHYc-2g",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:30:55"
+  }
+]

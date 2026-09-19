@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSN Fitness Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "431154",
+    "phone_number": "+91 95119 54624",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "2nd Floor, Growth Center, Jalna Rd, above HDFC Bank, near Shendra MIDC, Chowk, Kubhephal, Maharashtra 431007",
+    "area": "Chowk",
+    "latitude": 19.866845899999998,
+    "longitude": 75.4886671,
+    "place_id": "ChIJz_rkk4el2zsRndL08Er1ByA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz_rkk4el2zsRndL08Er1ByA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:34:19"
+  },
+  {
+    "business_name": "RJ FITNESS, GYM",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "431154",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gat no.138, 3rd floor, aadarsh recudency corner, the exchange Building, Palshi Rd, above testy biryani, Pisadevi, Maharashtra 431008",
+    "area": "431154",
+    "latitude": 19.917079299999997,
+    "longitude": 75.3855366,
+    "place_id": "ChIJu_rv-0O92zsR_TI8Ra9BD5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu_rv-0O92zsR_TI8Ra9BD5I",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:34:19"
+  }
+]

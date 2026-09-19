@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MATOSHREE DRAYCLINARS",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Dry cleaner",
+    "all_categories": "Dry cleaner",
+    "pincode": "431151",
+    "phone_number": "+91 88568 74893",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "SHOP NO 1, NEAR, Datta Mandir Rd, Tilak Nagar, SILOOD, Sillod, Maharashtra 431112",
+    "area": "Tilak Nagar",
+    "latitude": 20.3048698,
+    "longitude": 75.6511079,
+    "place_id": "ChIJo4BxELXN2zsRFxo1w4M94F8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4BxELXN2zsRFxo1w4M94F8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:29:38"
+  },
+  {
+    "business_name": "Wakad",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Housekeeping Services",
+    "all_categories": "Housekeeping Services",
+    "pincode": "431151",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Maharashtra",
+    "area": "431151",
+    "latitude": 20.1605112,
+    "longitude": 75.4898156,
+    "place_id": "ChIJDfBT5VHG2zsRoFT1vnvtFfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfBT5VHG2zsRoFT1vnvtFfk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:29:40"
+  }
+]

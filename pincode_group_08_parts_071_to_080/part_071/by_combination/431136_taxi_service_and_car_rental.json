@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Clearcabsrental",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "431136",
+    "phone_number": "N/A",
+    "website": "https://clearcabsrental.com/",
+    "rating": 4.8,
+    "reviews_count": 57,
+    "address": "Gut.no 10/2, anandi park, po.no 71 & 72, Chhatrapati Sambhajinagar, Wadgaon Kolhati, Maharashtra 431136",
+    "area": "431136",
+    "latitude": 19.8639397,
+    "longitude": 75.24117609999999,
+    "place_id": "ChIJyXhMsD2b2zsRcP6BjMR5Sb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXhMsD2b2zsRcP6BjMR5Sb4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:13:47"
+  },
+  {
+    "business_name": "Aurangabad Taxi Point",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "431136",
+    "phone_number": "+91 97303 23742",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Plot No 13, Misbah Colony, near Saroj School, Mimmita, Padegaon, Chhatrapati Sambhajinagar, Maharashtra 431002",
+    "area": "Mimmita, Padegaon",
+    "latitude": 19.893607499999998,
+    "longitude": 75.2749834,
+    "place_id": "ChIJ8cvEzI6Z2zsRz85Ha5yudUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8cvEzI6Z2zsRz85Ha5yudUI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:13:48"
+  }
+]

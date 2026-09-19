@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel AK SOUTH INDIAN Breakfast",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431143",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "QX7F+2X, Ghumari, Maharashtra 414401",
+    "area": "431143",
+    "latitude": 18.762605399999998,
+    "longitude": 74.9748844,
+    "place_id": "ChIJCcQoAgCnxDsRGThWvQextaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCcQoAgCnxDsRGThWvQextaY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:18:58"
+  },
+  {
+    "business_name": "Shivai Hotel",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, South Indian restaurant",
+    "pincode": "431143",
+    "phone_number": "+91 94212 82007",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "RF9H FM Nagar Road Patoda, Patoda, Maharashtra 414204",
+    "area": "431143",
+    "latitude": 18.8185693,
+    "longitude": 75.4787266,
+    "place_id": "ChIJu780hU_PxDsR9SaPI36vVFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu780hU_PxDsR9SaPI36vVFI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:18:58"
+  }
+]

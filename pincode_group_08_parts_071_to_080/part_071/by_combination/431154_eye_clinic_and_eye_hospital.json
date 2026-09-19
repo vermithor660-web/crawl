@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharp Vision Eye Care Center",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431154",
+    "phone_number": "+91 83082 85412",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VC97+P8C, Savitri Nagar, Chilkalthana, Chhatrapati Sambhajinagar, Maharashtra 431007",
+    "area": "Savitri Nagar, Chilkalthana",
+    "latitude": 19.869311,
+    "longitude": 75.41327729999999,
+    "place_id": "ChIJJRq84nSj2zsRioO58QyaOME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJRq84nSj2zsRioO58QyaOME",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:34:12"
+  },
+  {
+    "business_name": "Shri Sai Multi-speciality Hospital And Eye Care Centre, Karmad",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431154",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VG8R+VV9, Karmad, Maharashtra 431154",
+    "area": "431154",
+    "latitude": 19.867162399999998,
+    "longitude": 75.5422225,
+    "place_id": "ChIJvWjbRgCv2zsReneFC3kdJjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvWjbRgCv2zsReneFC3kdJjo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:34:12"
+  }
+]

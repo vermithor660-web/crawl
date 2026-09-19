@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Accurate Multi Services jalna",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "431207",
+    "phone_number": "+91 86696 66622",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "VW22+22H, Naya Bazar, Dhangarpura, Jalna, Maharashtra 431203",
+    "area": "Naya Bazar, Dhangarpura",
+    "latitude": 19.850153199999998,
+    "longitude": 75.90008639999999,
+    "place_id": "ChIJmfbfHqtZ2jsR9tADPO2Vp4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmfbfHqtZ2jsR9tADPO2Vp4U",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:46:20"
+  },
+  {
+    "business_name": "Shri Hanuman Laundy",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Laundry service",
+    "all_categories": "Laundry service",
+    "pincode": "431207",
+    "phone_number": "+91 95520 46442",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "JES College Rd, Gajanan Colony, modikhana, Jalna, Maharashtra 431203",
+    "area": "Gajanan Colony, modikhana",
+    "latitude": 19.8509313,
+    "longitude": 75.9046869,
+    "place_id": "ChIJM_Z6JThZ2jsRPeBd7mVNNrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM_Z6JThZ2jsRPeBd7mVNNrc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:46:20"
+  }
+]

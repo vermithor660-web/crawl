@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "railway booking agent shendra midc",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Airline, Bus ticket agency, Money order service, Taxi service, Railway Ticket Agent",
+    "pincode": "431154",
+    "phone_number": "+91 99221 04051",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 8,
+    "address": "Bagal Complex, Chhatrapati Chowk, near Vitthai Hospital, Shendra MIDC, Kubhephal, Maharashtra 431154",
+    "area": "Shendra MIDC",
+    "latitude": 19.8668421,
+    "longitude": 75.49016069999999,
+    "place_id": "ChIJUTMTkpKi2zsR0mE_83i069M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUTMTkpKi2zsR0mE_83i069M",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:34:27"
+  },
+  {
+    "business_name": "Asfaq multyservices",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "431154",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "VC9C+F3H, Hina Nagar Rd, Chhatrapati Sambhajinagar, Maharashtra 431007",
+    "area": "431154",
+    "latitude": 19.8686298,
+    "longitude": 75.4201653,
+    "place_id": "ChIJLf9AuGqj2zsRaau-DdhWQ48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLf9AuGqj2zsRaau-DdhWQ48",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:34:27"
+  }
+]

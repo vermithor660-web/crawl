@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devas Cakes",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "431136",
+    "phone_number": "+91 90219 38972",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "Mohatadevi chowk, Hitech College Rd, near mohatadevi temple, MIDC Waluj, Bajaj Nagar, Maharashtra 431136",
+    "area": "MIDC Waluj, Bajaj Nagar, Waluj",
+    "latitude": 19.8445963,
+    "longitude": 75.2439667,
+    "place_id": "ChIJu0hontGb2zsRdw9b597oXTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu0hontGb2zsRdw9b597oXTo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:13:09"
+  },
+  {
+    "business_name": "Sai Cake Shop",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "431136",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/sai_cake_shop_tv_centre_m2_rod?igsh=MXB2YnowczN1M2J4OA==",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W924+G99, M2 Rd, near Nimayi Hospital, Shree Society, N-6, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Shree Society, N-6, Cidco",
+    "latitude": 19.901283199999998,
+    "longitude": 75.35599979999999,
+    "place_id": "ChIJzYBQdrGi2zsRmccJbkg-5qc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzYBQdrGi2zsRmccJbkg-5qc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:13:11"
+  }
+]

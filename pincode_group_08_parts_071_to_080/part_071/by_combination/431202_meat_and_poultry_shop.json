@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PARM AGRO POLTRY FARM",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm, Farmers' market",
+    "pincode": "431202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "At-chanegaon ta-badnapur, Jalna, Maharashtra 431213",
+    "area": "Kanchan Nagar, Bhagya Nagar",
+    "latitude": 19.834665899999997,
+    "longitude": 75.88163449999999,
+    "place_id": "ChIJqSkVHbZX2jsRBRsE5pwBmXg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqSkVHbZX2jsRBRsE5pwBmXg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:35:43"
+  },
+  {
+    "business_name": "MAHARASHTRA POULTRY SHOP",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "431202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Aurangabad Rd, near Qadriya Masjid, Bhokardan Naka, Saklecha Nagar, Jalna, Maharashtra 431203",
+    "area": "Bhokardan Naka, Saklecha Nagar",
+    "latitude": 19.848831999999998,
+    "longitude": 75.8874999,
+    "place_id": "ChIJrbRiruxX2jsREYKws1Z3guo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrbRiruxX2jsREYKws1Z3guo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:35:43"
+  }
+]

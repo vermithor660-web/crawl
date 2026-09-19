@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rishika fish shop",
+    "search_category": "Fish Market",
+    "primary_category": "Fishing store",
+    "all_categories": "Fishing store",
+    "pincode": "431135",
+    "phone_number": "+91 95614 41188",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhavan Rd, Karkhana, Sillod, Bhawan, Maharashtra 431135",
+    "area": "Karkhana",
+    "latitude": 20.2626749,
+    "longitude": 75.63959009999999,
+    "place_id": "ChIJs2ecJhDN2zsRWmqG2jYLz-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs2ecJhDN2zsRWmqG2jYLz-o",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:11:09"
+  },
+  {
+    "business_name": "RAVINDRA Fish Centre",
+    "search_category": "Fish Market",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "431135",
+    "phone_number": "+91 97636 46362",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Jadhav Hospital, Men Bypass Jalgaon Road, Shivaji Nagar, Sillod, Maharashtra 431112",
+    "area": "Shivaji Nagar",
+    "latitude": 20.3077921,
+    "longitude": 75.6547112,
+    "place_id": "ChIJ_wbkPqXT2zsRkI7b9my2akI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_wbkPqXT2zsRkI7b9my2akI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:11:09"
+  }
+]

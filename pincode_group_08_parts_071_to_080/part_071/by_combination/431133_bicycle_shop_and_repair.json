@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saniya Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service",
+    "pincode": "431133",
+    "phone_number": "+91 91459 45164",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Shop No 3, Ranjangaon, Road, Pavan Nagar, Kamlapur, Maharashtra 431136",
+    "area": "Ranjangaon Shenpunji, Pavan Nagar",
+    "latitude": 19.8364613,
+    "longitude": 75.2339918,
+    "place_id": "ChIJh0VRqrCb2zsR-PtAQDK7j0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh0VRqrCb2zsR-PtAQDK7j0s",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:07:48"
+  },
+  {
+    "business_name": "Shree Krishna motors E Bike",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Showroom",
+    "all_categories": "Showroom",
+    "pincode": "431133",
+    "phone_number": "+91 86686 28520",
+    "website": "http://shreekrishnamotorsebike.netlify.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no, 1/ 2, Aai babachi, Kamlapur Rd, near Kamlapur, Kaman, Waluj, Kamlapur, Jogeshwari, Maharashtra 431136",
+    "area": "Kaman, Waluj",
+    "latitude": 19.8344701,
+    "longitude": 75.21897369999999,
+    "place_id": "ChIJL5ZWLhSb2zsRvxJYjpj1fLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5ZWLhSb2zsRvxJYjpj1fLs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:07:51"
+  }
+]

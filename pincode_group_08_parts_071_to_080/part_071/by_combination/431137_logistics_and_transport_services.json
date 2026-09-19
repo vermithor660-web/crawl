@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhushan Logistics Pvt Ltd",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Trucking company",
+    "all_categories": "Trucking company, Transportation service",
+    "pincode": "431137",
+    "phone_number": "+91 22 2775 6677",
+    "website": "http://bhushanlogistics.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Plot No.X-212, MIDC, Waluj, Waladgaon, Maharashtra 431136",
+    "area": "MIDC, Waluj",
+    "latitude": 19.8259673,
+    "longitude": 75.2452369,
+    "place_id": "ChIJc_hEq-Gb2zsRfUCyhLbtxQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc_hEq-Gb2zsRfUCyhLbtxQU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:15:47"
+  },
+  {
+    "business_name": "Kp Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "431137",
+    "phone_number": "N/A",
+    "website": "https://kptransports.com/",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "R6MM+8HJ, Waluj, Kamlapur, Maharashtra 431136",
+    "area": "Waluj",
+    "latitude": 19.8330229,
+    "longitude": 75.2336823,
+    "place_id": "ChIJVXLn3-ub2zsR6knAqWbZMYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVXLn3-ub2zsR6knAqWbZMYI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:15:48"
+  }
+]

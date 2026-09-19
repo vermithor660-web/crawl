@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gurukrupa Enterprises",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "431133",
+    "phone_number": "+91 99218 35708",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Plot No- 527, Growth Center, 1, Road, CIDCO Waluj Mahanagar 1, Waluj, Pune, Tisgaon, Maharashtra 431136",
+    "area": "CIDCO Waluj Mahanagar 1, Waluj",
+    "latitude": 19.8507066,
+    "longitude": 75.2495974,
+    "place_id": "ChIJq2kQuX-Z2zsRJnkt27uWsbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq2kQuX-Z2zsRJnkt27uWsbg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:08:42"
+  },
+  {
+    "business_name": "Santeknath Multiservice",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "431133",
+    "phone_number": "+91 94212 04261",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "At 286. Patoda.Po. Waluj Aurangabad -431133, Chhatrapati Sambhajinagar, Maharashtra 431133",
+    "area": "431133",
+    "latitude": 19.8096438,
+    "longitude": 75.2510159,
+    "place_id": "ChIJifdMWl6Z2zsRQ6aJA9Af-ps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJifdMWl6Z2zsRQ6aJA9Af-ps",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:08:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prime Real Estate",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Commercial real estate agency, Real estate agent",
+    "pincode": "431143",
+    "phone_number": "N/A",
+    "website": "https://primebrokerage.ca/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "200 Villagewalk Blvd Suite 302, London, ON N6G 0W8, Canada",
+    "area": "Sunningdale",
+    "latitude": 43.0375179,
+    "longitude": -81.29340479999999,
+    "place_id": "ChIJvWzs9QDyLogRB9YT58bQLWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvWzs9QDyLogRB9YT58bQLWQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:20:17"
+  },
+  {
+    "business_name": "360Realtors",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "431143",
+    "phone_number": "+91 1800 120 0360",
+    "website": "https://www.360realtors.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "1st floor office No 109,112& 103, Sprint Workspaces, Old Mumbai - Pune Hwy, Narveer Tanaji Wadi, Shivajinagar, Pune, Maharashtra 411005",
+    "area": "Narveer Tanaji Wadi, Shivajinagar",
+    "latitude": 18.5277292,
+    "longitude": 73.8508136,
+    "place_id": "ChIJVVXlemW_wjsRgGq4or4zfjA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVXlemW_wjsRgGq4or4zfjA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:20:17"
+  }
+]

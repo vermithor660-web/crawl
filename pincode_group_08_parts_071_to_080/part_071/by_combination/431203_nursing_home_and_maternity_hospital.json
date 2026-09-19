@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nagma hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "RVFM+V8X Nagma hospital, Old Jalna, Jalna, Maharashtra 431213",
+    "area": "Old Jalna",
+    "latitude": 19.8247355,
+    "longitude": 75.88336489999999,
+    "place_id": "ChIJJRbCQwBX2jsRJ-R4eqeTiAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJRbCQwBX2jsRJ-R4eqeTiAI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:37:56"
+  },
+  {
+    "business_name": "Lupin Diagnostics | Pathology Lab & Full Body Checkup in Tirthpuri",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Blood testing service, Laboratory, Medical laboratory, Pathologist",
+    "pincode": "431203",
+    "phone_number": "+91 94461 71313",
+    "website": "https://www.lupindiagnostics.com/centers-locator/maharashtra/jalna/pathology-lab-nagar-panchyat-43860",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, in front of Nagar Panchyat, State Researve Police Force Gr.III, Jalna, Maharashtra 431209",
+    "area": "State Researve Police Force Gr.III",
+    "latitude": 19.8468905,
+    "longitude": 75.9139805,
+    "place_id": "ChIJmVPhJAiZ2zsRi8HahGjDLbI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmVPhJAiZ2zsRi8HahGjDLbI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:37:57"
+  }
+]

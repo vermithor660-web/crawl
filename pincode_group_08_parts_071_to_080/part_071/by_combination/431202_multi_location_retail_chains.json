@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naresh Complexes",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "431202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "RV9F+2PJ, Matoshree Lons Ambad Rd, Yeshwant Nagar, Jalna, Maharashtra 431213",
+    "area": "Yeshwant Nagar",
+    "latitude": 19.817597499999998,
+    "longitude": 75.8742793,
+    "place_id": "ChIJ0Uf_dZFX2jsRU2XT80VKdQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Uf_dZFX2jsRU2XT80VKdQ0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:37:25"
+  },
+  {
+    "business_name": "Chanakya Complex",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "431202",
+    "phone_number": "N/A",
+    "website": "http://www.infinitely.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "RVQG+QVH, Kacheri Rd, Vrundavan Colony, Bhagya Nagar, Jalna, Maharashtra 431213",
+    "area": "Vrundavan Colony, Bhagya Nagar",
+    "latitude": 19.839444399999998,
+    "longitude": 75.87722219999999,
+    "place_id": "ChIJj9ALpUBX2jsRf1L26zhzOEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9ALpUBX2jsRf1L26zhzOEQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:37:25"
+  }
+]

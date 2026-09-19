@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Doctor, wellness coach, weight loss",
+    "search_category": "Wellness Center",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "431147",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chincholi, Tal, kannad, Maharashtra 431147",
+    "area": "431147",
+    "latitude": 20.385045299999998,
+    "longitude": 75.3681802,
+    "place_id": "ChIJld70WOLf2zsRKjwIOHAlztw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJld70WOLf2zsRKjwIOHAlztw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:23:27"
+  },
+  {
+    "business_name": "Primary Health Centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431147",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "98RP+5GQ, Prathmik Arogya kendra, apposite Jagdamba Devi Temple, Newpur Jahangir, Maharashtra 431147",
+    "area": "Nevpur",
+    "latitude": 20.390456,
+    "longitude": 75.33635699999999,
+    "place_id": "ChIJGSK7aaHg2zsRb4cdr29Bl9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGSK7aaHg2zsRb4cdr29Bl9M",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:23:27"
+  }
+]

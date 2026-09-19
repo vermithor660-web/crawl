@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anil Fish Centre",
+    "search_category": "Fish Market",
+    "primary_category": "Fresh food market",
+    "all_categories": "Fresh food market",
+    "pincode": "431137",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "9GXW+R3G, Awade Uchegaon, Maharashtra 431137",
+    "area": "431137",
+    "latitude": 19.3995548,
+    "longitude": 75.5452068,
+    "place_id": "ChIJycisUaEZ2zsRA_IzqxVAOQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJycisUaEZ2zsRA_IzqxVAOQg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:15:06"
+  },
+  {
+    "business_name": "UMESH FISH CENTER",
+    "search_category": "Fish Market",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "431137",
+    "phone_number": "+91 76208 36855",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SHOP NO 1 FISH MARKET, MAIN ROAD, Vihamandwa, Maharashtra 431137",
+    "area": "431137",
+    "latitude": 19.4556105,
+    "longitude": 75.579353,
+    "place_id": "ChIJxWPupt8Z2zsRpxoirrvQvrw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxWPupt8Z2zsRpxoirrvQvrw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:15:06"
+  }
+]

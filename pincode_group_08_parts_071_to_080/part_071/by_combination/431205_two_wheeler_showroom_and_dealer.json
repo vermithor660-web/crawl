@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manav Auto Parts",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Motorcycle shop",
+    "pincode": "431205",
+    "phone_number": "+91 96999 20848",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Shop No1, Ambad Rd, near Muktar Washing Center, Dhakalgaon, Jalna, Maharashtra 431205",
+    "area": "431205",
+    "latitude": 19.4779539,
+    "longitude": 75.7341453,
+    "place_id": "ChIJyekIqPDj2jsRM42zPAGZ_K8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyekIqPDj2jsRM42zPAGZ_K8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:41:46"
+  },
+  {
+    "business_name": "Shrikrushna Cycle Mart",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "431205",
+    "phone_number": "+91 74988 38398",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No1, Jalna - Beed Rd, near Sugar Factory, opp. mauli Kirana, Mahakala, Jalna, Maharashtra 431212",
+    "area": "431205",
+    "latitude": 19.4004861,
+    "longitude": 75.7102247,
+    "place_id": "ChIJU4HLslQf2zsROEB5-l-zVtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU4HLslQf2zsROEB5-l-zVtQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:41:46"
+  }
+]

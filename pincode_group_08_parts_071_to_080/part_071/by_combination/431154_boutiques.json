@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sk Friut Shop",
+    "search_category": "Boutiques",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "431154",
+    "phone_number": "+91 97650 01558",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No1 Near Aurangabad Pune Raod Aurangabad, Karmad, Maharashtra 431154",
+    "area": "Dadhadi",
+    "latitude": 19.867556699999998,
+    "longitude": 75.54099339999999,
+    "place_id": "ChIJ91bUn5ev2zsRRcYEYKZQk4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91bUn5ev2zsRRcYEYKZQk4I",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:34:07"
+  },
+  {
+    "business_name": "Honesty Fashion Wears",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Shopping mall",
+    "pincode": "431154",
+    "phone_number": "+91 86009 60819",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Honesty Building, near Shauktiya Masjid, Dadhadi, Karmad, Maharashtra 431154",
+    "area": "Dadhadi",
+    "latitude": 19.8673781,
+    "longitude": 75.5402179,
+    "place_id": "ChIJXaxUgFOv2zsRM5xgNm5B-Vs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXaxUgFOv2zsRM5xgNm5B-Vs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:34:09"
+  }
+]

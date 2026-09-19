@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sant Cake",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "431208",
+    "phone_number": "+91 80077 90040",
+    "website": "https://www.instagram.com/sant_cake_shop_?igsh=bWFiNHlsZ2t4eDdn",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Santosh Chitra Mandir, Old Jalna Rd, Ambedkar Nagar, Deulgaon Raja, Maharashtra 443204",
+    "area": "Ambedkar Nagar",
+    "latitude": 20.017724899999997,
+    "longitude": 76.0373844,
+    "place_id": "ChIJcXrSk6xD2jsRBJTH2yq0WsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcXrSk6xD2jsRBJTH2yq0WsE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:46:47"
+  },
+  {
+    "business_name": "Monginis Cake Shop",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Bakery and Cake Shop, Dessert restaurant, Dessert shop",
+    "pincode": "431208",
+    "phone_number": "+91 82753 31630",
+    "website": "https://cakeshops.monginis.net/monginis-cake-shop-occassion-cake-shop-cake-shop-deulgaon-raja-buldhana-102316/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Old Nagar Parishad Shopping Cplx, Behind Chatrapati Shivaji Maharaj Statue, WN 7, Main Road, Deulgaon Raja, Maharashtra 443204",
+    "area": "Ambedkar Nagar",
+    "latitude": 20.017891499999998,
+    "longitude": 76.0359364,
+    "place_id": "ChIJqw1ui2hD2jsRLDATGYei5uk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqw1ui2hD2jsRLDATGYei5uk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:46:47"
+  }
+]

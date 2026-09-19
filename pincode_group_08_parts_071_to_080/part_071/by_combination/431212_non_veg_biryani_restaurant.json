@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DIPIKA CHINESE AND BIRYANI HOUSE",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "431212",
+    "phone_number": "+91 95527 42079",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1,In Front Of Rahul Restaurant,Beed Jalna Highway At,Shahagad Ta.Ambad, Dist, Jalna, Maharashtra 431212",
+    "area": "431212",
+    "latitude": 19.3734845,
+    "longitude": 75.7139431,
+    "place_id": "ChIJlSTW-sHf2jsR94hVyPa9JRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlSTW-sHf2jsR94hVyPa9JRo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:52:10"
+  },
+  {
+    "business_name": "Hotel Sai",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "431212",
+    "phone_number": "+91 97660 11165",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jalna - Beed Rd, near Indian Oil Pump, Wadigodri, Jalna, Maharashtra 431205",
+    "area": "431212",
+    "latitude": 19.441274399999998,
+    "longitude": 75.7151401,
+    "place_id": "ChIJQbZb11vh2jsRMuuc3G0V4oE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQbZb11vh2jsRMuuc3G0V4oE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:52:13"
+  }
+]

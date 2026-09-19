@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vital Services",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical Equipment Manufacturer",
+    "all_categories": "Medical Equipment Manufacturer, Medical clinic",
+    "pincode": "431144",
+    "phone_number": "+91 98271 73784",
+    "website": "http://vitalservices.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "12/52, Bamleshwari Colony, Borsi, Chhattisgarh 491001",
+    "area": "431144",
+    "latitude": 21.1625181,
+    "longitude": 81.2981666,
+    "place_id": "ChIJpfv-QoM8KToRrq71gi6jhm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpfv-QoM8KToRrq71gi6jhm0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:21:11"
+  },
+  {
+    "business_name": "Daulat surgicals",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Surgical Products Wholesaler",
+    "all_categories": "Surgical Products Wholesaler",
+    "pincode": "431144",
+    "phone_number": "+91 99773 35444",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Moudhapara, Raipur, Chhattisgarh 492001",
+    "area": "Moudhapara",
+    "latitude": 21.247208999999998,
+    "longitude": 81.6399897,
+    "place_id": "ChIJ1WODHJndKDoRB9MQGENq_IA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1WODHJndKDoRB9MQGENq_IA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:21:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjeev Auto Pvt Ltd",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "431147",
+    "phone_number": "+91 240 664 0950",
+    "website": "https://www.sanjeevauto.com/",
+    "rating": 4.3,
+    "reviews_count": 81,
+    "address": "R6PV+MFC, Unnamed Road, Waluj, Waladgaon, Maharashtra 431136",
+    "area": "Waluj",
+    "latitude": 19.8366792,
+    "longitude": 75.243639,
+    "place_id": "ChIJhwj-OnGb2zsR7vF0rr5xTb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhwj-OnGb2zsR7vF0rr5xTb8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:23:13"
+  },
+  {
+    "business_name": "Sanjeev Auto Parts Manufacturers Pvt Ltd",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Automotive Service Chains",
+    "all_categories": "Automotive Service Chains",
+    "pincode": "431147",
+    "phone_number": "+91 240 664 0950",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "7, MIDC, Waluj, Waladgaon, Maharashtra 431136",
+    "area": "Waluj",
+    "latitude": 19.837041799999998,
+    "longitude": 75.24922699999999,
+    "place_id": "ChIJ2YaFaWKZ2zsRQbkg3WN65nI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YaFaWKZ2zsRQbkg3WN65nI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:23:13"
+  }
+]

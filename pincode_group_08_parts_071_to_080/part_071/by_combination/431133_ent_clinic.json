@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bajaj nagar",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "431133",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "R6W6+3FX, Bajaj Nagar, Ranjangaon Shenpunji, Waluj, Ranjangaon (Shenpunji), Maharashtra 431136",
+    "area": "Bajaj Nagar, Ranjangaon Shenpunji, Waluj",
+    "latitude": 19.8452284,
+    "longitude": 75.2112381,
+    "place_id": "ChIJ5eEsOACb2zsRATx_ekxD9EI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5eEsOACb2zsRATx_ekxD9EI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:07:38"
+  },
+  {
+    "business_name": "VERTEX HOSPITAL",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431133",
+    "phone_number": "+91 77097 74963",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "RM-3, Pratap Chowk, Bajaj Nagar, Waluj, Wadgaon Kolhati, Maharashtra 431136",
+    "area": "Maharana Pratap Chowk, Bajaj Nagar, Waluj",
+    "latitude": 19.840781,
+    "longitude": 75.2411879,
+    "place_id": "ChIJYx62pdCb2zsRgZwJr1cK5ls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYx62pdCb2zsRgZwJr1cK5ls",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:07:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAHAN MOBILE SHOP",
+    "search_category": "Boutiques",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store, Cell phone store",
+    "pincode": "431151",
+    "phone_number": "+91 93731 17190",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1, Babra Rd, near Shivaji Maharaj Stachu, Babra, Maharashtra 431151",
+    "area": "431151",
+    "latitude": 20.203861699999997,
+    "longitude": 75.4237643,
+    "place_id": "ChIJXUaUo_rD2zsReXeN5hb2Jf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXUaUo_rD2zsReXeN5hb2Jf4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:28:33"
+  },
+  {
+    "business_name": "Shriman Desi Daru Dukaan",
+    "search_category": "Boutiques",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "431151",
+    "phone_number": "+91 90218 77030",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop.No.01, Babra Rd, Babra, Maharashtra 431151",
+    "area": "431151",
+    "latitude": 20.2073422,
+    "longitude": 75.4306242,
+    "place_id": "ChIJo_0-V5DD2zsRRO-K4aomQ9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo_0-V5DD2zsRRO-K4aomQ9Q",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:28:34"
+  }
+]

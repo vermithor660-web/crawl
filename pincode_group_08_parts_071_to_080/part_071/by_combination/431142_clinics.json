@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yogeshwari Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "431142",
+    "phone_number": "+91 98904 54925",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 2, Manjrath Rd, near Jijau Chowk In Mane Complex, Bank Colany, Bhatwadgaon, Maharashtra 431131",
+    "area": "Bank Colany",
+    "latitude": 19.1660938,
+    "longitude": 76.2071852,
+    "place_id": "ChIJ4yFIKCGx2jsRXMA_HU_yFt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4yFIKCGx2jsRXMA_HU_yFt8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:17:24"
+  },
+  {
+    "business_name": "Yashashri Hospital Shahu Nagar Majalgaon",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431142",
+    "phone_number": "+91 88300 45149",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Khurpe Colony, near Sakhare Complex, Shahu Nagar, Majalgaon, Maharashtra 431131",
+    "area": "Shahu Nagar",
+    "latitude": 19.157948299999997,
+    "longitude": 76.20888479999999,
+    "place_id": "ChIJDYMfA-6x2jsRFeOrpcTTGXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDYMfA-6x2jsRFeOrpcTTGXo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:17:25"
+  }
+]

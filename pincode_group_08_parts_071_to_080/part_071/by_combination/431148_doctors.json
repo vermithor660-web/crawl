@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KHETRE HOSPITAL",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "431148",
+    "phone_number": "+91 90755 13685",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Paithan Rd, MIDC, Mudhalwadi, Maharashtra 431148",
+    "area": "MIDC",
+    "latitude": 19.538449399999998,
+    "longitude": 75.3808172,
+    "place_id": "ChIJJf4x5zgN2zsRHjayO4So2Ak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJf4x5zgN2zsRHjayO4So2Ak",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:24:49"
+  },
+  {
+    "business_name": "Aditya Medical",
+    "search_category": "Doctors",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "431148",
+    "phone_number": "+91 98233 69394",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "St Paul's Rd, Mudhalwadi, Maharashtra 431148",
+    "area": "431148",
+    "latitude": 19.5378048,
+    "longitude": 75.3790422,
+    "place_id": "ChIJn31Fh4IS2zsRk0xApGBEgsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn31Fh4IS2zsRk0xApGBEgsU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:24:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Nath Salun",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "431137",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GGJ6+C97, Dawarwadi, Maharashtra 431105",
+    "area": "431137",
+    "latitude": 19.5310369,
+    "longitude": 75.51091009999999,
+    "place_id": "ChIJXRQG1gER2zsRigXuLHkNRM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXRQG1gER2zsRigXuLHkNRM4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:16:00"
+  },
+  {
+    "business_name": "Omkar Gents Parlour",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "431137",
+    "phone_number": "+91 95277 51139",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 1, near Bus Stand, Koli Bodkha, Maharashtra 431121",
+    "area": "431137",
+    "latitude": 19.505727999999998,
+    "longitude": 75.628992,
+    "place_id": "ChIJuyBSUI4d2zsRY7mJaTdlxSk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuyBSUI4d2zsRY7mJaTdlxSk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:16:00"
+  }
+]
