@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "WFB Baird & Company",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Textile mill",
+    "all_categories": "Textile mill",
+    "pincode": "464240",
+    "phone_number": "+91 484 421 9100",
+    "website": "http://wfbbaird.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Plot 45/25, MLA Rd, CSEZ, Kakkanad, Kochi, Kakkanad, Keralam 682037",
+    "area": "CSEZ, Kakkanad",
+    "latitude": 10.0037886,
+    "longitude": 76.34274409999999,
+    "place_id": "ChIJlfUUeJMMCDsRKlXXQ8HP8To",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlfUUeJMMCDsRKlXXQ8HP8To",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:54:59"
+  },
+  {
+    "business_name": "Mangal Fabs",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Fabric wholesaler",
+    "all_categories": "Fabric wholesaler",
+    "pincode": "464240",
+    "phone_number": "+91 99405 19992",
+    "website": "http://www.mangalfabs.com/",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "36/57, Mint Subrayulu St, Meenambal Nagar, Korukkupet, Old Washermanpet, Chennai, Tamil Nadu 600021",
+    "area": "Meenambal Nagar, Korukkupet, Old Washermanpet",
+    "latitude": 13.116385099999999,
+    "longitude": 80.28133799999999,
+    "place_id": "ChIJneBHTGNvUjoRHLxVoFVnFLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJneBHTGNvUjoRHLxVoFVnFLg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:55:00"
+  }
+]

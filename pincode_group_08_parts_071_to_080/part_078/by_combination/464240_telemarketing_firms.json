@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahendra Patel",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "464240",
+    "phone_number": "+91 70009 61477",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khajroad Road Sihora, Kurwai Rd, Bamora, Madhya Pradesh 464240",
+    "area": "464240",
+    "latitude": 24.0578763,
+    "longitude": 78.0779367,
+    "place_id": "ChIJU-yPyFVneTkRtcvKuAEShzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU-yPyFVneTkRtcvKuAEShzQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:56:28"
+  },
+  {
+    "business_name": "Get samadhan e-commerce pvt. ltd.",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "E-commerce service",
+    "all_categories": "E-commerce service",
+    "pincode": "464240",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "First Floor,Hans Villa, Bangali Kaali Tiraha,Gopalganj, Madhya Pradesh 470001",
+    "area": "Gopal Ganj",
+    "latitude": 23.8360248,
+    "longitude": 78.7523999,
+    "place_id": "ChIJZ4aEOXbWeDkRU1F9sD9v4kc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ4aEOXbWeDkRU1F9sD9v4kc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:56:29"
+  }
+]

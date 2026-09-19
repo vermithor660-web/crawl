@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navdeep Computer",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "464886",
+    "phone_number": "+91 96176 98813",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CG2X+CFP, Searmau, Madhya Pradesh 470235",
+    "area": "464886",
+    "latitude": 23.4023714,
+    "longitude": 78.5484725,
+    "place_id": "ChIJxxAqLDvdfjkRMYCSg7hntdk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxxAqLDvdfjkRMYCSg7hntdk",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:31:13"
+  },
+  {
+    "business_name": "Webline Technologies",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "464886",
+    "phone_number": "+91 97477 24641",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "59QV+5CW, XXIV (904/7) (904/8), FIRST FLOOR, AREECKAL TOWER, SH 1, near JOS SUZUKI, Angamaly, Keralam 683572",
+    "area": "East Nagar, Kavaraparmbu",
+    "latitude": 10.188034499999999,
+    "longitude": 76.3936255,
+    "place_id": "ChIJjUqhZQ8HCDsRvfMM0oiMZKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjUqhZQ8HCDsRvfMM0oiMZKU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:31:15"
+  }
+]

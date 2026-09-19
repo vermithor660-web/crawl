@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Tiffin Service",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "464668",
+    "phone_number": "+91 75093 22212",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Anand Colony Road, near tulsi nagar, Baldeobagh, Rathi Colony, Sarvodaya Nagar, Jabalpur, Madhya Pradesh 482002",
+    "area": "Baldeobagh, Rathi Colony, Sarvodaya Nagar",
+    "latitude": 23.1842594,
+    "longitude": 79.9200619,
+    "place_id": "ChIJZ7xIQyeugTkRPVd2KGTAgag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ7xIQyeugTkRPVd2KGTAgag",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:15:31"
+  },
+  {
+    "business_name": "Alfiz Chicken Center",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "464668",
+    "phone_number": "+91 95894 85374",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "09, Bareli, Madhya Pradesh 464665",
+    "area": "464668",
+    "latitude": 23.0010089,
+    "longitude": 78.23105989999999,
+    "place_id": "ChIJAw4euUyLfjkRGQ_vTyfWfnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAw4euUyLfjkRGQ_vTyfWfnc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:15:33"
+  }
+]

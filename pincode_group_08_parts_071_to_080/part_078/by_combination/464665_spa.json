@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rohit Nayak",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "464665",
+    "phone_number": "+91 62631 57903",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Madhya Pradesh Rashan Rahul Nagar Ward Number 14, Madhya Pradesh 464665",
+    "area": "464665",
+    "latitude": 23.0308501,
+    "longitude": 78.226704,
+    "place_id": "ChIJvyO2rp6LfjkRrk-FJboYTgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvyO2rp6LfjkRrk-FJboYTgc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:14:29"
+  },
+  {
+    "business_name": "Sana Health Care",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "464665",
+    "phone_number": "+91 82900 09090",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Bareli, Madhya Pradesh 464665",
+    "area": "Nahar Nagar",
+    "latitude": 23.0025807,
+    "longitude": 78.2324842,
+    "place_id": "ChIJu-fIDFWLfjkRWvnTQAJkI1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu-fIDFWLfjkRWvnTQAJkI1Y",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:14:29"
+  }
+]

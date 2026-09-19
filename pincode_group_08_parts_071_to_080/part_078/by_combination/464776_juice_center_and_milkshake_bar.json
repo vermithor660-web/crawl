@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hurrycane Food & Beverages Pvt. Ltd.",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Food machinery supplier",
+    "all_categories": "Food machinery supplier",
+    "pincode": "464776",
+    "phone_number": "N/A",
+    "website": "http://www.hurrycanejuice.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Madhushree, Plot no. 98, RSC 26/26, charkop sector no. 1, Kandivali West, Mumbai, Maharashtra 400067",
+    "area": "Kandivali, Sector 1 Charkop, Kandivali West",
+    "latitude": 19.213409199999997,
+    "longitude": 72.827607,
+    "place_id": "ChIJ4-zY9rW25zsRaN2hqO4QHmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4-zY9rW25zsRaN2hqO4QHmg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:24:39"
+  },
+  {
+    "business_name": "Juice O Juice",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Takeout restaurant",
+    "all_categories": "Takeout restaurant",
+    "pincode": "464776",
+    "phone_number": "+91 96405 21971",
+    "website": "https://magicpin.com/profilemerchant?userId=9667901",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Plot 58, Megha Hills, Sri Sai Nagar, Madhapur, Hyderabad, Telangana 500081",
+    "area": "Megha Hills, Sri Sai Nagar, Madhapur",
+    "latitude": 17.4421475,
+    "longitude": 78.3917025,
+    "place_id": "ChIJleZpsPyRyzsRNAQX8LvVqow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJleZpsPyRyzsRNAQX8LvVqow",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:24:39"
+  }
+]

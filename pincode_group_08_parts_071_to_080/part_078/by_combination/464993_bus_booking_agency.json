@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Brothers",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Corporate office",
+    "pincode": "464993",
+    "phone_number": "+91 93012 36456",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 85,
+    "address": "Near Jain Namkeen, Palak Apartment, MIG-1, Main Road, B Sector, Piplani, Sonagiri, Bhopal, Madhya Pradesh 462022",
+    "area": "B Sector, Piplani, Sonagiri",
+    "latitude": 23.2514506,
+    "longitude": 77.47135829999999,
+    "place_id": "ChIJPTKiufhBfDkRENiM3i-sJT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPTKiufhBfDkRENiM3i-sJT8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:36:05"
+  },
+  {
+    "business_name": "Shree Sai Online Servises",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Airline ticket agency, Railway Ticket Agent",
+    "pincode": "464993",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NH - 12, Narmadapuram Rd, Samardha Village, Mandideep, Bhopal, Madhya Pradesh 462046",
+    "area": "Samardha Village, Mandideep",
+    "latitude": 23.1121813,
+    "longitude": 77.50832969999999,
+    "place_id": "ChIJH0FDdV1HfDkRm0bLYiS-XoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH0FDdV1HfDkRm0bLYiS-XoU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:36:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GOYAL PAINTS AND SANITATION",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Pipe supplier",
+    "pincode": "464661",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Salamatpur, Madhya Pradesh 464651",
+    "area": "464661",
+    "latitude": 23.457635699999997,
+    "longitude": 77.67556069999999,
+    "place_id": "ChIJcbMKV-wRfDkRRdUFs7Ka3Uw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcbMKV-wRfDkRRdUFs7Ka3Uw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:12:33"
+  },
+  {
+    "business_name": "Prakash Hardware Godown",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "464661",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "main road, Bhopal - Vidisha Hwy, beside police station, Salamatpur, Madhya Pradesh 464651",
+    "area": "464661",
+    "latitude": 23.4567735,
+    "longitude": 77.676677,
+    "place_id": "ChIJG9DvCbcRfDkRcoc_nv7wsLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9DvCbcRfDkRcoc_nv7wsLM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:12:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ServiceCafe",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop, Honda dealer, Mechanic, Motor scooter repair shop, Two Wheeler Dealer, Motorcycle parts store, Motorcycle shop, Scooter repair shop, Suzuki dealer, Used motorcycle dealer",
+    "pincode": "464886",
+    "phone_number": "+91 75300 81813",
+    "website": "https://sites.google.com/view/servicecafe",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Hopes, 27A, 6th Cross Next to Ambal Maruti Service Vilankuruchi Road, Thaneerpandal Rd, Peelamedu, Coimbatore, Tamil Nadu 641004",
+    "area": "Peelamedu, B.R. Puram Industrial Estate",
+    "latitude": 11.034485,
+    "longitude": 77.01629009999999,
+    "place_id": "ChIJ5fy4oWhXqDsRFNvT2X_NGtY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5fy4oWhXqDsRFNvT2X_NGtY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:30:38"
+  },
+  {
+    "business_name": "MOTO HUB",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop, Auto repair shop",
+    "pincode": "464886",
+    "phone_number": "+91 75920 42843",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Collagepadi, Road, opposite More Supermarket, Nadackal, Pala, Keralam 686121",
+    "area": "Nadackal",
+    "latitude": 9.6933823,
+    "longitude": 76.7714246,
+    "place_id": "ChIJ31vNSivLBzsRRfweMJuIC1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ31vNSivLBzsRRfweMJuIC1A",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:30:38"
+  }
+]

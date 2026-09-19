@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Timber Hut",
+    "search_category": "Hostels",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Tea house",
+    "pincode": "464776",
+    "phone_number": "+91 97555 57045",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1746,
+    "address": "306, Infront Of Bank Of India Colony, LIG, BOI Colony, Gautam Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "Gautam Nagar, Housing Board Colony",
+    "latitude": 23.2365086,
+    "longitude": 77.4384828,
+    "place_id": "ChIJO22owmhCfDkRrERjNr3jH-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO22owmhCfDkRrERjNr3jH-c",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:25:39"
+  },
+  {
+    "business_name": "SSB Stay BHOPAL",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory, Bed shop, Bedding store, Bedroom furniture store, Furniture store, Mattress store, Sofa store",
+    "pincode": "464776",
+    "phone_number": "+91 91790 39988",
+    "website": "http://www.ssbstay.in/",
+    "rating": 4.9,
+    "reviews_count": 4076,
+    "address": "SSB STAY infront of carewell hospital, Sultania Infantry lines, near, Gufa Mandir Rd, Nayapura, Lalghati, Bhopal, Madhya Pradesh 462001",
+    "area": "Nayapura, Lalghati",
+    "latitude": 23.2813238,
+    "longitude": 77.3773167,
+    "place_id": "ChIJ4TByZ2BpfDkRIOvyBMVSBfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4TByZ2BpfDkRIOvyBMVSBfs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:25:39"
+  }
+]

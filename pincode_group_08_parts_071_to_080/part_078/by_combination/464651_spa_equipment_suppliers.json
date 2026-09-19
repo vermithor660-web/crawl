@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarvesh Enterprises",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Machine shop",
+    "all_categories": "Machine shop, Manufacturer",
+    "pincode": "464651",
+    "phone_number": "+91 90219 78288",
+    "website": "http://sarveshenterprises.in/",
+    "rating": 5,
+    "reviews_count": 246,
+    "address": "Shop No. 01,02,03, Ground Floor, Bharari Complex, Pune Saswad Rd, Green Divine Society, Bhekrai Nagar, Pune, Maharashtra 412308",
+    "area": "Green Divine Society, Bhekrai Nagar",
+    "latitude": 18.4824992,
+    "longitude": 73.952921,
+    "place_id": "ChIJucSoqNrvwjsRb2m6Tw10BOY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJucSoqNrvwjsRb2m6Tw10BOY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:10:53"
+  },
+  {
+    "business_name": "kali kripa enterprises",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler",
+    "pincode": "464651",
+    "phone_number": "+91 98273 73834",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no-19, Kamali Mandir Rd, Ghora Nakkas, Peer Gate Area, Bhopal, Madhya Pradesh 462001",
+    "area": "Ghora Nakkas, Peer Gate Area",
+    "latitude": 23.2637683,
+    "longitude": 77.4041354,
+    "place_id": "ChIJB7mu3yJofDkRmmK-hn3mEDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB7mu3yJofDkRmmK-hn3mEDo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:10:53"
+  }
+]

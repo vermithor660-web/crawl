@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarvshaktiman tractors",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "465116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C7MX+2GR, Shajapur, Madhya Pradesh 465001",
+    "area": "465116",
+    "latitude": 23.4326039,
+    "longitude": 76.2987627,
+    "place_id": "ChIJxxlFbABRYzkRlPC0zWU_pd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxxlFbABRYzkRlPC0zWU_pd0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:45:00"
+  },
+  {
+    "business_name": "Royal Tractors",
+    "search_category": "Commercial Vehicle and Tractor Dealer",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer",
+    "pincode": "465116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sehore Road, Kalapipal Mandi, Madhya Pradesh 465337",
+    "area": "465116",
+    "latitude": 23.338604699999998,
+    "longitude": 76.8413168,
+    "place_id": "ChIJEbJJs1iXfDkRExN_84uW9Ng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEbJJs1iXfDkRExN_84uW9Ng",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:45:00"
+  }
+]

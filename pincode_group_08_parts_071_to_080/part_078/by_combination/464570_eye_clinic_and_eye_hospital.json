@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "464570",
+    "phone_number": "+91 217 231 7707",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "MW74+66M, Solapur, Maharashtra 413001",
+    "area": "464570",
+    "latitude": 17.663095,
+    "longitude": 75.9055585,
+    "place_id": "ChIJJ6o9LHfaxTsROjjR1PaK0Io",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6o9LHfaxTsROjjR1PaK0Io",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:06:28"
+  },
+  {
+    "business_name": "M M Joshi Eye Hospital - Raichur",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "464570",
+    "phone_number": "+91 63627 64677",
+    "website": "https://www.mmjoshieyeinstitute.com/",
+    "rating": 4.9,
+    "reviews_count": 1148,
+    "address": "29, Nijalingappa Colony, Raichur, Karnataka 584101",
+    "area": "Nijalingappa Colony",
+    "latitude": 16.2052259,
+    "longitude": 77.3403419,
+    "place_id": "ChIJv-QB4IDXyTsRYDGoMPXc1IA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv-QB4IDXyTsRYDGoMPXc1IA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:06:31"
+  }
+]

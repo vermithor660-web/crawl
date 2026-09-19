@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akash Ganga Courier Ltd",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Delivery service, Logistics service",
+    "pincode": "464661",
+    "phone_number": "+91 95557 55992",
+    "website": "https://akash-ganga-courier.grexa.site/",
+    "rating": 3.2,
+    "reviews_count": 71,
+    "address": "784- 785, Desh Bandhu Gupta Rd, near by jankalyan hospital, Block A, Karol Bagh, New Delhi, Delhi, 110005",
+    "area": "Block A, Karol Bagh",
+    "latitude": 28.649031299999997,
+    "longitude": 77.1993104,
+    "place_id": "ChIJi8DdYPr9DDkR5It0BMhF8tM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi8DdYPr9DDkR5It0BMhF8tM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:13:12"
+  },
+  {
+    "business_name": "Online Coriyar Service",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "464661",
+    "phone_number": "+91 89823 67075",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ashok Kumar Kushwaha, Vidisha, Madhya Pradesh 464001",
+    "area": "464661",
+    "latitude": 23.520180999999997,
+    "longitude": 77.79093999999999,
+    "place_id": "ChIJk_R6sRkFfDkR_C35G-KYwtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk_R6sRkFfDkR_C35G-KYwtk",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:13:13"
+  }
+]

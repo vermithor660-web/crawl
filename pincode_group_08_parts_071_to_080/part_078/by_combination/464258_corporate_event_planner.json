@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Perfect events decoration",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "464258",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MPM5+P9V, Ahmadnagar, Ahmada Nagar, Madhya Pradesh 464258",
+    "area": "464258",
+    "latitude": 23.6843649,
+    "longitude": 77.7084218,
+    "place_id": "ChIJUbXVdAD3ezkRgqDSkFLS1do",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUbXVdAD3ezkRgqDSkFLS1do",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:57:42"
+  },
+  {
+    "business_name": "XL Events India",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Children's party service, Event management company, Wedding planner, Graphic designer, Party planner, Wedding service",
+    "pincode": "464258",
+    "phone_number": "+91 97681 19009",
+    "website": "https://www.xlevents.in/",
+    "rating": 4.9,
+    "reviews_count": 52,
+    "address": "Rajshree 11, 90 Feet Rd, Pant Nagar, east, Mumbai, Maharashtra 400075",
+    "area": "Pant Nagar, east",
+    "latitude": 19.081822199999998,
+    "longitude": 72.91180949999999,
+    "place_id": "ChIJRUxAbcHH5zsRQlQjOl-htsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRUxAbcHH5zsRQlQjOl-htsU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:57:44"
+  }
+]

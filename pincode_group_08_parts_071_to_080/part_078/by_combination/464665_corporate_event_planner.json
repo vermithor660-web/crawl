@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yadav niwas",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "464665",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Durga Mandir ke piche, Holi chowk bazar mohalla, Maheshwar, Madhya Pradesh 464668",
+    "area": "464665",
+    "latitude": 22.9802674,
+    "longitude": 78.2913227,
+    "place_id": "ChIJM-xiUQCLfjkREeW3GIx_wNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-xiUQCLfjkREeW3GIx_wNc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:14:40"
+  },
+  {
+    "business_name": "SHIDDHI VINAYAK EVENTS BARELI",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue",
+    "pincode": "464665",
+    "phone_number": "+91 95224 70806",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "NH 12, Mandi Rd, Dal Mill Colony, Bareli, Madhya Pradesh 464668",
+    "area": "Dal Mill Colony",
+    "latitude": 22.995616899999998,
+    "longitude": 78.2368855,
+    "place_id": "ChIJvVyerImLfjkRoxx8xbTC7jM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvVyerImLfjkRoxx8xbTC7jM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:14:42"
+  }
+]

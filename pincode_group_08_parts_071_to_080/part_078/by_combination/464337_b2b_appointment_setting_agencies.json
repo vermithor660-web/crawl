@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lead HR Services Pvt Ltd",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Payroll Service Provider",
+    "pincode": "464337",
+    "phone_number": "+91 44 2432 9585",
+    "website": "http://www.leadjobs.in/",
+    "rating": 3.7,
+    "reviews_count": 100,
+    "address": "No.11, Unit 502, 5th Floor, Challa Mall, Opposite Globus, Thiyagaraya Road, Thiyagaraya Nagar, Chennai, Tamil Nadu 600017",
+    "area": "T. Nagar",
+    "latitude": 13.039689,
+    "longitude": 80.2430566,
+    "place_id": "ChIJ_Wggfe9mUjoRmPSJ66HlDZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Wggfe9mUjoRmPSJ66HlDZ8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:03:51"
+  },
+  {
+    "business_name": "Bada Business",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "464337",
+    "phone_number": "+91 98105 44443",
+    "website": "https://www.badabusiness.com/",
+    "rating": 4.7,
+    "reviews_count": 6371,
+    "address": "Plot no 15, Okhla Phase III, Okhla Industrial Estate, New Delhi, Delhi 110020",
+    "area": "Okhla Phase III, Okhla Industrial Estate",
+    "latitude": 28.5545695,
+    "longitude": 77.26846139999999,
+    "place_id": "ChIJ6xI07uvjDDkR32k1sIK2Emo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6xI07uvjDDkR32k1sIK2Emo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:03:52"
+  }
+]

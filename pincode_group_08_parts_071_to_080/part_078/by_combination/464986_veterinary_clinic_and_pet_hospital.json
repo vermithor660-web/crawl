@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vetcura pet clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "464986",
+    "phone_number": "+91 82838 06678",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ground floor, Vetcura pet clinic, 123-A, 60 Feet Rd, Sector A, Mahalaxmi Nagar, Indore, Madhya Pradesh 452010",
+    "area": "Sector A, Mahalaxmi Nagar",
+    "latitude": 22.7567432,
+    "longitude": 75.9094029,
+    "place_id": "ChIJzWFPFkkdYzkRcx0-j7mNm94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzWFPFkkdYzkRcx0-j7mNm94",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:32:22"
+  },
+  {
+    "business_name": "Tara Vet Care",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Animal hospital",
+    "pincode": "464986",
+    "phone_number": "+91 63760 81243",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "22, Kedar Nagar, Jagatpura, Jaipur, Rajasthan 302017",
+    "area": "Kedar Nagar, Jagatpura",
+    "latitude": 26.818041899999997,
+    "longitude": 75.8573928,
+    "place_id": "ChIJ-XPRGAW3bTkRCoXq1BpX8cA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-XPRGAW3bTkRCoXq1BpX8cA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:32:24"
+  }
+]

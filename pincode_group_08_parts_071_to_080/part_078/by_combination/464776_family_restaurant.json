@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NH -86 cafe & resturant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "464776",
+    "phone_number": "+91 90989 61476",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 16,
+    "address": "H8RP+PQ3, Begumganj, Madhya Pradesh 464881",
+    "area": "464776",
+    "latitude": 23.5917603,
+    "longitude": 78.3369287,
+    "place_id": "ChIJuwOJxFPJfjkRZ9IpuDfGQKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuwOJxFPJfjkRZ9IpuDfGQKE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:24:41"
+  },
+  {
+    "business_name": "Bhojpur Midway Treat",
+    "search_category": "Family Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Restaurant",
+    "pincode": "464776",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 395,
+    "address": "Bhojpur Rd, Mendua, Bhopal, Kiratnagar, Madhya Pradesh 464993",
+    "area": "Mendua",
+    "latitude": 23.118107199999997,
+    "longitude": 77.5569864,
+    "place_id": "ChIJ_xTdpVRHfDkR5zaDlR5Vz6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_xTdpVRHfDkR5zaDlR5Vz6g",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:24:43"
+  }
+]

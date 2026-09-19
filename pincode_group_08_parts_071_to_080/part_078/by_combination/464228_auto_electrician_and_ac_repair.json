@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Calcutta Motors",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Auto repair shop",
+    "pincode": "464228",
+    "phone_number": "+91 63074 48667",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Baheri Calcutta Motors Lucknow, Road, Baheri, Uttar Pradesh 277001",
+    "area": "464228",
+    "latitude": 25.7550518,
+    "longitude": 84.1381461,
+    "place_id": "ChIJ98UvY5JlkjkRESk4F4mHiX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ98UvY5JlkjkRESk4F4mHiX4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:53:36"
+  },
+  {
+    "business_name": "खुशाल किराना स्टोर CSC एमपी ऑनलाइइन",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "464228",
+    "phone_number": "+91 93991 79522",
+    "website": "https://connect.csc.gov.in/account/authorize?response_type=code&client_id=0f8ca686-5a31-46b8-bb51-d9834ba9fa9d&redirect_uri=https://digitalseva.csc.gov.in/auth/callback/&state=97480",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Gram Hamirpur Post, Sironj Road, Rajpur, Hamidpur, Madhya Pradesh 473331",
+    "area": "464228",
+    "latitude": 24.359114899999998,
+    "longitude": 77.666932,
+    "place_id": "ChIJN60xD2nNezkRaGJoYsHkZ2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN60xD2nNezkRaGJoYsHkZ2Q",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:53:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohan Juice Centre",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "464671",
+    "phone_number": "+91 95878 37891",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "VRVP+WV7, Sector 7, Jawahar Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302004",
+    "area": "Sector 7, Jawahar Nagar",
+    "latitude": 26.894793699999997,
+    "longitude": 75.8371653,
+    "place_id": "ChIJUfTpWum2bTkRL6OZ7Rl7LzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUfTpWum2bTkRL6OZ7Rl7LzQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:17:19"
+  },
+  {
+    "business_name": "Smacky - The Coffee Cafe",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "464671",
+    "phone_number": "+91 70424 31701",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Jada GaneshJi Mandir, Brahmpol Road, Jada Ganeshji Chowk, opposite to Jada Ganesh Ji Mandir, Udaipur, Rajasthan 313004",
+    "area": "Chanpole, Gada Ganeshji, Ambamata",
+    "latitude": 24.58223,
+    "longitude": 73.6797124,
+    "place_id": "ChIJz9m73lDlZzkRywZMsfrm1VY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz9m73lDlZzkRywZMsfrm1VY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:17:19"
+  }
+]

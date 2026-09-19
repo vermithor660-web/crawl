@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NATIONAL ANIMAL FOODS",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "464651",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mayur Vihar, Ashoka Garden, Ashok Vihar, Bhopal, Madhya Pradesh 462023",
+    "area": "Mayur Vihar, Ashoka Garden, Ashok Vihar",
+    "latitude": 23.2616701,
+    "longitude": 77.4281307,
+    "place_id": "ChIJS1celNNpfDkRiM9YW1bckRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS1celNNpfDkRiM9YW1bckRI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:09:54"
+  },
+  {
+    "business_name": "Pet Care Vaccination Cente",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store",
+    "pincode": "464651",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 17,
+    "address": "Sanjeev Nagar, Navri, Bhopal, Madhya Pradesh 462038",
+    "area": "Sanjeev Nagar, Navri",
+    "latitude": 23.2967965,
+    "longitude": 77.3816385,
+    "place_id": "ChIJG9kV-vBpfDkRkeGG2nfy848",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9kV-vBpfDkRkeGG2nfy848",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:09:57"
+  }
+]

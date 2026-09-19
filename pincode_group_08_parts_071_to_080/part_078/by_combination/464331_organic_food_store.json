@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bus Stand Begamganj",
+    "search_category": "Organic Food Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "464331",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 472,
+    "address": "NH-86, Gairatganj Road, Begumganj, Madhya Pradesh 464881",
+    "area": "464331",
+    "latitude": 23.5969832,
+    "longitude": 78.3405629,
+    "place_id": "ChIJcxHiOHjJfjkRQ1By28Kjpeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcxHiOHjJfjkRQ1By28Kjpeo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:58:22"
+  },
+  {
+    "business_name": "organic product praveen patel",
+    "search_category": "Organic Food Store",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "464331",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Praveen patel, Chandoriya, Begumganj, Madhya Pradesh 464331",
+    "area": "464331",
+    "latitude": 23.6074742,
+    "longitude": 78.3074544,
+    "place_id": "ChIJXVULCczLfjkRH0CbII6iUT0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXVULCczLfjkRH0CbII6iUT0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:58:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GlobalPay by WSFx",
+    "search_category": "Money Transfer and Forex",
+    "primary_category": "Money transfer service",
+    "all_categories": "Money transfer service, Money order service, Currency exchange service",
+    "pincode": "464258",
+    "phone_number": "+91 77188 74732",
+    "website": "https://www.wsfxglobalpay.com/currency-exchange/vadodara",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "105, Dwarkesh Complex, RC Dutt Rd, Vadiwadi, Vadodara, Gujarat 390007",
+    "area": "Vadiwadi",
+    "latitude": 22.3103132,
+    "longitude": 73.1664727,
+    "place_id": "ChIJHWvzelnJXzkRP5FFSOcHGzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHWvzelnJXzkRP5FFSOcHGzg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:57:57"
+  },
+  {
+    "business_name": "ATPM FOREX AND TOURS PVT LTD",
+    "search_category": "Money Transfer and Forex",
+    "primary_category": "Currency exchange service",
+    "all_categories": "Currency exchange service",
+    "pincode": "464258",
+    "phone_number": "+91 70244 35332",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 347,
+    "address": "FIRST FLOOR, Naryan Plaza, A-120, Link Rd, Bilaspur, Telipara, Chhattisgarh 495001",
+    "area": "464258",
+    "latitude": 22.074932399999998,
+    "longitude": 82.1545038,
+    "place_id": "ChIJBZMmIP8LKDoRvsVub5UQuUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZMmIP8LKDoRvsVub5UQuUE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:57:58"
+  }
+]

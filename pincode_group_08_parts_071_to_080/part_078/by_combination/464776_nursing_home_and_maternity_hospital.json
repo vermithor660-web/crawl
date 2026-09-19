@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Darbari Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, General hospital, Private hospital",
+    "pincode": "464776",
+    "phone_number": "+91 94256 08575",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "Berasia Road, Sindhi Colony Crossing, 43, Berasia Rd, near Durga Temple, Sindhi Colony, Qazi Camp, Bhopal, Madhya Pradesh 462001",
+    "area": "Sindhi Colony, Qazi Camp",
+    "latitude": 23.270496299999998,
+    "longitude": 77.4014239,
+    "place_id": "ChIJJ3oEAz5ofDkRTvdKijKJ7PI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3oEAz5ofDkRTvdKijKJ7PI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:24:55"
+  },
+  {
+    "business_name": "Florence Home Nursing Care",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Home health care service",
+    "all_categories": "Home health care service, Nursing agency, Nursing home, Aged care",
+    "pincode": "464776",
+    "phone_number": "+91 97842 85344",
+    "website": "https://www.florencehomenursingcare.com/",
+    "rating": 4.8,
+    "reviews_count": 58,
+    "address": "Madina Nagar, Azad Nagar, Indore, Madhya Pradesh 452001",
+    "area": "Madina Nagar, Azad Nagar",
+    "latitude": 22.693681299999998,
+    "longitude": 75.8871617,
+    "place_id": "ChIJD92bK4P9YjkR6HIZSpibiNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD92bK4P9YjkR6HIZSpibiNU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:24:59"
+  }
+]

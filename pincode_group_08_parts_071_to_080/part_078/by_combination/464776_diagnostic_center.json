@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Diagnostic And Scan Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "X-ray lab",
+    "all_categories": "X-ray lab",
+    "pincode": "464776",
+    "phone_number": "+91 99062 94905",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Hospital Road, opposite National Medical Hall, near Nehru Memorial Higher Secondary School, Adarsh Colony, Udhampur, Ladan, Jammu and Kashmir 182101",
+    "area": "Adarsh Colony",
+    "latitude": 32.921607,
+    "longitude": 75.13383739999999,
+    "place_id": "ChIJXY_9jmXTHTkRsp4R1GRjLbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXY_9jmXTHTkRsp4R1GRjLbU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:24:58"
+  },
+  {
+    "business_name": "Aarogyam Diagnostic Home Collection Center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "464776",
+    "phone_number": "+91 94132 92958",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vivek Goyal s/o Vishnu Chand Goyal Infront of Tulara Marriage Garden College Road, Udai Mod, Gangapur, Rajasthan 322201",
+    "area": "Karamchari Colony",
+    "latitude": 26.4861819,
+    "longitude": 76.7338565,
+    "place_id": "ChIJ_akSxCD0cTkRZ0DtFCLfT7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_akSxCD0cTkRZ0DtFCLfT7Y",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:25:00"
+  }
+]

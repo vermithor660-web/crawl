@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eventstry & Company",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "464776",
+    "phone_number": "+91 89898 29413",
+    "website": "http://www.eventstry.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Eventstry & Company, 464776, India",
+    "area": "464776",
+    "latitude": 28.550378199999997,
+    "longitude": 77.2065926,
+    "place_id": "ChIJbT0JmqLjR0MRuGc5BUDkwzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbT0JmqLjR0MRuGc5BUDkwzc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:25:41"
+  },
+  {
+    "business_name": "AGP Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Service establishment",
+    "pincode": "464776",
+    "phone_number": "+91 98926 11983",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "AGP Events, 464776, India",
+    "area": "464776",
+    "latitude": 24.571727499999998,
+    "longitude": 73.7056637,
+    "place_id": "ChIJr-KKn9blZzkRvxXS_anm6Ok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-KKn9blZzkRvxXS_anm6Ok",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:25:43"
+  }
+]

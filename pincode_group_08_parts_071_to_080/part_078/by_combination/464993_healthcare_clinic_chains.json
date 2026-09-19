@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swastik Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Cancer treatment center",
+    "all_categories": "Cancer treatment center",
+    "pincode": "464993",
+    "phone_number": "+91 755 491 0624",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 24,
+    "address": "B-43 Patel Nagar, Raisen Road, Patel Nagar, Bhopal, Madhya Pradesh 462022",
+    "area": "Patel Nagar",
+    "latitude": 23.2521998,
+    "longitude": 77.49685749999999,
+    "place_id": "ChIJXRfHUdxBfDkRx_Wq-lnoNog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXRfHUdxBfDkRx_Wq-lnoNog",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:35:57"
+  },
+  {
+    "business_name": "ESIC Hospital, Sonagiri",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, General hospital, Hospital",
+    "pincode": "464993",
+    "phone_number": "+91 1800 11 2526",
+    "website": "http://www.esic.nic.in/",
+    "rating": 3.3,
+    "reviews_count": 143,
+    "address": "7F29+54H, Raisen Rd, Near Bima Astal, Sonagiri, Bhopal, Madhya Pradesh 462022",
+    "area": "Near Bima Astal, Sonagiri",
+    "latitude": 23.2504351,
+    "longitude": 77.4678588,
+    "place_id": "ChIJP4bbSAJCfDkRR1QbKgvgMso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP4bbSAJCfDkRR1QbKgvgMso",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:35:57"
+  }
+]

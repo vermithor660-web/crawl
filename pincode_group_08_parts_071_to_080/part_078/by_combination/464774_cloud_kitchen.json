@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spice Wife Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "464774",
+    "phone_number": "+91 99267 67848",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Elixir MK City, Gwalior, Madhya Pradesh 474011",
+    "area": "464774",
+    "latitude": 26.1918039,
+    "longitude": 78.2130785,
+    "place_id": "ChIJ6fk-5QDDdjkRLGHmBFlr_RU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6fk-5QDDdjkRLGHmBFlr_RU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:22:53"
+  },
+  {
+    "business_name": "SNAPMEAL THE CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Indian takeaway",
+    "all_categories": "Indian takeaway, Food court, Meal delivery, Takeout restaurant, Restaurant, Tiffin center",
+    "pincode": "464774",
+    "phone_number": "+91 97998 66076",
+    "website": "https://snapmeal.my.canva.site/snapmeal",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "36, Shreeji Nagar, Arjun Nagar, Vasundhara Colony, Durgapura, Jaipur, Rajasthan 302018",
+    "area": "Shreeji Nagar, Arjun Nagar, Vasundhara Colony, Durgapura",
+    "latitude": 26.8464381,
+    "longitude": 75.7892925,
+    "place_id": "ChIJM00Gmoq1bTkRqNdqkl6NHCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM00Gmoq1bTkRqNdqkl6NHCw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:22:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Riddhi Siddhi Pharma",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "464986",
+    "phone_number": "+91 98384 83048",
+    "website": "https://www.riddhisiddhipharma.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Dharmsala Rd, Eastern Market, Pandit Deen Dayal Upadhyaya Nagar, Uttar Pradesh 232101",
+    "area": "Eastern Market",
+    "latitude": 25.282598,
+    "longitude": 83.12111809999999,
+    "place_id": "ChIJf-c37E47jjkReTKwOBo6f7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf-c37E47jjkReTKwOBo6f7o",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:32:13"
+  },
+  {
+    "business_name": "CRH 24 HR PHARMACY",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "464986",
+    "phone_number": "N/A",
+    "website": "http://smu.edu.in/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "8H8W+FWR, Upper Tadong, Tadong, Gangtok, Sikkim 737102",
+    "area": "Upper Tadong, Tadong",
+    "latitude": 27.316245,
+    "longitude": 88.5972543,
+    "place_id": "ChIJzxKGVgKl5jkRS4omhUALmfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzxKGVgKl5jkRS4omhUALmfA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:32:16"
+  }
+]

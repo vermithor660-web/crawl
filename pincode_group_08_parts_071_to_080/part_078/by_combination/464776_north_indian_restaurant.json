@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hungry Bird's Pure Vegetarian Food",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Punjabi restaurant",
+    "pincode": "464776",
+    "phone_number": "+91 74472 25275",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 310,
+    "address": "Main Square, Dharamkot Rd, McLeod Ganj, Dharamshala, Himachal Pradesh 176215",
+    "area": "McLeod Ganj",
+    "latitude": 32.2388352,
+    "longitude": 76.3241108,
+    "place_id": "ChIJ16r0tKVRGzkRXemuChfP1o4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ16r0tKVRGzkRXemuChfP1o4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:24:38"
+  },
+  {
+    "business_name": "Maple Tree",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "464776",
+    "phone_number": "+91 79746 12775",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Gajadhar Nagar, A-18, Airport Rd, Indore, Madhya Pradesh 452005",
+    "area": "464776",
+    "latitude": 22.7297241,
+    "longitude": 75.8134571,
+    "place_id": "ChIJT1ecipD9YjkRFEkIyByWDVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT1ecipD9YjkRFEkIyByWDVA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:24:40"
+  }
+]

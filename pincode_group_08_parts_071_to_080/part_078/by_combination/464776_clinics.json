@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "अवस्थी मेडिकल स्टोर ब्यावरा",
+    "search_category": "Clinics",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "464776",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Old AB Rd, Biaora, Madhya Pradesh 465674",
+    "area": "464776",
+    "latitude": 23.918775,
+    "longitude": 76.90981599999999,
+    "place_id": "ChIJ9Qf1IiRrezkR7KxZLvZX9hk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Qf1IiRrezkR7KxZLvZX9hk",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:24:57"
+  },
+  {
+    "business_name": "Devashish Medicals",
+    "search_category": "Clinics",
+    "primary_category": "Drug store",
+    "all_categories": "Drug store, Wholesaler",
+    "pincode": "464776",
+    "phone_number": "+91 93011 01103",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mall Rd, opp. District Hospital, Azad Nagar, Morar, Gwalior, Madhya Pradesh 474006",
+    "area": "Azad Nagar, Morar",
+    "latitude": 26.225822899999997,
+    "longitude": 78.2232289,
+    "place_id": "ChIJZR7aFF3BdjkRxgy56egTnqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZR7aFF3BdjkRxgy56egTnqA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:24:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "E Tea's South Indian Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "464551",
+    "phone_number": "+91 96693 39660",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "Indra Nagar, Ward Number 11, Mandideep, Bhopal, Madhya Pradesh 462046",
+    "area": "Indra Nagar, Ward Number 11, Mandideep",
+    "latitude": 23.0977632,
+    "longitude": 77.5155458,
+    "place_id": "ChIJl_oAdstHfDkRaYohmdSyZd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_oAdstHfDkRaYohmdSyZd4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:04:07"
+  },
+  {
+    "business_name": "Southern Roots Cafe",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "464551",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no 4, Mangalam tower Shopping Complex, Raisen Rd, Indrapuri C sector, Sector C, Indrapuri, Bhopal, Madhya Pradesh 462022",
+    "area": "Indrapuri C sector, Sector C, Indrapuri",
+    "latitude": 23.2506941,
+    "longitude": 77.4661833,
+    "place_id": "ChIJ9w63HgBDfDkRFA4Rnn0FaPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9w63HgBDfDkRFA4Rnn0FaPA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:04:08"
+  }
+]

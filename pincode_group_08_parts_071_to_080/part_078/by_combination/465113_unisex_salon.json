@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahakal Hair salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "465113",
+    "phone_number": "+91 62670 47151",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Men Road, Khatsur, Madhya Pradesh 465116",
+    "area": "465113",
+    "latitude": 23.274137399999997,
+    "longitude": 76.58644559999999,
+    "place_id": "ChIJlbD4CrK3fDkR-i2UOqZjxuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlbD4CrK3fDkR-i2UOqZjxuU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:43:32"
+  },
+  {
+    "business_name": "JH Premium Salon by Abhishek",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Barber shop, Charter school",
+    "pincode": "465113",
+    "phone_number": "+91 85768 88188",
+    "website": "https://www.facebook.com/The-Makeup-Studio-MAC-BOBBI-BROWN-Jhansi-235297980303182/",
+    "rating": 4.9,
+    "reviews_count": 1414,
+    "address": "first Floor, Sadar Bazar - Jhansi Rd, above Central Bank of india, in front of HP petrol pump, Civil Lines, Cantt, Jhansi, Uttar Pradesh 284001",
+    "area": "Civil Lines, Cantt",
+    "latitude": 25.438119699999998,
+    "longitude": 78.5823746,
+    "place_id": "ChIJkT6vcDt3dzkRPdnysBsQ0Cc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkT6vcDt3dzkRPdnysBsQ0Cc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:43:34"
+  }
+]

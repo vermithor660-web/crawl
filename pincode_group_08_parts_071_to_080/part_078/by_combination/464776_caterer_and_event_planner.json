@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lakhpati Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Wedding buffet",
+    "pincode": "464776",
+    "phone_number": "+91 62328 88707",
+    "website": "http://www.thelakhpati.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Dhamlaxmi Apartment, 134/46, Sapna Sangeeta Rd, behind INOX, Old Agarwal Nagar, Indore, Madhya Pradesh 452001",
+    "area": "Old Agarwal Nagar",
+    "latitude": 22.7021968,
+    "longitude": 75.8713515,
+    "place_id": "ChIJM5nDFHADYzkRgHOCChmS0yA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5nDFHADYzkRgHOCChmS0yA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:25:36"
+  },
+  {
+    "business_name": "Foodsqure",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Tiffin Service Provider, Food and beverage consultant, Restaurant supply store",
+    "pincode": "464776",
+    "phone_number": "+91 76490 37163",
+    "website": "http://foodsqure.com/",
+    "rating": 4.2,
+    "reviews_count": 41,
+    "address": "near Anant hospital, beside Ashu motors, Wright Town, Jabalpur, Madhya Pradesh 482002",
+    "area": "Wright Town",
+    "latitude": 23.1647094,
+    "longitude": 79.9217754,
+    "place_id": "ChIJpT2i2SWugTkREPbbT6GkyaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpT2i2SWugTkREPbbT6GkyaQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:25:37"
+  }
+]

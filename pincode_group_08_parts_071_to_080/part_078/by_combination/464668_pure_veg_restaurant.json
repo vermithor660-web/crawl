@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANJALI RESTAURANT",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "464668",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 17,
+    "address": "263J+FP6, Bareli, Madhya Pradesh 464665",
+    "area": "464668",
+    "latitude": 23.0036715,
+    "longitude": 78.2317798,
+    "place_id": "ChIJA6YFNbqLfjkRxfjuBic7IU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6YFNbqLfjkRxfjuBic7IU4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:15:30"
+  },
+  {
+    "business_name": "Shree Thakur ji restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "464668",
+    "phone_number": "+91 98939 27588",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Udaipura, Madhya Pradesh 464770",
+    "area": "464668",
+    "latitude": 23.074195099999997,
+    "longitude": 78.5351695,
+    "place_id": "ChIJ41o0SgD7fjkRWnUtbJBVJQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ41o0SgD7fjkRWnUtbJBVJQw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:15:34"
+  }
+]

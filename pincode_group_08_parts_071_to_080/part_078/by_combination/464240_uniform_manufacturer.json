@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MK Garments",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Uniform store",
+    "all_categories": "Uniform store, Clothing manufacturer, Clothing store, Clothing wholesaler, Custom t-shirt store, Custom tailor, Promotional products supplier, Sportswear store, Tailor, Work clothes store",
+    "pincode": "464240",
+    "phone_number": "+91 98669 86466",
+    "website": "https://www.mkgarments.com/",
+    "rating": 4.8,
+    "reviews_count": 64,
+    "address": "Number 10, 33-121/1/B Street, behind hetro drugs company, Rajiv Gandhi Nagar, Suraram, Hyderabad, Telangana 500055",
+    "area": "Rajiv Gandhi Nagar, Suraram",
+    "latitude": 17.5338584,
+    "longitude": 78.4308556,
+    "place_id": "ChIJibzLwMyPyzsRqoQt1Bel3hQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJibzLwMyPyzsRqoQt1Bel3hQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:55:04"
+  },
+  {
+    "business_name": "Shubham Uniforms",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "464240",
+    "phone_number": "+91 94065 31970",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 12,
+    "address": "Padmakar Nagar, Makroniya, Madhya Pradesh 470004",
+    "area": "Padmakar Nagar",
+    "latitude": 23.851536799999998,
+    "longitude": 78.78635609999999,
+    "place_id": "ChIJ54GqTXPReDkRKDknNlS2IAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ54GqTXPReDkRKDknNlS2IAc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:55:04"
+  }
+]

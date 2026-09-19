@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pipalrawa",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "465113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "5F9P+V3Q, Pipalrawan, Madhya Pradesh 455118",
+    "area": "465113",
+    "latitude": 23.1697162,
+    "longitude": 76.4852265,
+    "place_id": "ChIJabLUBgDLfDkRGl-XePspLg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJabLUBgDLfDkRGl-XePspLg4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:42:52"
+  },
+  {
+    "business_name": "Sukoon Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "465113",
+    "phone_number": "+91 80858 91132",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bus Stand, Sonkatch Road, Pipalrawan, Madhya Pradesh 455118",
+    "area": "465113",
+    "latitude": 23.160052699999998,
+    "longitude": 76.4706138,
+    "place_id": "ChIJzxugd13LfDkRrmYKNgfQLqs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzxugd13LfDkRrmYKNgfQLqs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:42:54"
+  }
+]

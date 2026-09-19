@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kushal Book Point",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Magazine store, Newsstand",
+    "pincode": "464990",
+    "phone_number": "+91 99777 37727",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 117,
+    "address": "Shop No.3, Nutan Complex, Old Bus Stand Rd, Raipur, Chhattisgarh 492001",
+    "area": "464990",
+    "latitude": 21.2436418,
+    "longitude": 81.6370215,
+    "place_id": "ChIJgb1zqKLdKDoRC2XvU93qyGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgb1zqKLdKDoRC2XvU93qyGg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:34:51"
+  },
+  {
+    "business_name": "P.D.Book Corner",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "464990",
+    "phone_number": "+91 98272 63797",
+    "website": "https://www.facebook.com/pdbookcorner/",
+    "rating": 4.1,
+    "reviews_count": 39,
+    "address": "Chandi Devi Road, Near Ghanta Ghar, Vijayraghavgarh - Maihar - Satna Rd, Maihar, Madhya Pradesh 485771",
+    "area": "464990",
+    "latitude": 24.2605175,
+    "longitude": 80.76201089999999,
+    "place_id": "ChIJ0QaBzCaLgzkRokKsHiklk_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0QaBzCaLgzkRokKsHiklk_w",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:34:52"
+  }
+]

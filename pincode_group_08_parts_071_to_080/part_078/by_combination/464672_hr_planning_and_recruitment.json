@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Find Jobs Consultancy",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "464672",
+    "phone_number": "+91 97831 44808",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Find Jobs Consultancy, 464672, India",
+    "area": "464672",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJn2Xd88K8xK8RYIX1BHqghsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn2Xd88K8xK8RYIX1BHqghsQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:20:30"
+  },
+  {
+    "business_name": "RighTurn - Human Resource Management",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "464672",
+    "phone_number": "+91 96115 54274",
+    "website": "https://www.righturnhr.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RighTurn - Human Resource Management, 464672, India",
+    "area": "464672",
+    "latitude": 31.1368926,
+    "longitude": 45.488345699999996,
+    "place_id": "ChIJb1ePuY8RrjsRL9ZG1apeeFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb1ePuY8RrjsRL9ZG1apeeFI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:20:30"
+  }
+]

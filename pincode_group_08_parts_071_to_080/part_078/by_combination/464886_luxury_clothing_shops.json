@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion Designer",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "464886",
+    "phone_number": "+91 62653 74485",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "18, Udyepura Rod, Madhya Pradesh 464570",
+    "area": "464886",
+    "latitude": 23.3616009,
+    "longitude": 78.4581086,
+    "place_id": "ChIJ3xmcAiHDfjkRWlmFvhRz9Ms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3xmcAiHDfjkRWlmFvhRz9Ms",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:30:27"
+  },
+  {
+    "business_name": "Yami Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "464886",
+    "phone_number": "+91 96451 56304",
+    "website": "https://www.yamiboutique.in/",
+    "rating": 5,
+    "reviews_count": 103,
+    "address": "Kanakkary, Ettumanoor, Keralam 686632",
+    "area": "464886",
+    "latitude": 9.7025589,
+    "longitude": 76.5471541,
+    "place_id": "ChIJBQqHZFnVBzsRQIkxGCaecmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBQqHZFnVBzsRQIkxGCaecmM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:30:28"
+  }
+]

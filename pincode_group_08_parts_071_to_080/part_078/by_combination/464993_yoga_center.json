@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ankit Lowanshi",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "464993",
+    "phone_number": "+91 89898 23933",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ward no.21, Lupin park, Vidya Nagar, Mandideep, Bhopal, Madhya Pradesh 462046",
+    "area": "Vidya Nagar, Mandideep",
+    "latitude": 23.099318999999998,
+    "longitude": 77.5114825,
+    "place_id": "ChIJj5Ja8h9HfDkRJ5cJaoRDTLE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj5Ja8h9HfDkRJ5cJaoRDTLE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:35:56"
+  },
+  {
+    "business_name": "Yoga With Vasu",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga instructor",
+    "all_categories": "Yoga instructor, Meditation Class",
+    "pincode": "464993",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "Guari Shankar Parishar, Madhya Pradesh 462043",
+    "area": "464993",
+    "latitude": 23.1859507,
+    "longitude": 77.4987582,
+    "place_id": "ChIJVT3vG3dBfDkROXp0lZPDams",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVT3vG3dBfDkROXp0lZPDams",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:35:58"
+  }
+]

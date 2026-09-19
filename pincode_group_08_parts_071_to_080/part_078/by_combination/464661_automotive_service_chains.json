@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHRISTI AUTO MOBILE",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "464661",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bihar 851211",
+    "area": "464661",
+    "latitude": 25.4268251,
+    "longitude": 86.3230306,
+    "place_id": "ChIJvy3hr1j38TkR8RA-h1gHWtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvy3hr1j38TkR8RA-h1gHWtk",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:12:31"
+  },
+  {
+    "business_name": "JCN auto works and car service",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto body shop",
+    "all_categories": "Auto body shop",
+    "pincode": "464661",
+    "phone_number": "+91 73058 51834",
+    "website": "https://jcnauto.shop/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1 ambethker, Srinivasa Nagar Main Rd, chitlapakam, Chitlapakkam, Tambaram, Tamil Nadu 600064",
+    "area": "chitlapakam, Chitlapakkam",
+    "latitude": 12.933581499999999,
+    "longitude": 80.1482583,
+    "place_id": "ChIJgYy86nBfUjoRIZjLoVfPYVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgYy86nBfUjoRIZjLoVfPYVQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:12:31"
+  }
+]

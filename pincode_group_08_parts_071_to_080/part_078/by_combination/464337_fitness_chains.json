@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Global Fitness Temple",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "464337",
+    "phone_number": "+91 96300 36698",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "near Glossy Star Public School, Ghasmandi, Morar, Gwalior, Madhya Pradesh 474006",
+    "area": "Ghasmandi, Morar",
+    "latitude": 26.2191156,
+    "longitude": 78.22946879999999,
+    "place_id": "ChIJlVyjWUPBdjkRTSVnjtBJTfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlVyjWUPBdjkRTSVnjtBJTfs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:02:41"
+  },
+  {
+    "business_name": "DR FITNESS GYM",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "464337",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "MS Rd, near by OLD PETROL PUMP, Sabalgarh, Madhya Pradesh 476229",
+    "area": "464337",
+    "latitude": 26.2511115,
+    "longitude": 77.4141118,
+    "place_id": "ChIJu63ubcFtcTkR3rsZh93FiS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu63ubcFtcTkR3rsZh93FiS4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:02:41"
+  }
+]

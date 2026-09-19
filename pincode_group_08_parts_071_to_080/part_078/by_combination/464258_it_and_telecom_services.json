@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "464258",
+    "phone_number": "+91 94067 75385",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ravikant jain, jain stationary, Nateran, Madhya Pradesh 464258",
+    "area": "464258",
+    "latitude": 23.762515999999998,
+    "longitude": 77.77657099999999,
+    "place_id": "ChIJISM6Lkj7ezkRrFGIbwOVjtI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJISM6Lkj7ezkRrFGIbwOVjtI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:57:55"
+  },
+  {
+    "business_name": "Jio sim mnp",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Satellite Communication Services Provider",
+    "all_categories": "Satellite Communication Services Provider",
+    "pincode": "464258",
+    "phone_number": "+91 70490 51280",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VW6F+RR5 ke samne, samrat ashok school, Sironj - Bareth Bypass, Ganj Basoda, Bedan Khedi, Madhya Pradesh 464221",
+    "area": "464258",
+    "latitude": 23.8620216,
+    "longitude": 77.9244878,
+    "place_id": "ChIJP2AgtcjjezkRgf6DWuSLupc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP2AgtcjjezkRgf6DWuSLupc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:57:55"
+  }
+]

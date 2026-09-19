@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Sandals Point",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "464886",
+    "phone_number": "+91 96172 07051",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jawahar Chowk, Udaipura, Distt. Raisen 464770",
+    "area": "464886",
+    "latitude": 23.0757714,
+    "longitude": 78.51324869999999,
+    "place_id": "ChIJ_TFowTb6fjkRMqGtoxK3RuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_TFowTb6fjkRMqGtoxK3RuQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:30:22"
+  },
+  {
+    "business_name": "Shoes N Heels",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "464886",
+    "phone_number": "+91 99776 50786",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "Plot No.3, Raisen Rd, Near Piplani Petrol Pump, Sonagiri, Bhopal, Madhya Pradesh 462022",
+    "area": "Sonagiri",
+    "latitude": 23.249470799999997,
+    "longitude": 77.47024669999999,
+    "place_id": "ChIJZXtPgPhBfDkRcv4Vp_nMbzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXtPgPhBfDkRcv4Vp_nMbzs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:30:23"
+  }
+]

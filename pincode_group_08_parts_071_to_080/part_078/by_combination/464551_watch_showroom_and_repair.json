@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepak watch & Electronics",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "464551",
+    "phone_number": "+91 98260 88886",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "73,78,86 Vijay Market, Berkhera, Vijay Market, BHEL, Bhopal, Madhya Pradesh 462022",
+    "area": "Vijay Market, Sector A, BHEL",
+    "latitude": 23.2270565,
+    "longitude": 77.46682729999999,
+    "place_id": "ChIJ53gW2wVCfDkRFKgJ8lN7Mqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ53gW2wVCfDkRFKgJ8lN7Mqw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:04:24"
+  },
+  {
+    "business_name": "Maa Sharda Jewellers",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "464551",
+    "phone_number": "+91 97536 85059",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Friday Market, Satlapur, near Digital India shop, Mandideep, Madhya Pradesh 462046",
+    "area": "New Satlapur",
+    "latitude": 23.110383799999997,
+    "longitude": 77.52540069999999,
+    "place_id": "ChIJ_YjhJ7BHfDkRHuB8CkqOQo0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_YjhJ7BHfDkRHuB8CkqOQo0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:04:24"
+  }
+]

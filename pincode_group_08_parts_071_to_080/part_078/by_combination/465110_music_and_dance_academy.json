@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Geet Studio",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance company",
+    "all_categories": "Dance company, Event management company, Fitness center, Guitar instructor, Music school, Wedding planner, Wedding service, Yoga studio",
+    "pincode": "465110",
+    "phone_number": "+91 87704 09447",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "85, opp. Tulip kids international school, Shree Nagar Main Colony, Shree Nagar, Indore, Madhya Pradesh 452018",
+    "area": "Shree Nagar Main Colony, Shree Nagar",
+    "latitude": 22.727697499999998,
+    "longitude": 75.8933632,
+    "place_id": "ChIJV4Xc1i5hgTkRojaYUJzu-CY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4Xc1i5hgTkRojaYUJzu-CY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:42:04"
+  },
+  {
+    "business_name": "Aawaz Academy of Music",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Music school",
+    "all_categories": "Music school",
+    "pincode": "465110",
+    "phone_number": "+91 95847 10748",
+    "website": "https://instagram.com/aawaz_academy_of_music?igshid=YzU1NGVlODEzOA==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "B-6, Prince Palace, 6-JANKI NAGAR, Bhawarkua Main Rd, NX, Navlakha, Indore, Madhya Pradesh 452001",
+    "area": "Angad Kapoor Region, NX, Navlakha",
+    "latitude": 22.6975412,
+    "longitude": 75.8762354,
+    "place_id": "ChIJs_D1NzP9YjkR0Ks_AIj_fg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs_D1NzP9YjkR0Ks_AIj_fg0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:42:04"
+  }
+]

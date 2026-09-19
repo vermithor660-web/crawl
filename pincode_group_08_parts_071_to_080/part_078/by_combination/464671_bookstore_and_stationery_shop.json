@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivangi corner",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "464671",
+    "phone_number": "+91 98270 30229",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "ward number 11, Gandhi Chabutra Near उत्तम जनरल स्टोर्स Udaipura, Udaipura, Madhya Pradesh 464770",
+    "area": "464671",
+    "latitude": 23.075182899999998,
+    "longitude": 78.5131115,
+    "place_id": "ChIJjf___zb6fjkRMeLM4MqpoVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjf___zb6fjkRMeLM4MqpoVc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:18:25"
+  },
+  {
+    "business_name": "Ahmad old book stall",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "464671",
+    "phone_number": "+91 97551 18450",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "Market Rd Number 10, E-4, Arera Colony, Bhopal, Madhya Pradesh 462016",
+    "area": "E-4, Arera Colony",
+    "latitude": 23.2151335,
+    "longitude": 77.4359386,
+    "place_id": "ChIJvYjHHE5CfDkR6TL0pGMYFww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvYjHHE5CfDkR6TL0pGMYFww",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:18:26"
+  }
+]

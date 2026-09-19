@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHIVAM RAGHUWANSHI",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "464672",
+    "phone_number": "+91 70672 99729",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SHIVAM RAGHUWANSHI, Khargone, Madhya Pradesh 464672",
+    "area": "464672",
+    "latitude": 23.0965034,
+    "longitude": 78.31647459999999,
+    "place_id": "ChIJPctTDIbzfjkRx-ZE0iDRgJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPctTDIbzfjkRx-ZE0iDRgJs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:19:46"
+  },
+  {
+    "business_name": "KAPIL ENTERPRISES",
+    "search_category": "Hardware Store",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Painter, Plumbing supply store, Rainwater tank supplier, Sanitation service",
+    "pincode": "464672",
+    "phone_number": "+91 93008 38405",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "1132,NEW ROAD SCHEME NO .114,PART - 1, NAI SADAK, opp. CRICHAN QUATER, Vijay Nagar, Indore, Madhya Pradesh 452010",
+    "area": "Vijay Nagar, Part I, Scheme No 114",
+    "latitude": 22.768330499999998,
+    "longitude": 75.8943003,
+    "place_id": "ChIJJUi8a7QCYzkREzRSrsjW7jE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJUi8a7QCYzkREzRSrsjW7jE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:19:47"
+  }
+]

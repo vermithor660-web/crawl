@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rishi Agro Sales",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural Seed Store",
+    "all_categories": "Agricultural Seed Store",
+    "pincode": "464570",
+    "phone_number": "+91 94140 53037",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 27,
+    "address": "Paliwal Plaza, Ajmeri Gate, Sangram Colony, Ashok Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302001",
+    "area": "Ajmeri Gate, Sangram Colony, Ashok Nagar",
+    "latitude": 26.9160783,
+    "longitude": 75.8158042,
+    "place_id": "ChIJDV4MMKy2bTkR394xAP7wjdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDV4MMKy2bTkR394xAP7wjdw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:07:42"
+  },
+  {
+    "business_name": "Geolife Authorised Dealer - Suraj Krishi Seva Kendra - Silwani",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service, Agricultural Product Wholesaler, Fertilizer Store, Agricultural Seed Store",
+    "pincode": "464570",
+    "phone_number": "N/A",
+    "website": "https://www.geolife.com/dealer/madhya-pradesh/suraj-krishi-seva-kendra-fertilizers-and-pesticides-silwani.html",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "Gram Umarjhir, Tehsil, Silwani, Madhya Pradesh 464886",
+    "area": "Tehsil",
+    "latitude": 23.296115999999998,
+    "longitude": 78.443899,
+    "place_id": "ChIJ29cCrnLpfjkRETkhKrvs62E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29cCrnLpfjkRETkhKrvs62E",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:07:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajvi Events Management",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Advertising agency, Balloon store, Banquet hall, DJ service, Event management company, Event planner, Event venue, Florist, Restaurant supply store",
+    "pincode": "465106",
+    "phone_number": "+91 95746 92507",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "RADHE SQUARE, Reliance Circle, Kudasan, Gandhinagar, Gujarat 382419",
+    "area": "Kudasan",
+    "latitude": 23.1848665,
+    "longitude": 72.6298582,
+    "place_id": "ChIJa7sw5g8rXDkRte3SmsT6SGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa7sw5g8rXDkRte3SmsT6SGY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:40:02"
+  },
+  {
+    "business_name": "Shyam balloon decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "465106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NEW COLONY, Maksi, Madhya Pradesh 465106",
+    "area": "NEW COLONY",
+    "latitude": 23.2594191,
+    "longitude": 76.14648849999999,
+    "place_id": "ChIJ680LIxxDYzkRacCU_IBbw7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ680LIxxDYzkRacCU_IBbw7o",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:40:02"
+  }
+]

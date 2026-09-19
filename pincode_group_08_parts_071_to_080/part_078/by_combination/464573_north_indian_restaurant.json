@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shane Punjab Dhaba & Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant",
+    "pincode": "464573",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "Bari, Madhya Pradesh 464668",
+    "area": "464573",
+    "latitude": 23.0329361,
+    "longitude": 78.0737511,
+    "place_id": "ChIJaaKyhqOJfjkREIIaYg3mn2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaaKyhqOJfjkREIIaYg3mn2M",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:08:06"
+  },
+  {
+    "business_name": "Bhavsar Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Breakfast restaurant",
+    "pincode": "464573",
+    "phone_number": "+91 98936 76546",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 176,
+    "address": "Bareli, Madhya Pradesh 464665",
+    "area": "464573",
+    "latitude": 23.0023125,
+    "longitude": 78.22818749999999,
+    "place_id": "ChIJ43wEt7mLfjkR13FRlzjvBA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ43wEt7mLfjkR13FRlzjvBA4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:08:06"
+  }
+]

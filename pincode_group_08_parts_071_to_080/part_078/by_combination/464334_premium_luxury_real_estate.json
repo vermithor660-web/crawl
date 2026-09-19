@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Premium Properties",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate rental agency",
+    "all_categories": "Real estate rental agency",
+    "pincode": "464334",
+    "phone_number": "+91 72765 89078",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "New Tungarli Rd, Tungarli, Lonavala, Maharashtra 410403",
+    "area": "Tungarli",
+    "latitude": 18.7594097,
+    "longitude": 73.4029955,
+    "place_id": "ChIJicikM5EB6DsRAv7BkzVWcoQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJicikM5EB6DsRAv7BkzVWcoQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:01:48"
+  },
+  {
+    "business_name": "Myans Luxury Villas",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Gated community",
+    "all_categories": "Gated community",
+    "pincode": "464334",
+    "phone_number": "+91 95005 55371",
+    "website": "http://www.mayances.com/",
+    "rating": 4.6,
+    "reviews_count": 72,
+    "address": "Kanathur, 34, SH 49, Kannathur Reddy Kuppam, Tamil Nadu 603112",
+    "area": "464334",
+    "latitude": 12.8472587,
+    "longitude": 80.2392126,
+    "place_id": "ChIJE98N8vtaUjoRHZo0RBUNakc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE98N8vtaUjoRHZo0RBUNakc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:01:48"
+  }
+]

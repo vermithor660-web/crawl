@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Golden Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "464884",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "shop no. 5, opposite bank of India, idgah market, Gairatganj, Madhya Pradesh 464884",
+    "area": "idgah market",
+    "latitude": 23.407755299999998,
+    "longitude": 78.2220431,
+    "place_id": "ChIJaY5Qj2W_fjkROjhU7IG3Fk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaY5Qj2W_fjkROjhU7IG3Fk4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:28:50"
+  },
+  {
+    "business_name": "Vehicular Care Center",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto painting, Mechanic, Garage, Towing service",
+    "pincode": "464884",
+    "phone_number": "+91 90983 90937",
+    "website": "https://jsdl.in/DT-29ZTN6XC4QQ",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Shop No. 2, Infront of Staar Vision Financial Service, Bengali Square, Bicholi Hapsi Main Rd, near Love Kush Vidhya Vihar School, Sri Mangal Nagar, Indore, Madhya Pradesh 452016",
+    "area": "Sri Mangal Nagar",
+    "latitude": 22.7143767,
+    "longitude": 75.91253429999999,
+    "place_id": "ChIJ8wgUcE3jYjkR-K1zPGIPEGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8wgUcE3jYjkR-K1zPGIPEGg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:28:53"
+  }
+]

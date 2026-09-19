@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KALPANA Medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical Center",
+    "pincode": "464671",
+    "phone_number": "+91 91110 38495",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Community health centre, Udaipura, Madhya Pradesh 464770",
+    "area": "464671",
+    "latitude": 23.0775744,
+    "longitude": 78.5069278,
+    "place_id": "ChIJm1CE7s77fjkR71y5mOSHwlI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm1CE7s77fjkR71y5mOSHwlI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:17:34"
+  },
+  {
+    "business_name": "Mediforall Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "464671",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Palanpur, Surat, Gujarat 395009",
+    "area": "Palanpur",
+    "latitude": 21.2108779,
+    "longitude": 72.7684428,
+    "place_id": "ChIJE9J9qVxM4DsRLb0ga0IgJ7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE9J9qVxM4DsRLb0ga0IgJ7M",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:17:34"
+  }
+]

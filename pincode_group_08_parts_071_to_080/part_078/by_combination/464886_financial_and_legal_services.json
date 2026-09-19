@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indiana Financial Services",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "464886",
+    "phone_number": "+91 98283 44405",
+    "website": "http://www.indianafs.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "First Floor, Metro Station Shayam Nagar Shayam Nagar Metro Station, Pillar Number- 119, F- 5, New Sanganer Rd, near Shyam Nagar, Kailashpuri, Ramnagar Extension, Sodala, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302019",
+    "area": "Kailashpuri, Ramnagar Extension, Sodala",
+    "latitude": 26.8971754,
+    "longitude": 75.7709276,
+    "place_id": "ChIJr6ndty21bTkRgtVHMSurVIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr6ndty21bTkRgtVHMSurVIU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:31:30"
+  },
+  {
+    "business_name": "Jaipur Legal Solution",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Law firm",
+    "all_categories": "Law firm, Criminal justice attorney, Divorce lawyer, Family law attorney, Lawyer, Legal services",
+    "pincode": "464886",
+    "phone_number": "+91 85628 00292",
+    "website": "https://jaipurlegalsolution.com/",
+    "rating": 5,
+    "reviews_count": 47,
+    "address": "96, Agra Rd, New Khandelwal Nagar, Prem Nagar, Jaipur, Rajasthan 302031",
+    "area": "New Khandelwal Nagar, Prem Nagar",
+    "latitude": 26.888002399999998,
+    "longitude": 75.88367819999999,
+    "place_id": "ChIJH1RXROC3bTkRLcNFi8jlI_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH1RXROC3bTkRLcNFi8jlI_g",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:31:31"
+  }
+]

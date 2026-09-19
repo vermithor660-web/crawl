@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay greens",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "464228",
+    "phone_number": "+91 70000 34456",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 82,
+    "address": "Malhargarh road, Mungaoli, Madhya Pradesh 473443",
+    "area": "464228",
+    "latitude": 24.4031132,
+    "longitude": 78.0988232,
+    "place_id": "ChIJdVBtchV5eTkRKELPl1X4h8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdVBtchV5eTkRKELPl1X4h8M",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:54:00"
+  },
+  {
+    "business_name": "Kundan Resort mungaoli",
+    "search_category": "Resort",
+    "primary_category": "Marriage celebrant",
+    "all_categories": "Marriage celebrant",
+    "pincode": "464228",
+    "phone_number": "+91 96912 34119",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "C3GW+CW3, Mungaoli, Bharat Pura, Madhya Pradesh 473443",
+    "area": "464228",
+    "latitude": 24.426012,
+    "longitude": 78.0972982,
+    "place_id": "ChIJL2xXLQ94eTkRoUS_lkw4QzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL2xXLQ94eTkRoUS_lkw4QzY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:54:02"
+  }
+]

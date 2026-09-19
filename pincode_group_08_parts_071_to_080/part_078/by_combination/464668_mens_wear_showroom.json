@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fancy Girls Wear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "464668",
+    "phone_number": "+91 98936 45024",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Naveen Talkies Rd, Chhota Bazar, Bareli, Madhya Pradesh 464665",
+    "area": "Chhota Bazar",
+    "latitude": 23.0056264,
+    "longitude": 78.2307518,
+    "place_id": "ChIJA0JX9E6LfjkR3-XAebxec7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA0JX9E6LfjkR3-XAebxec7g",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:15:37"
+  },
+  {
+    "business_name": "Shirram Kapda Shop",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "464668",
+    "phone_number": "+91 78693 51251",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "09, Bareli, Madhya Pradesh 464665",
+    "area": "464668",
+    "latitude": 23.004894999999998,
+    "longitude": 78.23605119999999,
+    "place_id": "ChIJycBbd8yLfjkRnwRbrMTfKZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJycBbd8yLfjkRnwRbrMTfKZk",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:15:39"
+  }
+]

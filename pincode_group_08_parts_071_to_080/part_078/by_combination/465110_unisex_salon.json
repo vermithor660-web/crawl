@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhatiya Hair Style",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "465110",
+    "phone_number": "+91 91713 08494",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "03 Mata Mandir Ke Piche, Bus Stand, 03 Mata Mandir Ke Piche, Shajapur, Madhya Pradesh 465001",
+    "area": "Lalpura",
+    "latitude": 23.4199532,
+    "longitude": 76.2751284,
+    "place_id": "ChIJq1_cLfVRYzkRQ9nrHJdOXVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq1_cLfVRYzkRQ9nrHJdOXVw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:41:46"
+  },
+  {
+    "business_name": "City Collections",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Products Wholesaler",
+    "all_categories": "Beauty Products Wholesaler",
+    "pincode": "465110",
+    "phone_number": "+91 96053 51230",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Sarhan Building, Old, Chithra Theatre Ln, Aryasala, Chalai, Thiruvananthapuram, Keralam 695036",
+    "area": "Aryasala, Chalai",
+    "latitude": 8.4834635,
+    "longitude": 76.9545814,
+    "place_id": "ChIJZXlazaW7BTsRG6TX2_NKglc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXlazaW7BTsRG6TX2_NKglc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:41:48"
+  }
+]

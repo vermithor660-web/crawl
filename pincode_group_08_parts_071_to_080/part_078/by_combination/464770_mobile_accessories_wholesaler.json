@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rekha Mobile Shop",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "464770",
+    "phone_number": "+91 97551 02596",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "01, Barely, Udaipura, Madhya Pradesh 464770",
+    "area": "464770",
+    "latitude": 23.072745899999997,
+    "longitude": 78.5131938,
+    "place_id": "ChIJpWM5yur7fjkRO5bKGnf0UFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpWM5yur7fjkRO5bKGnf0UFc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:22:09"
+  },
+  {
+    "business_name": "Vaibhav Communication",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "464770",
+    "phone_number": "+91 98371 19729",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bagrain, Manakpur, Uttar Pradesh 243725",
+    "area": "464770",
+    "latitude": 28.3008773,
+    "longitude": 79.03427789999999,
+    "place_id": "ChIJESt4tuy1CjkRnyGPJWvCS9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJESt4tuy1CjkRnyGPJWvCS9A",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:22:10"
+  }
+]

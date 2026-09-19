@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sachin",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Visa Agent",
+    "all_categories": "Visa Agent",
+    "pincode": "464258",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "QQFC+3GH, Rajoda post ainchda nateran Rajoda post ainchda nateran, Madhya Pradesh, 464258",
+    "area": "464258",
+    "latitude": 23.7726991,
+    "longitude": 77.77134819999999,
+    "place_id": "ChIJyXLIJc37ezkRSGqOIj138iI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXLIJc37ezkRSGqOIj138iI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:57:16"
+  },
+  {
+    "business_name": "Shree Tour And Travles",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "464258",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 44,
+    "address": "Shree Tour And Travles, 464258, India",
+    "area": "464258",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJg27Kq_AfhQkR8o7wSNrxXow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg27Kq_AfhQkR8o7wSNrxXow",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:57:17"
+  }
+]

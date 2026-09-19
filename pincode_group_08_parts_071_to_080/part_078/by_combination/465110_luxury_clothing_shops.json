@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aanchal Collection",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Dress store",
+    "all_categories": "Dress store",
+    "pincode": "465110",
+    "phone_number": "+91 99267 56725",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "C7GG+6XJ, Shajapur, Madhya Pradesh 465001",
+    "area": "Shajapur",
+    "latitude": 23.425580399999998,
+    "longitude": 76.2773962,
+    "place_id": "ChIJ9zyP-KVQYzkRfoeFMX_WXs8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9zyP-KVQYzkRfoeFMX_WXs8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:41:14"
+  },
+  {
+    "business_name": "Amber Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "465110",
+    "phone_number": "+91 86609 33172",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 28,
+    "address": "1 st floor, Itagi Complex, Solapur bypass road, behind Itagi Petrol Pump, Vijayapura, Karnataka 586108",
+    "area": "465110",
+    "latitude": 16.8295548,
+    "longitude": 75.68601579999999,
+    "place_id": "ChIJ40-YOQT_xjsRYmG9yB03eao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ40-YOQT_xjsRYmG9yB03eao",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:41:14"
+  }
+]

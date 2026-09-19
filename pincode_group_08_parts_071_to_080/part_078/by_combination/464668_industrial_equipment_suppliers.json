@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahil Traders",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Furnace parts supplier",
+    "all_categories": "Furnace parts supplier",
+    "pincode": "464668",
+    "phone_number": "+91 98939 27142",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "23JG+W7V, Bari, Madhya Pradesh 464668",
+    "area": "464668",
+    "latitude": 23.0323586,
+    "longitude": 78.07568429999999,
+    "place_id": "ChIJV-EqkNCFfjkRKPTMEMjepPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV-EqkNCFfjkRKPTMEMjepPA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:16:59"
+  },
+  {
+    "business_name": "RATHI MACHINERY STORES",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Agricultural service",
+    "pincode": "464668",
+    "phone_number": "+91 98932 54301",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 9,
+    "address": "RATHI MACHINERY STORES, PREM NAGAR, Udaipura, Madhya Pradesh 464770",
+    "area": "PREM NAGAR",
+    "latitude": 23.0711186,
+    "longitude": 78.5115821,
+    "place_id": "ChIJR6xpFCj7fjkRNuOXktqqKX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR6xpFCj7fjkRNuOXktqqKX4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:17:01"
+  }
+]

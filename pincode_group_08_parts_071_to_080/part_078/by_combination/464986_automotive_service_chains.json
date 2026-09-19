@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Arjun Car Care",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "464986",
+    "phone_number": "+91 90900 49991",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 149,
+    "address": "8VWP+342, Pahala, Bhubaneswar, Odisha 751032",
+    "area": "464986",
+    "latitude": 20.3448671,
+    "longitude": 85.88521229999999,
+    "place_id": "ChIJkTlF6-MLGToRkdTBEh8dHk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTlF6-MLGToRkdTBEh8dHk0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:32:35"
+  },
+  {
+    "business_name": "Maa Auto Service Centre",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Mechanic",
+    "pincode": "464986",
+    "phone_number": "+91 90877 65082",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Ward No 03, Sankat Mochan Hanuman Mandir, 001, Nabani, Raghunandanpur, Bihar 847109",
+    "area": "464986",
+    "latitude": 26.287921599999997,
+    "longitude": 86.3458003,
+    "place_id": "ChIJHQYfAD597jkRdcCV9vcw63c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHQYfAD597jkRdcCV9vcw63c",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:32:35"
+  }
+]

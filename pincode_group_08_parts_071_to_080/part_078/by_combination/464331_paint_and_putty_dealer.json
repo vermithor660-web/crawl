@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinayak paints and hardware",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "464331",
+    "phone_number": "+91 88396 03583",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C67H+QPH, Gairatganj, Madhya Pradesh 464884",
+    "area": "464331",
+    "latitude": 23.4143386,
+    "longitude": 78.229338,
+    "place_id": "ChIJlzgteAC5fjkRySSNpz1QiUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlzgteAC5fjkRySSNpz1QiUs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:59:06"
+  },
+  {
+    "business_name": "Poonam Paints Corporation",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Construction Material Wholesaler, Paintings store, Waterproofing service",
+    "pincode": "464331",
+    "phone_number": "+91 98600 44500",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 79,
+    "address": "270, 2, Jawaharlal Nehru Rd, New Timber Market, Bhawani Peth, Pune, Maharashtra 411002",
+    "area": "New Timber Market, Bhawani Peth",
+    "latitude": 18.50695,
+    "longitude": 73.8686724,
+    "place_id": "ChIJz7Xpdj_AwjsRbHVbnUMF3PM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz7Xpdj_AwjsRbHVbnUMF3PM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:59:08"
+  }
+]

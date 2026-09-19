@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siddhatma Organic Foods",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "465116",
+    "phone_number": "+91 91798 50006",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Narang Complex, 25/2, Bhoj Marg, Freeganj, Madhav Nagar, Ujjain, Madhya Pradesh 456010",
+    "area": "Freeganj, Madhav Nagar",
+    "latitude": 23.1781217,
+    "longitude": 75.7915634,
+    "place_id": "ChIJj1GzaEx1YzkRE0Kc2HiAAN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1GzaEx1YzkRE0Kc2HiAAN0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:44:26"
+  },
+  {
+    "business_name": "SAPNA SEEDS",
+    "search_category": "Organic Food Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "465116",
+    "phone_number": "+91 99933 11186",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Sarangpur - Akodia - Shujalpur Rd, Shujalpur, Madhya Pradesh 465333",
+    "area": "465116",
+    "latitude": 23.3983773,
+    "longitude": 76.7011631,
+    "place_id": "ChIJ9zrUnMSkfDkRvtP9fSyMmw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9zrUnMSkfDkRvtP9fSyMmw4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:44:28"
+  }
+]

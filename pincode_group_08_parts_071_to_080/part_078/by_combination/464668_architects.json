@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Studio Nirlovya",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm, Interior designer",
+    "pincode": "464668",
+    "phone_number": "+91 97550 91075",
+    "website": "http://rclnirlovya.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2nd floor, Lotus building, E-1/58, E-1, Arera Colony, Bhopal, Madhya Pradesh 462016",
+    "area": "E-1, Arera Colony",
+    "latitude": 23.2179426,
+    "longitude": 77.4344211,
+    "place_id": "ChIJM_ePpfJDfDkRTyOg4xB2j4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM_ePpfJDfDkRTyOg4xB2j4Y",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:16:13"
+  },
+  {
+    "business_name": "Designers & Developers",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm, Real Estate Builders & Construction Company, Interior designer, Vastu consultant",
+    "pincode": "464668",
+    "phone_number": "+91 80907 57994",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Naheriya Cut, near Tripula, Ahiya, Chauraha, Raipur, Raebareli, Uttar Pradesh 229001",
+    "area": "Ahiya, Chauraha",
+    "latitude": 26.2502858,
+    "longitude": 81.2323327,
+    "place_id": "ChIJTVDiZuijmzkRPbWD3t6SpV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTVDiZuijmzkRPbWD3t6SpV8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:16:14"
+  }
+]

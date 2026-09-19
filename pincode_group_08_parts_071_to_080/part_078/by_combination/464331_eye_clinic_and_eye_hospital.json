@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Netradeep Eye Care and Optical",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "464331",
+    "phone_number": "+91 95844 50101",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhopal Sagar Road, near ICICI bank, Nandni Nagar, Gairatganj, Madhya Pradesh 464884",
+    "area": "Nandni Nagar",
+    "latitude": 23.411315,
+    "longitude": 78.2266921,
+    "place_id": "ChIJ-7oZ0My5fjkRPpJc16jCCro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-7oZ0My5fjkRPpJc16jCCro",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:58:48"
+  },
+  {
+    "business_name": "B.S.Mehta eye hospital branch of Sitapur Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "464331",
+    "phone_number": "+91 83548 84472",
+    "website": "http://www.sitapureyehospital.org/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sitapur Eye Hospital Rd, Phoolpur, Uttar Pradesh 212402",
+    "area": "464331",
+    "latitude": 25.546263,
+    "longitude": 82.08111219999999,
+    "place_id": "ChIJ8xnKIwCvmjkRP_Tx4zWp1W8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8xnKIwCvmjkRP_Tx4zWp1W8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:58:49"
+  }
+]

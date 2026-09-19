@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Piyush Collection",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby clothing store",
+    "all_categories": "Baby clothing store, Lingerie wholesaler, Men's clothing store, Underwear store, Western apparel store, Women's clothing store",
+    "pincode": "464993",
+    "phone_number": "+91 755 275 2569",
+    "website": "https://www.instagram.com/piyushcollection_/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No, 33, Gandhi Market, Piplani, BHEL, Bhopal, Madhya Pradesh 462022",
+    "area": "Gandhi Market, Piplani, BHEL",
+    "latitude": 23.2391819,
+    "longitude": 77.47191769999999,
+    "place_id": "ChIJq6qqqvVBfDkR2NC0055Iitk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqvVBfDkR2NC0055Iitk",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:35:43"
+  },
+  {
+    "business_name": "Riya Fashion House",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Youth clothing store",
+    "all_categories": "Youth clothing store",
+    "pincode": "464993",
+    "phone_number": "+91 94244 86601",
+    "website": "https://www.instagram.com/riyafashionh?igsh=MWQxdW9taTJyNXluag==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no: 2, Maa Narmada Complex, Bhawani Chowk, Anandnagar, Bhopal, Madhya Pradesh 462022",
+    "area": "Bhawani Chowk, Anandnagar",
+    "latitude": 23.2526095,
+    "longitude": 77.4869421,
+    "place_id": "ChIJVyyNteBBfDkRukNX2rsNVbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVyyNteBBfDkRukNX2rsNVbs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:35:43"
+  }
+]

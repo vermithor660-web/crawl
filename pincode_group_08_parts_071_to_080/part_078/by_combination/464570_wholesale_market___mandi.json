@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shori Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Clothing wholesaler",
+    "all_categories": "Clothing wholesaler, Store",
+    "pincode": "464570",
+    "phone_number": "+91 90346 63225",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 1834,
+    "address": "1664, Babra Mohalla, Hari Nagar, Babra Mohalla, Rohtak, Haryana 124001",
+    "area": "Babra Mohalla, Hari Nagar, Babra Mohalla",
+    "latitude": 28.896352,
+    "longitude": 76.5788245,
+    "place_id": "ChIJm2DZxkWFDTkRug_b63qwbQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm2DZxkWFDTkRug_b63qwbQQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:07:52"
+  },
+  {
+    "business_name": "Namdhari City Centre",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "464570",
+    "phone_number": "+91 98164 00088",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 252,
+    "address": "Samkhetar Road, near Girls School, Lower, Samkhetar, Mandi, Himachal Pradesh 175001",
+    "area": "Lower, Samkhetar",
+    "latitude": 31.7126593,
+    "longitude": 76.9314837,
+    "place_id": "ChIJ90T8lDriBDkRnzWSCE7UJHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ90T8lDriBDkRnzWSCE7UJHs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:07:52"
+  }
+]

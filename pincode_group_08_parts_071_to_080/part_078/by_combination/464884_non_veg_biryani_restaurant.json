@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paras Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "464884",
+    "phone_number": "+91 88157 82470",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Gairatganj, Madhya Pradesh 464884",
+    "area": "464884",
+    "latitude": 23.408695599999998,
+    "longitude": 78.2236665,
+    "place_id": "ChIJJVzgbbW-fjkROlyaZL1x3qs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJVzgbbW-fjkROlyaZL1x3qs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:28:25"
+  },
+  {
+    "business_name": "Sabrang dhaba सबरंग ढाबा",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "464884",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8F65+449, Silwani, Madhya Pradesh 464886",
+    "area": "464884",
+    "latitude": 23.3102895,
+    "longitude": 78.4578712,
+    "place_id": "ChIJaVB4JADpfjkR7AmfAqFs5Vg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaVB4JADpfjkR7AmfAqFs5Vg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:28:25"
+  }
+]

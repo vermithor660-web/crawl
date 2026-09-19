@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Srushti Medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "464331",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Begamganj, Raisen, NH-86, Gairatganj Road, Raisen, Raisen, Madhya Pradesh 464881",
+    "area": "464331",
+    "latitude": 23.595299999999998,
+    "longitude": 78.33959999999999,
+    "place_id": "ChIJ4Y3i9nfJfjkRaqDyBKsyg8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Y3i9nfJfjkRaqDyBKsyg8E",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:58:45"
+  },
+  {
+    "business_name": "Maneesh medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "464331",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Infornt of block office, main road, Begumganj, Madhya Pradesh 464881",
+    "area": "464331",
+    "latitude": 23.595741,
+    "longitude": 78.3399554,
+    "place_id": "ChIJ-XG5ljXJfjkRXtULEM9_tWo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-XG5ljXJfjkRXtULEM9_tWo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:58:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhandari Traders",
+    "search_category": "Organic Food Store",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Cosmetics store, Indian grocery store",
+    "pincode": "465113",
+    "phone_number": "+91 94245 01877",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Unnamed Road, Kali Sindh, Madhya Pradesh 465220",
+    "area": "465113",
+    "latitude": 23.3452849,
+    "longitude": 76.4290865,
+    "place_id": "ChIJaQqmh9BNYzkRJClUQLenIO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQqmh9BNYzkRJClUQLenIO4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:42:39"
+  },
+  {
+    "business_name": "Market Makodi",
+    "search_category": "Organic Food Store",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "465113",
+    "phone_number": "+91 89593 29260",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "7GJ6+VFQ, Makodi, Madhya Pradesh 465113",
+    "area": "465113",
+    "latitude": 23.2822246,
+    "longitude": 76.5112305,
+    "place_id": "ChIJpyC4KIWzfDkRZhRPf5Z2D9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpyC4KIWzfDkRZhRPf5Z2D9E",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:42:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinayaka Flour & Oil Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Food manufacturing supply",
+    "all_categories": "Food manufacturing supply, Flour mill, Oil refinery",
+    "pincode": "464886",
+    "phone_number": "+91 96454 05147",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "Mananthavady-Koyileri-Panamaram Road, mathissery, cherukattoor(po), Mananthavady, Keralam 670721",
+    "area": "464886",
+    "latitude": 11.773802,
+    "longitude": 76.047902,
+    "place_id": "ChIJb54uTVLepTsRBQ5vNZcbsec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb54uTVLepTsRBQ5vNZcbsec",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:31:37"
+  },
+  {
+    "business_name": "Wayanad Flour and Oil Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "464886",
+    "phone_number": "+91 81568 30225",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Malankara Puthankunnu Road, Makutty, Nenmeni, Keralam 673592",
+    "area": "Makutty",
+    "latitude": 11.647151299999999,
+    "longitude": 76.27330479999999,
+    "place_id": "ChIJJbK0tYoFpjsRTzsMtnRrMwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJbK0tYoFpjsRTzsMtnRrMwE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:31:37"
+  }
+]

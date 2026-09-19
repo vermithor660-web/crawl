@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Bhawan डॉ. राहुल शर्मा",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "465113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "5C9M+6MM, Peerpadalya, Madhya Pradesh 455118",
+    "area": "465113",
+    "latitude": 23.168077399999998,
+    "longitude": 76.43418539999999,
+    "place_id": "ChIJZbpFC6BKYzkRbWk7iAPD3ng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbpFC6BKYzkRbWk7iAPD3ng",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:43:42"
+  },
+  {
+    "business_name": "Ghar",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "465113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6F8C+3VG, Kasam Khedi, Madhya Pradesh 465113",
+    "area": "465113",
+    "latitude": 23.2151607,
+    "longitude": 76.47222409999999,
+    "place_id": "ChIJo1moGgC1fDkRrno1CyXPHlE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo1moGgC1fDkRrno1CyXPHlE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:43:44"
+  }
+]

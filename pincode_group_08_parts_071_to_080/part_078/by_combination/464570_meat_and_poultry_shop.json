@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Chicken and More - Gunjur",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Chicken shop, Egg supplier, Fish store, Meat products store, Meat wholesaler, Seafood market",
+    "pincode": "464570",
+    "phone_number": "+91 99645 35455",
+    "website": "https://mychickenandmore.com/",
+    "rating": 4.9,
+    "reviews_count": 479,
+    "address": "Nos. 141/1, 141/3, Hobli, next to Rana Ramdev Medical, Varthur, East, Gunjur Village, Bengaluru, Karnataka 560087",
+    "area": "Varthur, East, Gunjur Village",
+    "latitude": 12.9257756,
+    "longitude": 77.7286714,
+    "place_id": "ChIJVQFb-V4TrjsR-ZDVLxGDUkc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQFb-V4TrjsR-ZDVLxGDUkc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:06:04"
+  },
+  {
+    "business_name": "Makkah Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Store",
+    "pincode": "464570",
+    "phone_number": "+91 99595 43012",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "4-62,14, Colony, Nizam Colony, Toli Chowki, Hyderabad, Telangana 500008",
+    "area": "Nizam Colony, Toli Chowki",
+    "latitude": 17.3986913,
+    "longitude": 78.420282,
+    "place_id": "ChIJY3y-uueWyzsRALKpcMkedyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY3y-uueWyzsRALKpcMkedyo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:06:05"
+  }
+]

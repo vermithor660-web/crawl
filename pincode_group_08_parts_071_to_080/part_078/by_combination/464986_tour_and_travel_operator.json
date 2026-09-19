@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Unique Travelz",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "464986",
+    "phone_number": "+91 90411 12221",
+    "website": "http://www.uniquetravelz.com/",
+    "rating": 4.6,
+    "reviews_count": 87,
+    "address": "New Veg Market, 126, Sector 20 Rd, opp. Agro Mall, Sector 20, Panchkula, Haryana 134116",
+    "area": "Sector 20",
+    "latitude": 30.671551899999997,
+    "longitude": 76.8580997,
+    "place_id": "ChIJAQAAAJGUDzkRx0mIKHPh9iI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAJGUDzkRx0mIKHPh9iI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:32:31"
+  },
+  {
+    "business_name": "Travel-U",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency, Bus tour agency, Outdoor activity organiser, Sightseeing Tour Operator, Tour operator, Travel agency",
+    "pincode": "464986",
+    "phone_number": "+91 70601 26789",
+    "website": "https://travelu.co.in/",
+    "rating": 4.8,
+    "reviews_count": 102,
+    "address": "Office no. 7, Lane 10, near Madhav Residency, Pushpkunj, Banjarawala, Dehradun, Uttarakhand 248005",
+    "area": "Pushpkunj, Banjarawala",
+    "latitude": 30.279362799999998,
+    "longitude": 78.0317692,
+    "place_id": "ChIJiSmU9qcpCTkR51C2UwBzCMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiSmU9qcpCTkR51C2UwBzCMA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:32:31"
+  }
+]

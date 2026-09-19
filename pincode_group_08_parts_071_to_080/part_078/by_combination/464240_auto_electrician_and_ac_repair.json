@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sun Auto Engineers",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto restoration service, Auto tune up service",
+    "pincode": "464240",
+    "phone_number": "+91 96007 78833",
+    "website": "http://www.sunautoengineers.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "56/1, PN Palayam Rd, near Ramakrishna Ladies Hostel, Dharani Nagar, Kamadhenu Nagar, Avarampalayam, Illango Nagar, Coimbatore, Tamil Nadu 641006",
+    "area": "Dharani Nagar, Kamadhenu Nagar, Avarampalayam, Illango Nagar",
+    "latitude": 11.0272665,
+    "longitude": 76.979822,
+    "place_id": "ChIJmYB78UVYqDsRkkx7m8f0BBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmYB78UVYqDsRkkx7m8f0BBo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:55:22"
+  },
+  {
+    "business_name": "Auto Cool Car A/c & Electrical Works",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto electrical service",
+    "all_categories": "Auto electrical service, Auto air conditioning service",
+    "pincode": "464240",
+    "phone_number": "+91 98464 09979",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 44,
+    "address": "Kadamkode, Keralam 678013",
+    "area": "Manapullikavu",
+    "latitude": 10.7597781,
+    "longitude": 76.6690414,
+    "place_id": "ChIJIRT8w8BtqDsR4fJOsXRe7Xg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIRT8w8BtqDsR4fJOsXRe7Xg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:55:23"
+  }
+]

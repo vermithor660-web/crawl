@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vision India",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Service establishment",
+    "pincode": "464651",
+    "phone_number": "+91 90393 93905",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Vision India, 464651, India",
+    "area": "464651",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJEyS3QD1ofDkRlMyMCEkcNIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyS3QD1ofDkRlMyMCEkcNIs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:11:36"
+  },
+  {
+    "business_name": "HR BRAND PROMOTION BHOPAL",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "464651",
+    "phone_number": "N/A",
+    "website": "https://mydigitcard.in/card/HrBrandPromotion",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HOUSE NO 169, Shiv Nagar Colony, Oriya Basti Colony, Bhanpur, Bhopal, Madhya Pradesh 462038",
+    "area": "Shiv Nagar Colony, Oriya Basti Colony, Bhanpur",
+    "latitude": 23.2886787,
+    "longitude": 77.4229237,
+    "place_id": "ChIJi1YGmcBpfDkRfHxmZ61-6n4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi1YGmcBpfDkRfHxmZ61-6n4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:11:38"
+  }
+]

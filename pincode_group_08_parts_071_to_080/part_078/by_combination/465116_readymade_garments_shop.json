@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nanda Shoppe",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Shopping mall, Showroom",
+    "pincode": "465116",
+    "phone_number": "+91 89899 11800",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Rewa Rd, opp. Hotel Savera, Shakti Vihar, Jeevan Jyoti Colony, Satna, Madhya Pradesh 485001",
+    "area": "Shakti Vihar, Jeevan Jyoti Colony",
+    "latitude": 24.5735244,
+    "longitude": 80.83934029999999,
+    "place_id": "ChIJ0UuvEwl_hDkRijakSwAxyf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0UuvEwl_hDkRijakSwAxyf4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:44:40"
+  },
+  {
+    "business_name": "UDDESHY MEN'S",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "465116",
+    "phone_number": "+91 99719 84170",
+    "website": "https://www.instagram.com/uddeshymens?igsh=eHlkZmQ0N2NyczZl",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bus Stand, beside Vikrant Chasme Wale, Navrang Park Colony, Bharhut Nagar, Satna, Madhya Pradesh 485005",
+    "area": "Navrang Park Colony, Bharhut Nagar",
+    "latitude": 24.573726999999998,
+    "longitude": 80.8443412,
+    "place_id": "ChIJ1cfjYVp_hDkR1b4loxlniyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1cfjYVp_hDkR1b4loxlniyM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:44:41"
+  }
+]

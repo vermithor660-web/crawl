@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arafa Common Service Centre",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Aadhaar center, Print shop",
+    "pincode": "464668",
+    "phone_number": "+91 94954 87914",
+    "website": "https://www.facebook.com/arafacsc/",
+    "rating": 5,
+    "reviews_count": 40,
+    "address": "Masjid Bazar, Central Junction, P.O, Erumeli, Keralam 686509",
+    "area": "P.O",
+    "latitude": 9.4832504,
+    "longitude": 76.8463697,
+    "place_id": "ChIJSwnR0OdJBjsRxUKTlT3gaMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSwnR0OdJBjsRxUKTlT3gaMI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:16:40"
+  },
+  {
+    "business_name": "CSC-Akshaya Centre",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Citizen information bureau",
+    "all_categories": "Citizen information bureau",
+    "pincode": "464668",
+    "phone_number": "+91 94466 10440",
+    "website": "http://www.akshaya.kerala.gov.in/services/50/csc-services",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "W2QJ+P9X, Parathode, Keralam 685571",
+    "area": "464668",
+    "latitude": 9.939358499999999,
+    "longitude": 77.0309796,
+    "place_id": "ChIJ43t1oj-jBzsR-mnzsou41FY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ43t1oj-jBzsR-mnzsou41FY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:16:40"
+  }
+]

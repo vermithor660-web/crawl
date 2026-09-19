@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nextcrate",
+    "search_category": "Boutiques",
+    "primary_category": "Store",
+    "all_categories": "Store, Service establishment",
+    "pincode": "464672",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Nextcrate, 464672, India",
+    "area": "464672",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJY5_hBu4I_4IRiZ3MXhoHrb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5_hBu4I_4IRiZ3MXhoHrb4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:19:26"
+  },
+  {
+    "business_name": "Khushi Landri",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "464672",
+    "phone_number": "+91 75820 85838",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop 04, Near Me Bar badhu Gaden, Silwani, Madhya Pradesh 464886",
+    "area": "464672",
+    "latitude": 23.294197099999998,
+    "longitude": 78.4441973,
+    "place_id": "ChIJkSSXMdnpfjkRzBKb_tixQ_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkSSXMdnpfjkRzBKb_tixQ_o",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:19:28"
+  }
+]

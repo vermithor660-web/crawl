@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Prem cosmetics",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "464672",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "New Prem cosmetics New Prem cosmetics shukla chok sakhla market mandsour, Mandsaur, Madhya Pradesh 458002",
+    "area": "Kalakhet",
+    "latitude": 24.0629103,
+    "longitude": 75.069154,
+    "place_id": "ChIJHfmeYfAvZDkRoPB5mbQo2ew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHfmeYfAvZDkRoPB5mbQo2ew",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:20:00"
+  },
+  {
+    "business_name": "Beauty Mart",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Beauty Products Wholesaler",
+    "pincode": "464672",
+    "phone_number": "+91 88789 09990",
+    "website": "https://beautymartindia.com/",
+    "rating": 4.5,
+    "reviews_count": 1806,
+    "address": "Shop No. G - 9, Veda Building, Square, near Apple Hospital, Bhanwar Kuwa, Indore, Madhya Pradesh 452001",
+    "area": "Bhanwar Kuwa",
+    "latitude": 22.6933211,
+    "longitude": 75.8669341,
+    "place_id": "ChIJPeZd6-T8YjkRjANJJDWIN68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPeZd6-T8YjkRjANJJDWIN68",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:20:01"
+  }
+]

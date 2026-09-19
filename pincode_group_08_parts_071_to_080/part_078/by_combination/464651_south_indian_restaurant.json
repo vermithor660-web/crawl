@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surjith South Indian Dosa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "464651",
+    "phone_number": "+91 62607 91447",
+    "website": "https://sites.google.com/view/surjith-southindiandosa/contact-us",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "B-3, near noble , indian bank, Hazrat Nizamuddin Colony, Kiran Nagar, Ayodhya Nagar, Sachidanand Nagar, Bhopal, Madhya Pradesh 462022",
+    "area": "Hazrat Nizamuddin Colony, Kiran Nagar, Ayodhya Nagar",
+    "latitude": 23.2630947,
+    "longitude": 77.4649,
+    "place_id": "ChIJY240eAdpfDkREZtQcnErpkI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY240eAdpfDkREZtQcnErpkI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:09:59"
+  },
+  {
+    "business_name": "SHERA TEA STALL AND SOUTH INDIAN FOOD",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "464651",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "7C4J+V29, Near Indian Bank, Gyan Kunj, Ashoka Garden, Bhopal, Madhya Pradesh 462023",
+    "area": "Near Indian Bank, Gyan Kunj, Ashoka Garden",
+    "latitude": 23.2571506,
+    "longitude": 77.4301201,
+    "place_id": "ChIJred5HgFpfDkRQgKHIuVMD-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJred5HgFpfDkRQgKHIuVMD-M",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:09:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Post office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "465106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7776+7RP, Bardiyason, Madhya Pradesh 465110",
+    "area": "465106",
+    "latitude": 23.263216399999997,
+    "longitude": 76.26208489999999,
+    "place_id": "ChIJS9NCDABFYzkRx2FdNMppjPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS9NCDABFYzkRx2FdNMppjPY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:40:32"
+  },
+  {
+    "business_name": "Kanasiya Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "465106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 5,
+    "address": "74XW+782, Kanasiya, Madhya Pradesh 456770",
+    "area": "465106",
+    "latitude": 23.2981388,
+    "longitude": 76.14575719999999,
+    "place_id": "ChIJjwKLT7tDYzkRXIXVA7XyACU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjwKLT7tDYzkRXIXVA7XyACU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:40:32"
+  }
+]

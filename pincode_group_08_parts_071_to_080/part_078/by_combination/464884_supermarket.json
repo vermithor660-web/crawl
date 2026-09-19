@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "अमित किराना स्टोर्स",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "464884",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C65F+F22, गैरतगंज, Gairatganj, Madhya Pradesh 464884",
+    "area": "464884",
+    "latitude": 23.408631,
+    "longitude": 78.2225243,
+    "place_id": "ChIJkbHfGrW-fjkRCA-5b-D2Xa8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkbHfGrW-fjkRCA-5b-D2Xa8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:28:14"
+  },
+  {
+    "business_name": "मोहित किराना स्टोर",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "464884",
+    "phone_number": "+91 62668 77196",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "F984+JPJ, Karhola, Madhya Pradesh 464884",
+    "area": "464884",
+    "latitude": 23.4665775,
+    "longitude": 78.3567656,
+    "place_id": "ChIJZbBA6fXGfjkRy74nAvrSgus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZbBA6fXGfjkRy74nAvrSgus",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:28:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivshakti Enterprises",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store, Computer networking service, Computer store, Music store",
+    "pincode": "465113",
+    "phone_number": "+91 80 6506 7593",
+    "website": "http://shivshaktienterprisesindore.in/",
+    "rating": 4.8,
+    "reviews_count": 7677,
+    "address": "In Front Jain Mandir, 224, S Tukoganj Rd, Indore, Madhya Pradesh 452001",
+    "area": "Trade Centre, South Tukoganj",
+    "latitude": 22.7204919,
+    "longitude": 75.8833081,
+    "place_id": "ChIJAQAAQBb9YjkR-qzXRk-jjWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAQBb9YjkR-qzXRk-jjWg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:43:57"
+  },
+  {
+    "business_name": "DD Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "465113",
+    "phone_number": "+91 88784 03030",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tauji Complex, Kalapipal Mandi, Madhya Pradesh 465337",
+    "area": "465113",
+    "latitude": 23.3379738,
+    "longitude": 76.8372487,
+    "place_id": "ChIJpTeJKNGXfDkRVJWCbrFRIPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpTeJKNGXfDkRVJWCbrFRIPg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:43:58"
+  }
+]

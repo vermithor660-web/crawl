@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "YASH INTERIOR",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Showroom",
+    "all_categories": "Showroom",
+    "pincode": "465001",
+    "phone_number": "+91 94066 66400",
+    "website": "https://yash-interior.odoo.com/",
+    "rating": 4.8,
+    "reviews_count": 45,
+    "address": "Shop no 3 , 318 mahalaxmi nags, MR 5 , Nariman point, Road, Indore, Madhya Pradesh 452010",
+    "area": "Mahalaxmi Nagar",
+    "latitude": 22.7619497,
+    "longitude": 75.9121261,
+    "place_id": "ChIJ8zNFXmodYzkRuo3lfJG7TPo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8zNFXmodYzkRuo3lfJG7TPo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:38:21"
+  },
+  {
+    "business_name": "Ansh Gift & Art Gallery",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "465001",
+    "phone_number": "+91 98263 21978",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 9,
+    "address": "Chhawani Rd, Chhawani, Jhanda Chowk, Agar, Madhya Pradesh 465441",
+    "area": "Chhawani, Jhanda Chowk",
+    "latitude": 23.7174938,
+    "longitude": 76.0182449,
+    "place_id": "ChIJEa_zxJaXZDkRqPCt5Sk7Oq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEa_zxJaXZDkRqPCt5Sk7Oq8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:38:21"
+  }
+]

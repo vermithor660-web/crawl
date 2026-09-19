@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shop No. 12, Jawahar Chouk",
+    "search_category": "Shops",
+    "primary_category": "Shops",
+    "all_categories": "Shops",
+    "pincode": "464770",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jawahar Chouk, nearby Lodhi Online Udipura, Jawahar Chouk, Udaipura, Madhya Pradesh 464770",
+    "area": "Jawahar Chouk",
+    "latitude": 23.0757303,
+    "longitude": 78.51356299999999,
+    "place_id": "ChIJ7aVZvzb6fjkRnaqMz9FwNiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7aVZvzb6fjkRnaqMz9FwNiM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:22:41"
+  },
+  {
+    "business_name": "Government Ration Shop, Richhawar",
+    "search_category": "Shops",
+    "primary_category": "Government ration shop",
+    "all_categories": "Government ration shop",
+    "pincode": "464770",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "2PV3+CMV, Pipaliya Khurd, Madhya Pradesh 464770",
+    "area": "464770",
+    "latitude": 23.0441654,
+    "longitude": 78.70510589999999,
+    "place_id": "ChIJo7YRUi4BfzkRMtgCzWMqdoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo7YRUi4BfzkRMtgCzWMqdoc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:22:43"
+  }
+]

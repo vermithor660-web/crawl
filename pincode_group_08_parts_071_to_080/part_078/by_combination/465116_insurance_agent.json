@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "INSURANCE ADVISER",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "465116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Morta, Shajapur, Madhya Pradesh 465001",
+    "area": "465116",
+    "latitude": 23.4715357,
+    "longitude": 76.4171906,
+    "place_id": "ChIJc1dg0DxVYzkROyhi0jLYMag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc1dg0DxVYzkROyhi0jLYMag",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:45:46"
+  },
+  {
+    "business_name": "ALL INSURANCE COMPANY SERVICES",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Service establishment",
+    "pincode": "465116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ALL INSURANCE COMPANY SERVICES, 465116, India",
+    "area": "465116",
+    "latitude": 27.613784199999998,
+    "longitude": 75.14511399999999,
+    "place_id": "ChIJG4bf65WlbDkRBtDBsb0a_oI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4bf65WlbDkRBtDBsb0a_oI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:45:47"
+  }
+]

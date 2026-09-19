@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "हाजी होटल",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "465001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "85PH+7MM, Samgi, Madhya Pradesh 456770",
+    "area": "465001",
+    "latitude": 23.3357034,
+    "longitude": 76.17917489999999,
+    "place_id": "ChIJRw4BuPdbYzkR2XJj5FD0xlQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRw4BuPdbYzkR2XJj5FD0xlQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:37:18"
+  },
+  {
+    "business_name": "CHISHTIYA POULTRY SERVICES PVT. LTD.",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Agricultural service, Poultry store",
+    "pincode": "465001",
+    "phone_number": "+91 94096 78642",
+    "website": "http://www.chishtiya.com/",
+    "rating": 4.6,
+    "reviews_count": 581,
+    "address": "332, GIDC Rd, GIDC Industrial Area, Por, Raman Gamdi, Gujarat 391243",
+    "area": "GIDC Industrial Area",
+    "latitude": 22.1288913,
+    "longitude": 73.1739936,
+    "place_id": "ChIJ8a8vDfHBXzkRmP1l6g5MLFE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8a8vDfHBXzkRmP1l6g5MLFE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:37:20"
+  }
+]

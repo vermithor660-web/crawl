@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.Gandhi Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jeweler",
+    "pincode": "465106",
+    "phone_number": "+91 98263 65600",
+    "website": "https://sgandhijewellers.com/",
+    "rating": 4.8,
+    "reviews_count": 10,
+    "address": "G1, Shiv Om Building, 578, Mahatma Gandhi Rd, Race Course Road, Indore, Madhya Pradesh 452003",
+    "area": "Race Course Road",
+    "latitude": 22.7225649,
+    "longitude": 75.8798781,
+    "place_id": "ChIJ7VhQyDj9YjkR52QzErnWGKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7VhQyDj9YjkR52QzErnWGKw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:39:21"
+  },
+  {
+    "business_name": "Sakhi Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "465106",
+    "phone_number": "+91 98270 16528",
+    "website": "https://www.sakhijewellers.com/",
+    "rating": 4.7,
+    "reviews_count": 25,
+    "address": "Chandi Chowk, 181, Pul Road, Choumukhi, Laxman Pura, Ratlam, Madhya Pradesh 457001",
+    "area": "Choumukhi, Laxman Pura",
+    "latitude": 23.321607,
+    "longitude": 75.03569639999999,
+    "place_id": "ChIJd0YaBCD8YzkR48JpaR1umaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd0YaBCD8YzkR48JpaR1umaU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:39:21"
+  }
+]

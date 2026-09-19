@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamlesh Boot House",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "464993",
+    "phone_number": "+91 91440 20450",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "3GW8+9Q8, Old Vidhan Sabha Square, Indra Nagar, Ward Number 11, Mandideep, Bhopal, Madhya Pradesh 462046",
+    "area": "Indra Nagar, Ward Number 11, Mandideep",
+    "latitude": 23.095922899999998,
+    "longitude": 77.5169664,
+    "place_id": "ChIJC4j5xMpHfDkRAAAAMKbtvxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC4j5xMpHfDkRAAAAMKbtvxs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:35:44"
+  },
+  {
+    "business_name": "College Boot House",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Boot store, Footwear wholesaler",
+    "pincode": "464993",
+    "phone_number": "+91 90742 71212",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop 18, Gandhi Market, Piplani, BHEL, Bhopal, Madhya Pradesh 462022",
+    "area": "Gandhi Market, Piplani, BHEL",
+    "latitude": 23.2393245,
+    "longitude": 77.4722228,
+    "place_id": "ChIJq6qqqvVBfDkRbvE7D4ZKg6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqvVBfDkRbvE7D4ZKg6o",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:35:45"
+  }
+]

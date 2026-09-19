@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tolaram dada ki kachori",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "465001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 145,
+    "address": "Dhobi chauraha, Mahupura, Shajapur, Madhya Pradesh 465001",
+    "area": "Mahupura",
+    "latitude": 23.425584999999998,
+    "longitude": 76.2903426,
+    "place_id": "ChIJBcqzyKhQYzkRG1jCJwGG5q0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBcqzyKhQYzkRG1jCJwGG5q0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:37:25"
+  },
+  {
+    "business_name": "Closed Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "465001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Radha Petrol Pump, Near, Agra - Mumbai Rd, Irrigation Colony, Shajapur, Madhya Pradesh 465001",
+    "area": "Irrigation Colony",
+    "latitude": 23.4201974,
+    "longitude": 76.28406729999999,
+    "place_id": "ChIJW8aslHpRYzkRy_AeRRfGY6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW8aslHpRYzkRy_AeRRfGY6s",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:37:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Riddhi Siddhi tiffin centre",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "464886",
+    "phone_number": "+91 98936 02240",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "सुंदरम वेयरहाउस के पीछे, रोड, महावीर कॉलोनी, Bareli, Silwani, Madhya Pradesh 464886",
+    "area": "महावीर कॉलोनी",
+    "latitude": 23.2958838,
+    "longitude": 78.4428646,
+    "place_id": "ChIJr-lil7fpfjkRh41sck2WTpg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-lil7fpfjkRh41sck2WTpg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:30:16"
+  },
+  {
+    "business_name": "Akash kushwaha",
+    "search_category": "Family Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "464886",
+    "phone_number": "+91 93999 78619",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Chandan Pipaliya, Madhya Pradesh 464886",
+    "area": "464886",
+    "latitude": 23.2030513,
+    "longitude": 78.5206953,
+    "place_id": "ChIJ78xI243lfjkR1fIhIbtvsg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ78xI243lfjkR1fIhIbtvsg4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:30:17"
+  }
+]

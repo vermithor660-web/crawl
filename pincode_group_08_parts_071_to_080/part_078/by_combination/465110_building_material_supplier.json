@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manoj nahar",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "465110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "78QM+8HR, Malikhedi, Berchha, Madhya Pradesh 465110",
+    "area": "465110",
+    "latitude": 23.288373,
+    "longitude": 76.33389,
+    "place_id": "ChIJ_23FPQBPYzkRq592_P438o4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_23FPQBPYzkRq592_P438o4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:41:37"
+  },
+  {
+    "business_name": "Shri Ram Traders",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier, Cement Supplier",
+    "pincode": "465110",
+    "phone_number": "+91 79744 67519",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Himmatpura Chauraha, Polay Kalan, Madhya Pradesh 465116",
+    "area": "465110",
+    "latitude": 23.21699,
+    "longitude": 76.54394479999999,
+    "place_id": "ChIJLbyBd9i1fDkRpW1s0-Izisc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLbyBd9i1fDkRpW1s0-Izisc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:41:40"
+  }
+]

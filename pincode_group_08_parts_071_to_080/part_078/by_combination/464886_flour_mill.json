@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lala ata chakki",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "464886",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6F3G+QFG, Chunetiya, Madhya Pradesh 464886",
+    "area": "464886",
+    "latitude": 23.204987199999998,
+    "longitude": 78.47538709999999,
+    "place_id": "ChIJm5WmLurlfjkR97ULeSCT6FE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm5WmLurlfjkR97ULeSCT6FE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:30:06"
+  },
+  {
+    "business_name": "Shri kaal bhairav aata chakki",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "464886",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "6GGQ+297, Chouka, Madhya Pradesh 464886",
+    "area": "464886",
+    "latitude": 23.2250257,
+    "longitude": 78.5384093,
+    "place_id": "ChIJnYuFiJ7lfjkRMEGueuRzLuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnYuFiJ7lfjkRMEGueuRzLuA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:30:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mr Irani Chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "464661",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 42,
+    "address": "838R+GJR, Saraswathipuram, Tumakur, Karnataka 572105",
+    "area": "Saraswathipuram",
+    "latitude": 13.316561799999999,
+    "longitude": 77.0914567,
+    "place_id": "ChIJ6WrHaAAvsDsRZkI0UBBeTyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6WrHaAAvsDsRZkI0UBBeTyM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:11:53"
+  },
+  {
+    "business_name": "ChaiHolic",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "464661",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 53,
+    "address": "New CG Rd, Nigam Nagar, Chandkheda, Ahmedabad, Gujarat 382424",
+    "area": "Nigam Nagar, Chandkheda",
+    "latitude": 23.106356899999998,
+    "longitude": 72.5968572,
+    "place_id": "ChIJ33yUo7SDXjkRaDAQ_NGaLik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ33yUo7SDXjkRaDAQ_NGaLik",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:11:54"
+  }
+]

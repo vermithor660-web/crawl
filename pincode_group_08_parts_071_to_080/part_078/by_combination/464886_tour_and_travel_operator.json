@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deendayal Loading Service",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "464886",
+    "phone_number": "+91 96303 29824",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6, Near PNB, Madhya Pradesh 464886",
+    "area": "464886",
+    "latitude": 23.2961499,
+    "longitude": 78.44407679999999,
+    "place_id": "ChIJfz9JM8LpfjkR_VcTxeN8kSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfz9JM8LpfjkR_VcTxeN8kSo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:30:42"
+  },
+  {
+    "business_name": "Wanderlust Tourisms India",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Cruise agency, Tour operator, Transportation service",
+    "pincode": "464886",
+    "phone_number": "+91 96911 11998",
+    "website": "http://www.wanderlusttourism.in/",
+    "rating": 4.9,
+    "reviews_count": 248,
+    "address": "60-EH,Scheme No 54, Vijay Nagar, Indore, Madhya Pradesh 452010",
+    "area": "Vijay Nagar, Scheme No 54",
+    "latitude": 22.756831299999998,
+    "longitude": 75.88298549999999,
+    "place_id": "ChIJK_PP_nMDYzkRGwMorBYVgS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK_PP_nMDYzkRGwMorBYVgS0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:30:45"
+  }
+]

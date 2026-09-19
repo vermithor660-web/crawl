@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AKP security agency",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security service",
+    "all_categories": "Security service",
+    "pincode": "464651",
+    "phone_number": "N/A",
+    "website": "https://www.akpsecurity.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Karond Chouraha, Murli Nagar, Karond, Bhopal, Madhya Pradesh 462038",
+    "area": "Karond Chouraha, Murli Nagar, Karond",
+    "latitude": 23.3022772,
+    "longitude": 77.4044845,
+    "place_id": "ChIJAXLc9jZpfDkR1uUyb_EfMik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAXLc9jZpfDkR1uUyb_EfMik",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:11:20"
+  },
+  {
+    "business_name": "Security guard service",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "464651",
+    "phone_number": "+91 97115 53337",
+    "website": "https://sgssecurityguards.in/",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "E-709, near Tagore School, Lakkarpur, Shiv Durga Vihar, Faridabad, Haryana 121009",
+    "area": "Lakkarpur, Shiv Durga Vihar",
+    "latitude": 28.4845243,
+    "longitude": 77.29071019999999,
+    "place_id": "ChIJI5_sKLDnDDkRlOjh9kMowVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI5_sKLDnDDkRlOjh9kMowVs",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:11:23"
+  }
+]

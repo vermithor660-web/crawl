@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yonko Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Agrochemicals Supplier",
+    "all_categories": "Agrochemicals Supplier",
+    "pincode": "465001",
+    "phone_number": "+91 96853 14801",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 8,
+    "address": "89, industrial area, Maksi, Madhya Pradesh 465106",
+    "area": "industrial area",
+    "latitude": 23.242697099999997,
+    "longitude": 76.15130599999999,
+    "place_id": "ChIJK7DUVzJDYzkRcNslw8wgZWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK7DUVzJDYzkRcNslw8wgZWQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:38:46"
+  },
+  {
+    "business_name": "Pushti PharmaChem Pvt. Ltd.",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer",
+    "pincode": "465001",
+    "phone_number": "+91 79990 14369",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "AKVN Industrial area, Plot No 61, Dist, Maksi, Madhya Pradesh 465106",
+    "area": "465001",
+    "latitude": 23.2431472,
+    "longitude": 76.1508724,
+    "place_id": "ChIJAUWiRCNDYzkRdXtCQrf_eho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAUWiRCNDYzkRdXtCQrf_eho",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:38:46"
+  }
+]

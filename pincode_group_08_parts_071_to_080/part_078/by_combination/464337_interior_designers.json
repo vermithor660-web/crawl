@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj interior",
+    "search_category": "Interior Designers",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Hardware store",
+    "pincode": "464337",
+    "phone_number": "+91 99777 89047",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Station Rd, near tehsil office, Khurai, Madhya Pradesh 470117",
+    "area": "464337",
+    "latitude": 24.0474163,
+    "longitude": 78.3299988,
+    "place_id": "ChIJE3yX_7M_eTkRzaVYGxQbsVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE3yX_7M_eTkRzaVYGxQbsVc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:03:01"
+  },
+  {
+    "business_name": "3D Converg",
+    "search_category": "Interior Designers",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm, Service establishment",
+    "pincode": "464337",
+    "phone_number": "N/A",
+    "website": "https://www.3dconverg.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3D Converg, 464337, India",
+    "area": "464337",
+    "latitude": 14.157641199999999,
+    "longitude": -136.05187809999998,
+    "place_id": "ChIJe78TQnEJ5C0RnT1plYq85Pc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe78TQnEJ5C0RnT1plYq85Pc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:03:01"
+  }
+]

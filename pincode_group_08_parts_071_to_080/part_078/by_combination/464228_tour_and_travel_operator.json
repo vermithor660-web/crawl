@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AKMS Tour & Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Car leasing service",
+    "pincode": "464228",
+    "phone_number": "+91 87706 39093",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Krishna vihar colony, Lane Number 10, Rajendra Nagar, Satna, Madhya Pradesh 485001",
+    "area": "Rajendra Nagar",
+    "latitude": 24.569097,
+    "longitude": 80.8182245,
+    "place_id": "ChIJYSK70H5_hDkRYAO8l5MYjic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYSK70H5_hDkRYAO8l5MYjic",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:53:35"
+  },
+  {
+    "business_name": "Perfect Planner Tourways",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "464228",
+    "phone_number": "+91 86790 30027",
+    "website": "https://perfectplannertourways.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Perfect Planner Tourways, 464228, India",
+    "area": "464228",
+    "latitude": 18.5359335,
+    "longitude": 80.26363309999999,
+    "place_id": "ChIJ3_0Rn5ahDDkRFIMvgsq7gJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3_0Rn5ahDDkRFIMvgsq7gJA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:53:36"
+  }
+]

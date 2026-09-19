@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prince hotelware",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Bakery equipment",
+    "all_categories": "Bakery equipment",
+    "pincode": "464337",
+    "phone_number": "+91 95001 47281",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "central bank of India building, New 472, old, 281, Mint St, Chennai, Tamil Nadu 600003",
+    "area": "Edapalaiyam, Park Town",
+    "latitude": 13.0854964,
+    "longitude": 80.2783281,
+    "place_id": "ChIJG_nhfx5vUjoR88Ve1RN80wE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG_nhfx5vUjoR88Ve1RN80wE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:03:16"
+  },
+  {
+    "business_name": "Horeca Kart LLP",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store",
+    "pincode": "464337",
+    "phone_number": "+91 96857 77725",
+    "website": "https://horecakart.co.in/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "245, Pipliyahana Rd, near Hanuman Mandir, Pipliyahana, Indore, Madhya Pradesh 452018",
+    "area": "Pipliyahana",
+    "latitude": 22.7064719,
+    "longitude": 75.90411019999999,
+    "place_id": "ChIJW9Ql4EnjYjkR5FX72ZjduVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW9Ql4EnjYjkR5FX72ZjduVw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:03:18"
+  }
+]

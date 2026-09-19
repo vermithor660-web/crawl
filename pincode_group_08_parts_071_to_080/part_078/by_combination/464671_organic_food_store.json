@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Organic Drops",
+    "search_category": "Organic Food Store",
+    "primary_category": "Outlet store",
+    "all_categories": "Outlet store",
+    "pincode": "464671",
+    "phone_number": "+91 81144 30784",
+    "website": "http://organicdrops.co.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Organic Drops, 7 A, Rangbari Rd, Keshavpura, Mahaveer Nagar, Kota, Kota Municipal Area, Rajasthan 324009",
+    "area": "Keshavpura, Mahaveer Nagar",
+    "latitude": 25.141824999999997,
+    "longitude": 75.8379605,
+    "place_id": "ChIJ2W8GIQCFbzkRBhAyo9JH7IA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2W8GIQCFbzkRBhAyo9JH7IA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:17:13"
+  },
+  {
+    "business_name": "Satvic Organic Farms",
+    "search_category": "Organic Food Store",
+    "primary_category": "Produce wholesaler",
+    "all_categories": "Produce wholesaler",
+    "pincode": "464671",
+    "phone_number": "+91 88178 75887",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "101, Manpur Main Road, Manpur, Madhya Pradesh 464551",
+    "area": "464671",
+    "latitude": 23.220259499999997,
+    "longitude": 77.8380541,
+    "place_id": "ChIJdfxcUushfDkRH2SGKGDtA4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdfxcUushfDkRH2SGKGDtA4Y",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:17:13"
+  }
+]

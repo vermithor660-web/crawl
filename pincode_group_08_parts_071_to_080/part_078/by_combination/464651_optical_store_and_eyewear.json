@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Monika Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Store",
+    "pincode": "464651",
+    "phone_number": "+91 98263 29644",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "B 26, near Gitanjali Hospital, Indra Nagar, Mangal bazar, Mandideep, Bhopal, Madhya Pradesh 462046",
+    "area": "Indra Nagar, Mangal bazar, Mandideep",
+    "latitude": 23.0958357,
+    "longitude": 77.5160739,
+    "place_id": "ChIJT1_1D0tGfDkRAAAAsJw_9gw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT1_1D0tGfDkRAAAAsJw_9gw",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:10:14"
+  },
+  {
+    "business_name": "Anshika Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "464651",
+    "phone_number": "+91 99937 56547",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "School, Bali Gali, Salamatpur, Madhya Pradesh 464651",
+    "area": "464651",
+    "latitude": 23.458237999999998,
+    "longitude": 77.67342769999999,
+    "place_id": "ChIJq1oZIPoRfDkR27uupSeUyP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq1oZIPoRfDkR27uupSeUyP8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:10:15"
+  }
+]

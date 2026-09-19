@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pratap",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "464668",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2498+VQ2, Partalai, Madhya Pradesh 464668",
+    "area": "464668",
+    "latitude": 23.019804399999998,
+    "longitude": 78.11669739999999,
+    "place_id": "ChIJx2xPRwCJfjkRnXUHmqXT_AA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx2xPRwCJfjkRnXUHmqXT_AA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:15:35"
+  },
+  {
+    "business_name": "Cofe Shop",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "464668",
+    "phone_number": "+91 70243 90255",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "05, Bareli, Madhya Pradesh 464665",
+    "area": "464668",
+    "latitude": 23.003998199999998,
+    "longitude": 78.23514349999999,
+    "place_id": "ChIJM0bGbzKLfjkRTSJm1-0k0S0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM0bGbzKLfjkRTSJm1-0k0S0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:15:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kajal Garment Shop",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "464993",
+    "phone_number": "+91 91795 50101",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kajal Garment Shop, Raisen Rd, Patel Nagar, Bhopal, Madhya Pradesh 462022",
+    "area": "Patel Nagar",
+    "latitude": 23.2523536,
+    "longitude": 77.5038625,
+    "place_id": "ChIJcVN0I9ZBfDkRKvxoGg0Y1x0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcVN0I9ZBfDkRKvxoGg0Y1x0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:35:38"
+  },
+  {
+    "business_name": "Khoobsurat Fashion",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "464993",
+    "phone_number": "+91 80855 59720",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H.No-15, Narmadapuram Rd, behind Niramay Hospital, near International Public School, Misrod, Bhopal, Madhya Pradesh 462026",
+    "area": "Misrod",
+    "latitude": 23.1469424,
+    "longitude": 77.47892399999999,
+    "place_id": "ChIJ1fg-8Y5DfDkRX2P4WjT22eE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1fg-8Y5DfDkRX2P4WjT22eE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:35:39"
+  }
+]

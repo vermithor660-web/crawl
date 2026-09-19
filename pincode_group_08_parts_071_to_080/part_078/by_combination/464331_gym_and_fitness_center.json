@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS FITNESS ZONE",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "464331",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dhar-Mandav Rd, Nalchha, Madhya Pradesh 454001",
+    "area": "464331",
+    "latitude": 22.4165896,
+    "longitude": 75.4051581,
+    "place_id": "ChIJnd5xMApBYjkRq_fPcMtvK-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnd5xMApBYjkRq_fPcMtvK-g",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:58:57"
+  },
+  {
+    "business_name": "Bundela ji",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Pilates studio",
+    "all_categories": "Pilates studio",
+    "pincode": "464331",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H8VW+59W, Begumganj, Madhya Pradesh 464881",
+    "area": "464331",
+    "latitude": 23.5929948,
+    "longitude": 78.345944,
+    "place_id": "ChIJo0R9XQDJfjkR7YmZJYK2u40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo0R9XQDJfjkR7YmZJYK2u40",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:58:57"
+  }
+]

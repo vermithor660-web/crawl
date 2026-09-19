@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goeld Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer",
+    "pincode": "464665",
+    "phone_number": "+91 1800 121 221 999",
+    "website": "https://www.goeld.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Goeld frozen food manufacturing plant, Chhattisharg, Chhattisgarh 492003",
+    "area": "464665",
+    "latitude": 21.3118378,
+    "longitude": 81.5855299,
+    "place_id": "ChIJjzT00E3hKDoREvKxX-x83_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjzT00E3hKDoREvKxX-x83_I",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:13:39"
+  },
+  {
+    "business_name": "Frozen Food Distributor",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "464665",
+    "phone_number": "+91 80 4710 4444",
+    "website": "https://www.chfmart.com/",
+    "rating": 3.8,
+    "reviews_count": 12,
+    "address": "House No.10, Rupali Path, RG Baruah Rd, Guwahati, Assam 781024",
+    "area": "Nabin Nagar",
+    "latitude": 26.1687019,
+    "longitude": 91.77759909999999,
+    "place_id": "ChIJm8FoS-VZWjcRyMurbDo1mmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm8FoS-VZWjcRyMurbDo1mmo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:13:40"
+  }
+]

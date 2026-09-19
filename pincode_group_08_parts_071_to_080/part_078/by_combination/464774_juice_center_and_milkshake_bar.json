@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juice & shake center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "464774",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "24, Jail Rd, Devendra Nagar, Raipur, Chhattisgarh 492001",
+    "area": "Devendra Nagar",
+    "latitude": 21.2539542,
+    "longitude": 81.6402205,
+    "place_id": "ChIJjUKveQDdKDoRy9mpgla53EY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjUKveQDdKDoRy9mpgla53EY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:22:49"
+  },
+  {
+    "business_name": "JUICE UP",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "464774",
+    "phone_number": "+91 76765 27143",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Juice up, Narayan Reddy Layout, Konappana Agrahara, Electronic City, Konappana Agrahara, Karnataka 560100",
+    "area": "Narayan Reddy Layout, Konappana Agrahara, Electronic City",
+    "latitude": 12.8493017,
+    "longitude": 77.6732167,
+    "place_id": "ChIJ9Z0wvxttrjsRhh55bjnYg14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Z0wvxttrjsRhh55bjnYg14",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:22:50"
+  }
+]

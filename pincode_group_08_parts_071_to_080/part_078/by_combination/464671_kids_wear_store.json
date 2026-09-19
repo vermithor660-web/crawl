@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BABU BELDING",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "464671",
+    "phone_number": "+91 99939 00413",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "698, Silwani, Madhya Pradesh 464886",
+    "area": "464671",
+    "latitude": 23.2977274,
+    "longitude": 78.4430436,
+    "place_id": "ChIJoXVbiNbpfjkRIprarqC13tc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXVbiNbpfjkRIprarqC13tc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:17:27"
+  },
+  {
+    "business_name": "Chikki Garments",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "464671",
+    "phone_number": "+91 92945 73504",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "bus stand J. J. Road main market Bhopal, Madhya Pradesh 464672",
+    "area": "464671",
+    "latitude": 23.095485699999998,
+    "longitude": 78.31793789999999,
+    "place_id": "ChIJb8843q_zfjkRrI1KdAVSmzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb8843q_zfjkRrI1KdAVSmzY",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:17:29"
+  }
+]

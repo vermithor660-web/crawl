@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tamil Pasanga Cafe",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "465106",
+    "phone_number": "+91 76229 81726",
+    "website": "https://tpcafe.in/",
+    "rating": 4.4,
+    "reviews_count": 1277,
+    "address": "Ground Floor 36, 37, Tamil Pasanga Cafe, Advait Complex, opp. Belgian Waffle, Vastrapur, Ahmedabad, Gujarat 380054",
+    "area": "Vastrapur",
+    "latitude": 23.0410614,
+    "longitude": 72.52593619999999,
+    "place_id": "ChIJxbbe67qFXjkRFg__M-r6L84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxbbe67qFXjkRFg__M-r6L84",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:39:13"
+  },
+  {
+    "business_name": "The South Spot- The Flavours Of south",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Family restaurant, Gujarati restaurant, Punjabi restaurant, Restaurant",
+    "pincode": "465106",
+    "phone_number": "+91 74349 66982",
+    "website": "https://www.instagram.com/_thesouthspot_",
+    "rating": 4.7,
+    "reviews_count": 156,
+    "address": "Shop no. 12-13, Gala Empire, Drive In Rd, opp. Doordarshan metro station, Nilmani Society, Thaltej, Ahmedabad, Gujarat 380054",
+    "area": "Nilmani Society, Thaltej",
+    "latitude": 23.0485898,
+    "longitude": 72.5248769,
+    "place_id": "ChIJedVipHKFXjkRkrH211rfJRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJedVipHKFXjkRkrH211rfJRI",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:39:13"
+  }
+]

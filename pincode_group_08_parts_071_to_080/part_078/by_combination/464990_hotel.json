@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL SANGAM HERITAGE",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "464990",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "46, National Highway, Obaidullaganj, Madhya Pradesh 464993",
+    "area": "464990",
+    "latitude": 22.984001199999998,
+    "longitude": 77.6008354,
+    "place_id": "ChIJXa5KYwA1fDkRR6gBrkTqJvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXa5KYwA1fDkRR6gBrkTqJvA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:34:41"
+  },
+  {
+    "business_name": "Artistic Homestay",
+    "search_category": "Hotel",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay, Hotel",
+    "pincode": "464990",
+    "phone_number": "+91 79747 95463",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 10,
+    "address": "अनुपम नगर, Awadhpuri, Bhopal, Madhya Pradesh 462022",
+    "area": "अनुपम नगर, Awadhpuri",
+    "latitude": 23.2332739,
+    "longitude": 77.48862249999999,
+    "place_id": "ChIJP96_ADFBfDkRf20SALfWmnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP96_ADFBfDkRf20SALfWmnQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:34:42"
+  }
+]

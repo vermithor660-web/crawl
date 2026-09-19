@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Shreekunj",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "465116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Malikhedi Road, Agar, Pal, Madhya Pradesh 465441",
+    "area": "465116",
+    "latitude": 23.718117,
+    "longitude": 76.0002513,
+    "place_id": "ChIJY00FwX-XZDkRziolRC2xjYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY00FwX-XZDkRziolRC2xjYM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:45:29"
+  },
+  {
+    "business_name": "Mewada hous",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "465116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9H3W+849, Unnamed Road, Ranibarod, Barodrani, Madhya Pradesh 465223",
+    "area": "465116",
+    "latitude": 23.353288199999998,
+    "longitude": 76.59535799999999,
+    "place_id": "ChIJLXJ9pDWxfDkRbSCowH141-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXJ9pDWxfDkRbSCowH141-I",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:45:30"
+  }
+]

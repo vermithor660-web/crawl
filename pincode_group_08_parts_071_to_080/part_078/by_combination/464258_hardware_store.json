@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Depandra Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "464258",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GRF8+RG3, Khari Phatak Rd, Baripura, Vidisha, Madhya Pradesh 464001",
+    "area": "Baripura",
+    "latitude": 23.5245221,
+    "longitude": 77.81630439999999,
+    "place_id": "ChIJkz-pLfMFfDkRpWKauhpJFyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkz-pLfMFfDkRpWKauhpJFyE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:57:21"
+  },
+  {
+    "business_name": "Shri Ji Paints And Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "464258",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "QR22+6PJ, Ashoknagar - Vidisha Rd, Kagpur, Madhya Pradesh 464258",
+    "area": "464258",
+    "latitude": 23.7505804,
+    "longitude": 77.8017502,
+    "place_id": "ChIJeetUNeT5ezkRU7ab21EdKfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeetUNeT5ezkRU7ab21EdKfE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:57:22"
+  }
+]

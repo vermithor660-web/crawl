@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHOUKSEY AUTO MOBILES",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "464671",
+    "phone_number": "+91 98937 49321",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "JJ Rd, ramnagar, Udaipura, Madhya Pradesh 464770",
+    "area": "ramnagar",
+    "latitude": 23.0698573,
+    "longitude": 78.5090558,
+    "place_id": "ChIJv-19oB77fjkRZCyn1op1Ovc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv-19oB77fjkRZCyn1op1Ovc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:17:46"
+  },
+  {
+    "business_name": "TRUPATIMOTORS TVS",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "464671",
+    "phone_number": "+91 99775 14483",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "3GC6+3FH, Udaipura, Madhya Pradesh 464770",
+    "area": "464671",
+    "latitude": 23.0701878,
+    "longitude": 78.5112292,
+    "place_id": "ChIJoQn5RjD6fjkRdXtBQ0f3TDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoQn5RjD6fjkRdXtBQ0f3TDA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:17:48"
+  }
+]

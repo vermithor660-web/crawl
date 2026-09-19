@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Mandap Diary",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Caterer, Event planner, Event technology service, Event venue, Wedding photographer, Event management company, Wedding service, Wedding venue",
+    "pincode": "464661",
+    "phone_number": "+91 96515 59555",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 87,
+    "address": "Plot No. 3, Milenia Regency, Matiyari Chauraha, Faizabad Rd, Chinhat, Gomti Nagar, Lucknow, Uttar Pradesh 226028",
+    "area": "Chinhat, Gomti Nagar",
+    "latitude": 26.881446999999998,
+    "longitude": 81.0411139,
+    "place_id": "ChIJFbAt8HLjmzkRsRfok-LkzTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFbAt8HLjmzkRsRfok-LkzTU",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:12:48"
+  },
+  {
+    "business_name": "Jai Shree Ram Events & Wedding Planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "464661",
+    "phone_number": "+91 81095 16130",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Dharmveer Petrol Pump, Bhind Rd, Deen Dayal Nagar, Gwalior, Madhya Pradesh 474005",
+    "area": "Deen Dayal Nagar",
+    "latitude": 26.247163399999998,
+    "longitude": 78.20983939999999,
+    "place_id": "ChIJHwsDCDHBdjkRjnn3Nlc80e0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHwsDCDHBdjkRjnn3Nlc80e0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:12:49"
+  }
+]

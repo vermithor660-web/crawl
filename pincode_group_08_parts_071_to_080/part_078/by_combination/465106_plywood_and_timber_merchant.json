@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.K. Lumber Pvt. Ltd.",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Lumber store",
+    "all_categories": "Lumber store",
+    "pincode": "465106",
+    "phone_number": "+91 11 2437 2033",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "9/1, Temple Rd, Jangpura, Samman Bazar, Bhogal, New Delhi, Delhi 110014",
+    "area": "Jangpura, Samman Bazar, Bhogal",
+    "latitude": 28.580606699999997,
+    "longitude": 77.2498552,
+    "place_id": "ChIJs4RQ7QfjDDkRAsLqmP9-1fc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4RQ7QfjDDkRAsLqmP9-1fc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:39:50"
+  },
+  {
+    "business_name": "Woodlands doors and plywoods",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier, Hardware store, Lamination service, Lumber store, Wood and laminate flooring supplier",
+    "pincode": "465106",
+    "phone_number": "+91 80 2661 3462",
+    "website": "https://woodlands-ply.preview.emergentagent.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "parvathipuram, 143/1, Lalbagh Fort Rd, behind Kims hospital, Parvathipuram, Bengaluru, Karnataka 560004",
+    "area": "Parvathipuram, Vishweshwarapura, Basavanagudi",
+    "latitude": 12.956320799999999,
+    "longitude": 77.5753854,
+    "place_id": "ChIJ5zOJcOgVrjsRceMJ1sp2zMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5zOJcOgVrjsRceMJ1sp2zMQ",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:39:50"
+  }
+]

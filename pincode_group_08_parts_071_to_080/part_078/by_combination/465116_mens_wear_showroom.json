@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Mens Poller",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "465116",
+    "phone_number": "+91 99771 43306",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "13, Awantipur Badodia, Madhya Pradesh 465118",
+    "area": "465116",
+    "latitude": 23.1418236,
+    "longitude": 76.587462,
+    "place_id": "ChIJuyVGXKvJfDkRL_o02E22A7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuyVGXKvJfDkRL_o02E22A7o",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:44:43"
+  },
+  {
+    "business_name": "सूर्यवंशी कृषिफॉर्म",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Tuxedo shop",
+    "all_categories": "Tuxedo shop",
+    "pincode": "465116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ग्राम भैंसरोद तहसील, डॉ आंबेडकर कॉलोनी, गुलाना, Madhya Pradesh 465223",
+    "area": "डॉ आंबेडकर कॉलोनी",
+    "latitude": 23.3465289,
+    "longitude": 76.5719414,
+    "place_id": "ChIJReS9KK6xfDkRvdiH73N4xlo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJReS9KK6xfDkRvdiH73N4xlo",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:44:43"
+  }
+]

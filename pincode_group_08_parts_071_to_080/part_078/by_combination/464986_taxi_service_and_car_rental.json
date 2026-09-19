@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Taxi Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Tour operator, Travel agency",
+    "pincode": "464986",
+    "phone_number": "+91 90586 03545",
+    "website": "https://www.saitaxiservice.com/",
+    "rating": 4.8,
+    "reviews_count": 198,
+    "address": "1st Floor, MR Complex, road, Haridwar Bypass Rd, Brahmanwala, Dehradun, Uttarakhand 248121",
+    "area": "Brahmanwala",
+    "latitude": 30.2900781,
+    "longitude": 78.0113382,
+    "place_id": "ChIJXQ7aK8QrCTkRi1mc_tliMGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXQ7aK8QrCTkRi1mc_tliMGM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:32:31"
+  },
+  {
+    "business_name": "Andaman Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Cruise agency, SCUBA tour agency, Travel agency, Water sports equipment rental service",
+    "pincode": "464986",
+    "phone_number": "+91 99332 63867",
+    "website": "http://www.andamancab.in/",
+    "rating": 4.9,
+    "reviews_count": 549,
+    "address": "Shop No. 01, Pulikeezu Bhavan, Bargat Line, near juvenile home, DRDO TRANSIST, Nayagaon, Sri Vijaya Puram, Andaman and Nicobar Islands 744112",
+    "area": "DRDO TRANSIST, Nayagaon",
+    "latitude": 11.647823899999999,
+    "longitude": 92.74363679999999,
+    "place_id": "ChIJhYdy99KViDAR0DSZITxYI4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhYdy99KViDAR0DSZITxYI4s",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:32:32"
+  }
+]

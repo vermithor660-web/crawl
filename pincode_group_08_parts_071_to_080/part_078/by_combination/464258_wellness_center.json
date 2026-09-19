@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sub Health Centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "464258",
+    "phone_number": "+91 7592 234 102",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kagpur, Vidisha, SH-19, Vidisha Road, Vidisha, Vidisha, Madhya Pradesh 464258",
+    "area": "464258",
+    "latitude": 23.7488037,
+    "longitude": 77.8012873,
+    "place_id": "ChIJyyr9w3z5ezkR3bdikSCglRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyyr9w3z5ezkR3bdikSCglRA",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:57:33"
+  },
+  {
+    "business_name": "Ayushman Arogya Mandir Tajkhajuri",
+    "search_category": "Wellness Center",
+    "primary_category": "Community health center",
+    "all_categories": "Community health center",
+    "pincode": "464258",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QRH2+66Q, Tajkhajuri, Madhya Pradesh 464221",
+    "area": "464258",
+    "latitude": 23.7785776,
+    "longitude": 77.8000618,
+    "place_id": "ChIJ3VmuSAD7ezkRCeyxFahBpZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3VmuSAD7ezkRCeyxFahBpZg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 10:57:33"
+  }
+]

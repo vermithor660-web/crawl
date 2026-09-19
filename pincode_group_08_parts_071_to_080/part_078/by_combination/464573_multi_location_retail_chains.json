@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IndianRetailer.com",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Media company",
+    "all_categories": "Media company",
+    "pincode": "464573",
+    "phone_number": "+91 98734 69746",
+    "website": "https://www.indianretailer.com/",
+    "rating": 3.6,
+    "reviews_count": 49,
+    "address": "4th & 5th floor, Charmwood Plaza, Charmwood Village, Surajkund Road, Faridabad, Haryana 121013",
+    "area": "Sector 37",
+    "latitude": 28.483611099999997,
+    "longitude": 77.3158333,
+    "place_id": "ChIJO2uVBxrnDDkRNQsf108JQ4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO2uVBxrnDDkRNQsf108JQ4Y",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:09:44"
+  },
+  {
+    "business_name": "24SEVEN",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Convenience store",
+    "all_categories": "Convenience store, Bakery and Cake Shop, Department store, Gourmet grocery store, Takeout restaurant",
+    "pincode": "464573",
+    "phone_number": "+91 11 4167 1212",
+    "website": "https://www.24-seven.in/",
+    "rating": 3.6,
+    "reviews_count": 177,
+    "address": "PVR Anupam Saket, 6, Community Center, Ashok Vihar, Saket, New Delhi, Delhi 110017",
+    "area": "Ashok Vihar, Saket",
+    "latitude": 28.5233512,
+    "longitude": 77.20777749999999,
+    "place_id": "ChIJf25p6vDhDDkRA5_-81IZDRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf25p6vDhDDkRA5_-81IZDRc",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:09:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "U Shine Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "465113",
+    "phone_number": "+91 78797 74724",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Indra Nagar Purshottam Sagar Ke Pass, Madhya Pradesh 456001",
+    "area": "Indira Nagar",
+    "latitude": 23.201935199999998,
+    "longitude": 75.7832313,
+    "place_id": "ChIJyWxap3B1YzkRAcqkAuKwX7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyWxap3B1YzkRAcqkAuKwX7I",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:43:34"
+  },
+  {
+    "business_name": "The Glam Beauty",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "465113",
+    "phone_number": "+91 70142 12541",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no. 7-8 Kheme ka kya, Pal Road, Road, Gulab Nagar, Jodhpur, Rajasthan 342008",
+    "area": "Gulab Nagar, Keshavnagar",
+    "latitude": 26.252672099999998,
+    "longitude": 72.98252339999999,
+    "place_id": "ChIJJS4Y8DiPQTkRfDH3IvcXwGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJS4Y8DiPQTkRfDH3IvcXwGM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:43:34"
+  }
+]

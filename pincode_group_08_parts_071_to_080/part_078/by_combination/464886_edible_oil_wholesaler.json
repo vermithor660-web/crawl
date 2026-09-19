@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mittal Enterprises",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Wholesaler",
+    "pincode": "464886",
+    "phone_number": "+91 98270 16444",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "33, daliya bazar, Malharganj, Indore, Madhya Pradesh 452002",
+    "area": "Malharganj",
+    "latitude": 22.7157841,
+    "longitude": 75.8507704,
+    "place_id": "ChIJfb79CKP9YjkRRZQQ7bEQNb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfb79CKP9YjkRRZQQ7bEQNb8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:30:06"
+  },
+  {
+    "business_name": "Bhai ji bhai traders",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Wholesale grocer",
+    "all_categories": "Wholesale grocer, Dry Fruit Store, Spices Wholesaler, Wholesaler",
+    "pincode": "464886",
+    "phone_number": "+91 62643 75042",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "206, Gupta Chamber, 6, Jawahar Marg, Siyaganj, Indore, Madhya Pradesh 452007",
+    "area": "Siyaganj",
+    "latitude": 22.715356099999997,
+    "longitude": 75.8667219,
+    "place_id": "ChIJm4NCZe_9YjkRmQyz8McL5A0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm4NCZe_9YjkRmQyz8McL5A0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:30:06"
+  }
+]

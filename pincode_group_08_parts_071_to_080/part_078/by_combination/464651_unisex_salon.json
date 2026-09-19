@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smart look hair salon Gairatganj",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "464651",
+    "phone_number": "+91 88157 82470",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sivil hospital ke samana, Sagar - Bhopal Rd, gairatganj, Madhya Pradesh 464884",
+    "area": "464651",
+    "latitude": 23.5082856,
+    "longitude": 77.8348853,
+    "place_id": "ChIJYX1ZDeIFfDkRmM77qbMG0jE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYX1ZDeIFfDkRmM77qbMG0jE",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:10:48"
+  },
+  {
+    "business_name": "New King Cosmo family hair saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "464651",
+    "phone_number": "+91 96857 57792",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 142,
+    "address": "No 1Aishbagh, Shop, Rd, Aish Bagh, Bhopal, Madhya Pradesh 462010",
+    "area": "Aish Bagh",
+    "latitude": 23.2597827,
+    "longitude": 77.4209044,
+    "place_id": "ChIJ3eyLJQBpfDkR0J1Ui_RRQaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3eyLJQBpfDkR0J1Ui_RRQaM",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:10:49"
+  }
+]

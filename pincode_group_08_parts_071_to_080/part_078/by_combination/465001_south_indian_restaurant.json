@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramesh South Indian Masla Dosa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "465001",
+    "phone_number": "+91 78790 56247",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ab Road, Laxmi Nagar, Shajapur, Madhya Pradesh 465001",
+    "area": "Laxmi Nagar",
+    "latitude": 23.4168664,
+    "longitude": 76.2718944,
+    "place_id": "ChIJ7UNcUKxRYzkRP7aktDW1oQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7UNcUKxRYzkRP7aktDW1oQ4",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:37:24"
+  },
+  {
+    "business_name": "kutiya family Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "465001",
+    "phone_number": "+91 98261 81007",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Agra - Mumbai Rd, Police Colony, Sarangpur, Madhya Pradesh 465697",
+    "area": "Police Colony",
+    "latitude": 23.5733903,
+    "longitude": 76.47638069999999,
+    "place_id": "ChIJ72uGCT9VezkRBAaNkVxMDys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ72uGCT9VezkRBAaNkVxMDys",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:37:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Dental Hospital Korba",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "464672",
+    "phone_number": "+91 90393 64088",
+    "website": "http://www.citydentalhospitals.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ghantaghar - Niharika Road, M P Nagar, Korba, Chhattisgarh 495677",
+    "area": "M P Nagar",
+    "latitude": 22.360162499999998,
+    "longitude": 82.7216971,
+    "place_id": "ChIJjVr1JU2PJzoRThTNV78cYP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVr1JU2PJzoRThTNV78cYP8",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:19:31"
+  },
+  {
+    "business_name": "I Smile dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "464672",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Katari road, Mirchaiya, Madhesh Province 56500, Nepal",
+    "area": "Ramnagar Mirchaiya",
+    "latitude": 26.8302853,
+    "longitude": 86.25338239999999,
+    "place_id": "ChIJ0Vj7k0Mf7DkRKPesJp0Zth0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Vj7k0Mf7DkRKPesJp0Zth0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:19:32"
+  }
+]

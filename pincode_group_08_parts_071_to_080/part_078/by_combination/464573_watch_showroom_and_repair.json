@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rado Boutique - Express Avenue Mall",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Watch repair service",
+    "pincode": "464573",
+    "phone_number": "+91 44 4857 1577",
+    "website": "http://www.zimson.net/",
+    "rating": 4.6,
+    "reviews_count": 202,
+    "address": "24, Ground Floor, 49/50L, Whites Road,, Royapettah, Chennai, Tamil Nadu 600014",
+    "area": "Express Estate, Royapettah",
+    "latitude": 13.058793099999999,
+    "longitude": 80.26411329999999,
+    "place_id": "ChIJYfi8fD1mUjoRVBuXgE5tyEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYfi8fD1mUjoRVBuXgE5tyEg",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:08:18"
+  },
+  {
+    "business_name": "Golden Watch",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Watch store",
+    "pincode": "464573",
+    "phone_number": "+91 98409 14100",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 25,
+    "address": "1, Small St, Kundrathur, Chennai, Kunrattur, Tamil Nadu 600069",
+    "area": "Kundrathur",
+    "latitude": 12.998781399999999,
+    "longitude": 80.0965983,
+    "place_id": "ChIJ6Y1TcttvBRERc6WJVnZ_pP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Y1TcttvBRERc6WJVnZ_pP0",
+    "part_id": "part_078",
+    "crawled_at": "2026-09-19 11:08:18"
+  }
+]
