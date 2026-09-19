@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Good Scoop ( Formerly Good Shakes )",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Bubble tea store, Dessert shop, Sundae restaurant",
+    "pincode": "425502",
+    "phone_number": "+91 79806 05585",
+    "website": "https://goodscoop.in/",
+    "rating": 4.8,
+    "reviews_count": 270,
+    "address": "32/5, Plot No. 76, Block J, Sahapur, West, Kolkata, West Bengal 700053",
+    "area": "Block J, Sahapur, West",
+    "latitude": 22.511939599999998,
+    "longitude": 88.32721889999999,
+    "place_id": "ChIJmfCY8WJxAjoRx30GtvNhE-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmfCY8WJxAjoRx30GtvNhE-U",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:36:13"
+  },
+  {
+    "business_name": "Paliwal provision",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "425502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XHQF+99R, Tambapura, Jalgaon, Maharashtra 425003",
+    "area": "Tambapura",
+    "latitude": 20.9884795,
+    "longitude": 75.5733757,
+    "place_id": "ChIJuT0atx8P2TsRxYYQVDlYLW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuT0atx8P2TsRxYYQVDlYLW4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:36:15"
+  }
+]

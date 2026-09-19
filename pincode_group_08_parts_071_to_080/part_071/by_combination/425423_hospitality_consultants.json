@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Seven Consultancy",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Payroll Service Provider, Human resource consulting, Recruiter",
+    "pincode": "425423",
+    "phone_number": "+91 99879 32477",
+    "website": "https://www.7consultancy.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Office No- 303, 3rd Floor, A\"-Wing, Hasti Industrial Premises, Plot No-R798, MBP Rd, TTC Industrial Area, MIDC Industrial Area, Navi Mumbai, Maharashtra 400710",
+    "area": "TTC Industrial Area, MIDC Industrial Area, Mahape",
+    "latitude": 19.1144048,
+    "longitude": 73.0192197,
+    "place_id": "ChIJnT-5l-nA5zsR3dVIF1sEVWk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnT-5l-nA5zsR3dVIF1sEVWk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:19:02"
+  },
+  {
+    "business_name": "Staunch Recruitment Consultants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter",
+    "pincode": "425423",
+    "phone_number": "+91 77385 65067",
+    "website": "https://staunchrecruitment.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Parshwa Jyot, Sector 6, New Panvel East, Panvel, Maharashtra 410206",
+    "area": "Sector 6, New Panvel East, Panvel",
+    "latitude": 19.007123099999998,
+    "longitude": 73.1176188,
+    "place_id": "ChIJyfYk0ajD5zsRdQuUW_0erlc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyfYk0ajD5zsRdQuUW_0erlc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:19:02"
+  }
+]

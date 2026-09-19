@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OS Junior & Degree College",
+    "search_category": "Junior College and Degree College",
+    "primary_category": "Education center",
+    "all_categories": "Education center, College",
+    "pincode": "425432",
+    "phone_number": "+91 91210 13629",
+    "website": "https://www.osjunioranddegreecollege.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "8-163, AL-Saadi Complex, R.G. Airport Road, Osmania Restaurant and Bakery Ln, Shaheen Nagar, Hyderabad, Telangana 500005",
+    "area": "Shaheen Nagar, Habeeb Colony",
+    "latitude": 17.2961791,
+    "longitude": 78.4777921,
+    "place_id": "ChIJNSwGAdOiyzsR4H-5op0SWCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNSwGAdOiyzsR4H-5op0SWCQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:28:15"
+  },
+  {
+    "business_name": "Vignan Junior College - Nizampet",
+    "search_category": "Junior College and Degree College",
+    "primary_category": "Junior college",
+    "all_categories": "Junior college",
+    "pincode": "425432",
+    "phone_number": "+91 90631 48877",
+    "website": "https://vignanjuniorcolleges.org/vignan-junior-college-nizampet",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "66, Nizampet Rd, Venkatraya Nagar, Nizampet, Hyderabad, Telangana 500090",
+    "area": "Venkatraya Nagar, Nizampet",
+    "latitude": 17.5180222,
+    "longitude": 78.37314359999999,
+    "place_id": "ChIJh9BCdpKNyzsRJjNx5LNYMtI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh9BCdpKNyzsRJjNx5LNYMtI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:28:15"
+  }
+]

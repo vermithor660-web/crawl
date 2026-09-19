@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Life Care Medical 24 Hours",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Drug store",
+    "all_categories": "Drug store",
+    "pincode": "425444",
+    "phone_number": "+91 93241 52988",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 23,
+    "address": "A 1/1 Mukund Nagar ATM Center Mukund nagar chs andheri kurla rd, Marol Pipeline Rd, Andheri East, Mumbai, Maharashtra 400059",
+    "area": "Bori Colony, Kadam Wadi, Marol, Andheri East",
+    "latitude": 19.111117099999998,
+    "longitude": 72.8720112,
+    "place_id": "ChIJiaZHZpTJ5zsRtL1Gqn8dXcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiaZHZpTJ5zsRtL1Gqn8dXcE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:31:02"
+  },
+  {
+    "business_name": "Mauli Medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "425444",
+    "phone_number": "+91 98506 87770",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GFWC+9GP, MH SH 1, Mahalaxmi Nagar, Shahada, Maharashtra 425409",
+    "area": "Mahalaxmi Nagar",
+    "latitude": 21.5459621,
+    "longitude": 74.4713194,
+    "place_id": "ChIJK0KBLyRt3zsROiwsg9Y_3z4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK0KBLyRt3zsROiwsg9Y_3z4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:31:02"
+  }
+]

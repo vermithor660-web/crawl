@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Mobile",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "425413",
+    "phone_number": "+91 73854 76320",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Shubhash Taki, Maharashtra 425413",
+    "area": "425413",
+    "latitude": 21.5629062,
+    "longitude": 74.213608,
+    "place_id": "ChIJg7m6Ptyf3zsRGkZz271bEYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg7m6Ptyf3zsRGkZz271bEYQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 05:59:27"
+  },
+  {
+    "business_name": "KREESHA BEKARS AND CAFE",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake shop",
+    "pincode": "425413",
+    "phone_number": "+91 70226 96012",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 7, H666 RWJ, Main Rd, Taloda, near Main Market, Maharashtra 425413",
+    "area": "425413",
+    "latitude": 21.562091799999997,
+    "longitude": 74.2123989,
+    "place_id": "ChIJ-fNjL3qf3zsRIXBQ977R0-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fNjL3qf3zsRIXBQ977R0-w",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 05:59:27"
+  }
+]

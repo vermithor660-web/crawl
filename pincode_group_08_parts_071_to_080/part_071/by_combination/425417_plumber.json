@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaibhav Plumbers",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "425417",
+    "phone_number": "+91 86526 77667",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vaibhav Plumbers, Valid Complex, 19, opposite S T Stand, Dapoli, Maharashtra 415712",
+    "area": "425417",
+    "latitude": 17.757784,
+    "longitude": 73.1919309,
+    "place_id": "ChIJgWMVdhXD6TsRiRXzZlESRl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgWMVdhXD6TsRiRXzZlESRl8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:07:37"
+  },
+  {
+    "business_name": "Poona Traders",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Bathroom remodeler, Bathroom supply store, General store, Metal industry suppliers, Mirror shop, Pipes Wholesaler, Hardware store, Sanitation service, Wholesaler",
+    "pincode": "425417",
+    "phone_number": "+91 91309 59785",
+    "website": "https://g.co/kgs/DddAgPR",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HIGHWAY NAER BY CHAITANYA HOSPITAL, Koregaon Bhima, Pune, Maharashtra 412216",
+    "area": "425417",
+    "latitude": 18.645812499999998,
+    "longitude": 74.0625625,
+    "place_id": "ChIJWcX-gOTawjsRHCvB2OWVOWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWcX-gOTawjsRHCvB2OWVOWA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:07:39"
+  }
+]

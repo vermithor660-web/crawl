@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pulse Pathology Laboratory",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Pathologist",
+    "all_categories": "Pathologist",
+    "pincode": "425505",
+    "phone_number": "+91 95777 95773",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No. 44, beside KK Hospital, Jaikisan Wadi, Jalgaon, Maharashtra 425001",
+    "area": "Jaikisan Wadi",
+    "latitude": 21.0071609,
+    "longitude": 75.5659618,
+    "place_id": "ChIJnUCIk8kP2TsRlXUH36XdpnA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnUCIk8kP2TsRlXUH36XdpnA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:42:10"
+  },
+  {
+    "business_name": "Vrindavan Diagnostic Services",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Blood testing service",
+    "all_categories": "Blood testing service, Biochemistry lab, HIV testing center, Laboratory, Medical laboratory, Pathologist",
+    "pincode": "425505",
+    "phone_number": "+91 2423 222 015",
+    "website": "https://www.vdspathlabs.com/",
+    "rating": 4.9,
+    "reviews_count": 527,
+    "address": "Chhatrapati Sambhaji Maharaj Chowk, Near, Dharangoan Rd, Vivekanand Nagar, Kopargaon, Maharashtra 423601",
+    "area": "Vivekanand Nagar",
+    "latitude": 19.8845162,
+    "longitude": 74.4721395,
+    "place_id": "ChIJyd_UzF1E3DsRAFDvVUXU7uA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyd_UzF1E3DsRAFDvVUXU7uA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:42:12"
+  }
+]

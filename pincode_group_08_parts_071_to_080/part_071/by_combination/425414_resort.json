@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vimlai Hotel Toranmal",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Food court, Garden, Hill Station, Lodge, Hotel",
+    "pincode": "425414",
+    "phone_number": "+91 81492 86486",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "VFF5+HJJ, Toranmal Main Road, Toranmal, Maharashtra 425432",
+    "area": "425414",
+    "latitude": 21.8761466,
+    "longitude": 74.4604342,
+    "place_id": "ChIJI38Au4PYYTkRxdgY6p6XtV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI38Au4PYYTkRxdgY6p6XtV0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:02:21"
+  },
+  {
+    "business_name": "Unity Sunrise Resort Statue of Unity Ekta Nagar",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Cottage rental, Hotel, Wedding venue",
+    "pincode": "425414",
+    "phone_number": "+91 83207 80519",
+    "website": "https://unitysunriseresort.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "near Statue of Unity, Ekta Nagar, Kevadia, Akteshwar, Gujarat 393151",
+    "area": "Ekta Nagar",
+    "latitude": 21.9022014,
+    "longitude": 73.64799479999999,
+    "place_id": "ChIJV0F2uTkFYDkR0SW_OUcTuEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV0F2uTkFYDkR0SW_OUcTuEQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:02:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lalbaug Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Hospital",
+    "pincode": "425452",
+    "phone_number": "+91 265 264 2282",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Kubereshwar Mahadev Marg, opposite Shreyas School, Manjalpur Naka, Lalbaug, Manjalpur, Vadodara, Gujarat 390011",
+    "area": "Manjalpur Naka, Lalbaug, Manjalpur",
+    "latitude": 22.2774914,
+    "longitude": 73.1980047,
+    "place_id": "ChIJRRhd3-nFXzkRjTgDZkFBNjs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRRhd3-nFXzkRjTgDZkFBNjs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:32:53"
+  },
+  {
+    "business_name": "Om Uro And Eye Care",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Doctor, Urology clinic, Nephrologist, Ophthalmologist, Urologist",
+    "pincode": "425452",
+    "phone_number": "+91 97246 64557",
+    "website": "https://omuroandeyecare.com/?utm_source=GMB&utm_medium=GMB&utm_campaign=GMB&utm_id=GMB",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "45,46, Parivar Society, Waghodia Rd, opp. SSV school, Near Parivar Char Rasta, Kendranagar, Vadodara, Gujarat 390025",
+    "area": "Near Parivar Char Rasta, Kendranagar",
+    "latitude": 22.2929089,
+    "longitude": 73.2366097,
+    "place_id": "ChIJCxqs-P_FXzkRCfaQi8zh-Ik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCxqs-P_FXzkRCfaQi8zh-Ik",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:32:53"
+  }
+]

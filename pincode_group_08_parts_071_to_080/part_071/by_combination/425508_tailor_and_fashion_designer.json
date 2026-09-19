@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Orestis Fashion",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Clothing store, Women's clothing store",
+    "pincode": "425508",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Fateh Nagar Hussaini Masjid, Raver, Maharashtra 425508",
+    "area": "425508",
+    "latitude": 21.244306599999998,
+    "longitude": 76.0293689,
+    "place_id": "ChIJgXsVRpG12TsRZ6j4Kq2MC3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgXsVRpG12TsRZ6j4Kq2MC3s",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:47:33"
+  },
+  {
+    "business_name": "Payal Ladies Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "425508",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 11,
+    "address": "54WM+R7M, Anturli, Maharashtra 425306",
+    "area": "425508",
+    "latitude": 21.1970815,
+    "longitude": 76.1331798,
+    "place_id": "ChIJLdA7Qc3L2TsR40utN_UlLjE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLdA7Qc3L2TsR40utN_UlLjE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:47:33"
+  }
+]

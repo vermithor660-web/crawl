@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai Chaska Bar",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "425501",
+    "phone_number": "+91 91727 83598",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Raver - Bhusawal Hwy, opposite MSEB OFFICE, Bamnod, Maharashtra 425503",
+    "area": "425501",
+    "latitude": 21.127480199999997,
+    "longitude": 75.8015786,
+    "place_id": "ChIJmVBoZwCp2TsR20DSFIocTYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmVBoZwCp2TsR20DSFIocTYk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:34:20"
+  },
+  {
+    "business_name": "Bapu Tea",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "425501",
+    "phone_number": "+91 86983 47047",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Toll Gate Yawel Road, Bhortek, Jalgaon, SH-187, Jamner Bhusawal Yawal Road, Jalgaon, Maharashtra 425503",
+    "area": "425501",
+    "latitude": 21.0720364,
+    "longitude": 75.78466139999999,
+    "place_id": "ChIJVaOZP0Sp2TsRJoBJkqtBRFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVaOZP0Sp2TsRJoBJkqtBRFQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:34:20"
+  }
+]

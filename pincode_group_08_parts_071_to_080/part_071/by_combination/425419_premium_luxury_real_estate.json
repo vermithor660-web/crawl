@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prime Luxury Properties",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "425419",
+    "phone_number": "N/A",
+    "website": "https://primeluxurypropertiesdubai.com/",
+    "rating": 4.8,
+    "reviews_count": 21,
+    "address": "Churchill Tower - Al Amal St - Business Bay - Dubai - United Arab Emirates",
+    "area": "Business Bay",
+    "latitude": 25.180854099999998,
+    "longitude": 55.263400999999995,
+    "place_id": "ChIJjd09NABpXz4RaWkDlRBh2B0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjd09NABpXz4RaWkDlRBh2B0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:12:01"
+  },
+  {
+    "business_name": "Platinum Realty",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Property investment company, Property maintenance",
+    "pincode": "425419",
+    "phone_number": "+91 92658 53466",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 23,
+    "address": "KB royal Serenity, 38, Chandkheda - Zundal Rd, Ahmedabad, Gujarat 382424",
+    "area": "425419",
+    "latitude": 23.1240684,
+    "longitude": 72.58391859999999,
+    "place_id": "ChIJX6R873eDXjkRwWMzLqrULc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX6R873eDXjkRwWMzLqrULc0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:12:01"
+  }
+]

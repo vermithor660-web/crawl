@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yoga Central",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Counselor, Health consultant, Yoga instructor",
+    "pincode": "425452",
+    "phone_number": "+91 99675 31905",
+    "website": "https://yogacentral.in/",
+    "rating": 4.9,
+    "reviews_count": 45,
+    "address": "Daughters of St. Paul's Chapel, Waterfield Road, behind Indian Bank (Enter Through Indian Bank Gate, opposite ICICI Bank, Bandra West, Mumbai, Maharashtra 400050",
+    "area": "Bandra West",
+    "latitude": 19.060754499999998,
+    "longitude": 72.83414549999999,
+    "place_id": "ChIJwXI3HW3J5zsR-1AwhPaqQdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwXI3HW3J5zsR-1AwhPaqQdM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:32:55"
+  },
+  {
+    "business_name": "Infinity yoga studio",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "425452",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "H6F5+P72, Sangamner Bus Stand Rd, near by State Bank of India, Vidhyanagar, Sangamner, Maharashtra 422605",
+    "area": "Vidhyanagar",
+    "latitude": 19.5742573,
+    "longitude": 74.2081279,
+    "place_id": "ChIJNUDZhzYB3TsREcwFuwdVjjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNUDZhzYB3TsREcwFuwdVjjo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:32:55"
+  }
+]

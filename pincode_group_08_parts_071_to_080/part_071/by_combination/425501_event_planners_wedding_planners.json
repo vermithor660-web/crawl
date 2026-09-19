@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aarambh Weddings & Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner",
+    "pincode": "425501",
+    "phone_number": "+91 84110 81676",
+    "website": "https://aarambhweddings.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Flat no. 11, Kanta Residency, opposite muktai lawns, near federal bank, Ananand Lons, Pune, Bhukum, Maharashtra 412115",
+    "area": "Ananand Lons",
+    "latitude": 18.499397,
+    "longitude": 73.7230728,
+    "place_id": "ChIJYyhDZwa9wjsRsS_KcueP9uw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYyhDZwa9wjsRsS_KcueP9uw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:35:16"
+  },
+  {
+    "business_name": "Jafar Lawns",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding venue",
+    "all_categories": "Wedding venue",
+    "pincode": "425501",
+    "phone_number": "+91 75072 59607",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 16,
+    "address": "Raver Road, Savda, Maharashtra 425502",
+    "area": "425501",
+    "latitude": 21.1533384,
+    "longitude": 75.8953044,
+    "place_id": "ChIJoaWPTsiv2TsRjvT9wwydBgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoaWPTsiv2TsRjvT9wwydBgo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:35:18"
+  }
+]

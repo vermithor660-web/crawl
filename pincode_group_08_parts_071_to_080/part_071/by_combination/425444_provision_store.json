@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAYURGeneral Store & hotel",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "425444",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "At Post vadgaon, Taluka, Shahada, Maharashtra 425444",
+    "area": "425444",
+    "latitude": 21.6131079,
+    "longitude": 74.6666626,
+    "place_id": "ChIJs7Z_EPlB3zsRSm76afW7yug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs7Z_EPlB3zsRSm76afW7yug",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:30:37"
+  },
+  {
+    "business_name": "Sachin provision",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "425444",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Opp gandhi status, Shahada, Maharashtra 425409",
+    "area": "Vijay Nagar",
+    "latitude": 21.5457224,
+    "longitude": 74.4706073,
+    "place_id": "ChIJ362zppRt3zsRXOPZkNOyjik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ362zppRt3zsRXOPZkNOyjik",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:30:40"
+  }
+]

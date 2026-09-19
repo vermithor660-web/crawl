@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jay Madadi Plumbing",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "425421",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "125 Valmiki Nagar, Karvand Rd, Shirpur, Valmik Nagar, Dhule, Shirpur-Warwade, Maharashtra 425405",
+    "area": "Shirpur, Valmik Nagar",
+    "latitude": 21.3495767,
+    "longitude": 74.8862216,
+    "place_id": "ChIJDco6hiEt3zsRLjBrHJiiwk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDco6hiEt3zsRLjBrHJiiwk0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:14:57"
+  },
+  {
+    "business_name": "HITANSHI TRADING CORPORATION",
+    "search_category": "Plumber",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Agricultural machinery manufacturer, Agricultural Product Wholesaler, Manufacturer",
+    "pincode": "425421",
+    "phone_number": "+91 81201 14111",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "48, JANKI NAGAR, Wadibhokar Rd, Deopur, Dhule, Maharashtra 424002",
+    "area": "Deopur",
+    "latitude": 20.917737,
+    "longitude": 74.7705692,
+    "place_id": "ChIJazjLixzF3jsRLTaBuYSWxe8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJazjLixzF3jsRLTaBuYSWxe8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:14:59"
+  }
+]

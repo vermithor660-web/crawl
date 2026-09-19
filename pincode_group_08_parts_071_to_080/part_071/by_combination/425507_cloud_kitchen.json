@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AJ'S CLOUD KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "425507",
+    "phone_number": "+91 92738 00320",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BLOCK NO 7, SWAPNANAGRI HOU SOC, RX3/8, Swapna Nagri, BAJAJNAGAR CHH, Garkheda, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Swapna Nagri, BAJAJNAGAR CHH, Garkheda",
+    "latitude": 19.8651432,
+    "longitude": 75.3510665,
+    "place_id": "ChIJax8XHMqj2zsR2z0aiqdvgDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJax8XHMqj2zsR2z0aiqdvgDw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:45:38"
+  },
+  {
+    "business_name": "The Coriander Restaurant (Cloud Kitchen)",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "425507",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 31,
+    "address": "Gat no. 36/1, plot no.36, behind datta mandir, Central Bank Colony, pimprala, Jalgaon, Maharashtra 425001",
+    "area": "Central Bank Colony, pimprala",
+    "latitude": 21.013873999999998,
+    "longitude": 75.54231,
+    "place_id": "ChIJx-mL-jcP2TsRC6-tpQt2Aag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx-mL-jcP2TsRC6-tpQt2Aag",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:45:38"
+  }
+]

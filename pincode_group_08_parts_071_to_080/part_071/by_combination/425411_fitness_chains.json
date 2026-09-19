@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Arena",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center, Sports complex, Soccer practice",
+    "pincode": "425411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "J Sharda Mall, Taloda Rd, opp. Old Jain Mandir, Nandurbar, Maharashtra 425412",
+    "area": "Gayatri Nagar",
+    "latitude": 21.375822,
+    "longitude": 74.2414505,
+    "place_id": "ChIJoT9aFo4J3zsR0bVbhV-qJ5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoT9aFo4J3zsR0bVbhV-qJ5M",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 05:55:41"
+  },
+  {
+    "business_name": "Primus Fitness Unisex Gym | Best Unisex Gym in Nashik",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "425411",
+    "phone_number": "+91 72220 15555",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 295,
+    "address": "6th Floor, The Avenue, behind Prakash Petrol Pump, Mumbai Naka, Govind Nagar, Nashik, Maharashtra 422009",
+    "area": "Mumbai Naka, Govind Nagar",
+    "latitude": 19.9838713,
+    "longitude": 73.78136959999999,
+    "place_id": "ChIJcwOmpkXr3TsRYzxL6VQ9Vk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcwOmpkXr3TsRYzxL6VQ9Vk0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 05:55:42"
+  }
+]

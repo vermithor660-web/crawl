@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satish Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy Products Supplier",
+    "all_categories": "Dairy Products Supplier",
+    "pincode": "425524",
+    "phone_number": "+91 99602 53203",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "519/1, Dhake Wadi, Near Lathi Highschool, Jilha Peth, behind Panchmukhi Hanuman Mandir, Jalgaon, Maharashtra 425001",
+    "area": "Rampeth",
+    "latitude": 21.008744099999998,
+    "longitude": 75.5723701,
+    "place_id": "ChIJ7Rw-2acP2TsRu5BgO0PnptA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Rw-2acP2TsRu5BgO0PnptA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:49:10"
+  },
+  {
+    "business_name": "Nagori Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "425524",
+    "phone_number": "+91 95954 14329",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Shopno8 Shera Chowk, Maharashtra 425003",
+    "area": "Mehrun",
+    "latitude": 20.9935693,
+    "longitude": 75.5782042,
+    "place_id": "ChIJ1YDfmuMP2TsRVMVguTlU-Ac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1YDfmuMP2TsRVMVguTlU-Ac",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:49:10"
+  }
+]

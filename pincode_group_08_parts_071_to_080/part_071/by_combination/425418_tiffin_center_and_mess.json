@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Baba Ramdev Hotel",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "425418",
+    "phone_number": "+91 96497 80921",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "near Highway, Navapur, Bedkipada, Maharashtra 425418",
+    "area": "425418",
+    "latitude": 21.167046,
+    "longitude": 73.7575306,
+    "place_id": "ChIJAcLlRzLJ3zsR-URh9skoXz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAcLlRzLJ3zsR-URh9skoXz8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:08:49"
+  },
+  {
+    "business_name": "Shree Annapurna Mata Roti Ghar",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Caterer, Food producer, Gujarati restaurant, Indian takeaway, Maharashtrian Restaurant, Meal delivery, North Indian restaurant, Tiffin center, Vegetarian restaurant",
+    "pincode": "425418",
+    "phone_number": "+91 88794 87949",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lal Bahadur Shastri Marg, behind Esis Hospital qtrs, Mulund, W, Mumbai, Maharashtra 400080",
+    "area": "Mulund, W",
+    "latitude": 19.1802176,
+    "longitude": 72.9432953,
+    "place_id": "ChIJSYaMS6K55zsRPpmv6Ko4j4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSYaMS6K55zsRPpmv6Ko4j4o",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:08:50"
+  }
+]

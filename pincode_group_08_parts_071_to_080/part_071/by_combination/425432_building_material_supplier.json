@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Agencies",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "425432",
+    "phone_number": "+91 94240 76439",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "Vijay Agencies, [no name], Khed-digar, Khetia, Maharashtra 425409",
+    "area": "[no name]",
+    "latitude": 21.669131699999998,
+    "longitude": 74.5816443,
+    "place_id": "ChIJ2aeJqiRo3zsRmf7h1N-e_5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2aeJqiRo3zsRmf7h1N-e_5w",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:27:50"
+  },
+  {
+    "business_name": "Arihant Ceramic",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "425432",
+    "phone_number": "+91 89626 40121",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 23,
+    "address": "MH9H+CPQ, Khetia Rd, Bhada, Khetia, Maharashtra 425409",
+    "area": "425432",
+    "latitude": 21.668598,
+    "longitude": 74.5793722,
+    "place_id": "ChIJB9XjYjto3zsRUeZHU8vevWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB9XjYjto3zsRUeZHU8vevWM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:27:50"
+  }
+]

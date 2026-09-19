@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Kunal Gifts & Toys",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, Baby store, Childrens Store, Game store, Toy store, Toy manufacturer",
+    "pincode": "425427",
+    "phone_number": "+91 98226 57021",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Basement, Ganesh Heights, Shop, Nirala Bazar Rd, near Yaswantrao chavan natyagruh, Paithan Gate, Sanmitra Colony, Sharadh Colony, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Paithan Gate, Sanmitra Colony, Sharadh Colony",
+    "latitude": 19.8803371,
+    "longitude": 75.3272999,
+    "place_id": "ChIJqc-WGm2Y2zsRotGL0nkGHTg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqc-WGm2Y2zsRotGL0nkGHTg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:24:34"
+  },
+  {
+    "business_name": "Amazing Shop",
+    "search_category": "Gifting",
+    "primary_category": "Outlet mall",
+    "all_categories": "Outlet mall",
+    "pincode": "425427",
+    "phone_number": "+91 93732 99758",
+    "website": "https://play.google.com/store/apps/details?id=in_.co.amazingshop.shop",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sant Sawta Chowk Near Mahadev Mandir Varwade Shirpur, Shirpur, Maharashtra 425405",
+    "area": "Shirpur",
+    "latitude": 21.370535999999998,
+    "longitude": 74.86825689999999,
+    "place_id": "ChIJ7SdF4Zgx3zsR3mX073Va33c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7SdF4Zgx3zsR3mX073Va33c",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:24:36"
+  }
+]

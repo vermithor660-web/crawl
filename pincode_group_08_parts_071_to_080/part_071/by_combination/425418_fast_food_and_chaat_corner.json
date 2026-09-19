@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHIVAY CHAAT HOUSE",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "425418",
+    "phone_number": "+91 98793 88033",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 24,
+    "address": "Gayatri Mandir Rd, Songadh, Gujarat 394670",
+    "area": "425418",
+    "latitude": 21.167646599999998,
+    "longitude": 73.5649493,
+    "place_id": "ChIJvRgOs7PR3zsRqvnFXDUvKNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvRgOs7PR3zsRqvnFXDUvKNg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:08:50"
+  },
+  {
+    "business_name": "KV's Foodbar",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "425418",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 9,
+    "address": "5Q6V+G8R, Shivaji Colony, Navapur, Maharashtra 425418",
+    "area": "Shivaji Colony",
+    "latitude": 21.161374,
+    "longitude": 73.79327409999999,
+    "place_id": "ChIJqW2XCn_J3zsRzr8oY545fwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqW2XCn_J3zsRzr8oY545fwE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:08:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kota Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Food court",
+    "pincode": "425413",
+    "phone_number": "+91 77929 62898",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "154-A, Krishna Vihar Rd, Laxman Vihar, Kunadi, Electricity Board Area, Kota, Kota Municipal Area, Rajasthan 324008",
+    "area": "Laxman Vihar, Kunadi, Electricity Board Area",
+    "latitude": 25.194938,
+    "longitude": 75.8304746,
+    "place_id": "ChIJJTWwYgCbbzkRMLRbvHo3U0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJTWwYgCbbzkRMLRbvHo3U0A",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 05:59:31"
+  },
+  {
+    "business_name": "The Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "425413",
+    "phone_number": "+91 93138 04396",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7 Pushpanjali App Krishnakunj Soc, Bhairavnath Rd, opp. Pranshankar Hall, Kankaria, Ahmedabad, Gujarat 380028",
+    "area": "Kankaria, Maninagar",
+    "latitude": 23.0009382,
+    "longitude": 72.5971671,
+    "place_id": "ChIJmSrOVTOFXjkRqLVOy8TaEqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmSrOVTOFXjkRqLVOy8TaEqw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 05:59:31"
+  }
+]

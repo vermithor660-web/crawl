@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Devraj Cement Corporation",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "425418",
+    "phone_number": "+91 99093 62931",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 15, Harpati Nivas, New Bhatar Rd, near Bhatar Char Rasta, Bhatar Char Rasta, Ravidarshan Society, New City Light, Althan, Surat, Gujarat 395007",
+    "area": "Bhatar Char Rasta, Ravidarshan Society, New City Light, Althan",
+    "latitude": 21.161687,
+    "longitude": 72.8067247,
+    "place_id": "ChIJMRNTmAdO4DsRdcNyNkZ0Zec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMRNTmAdO4DsRdcNyNkZ0Zec",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:09:28"
+  },
+  {
+    "business_name": "Shri Kamal Industries",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier, Brick Manufacturer",
+    "pincode": "425418",
+    "phone_number": "+91 98909 30336",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 13,
+    "address": "Kadlag Farm Goverdhan, Gangapur, Govardhan, Maharashtra 422222",
+    "area": "Gangapur",
+    "latitude": 20.030053499999998,
+    "longitude": 73.7032959,
+    "place_id": "ChIJDZ3dGi3s3TsR2R8lHzemcL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZ3dGi3s3TsR2R8lHzemcL0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:09:29"
+  }
+]

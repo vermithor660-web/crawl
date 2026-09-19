@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pachora Tea",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "425506",
+    "phone_number": "+91 72720 07333",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3157, Shop No 8, Sandu Bhavrao Complex, Maharashtra 424201",
+    "area": "Rajiv Gandhi Colony, Sanghavi Colony",
+    "latitude": 20.665643,
+    "longitude": 75.3453948,
+    "place_id": "ChIJDWM2yI5p2TsRKdlq6vryGP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDWM2yI5p2TsRKdlq6vryGP8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:43:37"
+  },
+  {
+    "business_name": "Indian Tea Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "425506",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shree Sai Mangalam Parisar, Link Rd, Janjgir, Chhattisgarh 495668",
+    "area": "425506",
+    "latitude": 22.0115661,
+    "longitude": 82.5839309,
+    "place_id": "ChIJ1Yh0zGO_JzoRNbqchx18oc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Yh0zGO_JzoRNbqchx18oc4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:43:38"
+  }
+]

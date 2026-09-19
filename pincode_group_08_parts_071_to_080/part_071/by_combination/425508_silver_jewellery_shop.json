@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ekveera Jeweller",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Goldsmith",
+    "pincode": "425508",
+    "phone_number": "+91 76664 97008",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Ekveera Jewellers, Main Street, Market Line, At Post, Anturli, Maharashtra 425306",
+    "area": "Market Line, At Post",
+    "latitude": 21.1978112,
+    "longitude": 76.1376233,
+    "place_id": "ChIJVQMK4M3L2TsRoEZdqFWTVBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQMK4M3L2TsRoEZdqFWTVBY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:47:34"
+  },
+  {
+    "business_name": "Sumeet Gold & Silver Palace",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "425508",
+    "phone_number": "+91 70303 09100",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Mahalaxmi Temple, Saraf Bazar, Raver, Maharashtra 425508",
+    "area": "Saraf Bazar",
+    "latitude": 21.246117899999998,
+    "longitude": 76.036583,
+    "place_id": "ChIJg1FozFK12TsRnqI2xr1cLGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg1FozFK12TsRnqI2xr1cLGU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:47:34"
+  }
+]

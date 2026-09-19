@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fit & Flex Gym ( Best Gym in Thane West )",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "425427",
+    "phone_number": "+91 96196 96667",
+    "website": "https://fitandflexgym.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No 1, Bamandev Compound, Mukadam Wadi, Padmakar Mukadum Road, Near Vihang Valley Circle, Ghodbunder Rd, Kasarvadavali, Thane West, Thane, Maharashtra 400615",
+    "area": "Kasarvadavali, Thane West",
+    "latitude": 19.2693001,
+    "longitude": 72.96103529999999,
+    "place_id": "ChIJ7xh1ndC75zsRMYUnGE8badg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7xh1ndC75zsRMYUnGE8badg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:24:00"
+  },
+  {
+    "business_name": "Kondaji Vijay Vyayam Shala",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gymnasium school",
+    "all_categories": "Gymnasium school",
+    "pincode": "425427",
+    "phone_number": "+91 97665 93393",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Galli No.6, Jay Prakash Chowk, Shivaji Pura, Dhule, Maharashtra 424001",
+    "area": "Nagar Patti",
+    "latitude": 20.901301099999998,
+    "longitude": 74.7789731,
+    "place_id": "ChIJhUKgEvXF3jsRGIT-Ow6Gmxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhUKgEvXF3jsRGIT-Ow6Gmxo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:24:00"
+  }
+]

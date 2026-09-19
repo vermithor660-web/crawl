@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Granite and marble shop",
+    "search_category": "Granite Dealer",
+    "primary_category": "Granite supplier",
+    "all_categories": "Granite supplier",
+    "pincode": "425416",
+    "phone_number": "+91 74268 28372",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot no-1 maa ayodhya Shankar singh nagar bypass road, choufuli, Gurukul, Nandurbar, Maharashtra 425412",
+    "area": "Gurukul",
+    "latitude": 21.380798799999997,
+    "longitude": 74.2556668,
+    "place_id": "ChIJQ7EJmCgJ3zsRkriT043fTgg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ7EJmCgJ3zsRkriT043fTgg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:05:43"
+  },
+  {
+    "business_name": "Shri shyam traders",
+    "search_category": "Granite Dealer",
+    "primary_category": "Granite supplier",
+    "all_categories": "Granite supplier",
+    "pincode": "425416",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sukapur, Pimpalner, Maharashtra 424306",
+    "area": "Sukapur",
+    "latitude": 20.9496547,
+    "longitude": 74.1218773,
+    "place_id": "ChIJE8_9Pj9R3jsRLJKIph3JGwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE8_9Pj9R3jsRLJKIph3JGwY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:05:45"
+  }
+]

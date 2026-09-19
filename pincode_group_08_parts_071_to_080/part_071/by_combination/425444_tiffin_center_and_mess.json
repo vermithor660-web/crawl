@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HealthBag Meal Pvt. Ltd",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Meal delivery",
+    "pincode": "425444",
+    "phone_number": "+91 97022 11146",
+    "website": "https://healthbagmeal.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Sane Guruji Marg, Dadal Estate, Bane Compound, Tardeo, Mumbai, Maharashtra 400034",
+    "area": "Dadal Estate, Bane Compound, Tardeo",
+    "latitude": 18.970539,
+    "longitude": 72.81763529999999,
+    "place_id": "ChIJzZQIdwTP5zsRAAsbOub-Y7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzZQIdwTP5zsRAAsbOub-Y7s",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:30:47"
+  },
+  {
+    "business_name": "W S Tiffin Service",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "425444",
+    "phone_number": "+91 70338 58300",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 27,
+    "address": "Survey No. 65/2, A C, near JSPM College, Autadwadi Handewadi, Satav Nagar, Handewadi, Pune, Maharashtra 411028",
+    "area": "Autadwadi Handewadi, Satav Nagar, Handewadi",
+    "latitude": 18.471568899999998,
+    "longitude": 73.9352092,
+    "place_id": "ChIJVQW9qx7qwjsR8egk9edJNao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQW9qx7qwjsR8egk9edJNao",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:30:50"
+  }
+]

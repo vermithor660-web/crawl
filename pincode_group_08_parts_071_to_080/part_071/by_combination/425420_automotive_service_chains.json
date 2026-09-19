@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "J.S. Auto Parts",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store",
+    "pincode": "425420",
+    "phone_number": "+91 98234 94935",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No. 5, BABA Plaza, opp. NEW, near AKASH PLYWOOD, Old B J Market, Jaikisan Wadi, Jalgaon, Maharashtra 425001",
+    "area": "Old B J Market, Jaikisan Wadi",
+    "latitude": 21.0108762,
+    "longitude": 75.5687176,
+    "place_id": "ChIJb0pNLaQP2TsRZMLFijWtOUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb0pNLaQP2TsRZMLFijWtOUo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:13:04"
+  },
+  {
+    "business_name": "Car repair",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Service establishment",
+    "pincode": "425420",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Car repair, 425420, India",
+    "area": "425420",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJD_pFClfTNDoRkHaid3h4tdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD_pFClfTNDoRkHaid3h4tdQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:13:05"
+  }
+]

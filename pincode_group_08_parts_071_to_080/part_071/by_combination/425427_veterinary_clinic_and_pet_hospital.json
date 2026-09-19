@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veterinary Dispensary",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Emergency veterinarian service",
+    "all_categories": "Emergency veterinarian service",
+    "pincode": "425427",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CRWX+7W2, Wadi Bk, Maharashtra 425405",
+    "area": "425427",
+    "latitude": 21.445632,
+    "longitude": 74.849758,
+    "place_id": "ChIJdTKdgqI33zsRY44TeOVGHqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdTKdgqI33zsRY44TeOVGHqo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:23:57"
+  },
+  {
+    "business_name": "Vets 4 pets",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "425427",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 10,
+    "address": "73A, Wadibhokar Rd, Om Nagar, Shivaji nagar, Anmol Nagar, Dhule, Maharashtra 424002",
+    "area": "Om Nagar, Shivaji nagar, Anmol Nagar",
+    "latitude": 20.922222599999998,
+    "longitude": 74.76549179999999,
+    "place_id": "ChIJ69R-KwDF3jsRg-ajw8L8t4A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ69R-KwDF3jsRg-ajw8L8t4A",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:23:59"
+  }
+]

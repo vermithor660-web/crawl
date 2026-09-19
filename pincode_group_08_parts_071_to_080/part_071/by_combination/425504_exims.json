@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janta Shoppe",
+    "search_category": "EXIMS",
+    "primary_category": "Outlet mall",
+    "all_categories": "Outlet mall, Air conditioning store, Beauty product supplier, Corporate gift supplier, Gift shop, Importer, Kitchen supply store, Luggage store, Perfume store, Video game store",
+    "pincode": "425504",
+    "phone_number": "+91 93737 33429",
+    "website": "http://www.perfumesbyjs.com/",
+    "rating": 4.9,
+    "reviews_count": 1770,
+    "address": "Phule Market Tower Chowk, 25 / 26, opposite City Police Station, Shahunagar, Jalgaon, Maharashtra 425001",
+    "area": "Shahunagar",
+    "latitude": 21.0154289,
+    "longitude": 75.5672392,
+    "place_id": "ChIJp5K3EKcP2TsRGURRei4j43c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp5K3EKcP2TsRGURRei4j43c",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:41:30"
+  },
+  {
+    "business_name": "BAGWAN TRADERS",
+    "search_category": "EXIMS",
+    "primary_category": "Beauty product supplier",
+    "all_categories": "Beauty product supplier",
+    "pincode": "425504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "218, Bhavani Peth, Joshi Peth, Jalgaon, Maharashtra 425001",
+    "area": "Joshi Peth",
+    "latitude": 21.0124662,
+    "longitude": 75.5703249,
+    "place_id": "ChIJL8RdXgAP2TsRnXOPpvJpKQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL8RdXgAP2TsRnXOPpvJpKQU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:41:30"
+  }
+]

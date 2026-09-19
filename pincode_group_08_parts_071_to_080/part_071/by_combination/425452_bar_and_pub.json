@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel New kunal",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "425452",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Unnamed Road, Molgi, Maharashtra 425452",
+    "area": "425452",
+    "latitude": 21.7662783,
+    "longitude": 74.0081112,
+    "place_id": "ChIJkUJ9z5KI3zsR2PlMMsmv_ps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkUJ9z5KI3zsR2PlMMsmv_ps",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:32:35"
+  },
+  {
+    "business_name": "Desi daru+ biryani",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "425452",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q2C4+VF8, MSH 1, Kathi, Molgi, Maharashtra 425452",
+    "area": "425452",
+    "latitude": 21.7720344,
+    "longitude": 74.006221,
+    "place_id": "ChIJIQANagCJ3zsRDeL_5uWNtRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIQANagCJ3zsRDeL_5uWNtRc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:32:35"
+  }
+]

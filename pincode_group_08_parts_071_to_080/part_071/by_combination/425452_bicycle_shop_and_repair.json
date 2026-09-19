@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "1817 The Bicycle House",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "425452",
+    "phone_number": "+91 96642 31220",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 353,
+    "address": "Shop No. 8, Jay Tower, Khopat Rd, opp. Punjani Industrial Estate, near Cadbury Junction, Thane West, Thane, Maharashtra 400601",
+    "area": "Thane West",
+    "latitude": 19.2040392,
+    "longitude": 72.9696575,
+    "place_id": "ChIJGZfuQJa75zsRpQ8XA9pO7-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZfuQJa75zsRpQ8XA9pO7-s",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:33:03"
+  },
+  {
+    "business_name": "Ryder Cycles",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle rack, Bicycle repair shop, Bicycle wholesaler, Used bicycle shop",
+    "pincode": "425452",
+    "phone_number": "+91 75064 71392",
+    "website": "https://rydercycles.com/",
+    "rating": 4.7,
+    "reviews_count": 332,
+    "address": "Shop No.12, D-Wing, Latiff Park, Mira Bhayandar Rd, opp. S.K.Stone Police Chowki, Mumbai, Maharashtra 401107",
+    "area": "Chandan Shanti, Mira Road East",
+    "latitude": 19.2861613,
+    "longitude": 72.86899489999999,
+    "place_id": "ChIJ1VIFrEew5zsRoz_6SHKXNm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1VIFrEew5zsRoz_6SHKXNm0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:33:03"
+  }
+]

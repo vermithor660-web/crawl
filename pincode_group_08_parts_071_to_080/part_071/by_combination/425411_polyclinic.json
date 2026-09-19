@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Ganesh Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Physician referral service",
+    "all_categories": "Physician referral service, General practitioner",
+    "pincode": "425411",
+    "phone_number": "+91 2566 244 501",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "8HJ6+4GH, Near Bus Stand, Dada Sheb Rawal Market Complex, Dondaicha, Maharashtra 425408",
+    "area": "Patel Colony",
+    "latitude": 21.330303999999998,
+    "longitude": 74.561351,
+    "place_id": "ChIJGUqHLIkX3zsRQyxTk7ddy6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUqHLIkX3zsRQyxTk7ddy6o",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 05:55:37"
+  },
+  {
+    "business_name": "जय अम्बे क्लिनिक, डॉ. कल्पेश पटेल.",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "425411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "96HR+P8P, Gandhinagar, Nandurbar, Maharashtra 425412",
+    "area": "Gandhinagar",
+    "latitude": 21.379327,
+    "longitude": 74.24083,
+    "place_id": "ChIJs2VyS-IJ3zsRec34UQPCe4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs2VyS-IJ3zsRec34UQPCe4Q",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 05:55:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rawla Nonveg Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "425424",
+    "phone_number": "+91 76651 53934",
+    "website": "http://ravlarestaurant.com/",
+    "rating": 4.1,
+    "reviews_count": 73,
+    "address": "Transport nagar car bajar hotel Love ke paas, Vishwakarma Nagar, Transport Nagar, Rangbari, Kota, Rajasthan 324005",
+    "area": "Vishwakarma Nagar, Transport Nagar, Rangbari",
+    "latitude": 25.1293269,
+    "longitude": 75.8502256,
+    "place_id": "ChIJfeihCM6bbzkRPZzQ0DzINVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfeihCM6bbzkRPZzQ0DzINVs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:19:54"
+  },
+  {
+    "business_name": "Hotel Zakir !!!",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant, Chinese restaurant, Mughlai restaurant, Restaurant, South Indian restaurant, Vegetarian restaurant",
+    "pincode": "425424",
+    "phone_number": "+91 99932 74321",
+    "website": "http://www.hotelzakir.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "156, Khajrana Rd, Khijarabad Colony, Ashraf Nagar, Khajrana, Indore, Madhya Pradesh 452016",
+    "area": "Khijarabad Colony, Ashraf Nagar, Khajrana",
+    "latitude": 22.7331008,
+    "longitude": 75.9141765,
+    "place_id": "ChIJCX4pmbniYjkRiQtCaBpVOSA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCX4pmbniYjkRiQtCaBpVOSA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:19:55"
+  }
+]

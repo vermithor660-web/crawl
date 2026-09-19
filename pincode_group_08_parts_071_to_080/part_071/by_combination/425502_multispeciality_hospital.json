@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aashirvad Hospital Faizpur",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "425502",
+    "phone_number": "+91 2585 246 820",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 51,
+    "address": "Plot no.13, Tal, saraswati nagar, Faizpur, Yawal, Maharashtra 425503",
+    "area": "saraswati nagar",
+    "latitude": 21.1672081,
+    "longitude": 75.854953,
+    "place_id": "ChIJwUOFZ9Ot2TsRmk41VnQvZHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwUOFZ9Ot2TsRmk41VnQvZHA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:36:33"
+  },
+  {
+    "business_name": "Saraswati Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Dental clinic",
+    "pincode": "425502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "45, Mahabal Rd, Jai Nagar, Ramdas Colony, Jalgaon, Maharashtra 425002",
+    "area": "Jai Nagar, Ramdas Colony",
+    "latitude": 20.9953711,
+    "longitude": 75.5588915,
+    "place_id": "ChIJV2-PzUwO2TsRSShGOptOCpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV2-PzUwO2TsRSShGOptOCpQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:36:33"
+  }
+]

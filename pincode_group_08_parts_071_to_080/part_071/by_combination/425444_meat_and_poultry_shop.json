@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mollana mutton shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "425444",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "shop no.2, Mutton market, Pansemal, Matrala, Madhya Pradesh 451770",
+    "area": "425444",
+    "latitude": 21.659131,
+    "longitude": 74.7011179,
+    "place_id": "ChIJ9f1BBbtF3zsRijku7BvWcLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9f1BBbtF3zsRijku7BvWcLs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:30:40"
+  },
+  {
+    "business_name": "Maharashtra Mutton Shop (Nabi)",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "425444",
+    "phone_number": "+91 77700 08187",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "opp. Shivsena Office, Kamatghar, Bhiwandi, Maharashtra 421305",
+    "area": "Kamatghar",
+    "latitude": 19.27696,
+    "longitude": 73.05547,
+    "place_id": "ChIJ_928KQy95zsRQ2Xpj8YQq94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_928KQy95zsRQ2Xpj8YQq94",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:30:42"
+  }
+]

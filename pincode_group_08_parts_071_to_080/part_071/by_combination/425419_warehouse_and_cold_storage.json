@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arihant cold storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "425419",
+    "phone_number": "+91 11 4057 7723",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "7, MIDC, Nimblak, Maharashtra 414111",
+    "area": "MIDC",
+    "latitude": 19.1550728,
+    "longitude": 74.6875049,
+    "place_id": "ChIJ48DEJuC73DsRZfO8sXgYPpk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ48DEJuC73DsRZfO8sXgYPpk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:12:05"
+  },
+  {
+    "business_name": "Delightfresh produce pvt Ltd",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "425419",
+    "phone_number": "+91 95033 48309",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 15,
+    "address": "Tembhurni karmala highway wangi fata (pangre, tal, Jeur, Karmala, Maharashtra 413202",
+    "area": "425419",
+    "latitude": 18.1996181,
+    "longitude": 75.1929741,
+    "place_id": "ChIJtZsqQouJxDsRTYjbbztpC18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtZsqQouJxDsRTYjbbztpC18",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:12:06"
+  }
+]

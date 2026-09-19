@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Royal Heritage Tent Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel",
+    "pincode": "425412",
+    "phone_number": "+91 90998 11023",
+    "website": "https://theroyalheritagetentresort.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "statue of unity, Kevadia, Akteshwar, Gujarat 393151",
+    "area": "425412",
+    "latitude": 21.898937099999998,
+    "longitude": 73.6497566,
+    "place_id": "ChIJ55LVEJIFYDkRKlpVarYL9gY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ55LVEJIFYDkRKlpVarYL9gY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 05:58:26"
+  },
+  {
+    "business_name": "Hotel J J & lodging",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Restaurant",
+    "pincode": "425412",
+    "phone_number": "+91 90948 17111",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Sakri road, Nizampur, Bhamer, Maharashtra 424305",
+    "area": "Nizampur",
+    "latitude": 21.0923834,
+    "longitude": 74.3380488,
+    "place_id": "ChIJ80zmoJL93jsRvxVNYtPiJPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ80zmoJL93jsRvxVNYtPiJPI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 05:58:27"
+  }
+]

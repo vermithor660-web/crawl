@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "krishnal fruit Company",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "425508",
+    "phone_number": "+91 96443 36666",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 8,
+    "address": "Bahadarpur, Madhya Pradesh 450331",
+    "area": "425508",
+    "latitude": 21.2856833,
+    "longitude": 76.1637252,
+    "place_id": "ChIJNffz1LM02DsR78WjQH_eRBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNffz1LM02DsR78WjQH_eRBs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:48:57"
+  },
+  {
+    "business_name": "Nilesh Tea & Cold Drinks Corner",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Coffee shop, Soft drinks shop",
+    "pincode": "425508",
+    "phone_number": "+91 95529 14912",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Lohare, Maharashtra 425504",
+    "area": "425508",
+    "latitude": 21.2584171,
+    "longitude": 75.9344571,
+    "place_id": "ChIJZ_JrdgCz2TsRVvttwtcZi2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ_JrdgCz2TsRVvttwtcZi2o",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:48:57"
+  }
+]

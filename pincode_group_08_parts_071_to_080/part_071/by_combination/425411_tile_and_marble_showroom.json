@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gaurav ceramics",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "425411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "96QQ+MJQ, Taloda Rd, Ramdev Nagar, Darmaraj Nagar, Nandurbar, Maharashtra 425412",
+    "area": "Ramdev Nagar, Darmaraj Nagar",
+    "latitude": 21.3885739,
+    "longitude": 74.239778,
+    "place_id": "ChIJ0a0uae8L3zsRIbzM3H2nwsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0a0uae8L3zsRIbzM3H2nwsU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 05:55:56"
+  },
+  {
+    "business_name": "Rushabh Ceramic",
+    "search_category": "Tile and Marble Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "425411",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sakri Road, Civil Hospital Road, opp. Bhau petrol pump, Nandurbar, Maharashtra 425412",
+    "area": "425411",
+    "latitude": 21.3431098,
+    "longitude": 74.2334675,
+    "place_id": "ChIJVadWbQAJ3zsRQNG2HqYRIU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVadWbQAJ3zsRQNG2HqYRIU4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 05:55:56"
+  }
+]

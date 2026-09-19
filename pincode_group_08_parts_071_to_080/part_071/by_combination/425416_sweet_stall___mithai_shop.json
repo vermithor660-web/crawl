@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sagar Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant, Indian sweets shop",
+    "pincode": "425416",
+    "phone_number": "+91 63755 07537",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Shop No 01, Satana Rd, opp. SBI Bank, Pimpalner, Maharashtra 424306",
+    "area": "425416",
+    "latitude": 20.9525641,
+    "longitude": 74.12477109999999,
+    "place_id": "ChIJD6_zl0lR3jsRlp98yARPmOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6_zl0lR3jsRlp98yARPmOs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:05:04"
+  },
+  {
+    "business_name": "BALAJI SWEETS DEVARAMSOBUDARAM",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "425416",
+    "phone_number": "+91 95792 63710",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, Main Rd, Bazar, Mai Rd, Chinchpada Main, Chinchpada, Maharashtra 425417",
+    "area": "425416",
+    "latitude": 21.1902317,
+    "longitude": 73.9153633,
+    "place_id": "ChIJuyNHw4-33zsRMmeVKLz7mKM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuyNHw4-33zsRMmeVKLz7mKM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:05:04"
+  }
+]

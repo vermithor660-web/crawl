@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarvoday Agro Industries",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "425503",
+    "phone_number": "+91 257 221 1241",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 57,
+    "address": "D-52, MIDC Area, MIDC, Jalgaon, Maharashtra 425003",
+    "area": "MIDC Area, MIDC",
+    "latitude": 20.9897669,
+    "longitude": 75.5781047,
+    "place_id": "ChIJd6-UF_kO2TsRznn8QUIKBv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd6-UF_kO2TsRznn8QUIKBv0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:39:34"
+  },
+  {
+    "business_name": "Laxmi Agro Processors",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service",
+    "pincode": "425503",
+    "phone_number": "+91 89992 45784",
+    "website": "https://laxmiagroprocessors.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MIDC, Gajanan Co Operative Housing Society, Chopda, Maharashtra 425107",
+    "area": "MIDC, Gajanan Co Operative Housing Society",
+    "latitude": 21.2488559,
+    "longitude": 75.30832079999999,
+    "place_id": "ChIJx7Ou5clZtqARAwABuA6FFSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx7Ou5clZtqARAwABuA6FFSQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:39:37"
+  }
+]

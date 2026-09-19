@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE GREEN LINE RESORT HOTELS",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "425505",
+    "phone_number": "+91 79724 59363",
+    "website": "http://thegreenlineresort.wixsite.com/website",
+    "rating": 4,
+    "reviews_count": 233,
+    "address": "THE GREEN LINE RESORT, Shahapur, Maharashtra 444807",
+    "area": "425505",
+    "latitude": 21.4107451,
+    "longitude": 77.33663299999999,
+    "place_id": "ChIJr7FV8whX1jsRxORvDE7YdAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr7FV8whX1jsRxORvDE7YdAI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:42:47"
+  },
+  {
+    "business_name": "SWAGAT Farm House",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "425505",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 55,
+    "address": "SWAGAT Farmhouse, behind H2O Water park, Abdimandi, Maharashtra 431002",
+    "area": "425505",
+    "latitude": 19.956175299999998,
+    "longitude": 75.22420249999999,
+    "place_id": "ChIJsQSdUlqR2zsR6yrBq8c931Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsQSdUlqR2zsR6yrBq8c931Y",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:42:47"
+  }
+]

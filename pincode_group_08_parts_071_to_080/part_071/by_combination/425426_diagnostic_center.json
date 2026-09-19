@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PERFECT DIAGNOSTIC CENTRE",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center, Medical diagnostic imaging center",
+    "pincode": "425426",
+    "phone_number": "+91 63782 93645",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near Post Office, Vallabhnagar, Rajasthan 313601",
+    "area": "425426",
+    "latitude": 24.6783423,
+    "longitude": 74.00168289999999,
+    "place_id": "ChIJ3TyKCgDbZzkRJ-mGpauFd1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3TyKCgDbZzkRJ-mGpauFd1c",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:22:06"
+  },
+  {
+    "business_name": "Dhaner Primary Health Sub Center",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "425426",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "33R7+5WV, Dhaner, Maharashtra 424304",
+    "area": "425426",
+    "latitude": 21.0904764,
+    "longitude": 74.06478539999999,
+    "place_id": "ChIJ2QoDZ81S3jsRUPede-FEiVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2QoDZ81S3jsRUPede-FEiVE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:22:06"
+  }
+]

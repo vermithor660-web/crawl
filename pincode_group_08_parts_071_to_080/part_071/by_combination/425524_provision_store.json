@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahaveer Provision & General Store",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "425524",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2H75+G22, Datta Colony, Jalgaon, Maharashtra 425001",
+    "area": "Datta Colony",
+    "latitude": 21.0137692,
+    "longitude": 75.55749999999999,
+    "place_id": "ChIJ0fsBHQAP2TsRvn_DokLLA48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0fsBHQAP2TsRvn_DokLLA48",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:49:09"
+  },
+  {
+    "business_name": "Sagar Shoppee",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "425524",
+    "phone_number": "+91 94040 33262",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "15, MIDC Area, Sadguru Nagar, Old MIDC, Jalgaon, Maharashtra 425003",
+    "area": "Sadguru Nagar, Old MIDC",
+    "latitude": 20.999187,
+    "longitude": 75.5849665,
+    "place_id": "ChIJ_y4cuQIP2TsRa_61y5Vz6eU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_y4cuQIP2TsRa_61y5Vz6eU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:49:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maya Book Centre",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Books Wholesaler, Medical Book Store",
+    "pincode": "425427",
+    "phone_number": "+91 93723 60150",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "SARASWATI' , OPPOSITE SBI AURANGPURA BRANCH, NEAR AURANGPURA POLICE CHOWKI, Aurangpura, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Gulmandi, Aurangpura",
+    "latitude": 19.8847329,
+    "longitude": 75.329095,
+    "place_id": "ChIJmxQTlhKY2zsRe7tNk1pErxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmxQTlhKY2zsRe7tNk1pErxI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:24:42"
+  },
+  {
+    "business_name": "Big Store LLP",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Gift shop, Wholesaler",
+    "pincode": "425427",
+    "phone_number": "+91 80871 80871",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 148,
+    "address": "3/4/5/6, New Gulmandi Rd, Gomtesh Market, Khokadpura, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Gomtesh Market, Khokadpura",
+    "latitude": 19.8833791,
+    "longitude": 75.3303593,
+    "place_id": "ChIJ9dplRQ2Y2zsR59SWTENCbSI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9dplRQ2Y2zsR59SWTENCbSI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:24:42"
+  }
+]

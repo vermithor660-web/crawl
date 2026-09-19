@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DIPESH Cloth Stores",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "425505",
+    "phone_number": "+91 99238 64343",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Rd, Raver, Maharashtra 425508",
+    "area": "425505",
+    "latitude": 21.2474627,
+    "longitude": 76.036436,
+    "place_id": "ChIJbV-Z1zG12TsRAHsJ5LiXh84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbV-Z1zG12TsRAHsJ5LiXh84",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:41:55"
+  },
+  {
+    "business_name": "India Readymade Shop",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "425505",
+    "phone_number": "+91 92729 01642",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 8, Parivartan Chauk, Muktainagar, Maharashtra 425306",
+    "area": "425505",
+    "latitude": 21.046098699999998,
+    "longitude": 76.0612123,
+    "place_id": "ChIJH1aoQoC52TsR9MzUPmNsLII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH1aoQoC52TsR9MzUPmNsLII",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:41:56"
+  }
+]

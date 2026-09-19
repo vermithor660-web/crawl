@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "7th Avenue Jewellery",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry designer",
+    "all_categories": "Jewelry designer",
+    "pincode": "425426",
+    "phone_number": "+91 95129 09996",
+    "website": "http://www.7thavenuejewellery.com/",
+    "rating": 4.8,
+    "reviews_count": 35,
+    "address": "402-403 Sarthik, 2, Ahmedabad, Gujarat 380015",
+    "area": "Bodakdev",
+    "latitude": 23.0350014,
+    "longitude": 72.5109623,
+    "place_id": "ChIJ3XokYWabXjkRPP4eTAkL9DQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3XokYWabXjkRPP4eTAkL9DQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:21:54"
+  },
+  {
+    "business_name": "Tulsi Jewellery",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Goldsmith, Manufacturer, Silversmith",
+    "pincode": "425426",
+    "phone_number": "+91 94267 58978",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "A/G/23, Gold Coin Complex, Jodhpur Cross Road, Satellite Rd, Satellite, Ahmedabad, Gujarat 380015",
+    "area": "Kameshwar Vihar, Suryapooja Block B, Satellite",
+    "latitude": 23.025695,
+    "longitude": 72.527243,
+    "place_id": "ChIJwY8vY86EXjkRLkJtsewlTlo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwY8vY86EXjkRLkJtsewlTlo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:21:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M/s. Lokmanya Medical Stores",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Veterinary pharmacy",
+    "all_categories": "Veterinary pharmacy",
+    "pincode": "425420",
+    "phone_number": "+91 257 222 4037",
+    "website": "https://ms-lokmanya-medical.grexa.site/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "5, Mahatma Gandhi Rd, Baliram Peth, Jalgaon, Maharashtra 425001",
+    "area": "Baliram Peth",
+    "latitude": 21.0157264,
+    "longitude": 75.56982169999999,
+    "place_id": "ChIJeQXZaqEP2TsRj6kHCGc7-dg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeQXZaqEP2TsRj6kHCGc7-dg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:12:51"
+  },
+  {
+    "business_name": "M/s Dhanwantari Medical Agencies",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Pharmaceutical Products Wholesaler",
+    "all_categories": "Pharmaceutical Products Wholesaler, Pharmacy",
+    "pincode": "425420",
+    "phone_number": "+91 257 223 4167",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "114, Vardhaman Residency, Jilha Peth, opp. Raymond Showroom, Jalgaon, Maharashtra 425001",
+    "area": "Jaikisan Wadi",
+    "latitude": 21.0093602,
+    "longitude": 75.56513989999999,
+    "place_id": "ChIJ-UGmDKUP2TsR76vBNRDFAac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-UGmDKUP2TsR76vBNRDFAac",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:12:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yogi taxi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "425414",
+    "phone_number": "+91 85115 65744",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Colony, Kevadia, Gujarat 393151",
+    "area": "425414",
+    "latitude": 21.8877238,
+    "longitude": 73.6977589,
+    "place_id": "ChIJ3-rYK1kdYDkR-7KskQbF_1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-rYK1kdYDkR-7KskQbF_1U",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:01:58"
+  },
+  {
+    "business_name": "DECENT CAB AND DRIVER SERVICE",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "425414",
+    "phone_number": "+91 95101 42525",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Subhanpura, Vadodara, Gujarat 390021",
+    "area": "Subhanpura",
+    "latitude": 22.3205846,
+    "longitude": 73.146461,
+    "place_id": "ChIJwUDf3M_JXzkRUhts9SNn-vA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwUDf3M_JXzkRUhts9SNn-vA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:01:58"
+  }
+]

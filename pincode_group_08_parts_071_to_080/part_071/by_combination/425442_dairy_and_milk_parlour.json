@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shashikant Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "425442",
+    "phone_number": "+91 96891 30477",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "460/61, 464, Jawaharlal Nehru Rd, near Power House, Porwal Metallica, Rasta Peth, Pune, Maharashtra 411002",
+    "area": "Porwal Metallica, Rasta Peth",
+    "latitude": 18.5187341,
+    "longitude": 73.8686802,
+    "place_id": "ChIJ__YAKUPAwjsRvGf_yZVjieI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__YAKUPAwjsRvGf_yZVjieI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:28:53"
+  },
+  {
+    "business_name": "Shri Mann Dairy Farm",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy farm",
+    "all_categories": "Dairy farm",
+    "pincode": "425442",
+    "phone_number": "+91 98229 98995",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shop No.2 & 3, Shiv Sagar Bldg., Nr. Cosmos Bank, Jhamtani Chowk, Pimpri, Pune, Maharashtra 411017",
+    "area": "Shastri Nagar, Pimpri Colony",
+    "latitude": 18.6173261,
+    "longitude": 73.7998952,
+    "place_id": "ChIJBxWLlVW4wjsR-nlJ3ar-b8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBxWLlVW4wjsR-nlJ3ar-b8c",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:28:53"
+  }
+]

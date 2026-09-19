@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K-LOUNGE",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "425412",
+    "phone_number": "+91 98237 12760",
+    "website": "https://www.klounge.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Taloda Rd, Bethel Colony, Sindhi Colony, Nandurbar, Maharashtra 425412",
+    "area": "Bethel Colony, Sindhi Colony",
+    "latitude": 21.3835232,
+    "longitude": 74.24015709999999,
+    "place_id": "ChIJZ7S43PQJ3zsRz4zZuYaSspc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ7S43PQJ3zsRz4zZuYaSspc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 05:59:15"
+  },
+  {
+    "business_name": "Mansuri Gas Service",
+    "search_category": "Shops",
+    "primary_category": "Gas shop",
+    "all_categories": "Gas shop, Home goods store",
+    "pincode": "425412",
+    "phone_number": "+91 75078 62070",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "near sharda auto parts, Viral Vihar, Nandurbar, Maharashtra 425412",
+    "area": "Viral Vihar",
+    "latitude": 21.3680718,
+    "longitude": 74.24242699999999,
+    "place_id": "ChIJ80hvl0wJ3zsRSuZXJpamtXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ80hvl0wJ3zsRSuZXJpamtXU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 05:59:18"
+  }
+]

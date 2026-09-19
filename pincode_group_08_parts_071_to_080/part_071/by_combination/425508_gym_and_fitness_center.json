@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAVINDRA VANKHEDE",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "General practitioner",
+    "all_categories": "General practitioner, Fitness center",
+    "pincode": "425508",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Main Rd, Raver, Maharashtra 425508",
+    "area": "425508",
+    "latitude": 21.2488639,
+    "longitude": 76.03347579999999,
+    "place_id": "ChIJIwdnU2ex2TsRqik5lCCQkd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIwdnU2ex2TsRqik5lCCQkd8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:47:50"
+  },
+  {
+    "business_name": "Aaradhya fitness club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "425508",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "73C6+6RM, Kerhale Bk., Maharashtra 425508",
+    "area": "425508",
+    "latitude": 21.2705903,
+    "longitude": 76.062041,
+    "place_id": "ChIJ0VMqxyG12TsRtha6Usil8lQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0VMqxyG12TsRtha6Usil8lQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:47:53"
+  }
+]

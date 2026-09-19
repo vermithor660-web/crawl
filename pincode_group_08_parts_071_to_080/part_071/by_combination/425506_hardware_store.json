@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "soham traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "425506",
+    "phone_number": "+91 80553 92924",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "shop no 1, renuka nagar station, road, nimbhorae, Nimbhore, Maharashtra 425506",
+    "area": "nimbhorae",
+    "latitude": 21.1647994,
+    "longitude": 75.9680463,
+    "place_id": "ChIJw7S7CB2x2TsRwtqGaQRz5kQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw7S7CB2x2TsRwtqGaQRz5kQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:44:18"
+  },
+  {
+    "business_name": "Mahajan Traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "425506",
+    "phone_number": "+91 2584 280 339",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5X7C+HFF, Nimbhore, Maharashtra 425506",
+    "area": "425506",
+    "latitude": 21.1639418,
+    "longitude": 75.9711666,
+    "place_id": "ChIJKf50w12x2TsRwKevqDiDxA4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKf50w12x2TsRwKevqDiDxA4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:44:18"
+  }
+]

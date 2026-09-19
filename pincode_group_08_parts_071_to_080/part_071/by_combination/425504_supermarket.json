@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arush Tadavi",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "425504",
+    "phone_number": "+91 75886 43866",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Main Road, Savkhede Bk., Maharashtra 425504",
+    "area": "425504",
+    "latitude": 21.221161,
+    "longitude": 75.9049862,
+    "place_id": "ChIJM2NHTl6z2TsRRWpe6C4ZDGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM2NHTl6z2TsRRWpe6C4ZDGU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:39:49"
+  },
+  {
+    "business_name": "AK TRADERS , GROCERY AND AGRICULTURE Shop",
+    "search_category": "Supermarket",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service, Agricultural cooperative, Agricultural Product Wholesaler, Agricultural production, Cotton Supplier, General store, Indian grocery store, Agricultural Seed Store, Trading card store",
+    "pincode": "425504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pal,Tel, Ashram Shala Rd, Ekta chowk, Raver, Pal, Maharashtra 425504",
+    "area": "Ekta chowk",
+    "latitude": 21.3626798,
+    "longitude": 75.90226419999999,
+    "place_id": "ChIJgcyEMqRP2DsRI1bgrQHi6P4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgcyEMqRP2DsRI1bgrQHi6P4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:39:49"
+  }
+]

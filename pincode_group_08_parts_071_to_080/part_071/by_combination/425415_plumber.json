@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ammar Plumbing services",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "425415",
+    "phone_number": "+91 70661 22203",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 28,
+    "address": "Khadka Rd, Usmaniya Colony, Gandhi Nagar, Gadkari Nagar, Bhusawal, Maharashtra 425201",
+    "area": "Usmaniya Colony, Gandhi Nagar, Gadkari Nagar",
+    "latitude": 21.0403757,
+    "longitude": 75.7937266,
+    "place_id": "ChIJwXSOCSmn2TsRJZelbWUaFbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwXSOCSmn2TsRJZelbWUaFbM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:03:53"
+  },
+  {
+    "business_name": "Jagdish Bhoi Bhoi",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "425415",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Bazar, Khapar, Maharashtra 425419",
+    "area": "425415",
+    "latitude": 21.5328277,
+    "longitude": 73.93002059999999,
+    "place_id": "ChIJOf-5PVGV3zsRd7dcEyuV_Js",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOf-5PVGV3zsRd7dcEyuV_Js",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:03:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Patil Dhaba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "425507",
+    "phone_number": "+91 77095 67555",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 54,
+    "address": "Shop No 1, near Malkapur Road, Mukatai Nagar, Purnad, Maharashtra 425306",
+    "area": "425507",
+    "latitude": 21.096263999999998,
+    "longitude": 76.07875,
+    "place_id": "ChIJ76DXya232TsR1onX69cDQGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ76DXya232TsR1onX69cDQGw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:45:37"
+  },
+  {
+    "business_name": "7 Days Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Soup kitchen",
+    "all_categories": "Soup kitchen",
+    "pincode": "425507",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "2PRR+G6J, Sakegaon, Maharashtra 425203",
+    "area": "425507",
+    "latitude": 21.041346,
+    "longitude": 75.7405141,
+    "place_id": "ChIJQ8OxJQCn2TsRMrQAr0q-xWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ8OxJQCn2TsRMrQAr0q-xWU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:45:40"
+  }
+]

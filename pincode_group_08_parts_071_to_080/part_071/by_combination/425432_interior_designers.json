@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JSR Design Solution",
+    "search_category": "Interior Designers",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop",
+    "pincode": "425432",
+    "phone_number": "+91 70384 04431",
+    "website": "http://hiteshpatil2.website3.me/",
+    "rating": 4.6,
+    "reviews_count": 8,
+    "address": "Old Mohida Rd, Kashinath Sajan Nagar, Kuber Nagar, Ganesh Nagar, Shahada, Maharashtra 425409",
+    "area": "Kashinath Sajan Nagar, Kuber Nagar, Ganesh Nagar",
+    "latitude": 21.5415422,
+    "longitude": 74.4739226,
+    "place_id": "ChIJb7AEWkJt3zsRjoTQQUhoGGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb7AEWkJt3zsRjoTQQUhoGGQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:27:53"
+  },
+  {
+    "business_name": "Shri Raamesh Constructions",
+    "search_category": "Interior Designers",
+    "primary_category": "Civil engineer",
+    "all_categories": "Civil engineer, Interior designer",
+    "pincode": "425432",
+    "phone_number": "+91 97665 77222",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "34, Shri Ram Colony, Kukdel, Shahada, Maharashtra 425409",
+    "area": "Kukdel",
+    "latitude": 21.545583999999998,
+    "longitude": 74.468333,
+    "place_id": "ChIJixUJXPZs3zsRaUNy1gIj8Ns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJixUJXPZs3zsRaUNy1gIj8Ns",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:27:56"
+  }
+]

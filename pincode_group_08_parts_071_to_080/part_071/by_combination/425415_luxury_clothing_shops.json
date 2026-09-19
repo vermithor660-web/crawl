@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Brand Lounge",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "425415",
+    "phone_number": "+91 74101 67612",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ganpati, Vitthal Mandir Rd, Swami Samartha Nagar, Nandurbar, Maharashtra 425412",
+    "area": "Swami Samartha Nagar",
+    "latitude": 21.3785488,
+    "longitude": 74.2457356,
+    "place_id": "ChIJcQVbZFAJ3zsRNlielwZoKe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQVbZFAJ3zsRNlielwZoKe4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:03:30"
+  },
+  {
+    "business_name": "SMARTLOOK Men's Wear",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Boutique, Clothing store, Jeans shop, Clothing Accessories Store, Formal Clothing Store, Sportswear store, T-shirt store, Tuxedo shop, Youth clothing store",
+    "pincode": "425415",
+    "phone_number": "+91 77094 66143",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SHOP NO - 3, BODARE COMPLEX, DAHIGAON ROAD, near STATE BANK OF INDIA, Natepute, Maharashtra 413109",
+    "area": "425415",
+    "latitude": 17.9051045,
+    "longitude": 74.7495721,
+    "place_id": "ChIJwcIl8o-TwzsRqN7e0SOKGsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwcIl8o-TwzsRqN7e0SOKGsY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:03:30"
+  }
+]

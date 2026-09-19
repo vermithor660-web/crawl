@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A-one Jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "425417",
+    "phone_number": "+91 99250 58323",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1st flr, Ashara Market, Char ratsa, opp. White House, Chauta Pul, Surat, Gujarat 395003",
+    "area": "Chauta Pul, Gopipura",
+    "latitude": 21.197786699999998,
+    "longitude": 72.8247202,
+    "place_id": "ChIJowijt2FO4DsRrTvzlr8kiVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJowijt2FO4DsRrTvzlr8kiVs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:07:08"
+  },
+  {
+    "business_name": "Aysha Times",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Belt shop, Cell phone accessory store, General store",
+    "pincode": "425417",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Visarwadi, Maharashtra 425426",
+    "area": "425417",
+    "latitude": 21.1823125,
+    "longitude": 73.9639375,
+    "place_id": "ChIJq6qq6max3zsRWjQC7LESBgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq6max3zsRWjQC7LESBgY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:07:09"
+  }
+]

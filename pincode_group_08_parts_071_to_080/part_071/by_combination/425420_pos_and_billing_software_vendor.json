@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ProtonLedger Technologies LLP",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "425420",
+    "phone_number": "+91 98472 15077",
+    "website": "https://www.protonledger.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ProtonLedger Technologies LLP, 425420, India",
+    "area": "425420",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJn5e4Y1LdPS8RwyWnFdzX5l0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn5e4Y1LdPS8RwyWnFdzX5l0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:13:39"
+  },
+  {
+    "business_name": "MargBooks",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "425420",
+    "phone_number": "+91 76767 67648",
+    "website": "https://margbooks.com/",
+    "rating": 4.3,
+    "reviews_count": 368,
+    "address": "A-82, 1st Floor, Block A, Sector 4, Noida, Uttar Pradesh 201301",
+    "area": "Block A, Sector 4",
+    "latitude": 28.5835074,
+    "longitude": 77.32105829999999,
+    "place_id": "ChIJHRfK-jLlDDkR2W7Nti2O1iE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHRfK-jLlDDkR2W7Nti2O1iE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:13:40"
+  }
+]

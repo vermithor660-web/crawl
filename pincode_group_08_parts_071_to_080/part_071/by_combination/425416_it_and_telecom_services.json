@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "425416",
+    "phone_number": "+91 75889 99883",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5 LAXMI NAGAR KORIT ROADCITY PARKNANDURBARNandurbarMAHARASHTRA, DHULE, Maharashtra 425412",
+    "area": "425416",
+    "latitude": 21.387832,
+    "longitude": 74.226835,
+    "place_id": "ChIJ61EEGkIL3zsRr5VC819V-dM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ61EEGkIL3zsRr5VC819V-dM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:06:18"
+  },
+  {
+    "business_name": "Nikhil vasave enterprises",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile network operator",
+    "all_categories": "Mobile network operator",
+    "pincode": "425416",
+    "phone_number": "+91 92841 71405",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 8,
+    "address": "At post navagaon tal, dist, Navapur, Maharashtra 425417",
+    "area": "425416",
+    "latitude": 21.2670969,
+    "longitude": 73.8522125,
+    "place_id": "ChIJ9Z8AvKi53zsRIdhaxaR4ycI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Z8AvKi53zsRIdhaxaR4ycI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:06:20"
+  }
+]

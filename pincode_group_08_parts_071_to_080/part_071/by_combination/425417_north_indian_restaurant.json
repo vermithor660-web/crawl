@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Foodie'z",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Chinese restaurant, Ice cream shop, Panipuri shop, Pizza restaurant, Punjabi restaurant",
+    "pincode": "425417",
+    "phone_number": "+91 95954 02900",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 282,
+    "address": "71/2/B/57, College Road, opp. Vanita vidyalay, beside maharastra Bank, Navapur, Maharashtra 425418",
+    "area": "425417",
+    "latitude": 21.1636862,
+    "longitude": 73.79959199999999,
+    "place_id": "ChIJFdu_JhXJ3zsRzp1ie32t4PI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFdu_JhXJ3zsRzp1ie32t4PI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:06:57"
+  },
+  {
+    "business_name": "New Rangun Restaurant(Rangoon)",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "425417",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 40,
+    "address": "5Q6Q+RW6, Navapur, Maharashtra 425418",
+    "area": "425417",
+    "latitude": 21.1620272,
+    "longitude": 73.7897775,
+    "place_id": "ChIJZ0fpiZzJ3zsRwFZhaZ_XXXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ0fpiZzJ3zsRwFZhaZ_XXXE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:06:57"
+  }
+]

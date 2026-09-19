@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suvarna Cycle",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "425502",
+    "phone_number": "+91 88050 50061",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No 2, 20, behind Kamal Store, Kanhaya Kunj, Bhusawal, Maharashtra 425201",
+    "area": "Kanhaya Kunj",
+    "latitude": 21.0457665,
+    "longitude": 75.7848889,
+    "place_id": "ChIJq6lkbhyn2TsRIwTeJ6q74Gw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6lkbhyn2TsRIwTeJ6q74Gw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:36:45"
+  },
+  {
+    "business_name": "Mohit Kid's Cycle",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle wholesaler",
+    "all_categories": "Bicycle wholesaler",
+    "pincode": "425502",
+    "phone_number": "+91 98609 14855",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 09 Dharmshala Complex, Shivaji Nagar Rd, Baliram Peth, Jalgaon, Maharashtra 425001",
+    "area": "Polan Peth, Baliram Peth",
+    "latitude": 21.0149087,
+    "longitude": 75.56873829999999,
+    "place_id": "ChIJO8FnKE0P2TsRJ5JZskM3jM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO8FnKE0P2TsRJ5JZskM3jM0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:36:47"
+  }
+]

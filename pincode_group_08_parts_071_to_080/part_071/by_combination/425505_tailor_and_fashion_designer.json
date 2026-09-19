@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal tailors & designer",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Gents Tailor",
+    "all_categories": "Gents Tailor",
+    "pincode": "425505",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "62VM+7J4, Raver, Maharashtra 425508",
+    "area": "425505",
+    "latitude": 21.2431299,
+    "longitude": 76.0340796,
+    "place_id": "ChIJgXv6EQC12TsRJCC_XSgUQ5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgXv6EQC12TsRJCC_XSgUQ5c",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:41:57"
+  },
+  {
+    "business_name": "IDT Educations Jalgaon",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "425505",
+    "phone_number": "+91 74481 84261",
+    "website": "http://www.idtnashik.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "office no 11, 5th floor, city centre, Pratap Nagar, Jalgaon, Maharashtra 425001",
+    "area": "Pratap Nagar",
+    "latitude": 21.0141851,
+    "longitude": 75.5623767,
+    "place_id": "ChIJdyi4YlcP2TsRso7-YohxK74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdyi4YlcP2TsRso7-YohxK74",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:41:58"
+  }
+]

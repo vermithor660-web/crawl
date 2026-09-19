@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Speed Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "425426",
+    "phone_number": "+91 70896 46976",
+    "website": "http://www.speedcarwash.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Besides Patly Complex, near Suraj Tiles, Industrial Area, Garra, Madhya Pradesh 481001",
+    "area": "Industrial Area",
+    "latitude": 21.8068338,
+    "longitude": 80.1532167,
+    "place_id": "ChIJPwCLqgRZKjoRHakdwdW769I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPwCLqgRZKjoRHakdwdW769I",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:22:10"
+  },
+  {
+    "business_name": "Paint Serum",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto restoration service",
+    "all_categories": "Auto restoration service",
+    "pincode": "425426",
+    "phone_number": "+91 98607 77913",
+    "website": "https://paintserum.com/",
+    "rating": 4.5,
+    "reviews_count": 28,
+    "address": "HXF5+C8H, Sai Satyam Park, Wagholi, Pune, Maharashtra 412207",
+    "area": "Sai Satyam Park, Wagholi",
+    "latitude": 18.573166699999998,
+    "longitude": 73.9585571,
+    "place_id": "ChIJkQ9qaevDwjsRDKtAY8ztaYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkQ9qaevDwjsRDKtAY8ztaYM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:22:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suyesh Resort",
+    "search_category": "Resort",
+    "primary_category": "Motel",
+    "all_categories": "Motel",
+    "pincode": "425508",
+    "phone_number": "+91 79747 44699",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 6,
+    "address": "55XG+GRX, Chapora, Madhya Pradesh 450445",
+    "area": "425508",
+    "latitude": 21.1988654,
+    "longitude": 76.1770951,
+    "place_id": "ChIJoR85GPjL2TsRkNAaBLwJaFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoR85GPjL2TsRkNAaBLwJaFQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:48:23"
+  },
+  {
+    "business_name": "Shere Punjab Dhaba",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "425508",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Indian oil petrol pump Purnadfhata, Purnad, Maharashtra 425306",
+    "area": "425508",
+    "latitude": 21.103170799999997,
+    "longitude": 76.08262479999999,
+    "place_id": "ChIJA_0Py8i52TsRo-AkSlSJmG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_0Py8i52TsRo-AkSlSJmG4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:48:24"
+  }
+]

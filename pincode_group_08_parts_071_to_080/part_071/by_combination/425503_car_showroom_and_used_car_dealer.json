@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khandesh car ac",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Auto auction",
+    "all_categories": "Auto auction",
+    "pincode": "425503",
+    "phone_number": "+91 97668 67592",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khandesh car ac nikko in complex, Khadka Rd, near city hospital, Mohammdi Nagar, chaufully, Bhusawal, Maharashtra 425201",
+    "area": "Mohammdi Nagar, chaufully",
+    "latitude": 21.033656,
+    "longitude": 75.7927789,
+    "place_id": "ChIJsa7oyyGn2TsRs5VVKqtlKoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsa7oyyGn2TsRs5VVKqtlKoA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:38:33"
+  },
+  {
+    "business_name": "Focus Hyundai",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Hyundai dealer",
+    "all_categories": "Hyundai dealer, Car dealer",
+    "pincode": "425503",
+    "phone_number": "N/A",
+    "website": "http://focus.hyundaimotor.in/",
+    "rating": 4.8,
+    "reviews_count": 177,
+    "address": "F286+RG2, Bhadgaon Rd, opposite Ghate Complex, Vivekanand Colony, Rahipuri, Chalisgaon, Maharashtra 424101",
+    "area": "Vivekanand Colony, Rahipuri",
+    "latitude": 20.4670232,
+    "longitude": 75.0112414,
+    "place_id": "ChIJk41P-wtV2TsRFtk5q-pO2no",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk41P-wtV2TsRFtk5q-pO2no",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:38:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Timber Trading Company",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Lumber store",
+    "all_categories": "Lumber store",
+    "pincode": "425452",
+    "phone_number": "+91 98660 17747",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "4, New Bhoiguda Timber Depot Ln, M.I.G.H colony, New Bhoiguda, Bhoiguda, Secunderabad, Telangana 500003",
+    "area": "M.I.G.H colony, New Bhoiguda, Bhoiguda",
+    "latitude": 17.427540999999998,
+    "longitude": 78.4996838,
+    "place_id": "ChIJFzx-lIqZyzsRm2NlPw5iv08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFzx-lIqZyzsRm2NlPw5iv08",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:33:10"
+  },
+  {
+    "business_name": "Singh Enterprise – Apson Plywood & Urban Nest Furniture",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Furniture Manufacturer",
+    "all_categories": "Furniture Manufacturer, Furniture maker, Furniture wholesaler, Interior designer, Kitchen furniture store, Office furniture store, Plywood supplier",
+    "pincode": "425452",
+    "phone_number": "+91 85118 10416",
+    "website": "https://urban-nest.co.in/",
+    "rating": 4.8,
+    "reviews_count": 79,
+    "address": "Opp. BPCL Petrol Pump, IPCL Rd, near Tapi Hotel, Ranoli, Vadodara, Gujarat 391350",
+    "area": "Ranoli GIDC, Ranoli",
+    "latitude": 22.3933586,
+    "longitude": 73.136138,
+    "place_id": "ChIJbQAAQC7KXzkRnRI4sxBAxc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbQAAQC7KXzkRnRI4sxBAxc8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:33:10"
+  }
+]

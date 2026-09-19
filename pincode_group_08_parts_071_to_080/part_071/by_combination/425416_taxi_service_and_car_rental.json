@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car/Taxi Rental Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Service establishment",
+    "pincode": "425416",
+    "phone_number": "+91 90160 70454",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Car/Taxi Rental Service, 425416, India",
+    "area": "425416",
+    "latitude": 25.9065951,
+    "longitude": 87.8262439,
+    "place_id": "ChIJOfMqEUE55TkR2DwrEOjqupA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOfMqEUE55TkR2DwrEOjqupA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:05:37"
+  },
+  {
+    "business_name": "7Cabs Taxi Service & Cab & Car Rentle",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Air taxi, Bus tour agency, Car leasing service, Car rental agency, Minibus taxi service, Motoring club, Tour agency, Tour operator, Travel agency",
+    "pincode": "425416",
+    "phone_number": "N/A",
+    "website": "https://7cabs.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Flat No 401, 4th Floor, Aarambh Hights, Panchavati, Hanuman Nagar, Nashik, Maharashtra 422003",
+    "area": "Panchavati, Hanuman Nagar",
+    "latitude": 20.0122848,
+    "longitude": 73.82983709999999,
+    "place_id": "ChIJx61exALr3TsR-3saeNi0ujM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx61exALr3TsR-3saeNi0ujM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:05:37"
+  }
+]

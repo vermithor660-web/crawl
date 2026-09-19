@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nirvana Realty",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer, Property investment company",
+    "pincode": "425417",
+    "phone_number": "+91 98333 22442",
+    "website": "https://mynirvana.in/",
+    "rating": 4,
+    "reviews_count": 367,
+    "address": "Building B/50, 5th Floor, Off New Link Rd, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "Veera Desai Industrial Estate, Andheri West",
+    "latitude": 19.138651499999998,
+    "longitude": 72.8331511,
+    "place_id": "ChIJbd9OnMu25zsRExUwRXU-5qE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbd9OnMu25zsRExUwRXU-5qE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:08:20"
+  },
+  {
+    "business_name": "Impressive Properties – Navi Mumbai & Panvel",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Property management company",
+    "all_categories": "Property management company",
+    "pincode": "425417",
+    "phone_number": "+91 84249 56171",
+    "website": "https://impressiveproperties.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "CHSL,Plot No 18, Hari Ashirwad CHS, Shop No 7, near Panvel Railway Station, Sector 15A, New Panvel East, Panvel, Maharashtra 410206",
+    "area": "Sector 15A, New Panvel East, Panvel",
+    "latitude": 18.9907959,
+    "longitude": 73.1247679,
+    "place_id": "ChIJ-2PgG2zp5zsRUpZn1sHn6Ac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-2PgG2zp5zsRUpZn1sHn6Ac",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:08:23"
+  }
+]

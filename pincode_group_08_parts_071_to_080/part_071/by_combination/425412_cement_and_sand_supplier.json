@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Danita Traders",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "425412",
+    "phone_number": "+91 86687 30440",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Katariya Furniture Mall, Near, Prakasha Rd, Shirish Kumar Nagar, Swami Vivekanand Nagar, Kukdel, Maharashtra 425409",
+    "area": "Shirish Kumar Nagar, Swami Vivekanand Nagar",
+    "latitude": 21.5352851,
+    "longitude": 74.4694568,
+    "place_id": "ChIJ791_MFUL3zsR568-bnbw1NU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ791_MFUL3zsR568-bnbw1NU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 05:58:06"
+  },
+  {
+    "business_name": "Surya Cement Articles",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Concrete product supplier",
+    "all_categories": "Concrete product supplier",
+    "pincode": "425412",
+    "phone_number": "+91 98795 45892",
+    "website": "http://www.suryacementarticles.com/",
+    "rating": 4.7,
+    "reviews_count": 18,
+    "address": "NH-8, opp. Lucky Punjab Hotel Varnama, Gujarat 391243",
+    "area": "425412",
+    "latitude": 22.1632885,
+    "longitude": 73.18349649999999,
+    "place_id": "ChIJfQnKkQTDXzkRdYvFMdHMqXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfQnKkQTDXzkRdYvFMdHMqXs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 05:58:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Sales Agencies",
+    "search_category": "Tradeshows",
+    "primary_category": "Import export company",
+    "all_categories": "Import export company",
+    "pincode": "425504",
+    "phone_number": "+91 98900 30301",
+    "website": "https://www.palodbharat.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Co-operative Industrial Estate, A-30, Aurangabad - Ajanta - Jalgaon Rd, Ayodhya Nagar, Old MIDC, Jalgaon, Maharashtra 425003",
+    "area": "Ayodhya Nagar, Old MIDC",
+    "latitude": 20.9991764,
+    "longitude": 75.5796938,
+    "place_id": "ChIJHWRU8L4O2TsR9fGEv3LB13U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHWRU8L4O2TsR9fGEv3LB13U",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:41:31"
+  },
+  {
+    "business_name": "भाग्यश्री वेल्डीग वर्कर्स",
+    "search_category": "Tradeshows",
+    "primary_category": "Metal workshop",
+    "all_categories": "Metal workshop",
+    "pincode": "425504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Plot No 8, Gat No 139/2B, Vyankatesh Nagar, Rd, Harivitthal Nagar, Jalgaon, Maharashtra 425002",
+    "area": "Harivitthal Nagar",
+    "latitude": 20.9952973,
+    "longitude": 75.5405401,
+    "place_id": "ChIJkdvV_fcP2TsRa9zWno4fnCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkdvV_fcP2TsRa9zWno4fnCc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:41:32"
+  }
+]

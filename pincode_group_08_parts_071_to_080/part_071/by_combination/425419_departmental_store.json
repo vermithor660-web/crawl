@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "P H Provision",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "425419",
+    "phone_number": "+91 78748 87755",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Road, Selamba, Gujarat 393025",
+    "area": "425419",
+    "latitude": 21.516671799999997,
+    "longitude": 73.820452,
+    "place_id": "ChIJAdXJ-7Tr3zsRpcoUVxZcl5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAdXJ-7Tr3zsRpcoUVxZcl5I",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:10:29"
+  },
+  {
+    "business_name": "Sana Provision Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "425419",
+    "phone_number": "+91 81281 71471",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Sagbara, Gujarat 393050",
+    "area": "425419",
+    "latitude": 21.5450068,
+    "longitude": 73.79096969999999,
+    "place_id": "ChIJh-asxWPs3zsRq-V3HbBwtMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh-asxWPs3zsRq-V3HbBwtMM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:10:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Priti healthcare Dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "425416",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C3QG+8VR, Dhanora, Maharashtra 425416",
+    "area": "425416",
+    "latitude": 21.4383677,
+    "longitude": 74.07714159999999,
+    "place_id": "ChIJHWO7l1Kj3zsRj6pI_pBqny8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHWO7l1Kj3zsRj6pI_pBqny8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:05:24"
+  },
+  {
+    "business_name": "Dr.Gavits dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dentist",
+    "all_categories": "Dentist",
+    "pincode": "425416",
+    "phone_number": "+91 77387 35087",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near bus stand, opposite Shyam provision, Teacher colony, Visarwadi, Maharashtra 425426",
+    "area": "Teacher colony",
+    "latitude": 21.1805685,
+    "longitude": 73.96629039999999,
+    "place_id": "ChIJHTKpXfyx3zsRUqBe3i3E2uo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHTKpXfyx3zsRUqBe3i3E2uo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:05:25"
+  }
+]

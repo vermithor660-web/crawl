@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PromotEdge",
+    "search_category": "Social Media Marketing Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Audio visual consultant, Graphic designer, Marketing agency, Marketing consultant, Video production service, Website designer",
+    "pincode": "425428",
+    "phone_number": "+91 98363 34345",
+    "website": "https://www.promotedge.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Ambuja Neotia EcoCentre 4, 508, EM Block, Sector V, Bidhannagar, Kolkata, West Bengal 700091",
+    "area": "EM Block, Sector V, Bidhannagar",
+    "latitude": 22.5769309,
+    "longitude": 88.4281802,
+    "place_id": "ChIJy1SNdOR1AjoRQ4TWC0zQdcw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy1SNdOR1AjoRQ4TWC0zQdcw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:26:55"
+  },
+  {
+    "business_name": "Kaavay - IT Consultancy & Services",
+    "search_category": "Social Media Marketing Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Business development service, Business to business service, Graphic designer, Software company, Web hosting company, Website designer",
+    "pincode": "425428",
+    "phone_number": "+91 80871 77139",
+    "website": "https://kaavay.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "FiiRE, Salesian Society, Don Bosco, The, Fatorda, Margao, Goa 403602",
+    "area": "Fatorda",
+    "latitude": 15.2917639,
+    "longitude": 73.9690708,
+    "place_id": "ChIJaw64LjS3vzsRLmSVVIQW4Pk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaw64LjS3vzsRLmSVVIQW4Pk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:26:55"
+  }
+]

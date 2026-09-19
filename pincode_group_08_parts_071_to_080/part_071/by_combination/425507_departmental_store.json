@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GAYATRI PROVISION",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, General store",
+    "pincode": "425507",
+    "phone_number": "+91 91680 92225",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 18,
+    "address": "SHOP NO 111/2, Bhusawal Rd, near GAYATRI MANDIR, Muktainagar, Maharashtra 425306",
+    "area": "425507",
+    "latitude": 21.0439603,
+    "longitude": 76.057777,
+    "place_id": "ChIJ7yXOoV642TsRsjJI_vQhnTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7yXOoV642TsRsjJI_vQhnTE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:45:24"
+  },
+  {
+    "business_name": "Sayee Dairy",
+    "search_category": "Departmental Store",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Business center, Supermarket",
+    "pincode": "425507",
+    "phone_number": "+91 94229 74420",
+    "website": "http://sayeedairy.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No.01, Main Road, Muktainagar, Maharashtra 425306",
+    "area": "425507",
+    "latitude": 21.043647999999997,
+    "longitude": 76.0616742,
+    "place_id": "ChIJLSMfD1642TsRy3loBrDD-hM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLSMfD1642TsRy3loBrDD-hM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:45:25"
+  }
+]

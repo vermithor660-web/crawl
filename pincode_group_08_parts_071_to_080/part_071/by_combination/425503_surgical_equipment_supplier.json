@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sadguru Medical System",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store",
+    "pincode": "425503",
+    "phone_number": "+91 99609 44798",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Shop No.27, Surbhi Tower, Ring Rd, Surbhi Nagar, Ramdev Baba Nagar, Bhusawal, Maharashtra 425201",
+    "area": "Surbhi Nagar, Ramdev Baba Nagar",
+    "latitude": 21.0363553,
+    "longitude": 75.78615359999999,
+    "place_id": "ChIJy3xd42qm2TsRSYlSfWR2eOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy3xd42qm2TsRSYlSfWR2eOU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:38:27"
+  },
+  {
+    "business_name": "Gurudev Surgicals",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store",
+    "pincode": "425503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shanti Nagar, Kandari, Maharashtra 425201",
+    "area": "Shanti Nagar",
+    "latitude": 21.0516828,
+    "longitude": 75.7796025,
+    "place_id": "ChIJEcUOEiOm2TsRNwVgziWAqHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEcUOEiOm2TsRNwVgziWAqHk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:38:27"
+  }
+]

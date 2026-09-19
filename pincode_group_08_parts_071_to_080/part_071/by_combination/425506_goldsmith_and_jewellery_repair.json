@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suvidha Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Silversmith",
+    "pincode": "425506",
+    "phone_number": "+91 90751 74778",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sarafa Bazaar, near Jama Masjid, Kanhaya Kunj, Bhusawal, Maharashtra 425201",
+    "area": "Kanhaya Kunj",
+    "latitude": 21.0443327,
+    "longitude": 75.7849916,
+    "place_id": "ChIJ28v74Tqn2TsRFKTnqmAXDqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ28v74Tqn2TsRFKTnqmAXDqo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:43:48"
+  },
+  {
+    "business_name": "S. V. Bondre Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "425506",
+    "phone_number": "+91 93092 59755",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 31,
+    "address": "Bondre Jewellers, Bondre complex, S.V, DP Rd, Gandhi Nagar, Chikhli, Maharashtra 443201",
+    "area": "Gandhi Nagar",
+    "latitude": 20.3478031,
+    "longitude": 76.2578168,
+    "place_id": "ChIJ2W3ZOQ8Q2jsRe6uMyv1Y4KA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2W3ZOQ8Q2jsRe6uMyv1Y4KA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:43:49"
+  }
+]

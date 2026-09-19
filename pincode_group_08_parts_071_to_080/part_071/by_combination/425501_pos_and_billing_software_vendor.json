@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VIVASOFT Inc.",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "425501",
+    "phone_number": "+91 72630 42176",
+    "website": "https://vivasoft.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "403, Monarch Tower B-wing, Orbital empier, Jaitala, Digdoh, Maharashtra 440036",
+    "area": "Jaitala",
+    "latitude": 21.1066121,
+    "longitude": 79.0154895,
+    "place_id": "ChIJp4tv3Iq_1DsRs2Ly6AX7DSw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp4tv3Iq_1DsRs2Ly6AX7DSw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:35:34"
+  },
+  {
+    "business_name": "GoDelight Technologies",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "425501",
+    "phone_number": "+91 88797 33828",
+    "website": "https://www.godelight.in/",
+    "rating": 4.9,
+    "reviews_count": 151,
+    "address": "1st Floor, National Storage Building, 112, Bldg, SB Kadri Marg, next to Indian Oil Petrol Pump, Mahim, Mumbai, Maharashtra 400016",
+    "area": "Bethany Co-Operative Housing Society, New Dinkar Co Operative Housing Society, Mahim",
+    "latitude": 19.0364416,
+    "longitude": 72.8474067,
+    "place_id": "ChIJ5y_sAzrP5zsRLxa5INVdiU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5y_sAzrP5zsRLxa5INVdiU4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:35:35"
+  }
+]

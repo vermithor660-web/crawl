@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samarth Online Services",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "425506",
+    "phone_number": "+91 90493 02260",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nimbhora - Balwadi Rd, Nimbhore, Maharashtra 425506",
+    "area": "425506",
+    "latitude": 21.165337599999997,
+    "longitude": 75.9659787,
+    "place_id": "ChIJ5XW8iZux2TsRxLhtz9xQ9xo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5XW8iZux2TsRxLhtz9xQ9xo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:44:57"
+  },
+  {
+    "business_name": "Ganesh Mobile Shop",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "425506",
+    "phone_number": "+91 70302 09265",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, near Bus Stop, Wagodhe, Woghode BK, Maharashtra 425502",
+    "area": "425506",
+    "latitude": 21.165872699999998,
+    "longitude": 75.9219191,
+    "place_id": "ChIJQaYixRSx2TsRZjPCa34PKmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQaYixRSx2TsRZjPCa34PKmM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:44:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravi Industries",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical plant",
+    "all_categories": "Chemical plant",
+    "pincode": "425501",
+    "phone_number": "+91 98927 04607",
+    "website": "https://ravi-industries.com/",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "G-45, MIDC, Jalgaon, Maharashtra 425003",
+    "area": "MIDC",
+    "latitude": 20.985917,
+    "longitude": 75.5923201,
+    "place_id": "ChIJexDCsOgO2TsRoLUHrO0TkyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJexDCsOgO2TsRoLUHrO0TkyI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:35:47"
+  },
+  {
+    "business_name": "KOLHE CHEMICAL",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Industrial chemicals wholesaler",
+    "all_categories": "Industrial chemicals wholesaler, Chemical Manufacturer",
+    "pincode": "425501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raver - Bhusawal Hwy, Bamnod, Maharashtra 425503",
+    "area": "425501",
+    "latitude": 21.138814399999998,
+    "longitude": 75.80955399999999,
+    "place_id": "ChIJY4MJ6Dqs2TsRPvUAHAFu0uE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY4MJ6Dqs2TsRPvUAHAFu0uE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:35:49"
+  }
+]

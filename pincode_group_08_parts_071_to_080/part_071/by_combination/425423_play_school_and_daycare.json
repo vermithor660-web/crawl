@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jayesh house",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "425423",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CP72+QRJ, Tarhadi Tarf Tarhad, Maharashtra 425427",
+    "area": "425423",
+    "latitude": 21.414474,
+    "longitude": 74.7020209,
+    "place_id": "ChIJh2RfSEc73zsRWIb94lkwR0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh2RfSEc73zsRWIb94lkwR0M",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:19:03"
+  },
+  {
+    "business_name": "Mount Carmel Pre-School",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "425423",
+    "phone_number": "+91 96898 14867",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Behind Shetkari Bhavan, Near Badgire Hospital Mohite Gully, Chendhre, Chendhare, Maharashtra 402201",
+    "area": "425423",
+    "latitude": 18.6523079,
+    "longitude": 72.87548009999999,
+    "place_id": "ChIJfRzc8cp76DsRRpf3UfxXrbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRzc8cp76DsRRpf3UfxXrbA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:19:05"
+  }
+]

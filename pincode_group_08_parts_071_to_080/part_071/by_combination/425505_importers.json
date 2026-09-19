@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OmniGen export",
+    "search_category": "Importers",
+    "primary_category": "Import export company",
+    "all_categories": "Import export company, Exporter, Fruits & Vegetable Wholesaler",
+    "pincode": "425505",
+    "phone_number": "+91 94215 18386",
+    "website": "https://www.omnigenexport.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 4 Savda, Main Rd, near P E Tatya Market, Raver, Maharashtra 425508",
+    "area": "425505",
+    "latitude": 21.2431019,
+    "longitude": 76.0341475,
+    "place_id": "ChIJG6N48Wu12TsRjupfGIx7h1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6N48Wu12TsRjupfGIx7h1U",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:43:19"
+  },
+  {
+    "business_name": "Sakhi Spices",
+    "search_category": "Importers",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "425505",
+    "phone_number": "+91 80 3788 0536",
+    "website": "https://www.sakhispices.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Madhuri Santosh Chaudhri At. Post, Tal, Chinawal, Raver, Maharashtra 425505",
+    "area": "425505",
+    "latitude": 21.1973366,
+    "longitude": 75.9244792,
+    "place_id": "ChIJ4WxatYSz2TsRBgQK6Efk_Zo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4WxatYSz2TsRBgQK6Efk_Zo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:43:19"
+  }
+]

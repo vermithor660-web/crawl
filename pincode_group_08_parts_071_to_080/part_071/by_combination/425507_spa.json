@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tonge Jents Parlour",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "425507",
+    "phone_number": "+91 70588 93307",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 01, Old Bus Stand Road, near Vijay Tayes, Muktainagar, Jalgaon, Maharashtra 425306",
+    "area": "425507",
+    "latitude": 21.0462518,
+    "longitude": 76.0606057,
+    "place_id": "ChIJSSQwfxe52TsR_stfR_4dcWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSSQwfxe52TsR_stfR_4dcWE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:46:20"
+  },
+  {
+    "business_name": "Sushrut Hospital",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa, Hospital",
+    "pincode": "425507",
+    "phone_number": "+91 77984 82971",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near 33pratibha Nagar, Main Road, Maharashtra 425306",
+    "area": "425507",
+    "latitude": 21.044044799999998,
+    "longitude": 76.0589534,
+    "place_id": "ChIJx54Vdl642TsR4Qs8-YaFyZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx54Vdl642TsR4Qs8-YaFyZQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:46:20"
+  }
+]

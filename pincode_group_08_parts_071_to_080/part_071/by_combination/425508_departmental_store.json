@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BAJRANG KIRANA",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "425508",
+    "phone_number": "+91 96042 39320",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No 6 Walmik Nagar, New Nimbol, Maharashtra 425508",
+    "area": "New Nimbol",
+    "latitude": 21.2118103,
+    "longitude": 76.0328445,
+    "place_id": "ChIJGyri3yq12TsRpNp5ELUEgck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGyri3yq12TsRpNp5ELUEgck",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:47:16"
+  },
+  {
+    "business_name": "Chaudhari Kirana",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "425508",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gandhi Chowk, Raver, Raver rural, Maharashtra 425508",
+    "area": "425508",
+    "latitude": 21.247705999999997,
+    "longitude": 76.0378666,
+    "place_id": "ChIJvYaSBwC12TsRSqJlHDYNZO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvYaSBwC12TsRSqJlHDYNZO4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:47:16"
+  }
+]

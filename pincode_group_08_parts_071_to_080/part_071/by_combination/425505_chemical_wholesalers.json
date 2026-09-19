@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Chemicals Pvt.Ltd",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Agrochemicals Supplier",
+    "all_categories": "Agrochemicals Supplier",
+    "pincode": "425505",
+    "phone_number": "+91 77220 67505",
+    "website": "https://www.laxmichemicalsltd.com/",
+    "rating": 4.8,
+    "reviews_count": 17,
+    "address": "Laxmi Plaza, 68, gujrati lane, Old B J Market, Jaikisan Wadi, Jalgaon, Maharashtra 425001",
+    "area": "Old B J Market, Jaikisan Wadi",
+    "latitude": 21.011919499999998,
+    "longitude": 75.5665266,
+    "place_id": "ChIJz9IzRKQP2TsRoCgjpG0l35s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz9IzRKQP2TsRoCgjpG0l35s",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:43:13"
+  },
+  {
+    "business_name": "Vega Chemicals Pvt. Ltd.",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer",
+    "pincode": "425505",
+    "phone_number": "+91 88888 57715",
+    "website": "http://www.calx.in/",
+    "rating": 4.2,
+    "reviews_count": 9,
+    "address": "F-23/24/25, MIDC, Jalgaon, Maharashtra 425003",
+    "area": "MIDC",
+    "latitude": 20.977282499999998,
+    "longitude": 75.5888822,
+    "place_id": "ChIJDd8KIDwP2TsRLJURgZJUcgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDd8KIDwP2TsRLJURgZJUcgs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:43:13"
+  }
+]

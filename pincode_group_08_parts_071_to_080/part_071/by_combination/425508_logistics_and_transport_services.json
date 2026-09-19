@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Sai Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service",
+    "pincode": "425508",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "62VQ+WHP, Raver, Maharashtra 425508",
+    "area": "425508",
+    "latitude": 21.2448355,
+    "longitude": 76.038938,
+    "place_id": "ChIJ8fBVH-C02TsRTEQPRQTYTT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8fBVH-C02TsRTEQPRQTYTT4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:48:01"
+  },
+  {
+    "business_name": "Jalgaon Golden Transport Pvt Ltd",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "425508",
+    "phone_number": "+91 257 221 0786",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 16,
+    "address": "2GCV+2JJ, Old Dhule Highway, Muktainagar, Jalgaon, Maharashtra 425001",
+    "area": "Muktainagar",
+    "latitude": 21.0200861,
+    "longitude": 75.544024,
+    "place_id": "ChIJVVeuTgEP2TsRGQYeY-ErviM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVeuTgEP2TsRGQYeY-ErviM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:48:01"
+  }
+]

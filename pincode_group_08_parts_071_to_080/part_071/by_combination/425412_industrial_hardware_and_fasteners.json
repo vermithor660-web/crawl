@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pratik Hardware",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "425412",
+    "phone_number": "+91 98812 24825",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No 02, H239+VW3, Main Rd, near BSNL TOWER, Makranifali, Maharashtra 425415",
+    "area": "425412",
+    "latitude": 21.5546649,
+    "longitude": 74.0198395,
+    "place_id": "ChIJAYKEsKGR3zsRFsbtf1lMcrs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAYKEsKGR3zsRFsbtf1lMcrs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 05:58:59"
+  },
+  {
+    "business_name": "Pational Steel Trader's &Scrape Suppliers",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Wholesaler",
+    "pincode": "425412",
+    "phone_number": "+91 77759 04512",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Khetiya Rd, Shahada, Maloni, Maharashtra 425409",
+    "area": "425412",
+    "latitude": 21.5609157,
+    "longitude": 74.4760289,
+    "place_id": "ChIJD5_MyF5t3zsR9yorPRQhlc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD5_MyF5t3zsR9yorPRQhlc0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 05:59:01"
+  }
+]

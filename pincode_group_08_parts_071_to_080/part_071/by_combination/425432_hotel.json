@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE BROTHERS BIRYANI",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "425432",
+    "phone_number": "+91 76208 78363",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "THE BROTHERS BIRYANI, Lonkheda, Maharashtra 425409",
+    "area": "425432",
+    "latitude": 21.5666278,
+    "longitude": 74.483642,
+    "place_id": "ChIJ8VQEJrBt3zsR5KctaB_jr5Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8VQEJrBt3zsR5KctaB_jr5Q",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:28:08"
+  },
+  {
+    "business_name": "Rajasthani Bhojnaloye",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "425432",
+    "phone_number": "+91 98202 02471",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RAJASTHANI BHOJNALOYE, Shahada - Bhada Rd, Kuber Nagar, Gokulbhai Nagar, Shahada, Maharashtra 425409",
+    "area": "Kuber Nagar, Gokulbhai Nagar",
+    "latitude": 21.5450654,
+    "longitude": 74.4718334,
+    "place_id": "ChIJtX5KP4Bt3zsRNYJrJ6RxtrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtX5KP4Bt3zsRNYJrJ6RxtrI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:28:08"
+  }
+]

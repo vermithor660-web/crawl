@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mr.Rollwala and Food Cafe",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "425501",
+    "phone_number": "+91 84848 85658",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Main Gate, Jamner Rd, opp. Sindhi Colony, Sindhi Colony, Bhusawal, Maharashtra 425201",
+    "area": "Sindhi Colony",
+    "latitude": 21.034377799999998,
+    "longitude": 75.7811167,
+    "place_id": "ChIJbRyR9Bun2TsRsciduXj1Cgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbRyR9Bun2TsRsciduXj1Cgs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:34:26"
+  },
+  {
+    "business_name": "Famous Misal Centre",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant",
+    "pincode": "425501",
+    "phone_number": "+91 98230 40428",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Maerand Complex, 2/A, Mahabal Rd, Mahabal, Samata Nagar, Jalgaon, Maharashtra 425002",
+    "area": "Mahabal, Samata Nagar",
+    "latitude": 20.9881548,
+    "longitude": 75.5559324,
+    "place_id": "ChIJq_J8T0kO2TsRD6_x9m1iDQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq_J8T0kO2TsRD6_x9m1iDQc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:34:26"
+  }
+]

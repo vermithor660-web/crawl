@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nature's Basket",
+    "search_category": "Organic Food Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Gourmet grocery store",
+    "pincode": "425426",
+    "phone_number": "+91 74000 47334",
+    "website": "http://www.naturesbasket.co.in/",
+    "rating": 4.2,
+    "reviews_count": 1435,
+    "address": "Plot No.352, Shop No. 1 and 2, Ground Floor, Business Square, 3, Lane Number 5, Koregaon Park, Pune, Maharashtra 411001",
+    "area": "Ganga Fortune Society, Meera Nagar, Koregaon Park",
+    "latitude": 18.5367277,
+    "longitude": 73.8973663,
+    "place_id": "ChIJZUAllUnBwjsRnX-Fy8R0m5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZUAllUnBwjsRnX-Fy8R0m5c",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:21:36"
+  },
+  {
+    "business_name": "PrasannaTa Natural Foods",
+    "search_category": "Organic Food Store",
+    "primary_category": "Natural goods store",
+    "all_categories": "Natural goods store, Indian sweets shop, Supermarket",
+    "pincode": "425426",
+    "phone_number": "+91 63038 87822",
+    "website": "https://prasannatafoods.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gandipet Main Rd, Power Welfare Society, Manchirevula, Kokapet, Hyderabad, Telangana 500075",
+    "area": "Power Welfare Society, Manchirevula",
+    "latitude": 17.3869035,
+    "longitude": 78.3470117,
+    "place_id": "ChIJ7zgxYgCVyzsR0380goTYwjk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7zgxYgCVyzsR0380goTYwjk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:21:37"
+  }
+]

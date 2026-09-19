@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mayur Patil",
+    "search_category": "Insurance Agent",
+    "primary_category": "Life insurance agency",
+    "all_categories": "Life insurance agency",
+    "pincode": "425501",
+    "phone_number": "+91 82084 97048",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Thorgavan, Raipur, Maharashtra 425501",
+    "area": "425501",
+    "latitude": 21.0927135,
+    "longitude": 75.8766333,
+    "place_id": "ChIJT4WFGKSv2TsRkLwZc5Hz2dU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT4WFGKSv2TsRkLwZc5Hz2dU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:35:37"
+  },
+  {
+    "business_name": "AZHARI computers",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "425501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2152/1, Patil Pura, Savda, Maharashtra 425502",
+    "area": "Patil Pura",
+    "latitude": 21.150579999999998,
+    "longitude": 75.885925,
+    "place_id": "ChIJ2aAJdACv2TsRy5Vb0v_6nRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2aAJdACv2TsRy5Vb0v_6nRk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:35:37"
+  }
+]

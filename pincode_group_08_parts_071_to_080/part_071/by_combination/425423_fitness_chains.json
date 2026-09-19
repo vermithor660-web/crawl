@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Universal Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "425423",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5H7M+JW4, behind TC college chinchkar chowk, Pragatinagar, Baramati, Maharashtra 413102",
+    "area": "Pragatinagar",
+    "latitude": 18.164025,
+    "longitude": 74.5848239,
+    "place_id": "ChIJtU33FAihwzsRFJw_hCBnDu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtU33FAihwzsRFJw_hCBnDu4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:18:28"
+  },
+  {
+    "business_name": "BODYLEAN FITNESS",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness Equipment Wholesaler",
+    "all_categories": "Fitness Equipment Wholesaler, Service establishment",
+    "pincode": "425423",
+    "phone_number": "+91 85569 64946",
+    "website": "http://www.bodyleanfitness.com/",
+    "rating": 4.3,
+    "reviews_count": 352,
+    "address": "BODYLEAN FITNESS, 425423, India",
+    "area": "425423",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJv9CgCDFbGjkRPT4j0mvUKEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv9CgCDFbGjkRPT4j0mvUKEA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:18:30"
+  }
+]

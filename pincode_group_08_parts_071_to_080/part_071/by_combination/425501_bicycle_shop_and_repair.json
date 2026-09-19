@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BIKE POINT",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electric motorcycle dealer",
+    "all_categories": "Electric motorcycle dealer, Electric motor repair shop",
+    "pincode": "425501",
+    "phone_number": "+91 91560 08304",
+    "website": "https://bike-point-mehrun-jalgaon.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": 16,
+    "address": "SHOP NO 2, R.N. PARK APARTMENT, Mehrun Rd, Mehrun, Jalgaon, Maharashtra 425003",
+    "area": "Mehrun",
+    "latitude": 20.9924279,
+    "longitude": 75.5783359,
+    "place_id": "ChIJY8qJBUgP2TsRauatw79xIoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY8qJBUgP2TsRauatw79xIoE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:34:54"
+  },
+  {
+    "business_name": "JOSHI BROTHERS",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "425501",
+    "phone_number": "+91 91757 47262",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Gorakshan Rd, Sahakar Nagar, Akola, Maharashtra 444004",
+    "area": "Sahakar Nagar",
+    "latitude": 20.6916181,
+    "longitude": 77.0174564,
+    "place_id": "ChIJAzcLXsIt1zsRQZnFrIAKYZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAzcLXsIt1zsRQZnFrIAKYZc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:34:57"
+  }
+]

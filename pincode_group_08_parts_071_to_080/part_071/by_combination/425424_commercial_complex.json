@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GFXC+Q49 Nagar Palika Shopping Complex",
+    "search_category": "Commercial Complex",
+    "primary_category": "Building",
+    "all_categories": "Building",
+    "pincode": "425424",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GFXC+Q49, Khetiya Rd, Garib Nawaz Colony, Mahalaxmi Nagar, Shahada, Maharashtra 425409",
+    "area": "Garib Nawaz Colony, Mahalaxmi Nagar",
+    "latitude": 21.5493685,
+    "longitude": 74.47039939999999,
+    "place_id": "ChIJqWqPS19s3zsR3XOtk_cc8Ks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqWqPS19s3zsR3XOtk_cc8Ks",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:21:32"
+  },
+  {
+    "business_name": "Umiya ceramic",
+    "search_category": "Commercial Complex",
+    "primary_category": "Tile store",
+    "all_categories": "Tile store",
+    "pincode": "425424",
+    "phone_number": "+91 97666 97776",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Saibaba Nagar, Mohide-t-shahade, Maharashtra 425409",
+    "area": "Saibaba Nagar",
+    "latitude": 21.538750999999998,
+    "longitude": 74.4811842,
+    "place_id": "ChIJmzZzDfxt3zsRP94SaXTGe3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmzZzDfxt3zsRP94SaXTGe3g",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:21:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhavik Book Centre",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "425444",
+    "phone_number": "+91 99600 99927",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 1322,
+    "address": "Shop No. 12, KT Chawl, Vasai Station Rd, Navghar Manikpur, Vishal Nagar, Vasai West, Mumbai, Vasai-Virar, Maharashtra 401202",
+    "area": "Navghar Manikpur, Vishal Nagar, Vasai West",
+    "latitude": 19.3838725,
+    "longitude": 72.8301793,
+    "place_id": "ChIJwfVE28Cu5zsRXCmTrOz38e4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwfVE28Cu5zsRXCmTrOz38e4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:31:50"
+  },
+  {
+    "business_name": "Raj book depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "425444",
+    "phone_number": "+91 81696 44301",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 1044,
+    "address": "Ishwar Nagar Lal Bahadur Shastri Marg, 2nd, Bhandup Station Rd, opposite M S E B Office, Bhandup West, Mumbai, Maharashtra 400078",
+    "area": "Bhandup West",
+    "latitude": 19.143716899999998,
+    "longitude": 72.9344602,
+    "place_id": "ChIJdVR7DHq45zsRxzLItAgq_kA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdVR7DHq45zsRxzLItAgq_kA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:31:50"
+  }
+]

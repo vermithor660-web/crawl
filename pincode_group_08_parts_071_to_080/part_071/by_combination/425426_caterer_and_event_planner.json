@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SMC CATERERS",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "425426",
+    "phone_number": "N/A",
+    "website": "http://smceventplanner.com/",
+    "rating": 5,
+    "reviews_count": 44,
+    "address": "Sherwani Nagar, Ishanika, town, Lucknow, Uttar Pradesh 226013",
+    "area": "Sherwani Nagar, Ishanika, town",
+    "latitude": 26.9370786,
+    "longitude": 80.92249489999999,
+    "place_id": "ChIJEePPGgBXmTkRH9h8Hj4vu6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEePPGgBXmTkRH9h8Hj4vu6U",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:22:40"
+  },
+  {
+    "business_name": "Sandesh Caterers & Event planner",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Caterer, Wedding service",
+    "pincode": "425426",
+    "phone_number": "+91 98921 29914",
+    "website": "http://www.sandeshcaterers.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gajanan Maharaj Chowk, 1, opp. Bldg.No.56, Kannamwar Nagar II, Vikhroli East, Mumbai, Maharashtra 400083",
+    "area": "Kannamwar Nagar II, Vikhroli East",
+    "latitude": 19.1140447,
+    "longitude": 72.9372228,
+    "place_id": "ChIJ44ERfpjH5zsRyC8Ut4I9T7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ44ERfpjH5zsRyC8Ut4I9T7M",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:22:41"
+  }
+]

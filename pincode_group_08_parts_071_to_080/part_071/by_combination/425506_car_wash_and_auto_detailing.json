@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Engineer's Auto Detailing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car detailing service",
+    "all_categories": "Car detailing service",
+    "pincode": "425506",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/engineersautodetailing/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "8, Babu Lalchand Chajlani Rd, near railway crossing, Tejpur Gadbadi, Indore, Madhya Pradesh 452009",
+    "area": "Tejpur Gadbadi",
+    "latitude": 22.687456599999997,
+    "longitude": 75.8435816,
+    "place_id": "ChIJOaT3_aj9YjkR9u9Q-MszuJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOaT3_aj9YjkR9u9Q-MszuJA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:44:07"
+  },
+  {
+    "business_name": "Mahindra washing center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "425506",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Waghoda road, near petrol pump, Nimbhore, Maharashtra 425506",
+    "area": "425506",
+    "latitude": 21.1666076,
+    "longitude": 75.9602364,
+    "place_id": "ChIJTQSt3zSx2TsR7xpCnM-5WY4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQSt3zSx2TsR7xpCnM-5WY4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:44:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rapid Owl Towing",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Auto wrecker",
+    "pincode": "425505",
+    "phone_number": "N/A",
+    "website": "https://rapidowltowing.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "114 Williams Blvd Unit 2, Fairfax, IA 52228, United States",
+    "area": "425505",
+    "latitude": 41.925408399999995,
+    "longitude": -91.7829194,
+    "place_id": "ChIJnwXOgWf75IcRgCqVfgtJBKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnwXOgWf75IcRgCqVfgtJBKk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:42:23"
+  },
+  {
+    "business_name": "TopFuel Towing & Transport",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "425505",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "TopFuel Towing & Transport, 425505, India",
+    "area": "425505",
+    "latitude": 42.0804265,
+    "longitude": -75.880493,
+    "place_id": "ChIJVfMMyIfR1okRTcr6lO5tQL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVfMMyIfR1okRTcr6lO5tQL4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:42:25"
+  }
+]

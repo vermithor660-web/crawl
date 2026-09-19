@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New spine care clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center, Chiropractor, Rehabilitation center",
+    "pincode": "425424",
+    "phone_number": "+91 74284 44874",
+    "website": "http://www.newspinecareclinic.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot no 3A, near Bank of Baroda, Neemeshwar MahaMandir Society, Ratan Lal Nagar, Kanpur, Uttar Pradesh 208022",
+    "area": "Neemeshwar MahaMandir Society, Ratan Lal Nagar",
+    "latitude": 26.4453651,
+    "longitude": 80.2869111,
+    "place_id": "ChIJh__p8sBHnDkRHDJVtE5XfHU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh__p8sBHnDkRHDJVtE5XfHU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:20:13"
+  },
+  {
+    "business_name": "King's physiotherapy and Ortho care clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "425424",
+    "phone_number": "+91 82992 57587",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Patti bajar - bandhawa Road, Patti, Uttar Pradesh 230135",
+    "area": "425424",
+    "latitude": 25.918721599999998,
+    "longitude": 82.20042049999999,
+    "place_id": "ChIJv2yohhufmjkRw_hOLfLP54g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2yohhufmjkRw_hOLfLP54g",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:20:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best chit fund in hyderabad",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Investment company",
+    "all_categories": "Investment company",
+    "pincode": "425412",
+    "phone_number": "+91 94416 49471",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Karmangat, Bairamalguda, Hyderabad, Telangana 500079",
+    "area": "Dwarka Nagar Colony",
+    "latitude": 17.3428474,
+    "longitude": 78.539864,
+    "place_id": "ChIJX_so5cahyzsRovSVxo9o4UY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX_so5cahyzsRovSVxo9o4UY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 05:58:49"
+  },
+  {
+    "business_name": "c.p. investment",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "425412",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6, Bhumi Plaza, Patelwadi, Nandurbar, Maharashtra 425412",
+    "area": "Patelwadi",
+    "latitude": 21.3768952,
+    "longitude": 74.2453443,
+    "place_id": "ChIJqe0KkY0J3zsRXbnEW4CEpU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqe0KkY0J3zsRXbnEW4CEpU8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 05:58:52"
+  }
+]

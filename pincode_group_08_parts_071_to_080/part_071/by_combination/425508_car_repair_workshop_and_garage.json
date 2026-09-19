@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tata Motors Limited",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "425508",
+    "phone_number": "+91 1800 209 7979",
+    "website": "https://www.tatamotors.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "NR JAY SHANKAR BHOLERAO HOTEL, NU, Raver, Maharashtra 425508",
+    "area": "425508",
+    "latitude": 21.245428,
+    "longitude": 76.0354895,
+    "place_id": "ChIJrdzDmuC02TsR5GYFl3ZhuA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrdzDmuC02TsR5GYFl3ZhuA8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:47:53"
+  },
+  {
+    "business_name": "SHRI SAMARTH AUTO GARAGE",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "425508",
+    "phone_number": "+91 91689 29895",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 3 JUNA SAVADA IN FRONT POLICE STATION, Raver, Maharashtra 425508",
+    "area": "Panchmukhi Hanuman Nagar, Tirupati Nagar",
+    "latitude": 21.240671199999998,
+    "longitude": 76.038432,
+    "place_id": "ChIJRzg1pMK12TsRIZN-p2QQMPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRzg1pMK12TsRIZN-p2QQMPQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:47:53"
+  }
+]

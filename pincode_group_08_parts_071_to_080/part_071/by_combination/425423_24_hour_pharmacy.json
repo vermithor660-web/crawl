@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parag Medical Shop",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Pet store, Surgical supply store",
+    "pincode": "425423",
+    "phone_number": "+91 98907 29150",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No 17, Shivraj Building, Agashi Rd, Gokul Twp, Virar West, Mumbai, Maharashtra 401303",
+    "area": "Gokul Township, Virar West",
+    "latitude": 19.447280499999998,
+    "longitude": 72.80131709999999,
+    "place_id": "ChIJO3_DHCuq5zsRTaNpfhSnE7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3_DHCuq5zsRTaNpfhSnE7Y",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:18:19"
+  },
+  {
+    "business_name": "Byculla Pharmacy & Stores",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical supply store",
+    "pincode": "425423",
+    "phone_number": "+91 22 6131 4000",
+    "website": "http://www.farmacross.com/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Shop No 6, Dr Ambedkar Road, Byculla East, Mazgaon, Mumbai, Maharashtra 400027",
+    "area": "Byculla East, Mazgaon",
+    "latitude": 18.975885599999998,
+    "longitude": 72.8338002,
+    "place_id": "ChIJfQjDfPTF5zsRm6aj_Piprlw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfQjDfPTF5zsRm6aj_Piprlw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:18:19"
+  }
+]

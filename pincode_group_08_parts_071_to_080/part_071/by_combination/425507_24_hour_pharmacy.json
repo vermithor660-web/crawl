@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lifeline pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "425507",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Santoshi mata mandir road Near nagori dairy Raza chowk, Mehrun, Jalgaon, Maharashtra 425003",
+    "area": "Mehrun",
+    "latitude": 20.9955347,
+    "longitude": 75.578176,
+    "place_id": "ChIJ30AhEYkP2TsRXvj3Irg_oOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ30AhEYkP2TsRXvj3Irg_oOI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:45:47"
+  },
+  {
+    "business_name": "SONY MEDICAL CHEMIST&DRUGIST",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Drug store",
+    "pincode": "425507",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Mehrun, MIDC, Jalgaon, Maharashtra 425003",
+    "area": "Mehrun, MIDC",
+    "latitude": 20.992668899999998,
+    "longitude": 75.5772424,
+    "place_id": "ChIJvSB03_4O2TsRYWywLL_g-D8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvSB03_4O2TsRYWywLL_g-D8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:45:48"
+  }
+]

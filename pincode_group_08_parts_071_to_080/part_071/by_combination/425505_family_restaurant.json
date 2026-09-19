@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Professional Non-Vej Center",
+    "search_category": "Family Restaurant",
+    "primary_category": "Non Vegetarian Restaurant",
+    "all_categories": "Non Vegetarian Restaurant",
+    "pincode": "425505",
+    "phone_number": "+91 90752 46869",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Railway Station Rd, Raver, Maharashtra 425508",
+    "area": "425505",
+    "latitude": 21.242400399999998,
+    "longitude": 76.0379226,
+    "place_id": "ChIJA6uUdCi12TsR68hDMEglTBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6uUdCi12TsR68hDMEglTBw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:41:54"
+  },
+  {
+    "business_name": "Surbhi Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "425505",
+    "phone_number": "+91 98508 45999",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "MIDC, Jalgaon, Maharashtra 425003",
+    "area": "MIDC",
+    "latitude": 20.9765876,
+    "longitude": 75.5958208,
+    "place_id": "ChIJD5F_cr0P2TsR0099EEOL1u4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD5F_cr0P2TsR0099EEOL1u4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:41:55"
+  }
+]

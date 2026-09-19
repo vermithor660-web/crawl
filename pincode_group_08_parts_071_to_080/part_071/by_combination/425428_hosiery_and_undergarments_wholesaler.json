@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DELHI HOSIERY",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "425428",
+    "phone_number": "+91 94400 62883",
+    "website": "http://www.delhihosiery.com/",
+    "rating": 4.8,
+    "reviews_count": 51,
+    "address": "22-8-512/11, Purani Haveli, Darulshifa, Hyderabad, Telangana 500002",
+    "area": "Purani Haveli, Darulshifa",
+    "latitude": 17.3697315,
+    "longitude": 78.4802155,
+    "place_id": "ChIJjf-j4-SZyzsRDGGHdsCNzI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjf-j4-SZyzsRDGGHdsCNzI0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:25:34"
+  },
+  {
+    "business_name": "Chhabra Hosiery",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Lingerie store",
+    "all_categories": "Lingerie store, Clothing store, Cosmetics store",
+    "pincode": "425428",
+    "phone_number": "+91 98117 38273",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "No.4/4, Main Market Marg, opposite Gurudwara Singh Sabha, Block 4, Ramesh Nagar, New Delhi, Delhi 110015",
+    "area": "Block 4, Ramesh Nagar",
+    "latitude": 28.6503262,
+    "longitude": 77.13700159999999,
+    "place_id": "ChIJFZcM_w8DDTkRy0CeB8pXUDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZcM_w8DDTkRy0CeB8pXUDQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:25:35"
+  }
+]

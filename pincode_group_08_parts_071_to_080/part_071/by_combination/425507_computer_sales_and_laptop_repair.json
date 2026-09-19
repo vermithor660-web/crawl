@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KD COMPUTER",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Camera store, Computer accessories store, Computer networking service, Computer Wholesaler",
+    "pincode": "425507",
+    "phone_number": "+91 98344 81923",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shree Krishna housing society, Kargaon Rd, near govt iti, Rahipuri, Chalisgaon, Maharashtra 424101",
+    "area": "Rahipuri",
+    "latitude": 20.4713815,
+    "longitude": 75.0054926,
+    "place_id": "ChIJ0x84sqpV2TsRxWOHq212XNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0x84sqpV2TsRxWOHq212XNg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:46:44"
+  },
+  {
+    "business_name": "Core Comp Systems &Services",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer accessories store",
+    "all_categories": "Computer accessories store",
+    "pincode": "425507",
+    "phone_number": "+91 97665 57746",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "02, 03, 1st FLOOR R V SONAR COMPLEX, Sai Chowk, MAIN ROAD, Muktainagar, Maharashtra 425306",
+    "area": "MAIN ROAD",
+    "latitude": 21.0448752,
+    "longitude": 76.0618154,
+    "place_id": "ChIJ_____1y42TsRSGVS1E15_RM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____1y42TsRSGVS1E15_RM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:46:44"
+  }
+]

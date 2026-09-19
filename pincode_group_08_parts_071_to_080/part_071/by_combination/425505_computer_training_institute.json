@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ideal Computer Technology",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "425505",
+    "phone_number": "+91 99223 30364",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Madina Colony, Eid Gah Rd, Raver, Maharashtra 425508",
+    "area": "425505",
+    "latitude": 21.2447873,
+    "longitude": 76.0288953,
+    "place_id": "ChIJm4jIbwC12TsRSiHnlu16yKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm4jIbwC12TsRSiHnlu16yKY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:42:52"
+  },
+  {
+    "business_name": "Vinayak Computer",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "425505",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Railway Station Rd, Tirupati Nagar, Raver, Maharashtra 425508",
+    "area": "Tirupati Nagar",
+    "latitude": 21.2418631,
+    "longitude": 76.0383623,
+    "place_id": "ChIJp5B7qFW12TsRl74FDzIQP00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp5B7qFW12TsRl74FDzIQP00",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:42:52"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharkhadevi icecream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "425432",
+    "phone_number": "+91 70626 70626",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Atal bihari komplax ka samna, Ashok Rd, Khetia, Madhya Pradesh 451881",
+    "area": "425432",
+    "latitude": 21.669696599999998,
+    "longitude": 74.5849388,
+    "place_id": "ChIJW9k4eABp3zsRGlj_6HQFlto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW9k4eABp3zsRGlj_6HQFlto",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:27:15"
+  },
+  {
+    "business_name": "Jai Gajanan Ice Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Store",
+    "pincode": "425432",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GFW9+68P, Juna mohida road, near BRC OFFICE, Shahada, Maharashtra 425409",
+    "area": "Kukdel",
+    "latitude": 21.5455841,
+    "longitude": 74.4683333,
+    "place_id": "ChIJ2Zes2Gtt3zsRxe76U-kLAh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Zes2Gtt3zsRxe76U-kLAh0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:27:18"
+  }
+]
