@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "साठवने भोजनालय & रेस्टॉरंट",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Dhaba",
+    "pincode": "441911",
+    "phone_number": "+91 80073 53264",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 5,
+    "address": "MH SH 249, Gulabtola, Birsi, Maharashtra 441911",
+    "area": "Gulabtola",
+    "latitude": 21.3617678,
+    "longitude": 79.9188245,
+    "place_id": "ChIJVdUABRcFKzoRK5C21n2zwiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVdUABRcFKzoRK5C21n2zwiI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:17:24"
+  },
+  {
+    "business_name": "River View Family Restaurant & Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "441911",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 12,
+    "address": "CVPP+F92, Unnamed Road, Kawalewada, Maharashtra 441911",
+    "area": "441911",
+    "latitude": 21.4361463,
+    "longitude": 79.88588519999999,
+    "place_id": "ChIJC3YZA2AbKzoRGaLWKdGKYtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC3YZA2AbKzoRGaLWKdGKYtQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:17:26"
+  }
+]

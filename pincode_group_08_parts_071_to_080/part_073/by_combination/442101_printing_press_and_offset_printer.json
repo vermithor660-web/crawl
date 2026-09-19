@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sana printers",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop, Corporate office",
+    "pincode": "442101",
+    "phone_number": "+91 80806 58882",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Athori Bazar, near Geeta Mandir, Dag Borkhedi, Hinganghat, Maharashtra 442301",
+    "area": "Dag Borkhedi",
+    "latitude": 20.5529479,
+    "longitude": 78.8341942,
+    "place_id": "ChIJO8eDP1h70zsR0-SyTv02stQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO8eDP1h70zsR0-SyTv02stQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:34:11"
+  },
+  {
+    "business_name": "lion printing press",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Commercial printer",
+    "all_categories": "Commercial printer",
+    "pincode": "442101",
+    "phone_number": "+91 231 269 4501",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 25,
+    "address": "423/155, Panjarpol Industrial Estate, opp. Om Ganesh Mangal Karyalay, Kolhapur, Maharashtra 416008",
+    "area": "Yadav Nagar",
+    "latitude": 16.690853,
+    "longitude": 74.2417009,
+    "place_id": "ChIJK7gv0GwAwTsR_xDTzO0ktEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK7gv0GwAwTsR_xDTzO0ktEQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:34:12"
+  }
+]

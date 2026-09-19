@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reshma Panshop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "442104",
+    "phone_number": "+91 98504 46670",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No1, Near, Ambedkar Chowk, Sarekar Ali, Mahad, Maharashtra 402301",
+    "area": "Sarekar Ali",
+    "latitude": 18.0808988,
+    "longitude": 73.41789059999999,
+    "place_id": "ChIJLUeZj7Mr6DsROOx4uwTP538",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLUeZj7Mr6DsROOx4uwTP538",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:36:36"
+  },
+  {
+    "business_name": "Paan Shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Tobacco shop",
+    "all_categories": "Tobacco shop",
+    "pincode": "442104",
+    "phone_number": "+91 96373 88171",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 05, Near, 70 Feet Rd, New Paccha peth, Sakhar Peth, Solapur, Maharashtra 413006",
+    "area": "New Paccha peth, Sakhar Peth",
+    "latitude": 17.6665283,
+    "longitude": 75.9266928,
+    "place_id": "ChIJedH9R4TbxTsRhixP6Ft2Cys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJedH9R4TbxTsRhixP6Ft2Cys",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:36:36"
+  }
+]

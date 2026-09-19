@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "W Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "442101",
+    "phone_number": "+91 96650 65222",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 75,
+    "address": "PJRR+7VF, Warud, Wardha, Sevagram, Maharashtra 442102",
+    "area": "Warud",
+    "latitude": 20.7332073,
+    "longitude": 78.6693265,
+    "place_id": "ChIJL6qhLwCB1DsR-NB5szpk8Ok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL6qhLwCB1DsR-NB5szpk8Ok",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:33:08"
+  },
+  {
+    "business_name": "Hotel Bypass Veg and Non-veg Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "442101",
+    "phone_number": "+91 90964 80082",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Yavatmal Bypass Road, near Hindi Vishwa Vidyalaya and Hotel Paradize, Pipri, Nagpur, Wardha, Maharashtra 442001",
+    "area": "Pipri",
+    "latitude": 20.7682087,
+    "longitude": 78.5854835,
+    "place_id": "ChIJH_oShyV_1DsRVQ0C4J9HlW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH_oShyV_1DsRVQ0C4J9HlW4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:33:08"
+  }
+]

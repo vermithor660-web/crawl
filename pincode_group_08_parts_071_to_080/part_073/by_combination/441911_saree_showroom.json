@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kirti Saree Center",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "441911",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "CW5J+877, Tiroda, Maharashtra 441911",
+    "area": "441911",
+    "latitude": 21.4082774,
+    "longitude": 79.9306831,
+    "place_id": "ChIJsR8s3icFKzoROIIHMdiUPpU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsR8s3icFKzoROIIHMdiUPpU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:17:29"
+  },
+  {
+    "business_name": "NEW BELANI SAREE CENTER",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "441911",
+    "phone_number": "+91 96578 91720",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Belani Saree Center, 3, Avantika Bai Chowk Main Road, Tiroda, Maharashtra 441911",
+    "area": "441911",
+    "latitude": 21.4084069,
+    "longitude": 79.9319452,
+    "place_id": "ChIJp4asgl0FKzoRr3DhuE3I4fw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp4asgl0FKzoRr3DhuE3I4fw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:17:29"
+  }
+]

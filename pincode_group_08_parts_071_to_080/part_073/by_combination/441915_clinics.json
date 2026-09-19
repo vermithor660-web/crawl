@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govind Ayurved",
+    "search_category": "Clinics",
+    "primary_category": "Ayurvedic clinic",
+    "all_categories": "Ayurvedic clinic, Herbalist, Holistic medicine practitioner",
+    "pincode": "441915",
+    "phone_number": "+91 93260 14687",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jageshwar, Bhandarkar Patil Galii, Ghatkuroda, Maharashtra 441911",
+    "area": "441915",
+    "latitude": 21.3778804,
+    "longitude": 79.8082919,
+    "place_id": "ChIJR9UKx6EZKzoRcFJeSRqhUEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR9UKx6EZKzoRcFJeSRqhUEM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:24:35"
+  },
+  {
+    "business_name": "KATRE MULTISPECIALITY CLINIC Dr.Gaurav P.katre",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "441915",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FR5P+JXM, apposite to omkar saw mill, Sihora, Maharashtra 441915",
+    "area": "441915",
+    "latitude": 21.459087099999998,
+    "longitude": 79.8374068,
+    "place_id": "ChIJ4wsgIL4dKzoR9ahO4Wvy34g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4wsgIL4dKzoR9ahO4Wvy34g",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:24:35"
+  }
+]

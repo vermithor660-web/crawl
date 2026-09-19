@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radha Krushi Kendra",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "441924",
+    "phone_number": "+91 98907 60263",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Unnamed Road, Borgaon Bk., Maharashtra 441924",
+    "area": "441924",
+    "latitude": 21.0675378,
+    "longitude": 79.6360292,
+    "place_id": "ChIJM0wDfthHKzoRgEQBKhc00A4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM0wDfthHKzoRgEQBKhc00A4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:29:21"
+  },
+  {
+    "business_name": "DK Footwear",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "441924",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "3JJM+MQ6, Unnamed Road, Manegaon, Maharashtra 441924",
+    "area": "441924",
+    "latitude": 21.08167,
+    "longitude": 79.63437739999999,
+    "place_id": "ChIJo4cHmBRHKzoRziYCTbhZuNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4cHmBRHKzoRziYCTbhZuNM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:29:21"
+  }
+]

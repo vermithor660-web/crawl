@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ma Bhawani Bag House",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "441910",
+    "phone_number": "+91 98506 11324",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pauni, Maharashtra 441910",
+    "area": "441910",
+    "latitude": 20.7890393,
+    "longitude": 79.6351851,
+    "place_id": "ChIJf7sW7KRYKzoRN8B2XaIsh0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf7sW7KRYKzoRN8B2XaIsh0s",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:17:11"
+  },
+  {
+    "business_name": "आशा लेडीज कार्नर & जनरल स्टोर",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "441910",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "QQF4+XP2, Lakhandur Rd, Irali Bk., Maharashtra 441910",
+    "area": "441910",
+    "latitude": 20.7748779,
+    "longitude": 79.7567698,
+    "place_id": "ChIJiefAcUmfLDoRE146_GAi49E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiefAcUmfLDoRE146_GAi49E",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:17:12"
+  }
+]

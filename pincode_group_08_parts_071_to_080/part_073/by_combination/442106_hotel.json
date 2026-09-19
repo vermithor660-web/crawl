@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taj hotal",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "442106",
+    "phone_number": "+91 95457 85238",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Masod, Maharashtra 442106",
+    "area": "442106",
+    "latitude": 20.9779137,
+    "longitude": 78.470141,
+    "place_id": "ChIJW3QD0FZv1DsRTnww_UvNSpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW3QD0FZv1DsRTnww_UvNSpw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:41:05"
+  },
+  {
+    "business_name": "श्रीकृष्ण हॉटेल",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "442106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "X8VW+XJQ, Wadhona, Maharashtra 442201",
+    "area": "442106",
+    "latitude": 20.9949573,
+    "longitude": 78.3466246,
+    "place_id": "ChIJNZuWmUpr1DsRJBjvVxFmx7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNZuWmUpr1DsRJBjvVxFmx7I",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:41:06"
+  }
+]

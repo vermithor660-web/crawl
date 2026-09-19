@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Mohan Shendre",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist",
+    "pincode": "442105",
+    "phone_number": "+91 98811 95303",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 34,
+    "address": "2nd floor, NKY Towers, 8/9, Wardha Rd, Anji Square, Near Haldiram, Samarth Nagar East, Nagpur, Maharashtra 440015",
+    "area": "Anji Square, Near Haldiram, Samarth Nagar East",
+    "latitude": 21.119041799999998,
+    "longitude": 79.0726727,
+    "place_id": "ChIJWRhQJBi_1DsRH0dI3o0VuWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWRhQJBi_1DsRH0dI3o0VuWs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:38:45"
+  },
+  {
+    "business_name": "DermaZeal Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Hair removal service, Dermatologist",
+    "pincode": "442105",
+    "phone_number": "+91 90086 24202",
+    "website": "https://www.dermazeal.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "1st & 2nd Floor, 422, 27th Main Rd, 1st Sector, HSR Layout, Bengaluru, Karnataka 560102",
+    "area": "1st Sector, HSR Layout",
+    "latitude": 12.9182618,
+    "longitude": 77.6518274,
+    "place_id": "ChIJr3quJoIUrjsR4489BWNJAz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr3quJoIUrjsR4489BWNJAz4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:38:45"
+  }
+]

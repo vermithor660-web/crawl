@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PadmNaad",
+    "search_category": "Therapy Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "441909",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "7G7C+7MW Besides Anchal Restaurant, suryaketu nagar, Khat Rd, Bhandara, Maharashtra 441106",
+    "area": "441909",
+    "latitude": 21.263243199999998,
+    "longitude": 79.52169169999999,
+    "place_id": "ChIJc8BzoPcxKzoRI2vtDdr3NiU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc8BzoPcxKzoRI2vtDdr3NiU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:14:44"
+  },
+  {
+    "business_name": "Pradyumna Nursing Home",
+    "search_category": "Therapy Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "441909",
+    "phone_number": "+91 76205 07915",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 16,
+    "address": "Bhandara road, Vinoba Bhave Marg, Nagar, Tumsar, Maharashtra 441912",
+    "area": "Nagar",
+    "latitude": 21.3761328,
+    "longitude": 79.7383328,
+    "place_id": "ChIJZxxJvJ8iKzoRm_W49FEdyGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZxxJvJ8iKzoRm_W49FEdyGQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:14:44"
+  }
+]

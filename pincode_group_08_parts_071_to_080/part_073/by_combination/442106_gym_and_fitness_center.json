@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ten 11 Gym And Fitness Centre",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "442106",
+    "phone_number": "+91 92701 92721",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "beside Bank Of India, behind Old Civil Court, Wardha, Shahapur, Maharashtra 442201",
+    "area": "Wardha",
+    "latitude": 21.0002687,
+    "longitude": 78.2258362,
+    "place_id": "ChIJp8JJ-xkV1DsRNNx6lMTxVPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp8JJ-xkV1DsRNNx6lMTxVPI",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:40:35"
+  },
+  {
+    "business_name": "S.K Muscle Fitness unisex gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "442106",
+    "phone_number": "+91 86687 82435",
+    "website": "https://sk-muscle-fitness.grexa.site/",
+    "rating": 4.4,
+    "reviews_count": 96,
+    "address": "S.K Muscles fitness unisex gym, Asole layout, Talegaon road, Deshmukh Colony, Arvi, Chandani, Maharashtra 442201",
+    "area": "Deshmukh Colony",
+    "latitude": 21.0078227,
+    "longitude": 78.2226663,
+    "place_id": "ChIJqfrMqrsV1DsRDikBZUgRWJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfrMqrsV1DsRDikBZUgRWJs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:40:37"
+  }
+]

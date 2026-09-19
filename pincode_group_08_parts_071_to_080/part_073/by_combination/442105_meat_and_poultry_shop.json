@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maharashtra Mutton Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "442105",
+    "phone_number": "+91 93238 71912",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Kasar Vadavali Naka, Kasarvadavali Road, Ghodbunder Rd, Kasarvadavali, Thane West, Thane, Maharashtra 400615",
+    "area": "Kasarvadavali, Thane West",
+    "latitude": 19.2707048,
+    "longitude": 72.9651143,
+    "place_id": "ChIJ2bMr5k275zsRR-_PlQFV36E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2bMr5k275zsRR-_PlQFV36E",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:38:21"
+  },
+  {
+    "business_name": "Barkat Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "442105",
+    "phone_number": "+91 99308 34111",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Shop No 5, 146, Swatantryaveer Savarkar Rd, near Kapad Bazaar, opp. Pakeeza Bakery, Mahim Bazar, The Mahim Makarand CHS, Mahim West, Mahim, Mumbai, Maharashtra 400016",
+    "area": "Mahim Bazar, The Mahim Makarand CHS, Mahim West, Mahim",
+    "latitude": 19.037302399999998,
+    "longitude": 72.83884619999999,
+    "place_id": "ChIJSfBukDLJ5zsRtZnuBQ6NKdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSfBukDLJ5zsRtZnuBQ6NKdQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:38:21"
+  }
+]

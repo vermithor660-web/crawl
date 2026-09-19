@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Enterprises.Electrician & Plumber",
+    "search_category": "Plumber",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "441909",
+    "phone_number": "+91 88065 38630",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gurga Mandir, near Grampanchayat, Dhop, Maharashtra 441914",
+    "area": "441909",
+    "latitude": 21.3918316,
+    "longitude": 79.60638,
+    "place_id": "ChIJ2cXImDklKzoRqJZmCeJKfy4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2cXImDklKzoRqJZmCeJKfy4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:14:35"
+  },
+  {
+    "business_name": "Gopichand meshram",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "441909",
+    "phone_number": "+91 97640 73911",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "8M7C+8VX, Mohadi, Maharashtra 441909",
+    "area": "441909",
+    "latitude": 21.313363499999998,
+    "longitude": 79.6722266,
+    "place_id": "ChIJQcn43mQ9KzoRt4XF_Q9WFys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQcn43mQ9KzoRt4XF_Q9WFys",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:14:35"
+  }
+]

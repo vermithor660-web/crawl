@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Virat Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store, Mobile phone repair shop",
+    "pincode": "442101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Dag Borkhedi, Hinganghat, Maharashtra 442301",
+    "area": "Dag Borkhedi",
+    "latitude": 20.5519932,
+    "longitude": 78.833979,
+    "place_id": "ChIJ77sld7J60zsRWwVcmKmBn4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ77sld7J60zsRWwVcmKmBn4o",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:34:14"
+  },
+  {
+    "business_name": "Swastik mobile & Computers",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "442101",
+    "phone_number": "+91 86691 39872",
+    "website": "https://swastik-tech-connect.base44.app/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Karanja Chowk, near Mata Mandir, Dag Borkhedi, Hinganghat, Maharashtra 442301",
+    "area": "Dag Borkhedi",
+    "latitude": 20.5480674,
+    "longitude": 78.83391979999999,
+    "place_id": "ChIJR9xL4DF70zsRAOxzAOZnLoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR9xL4DF70zsRAOxzAOZnLoU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:34:15"
+  }
+]

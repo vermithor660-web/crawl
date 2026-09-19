@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sagar dhoble",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "442102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PJJH+5J8, Unnamed Road, MIDC, Barbadi, Maharashtra 442102",
+    "area": "MIDC",
+    "latitude": 20.7304215,
+    "longitude": 78.62909309999999,
+    "place_id": "ChIJv_DnBtZ_1DsRGAFsiUnWI74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv_DnBtZ_1DsRGAFsiUnWI74",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:35:26"
+  },
+  {
+    "business_name": "Rushabh",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "442102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GV28+WV6, At waldhur tl, Hinganghat, Maharashtra 442301",
+    "area": "442102",
+    "latitude": 20.5022821,
+    "longitude": 78.8671299,
+    "place_id": "ChIJe9TX1I9v0zsRFYXQmlCGx5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe9TX1I9v0zsRFYXQmlCGx5E",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:35:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hariratna Enterprises",
+    "search_category": "Plumber",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Electric motor store, Plumbing supply store, Water Pump Supplier",
+    "pincode": "442106",
+    "phone_number": "+91 82752 89558",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Padmavati Chowk, Maibai Ward, Arvi, Maharashtra 442201",
+    "area": "Maibai Ward",
+    "latitude": 20.9949923,
+    "longitude": 78.2280784,
+    "place_id": "ChIJ3TETimoV1DsRdHG_f8smlds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3TETimoV1DsRdHG_f8smlds",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:40:50"
+  },
+  {
+    "business_name": "Raj Plumbing",
+    "search_category": "Plumber",
+    "primary_category": "Plumbing supply store",
+    "all_categories": "Plumbing supply store",
+    "pincode": "442106",
+    "phone_number": "+91 82085 29184",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pulgaon Road, near Model High School, Isakpur, Arvi, Maharashtra 442201",
+    "area": "Isakpur",
+    "latitude": 20.9900575,
+    "longitude": 78.22785499999999,
+    "place_id": "ChIJg5EfvR8V1DsRULZXVfkX4qY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg5EfvR8V1DsRULZXVfkX4qY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:40:50"
+  }
+]

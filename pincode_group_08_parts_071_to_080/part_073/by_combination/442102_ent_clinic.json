@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shingare Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "442102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QH3V+9MC, Pratapnagar, Sindi Medhe, Maharashtra 442001",
+    "area": "Pratapnagar",
+    "latitude": 20.7534283,
+    "longitude": 78.5941342,
+    "place_id": "ChIJ80-61td_1DsRbUR1YFebefk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ80-61td_1DsRbUR1YFebefk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:35:13"
+  },
+  {
+    "business_name": "Sanavi machine and tools",
+    "search_category": "ENT Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "442102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Ingole chauk, malgujripura, Main Road, Wardha, Maharashtra 442001",
+    "area": "Sudampuri",
+    "latitude": 20.740931699999997,
+    "longitude": 78.60042279999999,
+    "place_id": "ChIJuR2Qhw1_1DsRSXkF2oHCIQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuR2Qhw1_1DsRSXkF2oHCIQ8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:35:14"
+  }
+]

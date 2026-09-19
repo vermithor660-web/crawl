@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Heritage, Tirora",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Bar, Lodge",
+    "pincode": "441911",
+    "phone_number": "+91 88302 92481",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "GT Rd, near Bus Stand, Tiroda, Maharashtra 441911",
+    "area": "441911",
+    "latitude": 21.401616999999998,
+    "longitude": 79.928759,
+    "place_id": "ChIJIQYQEi8FKzoRIN2VsbRkVfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIQYQEi8FKzoRIN2VsbRkVfw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:17:27"
+  },
+  {
+    "business_name": "Al zaika Chaupati Tirora",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "441911",
+    "phone_number": "+91 72491 49188",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 23,
+    "address": "Station Road, Tiroda, Maharashtra 441911",
+    "area": "441911",
+    "latitude": 21.4108044,
+    "longitude": 79.92724969999999,
+    "place_id": "ChIJqW_EdnEFKzoRa0Yz0XkIwQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqW_EdnEFKzoRa0Yz0XkIwQk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:17:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ilpate Mobile Shop",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "441915",
+    "phone_number": "+91 93075 07809",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "bazar chowk, navezari, Kodelohara, Maharashtra 441911",
+    "area": "441915",
+    "latitude": 21.2832352,
+    "longitude": 79.8532135,
+    "place_id": "ChIJcxjt8vsRKzoRzFrjgfI2IzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcxjt8vsRKzoRzFrjgfI2IzM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:25:26"
+  },
+  {
+    "business_name": "Maa Janki Mobile & Online Shop",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "441915",
+    "phone_number": "+91 72184 89389",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sagare Complex, Bazar Chauk, Arjuni, Maharashtra 441911",
+    "area": "441915",
+    "latitude": 21.5379298,
+    "longitude": 79.9611448,
+    "place_id": "ChIJSUy368UDKzoRIjSd34eeBOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSUy368UDKzoRIjSd34eeBOs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:25:26"
+  }
+]

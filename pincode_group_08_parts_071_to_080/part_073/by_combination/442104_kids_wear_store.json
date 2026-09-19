@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nunhum",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store",
+    "pincode": "442104",
+    "phone_number": "+91 96992 78305",
+    "website": "https://www.nunhum.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "room no2, Maharogi Seva samiti, Wardha Bypass, Dattapur, Masala, Maharashtra 442001",
+    "area": "442104",
+    "latitude": 20.7652563,
+    "longitude": 78.6343265,
+    "place_id": "ChIJR-yGdWh_1DsRE5XTnUXtt5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR-yGdWh_1DsRE5XTnUXtt5c",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:36:47"
+  },
+  {
+    "business_name": "Spice Kids & Ladies Western Outfits",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store, Clothing store, Designer Clothing Store, Women's clothing store",
+    "pincode": "442104",
+    "phone_number": "+91 93267 77888",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 390,
+    "address": "bus route, 7th Ln, Poorvarang, Mahalaxminagar, Rajarampuri, Kolhapur, Maharashtra 416008",
+    "area": "Poorvarang, Mahalaxminagar, Rajarampuri",
+    "latitude": 16.694590599999998,
+    "longitude": 74.24416389999999,
+    "place_id": "ChIJ34cbxT0AwTsRlppSlsmcDaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ34cbxT0AwTsRlppSlsmcDaQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:36:49"
+  }
+]

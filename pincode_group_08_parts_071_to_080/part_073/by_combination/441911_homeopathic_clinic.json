@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sachin Homeopathy Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "441911",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CW4P+6PW, Tiroda Rd, Tiroda, Maharashtra 441911",
+    "area": "441911",
+    "latitude": 21.4056076,
+    "longitude": 79.936827,
+    "place_id": "ChIJuz6HBm8FKzoR3Bi7UTz9WmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuz6HBm8FKzoR3Bi7UTz9WmY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:17:39"
+  },
+  {
+    "business_name": "Kama Memorial multi- Speciality Clinic🏥",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "441911",
+    "phone_number": "+91 86055 37872",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Indora, Tiroda, Karti bk., Maharashtra 441911",
+    "area": "Indora",
+    "latitude": 21.4777922,
+    "longitude": 79.9482326,
+    "place_id": "ChIJ6ySTsngDKzoR7bAAwYMz6I0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ySTsngDKzoR7bAAwYMz6I0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:17:39"
+  }
+]

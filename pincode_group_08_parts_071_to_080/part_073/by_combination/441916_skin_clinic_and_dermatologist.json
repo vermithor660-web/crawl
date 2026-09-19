@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Roy",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist",
+    "pincode": "441916",
+    "phone_number": "+91 90039 14390",
+    "website": "https://drroy.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "ward no. 15, Bhilai Rd, Neemtola, Lanji, Madhya Pradesh 481222",
+    "area": "Neemtola",
+    "latitude": 21.490937499999998,
+    "longitude": 80.5383998,
+    "place_id": "ChIJ6x45slPLKzoRkESDOXyOikQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6x45slPLKzoRkESDOXyOikQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:26:19"
+  },
+  {
+    "business_name": "The Skin Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Doctor, Hair removal service, Laser hair removal service, Pediatric dermatologist, Dermatologist",
+    "pincode": "441916",
+    "phone_number": "+91 82916 99161",
+    "website": "https://www.thaneskindoctor.com/",
+    "rating": 4.7,
+    "reviews_count": 232,
+    "address": "521, 5th Floor, Arcadia, Hiranandani estate, off Ghodbunder Road, Patlipada, Thane, Maharashtra 400607",
+    "area": "Patlipada, Thane West",
+    "latitude": 19.2536685,
+    "longitude": 72.9823718,
+    "place_id": "ChIJSWbYY5S75zsRD1m7VYszoJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSWbYY5S75zsRD1m7VYszoJc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:26:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AimFit Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "442102",
+    "phone_number": "+91 99709 98981",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 23,
+    "address": "Nandori Rd, Sant Tukdoji Ward, Shahalangadi, Maharashtra 442301",
+    "area": "Sant Tukdoji Ward",
+    "latitude": 20.5512493,
+    "longitude": 78.8509344,
+    "place_id": "ChIJVT91RP1l0zsReS4OubofObw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVT91RP1l0zsReS4OubofObw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:35:16"
+  },
+  {
+    "business_name": "Level Up Fitness Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "442102",
+    "phone_number": "+91 85540 92073",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Swami Samarth Nagari, Road, near divya car garage, beside Pratapgarh Celebration hall, Satoda, Maharashtra 442001",
+    "area": "442102",
+    "latitude": 20.771579799999998,
+    "longitude": 78.6113754,
+    "place_id": "ChIJs6ufUQB_1DsR7ekhCTzBey4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6ufUQB_1DsR7ekhCTzBey4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:35:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Car monic repairing center",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "442001",
+    "phone_number": "+91 70668 74858",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nagpur Rd, Nalwadi, Maharashtra 442001",
+    "area": "Nalwadi",
+    "latitude": 20.756536099999998,
+    "longitude": 78.6197763,
+    "place_id": "ChIJocT2xjp_1DsRG7S3xaeY2Jw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJocT2xjp_1DsRG7S3xaeY2Jw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:30:04"
+  },
+  {
+    "business_name": "Adib Car AC",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "442001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "QJ5G+Q29, Nagpur Rd, Nalwadi, Maharashtra 442001",
+    "area": "Nalwadi",
+    "latitude": 20.7594094,
+    "longitude": 78.625098,
+    "place_id": "ChIJ_9X1VwB_1DsRJvX8ezUQgsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_9X1VwB_1DsRJvX8ezUQgsU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:30:04"
+  }
+]

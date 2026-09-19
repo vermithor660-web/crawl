@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhekale Enterprises",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural Seed Store",
+    "all_categories": "Agricultural Seed Store, Supplier, Fertilizer Store",
+    "pincode": "442105",
+    "phone_number": "+91 217 232 2652",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "167, Mehata Tower, Chhatrapati Shivaji Maharaj Chowk, Budhavar Peth, Solapur, Maharashtra 413002",
+    "area": "Budhavar Peth",
+    "latitude": 17.6806615,
+    "longitude": 75.8991799,
+    "place_id": "ChIJpUiOZX_QxTsR0hGstisZWuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpUiOZX_QxTsR0hGstisZWuQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:39:51"
+  },
+  {
+    "business_name": "Agrawal Khad Beej Bhandar",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "442105",
+    "phone_number": "+91 70006 33463",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Sarangpur Rd, Akodia, Madhya Pradesh 465223",
+    "area": "442105",
+    "latitude": 23.383973299999997,
+    "longitude": 76.5990676,
+    "place_id": "ChIJq5SWic2vfDkRMIzar5gga-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq5SWic2vfDkRMIzar5gga-s",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:39:51"
+  }
+]

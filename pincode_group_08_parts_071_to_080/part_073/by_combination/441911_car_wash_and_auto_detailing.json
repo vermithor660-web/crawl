@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Viru car Repair",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "441911",
+    "phone_number": "+91 85549 77146",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 12,
+    "address": "At-Tirora, GT road, Tah, D, Tiroda, Maharashtra 441911",
+    "area": "D",
+    "latitude": 21.402314099999998,
+    "longitude": 79.9295961,
+    "place_id": "ChIJdRC9tFAFKzoRvLc9s_zPUvw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdRC9tFAFKzoRvLc9s_zPUvw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:17:51"
+  },
+  {
+    "business_name": "Gautam Water Servicing Centre",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "441911",
+    "phone_number": "+91 87678 33544",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gram Panchayat Ke Piche, Bus stop, Po, near Bus Stop, At+, Ekodi, Maharashtra 441614",
+    "area": "At+",
+    "latitude": 21.4527802,
+    "longitude": 80.020658,
+    "place_id": "ChIJYZT-NIAHKzoRcxj6Au2GoTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYZT-NIAHKzoRcxj6Au2GoTA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:17:52"
+  }
+]

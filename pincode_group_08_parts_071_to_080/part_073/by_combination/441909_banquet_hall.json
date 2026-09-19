@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Furniture Lounge",
+    "search_category": "Banquet Hall",
+    "primary_category": "Furniture Manufacturer",
+    "all_categories": "Furniture Manufacturer",
+    "pincode": "441909",
+    "phone_number": "+91 99224 10011",
+    "website": "https://thefurniturelounge.co.in/",
+    "rating": 4.9,
+    "reviews_count": 35,
+    "address": "Sr no 37/1, Tejas Warehouse, near Balaji Hotel, Pisoli, Pune, Maharashtra 411060",
+    "area": "Pisoli",
+    "latitude": 18.451563399999998,
+    "longitude": 73.8986702,
+    "place_id": "ChIJo5cohPDrwjsRVG6mti8QA3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo5cohPDrwjsRVG6mti8QA3o",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:14:47"
+  },
+  {
+    "business_name": "Swagat Lawn and Mangal Karyalay Shahapur",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "441909",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 23,
+    "address": "5H59+3V3, Gopiwada Rd, Shahapur, Maharashtra 441906",
+    "area": "441909",
+    "latitude": 21.1576479,
+    "longitude": 79.5696841,
+    "place_id": "ChIJu6nndgY4KzoR0Bo6FpOhn0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu6nndgY4KzoR0Bo6FpOhn0w",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:14:47"
+  }
+]

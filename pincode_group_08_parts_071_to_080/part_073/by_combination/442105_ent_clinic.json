@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kherde Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Hospital",
+    "pincode": "442105",
+    "phone_number": "+91 72424 57815",
+    "website": "https://softspectra.co/webapp/kherde-hospital-nbsp",
+    "rating": 4.7,
+    "reviews_count": 1130,
+    "address": "KHERDE HOSPITAL, behind HOTEL CENTER PLAZA, RAMNAGAR, Akola, Maharashtra 444001",
+    "area": "RAMNAGAR",
+    "latitude": 20.710203099999998,
+    "longitude": 77.0122269,
+    "place_id": "ChIJj-BF2x0u1zsReWODSMhD8lQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj-BF2x0u1zsReWODSMhD8lQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:38:47"
+  },
+  {
+    "business_name": "Dr. Anil Israni",
+    "search_category": "ENT Clinic",
+    "primary_category": "Otolaryngology clinic",
+    "all_categories": "Otolaryngology clinic",
+    "pincode": "442105",
+    "phone_number": "+91 82754 00054",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "94MG+MX4, Vidhardh Housing Society, Yavatmal, Maharashtra 445002",
+    "area": "Vidhardh Housing Society",
+    "latitude": 20.3841325,
+    "longitude": 78.1274667,
+    "place_id": "ChIJ7UmZ0Lvo0zsRmtP73_Neln0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7UmZ0Lvo0zsRmtP73_Neln0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:38:48"
+  }
+]

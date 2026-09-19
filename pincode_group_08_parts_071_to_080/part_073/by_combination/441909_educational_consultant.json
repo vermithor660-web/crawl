@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANDROMEDA",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "441909",
+    "phone_number": "+91 92843 52343",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhandara - Balaghat Hwy, near Kusari Fata, Mohadi, Maharashtra 441909",
+    "area": "441909",
+    "latitude": 21.3066507,
+    "longitude": 79.6776497,
+    "place_id": "ChIJZXqgmxw9KzoR_WCVv3ua9Vc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXqgmxw9KzoR_WCVv3ua9Vc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:14:58"
+  },
+  {
+    "business_name": "The Dnyandeep Academy",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "441909",
+    "phone_number": "+91 83906 79253",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Rajiv Gandhi Chouk, Bhandara, Maharashtra 441905",
+    "area": "441909",
+    "latitude": 21.255752899999997,
+    "longitude": 79.7205319,
+    "place_id": "ChIJRRGX43c9KzoR8RZo6NZSc38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRRGX43c9KzoR8RZo6NZSc38",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:14:58"
+  }
+]

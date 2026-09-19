@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mayur car and bike washing services",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "442102",
+    "phone_number": "+91 88307 81980",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "NH-7, Kalode square, Sant Tukdoji Ward, Hinganghat, Maharashtra 442301",
+    "area": "Sant Tukdoji Ward",
+    "latitude": 20.5474554,
+    "longitude": 78.8456497,
+    "place_id": "ChIJW_tpEHRl0zsR_71NEFq9WDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW_tpEHRl0zsR_71NEFq9WDo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:35:16"
+  },
+  {
+    "business_name": "Galaxy Car Care - Car Detailing in Dehradun, PPF",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto painting, Bike wash",
+    "pincode": "442102",
+    "phone_number": "+91 70817 45030",
+    "website": "https://www.galaxycarcare.in/dehradun/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "17, Race Course Rd, East Rest Camp, Guru Nanak Vihar, Race Course, Dehradun, Uttarakhand 248001",
+    "area": "East Rest Camp, Guru Nanak Vihar, Race Course",
+    "latitude": 30.311562,
+    "longitude": 78.0455393,
+    "place_id": "ChIJT2YBGT0pCTkRU6k2BYmpNm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT2YBGT0pCTkRU6k2BYmpNm4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:35:17"
+  }
+]

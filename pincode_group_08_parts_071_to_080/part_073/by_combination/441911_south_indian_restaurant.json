@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "मूसकान साऊथ इंडियन डोसा सेंटर",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "441911",
+    "phone_number": "+91 80070 06470",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GT Rd, चंद्रभागा नाका, Tiroda, Maharashtra 441911",
+    "area": "चंद्रभागा नाका",
+    "latitude": 21.4043721,
+    "longitude": 79.9299339,
+    "place_id": "ChIJ_ZF4CBQFKzoRcLz9SLhKcSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_ZF4CBQFKzoRcLz9SLhKcSY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:17:28"
+  },
+  {
+    "business_name": "Hotel KESAR RESTURENT&NASTA POINTekodi",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, South Indian restaurant",
+    "pincode": "441911",
+    "phone_number": "+91 72763 95102",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "near kesar dhaba, Ekodi, Maharashtra 441614",
+    "area": "441911",
+    "latitude": 21.4433947,
+    "longitude": 80.01454989999999,
+    "place_id": "ChIJo8nTDtEHKzoR_s-VAHQGOwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo8nTDtEHKzoR_s-VAHQGOwo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:17:28"
+  }
+]

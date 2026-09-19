@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BridgeTown Bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "442101",
+    "phone_number": "+91 83294 89074",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 62,
+    "address": "Lumbini Nagar, Western Express Hwy, Ward No 3, Nachangaon, Maharashtra 442302",
+    "area": "Ward No 3",
+    "latitude": 20.7100163,
+    "longitude": 78.3229856,
+    "place_id": "ChIJIf-wrU511DsR89n6v2xjSVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIf-wrU511DsR89n6v2xjSVw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:33:05"
+  },
+  {
+    "business_name": "Gawande Cake Shop",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "442101",
+    "phone_number": "+91 77980 11134",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "21, Post Office Road, Wardha, Deoli, Maharashtra 442101",
+    "area": "442101",
+    "latitude": 20.651909699999997,
+    "longitude": 78.4786195,
+    "place_id": "ChIJI9WhNwCH0zsRTHqF5HKrIAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI9WhNwCH0zsRTHqF5HKrIAU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:33:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "442104",
+    "phone_number": "+91 94050 06679",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "327/1, Wardha Rd, Seloo, Wardha, Maharashtra 442104",
+    "area": "442104",
+    "latitude": 20.838047,
+    "longitude": 78.712847,
+    "place_id": "ChIJjWgZGDeH1DsRJO1zdM5r9v0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjWgZGDeH1DsRJO1zdM5r9v0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:37:51"
+  },
+  {
+    "business_name": "Arya mobile",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "442104",
+    "phone_number": "+91 70200 58687",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4, Wardha - Sevagram Rd, Mhasala, Nalwadi, Wardha, Chichala, Maharashtra 442001",
+    "area": "Mhasala, Nalwadi",
+    "latitude": 20.7414176,
+    "longitude": 78.624128,
+    "place_id": "ChIJtYltAwB_1DsRBZu2M5-1gzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtYltAwB_1DsRBZu2M5-1gzU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:37:52"
+  }
+]

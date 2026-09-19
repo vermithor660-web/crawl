@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SITH Computer Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution, Computer training school, Education center",
+    "pincode": "441914",
+    "phone_number": "+91 97696 94399",
+    "website": "https://sithcomputers.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1/2, Om Shiv Premises, Jangal Mangal Rd, near SHIV SENA, Battipada, Bhandup West, Mumbai, Maharashtra 400078",
+    "area": "Battipada, Bhandup West",
+    "latitude": 19.1506672,
+    "longitude": 72.9345135,
+    "place_id": "ChIJd7CMUm645zsRkb-oLWG8B7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd7CMUm645zsRkb-oLWG8B7Q",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:23:39"
+  },
+  {
+    "business_name": "JASRAJ COMPUTERS",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution, Internet cafe",
+    "pincode": "441914",
+    "phone_number": "+91 77987 17569",
+    "website": "https://www.instagram.com/jasrajcomputers?igsh=MWJrMjluZ21hbjA0ZA==",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Kodamendhi, Maharashtra 441106",
+    "area": "441914",
+    "latitude": 21.3190511,
+    "longitude": 79.47500769999999,
+    "place_id": "ChIJMw2RD40xKzoROr_GsDj9zkc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMw2RD40xKzoROr_GsDj9zkc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:23:40"
+  }
+]

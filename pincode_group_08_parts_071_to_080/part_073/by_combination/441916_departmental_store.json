@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay kirana shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, General store",
+    "pincode": "441916",
+    "phone_number": "+91 99226 01576",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vijay Kunjam Dandari, Bijepar, Dandhari, Maharashtra 441916",
+    "area": "441916",
+    "latitude": 21.3150542,
+    "longitude": 80.6311614,
+    "place_id": "ChIJk5i6eEoFKzoR3W6Gwg0hIY8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk5i6eEoFKzoR3W6Gwg0hIY8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:25:52"
+  },
+  {
+    "business_name": "Shivshakti Catras & Weter Service",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "441916",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8F3M+4CM, Amgaon kh., Salekasa, Maharashtra 441916",
+    "area": "Amgaon kh.",
+    "latitude": 21.3028275,
+    "longitude": 80.4835568,
+    "place_id": "ChIJ68dhVwDHKzoRK_CayCK1MSc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ68dhVwDHKzoRK_CayCK1MSc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:25:55"
+  }
+]

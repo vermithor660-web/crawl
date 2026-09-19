@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pardhi Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "441909",
+    "phone_number": "+91 93737 35850",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bus stop, Near, Tumsar-Tirora Road, Mundikota, Maharashtra 441911",
+    "area": "441909",
+    "latitude": 21.3615686,
+    "longitude": 79.84144409999999,
+    "place_id": "ChIJA7o1Io4bKzoRlzMURofPKsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA7o1Io4bKzoRlzMURofPKsU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:14:50"
+  },
+  {
+    "business_name": "Sanidhya Hotel and Lodge & Chinese Restaurant",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "441909",
+    "phone_number": "+91 75887 90095",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": null,
+    "address": "6JQW+4HF, Warthi, Maharashtra 441905",
+    "area": "441909",
+    "latitude": 21.237930499999997,
+    "longitude": 79.64632689999999,
+    "place_id": "ChIJL7J6RwA5KzoRcCDYPCVRfJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL7J6RwA5KzoRcCDYPCVRfJA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:14:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gaurav Accounting Services",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant",
+    "pincode": "442101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No. 1, Mohta Market, Main Road, Maharashtra 442001",
+    "area": "Mahadevpura",
+    "latitude": 20.7377421,
+    "longitude": 78.5994494,
+    "place_id": "ChIJS9OmoC1_1DsRlWuYqBoIr80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS9OmoC1_1DsRlWuYqBoIr80",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:34:25"
+  },
+  {
+    "business_name": "Bhutada Jain and Gatagat",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "442101",
+    "phone_number": "+91 98221 11288",
+    "website": "http://cabjg.com/",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Sai Tejus, Malgujaripura, Wardha, Maharashtra 442001",
+    "area": "Sudampuri",
+    "latitude": 20.7414113,
+    "longitude": 78.5991909,
+    "place_id": "ChIJ2wmpYA5_1DsR7c6jBaxv8jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wmpYA5_1DsR7c6jBaxv8jo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:34:25"
+  }
+]

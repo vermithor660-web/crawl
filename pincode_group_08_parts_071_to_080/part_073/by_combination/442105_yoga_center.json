@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bliss Yoga Class",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "442105",
+    "phone_number": "+91 93293 56022",
+    "website": "https://instagram.com/blissyoga_16?igshid=NmZiMzY2Mjc=",
+    "rating": 5,
+    "reviews_count": 121,
+    "address": "Vinoba Nagar R-8, Besides the vinoba park, SBI colony, Chhattisgarh 495004",
+    "area": "Kranti Nager",
+    "latitude": 22.0654184,
+    "longitude": 82.1520292,
+    "place_id": "ChIJqfd1l0wLKDoRMhIqyG4euGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfd1l0wLKDoRMhIqyG4euGM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:38:50"
+  },
+  {
+    "business_name": "Brahma Kumaris Seloo",
+    "search_category": "Yoga Center",
+    "primary_category": "Meditation center",
+    "all_categories": "Meditation center",
+    "pincode": "442105",
+    "phone_number": "+91 90493 01647",
+    "website": "http://brahmakumaris.com/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "PLOT NO: 11, BHAGAT LAYOUT, near SATHYA SAI BABA MANDIR, Seloo, Maharashtra 442104",
+    "area": "442105",
+    "latitude": 20.8323058,
+    "longitude": 78.70785819999999,
+    "place_id": "ChIJEegOgVGH1DsRXxlUKSNlpX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEegOgVGH1DsRXxlUKSNlpX8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:38:51"
+  }
+]

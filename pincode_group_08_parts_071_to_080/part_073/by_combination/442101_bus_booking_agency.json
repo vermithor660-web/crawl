@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Travels Pulgaon",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "442101",
+    "phone_number": "+91 98230 07167",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "P88G+VM5, Jawahar Colony, Pulgaon, Maharashtra 442302",
+    "area": "Jawahar Colony",
+    "latitude": 20.7171464,
+    "longitude": 78.32672869999999,
+    "place_id": "ChIJoTZiW2111DsRV9z8aCI1fJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoTZiW2111DsRV9z8aCI1fJs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:33:38"
+  },
+  {
+    "business_name": "Paloti bus stand",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus depot",
+    "all_categories": "Bus depot",
+    "pincode": "442101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 16,
+    "address": "MHH7+V7C, Paloti-Wardha Rd, Wardha, Paloti, Maharashtra 442001",
+    "area": "442101",
+    "latitude": 20.6796845,
+    "longitude": 78.5631265,
+    "place_id": "ChIJx_3wpbOH0zsRTIOObaVveFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx_3wpbOH0zsRTIOObaVveFQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:33:40"
+  }
+]

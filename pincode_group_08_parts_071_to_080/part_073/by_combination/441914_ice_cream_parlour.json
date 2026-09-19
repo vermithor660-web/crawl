@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Ice Cream & Coldrink Center",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "441914",
+    "phone_number": "+91 99217 68119",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "9HVJ+32M, Jamb., Maharashtra 441914",
+    "area": "441914",
+    "latitude": 21.392723699999998,
+    "longitude": 79.58005659999999,
+    "place_id": "ChIJEQmUeeslKzoRoEl8nJLRnu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEQmUeeslKzoRoEl8nJLRnu8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:22:42"
+  },
+  {
+    "business_name": "House Of Ice Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "441914",
+    "phone_number": "+91 98605 70404",
+    "website": "https://www.theicecreambakery.in/",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "Shahu Corner, 5/23, Kagwade Mala, Ichalkaranji, Maharashtra 416115",
+    "area": "Kagwade Mala",
+    "latitude": 16.685075899999998,
+    "longitude": 74.464713,
+    "place_id": "ChIJce3WWAbjwDsRWuL414vInWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJce3WWAbjwDsRWuL414vInWE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:22:43"
+  }
+]

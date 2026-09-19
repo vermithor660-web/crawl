@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A.M. Hair Saloon For Men",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "442106",
+    "phone_number": "+91 97304 31289",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dharmshala complexes, Sawant Wada, Pulgaon, Maharashtra 442302",
+    "area": "Sawant Wada",
+    "latitude": 20.7251404,
+    "longitude": 78.3193373,
+    "place_id": "ChIJqZg-tOp11DsRZTzzfovWHEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZg-tOp11DsRZTzzfovWHEw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:40:56"
+  },
+  {
+    "business_name": "Flaunts Unisex Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "442106",
+    "phone_number": "+91 96232 91514",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 8,
+    "address": "Subhash Nagar, Pulgaon, Maharashtra 442302",
+    "area": "Subhash Nagar",
+    "latitude": 20.7197916,
+    "longitude": 78.3209332,
+    "place_id": "ChIJC0ELPDh11DsRTvstgvollJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC0ELPDh11DsRTvstgvollJM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:40:57"
+  }
+]

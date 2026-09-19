@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Netralaya Eye and Dental clinic",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "442102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "HR2P+5MM, Civil Lines Rd, Sindhi Colony, Hinganghat, Maharashtra 442301",
+    "area": "Sindhi Colony",
+    "latitude": 20.5503739,
+    "longitude": 78.8366813,
+    "place_id": "ChIJGYMBIgB70zsRKtMNUID5ghs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGYMBIgB70zsRKtMNUID5ghs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:35:08"
+  },
+  {
+    "business_name": "Kothari Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "442102",
+    "phone_number": "+91 74997 32137",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Post Office Square, Post Office Road, Sindhi Colony, Hinganghat, Maharashtra 442301",
+    "area": "Sindhi Colony",
+    "latitude": 20.547630299999998,
+    "longitude": 78.8361515,
+    "place_id": "ChIJ37XvJSF70zsRghjRUH6InYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ37XvJSF70zsRghjRUH6InYQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:35:10"
+  }
+]

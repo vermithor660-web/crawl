@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Agro Centre",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "441912",
+    "phone_number": "+91 94228 33565",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chandpur road, behind Bank of India, Sihora, Maharashtra 441915",
+    "area": "441912",
+    "latitude": 21.459926799999998,
+    "longitude": 79.8375764,
+    "place_id": "ChIJk4L4VgQcKzoRbjuucPk5KaE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk4L4VgQcKzoRbjuucPk5KaE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:20:31"
+  },
+  {
+    "business_name": "DURGA Seed & Pesticides",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural Product Wholesaler",
+    "all_categories": "Agricultural Product Wholesaler",
+    "pincode": "441912",
+    "phone_number": "+91 94205 32328",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Jintur, Maharashtra 431509",
+    "area": "441912",
+    "latitude": 19.6143283,
+    "longitude": 76.6832677,
+    "place_id": "ChIJL-WSCqFv0DsRVrZh2TOnmZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-WSCqFv0DsRVrZh2TOnmZQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:20:33"
+  }
+]

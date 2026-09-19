@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Orbit Agro Global Exim",
+    "search_category": "EXIMS",
+    "primary_category": "Exporter",
+    "all_categories": "Exporter",
+    "pincode": "442001",
+    "phone_number": "+91 86059 99497",
+    "website": "https://orbitagroexim.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mahsool colony, plot no.20, Nagpur Rd, opposite motimahal place, Alodi, Wardha, Dattapur, Maharashtra 442001",
+    "area": "Alodi",
+    "latitude": 20.7633369,
+    "longitude": 78.6292679,
+    "place_id": "ChIJfyrC7p9_1DsRLa0056U64B0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfyrC7p9_1DsRLa0056U64B0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:31:02"
+  },
+  {
+    "business_name": "Exim Ventures",
+    "search_category": "EXIMS",
+    "primary_category": "Exporter",
+    "all_categories": "Exporter",
+    "pincode": "442001",
+    "phone_number": "N/A",
+    "website": "https://www.eximventures.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ambedkar Nagar, Nalwadi, Maharashtra 442001",
+    "area": "Ambedkar Nagar, Nalwadi",
+    "latitude": 20.757398,
+    "longitude": 78.6218054,
+    "place_id": "ChIJfZiBoXt_1DsRI51AA_IRW9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfZiBoXt_1DsRI51AA_IRW9A",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:31:02"
+  }
+]

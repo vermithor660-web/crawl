@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SA Hair saloon and spa",
+    "search_category": "Spa",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "442102",
+    "phone_number": "+91 91129 27480",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Karla Rd, Pipri, Maharashtra 442001",
+    "area": "Pipri",
+    "latitude": 20.7647679,
+    "longitude": 78.6013828,
+    "place_id": "ChIJAU_bl9V_1DsR0Xg7r6UkPD4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAU_bl9V_1DsR0Xg7r6UkPD4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:35:37"
+  },
+  {
+    "business_name": "Nikhil Vitthalrao Dhumal",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "442102",
+    "phone_number": "+91 96738 80708",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Massage Center, Pothara Colony, Hinganghat, Maharashtra 442301",
+    "area": "Pothara Colony",
+    "latitude": 20.5423197,
+    "longitude": 78.8402377,
+    "place_id": "ChIJv5yeRpNl0zsR17hubFGD9vo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv5yeRpNl0zsR17hubFGD9vo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:35:37"
+  }
+]

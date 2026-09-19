@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shyam Darbar Cafe And Restro",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Coffee shop, Dessert shop, Family restaurant, Fast food restaurant, Vegetarian restaurant",
+    "pincode": "442106",
+    "phone_number": "+91 73859 90318",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 25,
+    "address": "Krushnakunj Appartment Pandurang Ward, Talegaon T-Point, Deshmukh Colony, Arvi, Chandani, Maharashtra 442201",
+    "area": "Deshmukh Colony",
+    "latitude": 21.0082488,
+    "longitude": 78.2245531,
+    "place_id": "ChIJ2-h2TgAV1DsRif86kLskMj0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2-h2TgAV1DsRif86kLskMj0",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:40:14"
+  },
+  {
+    "business_name": "Hideout Cafe Pulgaon",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "442106",
+    "phone_number": "+91 90966 85415",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 27,
+    "address": "Buildings Name, Vinay Kacholiya, 2, Shree Talkies Road, Gandhi Nagar, Pulgaon, Maharashtra 442302",
+    "area": "Gandhi Nagar",
+    "latitude": 20.7250443,
+    "longitude": 78.3167574,
+    "place_id": "ChIJIatzMQB11DsR05ilPfioFXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIatzMQB11DsR05ilPfioFXs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:40:14"
+  }
+]

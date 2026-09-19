@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kids zone",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "442106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Nehru market, Bambedkar Nagar, Arvi, Maharashtra 442201",
+    "area": "Bambedkar Nagar",
+    "latitude": 20.9973106,
+    "longitude": 78.2292135,
+    "place_id": "ChIJZwK8dgAV1DsRxJKkbJqxZfw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZwK8dgAV1DsRxJKkbJqxZfw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:40:19"
+  },
+  {
+    "business_name": "Vastram Family Shop",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "442106",
+    "phone_number": "+91 88560 90643",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "GramPanchayat ,anji mothi, Bus Stand, Chowk, Anji, Maharashtra 442001",
+    "area": "442106",
+    "latitude": 20.844986,
+    "longitude": 78.5385021,
+    "place_id": "ChIJz9jMBBR71DsRk83BbrACpSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz9jMBBR71DsRk83BbrACpSg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:40:20"
+  }
+]

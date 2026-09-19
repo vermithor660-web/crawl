@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tifstay",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Tiffin Service Provider, Meal delivery, Real estate rental agency",
+    "pincode": "442101",
+    "phone_number": "+91 84463 86223",
+    "website": "http://tifstay.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Plot no. 10, above Red Bucket Biryani, near Bank of India, Besa, Besa Pipla, Maharashtra 440037",
+    "area": "Besa",
+    "latitude": 21.086333,
+    "longitude": 79.08931299999999,
+    "place_id": "ChIJD83_zDq_1DsR5qjAq4E1gPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD83_zDq_1DsR5qjAq4E1gPA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:33:09"
+  },
+  {
+    "business_name": "Yashogya Mess",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center, Fast food restaurant",
+    "pincode": "442101",
+    "phone_number": "+91 90968 46367",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "YashogYa Mess, PANTHER CHOWK, near NEW STATUE OF DR. B. R. AMBEDKAR, Subhash Nagar, Pulgaon, Maharashtra 442302",
+    "area": "Subhash Nagar",
+    "latitude": 20.721678999999998,
+    "longitude": 78.3249905,
+    "place_id": "ChIJ6Z-9rf911DsRn3-qfAwolxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Z-9rf911DsRn3-qfAwolxc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:33:09"
+  }
+]

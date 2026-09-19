@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ved Koldrink Sentar",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "441911",
+    "phone_number": "+91 95274 67650",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Jod Sadak, Khairlanji Rd, Paraswada, Maharashtra 441911",
+    "area": "441911",
+    "latitude": 21.5106459,
+    "longitude": 79.9588646,
+    "place_id": "ChIJ20lFlTIDKzoREseH-qfkmUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ20lFlTIDKzoREseH-qfkmUE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:17:22"
+  },
+  {
+    "business_name": "Sefueli Cakes",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "441911",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 11,
+    "address": "Rajendra Nagar, Tumsar, Maharashtra 441912",
+    "area": "Rajendra Nagar",
+    "latitude": 21.3853214,
+    "longitude": 79.7456328,
+    "place_id": "ChIJZaHk_DQZKzoRxN4hQ5EIR1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZaHk_DQZKzoRxN4hQ5EIR1k",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:17:23"
+  }
+]

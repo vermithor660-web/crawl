@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pawan Construction Saving",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "441924",
+    "phone_number": "+91 87670 85728",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shree Gajanan Traders, Toll Pauni Road, near Kardha, Ambadi, Girola, Maharashtra 441924",
+    "area": "441924",
+    "latitude": 21.133875399999997,
+    "longitude": 79.6720757,
+    "place_id": "ChIJ9dK0rrpBKzoR7BIiNmxMd1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9dK0rrpBKzoR7BIiNmxMd1M",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:29:03"
+  },
+  {
+    "business_name": "Saraswati Apartments",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "441924",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 11,
+    "address": "5MJ6+X53, Suyog Nagar, Bhandara, Maharashtra 441904",
+    "area": "Suyog Nagar",
+    "latitude": 21.1823879,
+    "longitude": 79.6604148,
+    "place_id": "ChIJMxdz7Dc_KzoRIKnOlL9udXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMxdz7Dc_KzoRIKnOlL9udXQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:29:05"
+  }
+]

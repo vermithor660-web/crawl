@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vihan Kids Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "441911",
+    "phone_number": "+91 98607 69512",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhure Hospital Front, Harsha Pardhi Building, Tumsar, Maharashtra 441912",
+    "area": "Shriram Nagar",
+    "latitude": 21.3793191,
+    "longitude": 79.7411225,
+    "place_id": "ChIJC-VJOwwZKzoRrHW1mre3jHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC-VJOwwZKzoRrHW1mre3jHE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:17:33"
+  },
+  {
+    "business_name": "Rupam Dresses",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "441911",
+    "phone_number": "+91 95185 69756",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Naya Bazaar Chouk, Dawniwada, Dawaniwada, Maharashtra 441614",
+    "area": "441911",
+    "latitude": 21.506183399999998,
+    "longitude": 80.05889959999999,
+    "place_id": "ChIJ04QYh8cBKzoRuaWjBAkpWI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04QYh8cBKzoRuaWjBAkpWI8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:17:34"
+  }
+]

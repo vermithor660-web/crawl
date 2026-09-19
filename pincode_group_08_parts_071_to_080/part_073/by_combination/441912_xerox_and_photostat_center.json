@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tushar Xerox",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Digital printing service",
+    "all_categories": "Digital printing service, Print shop",
+    "pincode": "441912",
+    "phone_number": "+91 98250 39561",
+    "website": "https://tusharxerox.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Gandhi Park, 7, University Rd, near Sahajanand College, Bemanagar, Acharya Narendradev Nagar, Ambawadi, Ahmedabad, Gujarat 380015",
+    "area": "Bemanagar, Acharya Narendradev Nagar, Ambawadi",
+    "latitude": 23.0241491,
+    "longitude": 72.5426662,
+    "place_id": "ChIJKxfMSd2EXjkRRoFiLQ6NKLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKxfMSd2EXjkRRoFiLQ6NKLg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:20:14"
+  },
+  {
+    "business_name": "Virar Stationery & Jumbo Xerox",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop, Stationery store",
+    "pincode": "441912",
+    "phone_number": "+91 70210 72757",
+    "website": "https://virarprint.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shop no.11, Takshashila Apt. Nr. Old Viva College, opp. Mahavir Hospital, Virar West, Maharashtra 401303",
+    "area": "Doghar Pada, Vartak Ward, Virar West",
+    "latitude": 19.4572266,
+    "longitude": 72.80569899999999,
+    "place_id": "ChIJw9ie6Iep5zsRBd3IRrZOFzw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw9ie6Iep5zsRBd3IRrZOFzw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:20:14"
+  }
+]

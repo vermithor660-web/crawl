@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cleangineers",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services, House cleaning service",
+    "pincode": "441911",
+    "phone_number": "+91 80809 43635",
+    "website": "http://www.cleangineers.com/",
+    "rating": 4.9,
+    "reviews_count": 19,
+    "address": "Plot no 3, Kharbi Rd, opposite apollo pharmacy, Siddheshwar Wadi, New Sahakar Nagar, Kharbi, Nagpur, Maharashtra 440024",
+    "area": "Siddheshwar Wadi, New Sahakar Nagar, Kharbi",
+    "latitude": 21.128007,
+    "longitude": 79.131869,
+    "place_id": "ChIJ_0qoSwC51DsR804P7iWxyfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_0qoSwC51DsR804P7iWxyfs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:18:38"
+  },
+  {
+    "business_name": "Baba Laundry Tirora",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Laundry",
+    "all_categories": "Laundry",
+    "pincode": "441911",
+    "phone_number": "+91 99230 16140",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Unnamed Road, Tiroda, Maharashtra 441911",
+    "area": "441911",
+    "latitude": 21.4065539,
+    "longitude": 79.9323988,
+    "place_id": "ChIJX6DGBSQFKzoRLV3xpFjKYYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX6DGBSQFKzoRLV3xpFjKYYU",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:18:38"
+  }
+]

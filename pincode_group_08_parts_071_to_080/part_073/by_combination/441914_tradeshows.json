@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BEC Mumbai",
+    "search_category": "Tradeshows",
+    "primary_category": "Exhibition and trade center",
+    "all_categories": "Exhibition and trade center",
+    "pincode": "441914",
+    "phone_number": "+91 22 6645 0123",
+    "website": "https://www.nesco.in/exhibitions",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Bombay Exhibition Centre, NESCO, Goregaon East, Mumbai, Maharashtra 400063",
+    "area": "NESCO, Goregaon East",
+    "latitude": 19.1498716,
+    "longitude": 72.85592249999999,
+    "place_id": "ChIJ6d59_ES35zsReGlvFQ5CFLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6d59_ES35zsReGlvFQ5CFLo",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:24:01"
+  },
+  {
+    "business_name": "Parmatma ki event",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "441914",
+    "phone_number": "+91 74995 37357",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Usara, Maharashtra 441914",
+    "area": "441914",
+    "latitude": 21.3967952,
+    "longitude": 79.6698163,
+    "place_id": "ChIJKSlUI9sjKzoRjyG78uAXqFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKSlUI9sjKzoRjyG78uAXqFc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:24:01"
+  }
+]

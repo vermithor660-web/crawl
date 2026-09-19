@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay Khandelwal caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "441912",
+    "phone_number": "+91 97669 47357",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near atithi gruh, Gurunanak Nagar, Shastri Nagar, Tumsar, Maharashtra 441912",
+    "area": "Gurunanak Nagar, Shastri Nagar",
+    "latitude": 21.3822544,
+    "longitude": 79.7467698,
+    "place_id": "ChIJkevn6zwZKzoRjyuzVIKzTfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkevn6zwZKzoRjyuzVIKzTfs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:20:03"
+  },
+  {
+    "business_name": "Mayuri caterers and catering",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "441912",
+    "phone_number": "+91 84839 98326",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "sardar nagar tumsar, Tumsar, Maharashtra 441912",
+    "area": "Rajendra Nagar",
+    "latitude": 21.386808,
+    "longitude": 79.7513761,
+    "place_id": "ChIJaRT1uOAZKzoRxTjaJSDVGbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaRT1uOAZKzoRxTjaJSDVGbA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:20:03"
+  }
+]

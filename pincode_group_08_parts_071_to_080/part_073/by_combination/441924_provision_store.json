@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RimZim Generals",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "441924",
+    "phone_number": "+91 94236 41991",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "43, near Godawari Child Hospital, Rajagopalachari Ward, MSEB Colony, Bhandara, Maharashtra 441904",
+    "area": "Rajagopalachari Ward, MSEB Colony",
+    "latitude": 21.1637956,
+    "longitude": 79.6497078,
+    "place_id": "ChIJ9VVVsKw4KzoRAAAA0MFBzCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9VVVsKw4KzoRAAAA0MFBzCA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:27:36"
+  },
+  {
+    "business_name": "Daily Needs Pahela",
+    "search_category": "Provision Store",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "441924",
+    "phone_number": "+91 96371 31608",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 3 Sonegoan, Road, Neharu Ward, Pahela, Maharashtra 441924",
+    "area": "Neharu Ward",
+    "latitude": 21.022429199999998,
+    "longitude": 79.6829862,
+    "place_id": "ChIJYf8Q24ZDKzoRNeQIFQpakVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYf8Q24ZDKzoRNeQIFQpakVw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:27:36"
+  }
+]

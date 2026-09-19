@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Motwani Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Doctor, Emergency care service, Hospital, Medical Center, Ophthalmologist, Ophthalmology clinic, Optician, Optometrist, Pharmacy",
+    "pincode": "442106",
+    "phone_number": "+91 75075 51744",
+    "website": "https://www.motwanieyehospital.com/",
+    "rating": 4.9,
+    "reviews_count": 130,
+    "address": "MH SH 244, Wardha Rd, Sai Nagar, Bambedkar Nagar, Arvi, Maharashtra 442201",
+    "area": "Sai Nagar, Bambedkar Nagar",
+    "latitude": 21.0046346,
+    "longitude": 78.2274367,
+    "place_id": "ChIJmf_VEVcV1DsR-ZEvuaT6Ikw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmf_VEVcV1DsR-ZEvuaT6Ikw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:40:28"
+  },
+  {
+    "business_name": "Bombaywala Eye & Dental Care",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Dental clinic, Hospital",
+    "pincode": "442106",
+    "phone_number": "+91 70660 65034",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "plot no 51/ 1Near Ayurvedic college ,Arni road, opp S.T work shop, Maharashtra 445001",
+    "area": "Vidhardh Housing Society",
+    "latitude": 20.3854561,
+    "longitude": 78.12501449999999,
+    "place_id": "ChIJD0uTf6Po0zsRVyBWPOdDMTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD0uTf6Po0zsRVyBWPOdDMTs",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:40:30"
+  }
+]

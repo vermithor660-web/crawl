@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maharashtra Stores",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Fabric wholesaler",
+    "all_categories": "Fabric wholesaler, Clothing store",
+    "pincode": "441912",
+    "phone_number": "N/A",
+    "website": "https://www.maharashtra.gov.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "near Pasodya Vitthal Temple, Budhwar Peth, Pune, Maharashtra 411002",
+    "area": "Budhwar Peth",
+    "latitude": 18.517010199999998,
+    "longitude": 73.85766989999999,
+    "place_id": "ChIJeSkzE2_AwjsRp0_2cy8WZYc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeSkzE2_AwjsRp0_2cy8WZYc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:19:17"
+  },
+  {
+    "business_name": "JN FURNISHING",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Fabric store",
+    "all_categories": "Fabric store, Fabric wholesaler",
+    "pincode": "441912",
+    "phone_number": "+91 86980 86182",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sr no : 32, Yepre Mala, behind Sanjar Furniture, Anthon Nagar, Pisoli, Pune, Maharashtra 411060",
+    "area": "Anthon Nagar, Pisoli",
+    "latitude": 18.448963499999998,
+    "longitude": 73.9016031,
+    "place_id": "ChIJ2wiba-vrwjsRjCdYpVbG5p4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wiba-vrwjsRjCdYpVbG5p4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:19:17"
+  }
+]

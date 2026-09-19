@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tulshivandan Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "441910",
+    "phone_number": "+91 77190 33431",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhandara - Balaghat Hwy, Panjara, Bhandara, Maharashtra 441905",
+    "area": "441910",
+    "latitude": 21.2577473,
+    "longitude": 79.6748784,
+    "place_id": "ChIJk96GvKw9KzoRh20EDGF5xMY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk96GvKw9KzoRh20EDGF5xMY",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:15:41"
+  },
+  {
+    "business_name": "Dhakate Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "441910",
+    "phone_number": "+91 93594 76264",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Opp Shiwarpan Tower, Rajiv Gandhi Square, Bhandara, Maharashtra 441904",
+    "area": "Vidarbha Housing Board Colony, MSEB Colony",
+    "latitude": 21.163941599999998,
+    "longitude": 79.6477152,
+    "place_id": "ChIJkel40WY5KzoRsGEDIayZSTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkel40WY5KzoRsGEDIayZSTA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:15:41"
+  }
+]

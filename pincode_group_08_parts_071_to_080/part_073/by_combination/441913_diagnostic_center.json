@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Metro pathology",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Pathologist",
+    "all_categories": "Pathologist",
+    "pincode": "441913",
+    "phone_number": "+91 92261 03163",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near, New Bus Stand Rd, near of wanjari machinery, Maharashtra bank, Shriram Nagar, Tumsar, Maharashtra 441912",
+    "area": "Maharashtra bank, Shriram Nagar",
+    "latitude": 21.3787198,
+    "longitude": 79.74210049999999,
+    "place_id": "ChIJETwTv2kZKzoRxsp_tZHx7yQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJETwTv2kZKzoRxsp_tZHx7yQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:21:15"
+  },
+  {
+    "business_name": "Kesalwada Primary Health Sub Centre",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "441913",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kesalwada, Tiroda, Maharashtra 441911",
+    "area": "441913",
+    "latitude": 21.328485699999998,
+    "longitude": 79.85814069999999,
+    "place_id": "ChIJh4Q-qe4QKzoRQ3foGusY60Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh4Q-qe4QKzoRQ3foGusY60Y",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:21:16"
+  }
+]

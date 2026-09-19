@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "G.N.Auto Electricals",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Motorcycle parts store",
+    "pincode": "441916",
+    "phone_number": "+91 93260 59429",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "GGHC+H4G, Manmad Chowfully, Bombay Agra Road, Suyesh Complex, Malegaon, Maharashtra 423212",
+    "area": "441916",
+    "latitude": 20.5289337,
+    "longitude": 74.5203223,
+    "place_id": "ChIJVRP2AXWZ3jsRsglGoMe7ilE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVRP2AXWZ3jsRsglGoMe7ilE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:26:30"
+  },
+  {
+    "business_name": "✅L K Refrigeration",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "441916",
+    "phone_number": "+91 93719 69820",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Amul ice cream, Soygaon, Malegaon, Maharashtra 423203",
+    "area": "Soygaon",
+    "latitude": 20.5576117,
+    "longitude": 74.5171849,
+    "place_id": "ChIJZVEzrx-Z3jsRBgLwLmgcw-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZVEzrx-Z3jsRBgLwLmgcw-c",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:26:31"
+  }
+]

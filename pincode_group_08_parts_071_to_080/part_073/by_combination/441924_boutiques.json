@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "Boutiques",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "441924",
+    "phone_number": "+91 82754 14670",
+    "website": "https://bsnl.co.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "02, Dawadipar, Maharashtra 441924",
+    "area": "441924",
+    "latitude": 21.0918289,
+    "longitude": 79.6794188,
+    "place_id": "ChIJZd5qHatBKzoRv89PtM7klPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZd5qHatBKzoRv89PtM7klPk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:27:58"
+  },
+  {
+    "business_name": "Diksha Beauty Parlour",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "441924",
+    "phone_number": "+91 91687 21660",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Santaji Nagar, Bhandara, Maharashtra 441904",
+    "area": "Santaji Nagar",
+    "latitude": 21.1702294,
+    "longitude": 79.6588062,
+    "place_id": "ChIJ4f2pdMQ_KzoRu_uMMUYBBz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4f2pdMQ_KzoRu_uMMUYBBz8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:28:00"
+  }
+]

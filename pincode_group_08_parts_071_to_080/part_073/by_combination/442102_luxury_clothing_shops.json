@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vidya butique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "442102",
+    "phone_number": "+91 89992 63411",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 2,
+    "address": "Sant chokoba ward, in front of Sandip medical, Adarsh Nagar, Shahalangadi, Maharashtra 442301",
+    "area": "Adarsh Nagar",
+    "latitude": 20.554219399999997,
+    "longitude": 78.84483709999999,
+    "place_id": "ChIJ5zvq_S9l0zsRgFCLiMsgwbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5zvq_S9l0zsRgFCLiMsgwbc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:35:07"
+  },
+  {
+    "business_name": "Inara Fashion Hub",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "442102",
+    "phone_number": "+91 77094 37962",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "At, near Central Book Depot, Kapada Line, Mahadevpura, Wardha, Maharashtra 442001",
+    "area": "Kapada Line, Mahadevpura",
+    "latitude": 20.7397018,
+    "longitude": 78.6007985,
+    "place_id": "ChIJQRf0jjl_1DsRVgSzRn7_SnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRf0jjl_1DsRVgSzRn7_SnE",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:35:08"
+  }
+]

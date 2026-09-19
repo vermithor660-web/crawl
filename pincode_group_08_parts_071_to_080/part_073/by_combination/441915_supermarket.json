@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Mahavir Poha Mill",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Manufacturer",
+    "pincode": "441915",
+    "phone_number": "+91 93093 92922",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Police Station Road, Sihora, Maharashtra 441915",
+    "area": "441915",
+    "latitude": 21.4556149,
+    "longitude": 79.8389531,
+    "place_id": "ChIJd5QCGF4dKzoRnlORISH1tko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd5QCGF4dKzoRnlORISH1tko",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:24:10"
+  },
+  {
+    "business_name": "Pardhi Market",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "441915",
+    "phone_number": "+91 88068 08879",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tumsar Road, near by Petrol Pump, Machhera, Maharashtra 441915",
+    "area": "441915",
+    "latitude": 21.455765,
+    "longitude": 79.83319329999999,
+    "place_id": "ChIJDVJIL04dKzoR7B1GmgQcsy4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDVJIL04dKzoR7B1GmgQcsy4",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:24:10"
+  }
+]

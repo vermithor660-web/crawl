@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Roshni Business Plaza",
+    "search_category": "Malls",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "441915",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "FVQ9+G76, MH SH 271, Gondekhari, Maharashtra 441915",
+    "area": "441915",
+    "latitude": 21.488755299999998,
+    "longitude": 79.868104,
+    "place_id": "ChIJqeDkp3QdKzoR8lODGvnXbfM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqeDkp3QdKzoR8lODGvnXbfM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:25:49"
+  },
+  {
+    "business_name": "Aapulki Sales & Xerox & banking",
+    "search_category": "Malls",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "441915",
+    "phone_number": "+91 93712 58050",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Bhandara - Balaghat Hwy, Sihora, Maharashtra 441915",
+    "area": "441915",
+    "latitude": 21.4599641,
+    "longitude": 79.83780159999999,
+    "place_id": "ChIJT-6tUwQcKzoRTgUXIIaa3_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT-6tUwQcKzoRTgUXIIaa3_c",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:25:50"
+  }
+]

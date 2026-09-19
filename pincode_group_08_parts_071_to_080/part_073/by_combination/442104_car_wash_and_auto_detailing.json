@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAW Customs",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car stereo store",
+    "all_categories": "Car stereo store",
+    "pincode": "442104",
+    "phone_number": "+91 92095 95997",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nagpur Rd, near Sakshi celebration lawn, opposite to SBM Hall, Alodi, Dattapur, Maharashtra 442001",
+    "area": "Alodi",
+    "latitude": 20.7614871,
+    "longitude": 78.6281279,
+    "place_id": "ChIJ7UHk2xR_1DsRhma2gPZyj3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7UHk2xR_1DsRhma2gPZyj3E",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:37:06"
+  },
+  {
+    "business_name": "Auto Magnet",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto repair shop, Motorcycle shop",
+    "pincode": "442104",
+    "phone_number": "+91 88210 59999",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 447,
+    "address": "Besides, Naval Utkarsh, opposite Anantara Residential Resort, Bilhari, Jabalpur, Pipariya, Madhya Pradesh 482020",
+    "area": "Bilhari",
+    "latitude": 23.1221136,
+    "longitude": 79.9699586,
+    "place_id": "ChIJfY8ylJetgTkReeR5YlIP1nM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfY8ylJetgTkReeR5YlIP1nM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:37:07"
+  }
+]

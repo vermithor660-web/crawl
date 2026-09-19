@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashna Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "441913",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3, Bosh Nagar, Vivekanand Nagar, Tumsar, Maharashtra 441912",
+    "area": "Bosh Nagar, Vivekanand Nagar",
+    "latitude": 21.3799696,
+    "longitude": 79.75540889999999,
+    "place_id": "ChIJec3lVwAZKzoR2FVSmzCtzC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJec3lVwAZKzoR2FVSmzCtzC8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:21:39"
+  },
+  {
+    "business_name": "इंडियन स्टिल फर्नीचर",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "441913",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tumsar Rd, Khapa, Maharashtra 441912",
+    "area": "441913",
+    "latitude": 21.3596295,
+    "longitude": 79.7171159,
+    "place_id": "ChIJEy-Ej-QjKzoRuMLYtPtsmu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEy-Ej-QjKzoRuMLYtPtsmu8",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:21:39"
+  }
+]

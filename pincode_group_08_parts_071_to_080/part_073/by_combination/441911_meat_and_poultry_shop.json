@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Poultry form house",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "441911",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "9XVC+HV8, Unnamed Road, Chikhali, Maharashtra 441911",
+    "area": "441911",
+    "latitude": 21.393902999999998,
+    "longitude": 79.9721953,
+    "place_id": "ChIJ5RSM_LcFKzoR109bFQAhdCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5RSM_LcFKzoR109bFQAhdCA",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:17:19"
+  },
+  {
+    "business_name": "Prakash Poultry & Trading",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "441911",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Katangi Katang tola, Road, Katangikala, Maharashtra 441614",
+    "area": "441911",
+    "latitude": 21.490259599999998,
+    "longitude": 80.1920712,
+    "place_id": "ChIJE8aIkGqvKzoRw6Dwpzgvmhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE8aIkGqvKzoRw6Dwpzgvmhg",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:17:20"
+  }
+]

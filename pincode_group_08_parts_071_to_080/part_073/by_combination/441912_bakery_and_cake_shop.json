@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Golden Bakery 2",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "441912",
+    "phone_number": "+91 91305 10480",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bawankar chowk, Shastri Nagar, Tumsar, Maharashtra 441912",
+    "area": "Shastri Nagar",
+    "latitude": 21.382395,
+    "longitude": 79.74914969999999,
+    "place_id": "ChIJI8dLfmEZKzoR4MQ7UiuJ9Xc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI8dLfmEZKzoR4MQ7UiuJ9Xc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:19:06"
+  },
+  {
+    "business_name": "Gaurav Bakery and cafe",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "441912",
+    "phone_number": "+91 81045 36106",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Shop No 3, Devadi Road, Sai Colony, Tumsar, Maharashtra 441912",
+    "area": "Sai Colony",
+    "latitude": 21.3731018,
+    "longitude": 79.74941199999999,
+    "place_id": "ChIJFUX8zoQZKzoRPASwk_3-RcQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFUX8zoQZKzoRPASwk_3-RcQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:19:08"
+  }
+]

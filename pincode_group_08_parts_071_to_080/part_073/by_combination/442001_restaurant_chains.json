@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Ghulshan",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "442001",
+    "phone_number": "+91 96734 00330",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Sudampuri, Wardha, Maharashtra 442001",
+    "area": "Sudampuri",
+    "latitude": 20.740351699999998,
+    "longitude": 78.5999307,
+    "place_id": "ChIJBWzXeRJ_1DsR0_RHpfEeFcQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBWzXeRJ_1DsR0_RHpfEeFcQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:29:37"
+  },
+  {
+    "business_name": "Vishal Traders Wardha",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "442001",
+    "phone_number": "+91 90110 10026",
+    "website": "http://www.aquagroup.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rajkala Talkies Road, near GANESH Electronics, Maganwadi, Wardha, Maharashtra 442001",
+    "area": "Maganwadi",
+    "latitude": 20.7394772,
+    "longitude": 78.5989075,
+    "place_id": "ChIJH0p9hBl_1DsRjGKU0gKGpMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH0p9hBl_1DsRjGKU0gKGpMk",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:29:39"
+  }
+]

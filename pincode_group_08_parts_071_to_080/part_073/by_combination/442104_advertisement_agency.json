@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Morya Agro Agencies",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "442104",
+    "phone_number": "+91 97647 10096",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 3 Seloo, near Sai Baba Mandir, Wardha, Maharashtra 442104",
+    "area": "442104",
+    "latitude": 20.840301399999998,
+    "longitude": 78.7064576,
+    "place_id": "ChIJ-QmqVoKH1DsRlIBmoJ7OJzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-QmqVoKH1DsRlIBmoJ7OJzc",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:38:09"
+  },
+  {
+    "business_name": "Atharva Graphic Works",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Graphic designer",
+    "all_categories": "Graphic designer",
+    "pincode": "442104",
+    "phone_number": "+91 95458 94212",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "beside Tulja Bhawani Temple, near Circus ground, Bapujiwadi, Ramnagar, Sindi Medhe, Maharashtra 442001",
+    "area": "Bapujiwadi, Ramnagar",
+    "latitude": 20.7402005,
+    "longitude": 78.588893,
+    "place_id": "ChIJNY0bt3F_1DsRj1ggOGL7vco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNY0bt3F_1DsRj1ggOGL7vco",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:38:10"
+  }
+]

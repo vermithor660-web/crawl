@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pande Caterers Bhandara",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "441909",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khat Rd, Ramayan Nagari, Bhandara, Morgaon, Maharashtra 441106",
+    "area": "Ramayan Nagari",
+    "latitude": 21.263243199999998,
+    "longitude": 79.52169169999999,
+    "place_id": "ChIJl_4Bbd8xKzoRoNA-iOLIsPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_4Bbd8xKzoRoNA-iOLIsPw",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:14:50"
+  },
+  {
+    "business_name": "A K Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "441909",
+    "phone_number": "+91 76667 27495",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "near Durga Mandir, Shastri Nagar, Tumsar, Maharashtra 441912",
+    "area": "Shastri Nagar",
+    "latitude": 21.3840883,
+    "longitude": 79.74304699999999,
+    "place_id": "ChIJPS0Fwi4ZKzoRpIenhtqMCiQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPS0Fwi4ZKzoRpIenhtqMCiQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:14:50"
+  }
+]

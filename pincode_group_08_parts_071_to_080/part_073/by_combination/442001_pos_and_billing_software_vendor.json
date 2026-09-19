@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OneUIX Enterprise",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "442001",
+    "phone_number": "+91 80106 44047",
+    "website": "https://oneuix.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "OneUIX Enterprise, 442001, India",
+    "area": "442001",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJyzp39Lka9S0RR9_fli27dao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyzp39Lka9S0RR9_fli27dao",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:30:43"
+  },
+  {
+    "business_name": "Sellbii - Best POS Solution.",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "442001",
+    "phone_number": "+91 94704 93147",
+    "website": "https://sellbii.com/",
+    "rating": 5,
+    "reviews_count": 76,
+    "address": "Sellbii - Best POS Solution., 442001, India",
+    "area": "442001",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ_w8_SkELCgcRETSBqt1uQaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_w8_SkELCgcRETSBqt1uQaM",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:30:43"
+  }
+]

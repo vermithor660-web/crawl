@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Krishna Home Cleaning Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "441912",
+    "phone_number": "+91 83569 89597",
+    "website": "https://shreekrishnahomecleaning.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Warli Pada, R No - 24/21, Rd Number 27, behind Water Tank, near Hanuman Mandir & Rahul General Store, Shree Nagar, Wagle Industrial Estate, Thane West, Mumbai, Thane, Maharashtra 400604",
+    "area": "Shree Nagar, Wagle Industrial Estate, Thane West",
+    "latitude": 19.1897128,
+    "longitude": 72.942291,
+    "place_id": "ChIJKee4oue55zsRRrOFWf0uyZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKee4oue55zsRRrOFWf0uyZQ",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:20:25"
+  },
+  {
+    "business_name": "Tejas Fms",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Carpet cleaning service, Cleaning Services, Pool cleaning service, Tile cleaning service, Window cleaning service",
+    "pincode": "441912",
+    "phone_number": "+91 74481 14497",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Ground Floor, R/N 2 saish appartment, 04, Shivaji Nagar, Mulund West, Thane, Maharashtra 400604",
+    "area": "Shivaji Nagar, Mulund West",
+    "latitude": 19.1850067,
+    "longitude": 72.9552494,
+    "place_id": "ChIJw30tlSa55zsRmKF4ew4yE74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw30tlSa55zsRmKF4ew4yE74",
+    "part_id": "part_073",
+    "crawled_at": "2026-09-19 11:20:25"
+  }
+]
