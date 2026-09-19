@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Printing Press",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Offset Printer",
+    "all_categories": "Offset Printer, Print shop",
+    "pincode": "460330",
+    "phone_number": "+91 90398 49521",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "83QQ+FP4, Harda, Madhya Pradesh 461331",
+    "area": "460330",
+    "latitude": 22.3386264,
+    "longitude": 77.0893239,
+    "place_id": "ChIJgQyBlidxfTkRrozREmObanY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgQyBlidxfTkRrozREmObanY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:32:36"
+  },
+  {
+    "business_name": "Jyoti Printers",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Commercial printer",
+    "all_categories": "Commercial printer",
+    "pincode": "460330",
+    "phone_number": "+91 96307 78836",
+    "website": "http://www.jyotiprintershd.in/",
+    "rating": 4,
+    "reviews_count": 40,
+    "address": "4358, MPSH 15, Golapura, Harda, Madhya Pradesh 461331",
+    "area": "Golapura",
+    "latitude": 22.3362025,
+    "longitude": 77.0908335,
+    "place_id": "ChIJv7PkINhwfTkRreCXu4Fm9j4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7PkINhwfTkRreCXu4Fm9j4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:32:36"
+  }
+]

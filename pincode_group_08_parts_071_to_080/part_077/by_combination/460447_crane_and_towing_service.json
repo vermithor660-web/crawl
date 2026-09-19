@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian Crane",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "460447",
+    "phone_number": "+91 98933 72238",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 11,
+    "address": "Shop No-15, Raisen Rd, New Market, Opposite Bijli Gate, T.R.T Shastri Market, Roopnagar Slums, Govindpura, Bhopal, Madhya Pradesh 462023",
+    "area": "New Market, Opposite Bijli Gate, T.R.T Shastri Market, Roopnagar Slums, Govindpura",
+    "latitude": 23.2527832,
+    "longitude": 77.442645,
+    "place_id": "ChIJCauiy3VCfDkRcSXjoJzKeaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCauiy3VCfDkRcSXjoJzKeaQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:37:39"
+  },
+  {
+    "business_name": "Shree Hyundai Service (Authorised Hyundai Service Center)",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "460447",
+    "phone_number": "+91 97644 80999",
+    "website": "http://www.shreehyundai.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "201, Central Bazar Road, opposite ICAR Colony, beside Vishnu Ji ki Rasoi, Kachipura, East Shankar Nagar, Ramdaspeth, Nagpur, Maharashtra 440010",
+    "area": "Kachipura, East Shankar Nagar, Ramdaspeth",
+    "latitude": 21.1313486,
+    "longitude": 79.0657976,
+    "place_id": "ChIJoyMI54fA1DsR7I5tEOZCOaU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoyMI54fA1DsR7I5tEOZCOaU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:37:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ONE FITNESS GYM",
+    "search_category": "Yoga Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "460661",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shankar Nagpur, Nagpur Rd, opposite V2 Mall, Pandhurna, Madhya Pradesh 480334",
+    "area": "460661",
+    "latitude": 21.731046,
+    "longitude": 78.38871069999999,
+    "place_id": "ChIJr-augmS71TsROZ_HgItm_3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-augmS71TsROZ_HgItm_3s",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:48:36"
+  },
+  {
+    "business_name": "Mahesh yoga & wellness",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "460661",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sharada nagar, Kharsali Rd, opposite Brahmakumaris temple, near Sairam lawn, Multai, Madhya Pradesh 460661",
+    "area": "460661",
+    "latitude": 21.7701632,
+    "longitude": 78.2630575,
+    "place_id": "ChIJb3ldimvB1TsRrONKjfTTrmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb3ldimvB1TsRrONKjfTTrmM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:48:36"
+  }
+]

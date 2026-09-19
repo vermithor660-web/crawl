@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shahpur madhya pradesh",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "460440",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5WV3+JX2, Shahpur, Madhya Pradesh 460440",
+    "area": "460440",
+    "latitude": 22.194025,
+    "longitude": 77.9048839,
+    "place_id": "ChIJNaMjGQD_fTkR-uAdta1NMzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNaMjGQD_fTkR-uAdta1NMzU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:35:02"
+  },
+  {
+    "business_name": "Shop",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "460440",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5XCP+696, Katasur, Madhya Pradesh 460440",
+    "area": "460440",
+    "latitude": 22.17073,
+    "longitude": 77.9866717,
+    "place_id": "ChIJozA_EwD_1TsRpqq-iNWIyCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJozA_EwD_1TsRpqq-iNWIyCo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:35:02"
+  }
+]

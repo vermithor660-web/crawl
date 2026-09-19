@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "INDANE GAS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Gas Agency",
+    "all_categories": "Gas Agency",
+    "pincode": "460449",
+    "phone_number": "+91 7146 268 276",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 28,
+    "address": "Bagdona, Madhya Pradesh 460449",
+    "area": "460449",
+    "latitude": 22.121710399999998,
+    "longitude": 78.10481659999999,
+    "place_id": "ChIJL_9rJ9r51TsRQ0JLKtSiLmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL_9rJ9r51TsRQ0JLKtSiLmE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:39:25"
+  },
+  {
+    "business_name": "Dhakad Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "460449",
+    "phone_number": "+91 97708 01000",
+    "website": "http://dhakadbus.in/",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "969G+MFC, New Market, Timarni, Madhya Pradesh 461228",
+    "area": "New Market",
+    "latitude": 22.3691849,
+    "longitude": 77.2261345,
+    "place_id": "ChIJVVVVVbidfTkRs8oEuB1Tj2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVbidfTkRs8oEuB1Tj2I",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:39:26"
+  }
+]

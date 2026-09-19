@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Hotel Maharana",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "460220",
+    "phone_number": "+91 77419 14313",
+    "website": "https://bit.ly/3qaJluj",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Maharana Chauk Main Road, Chikhaldara, Maharashtra 444807",
+    "area": "460220",
+    "latitude": 21.401457,
+    "longitude": 77.3268368,
+    "place_id": "ChIJWUfg4ktW1jsRDtE60C40Z94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWUfg4ktW1jsRDtE60C40Z94",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:28:44"
+  },
+  {
+    "business_name": "Hotel Grand Eagle",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Inn",
+    "pincode": "460220",
+    "phone_number": "+91 63678 50548",
+    "website": "https://hotelgrandeagle.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Commercial Complex, C-50, near JECC, Sanganer, Sitapura Industrial Area, Sitapura, Jaipur, Rajasthan 302022",
+    "area": "Sanganer, Sitapura Industrial Area, Sitapura",
+    "latitude": 26.7789233,
+    "longitude": 75.8375239,
+    "place_id": "ChIJRfFaMwnJbTkR2Dn9Xk5MA9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRfFaMwnJbTkR2Dn9Xk5MA9E",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:28:44"
+  }
+]

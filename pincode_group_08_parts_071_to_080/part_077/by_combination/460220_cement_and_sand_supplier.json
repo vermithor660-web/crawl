@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sand Concret & Cement supplier",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Construction Material Wholesaler",
+    "all_categories": "Construction Material Wholesaler",
+    "pincode": "460220",
+    "phone_number": "+91 95616 44482",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "behind Goa Ceramica, Duguem, Nuvem, Goa 403604",
+    "area": "Duguem",
+    "latitude": 15.3159089,
+    "longitude": 73.93981409999999,
+    "place_id": "ChIJ31odPcSxvzsRKhmUvp3SKjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ31odPcSxvzsRKhmUvp3SKjY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:28:22"
+  },
+  {
+    "business_name": "MP Birla Corporation Limited, Satna Cement Works",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Cement Manufacturer",
+    "all_categories": "Cement Manufacturer",
+    "pincode": "460220",
+    "phone_number": "+91 76724 12001",
+    "website": "https://birlacorporation.com/plants.html",
+    "rating": 4,
+    "reviews_count": 175,
+    "address": "Ucl-Ghoordong Rd, Birla Colony Campus, Satna, Madhya Pradesh 485005",
+    "area": "Birla Colony Campus",
+    "latitude": 24.592707599999997,
+    "longitude": 80.8579397,
+    "place_id": "ChIJu_JzJ0x-hDkR6vPQN0N_PNU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu_JzJ0x-hDkR6vPQN0N_PNU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:28:23"
+  }
+]

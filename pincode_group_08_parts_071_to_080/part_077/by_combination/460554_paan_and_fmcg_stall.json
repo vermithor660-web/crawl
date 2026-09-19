@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Asha Pan Palace",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop, Tobacco shop",
+    "pincode": "460554",
+    "phone_number": "+91 90525 25770",
+    "website": "https://www.ashapanpalace.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "7-2-659/1, Takara Basthi, Pot Market, Monda Market, Shivaji Nagar, Secunderabad, Telangana 500003",
+    "area": "Takara Basthi, Pot Market, Monda Market, Shivaji Nagar",
+    "latitude": 17.4354727,
+    "longitude": 78.4937441,
+    "place_id": "ChIJU8JqPxmayzsRXIZka2n0Riw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU8JqPxmayzsRXIZka2n0Riw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:44:20"
+  },
+  {
+    "business_name": "Meenakshi Pan shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "460554",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9FXV+5M9, Narayanguda Cross Road, Narayanguda Rd, Chitrapuri Colony, Lingampally, Narayanguda, Hyderabad, Telangana 500027",
+    "area": "Chitrapuri Colony, Lingampally, Narayanguda",
+    "latitude": 17.3979941,
+    "longitude": 78.4941702,
+    "place_id": "ChIJgVkIO3-ZyzsROa1S49XkPxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgVkIO3-ZyzsROa1S49XkPxQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:44:20"
+  }
+]

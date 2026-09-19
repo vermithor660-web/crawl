@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharti Pustak Sadan",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Used book store",
+    "pincode": "460663",
+    "phone_number": "+91 70009 89901",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 29,
+    "address": "Ram Mandir, Nai Sadak, Rama Road, Patankar Bazar, Phalka Bazar, Pardhi Mohalla, Lashkar, Gwalior, Madhya Pradesh 474001",
+    "area": "Patankar Bazar, Phalka Bazar, Pardhi Mohalla, Lashkar",
+    "latitude": 26.2031748,
+    "longitude": 78.15737899999999,
+    "place_id": "ChIJFQ9bwSzEdjkRnTR102-g1mo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFQ9bwSzEdjkRnTR102-g1mo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:51:10"
+  },
+  {
+    "business_name": "Shah Stationery Mart",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "460663",
+    "phone_number": "+91 98226 90560",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 356,
+    "address": "Itwari Sarafa Bazar, New Itwari Road, New Itwari Rd, Nagpur, Maharashtra 440002",
+    "area": "Ratan Market,Tanga Stand,Itwari,Sarafa Bazar Chowk, Itwari",
+    "latitude": 21.151853,
+    "longitude": 79.110221,
+    "place_id": "ChIJR_lDz9HA1DsRdMi71_O02BM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_lDz9HA1DsRdMi71_O02BM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:51:13"
+  }
+]

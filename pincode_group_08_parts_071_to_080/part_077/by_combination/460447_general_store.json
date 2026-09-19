@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bittu hous & general store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "460447",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "473J+CG, Chicholi, Madhya Pradesh 480555",
+    "area": "460447",
+    "latitude": 22.1036252,
+    "longitude": 78.2813235,
+    "place_id": "ChIJy4E1VQD11TsRBhG2JeGFVdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy4E1VQD11TsRBhG2JeGFVdc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:37:00"
+  },
+  {
+    "business_name": "Bhawsar Store",
+    "search_category": "General Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "460447",
+    "phone_number": "+91 7141 230 916",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 22,
+    "address": "WW34+PJR, COLLEGE ROAD CIVIL LINES, Betul, Madhya Pradesh 460001",
+    "area": "Balagi Vihar Colony, Ganj",
+    "latitude": 21.9043659,
+    "longitude": 77.9065016,
+    "place_id": "ChIJS2G-QOsJ1jsRUnCaMp4eA5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS2G-QOsJ1jsRUnCaMp4eA5g",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:37:01"
+  }
+]

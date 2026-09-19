@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Earthnet Enterprises",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Internet service provider",
+    "all_categories": "Internet service provider",
+    "pincode": "460225",
+    "phone_number": "+91 91117 01113",
+    "website": "https://earthnet.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Manvta, Kanadia Main Rd, Indore, Madhya Pradesh 452001",
+    "area": "460225",
+    "latitude": 22.7250777,
+    "longitude": 75.9279499,
+    "place_id": "ChIJD9izBeg8EmwR2ev1hvUxzKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD9izBeg8EmwR2ev1hvUxzKo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:30:45"
+  },
+  {
+    "business_name": "Rk mobile repairing shop",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "460225",
+    "phone_number": "+91 82249 20262",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 10,
+    "address": "17, Palika Vihar Rd, Complex, Kothi Bazar, Betul, Madhya Pradesh 460001",
+    "area": "Complex, Kothi Bazar",
+    "latitude": 21.9112127,
+    "longitude": 77.9015999,
+    "place_id": "ChIJp2u11psJ1jsR_KyX2obCY70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp2u11psJ1jsR_KyX2obCY70",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:30:48"
+  }
+]

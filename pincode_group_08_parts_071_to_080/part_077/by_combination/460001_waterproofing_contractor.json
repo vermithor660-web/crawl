@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aadishakti Traders",
+    "search_category": "Waterproofing Contractor",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "460001",
+    "phone_number": "+91 83193 02753",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tehsil Rd, behind police station, Police Colony, Athner, Madhya Pradesh 460110",
+    "area": "Police Colony",
+    "latitude": 21.621444399999998,
+    "longitude": 77.92323859999999,
+    "place_id": "ChIJVwADGfl31jsRr-uTKfpSb9Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVwADGfl31jsRr-uTKfpSb9Q",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:22:46"
+  },
+  {
+    "business_name": "Track Seal Waterproofing",
+    "search_category": "Waterproofing Contractor",
+    "primary_category": "Waterproofing service",
+    "all_categories": "Waterproofing service",
+    "pincode": "460001",
+    "phone_number": "+91 99901 73355",
+    "website": "https://tracksealwaterproofing.com/",
+    "rating": 4.9,
+    "reviews_count": 23,
+    "address": "6904, Nabi Karim Rd, Aram Nagar, Paharganj, Delhi, New Delhi, Delhi 110055",
+    "area": "Aram Nagar, Paharganj",
+    "latitude": 28.650071399999998,
+    "longitude": 77.21332079999999,
+    "place_id": "ChIJdQUg-Jmq5EARyWV7sjtsAas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQUg-Jmq5EARyWV7sjtsAas",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:22:46"
+  }
+]

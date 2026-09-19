@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tapti Tyre Market",
+    "search_category": "Malls",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Shopping mall",
+    "pincode": "460661",
+    "phone_number": "+91 83192 89525",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Betul Rd, Multai, Madhya Pradesh 460661",
+    "area": "460661",
+    "latitude": 21.781060099999998,
+    "longitude": 78.2529082,
+    "place_id": "ChIJLy5EBlLA1TsRcqJOcXuasYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLy5EBlLA1TsRcqJOcXuasYU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:49:53"
+  },
+  {
+    "business_name": "Vishu Radium Art",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "460661",
+    "phone_number": "+91 91797 39179",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Unioun bank, Betul Rd, Multai, Madhya Pradesh 460661",
+    "area": "460661",
+    "latitude": 21.7844633,
+    "longitude": 78.2508436,
+    "place_id": "ChIJowusyXzB1TsRP1AWS-zzCQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJowusyXzB1TsRP1AWS-zzCQk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:49:53"
+  }
+]

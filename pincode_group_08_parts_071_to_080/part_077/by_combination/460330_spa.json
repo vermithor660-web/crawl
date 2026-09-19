@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Relaxation Thai Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "460330",
+    "phone_number": "+91 62677 97953",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "shop no. 321, 3rd floor, ashima malld, Road, Bhopal, Madhya Pradesh 462026",
+    "area": "Danish Nagar, Bagmugaliya",
+    "latitude": 23.1831185,
+    "longitude": 77.4563251,
+    "place_id": "ChIJl9EGldRDfDkRkresf0zDGZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl9EGldRDfDkRkresf0zDGZ4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:32:17"
+  },
+  {
+    "business_name": "Pawar Enterprises",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "460330",
+    "phone_number": "+91 90099 53904",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "319/3, Pawar BETUL, Bajpur, Betul, Madhya Pradesh 460001",
+    "area": "Bajpur",
+    "latitude": 21.891338899999997,
+    "longitude": 77.8971035,
+    "place_id": "ChIJRU3ydzMJ1jsRPKw3-ybHfU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRU3ydzMJ1jsRPKw3-ybHfU4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:32:17"
+  }
+]

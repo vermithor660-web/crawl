@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Narmada Dairy And Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "460225",
+    "phone_number": "+91 88710 40978",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vivekanand Ward Rd, Ganj, Kalapatha Rd, Ganj, Betul, Madhya Pradesh 460001",
+    "area": "Ganj",
+    "latitude": 21.9049528,
+    "longitude": 77.91342019999999,
+    "place_id": "ChIJV57AhS4J1jsRKJuv4s59QhI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV57AhS4J1jsRKJuv4s59QhI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:29:31"
+  },
+  {
+    "business_name": "RamjiBakers",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Service establishment",
+    "pincode": "460225",
+    "phone_number": "N/A",
+    "website": "https://tanujtongse.github.io/cake/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "RamjiBakers, 460225, India",
+    "area": "460225",
+    "latitude": 21.9740078,
+    "longitude": 78.26143499999999,
+    "place_id": "ChIJazBQbY9w0y8RDzf93xJjC20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJazBQbY9w0y8RDzf93xJjC20",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:29:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.O.P Mahor",
+    "search_category": "Doctors",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "460225",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "WV2R+HW7, Sadar, Badora, Betul, Madhya Pradesh 460001",
+    "area": "Sadar",
+    "latitude": 21.9014185,
+    "longitude": 77.8922919,
+    "place_id": "ChIJDzZFOgAJ1jsRFdtJfzP5QSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDzZFOgAJ1jsRFdtJfzP5QSE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:29:51"
+  },
+  {
+    "business_name": "Dr. Suresh Gohe",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "460225",
+    "phone_number": "+91 98935 68877",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "RMGF+76H, chardhana,, Chunalohma, Madhya Pradesh 460225",
+    "area": "460225",
+    "latitude": 21.8256829,
+    "longitude": 77.67310909999999,
+    "place_id": "ChIJZcRk254T1jsRKeU1nXUYJVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZcRk254T1jsRKeU1nXUYJVU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:29:52"
+  }
+]

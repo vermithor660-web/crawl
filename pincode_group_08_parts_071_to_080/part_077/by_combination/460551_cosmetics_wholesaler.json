@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Glorious International",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics industry",
+    "all_categories": "Cosmetics industry",
+    "pincode": "460551",
+    "phone_number": "+91 77730 08826",
+    "website": "https://www.thegloriousinternational.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Bldg no S, 327, behind KOPAL SCHOOL, Nehru Nagar, Bhopal, Madhya Pradesh 462003",
+    "area": "Nehru Nagar",
+    "latitude": 23.211419199999998,
+    "longitude": 77.3940192,
+    "place_id": "ChIJAzGl1VhDfDkRl0RhN_xAWSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAzGl1VhDfDkRl0RhN_xAWSY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:41:28"
+  },
+  {
+    "business_name": "Curelock pharma",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Pharmaceutical Products Wholesaler",
+    "all_categories": "Pharmaceutical Products Wholesaler",
+    "pincode": "460551",
+    "phone_number": "N/A",
+    "website": "http://curelockpharma.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Bazar chouk joulkheda teh, Madhya Pradesh 460661",
+    "area": "460551",
+    "latitude": 21.841476999999998,
+    "longitude": 78.2228028,
+    "place_id": "ChIJK0mb1tDr1TsRajXVQL2EwH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK0mb1tDr1TsRajXVQL2EwH8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:41:31"
+  }
+]

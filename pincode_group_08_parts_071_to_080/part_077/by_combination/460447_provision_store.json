@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ashwani general store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "460447",
+    "phone_number": "+91 98266 89160",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 7,
+    "address": "Ashwani general store shakti nagar shobhapur colony, Pathakhera, Madhya Pradesh 460449",
+    "area": "460447",
+    "latitude": 22.129808399999998,
+    "longitude": 78.1203294,
+    "place_id": "ChIJY46zJ3r31TsRXw8iicDwrn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY46zJ3r31TsRXw8iicDwrn8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:36:57"
+  },
+  {
+    "business_name": "Pappu Bartan Bhandar",
+    "search_category": "Provision Store",
+    "primary_category": "Kitchen supply store",
+    "all_categories": "Kitchen supply store",
+    "pincode": "460447",
+    "phone_number": "+91 98268 06652",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "Shopping Center Square Road, Sarni, Madhya Pradesh 460447",
+    "area": "Sarni",
+    "latitude": 22.104600299999998,
+    "longitude": 78.1708199,
+    "place_id": "ChIJ-ZC8gcX21TsR7MCiKBzazoE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ZC8gcX21TsR7MCiKBzazoE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:36:58"
+  }
+]

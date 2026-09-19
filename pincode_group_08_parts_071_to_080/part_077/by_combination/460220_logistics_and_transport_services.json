@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prabhat Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "460220",
+    "phone_number": "+91 99225 55234",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 6,
+    "address": "Jaistambh Chowk, behind Shivaji statue, Paratwada, Achalpur, Maharashtra 444805",
+    "area": "Paratwada",
+    "latitude": 21.2936613,
+    "longitude": 77.5150847,
+    "place_id": "ChIJ3zTp9n_01jsRfgFauJnkPP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3zTp9n_01jsRfgFauJnkPP0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:28:16"
+  },
+  {
+    "business_name": "ARCO ROAD LINES",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "460220",
+    "phone_number": "+91 72232 20261",
+    "website": "http://arcoroadways.com/",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "8G28+CHJ, near Mahavir Dal Mill Side Of Advocate Mandle Officee, Paratwada, Civil Lines, Achalpur, Maharashtra 444805",
+    "area": "Paratwada, Civil Lines",
+    "latitude": 21.3010958,
+    "longitude": 77.5163788,
+    "place_id": "ChIJG-_Sv7z11jsR2HlgAZGc9kg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG-_Sv7z11jsR2HlgAZGc9kg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:28:18"
+  }
+]

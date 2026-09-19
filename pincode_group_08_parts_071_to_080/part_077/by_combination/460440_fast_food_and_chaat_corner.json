@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarni Municipality Food Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Food court",
+    "pincode": "460440",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "93/2, 93/2, Prem Nagar, Pathakhera, Madhya Pradesh 460447",
+    "area": "Prem Nagar",
+    "latitude": 22.1202564,
+    "longitude": 78.1478624,
+    "place_id": "ChIJefol1Rv31TsREyh0ppVSgEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJefol1Rv31TsREyh0ppVSgEw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:33:23"
+  },
+  {
+    "business_name": "New Chat Centre",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "460440",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "WV2X+G67, Housing Board Colony, Ganj, Betul, Madhya Pradesh 460001",
+    "area": "Housing Board Colony, Ganj",
+    "latitude": 21.901296199999997,
+    "longitude": 77.89805319999999,
+    "place_id": "ChIJs44sP5EJ1jsRAQyOyjS7x4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs44sP5EJ1jsRAQyOyjS7x4o",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:33:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaani Dhabha",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "460443",
+    "phone_number": "+91 94256 05077",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 186,
+    "address": "VWP4+6FQ, Bajpur, Betul, Madhya Pradesh 460001",
+    "area": "Bajpur",
+    "latitude": 21.885579699999997,
+    "longitude": 77.90621999999999,
+    "place_id": "ChIJ_9wAWfUJ1jsR6c3OPIgHgGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_9wAWfUJ1jsR6c3OPIgHgGM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:35:12"
+  },
+  {
+    "business_name": "Dhaba Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "460443",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "X9V3+GWQ, Harnya, Madhya Pradesh 460554",
+    "area": "460443",
+    "latitude": 21.9938324,
+    "longitude": 78.35487049999999,
+    "place_id": "ChIJb8j4TmmS1TsRLa_TD-pdsl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb8j4TmmS1TsRLa_TD-pdsl0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:35:14"
+  }
+]

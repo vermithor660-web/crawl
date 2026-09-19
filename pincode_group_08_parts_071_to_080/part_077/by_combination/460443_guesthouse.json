@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arvindo guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "460443",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "WCL B-Type Flats Sector 1, Sobhapur, Madhya Pradesh 460449",
+    "area": "460443",
+    "latitude": 22.130250099999998,
+    "longitude": 78.109822,
+    "place_id": "ChIJB8WG35H51TsRQ5PY1Ii8nIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB8WG35H51TsRQ5PY1Ii8nIk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:36:09"
+  },
+  {
+    "business_name": "SNCO Guest Rooms",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "460443",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "W3QV+XXW, Amla, Jaitapur, Madhya Pradesh 460553",
+    "area": "460443",
+    "latitude": 21.939989399999998,
+    "longitude": 78.0949512,
+    "place_id": "ChIJm82Zglvl1TsRrdy7eDjj658",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm82Zglvl1TsRrdy7eDjj658",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:36:11"
+  }
+]

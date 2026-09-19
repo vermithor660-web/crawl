@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ecom Express",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "460661",
+    "phone_number": "+91 83768 88888",
+    "website": "https://ecomexpress.in/",
+    "rating": 3.8,
+    "reviews_count": 28,
+    "address": "Q7J2+MWW, Multai, Madhya Pradesh 460661",
+    "area": "460661",
+    "latitude": 21.781737399999997,
+    "longitude": 78.2523326,
+    "place_id": "ChIJTU-MHFfB1TsRvoVgtyASbjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTU-MHFfB1TsRvoVgtyASbjo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:48:45"
+  },
+  {
+    "business_name": "New Balaji &Naresh Transport Warud",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "460661",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Back side of mutton market, near Habib traders, Shaniwar Peth, Warud, Maharashtra 444906",
+    "area": "Shaniwar Peth",
+    "latitude": 21.4716707,
+    "longitude": 78.2672959,
+    "place_id": "ChIJ668YKVLL1TsROZ2qARInmWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ668YKVLL1TsROZ2qARInmWg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:48:47"
+  }
+]

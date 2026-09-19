@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ENT Clinic - Dr Sweety Sharma",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Clinic",
+    "all_categories": "ENT Clinic",
+    "pincode": "460225",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WV4V+PM2 Lavanya Pathology, Link Rd, near Sai Mart, Betul, Madhya Pradesh 460001",
+    "area": "460225",
+    "latitude": 21.9067579,
+    "longitude": 77.8941397,
+    "place_id": "ChIJASFVJQAJ1jsR1C8MBcwB5Pg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJASFVJQAJ1jsR1C8MBcwB5Pg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:29:54"
+  },
+  {
+    "business_name": "Ear+ Hearing and Speech Solutions Pvt Ltd - Hearing Aid Dwarka",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hearing aid store",
+    "all_categories": "Hearing aid store, Audiologist, Hearing aid repair service, Speech & Hearing Specialist",
+    "pincode": "460225",
+    "phone_number": "+91 98990 69262",
+    "website": "http://www.earhearingandspeechsolutions.com/",
+    "rating": 5,
+    "reviews_count": 110,
+    "address": "Plot no. 36 sewak park side near KD grand banquet hall, Dwarka Mor Metro Station Gate 2, Delhi, 110059",
+    "area": "Block A, Sewak Park, Dwarka",
+    "latitude": 28.616881199999998,
+    "longitude": 77.0324438,
+    "place_id": "ChIJ3ag9RM4FDTkRI_0VLtGx7Jg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ag9RM4FDTkRI_0VLtGx7Jg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:29:57"
+  }
+]

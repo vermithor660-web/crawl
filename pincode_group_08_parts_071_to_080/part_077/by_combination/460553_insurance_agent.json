@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Insurense Advisor",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "460553",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V3M6+GVJ, Soni Mohalla, Nahiya, Madhya Pradesh 460553",
+    "area": "Soni Mohalla",
+    "latitude": 21.8838463,
+    "longitude": 78.0621434,
+    "place_id": "ChIJk3fhU6vn1TsR9Dga7nDdIe0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk3fhU6vn1TsR9Dga7nDdIe0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:43:48"
+  },
+  {
+    "business_name": "Bima and Nivesh Services",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Auto insurance agency, Health insurance agency, Insurance agent, Life insurance agency",
+    "pincode": "460553",
+    "phone_number": "+91 98830 85611",
+    "website": "http://bimannivesh.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2/C JUSTICE DWARKA NATH ROAD Just, opposite of Hybrid Besides Union Bank, branch, Bhowanipore, Kolkata, West Bengal 700020",
+    "area": "Gaza Park, branch, Bhowanipore",
+    "latitude": 22.536875,
+    "longitude": 88.3485182,
+    "place_id": "ChIJcw4H6C53AjoRlz5yllWka2w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcw4H6C53AjoRlz5yllWka2w",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:43:49"
+  }
+]

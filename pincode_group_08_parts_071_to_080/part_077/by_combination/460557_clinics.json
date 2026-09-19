@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aastha Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "460557",
+    "phone_number": "+91 99263 47665",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Multai Rd, in front of Mali Bhawan, Birul Bazar, Madhya Pradesh 460666",
+    "area": "460557",
+    "latitude": 21.7221235,
+    "longitude": 78.1574523,
+    "place_id": "ChIJuzg9a4DD1TsRWqNQoUJCn3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuzg9a4DD1TsRWqNQoUJCn3g",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:46:37"
+  },
+  {
+    "business_name": "OM SAI CLINIC",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "460557",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "J4PG+M2M, Hiwarkhed, Madhya Pradesh 460668",
+    "area": "460557",
+    "latitude": 21.6367181,
+    "longitude": 78.12503149999999,
+    "place_id": "ChIJA1kEfa7F1TsRHw4rgIt9M0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA1kEfa7F1TsRHw4rgIt9M0w",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:46:37"
+  }
+]

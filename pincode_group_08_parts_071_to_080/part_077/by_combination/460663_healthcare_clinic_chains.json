@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HEALTH CARE CLINIC",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "460663",
+    "phone_number": "+91 95294 49445",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Alanpur, Sawai Madhopur, Sawai Madhopur Muncipal Area, Rajasthan 322001",
+    "area": "Alanpur",
+    "latitude": 26.000852599999998,
+    "longitude": 76.3649903,
+    "place_id": "ChIJh-unc38mbjkRdK6xSh4eFBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh-unc38mbjkRdK6xSh4eFBY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:50:30"
+  },
+  {
+    "business_name": "New Life Health Care Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "460663",
+    "phone_number": "+91 87575 47898",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Deorh, Bihar 847402",
+    "area": "460663",
+    "latitude": 26.2972581,
+    "longitude": 86.4737639,
+    "place_id": "ChIJ3-jYSjLKkjkRSvuY3toDWBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-jYSjLKkjkRSvuY3toDWBw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:50:30"
+  }
+]

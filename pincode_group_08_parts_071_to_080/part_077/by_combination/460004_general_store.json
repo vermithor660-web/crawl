@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sukhvardhini General Store",
+    "search_category": "General Store",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "460004",
+    "phone_number": "+91 89895 07809",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Shankar Ward, Kalapatha, Madhya Pradesh 460001",
+    "area": "Ganj",
+    "latitude": 21.9102531,
+    "longitude": 77.9134385,
+    "place_id": "ChIJScfyZMIJ1jsR1tCObvkXd-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJScfyZMIJ1jsR1tCObvkXd-0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:23:47"
+  },
+  {
+    "business_name": "Ragini General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "460004",
+    "phone_number": "+91 77459 94675",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "VW3H+842, 2, Ca Road, Betul Bazar, Madhya Pradesh 460004",
+    "area": "460004",
+    "latitude": 21.856312799999998,
+    "longitude": 77.9296001,
+    "place_id": "ChIJm3md5t3h1TsRHy0vt_968QU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm3md5t3h1TsRHy0vt_968QU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:23:47"
+  }
+]

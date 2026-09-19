@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Designer Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "460663",
+    "phone_number": "+91 90981 33166",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NH347, Dunawa, Madhya Pradesh 460663",
+    "area": "460663",
+    "latitude": 21.862341999999998,
+    "longitude": 78.4835413,
+    "place_id": "ChIJKeT00bqZ1TsRCcLsLRoy-Aw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKeT00bqZ1TsRCcLsLRoy-Aw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:50:11"
+  },
+  {
+    "business_name": "Umrao Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Gents Tailor",
+    "all_categories": "Gents Tailor",
+    "pincode": "460663",
+    "phone_number": "+91 93031 32504",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Kotwali, Ibrahimpura, Peer Gate Area, Bhopal, Madhya Pradesh 462001",
+    "area": "Kotwali, Ibrahimpura, Peer Gate Area",
+    "latitude": 23.2561958,
+    "longitude": 77.40322809999999,
+    "place_id": "ChIJO0hA3SFofDkRhUEvoq41c28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO0hA3SFofDkRhUEvoq41c28",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:50:14"
+  }
+]

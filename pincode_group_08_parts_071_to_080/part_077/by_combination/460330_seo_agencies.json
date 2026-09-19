@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vipul Pare",
+    "search_category": "SEO Agencies",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant, Service establishment",
+    "pincode": "460330",
+    "phone_number": "N/A",
+    "website": "https://vipulpare.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vipul Pare, 460330, India",
+    "area": "460330",
+    "latitude": 22.723972699999997,
+    "longitude": 75.86384989999999,
+    "place_id": "ChIJlQcg6zflyUsRIKq_ghFcmYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlQcg6zflyUsRIKq_ghFcmYg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:33:03"
+  },
+  {
+    "business_name": "Mediaofficers",
+    "search_category": "SEO Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Branding agency, Information services, Internet marketing service, Marketing consultant, Software company, Website designer",
+    "pincode": "460330",
+    "phone_number": "+91 95015 04089",
+    "website": "https://www.mediaofficers.com/",
+    "rating": 5,
+    "reviews_count": 46,
+    "address": "1571/29, near baweza nursing home, Preet Colony, Bal Sanda, Rupnagar, Haveli Chhoti, Punjab 140001",
+    "area": "Preet Colony, Bal Sanda",
+    "latitude": 30.964164399999998,
+    "longitude": 76.5253623,
+    "place_id": "ChIJzfvBAh9VBTkRsf5DmlfL_9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzfvBAh9VBTkRsf5DmlfL_9w",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:33:04"
+  }
+]

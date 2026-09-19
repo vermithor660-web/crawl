@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Titan Watch Center",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "460447",
+    "phone_number": "+91 93002 88451",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chhindwara - Seoni Rd, Shanichra Bazar, Sinchai Colony, Nai Abadi, Chhindwara, Madhya Pradesh 480001",
+    "area": "Shanichra Bazar, Sinchai Colony, Nai Abadi",
+    "latitude": 22.0590829,
+    "longitude": 78.9512522,
+    "place_id": "ChIJr9MRm8Vn1TsRnLHAO5H_MvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr9MRm8Vn1TsRnLHAO5H_MvU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:37:17"
+  },
+  {
+    "business_name": "Titan World - Sadar, Nagpur",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Clock and watch maker, Watch Manufacturer, Watch repair service",
+    "pincode": "460447",
+    "phone_number": "+91 80 6291 4286",
+    "website": "https://www.titan.co.in/stores?storeId=WNG1W",
+    "rating": 4.8,
+    "reviews_count": 16642,
+    "address": "Shop No 6, Sadar Extension, Mount Rd, beside Icecube Pub and Restaurant, Sadar, Nagpur, Maharashtra 440001",
+    "area": "Sadar",
+    "latitude": 21.1587504,
+    "longitude": 79.0810674,
+    "place_id": "ChIJ0bj4EcDA1DsRMkJI7fzB4lw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bj4EcDA1DsRMkJI7fzB4lw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:37:18"
+  }
+]

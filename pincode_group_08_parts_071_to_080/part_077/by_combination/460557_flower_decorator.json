@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay Florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "460557",
+    "phone_number": "+91 99217 46023",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Bajaj Nagar, Nagpur, Maharashtra 440010",
+    "area": "Bajaj Nagar",
+    "latitude": 21.1264319,
+    "longitude": 79.0635669,
+    "place_id": "ChIJO6o__HvA1DsRaJ17lECE-Co",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO6o__HvA1DsRaJ17lECE-Co",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:47:14"
+  },
+  {
+    "business_name": "Risha Roll and Eggs",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Soup kitchen",
+    "pincode": "460557",
+    "phone_number": "+91 98222 22198",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "53FX+4MQ, Jaripatka Rd, near naresh flower, Indora, Nagpur, Maharashtra 440014",
+    "area": "Indora",
+    "latitude": 21.172844299999998,
+    "longitude": 79.09924889999999,
+    "place_id": "ChIJ____vyLB1DsRtvjbTJ9r3XM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____vyLB1DsRtvjbTJ9r3XM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:47:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smoothie Juices And More",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "460447",
+    "phone_number": "+91 70340 16262",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Tirur Malappuram by pass Rd, Vailathur, Ponmundam, Keralam 676106",
+    "area": "460447",
+    "latitude": 10.9534437,
+    "longitude": 75.9474034,
+    "place_id": "ChIJT1Y0I7OzpzsRZS1glYaI2gw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT1Y0I7OzpzsRZS1glYaI2gw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:37:04"
+  },
+  {
+    "business_name": "Fresh Fruit Corner & Beverages",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "460447",
+    "phone_number": "+91 90733 66850",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "28/9, college road, Botanical Garden Rd, Kolkata, West Bengal 711103",
+    "area": "Botanical Garden Area",
+    "latitude": 22.5587098,
+    "longitude": 88.3078984,
+    "place_id": "ChIJg9SJHAB5AjoRo91Z6WDfUMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg9SJHAB5AjoRo91Z6WDfUMA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:37:04"
+  }
+]

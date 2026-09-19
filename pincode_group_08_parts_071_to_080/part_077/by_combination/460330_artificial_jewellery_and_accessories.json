@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri gothi jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "460330",
+    "phone_number": "+91 94071 11222",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WW82+283, Thana Rd, Kothi Bazar, Betul, Madhya Pradesh 460001",
+    "area": "Kothi Bazar",
+    "latitude": 21.915023299999998,
+    "longitude": 77.9008017,
+    "place_id": "ChIJaZ1JOAAJ1jsRKUp1os6RUBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaZ1JOAAJ1jsRKUp1os6RUBo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:31:36"
+  },
+  {
+    "business_name": "new_testing",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "460330",
+    "phone_number": "+91 88881 01624",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "railway station, at, Betul, Madhya Pradesh 460001",
+    "area": "Mehto Colony Kalapatha, Ganj",
+    "latitude": 21.9076,
+    "longitude": 77.9122,
+    "place_id": "ChIJC1_fzRMJ1jsRR_AxUE2f4pU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC1_fzRMJ1jsRR_AxUE2f4pU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:31:36"
+  }
+]

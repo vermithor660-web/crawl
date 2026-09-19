@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navnath Juice Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "460220",
+    "phone_number": "N/A",
+    "website": "https://bizknow.in/NavnathJuiceCenter/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "9, Gangapur Rd, Murkute Colony, Thakkar Nagar, New Pandit Colony, Nashik, Maharashtra 422013",
+    "area": "Murkute Colony, Thakkar Nagar, New Pandit Colony",
+    "latitude": 20.012206199999998,
+    "longitude": 73.75272509999999,
+    "place_id": "ChIJT7OJU5Dr3TsRCCHepPCfiOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT7OJU5Dr3TsRCCHepPCfiOs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:27:42"
+  },
+  {
+    "business_name": "Juice Bar",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "460220",
+    "phone_number": "+91 74000 76677",
+    "website": "https://www.zomato.com/mumbai/juice-bar-hiranandani-estate-thane-west-thane/o",
+    "rating": 4.2,
+    "reviews_count": 503,
+    "address": "SHOP NO 4, Queensgate, next to NATURALS ICECREAM, Hiranandani Estate, Thane West, Thane, Maharashtra 400607",
+    "area": "Hiranandani Estate, Thane West",
+    "latitude": 19.2505971,
+    "longitude": 72.9801356,
+    "place_id": "ChIJpXeMhM-75zsRbCXiNPiQF0w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpXeMhM-75zsRbCXiNPiQF0w",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:27:44"
+  }
+]

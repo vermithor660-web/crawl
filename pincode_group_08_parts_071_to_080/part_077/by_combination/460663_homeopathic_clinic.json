@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homoeopathic Home",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopathic pharmacy",
+    "all_categories": "Homeopathic pharmacy",
+    "pincode": "460663",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 13,
+    "address": "Tughlakabad Extension, Tughlakabad, New Delhi, Delhi 110019",
+    "area": "Tughlakabad Extension, Tughlakabad",
+    "latitude": 28.520523899999997,
+    "longitude": 77.2570535,
+    "place_id": "ChIJDyIUtCziDDkRmguh3RKfIio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDyIUtCziDDkRmguh3RKfIio",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:50:22"
+  },
+  {
+    "business_name": "Government Homeopathic Hospital Mainikhapa",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "460663",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WH2H+629, MP SH 26, Maini Khapa Mal, Madhya Pradesh 480331",
+    "area": "460663",
+    "latitude": 21.9005276,
+    "longitude": 78.5776197,
+    "place_id": "ChIJO3QcnPaf1TsRoUlSSlCZNKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3QcnPaf1TsRoUlSSlCZNKI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:50:22"
+  }
+]

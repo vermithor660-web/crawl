@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hello Kitty Store",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "460440",
+    "phone_number": "+91 70003 39200",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Gandhi park, Itwara Bazar, Jagdish Pura, Narmadapuram, Madhya Pradesh 461001",
+    "area": "Itwara Bazar, Jagdish Pura",
+    "latitude": 22.758243399999998,
+    "longitude": 77.7187908,
+    "place_id": "ChIJNQHHKzzPfTkRallQVT4vO-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNQHHKzzPfTkRallQVT4vO-g",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:33:29"
+  },
+  {
+    "business_name": "TRENDS",
+    "search_category": "Womens Ethnic Wear and Kurti",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Baby clothing store, Children's clothing store, Clothing Accessories Store, Formal Clothing Store, Western apparel store, Youth clothing store",
+    "pincode": "460440",
+    "phone_number": "+91 93299 26226",
+    "website": "https://trends.shop/page/trends-db-mall-bhopal",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Shop No. F-14, Db Mall Bhopal, Jail Road, Bhopal, Madhya Pradesh 462011",
+    "area": "DB City Mall, Zone-I, Maharana Pratap Nagar",
+    "latitude": 23.2321815,
+    "longitude": 77.4297649,
+    "place_id": "ChIJs4--TGdCfDkRP237SkkHCqc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4--TGdCfDkRP237SkkHCqc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:33:29"
+  }
+]

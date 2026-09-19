@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhote Account and Tax Consultacny",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm",
+    "pincode": "460220",
+    "phone_number": "+91 97300 86627",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Office No 05, Gitai Complex, Walgaon Road, Chandur, Pralhadpur, Maharashtra 444704",
+    "area": "460220",
+    "latitude": 21.2328372,
+    "longitude": 77.74507539999999,
+    "place_id": "ChIJiTCqnD2P1jsRt_9TRNXr0bc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiTCqnD2P1jsRt_9TRNXr0bc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:29:03"
+  },
+  {
+    "business_name": "CSPL Energy",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Electrical installation service",
+    "all_categories": "Electrical installation service",
+    "pincode": "460220",
+    "phone_number": "+91 70207 34133",
+    "website": "http://cspl.energy/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Raj Mahal Complex, Infront of City Cable Office, Dist, Paratwada, Lal Pool, Kheldeomali, Maharashtra 444805",
+    "area": "Paratwada, Lal Pool",
+    "latitude": 21.277901099999998,
+    "longitude": 77.5241837,
+    "place_id": "ChIJFagWc3Hz1jsRgDrEEQt1zm4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFagWc3Hz1jsRgDrEEQt1zm4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:29:04"
+  }
+]

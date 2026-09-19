@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indo Leather Products",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "460663",
+    "phone_number": "+91 281 532 8437",
+    "website": "http://toolapron.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Plot No 281, Kapurthala Road, Leather Complex, Kapurthala Rd, Jalandhar, Punjab 144001",
+    "area": "460663",
+    "latitude": 31.411084199999998,
+    "longitude": 75.4408997,
+    "place_id": "ChIJo4qqF6JOGjkRB4KhThRwzmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo4qqF6JOGjkRB4KhThRwzmw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:50:14"
+  },
+  {
+    "business_name": "Leather House",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "460663",
+    "phone_number": "+91 90075 55258",
+    "website": "http://www.leatherhouse.in/",
+    "rating": 4.5,
+    "reviews_count": 100,
+    "address": "12 no, Capital Market, First Floor, opposite Axis Bank, Rail Gate, Barasat, Kolkata, West Bengal 700124",
+    "area": "Rail Gate, Barasat",
+    "latitude": 22.721815199999998,
+    "longitude": 88.4807182,
+    "place_id": "ChIJLSYtNwii-DkREDcLKtduDVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLSYtNwii-DkREDcLKtduDVo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:50:16"
+  }
+]

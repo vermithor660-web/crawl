@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Color Ads Media",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Advertising agency, Event planner, Party planner",
+    "pincode": "460553",
+    "phone_number": "+91 75030 04884",
+    "website": "https://www.coloradsmedia.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Building No. 57, Vikas Marg, opp. Metro Pillar no. 52, Vijay Block, Block E, Laxmi Nagar, New Delhi, Delhi, 110092",
+    "area": "Vijay Block, Block E, Laxmi Nagar",
+    "latitude": 28.6348797,
+    "longitude": 77.2836295,
+    "place_id": "ChIJEybAGeT9DDkRV1eVeimbl9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEybAGeT9DDkRV1eVeimbl9A",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:43:34"
+  },
+  {
+    "business_name": "BuyMediaSpace - Newspaper and Outdoor Advertising Agency in Bangalore",
+    "search_category": "Media and Event",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Classified ads newspaper publisher, Marketing agency, Media Consultant, Media house",
+    "pincode": "460553",
+    "phone_number": "+91 63602 14181",
+    "website": "https://www.buymediaspace.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "No.41/30, 2nd cross, Marathahalli - Sarjapur Outer Ring Rd, beside Traffic Police Station, Ibbaluru, Marathahalli, Bengaluru, Karnataka 560102",
+    "area": "Ibbaluru, Marathahalli",
+    "latitude": 12.9217148,
+    "longitude": 77.66178,
+    "place_id": "ChIJQVe0eSoUrjsRSKc8JfWg7sw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQVe0eSoUrjsRSKc8JfWg7sw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:43:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Verma Agro Farm",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "460440",
+    "phone_number": "+91 94256 70396",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gram malvar, road, Bishnupur, Shahpur, Madhya Pradesh 460440",
+    "area": "460440",
+    "latitude": 22.247378899999998,
+    "longitude": 77.97807449999999,
+    "place_id": "ChIJTzSfUjQBfjkRRVta6m6WHKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTzSfUjQBfjkRRVta6m6WHKE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:33:15"
+  },
+  {
+    "business_name": "Satpura Thermal Power Station",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Power station",
+    "all_categories": "Power station",
+    "pincode": "460440",
+    "phone_number": "N/A",
+    "website": "http://www.mppgcl.mp.gov.in/stps-sarni.html",
+    "rating": 4.3,
+    "reviews_count": 341,
+    "address": "Sarni Shopping Center, New, near rizwi chock, Sarni, Madhya Pradesh 460447",
+    "area": "460440",
+    "latitude": 22.107542,
+    "longitude": 78.1750045,
+    "place_id": "ChIJDzgs48P21TsRte40xrZbL-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDzgs48P21TsRte40xrZbL-s",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:33:16"
+  }
+]

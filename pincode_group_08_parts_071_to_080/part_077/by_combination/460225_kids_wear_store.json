@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Loot Lo Kids Were",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "460225",
+    "phone_number": "+91 78695 97287",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 02, Bus Stand, Chicholi, Madhya Pradesh 460330",
+    "area": "460225",
+    "latitude": 22.0113605,
+    "longitude": 77.6715012,
+    "place_id": "ChIJQaeYBhcb1jsRmmCrM3To-yk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQaeYBhcb1jsRmmCrM3To-yk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:29:41"
+  },
+  {
+    "business_name": "Amaya kids collection",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby clothing store",
+    "all_categories": "Baby clothing store",
+    "pincode": "460225",
+    "phone_number": "+91 98066 54752",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Silicon City, Indore, Madhya Pradesh 452012",
+    "area": "Silicon City",
+    "latitude": 22.6458524,
+    "longitude": 75.830536,
+    "place_id": "ChIJLZUBEb37YjkR-Nj0J-6pQuE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZUBEb37YjkR-Nj0J-6pQuE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:29:41"
+  }
+]

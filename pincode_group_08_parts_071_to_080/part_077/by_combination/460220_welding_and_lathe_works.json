@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Techweld Industries Unit I",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "460220",
+    "phone_number": "+91 98206 60450",
+    "website": "https://www.techweld.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "7, Dhanwantsingh Industrial Estate, Datta Mandir Rd, Bhandup West, Mumbai, Maharashtra 400078",
+    "area": "Nahur West, Industrial Area, Bhandup West",
+    "latitude": 19.1534706,
+    "longitude": 72.94150479999999,
+    "place_id": "ChIJP5iB16S55zsRw1f2hT41iKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP5iB16S55zsRw1f2hT41iKc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:29:07"
+  },
+  {
+    "business_name": "Welding works",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "460220",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GQGG+528, Lutiyatari, Jharkhand 814157",
+    "area": "460220",
+    "latitude": 24.5254136,
+    "longitude": 86.7750654,
+    "place_id": "ChIJY7Xy1XUZ8TkRsTYKBnoKyY8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY7Xy1XUZ8TkRsTYKBnoKyY8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:29:09"
+  }
+]

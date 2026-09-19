@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bombay Enterprises",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Clothing wholesaler",
+    "all_categories": "Clothing wholesaler",
+    "pincode": "460557",
+    "phone_number": "+91 712 276 7261",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 15, 15A, Wholesale Cloth Market, Gandhibagh, Nagpur, Maharashtra 440002",
+    "area": "Wholesale Cloth Market, Gandhibagh",
+    "latitude": 21.1532391,
+    "longitude": 79.1072039,
+    "place_id": "ChIJC9mzi8zA1DsR5Vzr05WII5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC9mzi8zA1DsR5Vzr05WII5U",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:46:28"
+  },
+  {
+    "business_name": "Ahinsa Fabric",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Clothes and fabric manufacturer",
+    "all_categories": "Clothes and fabric manufacturer, Clothing store",
+    "pincode": "460557",
+    "phone_number": "+91 96919 39296",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 10,
+    "address": "Ahinsa Fabric, next to Manohar Dairy, MP Nagar Zone-I, Zone-I, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "MP Nagar Zone-I, Zone-I, Maharana Pratap Nagar",
+    "latitude": 23.235101,
+    "longitude": 77.434698,
+    "place_id": "ChIJv7gKUgBDfDkRfK8m8Q-UWqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7gKUgBDfDkRfK8m8Q-UWqM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:46:29"
+  }
+]

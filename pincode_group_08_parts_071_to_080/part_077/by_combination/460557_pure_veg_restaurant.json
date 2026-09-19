@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nagpur Naturals",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Natural goods store, Produce market",
+    "pincode": "460557",
+    "phone_number": "+91 98340 23541",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "362/A, near LAD Metro Station, Gandhi Nagar, Nagpur, Maharashtra 440010",
+    "area": "Gandhi Nagar",
+    "latitude": 21.1351115,
+    "longitude": 79.0547034,
+    "place_id": "ChIJ8QF00Y7A1DsRy__iylAthwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8QF00Y7A1DsRy__iylAthwE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:46:21"
+  },
+  {
+    "business_name": "Green and Grains",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Grocery delivery service",
+    "pincode": "460557",
+    "phone_number": "+91 83700 64888",
+    "website": "https://greenandgrains.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Rohit Nagar, Bawadiya Kalan, Gulmohar Colony, Bhopal, Madhya Pradesh 462039",
+    "area": "Rohit Nagar, Bawadiya Kalan, Gulmohar Colony",
+    "latitude": 23.1797819,
+    "longitude": 77.4376128,
+    "place_id": "ChIJ9XpgaZZDfDkR7KFMaLVv2qY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9XpgaZZDfDkR7KFMaLVv2qY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:46:21"
+  }
+]

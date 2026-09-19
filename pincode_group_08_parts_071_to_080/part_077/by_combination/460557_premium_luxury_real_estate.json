@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CoveredCampus.in",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Property management company",
+    "pincode": "460557",
+    "phone_number": "+91 99931 85156",
+    "website": "http://www.coveredcampus.in/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "4th Floor, Purshottam Eastend, SBI Colony, Zone-II, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "Purshottam Eastend, SBI Colony, Zone-II, Maharana Pratap Nagar",
+    "latitude": 23.2306359,
+    "longitude": 77.4369928,
+    "place_id": "ChIJ9SCvrcVDfDkRYj-lvLBZIOY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9SCvrcVDfDkRYj-lvLBZIOY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:47:43"
+  },
+  {
+    "business_name": "Plot A",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "460557",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WW48+PGG, Ganj, Betul, Madhya Pradesh 460001",
+    "area": "Ganj",
+    "latitude": 21.9068187,
+    "longitude": 77.9163138,
+    "place_id": "ChIJZZ5WvK4J1jsR8QJgqjOAbMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZZ5WvK4J1jsR8QJgqjOAbMA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:47:45"
+  }
+]

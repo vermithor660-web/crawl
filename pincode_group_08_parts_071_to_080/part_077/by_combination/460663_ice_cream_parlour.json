@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siya Ram",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "460663",
+    "phone_number": "+91 94796 06143",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Ambada Mal., Madhya Pradesh 480334",
+    "area": "460663",
+    "latitude": 21.7425811,
+    "longitude": 78.574602,
+    "place_id": "ChIJzZcVrFCn1TsRoNWB44AmEFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzZcVrFCn1TsRoNWB44AmEFY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:50:09"
+  },
+  {
+    "business_name": "Bele ji ice cornar",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "460663",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "W8FJ+HQF, Madhya Pradesh 460661",
+    "area": "460663",
+    "latitude": 21.9239341,
+    "longitude": 78.33193179999999,
+    "place_id": "ChIJXcuoseiT1TsROuyrIHMj7ho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXcuoseiT1TsROuyrIHMj7ho",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:50:09"
+  }
+]

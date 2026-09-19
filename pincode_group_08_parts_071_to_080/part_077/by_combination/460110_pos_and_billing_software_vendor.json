@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "POS USA",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Business to business service, Computer support and services, Service establishment",
+    "pincode": "460110",
+    "phone_number": "N/A",
+    "website": "https://www.posusa.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "POS USA, 460110, India",
+    "area": "460110",
+    "latitude": 32.7430719,
+    "longitude": -96.963595,
+    "place_id": "ChIJbWWiWGmHToYRkFWkoAqRioI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbWWiWGmHToYRkFWkoAqRioI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:27:02"
+  },
+  {
+    "business_name": "Billing Software Dealers",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "460110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2, Mahatma Gandhi Rd, Phase II, New Palasia, Indore, Madhya Pradesh 452018",
+    "area": "Phase II, New Palasia",
+    "latitude": 22.723519,
+    "longitude": 75.888493,
+    "place_id": "ChIJ9cMOgTf9YjkRjIpkHw7H618",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9cMOgTf9YjkRjIpkHw7H618",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:27:02"
+  }
+]

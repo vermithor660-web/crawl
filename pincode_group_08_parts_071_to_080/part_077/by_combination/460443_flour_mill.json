@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mokhere flour Mill & Matrakrupa Kirana Store",
+    "search_category": "Flour Mill",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "460443",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 18,
+    "address": "Bhawani Nagar, Wd.No.12, Amla, Madhya Pradesh 460551",
+    "area": "Ward Number 13",
+    "latitude": 21.922338699999997,
+    "longitude": 78.111732,
+    "place_id": "ChIJ7XgYk1_v1TsRs32oEDD84Tk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7XgYk1_v1TsRs32oEDD84Tk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:35:03"
+  },
+  {
+    "business_name": "Bhawsar Flour Mills",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "460443",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WW75+F6C Rajesh Bhawsar, Malviya Ward Rd, Khanjanpur, Betul, Madhya Pradesh 460001",
+    "area": "Khanjanpur",
+    "latitude": 21.913695999999998,
+    "longitude": 77.9080172,
+    "place_id": "ChIJHdC7dAAJ1jsR8aHLTimMYU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHdC7dAAJ1jsR8aHLTimMYU4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:35:03"
+  }
+]

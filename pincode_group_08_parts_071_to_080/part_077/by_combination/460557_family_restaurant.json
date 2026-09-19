@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The chinu family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "460557",
+    "phone_number": "+91 74159 76699",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 61,
+    "address": "Nagpur road, Multai, Madhya Pradesh 460661",
+    "area": "460557",
+    "latitude": 21.775272299999997,
+    "longitude": 78.2735184,
+    "place_id": "ChIJqeQCYrXB1TsRk3oIdT8Fu4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqeQCYrXB1TsRk3oIdT8Fu4c",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:46:26"
+  },
+  {
+    "business_name": "Panchwati restaurant and merrige garden",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Vegetarian restaurant",
+    "pincode": "460557",
+    "phone_number": "+91 99268 24046",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 375,
+    "address": "Nagpur road, Kamath, Multai, Madhya Pradesh 460661",
+    "area": "Kamath",
+    "latitude": 21.771683799999998,
+    "longitude": 78.2762753,
+    "place_id": "ChIJLRXpAWLA1TsRrfinAhrALJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLRXpAWLA1TsRrfinAhrALJ8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:46:26"
+  }
+]

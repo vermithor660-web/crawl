@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The poultry king poultyform",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "460551",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "V5WH+9XM, Lalawadi, Madhya Pradesh 460551",
+    "area": "460551",
+    "latitude": 21.8959583,
+    "longitude": 78.1799245,
+    "place_id": "ChIJW5nyjtfp1TsRPCPb_W22s5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW5nyjtfp1TsRPCPb_W22s5s",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:40:33"
+  },
+  {
+    "business_name": "Satpuda Poultry Farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "460551",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Q5XV+6M2, Amadoh, Madhya Pradesh 460661",
+    "area": "460551",
+    "latitude": 21.7980131,
+    "longitude": 78.19413229999999,
+    "place_id": "ChIJT9_IBxvC1TsR7uurnvONtnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT9_IBxvC1TsR7uurnvONtnw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:40:34"
+  }
+]

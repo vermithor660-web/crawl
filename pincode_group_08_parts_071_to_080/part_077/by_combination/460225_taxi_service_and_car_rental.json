@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nikita true and Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "460225",
+    "phone_number": "+91 79996 86060",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Azad Ward, Multai, Madhya Pradesh 460661",
+    "area": "Azad Ward",
+    "latitude": 21.774718099999998,
+    "longitude": 78.2605553,
+    "place_id": "ChIJ19M60kLB1TsRasoee0ZVMQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ19M60kLB1TsRasoee0ZVMQY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:30:05"
+  },
+  {
+    "business_name": "Arjun hamsafar",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Tourist attraction",
+    "pincode": "460225",
+    "phone_number": "+91 88715 15754",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Tikari, Rojhada, Betul, Madhya Pradesh 460001",
+    "area": "Tikari, Rojhada",
+    "latitude": 21.9177577,
+    "longitude": 77.89306669999999,
+    "place_id": "ChIJ_ydNPjIJ1jsR7jUBMIQq6-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_ydNPjIJ1jsR7jUBMIQq6-o",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:30:07"
+  }
+]

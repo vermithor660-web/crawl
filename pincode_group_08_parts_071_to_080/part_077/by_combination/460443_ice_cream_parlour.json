@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sweet stuff ice cream factory and parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "460443",
+    "phone_number": "N/A",
+    "website": "http://www.sweetstuff.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "42F3+XWC, Ghoradongri, Madhya Pradesh 460443",
+    "area": "460443",
+    "latitude": 22.1248985,
+    "longitude": 78.0047007,
+    "place_id": "ChIJ6RBsSj3_1TsRQMwndrZbPE4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6RBsSj3_1TsRQMwndrZbPE4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:35:15"
+  },
+  {
+    "business_name": "Sai refresh (Parihar ji)",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "460443",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "WV9X+V6Q, Rojhada, Betul, Madhya Pradesh 460001",
+    "area": "Rojhada",
+    "latitude": 21.9197007,
+    "longitude": 77.8981117,
+    "place_id": "ChIJ-69KovsJ1jsRXGm3Ic8Yp-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-69KovsJ1jsRXGm3Ic8Yp-M",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:35:16"
+  }
+]

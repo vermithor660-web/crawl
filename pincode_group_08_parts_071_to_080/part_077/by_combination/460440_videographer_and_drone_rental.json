@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cinefly Films",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Photography service",
+    "all_categories": "Photography service, Service establishment",
+    "pincode": "460440",
+    "phone_number": "N/A",
+    "website": "http://www.cineflyfilms.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Cinefly Films, 460440, India",
+    "area": "460440",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJ7y2pW1-Pa4cR1blb2-o2lTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7y2pW1-Pa4cR1blb2-o2lTk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:34:17"
+  },
+  {
+    "business_name": "Reffto",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Education center",
+    "pincode": "460440",
+    "phone_number": "+91 74895 76935",
+    "website": "http://www.reffto.in/",
+    "rating": 4.5,
+    "reviews_count": 24,
+    "address": "Raisen Road, NH 86, Bhopal, Madhya Pradesh 462022",
+    "area": "NH 86",
+    "latitude": 23.249286899999998,
+    "longitude": 77.522751,
+    "place_id": "ChIJr7kDentBfDkRaS48jKaRMKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr7kDentBfDkRaS48jKaRMKc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:34:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kathi Junction - Pure Veg Dine-in Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Chinese restaurant, Indian restaurant",
+    "pincode": "460554",
+    "phone_number": "+91 95220 77666",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 233,
+    "address": "PLOT NO 6, SECTOR C VIDHYA NAGAR, Narmadapuram Rd, opp. BAGSEWANIYA, POLICE STATION, Bhopal, Madhya Pradesh 462026",
+    "area": "POLICE STATION",
+    "latitude": 23.192013799999998,
+    "longitude": 77.44994659999999,
+    "place_id": "ChIJhbaIih9DfDkR4ZHpoGDUHmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhbaIih9DfDkR4ZHpoGDUHmg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:44:30"
+  },
+  {
+    "business_name": "Ma Vaishno Hotel",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Breakfast restaurant",
+    "pincode": "460554",
+    "phone_number": "+91 95843 91807",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 161,
+    "address": "Khajoori Sadak, Madhya Pradesh 462030",
+    "area": "460554",
+    "latitude": 23.241811,
+    "longitude": 77.242969,
+    "place_id": "ChIJQfDUVoBgfDkRlMdNvCc6jUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQfDUVoBgfDkRlMdNvCc6jUI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:44:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Photography",
+    "search_category": "Photographers",
+    "primary_category": "Photographer",
+    "all_categories": "Photographer",
+    "pincode": "460225",
+    "phone_number": "+91 93992 28542",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 03, Telephone colony, Ganj, Betul, Madhya Pradesh 460001",
+    "area": "Telephone colony, Ganj",
+    "latitude": 21.9076672,
+    "longitude": 77.91177309999999,
+    "place_id": "ChIJR1bKfjYJ1jsRvWW84hS0wRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR1bKfjYJ1jsRvWW84hS0wRM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:30:28"
+  },
+  {
+    "business_name": "Khawse digital photo studio",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "460225",
+    "phone_number": "+91 94244 16146",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "1, Kalapatha Rd, Kothi Bazar, Betul, Madhya Pradesh 460001",
+    "area": "Kothi Bazar",
+    "latitude": 21.9088261,
+    "longitude": 77.9068688,
+    "place_id": "ChIJQcm7DwoJ1jsRfeoVdYdZTU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQcm7DwoJ1jsRfeoVdYdZTU0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:30:31"
+  }
+]

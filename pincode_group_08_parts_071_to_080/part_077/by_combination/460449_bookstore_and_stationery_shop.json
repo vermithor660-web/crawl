@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Crossword Bookstores",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "460449",
+    "phone_number": "+91 712 673 1251",
+    "website": "http://www.crossword.in/",
+    "rating": 4.3,
+    "reviews_count": 2856,
+    "address": "Jaika Building, 1, Commercial Rd, Collectors Colony, Civil Lines, Nagpur, Maharashtra 440001",
+    "area": "Collectors Colony, Civil Lines",
+    "latitude": 21.155793199999998,
+    "longitude": 79.0787579,
+    "place_id": "ChIJ0bj4EcDA1DsRhncpKH9W_TU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bj4EcDA1DsRhncpKH9W_TU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:39:57"
+  },
+  {
+    "business_name": "Western Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "460449",
+    "phone_number": "+91 98231 62383",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 676,
+    "address": "Shop No 38, 537H+5WJ, 35, Residency Rd, Sadar, Nagpur, Maharashtra 440001",
+    "area": "Sadar",
+    "latitude": 21.1628251,
+    "longitude": 79.0794167,
+    "place_id": "ChIJizbkh3m_1DsR_viJsifQPp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJizbkh3m_1DsR_viJsifQPp4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:39:57"
+  }
+]

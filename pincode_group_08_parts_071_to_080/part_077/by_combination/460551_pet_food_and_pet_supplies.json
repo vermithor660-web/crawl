@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The pet crown",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "460551",
+    "phone_number": "+91 98067 87147",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 179,
+    "address": "Ganesh Chowk, 13 Infront of, Street Number 1, opp. sabzi mandi, Sadar Bazar, Sadar, Jabalpur, Madhya Pradesh 482001",
+    "area": "Sadar Bazar, Sadar",
+    "latitude": 23.1521302,
+    "longitude": 79.9445594,
+    "place_id": "ChIJIe9u_JGtgTkRkGlO8t88lIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIe9u_JGtgTkRkGlO8t88lIs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:40:36"
+  },
+  {
+    "business_name": "Aman aquarium pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "460551",
+    "phone_number": "+91 62680 07295",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Old nagpur naka, off DDC collage, Vivekanand Colony, Chhindwara, Madhya Pradesh 480001",
+    "area": "Vivekanand Colony",
+    "latitude": 22.0432512,
+    "longitude": 78.9326691,
+    "place_id": "ChIJb0VICABp1TsRaDnA5JZIHlw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb0VICABp1TsRaDnA5JZIHlw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:40:37"
+  }
+]

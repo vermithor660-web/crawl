@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bajrang Traders",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "460663",
+    "phone_number": "+91 87706 56437",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "MP SH 26, Maini Khapa Mal, Madhya Pradesh 480331",
+    "area": "460663",
+    "latitude": 21.900548099999998,
+    "longitude": 78.5775024,
+    "place_id": "ChIJYY2QYsWe1TsRsW-FGsZgGIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYY2QYsWe1TsRsW-FGsZgGIY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:49:54"
+  },
+  {
+    "business_name": "Sahu Kirana Jambakiradi",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "460663",
+    "phone_number": "+91 96309 61509",
+    "website": "https://instagram.com/infielder_ex?igshid=YmMyMTA2M2Y=",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Unnamed Road, Durgwada, Madhya Pradesh 480551",
+    "area": "460663",
+    "latitude": 22.0642258,
+    "longitude": 78.5027508,
+    "place_id": "ChIJ6wznqdeF1TsRkbh-JwW4IxM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6wznqdeF1TsRkbh-JwW4IxM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:49:55"
+  }
+]

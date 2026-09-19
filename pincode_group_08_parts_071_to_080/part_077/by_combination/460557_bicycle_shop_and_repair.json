@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Popular Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop",
+    "pincode": "460557",
+    "phone_number": "+91 755 254 3503",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "57, Sultania Rd, Ibrahimpura, Talaiya, Bhopal, Madhya Pradesh 462001",
+    "area": "Ibrahimpura, Talaiya",
+    "latitude": 23.2555408,
+    "longitude": 77.4030016,
+    "place_id": "ChIJWWtdNSdofDkRpbx6VqmDKKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWWtdNSdofDkRpbx6VqmDKKs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:46:52"
+  },
+  {
+    "business_name": "The Bike Tales",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "460557",
+    "phone_number": "+91 96050 00660",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 285,
+    "address": "Door Nos. 454 (D) & 454 (E) On the first & 2nd Floor, Al - Hissan opp sky line topaz, Kaloor - Kadavanthara Rd, Kathrikadavu, Kaloor, Kochi, Keralam 682017",
+    "area": "Kathrikadavu, Kaloor",
+    "latitude": 9.9732924,
+    "longitude": 76.2977439,
+    "place_id": "ChIJp6Q9izgNCDsRyPbAvW_NuhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp6Q9izgNCDsRyPbAvW_NuhE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:46:53"
+  }
+]

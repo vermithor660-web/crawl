@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Medicals Main Road",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "460551",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "2943+436, Unnamed Road, Najarpur, Madhya Pradesh 460554",
+    "area": "460551",
+    "latitude": 22.0056343,
+    "longitude": 78.3528189,
+    "place_id": "ChIJD9Z31nCS1TsRqr7IfhLPQJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD9Z31nCS1TsRqr7IfhLPQJU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:40:54"
+  },
+  {
+    "business_name": "Vishal Medical store, damua",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "460551",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "near mahavir interprises, Damua, Madhya Pradesh 480555",
+    "area": "460551",
+    "latitude": 22.194208099999997,
+    "longitude": 78.4703078,
+    "place_id": "ChIJI6qb2giI1TsR6jIU5jmjze0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI6qb2giI1TsR6jIU5jmjze0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:40:55"
+  }
+]
