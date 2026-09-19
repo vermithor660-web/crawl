@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NAGPUR EYE HOSPITAL",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "442916",
+    "phone_number": "+91 89894 36926",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Sanchar Colony, Chhindwara, Madhya Pradesh 480001",
+    "area": "Sanchar Colony",
+    "latitude": 22.056589499999998,
+    "longitude": 78.9208062,
+    "place_id": "ChIJMXiYcPll1TsRYndgFeAT8Dw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMXiYcPll1TsRYndgFeAT8Dw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:14:17"
+  },
+  {
+    "business_name": "Shree Optical",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "442916",
+    "phone_number": "+91 86260 55575",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Nanded Naka, near More eye hospital, Udgir, Maharashtra 413517",
+    "area": "Malkapur",
+    "latitude": 18.398329399999998,
+    "longitude": 77.10732,
+    "place_id": "ChIJmU0QaaWrzzsR6U9gVueN6Jc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmU0QaaWrzzsR6U9gVueN6Jc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:14:17"
+  }
+]

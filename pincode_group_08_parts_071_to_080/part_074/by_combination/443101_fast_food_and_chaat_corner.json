@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAULI CHINESE",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Chinese restaurant",
+    "pincode": "443101",
+    "phone_number": "+91 98342 94146",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, Near, Khamgaon Rd, Vatika Nagar, Khamgaon, Shegaon, Maharashtra 444203",
+    "area": "Vatika Nagar",
+    "latitude": 20.7907424,
+    "longitude": 76.6853738,
+    "place_id": "ChIJn0rMIidF1zsRaOOTtyW9Iks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn0rMIidF1zsRaOOTtyW9Iks",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:24:58"
+  },
+  {
+    "business_name": "HOTEL FLORA",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "443101",
+    "phone_number": "+91 95455 53047",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1038,
+    "address": "Hotel flora Hartala, Bhusawal Rd, Muktainagar, Maharashtra 425306",
+    "area": "443101",
+    "latitude": 21.0224099,
+    "longitude": 76.0093739,
+    "place_id": "ChIJUbzc_W252TsR3JyTjTQbblU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUbzc_W252TsR3JyTjTQbblU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:25:01"
+  }
+]

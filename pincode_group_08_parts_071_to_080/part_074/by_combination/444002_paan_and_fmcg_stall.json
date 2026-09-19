@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharad Paan Center",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "444002",
+    "phone_number": "+91 90496 34093",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 01 Washim Baypass Balapur, Road, near Vyankatesh Wine Bar, Akola, Maharashtra 444002",
+    "area": "Shivsena Nagar",
+    "latitude": 20.693960099999998,
+    "longitude": 76.98965249999999,
+    "place_id": "ChIJaSl4Zfsx1zsRU0NWXPy7_Y0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaSl4Zfsx1zsRU0NWXPy7_Y0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:02:45"
+  },
+  {
+    "business_name": "Pan palace",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop",
+    "pincode": "444002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P259+924, Ranpise Nagar, Akola, Maharashtra 444001",
+    "area": "Ranpise Nagar",
+    "latitude": 20.7083773,
+    "longitude": 77.0175713,
+    "place_id": "ChIJz1wobgAv1zsRFXHv1litHek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz1wobgAv1zsRFXHv1litHek",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:02:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SKS Spices",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Spices Wholesaler",
+    "pincode": "442701",
+    "phone_number": "+91 70204 42349",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SKS Spices, Maharana Pratap Nagar Ward, Ballarpur, Maharashtra 442701",
+    "area": "Maharana Pratap Nagar Ward",
+    "latitude": 19.8612775,
+    "longitude": 79.3465736,
+    "place_id": "ChIJNV73iVnT0jsRnbIdjA1eD7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNV73iVnT0jsRnbIdjA1eD7I",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:43:20"
+  },
+  {
+    "business_name": "sangita masala",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Spices Wholesaler",
+    "all_categories": "Spices Wholesaler",
+    "pincode": "442701",
+    "phone_number": "+91 84211 08908",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Ravindra Nagar Vard, Ballarpur, Maharashtra 442701",
+    "area": "Ravindra Nagar Vard",
+    "latitude": 19.851566299999998,
+    "longitude": 79.3498917,
+    "place_id": "ChIJ1UDcXGXT0jsRqfkpPBCUA_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1UDcXGXT0jsRqfkpPBCUA_8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:43:21"
+  }
+]

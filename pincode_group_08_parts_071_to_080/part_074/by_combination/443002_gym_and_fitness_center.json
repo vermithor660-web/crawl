@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "443002",
+    "phone_number": "+91 96655 55366",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 265,
+    "address": "Siddhartha Nagar, Pundlik Nagar, Chikhli, Maharashtra 443201",
+    "area": "Siddhartha Nagar, Pundlik Nagar",
+    "latitude": 20.3452409,
+    "longitude": 76.2601382,
+    "place_id": "ChIJ8Z81QZAR2jsR3rYseZVBYUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Z81QZAR2jsR3rYseZVBYUs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:23:29"
+  },
+  {
+    "business_name": "Dnyaneshwari Fitness Center Eklara",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "443002",
+    "phone_number": "+91 90490 81337",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "At Post, Tq, Chikhali, Eklara, Maharashtra 443201",
+    "area": "Chikhali",
+    "latitude": 20.3124835,
+    "longitude": 76.3644776,
+    "place_id": "ChIJCxQ1KrQJ2jsRIF-GA3D4dgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCxQ1KrQJ2jsRIF-GA3D4dgE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:23:33"
+  }
+]

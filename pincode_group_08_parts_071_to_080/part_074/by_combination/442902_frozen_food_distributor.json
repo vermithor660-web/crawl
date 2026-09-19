@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chawla Bakery",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Cake shop",
+    "pincode": "442902",
+    "phone_number": "+91 97637 36833",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "X78R+424, Revenue Colony, Ramnagar, Chandrapur, Maharashtra 442401",
+    "area": "Revenue Colony, Ramnagar",
+    "latitude": 19.9652685,
+    "longitude": 79.2900698,
+    "place_id": "ChIJlSw2oHjW0jsRnSzEVIi26gs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlSw2oHjW0jsRnSzEVIi26gs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:59:36"
+  },
+  {
+    "business_name": "Foodtrucker Engineering LLP",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Kiosk, Kitchen remodeler, Portable building manufacturer",
+    "pincode": "442902",
+    "phone_number": "+91 88889 91188",
+    "website": "https://foodtrucker.co.in/",
+    "rating": 4.8,
+    "reviews_count": 106,
+    "address": "Haveli, IT Park, Gat No 388,Dehu Alandi Road, Tq, near to Talawade, Vitthal Nagar, Maharashtra 412109",
+    "area": "Vitthal Nagar",
+    "latitude": 18.7050862,
+    "longitude": 73.7824959,
+    "place_id": "ChIJpcCdqgm3wjsRzwptBo72R1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpcCdqgm3wjsRzwptBo72R1M",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:59:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srujan Optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Optical Wholesaler",
+    "pincode": "442701",
+    "phone_number": "+91 94233 93894",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Main Road, Ravindra Nagar Vard, Chandrapur, Ballarpur, Maharashtra 442701",
+    "area": "Ravindra Nagar Vard",
+    "latitude": 19.8551879,
+    "longitude": 79.348422,
+    "place_id": "ChIJCfuTju_S0jsRzcIcm6uMkuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCfuTju_S0jsRzcIcm6uMkuU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:43:39"
+  },
+  {
+    "business_name": "Darshana Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "442701",
+    "phone_number": "+91 77984 13981",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Samadhan Purti Super Bazar, Naveen Bus Stop, Maharana Pratap Nagar Ward, Ballarpur, Maharashtra 442701",
+    "area": "Maharana Pratap Nagar Ward",
+    "latitude": 19.855171,
+    "longitude": 79.3475584,
+    "place_id": "ChIJS2p48e_S0jsRUgC_0lKTzEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS2p48e_S0jsRUgC_0lKTzEU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:43:39"
+  }
+]

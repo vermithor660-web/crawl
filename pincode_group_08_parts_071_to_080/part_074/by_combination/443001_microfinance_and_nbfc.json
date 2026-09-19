@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BDCC Bank",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "443001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "G5MM+FRQ, Church Layout, Chaitanyawadi, Buldhana, Maharashtra 443001",
+    "area": "Church Layout, Chaitanyawadi",
+    "latitude": 20.5337164,
+    "longitude": 76.1846229,
+    "place_id": "ChIJ37NWtvgd2jsRFJd3xIwbVAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ37NWtvgd2jsRFJd3xIwbVAs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:22:27"
+  },
+  {
+    "business_name": "Buldana Urban",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "443001",
+    "phone_number": "+91 72622 42705",
+    "website": "http://www.buldanaurban.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "G5PM+PWJ, Hutatma Gore Path, Chaitanyawadi, Buldhana, Maharashtra 443001",
+    "area": "Chaitanyawadi",
+    "latitude": 20.536835999999997,
+    "longitude": 76.1847715,
+    "place_id": "ChIJ2XcRIwL22TsRFoq8ZmppShc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2XcRIwL22TsRFoq8ZmppShc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:22:27"
+  }
+]

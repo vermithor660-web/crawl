@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Primary Health Sub Centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "442917",
+    "phone_number": "+91 96737 29721",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W643+5XW, Pipri, Maharashtra 442505",
+    "area": "442917",
+    "latitude": 19.9054753,
+    "longitude": 79.20495,
+    "place_id": "ChIJJVjdr1TX0jsRQgQdQGj3btU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJVjdr1TX0jsRQgQdQGj3btU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:16:35"
+  },
+  {
+    "business_name": "Pellora Primary Health Sub Centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "442917",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "V64G+2V6, Pellora, Rajura, Maharashtra 442908",
+    "area": "442917",
+    "latitude": 19.8550427,
+    "longitude": 79.2271489,
+    "place_id": "ChIJOzlSu17Q0jsRS-4enKBVmS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOzlSu17Q0jsRS-4enKBVmS4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:16:35"
+  }
+]

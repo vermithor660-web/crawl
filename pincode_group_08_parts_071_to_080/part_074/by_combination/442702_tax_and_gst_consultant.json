@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sales Tax Office",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "State government office",
+    "all_categories": "State government office",
+    "pincode": "442702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Administrative Office, opposite Bus stand, Chauhan Colony, Chandrapur, Maharashtra 442401",
+    "area": "Chauhan Colony",
+    "latitude": 19.9645916,
+    "longitude": 79.2997895,
+    "place_id": "ChIJ0zdOitHV0jsRhgBGd68l_eA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0zdOitHV0jsRhgBGd68l_eA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:46:37"
+  },
+  {
+    "business_name": "GST Suvidha Center MH0202",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "442702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Accounts Computer Media, Gauriraj Appt, Old, SP College Rd, Balaji Ward, Premises, Bazar Ward, Chandrapur, Maharashtra 442402",
+    "area": "Balaji Ward, Premises, Bazar Ward",
+    "latitude": 19.9458028,
+    "longitude": 79.29462199999999,
+    "place_id": "ChIJp6w89vrV0jsR9aT7-c6eoBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp6w89vrV0jsR9aT7-c6eoBA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:46:37"
+  }
+]

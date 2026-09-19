@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kaiwalya Sales",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "444002",
+    "phone_number": "+91 98503 82603",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Shop No, 1, Tilak Rd, near Manik Tokij, Malipura, Akola, Maharashtra 444006",
+    "area": "Malipura",
+    "latitude": 20.714481199999998,
+    "longitude": 76.9972492,
+    "place_id": "ChIJpyHU4v4x1zsRYjiD-lmtX5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpyHU4v4x1zsRYjiD-lmtX5g",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:03:39"
+  },
+  {
+    "business_name": "PADSONS INDUSTRIES PVT. LTD.",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Grain elevator",
+    "all_categories": "Grain elevator",
+    "pincode": "444002",
+    "phone_number": "+91 99213 63339",
+    "website": "http://padsons.co.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "H, 28/2, Phaes 3, Midc Phase 3 and 4, MIDC, Shivar, Maharashtra 444104",
+    "area": "Midc Phase 3 and 4, MIDC",
+    "latitude": 20.695880499999998,
+    "longitude": 77.06728059999999,
+    "place_id": "ChIJUU0JmSks1zsRd_zBDFGwY7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUU0JmSks1zsRd_zBDFGwY7g",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:03:39"
+  }
+]

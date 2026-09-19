@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hiranya chains point",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "442903",
+    "phone_number": "+91 98347 83341",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "bhakar Kendra, Om zunka, Bhiwapur, Maharashtra 441201",
+    "area": "442903",
+    "latitude": 20.7682198,
+    "longitude": 79.5115162,
+    "place_id": "ChIJi3RgglmpLDoRiiF6auZmOoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi3RgglmpLDoRiiF6auZmOoA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:01:31"
+  },
+  {
+    "business_name": "ANUGRAH FOOD CENTAR NAGBHIR",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "442903",
+    "phone_number": "+91 72187 51696",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Chandrapur - Mul - Nagbhir - Nagpur Hwy, Nagbhir, Maharashtra 441205",
+    "area": "442903",
+    "latitude": 20.582416,
+    "longitude": 79.6787212,
+    "place_id": "ChIJMRu2-HG9LDoRj66EwDiCD3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMRu2-HG9LDoRj66EwDiCD3Q",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:01:32"
+  }
+]

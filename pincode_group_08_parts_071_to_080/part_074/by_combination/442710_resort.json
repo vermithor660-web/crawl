@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Siddheshwar Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "442710",
+    "phone_number": "+91 94221 33966",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 55,
+    "address": "Rawanwadi, Maharashtra 441924",
+    "area": "442710",
+    "latitude": 21.0557658,
+    "longitude": 79.71783669999999,
+    "place_id": "ChIJ4Wv7NLlDKzoRD87hY0Ixl3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Wv7NLlDKzoRD87hY0Ixl3E",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:57:00"
+  },
+  {
+    "business_name": "Roop Open Restaurant and Resorts",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Restaurant, Swimming pool",
+    "pincode": "442710",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 1237,
+    "address": "Mumbai - Kolkata Hwy, opp. Raj Family Garden Restaurant, Deori, Sirpur, Maharashtra 441901",
+    "area": "442710",
+    "latitude": 21.0755138,
+    "longitude": 80.42975109999999,
+    "place_id": "ChIJe44qBheTKzoRTduvdCfToDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe44qBheTKzoRTduvdCfToDI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:57:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shreyas Kirana",
+    "search_category": "Generator Sales and Rental",
+    "primary_category": "Electric generator shop",
+    "all_categories": "Electric generator shop",
+    "pincode": "443202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "68P8+348, Kawathal, Maharashtra 443201",
+    "area": "443202",
+    "latitude": 20.2351599,
+    "longitude": 76.315336,
+    "place_id": "ChIJGbWVtnwN2jsRpJgGUhJ25NY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGbWVtnwN2jsRpJgGUhJ25NY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:39:03"
+  },
+  {
+    "business_name": "Mauli Engineering and Suppliers",
+    "search_category": "Generator Sales and Rental",
+    "primary_category": "Electric generator shop",
+    "all_categories": "Electric generator shop, Diesel engine dealer, Electrical repair shop, Industrial Spares & Products Wholesaler",
+    "pincode": "443202",
+    "phone_number": "N/A",
+    "website": "http://www.mauligenerators.com/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "jivheshwar, kalanagar, new bansi maharaj, 8, Gulmohar Rd, Savedi, Ahilyanagar, Maharashtra 414003",
+    "area": "Savedi",
+    "latitude": 19.1211046,
+    "longitude": 74.7429624,
+    "place_id": "ChIJfVIsnL273DsR5bilFWN-9Q8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfVIsnL273DsR5bilFWN-9Q8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:39:06"
+  }
+]

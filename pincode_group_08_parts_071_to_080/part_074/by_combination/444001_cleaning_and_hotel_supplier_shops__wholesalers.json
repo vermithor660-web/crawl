@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Digital Laundry Mall+",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Laundry service",
+    "all_categories": "Laundry service",
+    "pincode": "444001",
+    "phone_number": "+91 92094 88228",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Kala Maruti Rd, near kala maruti mandir, near Rajeshwar mandir, Jain chowk, Old City, Akola, Maharashtra 444002",
+    "area": "Jain chowk, Old City",
+    "latitude": 20.7096758,
+    "longitude": 76.99128379999999,
+    "place_id": "ChIJI5ag98Qv1zsRisAeRcxB34c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI5ag98Qv1zsRisAeRcxB34c",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:01:57"
+  },
+  {
+    "business_name": "Amit Plastic",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "444001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Raylijin market, near oswal bhawan, Malipura, Akola, Maharashtra 444006",
+    "area": "Malipura",
+    "latitude": 20.712519399999998,
+    "longitude": 76.993903,
+    "place_id": "ChIJsx4tmOcx1zsREAo96XxzuOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsx4tmOcx1zsREAo96XxzuOs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:01:59"
+  }
+]

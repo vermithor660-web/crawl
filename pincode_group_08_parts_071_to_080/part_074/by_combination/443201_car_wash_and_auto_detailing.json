@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KHARAT WASHING CENTRE",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "443201",
+    "phone_number": "+91 97672 21049",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 5, Near, Jalna Road, Chikhli, Berala, Maharashtra 443201",
+    "area": "443201",
+    "latitude": 20.2856271,
+    "longitude": 76.24621049999999,
+    "place_id": "ChIJxzNswaYR2jsRjKnkoBJYL1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxzNswaYR2jsRjKnkoBJYL1k",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:36:14"
+  },
+  {
+    "business_name": "SAIKRUPA WASHING CENTER",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "443201",
+    "phone_number": "+91 77749 16691",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1, Main Rd, near Savna Fata, Chikhli, Chikhli Rural, Maharashtra 443201",
+    "area": "443201",
+    "latitude": 20.3622634,
+    "longitude": 76.25727599999999,
+    "place_id": "ChIJE7SxZEMR2jsRIu6UPJvYbak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE7SxZEMR2jsRIu6UPJvYbak",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:36:14"
+  }
+]

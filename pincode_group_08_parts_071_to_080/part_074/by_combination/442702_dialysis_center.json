@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaidyanath dialysis center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "442702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Mundhe Children's Hospital, C/o, Jayanagar, Malewadi, Parli Vaijnath, Maharashtra 431515",
+    "area": "Jayanagar",
+    "latitude": 18.848948099999998,
+    "longitude": 76.5242252,
+    "place_id": "ChIJ2wQXRGf3zzsRQwXF0o4NRVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wQXRGf3zzsRQwXF0o4NRVg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:45:44"
+  },
+  {
+    "business_name": "DCDC Kidney Care, Sathupalli",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "442702",
+    "phone_number": "+91 11 4558 1006",
+    "website": "https://dcdc.co.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Dcdc, Chc, Dialysis Center, Sathupally, Sathupalli, Telangana 507303",
+    "area": "442702",
+    "latitude": 17.213324099999998,
+    "longitude": 80.82534489999999,
+    "place_id": "ChIJSd5vQJ2DNjoR7aVJ7G2NE8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSd5vQJ2DNjoR7aVJ7G2NE8g",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:45:44"
+  }
+]

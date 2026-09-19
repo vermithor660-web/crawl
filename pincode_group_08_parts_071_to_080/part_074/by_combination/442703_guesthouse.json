@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SP Guest House, Allapalli",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "442703",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 8,
+    "address": "ALLAPALLI road aheri, Nagepalli S, Maharashtra 442703",
+    "area": "442703",
+    "latitude": 19.5007405,
+    "longitude": 80.0616636,
+    "place_id": "ChIJwzWYC1J5LToRtBwDUu6cmho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzWYC1J5LToRtBwDUu6cmho",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:48:09"
+  },
+  {
+    "business_name": "Thriveni Guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "442703",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C2HW+J34, Nagepalli S, Modumadgu, Maharashtra 442703",
+    "area": "442703",
+    "latitude": 19.429063199999998,
+    "longitude": 80.04495779999999,
+    "place_id": "ChIJkwGJVwB5LToRp5BlXK92Yl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkwGJVwB5LToRp5BlXK92Yl8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:48:10"
+  }
+]

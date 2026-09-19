@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SM READYMADE",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "444002",
+    "phone_number": "+91 75583 66640",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Naal Sahab Chowk, Kothadi Bazaar Rd, Baid Pura, Akola, Maharashtra 444001",
+    "area": "Baid Pura",
+    "latitude": 20.7104584,
+    "longitude": 76.99809979999999,
+    "place_id": "ChIJI_CvRAAx1zsRXTRaVMuxR8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI_CvRAAx1zsRXTRaVMuxR8E",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:02:53"
+  },
+  {
+    "business_name": "Cantabil",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing Accessories Store",
+    "all_categories": "Clothing Accessories Store",
+    "pincode": "444002",
+    "phone_number": "+91 72900 60746",
+    "website": "https://stores.cantabilinternational.com/cantabil-cantabil-retail-india-limited-akola-clothing-accessories-store-ratanlal-plot-akola-76368/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.7,
+    "reviews_count": 168,
+    "address": "Gr Flr, Ratanlal Plot, Plot No 1/2/7, Necklace Rd, opposite LRT College, Ranpise Nagar, Akola, Maharashtra 444001",
+    "area": "Ranpise Nagar",
+    "latitude": 20.7104756,
+    "longitude": 77.0095541,
+    "place_id": "ChIJFd5b5Q4x1zsRWnTj7uLEqcY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFd5b5Q4x1zsRWnTj7uLEqcY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:02:54"
+  }
+]

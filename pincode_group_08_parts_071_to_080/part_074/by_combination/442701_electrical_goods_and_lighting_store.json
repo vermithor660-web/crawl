@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhagyashree Electrical Shop",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "442701",
+    "phone_number": "+91 98905 35674",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Main Road, Maharana Pratap Nagar Ward, Ballarpur, Maharashtra 442701",
+    "area": "Maharana Pratap Nagar Ward",
+    "latitude": 19.8577624,
+    "longitude": 79.3484263,
+    "place_id": "ChIJn8kxQ5TT0jsRfLSozHBtAe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn8kxQ5TT0jsRfLSozHBtAe4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:44:05"
+  },
+  {
+    "business_name": "Shri SaiRam Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "442701",
+    "phone_number": "+91 70207 51516",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dr. Thakare Building, Ahilyabai Holkar Chowk, Gadchandur Rd, Rajura, Maharashtra 442905",
+    "area": "442701",
+    "latitude": 19.7795824,
+    "longitude": 79.36405169999999,
+    "place_id": "ChIJPeo1ZQrN0jsRP9n7xEJU7Us",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPeo1ZQrN0jsRP9n7xEJU7Us",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:44:05"
+  }
+]

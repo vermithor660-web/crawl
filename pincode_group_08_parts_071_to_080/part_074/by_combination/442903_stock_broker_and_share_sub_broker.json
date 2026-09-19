@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aetram Trades Private Limited",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "442903",
+    "phone_number": "+91 44 4947 7777",
+    "website": "https://www.aetramtrades.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Unit No. 308 3rd Floor, BETA WING, RAHEJA TOWERS, No.113-134, Anna Salai, Chennai, Tamil Nadu 600002",
+    "area": "Anna Salai",
+    "latitude": 13.0624437,
+    "longitude": 80.2653258,
+    "place_id": "ChIJgcxY5CpnUjoR8h-Prbq4Mlo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgcxY5CpnUjoR8h-Prbq4Mlo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:02:43"
+  },
+  {
+    "business_name": "MSJ FINWEALTH",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service",
+    "pincode": "442903",
+    "phone_number": "+91 94464 03375",
+    "website": "https://www.msjfinwealth.com/",
+    "rating": 5,
+    "reviews_count": 31,
+    "address": "1st Floor, Meenakshi Building, Bilathikulam Rd, near St. George Orthodox Cathedral Church, West Nadakkave, Vandipetta, Nadakkave, Kozhikode, Keralam 673011",
+    "area": "West Nadakkave, Vandipetta, Nadakkave",
+    "latitude": 11.274374199999999,
+    "longitude": 75.7750678,
+    "place_id": "ChIJbUHTj_NfpjsRJJcJfHzXIx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbUHTj_NfpjsRJJcJfHzXIx0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:02:45"
+  }
+]

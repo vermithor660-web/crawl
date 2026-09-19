@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PAWPY THE PET STORE",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "442704",
+    "phone_number": "+91 72087 91510",
+    "website": "https://wa.link/8qsshc",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop No.7, Sheetal Usha, NISHA CHS, next to Domino’s, Malad, Divya Park, Jankalyan Nagar, Malad West, Mumbai, Maharashtra 400095",
+    "area": "Malad, Divya Park, Jankalyan Nagar, Malad West",
+    "latitude": 19.200044,
+    "longitude": 72.8202732,
+    "place_id": "ChIJi_m5qMi35zsRHWEWBbZiC-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi_m5qMi35zsRHWEWBbZiC-8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:49:00"
+  },
+  {
+    "business_name": "Huff & Purr - the pet store",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "442704",
+    "phone_number": "+91 73044 43374",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No 14, Venna CHS, near Sona Cinema, Shantivan, Borivali East, Mumbai, Maharashtra 400066",
+    "area": "Shantivan, Nensey Colony, Borivali East",
+    "latitude": 19.2343872,
+    "longitude": 72.865428,
+    "place_id": "ChIJe_rTvM-x5zsR87ltceqBn94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe_rTvM-x5zsR87ltceqBn94",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:49:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ambika Fast Food",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "442606",
+    "phone_number": "+91 94055 86999",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 10,
+    "address": "Ashirwad Nagar, Gadchiroli, Maharashtra 442605",
+    "area": "Ashirwad Nagar",
+    "latitude": 20.1866167,
+    "longitude": 80.002436,
+    "place_id": "ChIJtUyJXsb7LDoRQj0o4LmhQIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtUyJXsb7LDoRQj0o4LmhQIo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:41:41"
+  },
+  {
+    "business_name": "Shri Swami Samarth Refreshment and Maitri amruttulya tea",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant",
+    "pincode": "442606",
+    "phone_number": "+91 94048 29296",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Mul road, near police station, Rampuri, Gadchiroli, Maharashtra 442605",
+    "area": "Rampuri",
+    "latitude": 20.186129899999997,
+    "longitude": 80.00337929999999,
+    "place_id": "ChIJIVLkVuT7LDoR-O1O7-zh5nU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIVLkVuT7LDoR-O1O7-zh5nU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:41:41"
+  }
+]

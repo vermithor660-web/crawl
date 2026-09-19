@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narashansa Organics",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop",
+    "pincode": "443112",
+    "phone_number": "+91 81231 52502",
+    "website": "https://www.narashansa.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "155, 4th Main, Kauser Nagar, Post, RT Nagar, Bengaluru, Karnataka 560032",
+    "area": "Kauser Nagar, Post, RT Nagar",
+    "latitude": 13.026444699999999,
+    "longitude": 77.5968431,
+    "place_id": "ChIJEQHpdKAXrjsRvH3JRXjXoVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEQHpdKAXrjsRvH3JRXjXoVI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:33:54"
+  },
+  {
+    "business_name": "Farm ville Agro Foods",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "443112",
+    "phone_number": "+91 88289 12828",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No. 4, Shakti CHS, Devi Chowk, Dombivli, Shastri Nagar, Dombivli West, Dombvli, Kalyan, Maharashtra 421202",
+    "area": "Dombivli, Shastri Nagar, Dombivli West",
+    "latitude": 19.219311299999998,
+    "longitude": 73.0826495,
+    "place_id": "ChIJhzHKEQ6_5zsRXnkWCnVXyhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhzHKEQ6_5zsRXnkWCnVXyhg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:33:56"
+  }
+]

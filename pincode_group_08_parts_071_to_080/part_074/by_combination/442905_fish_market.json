@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fishy Yard",
+    "search_category": "Fish Market",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "442905",
+    "phone_number": "+91 82083 86720",
+    "website": "https://wa.me/+919028721704",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Deshpande Ward, behind Police Station, near Gajanan Maharaj Temple, Rajura, Maharashtra 442905",
+    "area": "442905",
+    "latitude": 19.785915499999998,
+    "longitude": 79.3636975,
+    "place_id": "ChIJjaRoFEeUdqERgUPV-7GS7-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjaRoFEeUdqERgUPV-7GS7-g",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:04:57"
+  },
+  {
+    "business_name": "Kunal Fish Shop Center",
+    "search_category": "Fish Market",
+    "primary_category": "Fishery",
+    "all_categories": "Fishery, Fish & chips restaurant",
+    "pincode": "442905",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 5,
+    "address": "P66Q+J49, Mangi Bk, Maharashtra 442908",
+    "area": "442905",
+    "latitude": 19.7115334,
+    "longitude": 79.2378489,
+    "place_id": "ChIJIWfh27fJ0jsRQRAixAcGfy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIWfh27fJ0jsRQRAixAcGfy0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:04:57"
+  }
+]

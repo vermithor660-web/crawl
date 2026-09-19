@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KANCHAN BEAUTY PARLOUR",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "443206",
+    "phone_number": "+91 91466 41077",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, main Road, near Bus Stop, Deulgaon Mahi, Maharashtra 443206",
+    "area": "443206",
+    "latitude": 20.087222399999998,
+    "longitude": 76.1776288,
+    "place_id": "ChIJb2xG4l1r2jsR0l5WqsXSrFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb2xG4l1r2jsR0l5WqsXSrFI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:43:44"
+  },
+  {
+    "business_name": "Hari cutting",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Hair removal service",
+    "all_categories": "Hair removal service",
+    "pincode": "443206",
+    "phone_number": "+91 72649 13806",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Deulgaon Mahi - Old Waki Kurd Rd, Digras bk, Deulgaon Mahi, Maharashtra 443206",
+    "area": "443206",
+    "latitude": 20.0996789,
+    "longitude": 76.184499,
+    "place_id": "ChIJoRTS4V1t2jsRmSJ3gelgIOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoRTS4V1t2jsRmSJ3gelgIOs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:43:44"
+  }
+]

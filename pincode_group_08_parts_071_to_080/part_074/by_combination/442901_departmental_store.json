@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev Sales",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "442901",
+    "phone_number": "+91 91751 55556",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Maharana Pratap Nagar Ward, Ballarpur, Maharashtra 442901",
+    "area": "Maharana Pratap Nagar Ward",
+    "latitude": 19.8573767,
+    "longitude": 79.348882,
+    "place_id": "ChIJG9Sc44nT0jsRwdd1h1YG0lo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9Sc44nT0jsRwdd1h1YG0lo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:57:43"
+  },
+  {
+    "business_name": "Mahesh Kirana",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "442901",
+    "phone_number": "+91 99706 56254",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 11,
+    "address": "V8MG+G8Q, Visapur, Maharashtra 442901",
+    "area": "442901",
+    "latitude": 19.8838425,
+    "longitude": 79.32584399999999,
+    "place_id": "ChIJkZpwYqPT0jsRbR0KRyZDSw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZpwYqPT0jsRbR0KRyZDSw8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:57:44"
+  }
+]

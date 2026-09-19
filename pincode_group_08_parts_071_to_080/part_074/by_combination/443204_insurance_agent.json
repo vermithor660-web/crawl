@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Vehicle Insurance",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "443204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "228P+7P4, Old Jalna Rd, Singne Nagar, Ambedkar Nagar, Deulgaon Raja, Maharashtra 443204",
+    "area": "Singne Nagar, Ambedkar Nagar",
+    "latitude": 20.015649099999997,
+    "longitude": 76.03681569999999,
+    "place_id": "ChIJQ0F2xx1D2jsRTnC9PxNopCI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ0F2xx1D2jsRTnC9PxNopCI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:42:25"
+  },
+  {
+    "business_name": "Shriram Finance Limited",
+    "search_category": "Insurance Agent",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution, Bank, Car finance and loan company, Finance broker, Insurance broker, Insurance company, Investment company, Investment service, Loan agency, Private Sector Bank",
+    "pincode": "443204",
+    "phone_number": "+91 1800 410 7711",
+    "website": "https://nearme.shriramfinance.in/maharashtra/buldhana/deulgaon-raja-buldhana-branch",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "No. 3-7, Rastra Sant Plaza, Chikali Road, opp. Sant Saawta Mali Complex, Bhagwan Baba Nagar, Ambedkar Nagar, Deulgaon Raja, Maharashtra 443204",
+    "area": "Bhagwan Baba Nagar, Ambedkar Nagar",
+    "latitude": 20.018517499999998,
+    "longitude": 76.0407658,
+    "place_id": "ChIJM5LReoND2jsRAhyiTvi9eRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5LReoND2jsRAhyiTvi9eRE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:42:26"
+  }
+]

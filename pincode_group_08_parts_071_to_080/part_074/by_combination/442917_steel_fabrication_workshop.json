@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "गणेश वेल्डिंग वर्क शाप",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Welder",
+    "all_categories": "Welder",
+    "pincode": "442917",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q53V+XW6, Lakhamapur, Maharashtra 442917",
+    "area": "442917",
+    "latitude": 19.754905,
+    "longitude": 79.1947718,
+    "place_id": "ChIJR0CVIQDF0jsRoBfGChgpoPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR0CVIQDF0jsRoBfGChgpoPg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:17:05"
+  },
+  {
+    "business_name": "Sai Fabrication works",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Fabrication Engineer",
+    "all_categories": "Fabrication Engineer",
+    "pincode": "442917",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "X76H+2PR, Thhakkar Colony, Babupeth, Chandrapur, Maharashtra 442402",
+    "area": "Thhakkar Colony, Babupeth",
+    "latitude": 19.960216,
+    "longitude": 79.2782383,
+    "place_id": "ChIJAQmVJdvX0jsRceEDmoh_8kQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQmVJdvX0jsRceEDmoh_8kQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:17:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAJA PROVIJAN",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "443106",
+    "phone_number": "+91 99603 82800",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": null,
+    "address": "Shop No 1 Neyar Garapanchayt Road, Dhad, Maharashtra 443106",
+    "area": "443106",
+    "latitude": 20.398753799999998,
+    "longitude": 75.9999002,
+    "place_id": "ChIJ988Z8csj2jsRxNn1bNGppEo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ988Z8csj2jsRxNn1bNGppEo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:32:02"
+  },
+  {
+    "business_name": "VAISHNAVI KITANA AND GENERAL STORE",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "443106",
+    "phone_number": "+91 87667 17436",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Shop No 1 Men Road, opp. Jio Tavar, Masrul, Maharashtra 443106",
+    "area": "443106",
+    "latitude": 20.4405018,
+    "longitude": 75.9559531,
+    "place_id": "ChIJI2rg9gkn2jsRlhMwY5lxBE4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI2rg9gkn2jsRlhMwY5lxBE4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:32:02"
+  }
+]

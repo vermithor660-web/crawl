@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VKP Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "442907",
+    "phone_number": "+91 97009 72625",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 21,
+    "address": "Maruthi Nagar, Metpally, Telangana 505325",
+    "area": "Maruthi Nagar",
+    "latitude": 18.8308856,
+    "longitude": 78.6573518,
+    "place_id": "ChIJUZXT1KkKzTsRfVjhoJ4rDh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUZXT1KkKzTsRfVjhoJ4rDh8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:10:00"
+  },
+  {
+    "business_name": "VNS Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "442907",
+    "phone_number": "+91 98664 59535",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 10,
+    "address": "Kongapadu, Addanki South U, Andhra Pradesh 523212",
+    "area": "Kongapadu",
+    "latitude": 15.7606936,
+    "longitude": 79.9989753,
+    "place_id": "ChIJqfn34DHjSjoReYqIrA_ERRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfn34DHjSjoReYqIrA_ERRc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:10:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suraj Caykal Store",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "442904",
+    "phone_number": "+91 94229 47573",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CGM7+WCC Suraj Caykal Store, Motegaon, Maharashtra 442904",
+    "area": "442904",
+    "latitude": 20.4348037,
+    "longitude": 79.51352399999999,
+    "place_id": "ChIJ73i3nUu3LDoRRh-Mc9LQ0GA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ73i3nUu3LDoRRh-Mc9LQ0GA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:04:29"
+  },
+  {
+    "business_name": "Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "442904",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8FXJ+FCQ, Piparda, Maharashtra 442903",
+    "area": "442904",
+    "latitude": 20.3487126,
+    "longitude": 79.4811241,
+    "place_id": "ChIJVSTb6RrJLDoRrdpw8wnBXU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVSTb6RrJLDoRrdpw8wnBXU0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:04:32"
+  }
+]

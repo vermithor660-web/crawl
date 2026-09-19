@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Savvy's Beauty Shopee",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty product supplier",
+    "all_categories": "Beauty product supplier",
+    "pincode": "443308",
+    "phone_number": "+91 77448 44944",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No 1, 1st Floor, Chapalgaonkar Complex, Dhundi Pura Rd, Bir, Beed, Maharashtra 431122",
+    "area": "Dhundi Pura, Bir",
+    "latitude": 18.992717199999998,
+    "longitude": 75.76063309999999,
+    "place_id": "ChIJJSgwoSArxTsR4_7Ujszfb88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJSgwoSArxTsR4_7Ujszfb88",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:52:49"
+  },
+  {
+    "business_name": "Sarojanand Cosmetics",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Beauty product supplier, Cosmetics wholesaler",
+    "pincode": "443308",
+    "phone_number": "+91 93078 68092",
+    "website": "https://www.instagram.com/sarojanandcosmetics",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near agrawal paratha house, below Kesari Tours, Chetana Nagar, Sindhi Colony, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "Chetana Nagar, Sindhi Colony",
+    "latitude": 19.869876299999998,
+    "longitude": 75.3367437,
+    "place_id": "ChIJxSQmu1WZ2zsRJxS9MGUNvZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxSQmu1WZ2zsRJxS9MGUNvZc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:52:49"
+  }
+]

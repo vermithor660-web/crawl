@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHREE BALAJI SWEETS",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Bakery and Cake Shop, Restaurant",
+    "pincode": "443302",
+    "phone_number": "+91 97659 78111",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Balaji Complex , Ambad Road Ambad, Jalna, Maharashtra 431213",
+    "area": "Mahada Colony, Kharat Nagar",
+    "latitude": 19.8259625,
+    "longitude": 75.87994479999999,
+    "place_id": "ChIJT3ErNUhX2jsRHkILITJfHfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT3ErNUhX2jsRHkILITJfHfQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:46:35"
+  },
+  {
+    "business_name": "Rajmilan Mithai",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "443302",
+    "phone_number": "+91 91305 55888",
+    "website": "http://www.rajmilanmithai.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Karwa Nagar, Jalna, Maharashtra 431203",
+    "area": "Karwa Nagar",
+    "latitude": 19.844350499999997,
+    "longitude": 75.9054779,
+    "place_id": "ChIJW18vcuRZ2jsRCgQlxPSBtfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW18vcuRZ2jsRCgQlxPSBtfc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:46:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "STAR CROCKRY AND PLASTIC HOUSE",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Store",
+    "all_categories": "Store, Home goods store",
+    "pincode": "443404",
+    "phone_number": "+91 96049 14408",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1, old, Sonar Galli, near Naphade Hospital, Qureshi Nagar, Nandura, Maharashtra 443404",
+    "area": "Qureshi Nagar",
+    "latitude": 20.8339954,
+    "longitude": 76.458636,
+    "place_id": "ChIJBVSAZFdZ1zsRTSjdUazbt50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBVSAZFdZ1zsRTSjdUazbt50",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:00:24"
+  },
+  {
+    "business_name": "The Cleaning Factory",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "443404",
+    "phone_number": "+91 82006 58200",
+    "website": "http://thecleaningfactory.in/",
+    "rating": 4.9,
+    "reviews_count": 500,
+    "address": "14, Vinayak Complex, Atithi Gruh, nr. Saraswati Complex, opp. Manjalpur, Vaishnavdevi society, Manjalpur, Vadodara, Gujarat 390011",
+    "area": "Vaishnavdevi society, Manjalpur",
+    "latitude": 22.272649899999998,
+    "longitude": 73.1905967,
+    "place_id": "ChIJDyM6v8bHXzkRjr93eQo4tzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDyM6v8bHXzkRjr93eQo4tzs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:00:24"
+  }
+]

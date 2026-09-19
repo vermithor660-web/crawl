@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KAKA PANTRY (Durga Chowk)",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "444002",
+    "phone_number": "+91 94238 20328",
+    "website": "http://kakapantry.in/",
+    "rating": 4.7,
+    "reviews_count": 28,
+    "address": "Kaka Pantry, Durga Chowk, beside Jain Lawns, Tapadia Nagar, Akola, Maharashtra 444005",
+    "area": "Tapadia Nagar",
+    "latitude": 20.714524,
+    "longitude": 77.0116985,
+    "place_id": "ChIJjayLbAAv1zsR2pJ-PifTwG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjayLbAAv1zsR2pJ-PifTwG4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:02:45"
+  },
+  {
+    "business_name": "Anuradha Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Convenience store",
+    "all_categories": "Convenience store",
+    "pincode": "444002",
+    "phone_number": "+91 90289 35718",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Old i-tax sq, Gorakshan Rd, Akola, Maharashtra 444004",
+    "area": "Aadarsh Colony",
+    "latitude": 20.6952173,
+    "longitude": 77.0129065,
+    "place_id": "ChIJT3G7B5Yv1zsRoQB_4MkhtyU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT3G7B5Yv1zsRoQB_4MkhtyU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:02:46"
+  }
+]

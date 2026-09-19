@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K.G.N MOBILE",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Mobile phone repair shop",
+    "pincode": "442917",
+    "phone_number": "+91 84840 84846",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Bazar Rd, Gadchandur, Maharashtra 442908",
+    "area": "442917",
+    "latitude": 19.735775099999998,
+    "longitude": 79.17152569999999,
+    "place_id": "ChIJPdxN0sbF0jsRTf7sHBTksnU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPdxN0sbF0jsRTf7sHBTksnU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:16:56"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "442917",
+    "phone_number": "+91 94032 27521",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "00, at, Shindola, Maharashtra 445307",
+    "area": "442917",
+    "latitude": 19.8745808,
+    "longitude": 79.0340279,
+    "place_id": "ChIJL5XWJlTd0jsRRd27cJ5-F7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL5XWJlTd0jsRRd27cJ5-F7g",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:16:56"
+  }
+]

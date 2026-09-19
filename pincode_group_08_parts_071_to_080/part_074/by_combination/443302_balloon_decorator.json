@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "La Fiesta Decor",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon store",
+    "all_categories": "Balloon store, Party store, Event planner, Party planner",
+    "pincode": "443302",
+    "phone_number": "+91 88988 11995",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No.01, Market Vimal Darshan Building, Ram Ratan Trivedi Rd, opposite Miss World, Mulund, Mulund West, Mumbai, Maharashtra 400080",
+    "area": "Mulund, Mulund West",
+    "latitude": 19.1734591,
+    "longitude": 72.9533953,
+    "place_id": "ChIJxZxs6wC55zsRYHA9ZzeSOms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZxs6wC55zsRYHA9ZzeSOms",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:47:33"
+  },
+  {
+    "business_name": "Ashrafi Balloons",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon store",
+    "all_categories": "Balloon store, Party store, Wholesaler",
+    "pincode": "443302",
+    "phone_number": "+91 96193 15458",
+    "website": "https://www.ashrafiballoon.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No. 28, Near Jain Mandir, Kherwadi Road, Bandra East, Mumbai, Maharashtra 400051",
+    "area": "Kherwadi, Bandra East",
+    "latitude": 19.0579787,
+    "longitude": 72.84209729999999,
+    "place_id": "ChIJ9zIiVxbJ5zsRXDZ93bPUAus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9zIiVxbJ5zsRXDZ93bPUAus",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:47:33"
+  }
+]

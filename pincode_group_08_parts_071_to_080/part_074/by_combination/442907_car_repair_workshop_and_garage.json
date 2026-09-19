@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "G.N. Automobile",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "442907",
+    "phone_number": "+91 70579 64519",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 2, Ghate Complex, To, Nagpur - Chandrapur Rd, Padmalaya Nagar, Chandrapur, Warora, Maharashtra 442907",
+    "area": "Padmalaya Nagar",
+    "latitude": 20.2267835,
+    "longitude": 79.01662429999999,
+    "place_id": "ChIJEQutIoUX0zsRGRQ89O3nDCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEQutIoUX0zsRGRQ89O3nDCA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:09:00"
+  },
+  {
+    "business_name": "MR CAR GARAGE & WHEEL ALIGNMENT",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "442907",
+    "phone_number": "+91 94407 68701",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Karempudi Dachepalli Rd, near golden bakery, Karempudi, Vinukonda, Andhra Pradesh 522647",
+    "area": "Karempudi",
+    "latitude": 16.067376799999998,
+    "longitude": 79.7416284,
+    "place_id": "ChIJ4eQ2q_qXSjoR00PbNGuo5z0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4eQ2q_qXSjoR00PbNGuo5z0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:09:01"
+  }
+]

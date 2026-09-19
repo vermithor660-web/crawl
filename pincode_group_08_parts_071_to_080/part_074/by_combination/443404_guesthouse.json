@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL ASHIRWAD",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "443404",
+    "phone_number": "+91 92717 97497",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Shop No 1 Main Road, By Pass, near Nandura, Nandura, Maharashtra 443404",
+    "area": "Shivaji Nagar",
+    "latitude": 20.8377996,
+    "longitude": 76.4601284,
+    "place_id": "ChIJp5mDxudf1zsRubcPbESQv2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp5mDxudf1zsRubcPbESQv2I",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:00:05"
+  },
+  {
+    "business_name": "HotelKart",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store",
+    "pincode": "443404",
+    "phone_number": "+91 94419 94999",
+    "website": "https://hotelkartindia.com/",
+    "rating": 4.9,
+    "reviews_count": 44,
+    "address": "40-6-21/6, Donepudi Dharmarao Rd, near Siddartha College, Moghalrajpuram, Siddhartha Nagar, Labbipet, Vijayawada, Andhra Pradesh 520010",
+    "area": "Moghalrajpuram, Siddhartha Nagar, Labbipet",
+    "latitude": 16.5048715,
+    "longitude": 80.647283,
+    "place_id": "ChIJM7IuL-P7NToRnDgdCh4ONWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM7IuL-P7NToRnDgdCh4ONWY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:00:06"
+  }
+]

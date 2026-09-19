@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shyam Medical Stores",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "442902",
+    "phone_number": "+91 94234 18502",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "4447+JRJ, Main Rd, Chandika Ward, Ekta Nagar, Bhadravati, Maharashtra 442902",
+    "area": "Chandika Ward, Ekta Nagar",
+    "latitude": 20.1065887,
+    "longitude": 79.11452659999999,
+    "place_id": "ChIJtWHK5Ask0zsRVOSj2xj-uxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtWHK5Ask0zsRVOSj2xj-uxA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:00:00"
+  },
+  {
+    "business_name": "MAHALAXMI MEDICAL AND GENERAL STORE, BHADRAWATI",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "442902",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near YAMATWAL BANK, Gaurala, Bhadravati, Maharashtra 442902",
+    "area": "Gaurala",
+    "latitude": 20.1003298,
+    "longitude": 79.11456749999999,
+    "place_id": "ChIJgakiASQl0zsRjWGCDiMIptI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgakiASQl0zsRjWGCDiMIptI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:00:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHRI SAIRAM TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "443112",
+    "phone_number": "+91 20 2551 2399",
+    "website": "http://shrisairambus.com/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Kartik Chamber, Kartik Chambers, 1, Modern Engineering College Rd, opposite Modern School, Revenue Colony, Pune, Maharashtra 411005",
+    "area": "Revenue Colony",
+    "latitude": 18.5253641,
+    "longitude": 73.8491444,
+    "place_id": "ChIJE9ECFXzAwjsRyL6DSZ5YA-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE9ECFXzAwjsRyL6DSZ5YA-c",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:34:32"
+  },
+  {
+    "business_name": "Mahek Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "443112",
+    "phone_number": "+91 91300 00996",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "V6H3+R44 Bitale, Chalis Bigha, Mohol, Malkapur, Maharashtra 443101",
+    "area": "Chalis Bigha",
+    "latitude": 20.8795225,
+    "longitude": 76.2028204,
+    "place_id": "ChIJp5rsNL7p2TsRGlqaRcgiQuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp5rsNL7p2TsRGlqaRcgiQuc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:34:32"
+  }
+]

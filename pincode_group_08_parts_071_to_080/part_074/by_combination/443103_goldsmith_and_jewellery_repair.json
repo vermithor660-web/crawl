@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arihant Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "443103",
+    "phone_number": "+91 94235 63240",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Police Station, Dhamangaon Badhe, Maharashtra 443104",
+    "area": "443103",
+    "latitude": 20.6733199,
+    "longitude": 76.0338422,
+    "place_id": "ChIJs6tIxWqN2TsRVXBJTRLAn04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6tIxWqN2TsRVXBJTRLAn04",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:28:44"
+  },
+  {
+    "business_name": "Anand JEWELLERS LONAR",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "443103",
+    "phone_number": "N/A",
+    "website": "http://www.anandjewellers.net/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "XGMC+V4Q, Anand Jewellers Sarafa Lane,, Lonar, Maharashtra 443302",
+    "area": "Pratap Chowk, Shivaji Nagar",
+    "latitude": 19.984722299999998,
+    "longitude": 76.5203511,
+    "place_id": "ChIJwfrDUDmD0DsRfegUVqFQtls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwfrDUDmD0DsRfegUVqFQtls",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:28:47"
+  }
+]

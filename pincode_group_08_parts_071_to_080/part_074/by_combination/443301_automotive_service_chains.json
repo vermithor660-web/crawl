@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gaffar auto Garage",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "443301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "5H38+GP5, Janephal Bace Rd, Bilal Nagar, Mehkar, Maharashtra 443301",
+    "area": "Bilal Nagar",
+    "latitude": 20.1537662,
+    "longitude": 76.5668652,
+    "place_id": "ChIJmW7ZnsqZ0DsRRVn7mXdJlOY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmW7ZnsqZ0DsRRVn7mXdJlOY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:45:23"
+  },
+  {
+    "business_name": "Diamond I Automotive Solutions",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic, Service establishment",
+    "pincode": "443301",
+    "phone_number": "N/A",
+    "website": "http://diamondiauto.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Diamond I Automotive Solutions, 443301, India",
+    "area": "443301",
+    "latitude": 32.1923284,
+    "longitude": -98.49648309999999,
+    "place_id": "ChIJ8y-SJycdz4cRH9oVV14jxUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8y-SJycdz4cRH9oVV14jxUs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:45:25"
+  }
+]

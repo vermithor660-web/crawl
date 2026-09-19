@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kids Zone",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store, Childrens Store",
+    "pincode": "444002",
+    "phone_number": "+91 94218 33120",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Takwale complex, Mahatma Gandhi Rd, New Radhakisan Plots, Akola, Maharashtra 444001",
+    "area": "New Radhakisan Plots",
+    "latitude": 20.7077948,
+    "longitude": 76.99588179999999,
+    "place_id": "ChIJS8FL4u4x1zsRvgv2e1pmkYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS8FL4u4x1zsRvgv2e1pmkYA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:02:55"
+  },
+  {
+    "business_name": "Soni Fashion Mall",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Childrens Store, Women's clothing store",
+    "pincode": "444002",
+    "phone_number": "+91 94041 00335",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 20,
+    "address": "Old Cloth Market, Maharashtra 444006",
+    "area": "Nimwadi",
+    "latitude": 20.7099024,
+    "longitude": 76.9968765,
+    "place_id": "ChIJ03Va1egx1zsRITMJ77msobM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ03Va1egx1zsRITMJ77msobM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:02:58"
+  }
+]

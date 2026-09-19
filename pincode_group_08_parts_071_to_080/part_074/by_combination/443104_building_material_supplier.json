@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivjaynti Samiti",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "443104",
+    "phone_number": "+91 97627 59181",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.1, Deulgaon, Maharashtra 424208",
+    "area": "443104",
+    "latitude": 20.6349151,
+    "longitude": 75.9886786,
+    "place_id": "ChIJVTbJOfuP2TsRqMT59LkU0H8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVTbJOfuP2TsRqMT59LkU0H8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:31:05"
+  },
+  {
+    "business_name": "SIDDHIVINAYAK KRUSHI KENDRA",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Store",
+    "pincode": "443104",
+    "phone_number": "+91 99232 94594",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Main Rd, Deulgaon, Maharashtra 425310",
+    "area": "443104",
+    "latitude": 20.631537599999998,
+    "longitude": 75.98852699999999,
+    "place_id": "ChIJBd-RFKGO2TsRpUm41xdwYAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBd-RFKGO2TsRpUm41xdwYAk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:31:05"
+  }
+]

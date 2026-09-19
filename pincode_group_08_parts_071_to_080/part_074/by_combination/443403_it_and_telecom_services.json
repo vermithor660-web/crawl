@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TARS Technologies",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "443403",
+    "phone_number": "+91 91121 17415",
+    "website": "http://tars.co.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "181, Gotmare Complex, Giripeth, W High Ct Rd, near Venus Book Depot, Dharampeth, Nagpur, Maharashtra 440010",
+    "area": "Dharampeth Extension, Dharampeth",
+    "latitude": 21.1400288,
+    "longitude": 79.0574409,
+    "place_id": "ChIJcQrz52_B1DsRJhIdkTXr0ZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQrz52_B1DsRJhIdkTXr0ZY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:58:34"
+  },
+  {
+    "business_name": "Wakana",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "443403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "2J49+J2X, Wakana, Maharashtra 443402",
+    "area": "443403",
+    "latitude": 21.0066208,
+    "longitude": 76.6175945,
+    "place_id": "ChIJM2W5AgBn1zsR_uepzzsIJ34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM2W5AgBn1zsR_uepzzsIJ34",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:58:36"
+  }
+]

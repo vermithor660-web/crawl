@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kartik General Store, Nargunda",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "442710",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "GG8H+9VR, Nargunda, Bhamragarh, Nargunda M, Maharashtra 442710",
+    "area": "Nargunda",
+    "latitude": 19.515997799999997,
+    "longitude": 80.5296427,
+    "place_id": "ChIJwxemdwDtLToRyldp23XWeCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwxemdwDtLToRyldp23XWeCA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:56:02"
+  },
+  {
+    "business_name": "Pujalwar Kirana & General Shop",
+    "search_category": "General Store",
+    "primary_category": "Convenience store",
+    "all_categories": "Convenience store",
+    "pincode": "442710",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7CV5+CFR, Manne Rajaram, Maharashtra 442710",
+    "area": "442710",
+    "latitude": 19.2936242,
+    "longitude": 80.4086256,
+    "place_id": "ChIJZQmrLAB1MjoRehKgyMvQu-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQmrLAB1MjoRehKgyMvQu-g",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:56:02"
+  }
+]

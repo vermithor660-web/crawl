@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balanand Computer",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer training school",
+    "all_categories": "Computer training school",
+    "pincode": "443303",
+    "phone_number": "+91 96893 97886",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "5PJC+WCG, SH207, Dongaon, Maharashtra 443303",
+    "area": "443303",
+    "latitude": 20.1823151,
+    "longitude": 76.7210767,
+    "place_id": "ChIJ14aIkRKW0DsRygmfJ2GJ8sk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ14aIkRKW0DsRygmfJ2GJ8sk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:49:29"
+  },
+  {
+    "business_name": "SHINDE POLYTECHNIC",
+    "search_category": "Computer Training Institute",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "443303",
+    "phone_number": "+91 90110 42409",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 44,
+    "address": "Dongaon Highway Road, Mehkar, Anjani Budruk, Maharashtra 443301",
+    "area": "443303",
+    "latitude": 20.168502,
+    "longitude": 76.6302747,
+    "place_id": "ChIJKY0COCOY0DsRg4pnhP9yfXw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKY0COCOY0DsRg4pnhP9yfXw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:49:30"
+  }
+]

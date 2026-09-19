@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nayandeep Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "444002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 6,
+    "address": "Bhandaraj BK, Akola, Maharashtra 444001",
+    "area": "Bhandaraj BK",
+    "latitude": 20.700365899999998,
+    "longitude": 77.0042094,
+    "place_id": "ChIJHS6CVugx1zsRoWtYsjn72Ew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHS6CVugx1zsRoWtYsjn72Ew",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:03:01"
+  },
+  {
+    "business_name": "KGN Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Sunglasses store",
+    "pincode": "444002",
+    "phone_number": "+91 98233 56156",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PX7W+P3C, Chowk, Lakadgunj, Malipura, Akola, Maharashtra 444006",
+    "area": "Lakadgunj, Malipura",
+    "latitude": 20.7143075,
+    "longitude": 76.995144,
+    "place_id": "ChIJzVSlx-kx1zsR1NpxKiFZ0fo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzVSlx-kx1zsR1NpxKiFZ0fo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:03:03"
+  }
+]

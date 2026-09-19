@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Smart Cleaning Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "442901",
+    "phone_number": "+91 81237 45785",
+    "website": "https://saismartcleaningservices.co.in/",
+    "rating": 4.7,
+    "reviews_count": 415,
+    "address": "near mhanagar bank, Chandan Nagar, Kharadi, Pune, Maharashtra 411014",
+    "area": "Chandan Nagar, Kharadi",
+    "latitude": 18.5633439,
+    "longitude": 73.93265579999999,
+    "place_id": "ChIJWaFlPxvBwjsRgA4JGPjNVCE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWaFlPxvBwjsRgA4JGPjNVCE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:59:11"
+  },
+  {
+    "business_name": "SRS Facility Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service, Cleaning Services, Window cleaning service",
+    "pincode": "442901",
+    "phone_number": "+91 95123 60047",
+    "website": "http://www.srsfacility.com/",
+    "rating": 4.5,
+    "reviews_count": 63,
+    "address": "2nd Floor, 16, Thaltej, Ahmedabad, Gujarat 380059",
+    "area": "Thaltej",
+    "latitude": 23.049981799999998,
+    "longitude": 72.5085855,
+    "place_id": "ChIJNXXAh8abXjkR9jaEgg9GR9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNXXAh8abXjkR9jaEgg9GR9E",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:59:12"
+  }
+]

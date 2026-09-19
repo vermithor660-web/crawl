@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arora Warehouse & Logistics",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Storage facility",
+    "all_categories": "Storage facility, Warehouse",
+    "pincode": "442918",
+    "phone_number": "+91 93438 34850",
+    "website": "https://arora-warehouse.grexa.site/",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "37,DDUTTL, A-36, near Kantirava Studios, Yeshwanthpur Industrial Area, Narasimha Layout, Yeswanthpur, Bengaluru, Karnataka 560022",
+    "area": "Yeshwanthpur Industrial Area, Narasimha Layout, Yeswanthpur",
+    "latitude": 13.020277499999999,
+    "longitude": 77.53910359999999,
+    "place_id": "ChIJtdKxJGs9rjsR1xJVYtQQzTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtdKxJGs9rjsR1xJVYtQQzTk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:19:00"
+  },
+  {
+    "business_name": "Anand Warehouse",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "442918",
+    "phone_number": "+91 93031 36500",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 105,
+    "address": "sheetal Mega City, LIG-184, Vidya Nagar, Mandideep, Bhopal, Madhya Pradesh 462046",
+    "area": "Vidya Nagar, Mandideep",
+    "latitude": 23.0957694,
+    "longitude": 77.508217,
+    "place_id": "ChIJl1gYLTRGfDkR_UKkw4QfK00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl1gYLTRGfDkR_UKkw4QfK00",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:19:00"
+  }
+]

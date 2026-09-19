@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Patel Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "443308",
+    "phone_number": "+91 92842 13342",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Sulibhanjan, Maharashtra 431101",
+    "area": "443308",
+    "latitude": 19.9992765,
+    "longitude": 75.1915906,
+    "place_id": "ChIJbeOsJTCS2zsRgy69-32ZnB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbeOsJTCS2zsRgy69-32ZnB4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:52:28"
+  },
+  {
+    "business_name": "RAJASHRI AUTOMOBILES",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "443308",
+    "phone_number": "+91 70200 00471",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "SHOP NO 01, hotel vasant plaza, Chikhali Rd, near green leaf, Ashtavinayak Nagar, Malvihir, Maharashtra 443002",
+    "area": "Ashtavinayak Nagar",
+    "latitude": 20.5083444,
+    "longitude": 76.19894769999999,
+    "place_id": "ChIJdaxnEIMd2jsRAx1D90jCQPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdaxnEIMd2jsRAx1D90jCQPk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:52:29"
+  }
+]

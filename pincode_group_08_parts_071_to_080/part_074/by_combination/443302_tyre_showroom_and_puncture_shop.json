@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NEW GOLDEN TYRE",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "443302",
+    "phone_number": "+91 90115 51881",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Shop No.1, Jalna Road, near Sagar Hotel, Lonar, Vadgaon Tejan, Maharashtra 443302",
+    "area": "443302",
+    "latitude": 20.055127199999998,
+    "longitude": 76.52036919999999,
+    "place_id": "ChIJYbqDwBWd0DsRRb6FEya7afw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYbqDwBWd0DsRRb6FEya7afw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:47:04"
+  },
+  {
+    "business_name": "Mittal Tyre House",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "443302",
+    "phone_number": "+91 84453 65957",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Bulandshahr-Kali Nadi Rd, Faislabad, Bulandshahr, Uttar Pradesh 203001",
+    "area": "Faislabad",
+    "latitude": 28.4090174,
+    "longitude": 77.8656998,
+    "place_id": "ChIJt_abXTOhDDkRpxPiJq2eFKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_abXTOhDDkRpxPiJq2eFKc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:47:06"
+  }
+]

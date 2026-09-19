@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Gajanan Wahan Bajar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "443204",
+    "phone_number": "+91 94234 47485",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 01, near by Kanchan Hotel, Kumbhari, Maharashtra 443204",
+    "area": "443204",
+    "latitude": 20.023237299999998,
+    "longitude": 76.0549818,
+    "place_id": "ChIJwSL-F9hD2jsRsT3-aHMJxtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwSL-F9hD2jsRsT3-aHMJxtk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:41:41"
+  },
+  {
+    "business_name": "SIDDH HYUNDAI",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer, Hyundai dealer",
+    "pincode": "443204",
+    "phone_number": "+91 70309 47711",
+    "website": "https://siddh.hyundaimotor.in/",
+    "rating": 4.9,
+    "reviews_count": 76,
+    "address": "CHIKHLI BYPASS, near DASHMESH HOTEL, Sajanpuri, Maharashtra 444303",
+    "area": "Sajanpuri",
+    "latitude": 20.6887992,
+    "longitude": 76.5552367,
+    "place_id": "ChIJe7xcBJVR1zsRvTBpeWJXe_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe7xcBJVR1zsRvTBpeWJXe_Y",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:41:42"
+  }
+]

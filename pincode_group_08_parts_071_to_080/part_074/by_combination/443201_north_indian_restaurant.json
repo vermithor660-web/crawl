@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishal Bhojnalaya",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Gujarati restaurant",
+    "all_categories": "Gujarati restaurant",
+    "pincode": "443201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "rautwadi bus stop, old road, Shelud, Chikhli, Maharashtra 443201",
+    "area": "Shelud",
+    "latitude": 20.3555298,
+    "longitude": 76.2616467,
+    "place_id": "ChIJgxqiOqga2jsR82p5gpZd2k0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgxqiOqga2jsR82p5gpZd2k0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:35:50"
+  },
+  {
+    "business_name": "Vaishali Veg Family Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Breakfast restaurant, Vegetarian restaurant",
+    "pincode": "443201",
+    "phone_number": "+91 72493 15777",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 1322,
+    "address": "Rest House, Near, Janefal fata, Teachers Colony, Mehkar, Maharashtra 443301",
+    "area": "Teachers Colony",
+    "latitude": 20.152383,
+    "longitude": 76.5779577,
+    "place_id": "ChIJwcLbAeSY0DsRGPbuQsZIPPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwcLbAeSY0DsRGPbuQsZIPPE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:35:50"
+  }
+]

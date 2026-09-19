@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goldee book depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store",
+    "pincode": "442704",
+    "phone_number": "+91 788 406 2600",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "A Market, Block 6, State Bank Colony, Sector 6, Bhilai, Chhattisgarh 490006",
+    "area": "Block 6, State Bank Colony, Sector 6",
+    "latitude": 21.1941861,
+    "longitude": 81.34520549999999,
+    "place_id": "ChIJwaqqqi0jKToRmAJK1hY0pTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwaqqqi0jKToRmAJK1hY0pTY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:50:06"
+  },
+  {
+    "business_name": "Rupesh Prakash Chaudhari",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "442704",
+    "phone_number": "+91 87673 39210",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Machhali, Maharashtra 442604",
+    "area": "442704",
+    "latitude": 19.8101436,
+    "longitude": 80.0019599,
+    "place_id": "ChIJJzKCgRMPLToRvN3q95UBdI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJzKCgRMPLToRvN3q95UBdI4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:50:06"
+  }
+]

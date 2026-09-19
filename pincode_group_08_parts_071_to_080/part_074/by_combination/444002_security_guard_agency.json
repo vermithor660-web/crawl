@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stonewall Security India pvt Ltd",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service, Security service",
+    "pincode": "444002",
+    "phone_number": "+91 95792 95554",
+    "website": "https://stonewall-security.grexa.site/",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "161-A, Head Office, Plot no 489/21, NH) Akot Road, behind Mata Temple, Sangavi Mohadi, Akola, Maharashtra 444006",
+    "area": "444002",
+    "latitude": 20.7794988,
+    "longitude": 76.9993622,
+    "place_id": "ChIJoUZFSlMx1zsRiRoTQsMzyVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoUZFSlMx1zsRiRoTQsMzyVA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:04:05"
+  },
+  {
+    "business_name": "Swmi",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "444002",
+    "phone_number": "+91 80555 60721",
+    "website": "https://stonewallsecurity.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gat No 489, Dahake Farm, Akot Road, Sangavi Mohadi, Maharashtra 444006",
+    "area": "444002",
+    "latitude": 20.7731142,
+    "longitude": 76.9902024,
+    "place_id": "ChIJk_ZeY54x1zsRh_ktE7pd1_I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk_ZeY54x1zsRh_ktE7pd1_I",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:04:07"
+  }
+]

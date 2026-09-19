@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shekhar Hair Salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "442707",
+    "phone_number": "+91 83909 53466",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Allapali Road, Ashti Nokewada, Alapalli Masahat, Maharashtra 442707",
+    "area": "442707",
+    "latitude": 19.680747699999998,
+    "longitude": 79.80219269999999,
+    "place_id": "ChIJ8XCZjcEULToRkYaEEPnccQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8XCZjcEULToRkYaEEPnccQg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:53:20"
+  },
+  {
+    "business_name": "Dhanu Hair Salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "442707",
+    "phone_number": "+91 96995 00418",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bus Stop, Adpalli Adpalli, Mal, Adpallimal, Maharashtra 442919",
+    "area": "Adpalli Adpalli",
+    "latitude": 19.7226514,
+    "longitude": 79.8877947,
+    "place_id": "ChIJhfISOaQTLToRwlZ7KpU-woQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhfISOaQTLToRwlZ7KpU-woQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:53:22"
+  }
+]

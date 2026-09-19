@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hindola Rooftop Lounge",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "442703",
+    "phone_number": "+91 92561 29090",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 810,
+    "address": "S.M. Complex, near Nagaon Phata, at post, Shiroli, Kolhapur, Maharashtra 416122",
+    "area": "at post",
+    "latitude": 16.744094099999998,
+    "longitude": 74.28199029999999,
+    "place_id": "ChIJ8X-UtQABwTsRCRmbrMnlZnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8X-UtQABwTsRCRmbrMnlZnw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:47:16"
+  },
+  {
+    "business_name": "The Food Town",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "442703",
+    "phone_number": "+91 84338 43351",
+    "website": "http://www.thefoodtown.in/",
+    "rating": 4.4,
+    "reviews_count": 2538,
+    "address": "Shop no 10, Laxmi Baug Estate, Phadke Rd, Dombivli, Pendse Nagar, Dombivli East, Kalyan, Maharashtra 421201",
+    "area": "Dombivli, Pendse Nagar, Dombivli East",
+    "latitude": 19.2199054,
+    "longitude": 73.091931,
+    "place_id": "ChIJQcsQ2pWV5zsR72UnY1idFZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQcsQ2pWV5zsR72UnY1idFZw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:47:16"
+  }
+]

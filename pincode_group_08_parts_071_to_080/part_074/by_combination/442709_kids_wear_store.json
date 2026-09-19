@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taj Janral Store",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "442709",
+    "phone_number": "+91 94208 32036",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Taj Building, Bus Stand, Jimmalgatta S, Maharashtra 442709",
+    "area": "442709",
+    "latitude": 19.1055656,
+    "longitude": 80.14910259999999,
+    "place_id": "ChIJBzHUTndjMjoR4T7KCGjHBOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBzHUTndjMjoR4T7KCGjHBOg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:54:30"
+  },
+  {
+    "business_name": "Kiwi kids",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Children's clothing store",
+    "all_categories": "Children's clothing store",
+    "pincode": "442709",
+    "phone_number": "+91 75328 88882",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 56,
+    "address": "Ground Floor Darbar Restaurant EE heights,Essa Aziz Compound, Swami Vivekanand Rd, Mumbai, Maharashtra 400102",
+    "area": "Khan Estate, Jogeshwari West",
+    "latitude": 19.1377624,
+    "longitude": 72.8457466,
+    "place_id": "ChIJHR9idHe35zsROso9J_n7wnA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHR9idHe35zsROso9J_n7wnA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:54:32"
+  }
+]

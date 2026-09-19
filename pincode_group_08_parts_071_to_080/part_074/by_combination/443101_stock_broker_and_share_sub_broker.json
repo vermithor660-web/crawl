@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Geojit Financial Services Ltd",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "443101",
+    "phone_number": "+91 99958 01424",
+    "website": "https://branch.geojit.com/geojit-financial-services-ltd-stock-broker-vidyagiri-bagalkot-287458/Home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "BVVS Complex, SN 7 & 8, beside PNB Bank, Vidayagiri, Bagalkot, Karnataka 587103",
+    "area": "Vidayagiri",
+    "latitude": 16.175064,
+    "longitude": 75.6550385,
+    "place_id": "ChIJHzD2xcp5xzsRwnQ6on19Zv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHzD2xcp5xzsRwnQ6on19Zv8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:26:12"
+  },
+  {
+    "business_name": "Interactive Brokers India Pvt. Ltd.",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service",
+    "pincode": "443101",
+    "phone_number": "+91 22 6128 9888",
+    "website": "http://www.interactivebrokers.co.in/?utm_source=gmb&utm_medium=yext",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Times Square, 502/A, Andheri - Kurla Rd, Gamdevi, Marol, Andheri East, Mumbai, Maharashtra 400059",
+    "area": "Gamdevi, Marol, Andheri East",
+    "latitude": 19.107897899999998,
+    "longitude": 72.8835258,
+    "place_id": "ChIJQRDh2WzI5zsRmTpSzYWbEH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRDh2WzI5zsRmTpSzYWbEH0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:26:12"
+  }
+]

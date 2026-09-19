@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Boutique fasion Design",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "442701",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "R9R8+7C8, BTS, Ballarpur, Maharashtra 442701",
+    "area": "BTS",
+    "latitude": 19.840671,
+    "longitude": 79.3660661,
+    "place_id": "ChIJWcXGjxnT0jsR_nrLeFM6fDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWcXGjxnT0jsR_nrLeFM6fDU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:43:40"
+  },
+  {
+    "business_name": "Siya Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "442701",
+    "phone_number": "+91 91588 22060",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Chanda Fort, Bridge, Netaji Chowk Rd, Babupeth, Chandrapur, Maharashtra 442403",
+    "area": "Babupeth",
+    "latitude": 19.937105199999998,
+    "longitude": 79.3125271,
+    "place_id": "ChIJ0ToYYZjV0jsR_yjJ1J4iqRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0ToYYZjV0jsR_yjJ1J4iqRc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:43:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bosch service center",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Diesel engine repair service",
+    "all_categories": "Diesel engine repair service",
+    "pincode": "444002",
+    "phone_number": "+91 91758 21120",
+    "website": "https://www.bosch.in/",
+    "rating": 4.9,
+    "reviews_count": 49,
+    "address": "Mominpura, Akola, Maharashtra 444006",
+    "area": "Mominpura",
+    "latitude": 20.7154722,
+    "longitude": 77.00016699999999,
+    "place_id": "ChIJGeMj940x1zsR1qtXF0E_Oig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGeMj940x1zsR1qtXF0E_Oig",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:03:28"
+  },
+  {
+    "business_name": "AC Installation & AC Reparing in Akola",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service",
+    "pincode": "444002",
+    "phone_number": "+91 93717 17423",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Ganganagar no 2 , washim, Akola New Bypass, Akola, Maharashtra 444007",
+    "area": "Nafees Bagh, Dahigaon Gawande",
+    "latitude": 20.6927077,
+    "longitude": 76.9803007,
+    "place_id": "ChIJhUuaSJox1zsR81QscP70eAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhUuaSJox1zsR81QscP70eAU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:03:32"
+  }
+]

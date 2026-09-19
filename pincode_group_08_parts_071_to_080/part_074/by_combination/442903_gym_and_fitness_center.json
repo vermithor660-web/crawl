@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arjuna Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "442903",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 17,
+    "address": "F9XH+C86, Chimur, Maharashtra 442903",
+    "area": "442903",
+    "latitude": 20.4985312,
+    "longitude": 79.3782811,
+    "place_id": "ChIJtyQvR_JN0zsRg7D8YChnlIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtyQvR_JN0zsRg7D8YChnlIk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:01:52"
+  },
+  {
+    "business_name": "IRON WOLF FITNESS CLUB 189",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "442903",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SAUDAGAR NAGAR, Wadala Paiku, Chimur, Maharashtra 442903",
+    "area": "Wadala Paiku",
+    "latitude": 20.5019499,
+    "longitude": 79.3774662,
+    "place_id": "ChIJS_7iETVN0zsRUrovvwJ60NU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS_7iETVN0zsRUrovvwJ60NU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:01:52"
+  }
+]

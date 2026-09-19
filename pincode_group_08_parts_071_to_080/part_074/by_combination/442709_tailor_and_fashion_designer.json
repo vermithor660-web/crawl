@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Seemas Boutique",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Boutique, Dress store",
+    "pincode": "442709",
+    "phone_number": "+91 70586 66655",
+    "website": "http://seemasboutique.in/",
+    "rating": 3.4,
+    "reviews_count": 44,
+    "address": "Cannought Garden, CIDCO Cannought, M G M, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Cannought Garden, CIDCO Cannought, M G M",
+    "latitude": 19.878617,
+    "longitude": 75.3642794,
+    "place_id": "ChIJAQAAOZOi2zsR14sznQe-OzE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAOZOi2zsR14sznQe-OzE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:54:32"
+  },
+  {
+    "business_name": "Maitreen designer studio",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "442709",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 48,
+    "address": "Aurangapura Rd, near aurangpura, signal, Aurangpura, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "signal, Aurangpura",
+    "latitude": 19.884912099999998,
+    "longitude": 75.3274102,
+    "place_id": "ChIJyz1z8RKY2zsRtxVItWHguhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyz1z8RKY2zsRtxVItWHguhE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:54:32"
+  }
+]

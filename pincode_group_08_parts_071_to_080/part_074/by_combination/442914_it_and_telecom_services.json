@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "442914",
+    "phone_number": "+91 82757 05479",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HANUMAN MANDIR, 12, BANDRA, Warora, Bandara, Maharashtra 442914",
+    "area": "BANDRA",
+    "latitude": 20.3057086,
+    "longitude": 79.0450843,
+    "place_id": "ChIJNQcviko_0zsRtMEV_zu6wZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNQcviko_0zsRtMEV_zu6wZ8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:13:22"
+  },
+  {
+    "business_name": "om sai mobile shopee",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "442914",
+    "phone_number": "+91 98909 23635",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Nagpur - Chandrapur Rd, Tembhurda, Maharashtra 442907",
+    "area": "442914",
+    "latitude": 20.3456533,
+    "longitude": 79.02077899999999,
+    "place_id": "ChIJ2yNt4Ck_0zsRrn922-GCAl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2yNt4Ck_0zsRrn922-GCAl4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:13:25"
+  }
+]

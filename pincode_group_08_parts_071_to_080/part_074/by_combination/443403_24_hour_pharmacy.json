@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MEDPULSE MEDICAL STORE 24/7",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "443403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Agrasen chowk, Shegaon Rd, Shegaon, Maharashtra 444203",
+    "area": "443403",
+    "latitude": 20.7964166,
+    "longitude": 76.69454549999999,
+    "place_id": "ChIJs6UR5SVF1zsRuqapRrYIIpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6UR5SVF1zsRuqapRrYIIpc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:57:36"
+  },
+  {
+    "business_name": "गावंडे मेडीकल",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "443403",
+    "phone_number": "+91 90965 83123",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Boripura, Khamgaon, Maharashtra 444303",
+    "area": "Boripura",
+    "latitude": 20.707987199999998,
+    "longitude": 76.56118219999999,
+    "place_id": "ChIJoaWLMthQ1zsRRbcuOxt-w_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoaWLMthQ1zsRRbcuOxt-w_Y",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:57:38"
+  }
+]

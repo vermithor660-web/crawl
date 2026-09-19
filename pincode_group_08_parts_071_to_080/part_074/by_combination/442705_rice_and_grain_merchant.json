@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Krushi Kendra",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "442705",
+    "phone_number": "+91 98239 84997",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Main Road, Aheri, Maharashtra 442705",
+    "area": "442705",
+    "latitude": 19.4139557,
+    "longitude": 80.0033859,
+    "place_id": "ChIJkV6gQIZ7LToRtOnt-HZCStg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkV6gQIZ7LToRtOnt-HZCStg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:50:44"
+  },
+  {
+    "business_name": "Ankush Kirana Store",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "442705",
+    "phone_number": "+91 73783 36272",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Devalmari Road, Aheri, Maharashtra 442705",
+    "area": "442705",
+    "latitude": 19.411714999999997,
+    "longitude": 80.00751919999999,
+    "place_id": "ChIJ_y6K25N7LToRXPIT-sK5v1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_y6K25N7LToRXPIT-sK5v1g",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:50:44"
+  }
+]

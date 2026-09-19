@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Enterprises & Batteries",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store",
+    "pincode": "443102",
+    "phone_number": "+91 92092 25825",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shantinagar, Nagothane, Maharashtra 402106",
+    "area": "Shantinagar",
+    "latitude": 18.538819999999998,
+    "longitude": 73.1368463,
+    "place_id": "ChIJzfjy6aAT6DsRIS8vWSDh8t0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzfjy6aAT6DsRIS8vWSDh8t0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:27:17"
+  },
+  {
+    "business_name": "Amaron Battery",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Battery Store",
+    "all_categories": "Battery Store",
+    "pincode": "443102",
+    "phone_number": "+91 99216 46566",
+    "website": "https://stores.amaron.in/location/maharashtra/ahmed-nagar",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Maliwada, Ahilyanagar, Maharashtra 414001",
+    "area": "Maliwada",
+    "latitude": 19.0880391,
+    "longitude": 74.7326914,
+    "place_id": "ChIJ673u46ax3DsRpfQbgJxruF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ673u46ax3DsRpfQbgJxruF0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:27:17"
+  }
+]

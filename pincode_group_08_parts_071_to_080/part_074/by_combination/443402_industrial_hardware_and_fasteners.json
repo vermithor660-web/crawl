@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Girish Agro Center",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Cement Supplier, Fertilizer Store, Paint store, Pipe supplier, Agricultural Seed Store, Water Pump Supplier",
+    "pincode": "443402",
+    "phone_number": "+91 77740 42982",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "339, Main Road, Sangrampur, Maharashtra 444202",
+    "area": "443402",
+    "latitude": 21.0324805,
+    "longitude": 76.6773436,
+    "place_id": "ChIJQR0TNM5o1zsR_FEQomGbfw8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQR0TNM5o1zsR_FEQomGbfw8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:56:58"
+  },
+  {
+    "business_name": "BHARAT HARDWARE STORES",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "443402",
+    "phone_number": "+91 94040 58162",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 41,
+    "address": "2H79+7W9, Subhash Chowk Rd, Bhawani Peth, Shahunagar, Jalgaon, Maharashtra 425001",
+    "area": "Bhawani Peth, Shahunagar",
+    "latitude": 21.013169299999998,
+    "longitude": 75.569874,
+    "place_id": "ChIJ0zuTuKYP2TsRkVqloBtksDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0zuTuKYP2TsRkVqloBtksDI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:56:59"
+  }
+]

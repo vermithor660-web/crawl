@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DETAILED",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto bodywork mechanic, Auto Dent Removal Service Station, Auto painting, Auto repair shop, Auto restoration service, Bike wash, Car detailing service, Auto body shop, Vehicle wrapping service",
+    "pincode": "443401",
+    "phone_number": "+91 84228 78727",
+    "website": "https://www.getdetailed.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Plot no - 235, Sector 1, Savoli, Sector 2, Ghansoli, Navi Mumbai, Maharashtra 400701",
+    "area": "Sector 1, Savoli, Sector 2, Ghansoli",
+    "latitude": 19.1132176,
+    "longitude": 73.0041936,
+    "place_id": "ChIJ6Tvk32vB5zsROW1u6VEq-J4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Tvk32vB5zsROW1u6VEq-J4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:54:19"
+  },
+  {
+    "business_name": "Detailing Devils Vasai | Premium Detailing Studio | Car & Bike PPF, Ceramic Coating & Detailing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto restoration service",
+    "all_categories": "Auto restoration service, Auto repair shop, Bike wash, Mechanic",
+    "pincode": "443401",
+    "phone_number": "+91 89992 00553",
+    "website": "https://www.detailingdevils.com/detailing-studios/vasai",
+    "rating": 5,
+    "reviews_count": 181,
+    "address": "Johnson Motor Compound Bldg, Sativali Rd, near Range Office Naka, Golani Naka, Vasai East, Vasai-Virar, Maharashtra 401208",
+    "area": "Golani Naka, Vasai East",
+    "latitude": 19.4052696,
+    "longitude": 72.8505198,
+    "place_id": "ChIJW4NlK7ep5zsRq5fMvuTKLps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW4NlK7ep5zsRq5fMvuTKLps",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:54:19"
+  }
+]

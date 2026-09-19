@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Roshan Flower Decor",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer",
+    "pincode": "442916",
+    "phone_number": "+91 95688 67462",
+    "website": "https://roshanflowerdecorations.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop no-01, Sector 121, Noida, Uttar Pradesh 201316",
+    "area": "Sector 121",
+    "latitude": 28.598874,
+    "longitude": 77.3987039,
+    "place_id": "ChIJU6zPCIXkzw4R3KuZevJtdJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU6zPCIXkzw4R3KuZevJtdJU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:14:50"
+  },
+  {
+    "business_name": "Delhi Flower Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "442916",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/_dfd.event_?igsh=MWNuMXJ2eTZmaWQ5bw==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "212/13, Subhash Nagar, Sector 8, Gurugram, Haryana 122001",
+    "area": "Subhash Nagar, Sector 8",
+    "latitude": 28.4636744,
+    "longitude": 77.0223621,
+    "place_id": "ChIJQycCqfwZDTkR1MhWFfuS-cg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQycCqfwZDTkR1MhWFfuS-cg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:14:52"
+  }
+]

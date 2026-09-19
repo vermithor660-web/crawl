@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Frend'Z Cafe Gondpipari",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe, Vegetarian restaurant",
+    "pincode": "442702",
+    "phone_number": "+91 82752 90143",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Chandarapur-Kothari-Gondpipri-Ashti-Aheri Rd, Gondpipari, Maharashtra 442702",
+    "area": "442702",
+    "latitude": 19.7186633,
+    "longitude": 79.68866,
+    "place_id": "ChIJhUH6kvM-LToR3hPJGcwstI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhUH6kvM-LToR3hPJGcwstI4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:45:23"
+  },
+  {
+    "business_name": "Gavran Tea",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "442702",
+    "phone_number": "+91 93599 84064",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Munjankar Building, Main Road, Dhaba, Maharashtra 442702",
+    "area": "442702",
+    "latitude": 19.6245607,
+    "longitude": 79.6377,
+    "place_id": "ChIJsToBa_1HLToRyu8hz9IHFSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsToBa_1HLToRyu8hz9IHFSU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:45:23"
+  }
+]

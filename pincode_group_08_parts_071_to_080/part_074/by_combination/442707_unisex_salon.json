@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blond Mens Parlour",
+    "search_category": "Unisex Salon",
+    "primary_category": "Store",
+    "all_categories": "Store, Barber shop",
+    "pincode": "442707",
+    "phone_number": "+91 72189 88197",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Tahsil office Area, Samudrapur, Maharashtra 442305",
+    "area": "442707",
+    "latitude": 20.6392095,
+    "longitude": 78.9675834,
+    "place_id": "ChIJOZDojdNm0zsR7q4FbvEUfDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZDojdNm0zsR7q4FbvEUfDA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:53:25"
+  },
+  {
+    "business_name": "Pallavi beauty parlour",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "442707",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WVRR+5GV, Chamorshi, Maharashtra 442603",
+    "area": "442707",
+    "latitude": 19.9404944,
+    "longitude": 79.8912813,
+    "place_id": "ChIJsxX5QAAbLToRXWAR8-ufgek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxX5QAAbLToRXWAR8-ufgek",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:53:25"
+  }
+]

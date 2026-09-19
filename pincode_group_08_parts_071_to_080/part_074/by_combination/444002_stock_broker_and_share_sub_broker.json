@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Wealth",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Insurance broker",
+    "all_categories": "Insurance broker, Finance broker, Health insurance agency",
+    "pincode": "444002",
+    "phone_number": "+91 91121 59779",
+    "website": "http://www.shreewealth.net/",
+    "rating": 4.8,
+    "reviews_count": 49,
+    "address": "behind Sarda Petrol Pump, Akole, Maharashtra 422601",
+    "area": "444002",
+    "latitude": 19.5396073,
+    "longitude": 74.0082061,
+    "place_id": "ChIJW2UTBbYJ3TsRLKRnny1VdsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW2UTBbYJ3TsRLKRnny1VdsY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:04:06"
+  },
+  {
+    "business_name": "Kotak Neo",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "444002",
+    "phone_number": "+91 72424 01475",
+    "website": "https://www.kotakneo.com/?utm_source=GMB&utm_medium=organic",
+    "rating": 4.2,
+    "reviews_count": 20,
+    "address": "Ground Floor, Yamuna Tarang Complex, N H No 6, Kirti Nagar, Akola, Maharashtra 444004",
+    "area": "Kirti Nagar",
+    "latitude": 20.6989272,
+    "longitude": 77.01522279999999,
+    "place_id": "ChIJAQAAAPMt1zsR59whYyqYLO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAPMt1zsR59whYyqYLO4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:04:06"
+  }
+]

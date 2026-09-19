@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Global medical",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical diagnostic imaging center",
+    "all_categories": "Medical diagnostic imaging center",
+    "pincode": "443103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "J4RQ+R4M, Rohinkhed, Maharashtra 443103",
+    "area": "443103",
+    "latitude": 20.6420919,
+    "longitude": 76.1377935,
+    "place_id": "ChIJ6203ZOXz2TsR0qVb5DS4jKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6203ZOXz2TsR0qVb5DS4jKg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:28:56"
+  },
+  {
+    "business_name": "MAHESH CLINICAL LAB",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "443103",
+    "phone_number": "+91 93737 24304",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Motala, Malkapur Rd, near Mahajan Hospital, Maharashtra 443103",
+    "area": "Phata",
+    "latitude": 20.6743876,
+    "longitude": 76.2043331,
+    "place_id": "ChIJ2wKFHt3x2TsRipiDIT7VYH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2wKFHt3x2TsRipiDIT7VYH8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:28:56"
+  }
+]

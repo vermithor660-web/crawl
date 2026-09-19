@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hyderabadi biryani house",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "442702",
+    "phone_number": "+91 84597 18793",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "ward 3, Tadoba Rd, near St marry school, opposite Balaji near hyderabadi biryani house, Durgapur, Maharashtra 442404",
+    "area": "Durgapur",
+    "latitude": 20.009491399999998,
+    "longitude": 79.29994239999999,
+    "place_id": "ChIJv6Zfy68r0zsRIZtko4sEubY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv6Zfy68r0zsRIZtko4sEubY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:45:21"
+  },
+  {
+    "business_name": "Saddam Biriyani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "442702",
+    "phone_number": "+91 93098 98223",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "P5J9+R6M, Gadchandur, Maharashtra 442908",
+    "area": "442702",
+    "latitude": 19.732084099999998,
+    "longitude": 79.168039,
+    "place_id": "ChIJvz6CxsXF0jsR4hRbBaMKI-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvz6CxsXF0jsR4hRbBaMKI-I",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:45:23"
+  }
+]

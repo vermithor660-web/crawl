@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nantional Poultry",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "444002",
+    "phone_number": "+91 93725 22223",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1 Patur, Rod, Akola, Maharashtra 444007",
+    "area": "Nafees Bagh, Dahigaon Gawande",
+    "latitude": 20.6897651,
+    "longitude": 76.985768,
+    "place_id": "ChIJQcQtqngz1zsRqUZ-fBv5JmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQcQtqngz1zsRqUZ-fBv5JmM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:02:42"
+  },
+  {
+    "business_name": "MAHAJAN POULTRY HOUSE SIRSO",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "444002",
+    "phone_number": "+91 98813 92394",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "AT POST, HIRPUR ROAD, near SIRSO, Sirso, Maharashtra 444107",
+    "area": "444002",
+    "latitude": 20.7674502,
+    "longitude": 77.37758989999999,
+    "place_id": "ChIJmT7in2XP1jsRheA2rlCscAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmT7in2XP1jsRheA2rlCscAQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:02:42"
+  }
+]

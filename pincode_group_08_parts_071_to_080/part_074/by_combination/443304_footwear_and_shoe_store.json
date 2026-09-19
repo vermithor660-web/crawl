@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VANSH BOOT HOUSE",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "443304",
+    "phone_number": "+91 97673 29255",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "shop no 2, main road, near bus stop, khamgaon, Shirla Nemane, Maharashtra 444303",
+    "area": "443304",
+    "latitude": 20.482418799999998,
+    "longitude": 76.6852567,
+    "place_id": "ChIJZR8jcdez0DsRFmK4BMhI7Ko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZR8jcdez0DsRFmK4BMhI7Ko",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:50:25"
+  },
+  {
+    "business_name": "VIKASH BOOT HOUSE",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "443304",
+    "phone_number": "+91 96049 18854",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1 Main Road, near Bus Stand, Sakharkherda, Maharashtra 443202",
+    "area": "Fathkhelda",
+    "latitude": 20.204962,
+    "longitude": 76.3972036,
+    "place_id": "ChIJ3YsrnRQL2jsRhZHKxA06lEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3YsrnRQL2jsRhZHKxA06lEE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:50:26"
+  }
+]

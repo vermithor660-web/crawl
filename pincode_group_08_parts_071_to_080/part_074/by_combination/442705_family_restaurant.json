@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dada dhaba",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "442705",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "HV3R+F89, Lagamchak, Gitali, Maharashtra 442707",
+    "area": "442705",
+    "latitude": 19.5536632,
+    "longitude": 79.8908635,
+    "place_id": "ChIJ4Z-nz0hvLToRIOwFp5kTkPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Z-nz0hvLToRIOwFp5kTkPw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:50:52"
+  },
+  {
+    "business_name": "Mr. A FAMILY RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "442705",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 12,
+    "address": "5FFM+74, Chicholi, Maharashtra 441104",
+    "area": "442705",
+    "latitude": 21.1731986,
+    "longitude": 79.4827909,
+    "place_id": "ChIJKyTTRyc3KzoRfEPgxqKzHx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKyTTRyc3KzoRfEPgxqKzHx8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:50:55"
+  }
+]

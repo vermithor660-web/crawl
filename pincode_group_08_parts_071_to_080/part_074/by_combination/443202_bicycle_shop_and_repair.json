@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KGN Auto Garage",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store",
+    "pincode": "443202",
+    "phone_number": "+91 93251 58195",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Front Of Kamalja Petrol pamp, Loni Rd, Sahkar Nagar, Lonar, Maharashtra 443302",
+    "area": "Sahkar Nagar",
+    "latitude": 19.9819918,
+    "longitude": 76.5240881,
+    "place_id": "ChIJe6YoTFyD0DsRVX0wUUjOx1I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe6YoTFyD0DsRVX0wUUjOx1I",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:38:09"
+  },
+  {
+    "business_name": "श्री नेमिनाथ सायकल स्टोअर्स",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "443202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VFHG+4MP, Talni, Maharashtra 431504",
+    "area": "443202",
+    "latitude": 19.878372,
+    "longitude": 76.47654349999999,
+    "place_id": "ChIJ9aSWnVyB0DsREA8f6DZV1ZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9aSWnVyB0DsREA8f6DZV1ZM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:38:13"
+  }
+]

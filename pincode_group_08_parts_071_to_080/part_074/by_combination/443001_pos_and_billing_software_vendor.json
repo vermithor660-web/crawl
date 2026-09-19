@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Restroworks Tech",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "443001",
+    "phone_number": "+91 80101 33399",
+    "website": "http://www.restroworks.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "63/12, 2nd Floor, Rama Rd, Block B, Industrial Area, New Delhi, Delhi, 110015",
+    "area": "Block B, Industrial Area",
+    "latitude": 28.6576269,
+    "longitude": 77.1501389,
+    "place_id": "ChIJsZVupOQDDTkRCfW9GWpitLc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsZVupOQDDTkRCfW9GWpitLc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:22:23"
+  },
+  {
+    "business_name": "InfoGanga Solutions",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "443001",
+    "phone_number": "+91 88823 92727",
+    "website": "https://www.infogangasolutions.com/",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "H-113, Bareilly - Nainital Rd, near Old Dhanmil, Mayur Vihar, Haldwani, Haldwani Talli, Uttarakhand 263139",
+    "area": "Mayur Vihar",
+    "latitude": 29.1936587,
+    "longitude": 79.5201739,
+    "place_id": "ChIJ_zdOCICboDkRsfWQExu4NOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_zdOCICboDkRsfWQExu4NOI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:22:25"
+  }
+]

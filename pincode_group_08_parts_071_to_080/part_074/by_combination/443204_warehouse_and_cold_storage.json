@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Frost Logix",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "443204",
+    "phone_number": "+91 88509 90432",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 38,
+    "address": "D393, MIDC Industrial Area, Sanpada, Navi Mumbai, Maharashtra 400705",
+    "area": "MIDC Industrial Area, Sanpada",
+    "latitude": 19.0543279,
+    "longitude": 73.0293788,
+    "place_id": "ChIJJXFHUH3B5zsRT9WSVIHaYAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJXFHUH3B5zsRT9WSVIHaYAo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:42:38"
+  },
+  {
+    "business_name": "Avhale general stores &cold drink centre",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "443204",
+    "phone_number": "+91 95950 70742",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Avhale General stores & cold drink centre, near by Amna nadi Vasundhara, near by Amna nadi, amrtulya, Deulgaon Raja, Maharashtra 443204",
+    "area": "amrtulya",
+    "latitude": 20.0101185,
+    "longitude": 76.0357265,
+    "place_id": "ChIJH9n1WoND2jsRc5qDUqrBcs8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH9n1WoND2jsRc5qDUqrBcs8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:42:39"
+  }
+]

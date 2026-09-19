@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Denmat Distributors",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental supply store",
+    "all_categories": "Dental supply store",
+    "pincode": "443103",
+    "phone_number": "+91 253 250 2202",
+    "website": "https://www.denmatdistributors.co.in/",
+    "rating": 4.9,
+    "reviews_count": 50,
+    "address": "Kharbanda Park, 208 2nd Floor, Nashik - Pune Hwy, opp. Hotel Dwarka, Kharbanda Park, Near Dwarka, Dwarka, Nashik, Maharashtra 422001",
+    "area": "Kharbanda Park, Near Dwarka, Dwarka",
+    "latitude": 19.992736999999998,
+    "longitude": 73.797418,
+    "place_id": "ChIJ2VFWBP3q3TsRi2IjQ3w3A-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2VFWBP3q3TsRi2IjQ3w3A-g",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:28:56"
+  },
+  {
+    "business_name": "Avishkar Hospital and Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dentist",
+    "all_categories": "Dentist, Doctor, Oral surgeon",
+    "pincode": "443103",
+    "phone_number": "+91 82750 28016",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "G5MG+PQ7, Sangam Chowk, beside Hotel Gopal, Buldhana, Maharashtra 443001",
+    "area": "Suvarna Nagaar",
+    "latitude": 20.534278999999998,
+    "longitude": 76.17692799999999,
+    "place_id": "ChIJw_d_HwAe2jsRvReuAmdbb1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw_d_HwAe2jsRvReuAmdbb1c",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:28:57"
+  }
+]

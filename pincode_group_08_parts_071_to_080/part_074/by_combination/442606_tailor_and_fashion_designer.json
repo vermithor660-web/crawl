@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion Fit",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "442606",
+    "phone_number": "+91 84590 25395",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Kumbhare Nagar, Nana chouk, Nangpura Murri, Maharashtra 441614",
+    "area": "Kumbhare Nagar, Nana chouk",
+    "latitude": 21.4589413,
+    "longitude": 80.17481699999999,
+    "place_id": "ChIJ9_9azHCpKzoRunhjH6KIpII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9_9azHCpKzoRunhjH6KIpII",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:41:47"
+  },
+  {
+    "business_name": "Soni mandal home boutique",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "442606",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XCVP+765, Mungner, Jarawandi, Maharashtra 442604",
+    "area": "Mungner",
+    "latitude": 19.9941519,
+    "longitude": 80.43535299999999,
+    "place_id": "ChIJMckYVAC1LToRYgTIplzYYjc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMckYVAC1LToRYgTIplzYYjc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:41:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Limra Health Club and Fitness Centre",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "443303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5H4G+P2C, Janephal - Khamgaon Rd, Rahemat Nagar, Mehkar, Maharashtra 443301",
+    "area": "Rahemat Nagar",
+    "latitude": 20.1568133,
+    "longitude": 76.5750296,
+    "place_id": "ChIJ17i4L_aZ0DsRrXlSR5g8l6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ17i4L_aZ0DsRrXlSR5g8l6Q",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:48:51"
+  },
+  {
+    "business_name": "Ekta Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "443303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "XGQC+H32, Nai Nagri, Lonar, Maharashtra 443302",
+    "area": "Nai Nagri",
+    "latitude": 19.9888971,
+    "longitude": 76.5201546,
+    "place_id": "ChIJFfPmMNqD0DsR76aaRNYXLGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFfPmMNqD0DsR76aaRNYXLGc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:48:54"
+  }
+]

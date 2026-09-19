@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GANESH Daily needs",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "442914",
+    "phone_number": "+91 93735 76739",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Asala, Maharashtra 442914",
+    "area": "442914",
+    "latitude": 20.3419655,
+    "longitude": 79.05982829999999,
+    "place_id": "ChIJW3j5FQA_0zsRVXYGBzP0PuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW3j5FQA_0zsRVXYGBzP0PuQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:12:06"
+  },
+  {
+    "business_name": "साहिल किराणा ॲन्ड जनरल स्टोअर्स",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "442914",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C37H+892, Sumthana, Maharashtra 442907",
+    "area": "442914",
+    "latitude": 20.4132721,
+    "longitude": 79.0783896,
+    "place_id": "ChIJkTLeEABB0zsR5L56lNzwIUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTLeEABB0zsR5L56lNzwIUE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:12:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mansi South Indian Cafe",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "442707",
+    "phone_number": "+91 79727 40623",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sno 2, Raod, Gondpipari, Ballarpur, Maharashtra 442702",
+    "area": "442707",
+    "latitude": 19.713343899999998,
+    "longitude": 79.6829501,
+    "place_id": "ChIJBagKCKw_LToR3DxsaBp-y5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBagKCKw_LToR3DxsaBp-y5M",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:52:38"
+  },
+  {
+    "business_name": "G-Cafe Family Restaurant Lagam",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant, Cafe",
+    "pincode": "442707",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "GWR4+Q7V, Lagam, Maharashtra 442707",
+    "area": "442707",
+    "latitude": 19.5419929,
+    "longitude": 79.905664,
+    "place_id": "ChIJVVVVVTpuLToRsR-zAvivSzg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVTpuLToRsR-zAvivSzg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:52:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FoodMitra",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "442705",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Reddy godown square, Gadchiroli, Maharashtra 442605",
+    "area": "Saiprem Nagar",
+    "latitude": 20.1779314,
+    "longitude": 80.0101059,
+    "place_id": "ChIJp2ncko77LDoRTVs-LQcyoF8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp2ncko77LDoRTVs-LQcyoF8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:50:51"
+  },
+  {
+    "business_name": "Kishor Bhau Aloo Bhaje",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "442705",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "52P6+59, Ramnagar, Gadchiroli, Maharashtra 442605",
+    "area": "Ramnagar",
+    "latitude": 20.18538,
+    "longitude": 80.0110017,
+    "place_id": "ChIJmckrJ335LDoRCAJEdhmIk_U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmckrJ335LDoRCAJEdhmIk_U",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:50:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aasaramji Gattani Bhavan Janephal",
+    "search_category": "Banquet Hall",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "443304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "7HXG+23M, Mitkari Galli, Janephal, Maharashtra 443304",
+    "area": "443304",
+    "latitude": 20.2975759,
+    "longitude": 76.57517899999999,
+    "place_id": "ChIJHXqxeHKk0DsRoeJYAlvMNcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHXqxeHKk0DsRoeJYAlvMNcM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:51:05"
+  },
+  {
+    "business_name": "Chinchpur (Undri)",
+    "search_category": "Banquet Hall",
+    "primary_category": "Village hall",
+    "all_categories": "Village hall",
+    "pincode": "443304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 26,
+    "address": "FG8P+48M, Chinchpur, Maharashtra 444301",
+    "area": "443304",
+    "latitude": 20.4651252,
+    "longitude": 76.53534239999999,
+    "place_id": "ChIJC1lXnAap0DsRhT7-iMR8uqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC1lXnAap0DsRhT7-iMR8uqM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:51:07"
+  }
+]

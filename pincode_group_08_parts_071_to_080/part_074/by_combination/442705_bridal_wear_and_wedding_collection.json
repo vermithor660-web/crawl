@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meher's Boutique",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Fashion designer, Stitching Class",
+    "pincode": "442705",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Abadi plot, Plot no. 320, near Dr. Bodhe dawakhana, Chimur, Maharashtra 442903",
+    "area": "442705",
+    "latitude": 20.495521999999998,
+    "longitude": 79.3757859,
+    "place_id": "ChIJnz4km-tN0zsRFjEXqRiY08k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnz4km-tN0zsRFjEXqRiY08k",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:51:00"
+  },
+  {
+    "business_name": "Perfect Ladies Collection",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "442705",
+    "phone_number": "+91 97638 90136",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Perfect Ladies Collection, Road, Mulchera, Ashti Nokewada, Maharashtra 442707",
+    "area": "442705",
+    "latitude": 19.6804181,
+    "longitude": 79.8023285,
+    "place_id": "ChIJFRxIAjEVLToRGB_vWyApzRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFRxIAjEVLToRGB_vWyApzRM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:51:01"
+  }
+]

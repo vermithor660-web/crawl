@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAYA HOSPITAL GADCHANDUR",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Diagnostic center, Hospital, Emergency care physician, Emergency care service, General practitioner, Health consultant, Medical Center, Pathologist, Private hospital",
+    "pincode": "442908",
+    "phone_number": "+91 82372 04232",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Bazar Rd, behind busstop, Gadchandur, Maharashtra 442908",
+    "area": "442908",
+    "latitude": 19.7365019,
+    "longitude": 79.1717888,
+    "place_id": "ChIJJRCv-GbF0jsRikCQcYW5Yx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJRCv-GbF0jsRikCQcYW5Yx0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:10:39"
+  },
+  {
+    "business_name": "Dr Girdhar Kale",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "442908",
+    "phone_number": "+91 98239 13542",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Maharashtra, Bibi, Maharashtra 442917",
+    "area": "442908",
+    "latitude": 19.7635669,
+    "longitude": 79.14064599999999,
+    "place_id": "ChIJVVVVBffE0jsRT5ElmPkBqNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVBffE0jsRT5ElmPkBqNM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:10:41"
+  }
+]

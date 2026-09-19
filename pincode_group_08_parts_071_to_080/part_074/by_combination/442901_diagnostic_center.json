@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rural hospital ballharshah",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "442901",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ravindra Nagar Vard, Ballarpur, Maharashtra 442701",
+    "area": "Ravindra Nagar Vard",
+    "latitude": 19.8533586,
+    "longitude": 79.3489093,
+    "place_id": "ChIJHd_jru_S0jsR6MvQiuHd3gg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHd_jru_S0jsR6MvQiuHd3gg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:58:14"
+  },
+  {
+    "business_name": "Khandelwal Medico and Opticals services",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center, Optician",
+    "pincode": "442901",
+    "phone_number": "+91 7172 240 450",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Opposite ICICI Bank, Main Road, Ballarpur, Maharashtra 442701",
+    "area": "Ravindra Nagar Vard",
+    "latitude": 19.851516,
+    "longitude": 79.350111,
+    "place_id": "ChIJJ0Eck-7S0jsRsPz4ATmG9QY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ0Eck-7S0jsRsPz4ATmG9QY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:58:16"
+  }
+]

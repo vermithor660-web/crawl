@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Sukhdev Wine Bar & Family Garden Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "443002",
+    "phone_number": "+91 80800 63823",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 49,
+    "address": "Chikhali Rd, Antriteli, Maharashtra 443002",
+    "area": "443002",
+    "latitude": 20.4702344,
+    "longitude": 76.2146933,
+    "place_id": "ChIJ4Ub_SwQd2jsRo6L1atbVUt0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Ub_SwQd2jsRo6L1atbVUt0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:23:09"
+  },
+  {
+    "business_name": "Bansilal Hiwale",
+    "search_category": "Family Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Livestock dealer",
+    "pincode": "443002",
+    "phone_number": "+91 98229 27897",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bansilal Hiwale, Chikhali Rd, Kelwad, Buldhana, Maharashtra 443002",
+    "area": "443002",
+    "latitude": 20.4365545,
+    "longitude": 76.2225912,
+    "place_id": "ChIJja7PUu312TsRYjv2IFHZLKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJja7PUu312TsRYjv2IFHZLKY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:23:11"
+  }
+]

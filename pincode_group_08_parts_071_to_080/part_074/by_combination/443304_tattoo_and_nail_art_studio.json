@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Perfect Tattoo",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop",
+    "pincode": "443304",
+    "phone_number": "+91 75082 12290",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Guru Ram Das Nagar, Himatpura, Amritsar Cantt., Amritsar, Punjab 143001",
+    "area": "Guru Ram Das Nagar, Himatpura",
+    "latitude": 31.6092883,
+    "longitude": 74.8745027,
+    "place_id": "ChIJASybhKB8GTkRCOcuUHopKIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJASybhKB8GTkRCOcuUHopKIk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:51:03"
+  },
+  {
+    "business_name": "Inksane Tattoo Studio and body piercing",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo and piercing shop",
+    "all_categories": "Tattoo and piercing shop",
+    "pincode": "443304",
+    "phone_number": "+91 98677 55411",
+    "website": "https://tattoo-inksane.emergent.host/",
+    "rating": 4.9,
+    "reviews_count": 368,
+    "address": "Bal Bharati Public School, Shop no.37,Bhoomi Tower, Simran Residency Service Road, Sector 4, Kharghar, Panvel, Maharashtra 410210",
+    "area": "Sector 4, Kharghar",
+    "latitude": 19.0338058,
+    "longitude": 73.06372449999999,
+    "place_id": "ChIJgXba-T_C5zsRJHwbAG2sLIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgXba-T_C5zsRJHwbAG2sLIU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:51:05"
+  }
+]

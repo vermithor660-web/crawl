@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ACE Consultancy",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Check cashing service, Financial consultant, Mortgage lender",
+    "pincode": "442705",
+    "phone_number": "+91 22 2685 4242",
+    "website": "https://www.aceconsultancy.co.in/",
+    "rating": 4.9,
+    "reviews_count": 52,
+    "address": "Office No. 312, Corporate Annexe, Sonawala Rd, Sonawala Industry Estate, Goregaon East, Mumbai, Maharashtra 400063",
+    "area": "Sonawala Industry Estate, Goregaon East",
+    "latitude": 19.161601299999997,
+    "longitude": 72.85068079999999,
+    "place_id": "ChIJ1_1gqlK25zsRPxv1rbC7UhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_1gqlK25zsRPxv1rbC7UhA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:52:03"
+  },
+  {
+    "business_name": "Quick finance services (DSA)",
+    "search_category": "Home Loan DSA and Loan Consultant",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency",
+    "pincode": "442705",
+    "phone_number": "+91 91757 59136",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PLot no 6 Baidyanth chowk, Great Nag Rd, Nagpur, Maharashtra 440003",
+    "area": "Ganeshpeth Colony",
+    "latitude": 21.1361067,
+    "longitude": 79.095792,
+    "place_id": "ChIJDYtGTN7B1DsRStDzOjSCI3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDYtGTN7B1DsRStDzOjSCI3E",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:52:05"
+  }
+]

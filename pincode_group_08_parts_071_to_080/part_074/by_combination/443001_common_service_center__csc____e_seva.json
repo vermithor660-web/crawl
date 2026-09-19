@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AAI MULTISERVICES",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "443001",
+    "phone_number": "+91 75176 86956",
+    "website": "https://aaimultiservices.in/",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "Bus Stop, Khamgaon Rd, near Sundarkhed, Ashtavinayak Nagar, Sundar khed, Buldhana, Maharashtra 443001",
+    "area": "Ashtavinayak Nagar",
+    "latitude": 20.518583,
+    "longitude": 76.1991816,
+    "place_id": "ChIJbyOZz3Qd2jsRpBQs9SUKQ_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbyOZz3Qd2jsRpBQs9SUKQ_M",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:22:21"
+  },
+  {
+    "business_name": "ATHARVI DIGITAL CENTER CSC",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Passport office",
+    "all_categories": "Passport office",
+    "pincode": "443001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "7, building, Jaldhara Shop, 10, Shanti Gardens Rd, sector 4, Mira Road East, Mira Bhayandar, Maharashtra 401107",
+    "area": "sector 4, Mira Road East",
+    "latitude": 19.2735895,
+    "longitude": 72.8746197,
+    "place_id": "ChIJCYxkEF6x5zsR07f8zGQHlIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCYxkEF6x5zsR07f8zGQHlIE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:22:21"
+  }
+]

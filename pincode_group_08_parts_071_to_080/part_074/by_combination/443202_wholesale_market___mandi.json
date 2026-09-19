@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vegetable Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Produce market",
+    "all_categories": "Produce market",
+    "pincode": "443202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "G5QM+8J5, MH MSH 24, Ward No 8, Chaitanyawadi, Buldhana, Maharashtra 443001",
+    "area": "Ward No 8, Chaitanyawadi",
+    "latitude": 20.5382723,
+    "longitude": 76.1840969,
+    "place_id": "ChIJ5xISfgH22TsRNwJ_ORdwnU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5xISfgH22TsRNwJ_ORdwnU8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:39:16"
+  },
+  {
+    "business_name": "Bhaji Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "443202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G5QP+G23, Ward No 8, Iqbal Chowk Buldana, Buldhana, Maharashtra 443001",
+    "area": "Ward No 8, Iqbal Chowk Buldana",
+    "latitude": 20.5387588,
+    "longitude": 76.18505499999999,
+    "place_id": "ChIJs-0Klbf32TsRjqL1jdgDRhg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs-0Klbf32TsRjqL1jdgDRhg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:39:16"
+  }
+]

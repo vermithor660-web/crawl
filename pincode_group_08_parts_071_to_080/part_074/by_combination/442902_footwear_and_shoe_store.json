@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raju Boot House",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "442902",
+    "phone_number": "+91 84462 13487",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.2, Jain Mandir Rd, Rode, Ghandhi Chowk, Bhadravati, Maharashtra 442902",
+    "area": "Rode, Ghandhi Chowk",
+    "latitude": 20.1032518,
+    "longitude": 79.1119068,
+    "place_id": "ChIJv76Ny7El0zsRu6g64eggbvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv76Ny7El0zsRu6g64eggbvU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:59:50"
+  },
+  {
+    "business_name": "A.K. Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "442902",
+    "phone_number": "+91 94228 38103",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X7GX+5Q8, Tadoba Road, Tukum, Chandrapur, Maharashtra 442401",
+    "area": "Nirman Nagar",
+    "latitude": 19.9754234,
+    "longitude": 79.2994495,
+    "place_id": "ChIJaQHtb9vV0jsRYnWdv023rPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQHtb9vV0jsRYnWdv023rPY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:59:50"
+  }
+]

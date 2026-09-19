@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BARKAT MILK",
+    "search_category": "Shops",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "443206",
+    "phone_number": "+91 84468 41151",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Shop No 1, Madina Masjid, Main Road, near Bus Stop, Deulgaon Mahi, Maharashtra 443206",
+    "area": "443206",
+    "latitude": 20.086822299999998,
+    "longitude": 76.1785153,
+    "place_id": "ChIJn2RzY-Nt2jsRE_zawYiKLks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn2RzY-Nt2jsRE_zawYiKLks",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:44:37"
+  },
+  {
+    "business_name": "GIRI SERVICES",
+    "search_category": "Shops",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "443206",
+    "phone_number": "+91 75170 82691",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1 Main Road, Near, Digras Chowk, Deulgaon Mahi, Maharashtra 443206",
+    "area": "443206",
+    "latitude": 20.0883505,
+    "longitude": 76.18131249999999,
+    "place_id": "ChIJrVquJPJt2jsRrEfV4mR-Dmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrVquJPJt2jsRrEfV4mR-Dmk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:44:39"
+  }
+]

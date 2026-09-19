@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TARGE PET'S",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "443303",
+    "phone_number": "+91 85304 06078",
+    "website": "https://www.instagram.com/targe_pets_?igsh=bjYxd2c3dnE5azQ4",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "T Point, Plot No.10, Jalgaon Rd, opposite S.B.O SCHOOL, near by Shri Ganesh motor driving school, Mhasoba Nagar, Harsul, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Mhasoba Nagar, Harsul",
+    "latitude": 19.9111317,
+    "longitude": 75.35329089999999,
+    "place_id": "ChIJHYB-3q692zsR6o4QKJ_AWyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHYB-3q692zsR6o4QKJ_AWyA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:48:25"
+  },
+  {
+    "business_name": "PET LOVER PET SHOP",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "443303",
+    "phone_number": "+91 97674 34732",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 14,
+    "address": "OLD, Anturli Rd, Gadge Baba Nagar, Pachora, Maharashtra 424201",
+    "area": "Gadge Baba Nagar",
+    "latitude": 20.6572385,
+    "longitude": 75.33972039999999,
+    "place_id": "ChIJmcRfnH5D2TsRC26ZNq803RQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmcRfnH5D2TsRC26ZNq803RQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:48:25"
+  }
+]

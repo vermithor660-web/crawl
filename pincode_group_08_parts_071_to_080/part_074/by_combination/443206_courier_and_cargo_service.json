@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DTDC Courier & Cargo Ltd",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "443206",
+    "phone_number": "+91 81495 02456",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Choudhary Complex, C-292, MIDC Rd, near Pagariya Bajaj, Waluj, Waladgaon, Maharashtra 431136",
+    "area": "Waluj",
+    "latitude": 19.8383616,
+    "longitude": 75.2500585,
+    "place_id": "ChIJ3Qd892KZ2zsR4ru3NTkxzEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Qd892KZ2zsR4ru3NTkxzEw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:44:18"
+  },
+  {
+    "business_name": "DTDC Express Limited",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Service establishment",
+    "pincode": "443206",
+    "phone_number": "+91 88053 77117",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "DTDC Express Limited, 443206, India",
+    "area": "443206",
+    "latitude": 19.4515977,
+    "longitude": 76.4459926,
+    "place_id": "ChIJuUmXWtCf2jsRVd2VTIQNTV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuUmXWtCf2jsRVd2VTIQNTV8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:44:18"
+  }
+]

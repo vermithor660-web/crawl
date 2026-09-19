@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RG Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Diamond Merchant, Gold dealer, Jeweler, Jewelry designer, Jewelry repair service",
+    "pincode": "443102",
+    "phone_number": "+91 94222 76908",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "53, Bank St, Navi Peth, Jaikisan Wadi, Jalgaon, Maharashtra 425001",
+    "area": "Navi Peth, Jaikisan Wadi",
+    "latitude": 21.0134527,
+    "longitude": 75.5660955,
+    "place_id": "ChIJserH7C4P2TsRRd9E9-KHs8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJserH7C4P2TsRRd9E9-KHs8w",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:26:57"
+  },
+  {
+    "business_name": "RL Jewels – Since 1854 | Rajmal Lakhichand",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Diamond Merchant, Goldsmith, Jewelry designer, Jewelry repair service, Gemstone Jeweler, Silversmith",
+    "pincode": "443102",
+    "phone_number": "+91 257 222 6682",
+    "website": "http://rljewels.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "169, Johari Bazar, BALAJI PETH, Jalgaon, Maharashtra 425001",
+    "area": "Johari Bazar, BALAJI PETH",
+    "latitude": 21.0134859,
+    "longitude": 75.5727065,
+    "place_id": "ChIJGUC3OacP2TsRx8YRBeOvuBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUC3OacP2TsRx8YRBeOvuBQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:26:57"
+  }
+]

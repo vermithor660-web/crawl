@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivkrupa kirana store",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "443206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "At, post, NAGRE, Sawkhed Nagre, Maharashtra 443201",
+    "area": "NAGRE",
+    "latitude": 20.1042775,
+    "longitude": 76.2990243,
+    "place_id": "ChIJDb1frudz2jsRL7k6oSXa9Vg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDb1frudz2jsRL7k6oSXa9Vg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:43:04"
+  },
+  {
+    "business_name": "BHAIRAVNATH ICE CREAM",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "443206",
+    "phone_number": "+91 97728 16535",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "35PH+G87, NH753A, Deulgaon Mahi, Maharashtra 443206",
+    "area": "443206",
+    "latitude": 20.0862807,
+    "longitude": 76.1783068,
+    "place_id": "ChIJOy4QRNxr2jsR0rwXXa1HKFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOy4QRNxr2jsR0rwXXa1HKFM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:43:04"
+  }
+]

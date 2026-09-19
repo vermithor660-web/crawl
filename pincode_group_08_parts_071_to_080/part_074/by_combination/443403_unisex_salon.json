@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guru Krupa Hair Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "443403",
+    "phone_number": "+91 96049 23836",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Bus Stand, Main, Nandura -Jalgaon Jamod Rd, opp. Gajanan Maharaj Temple, Yerli, Maharashtra 443404",
+    "area": "443403",
+    "latitude": 20.9266161,
+    "longitude": 76.4733826,
+    "place_id": "ChIJ8_ce4-Nf1zsRNH4EzAkf5z8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8_ce4-Nf1zsRNH4EzAkf5z8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:58:09"
+  },
+  {
+    "business_name": "Classic Hair Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "443403",
+    "phone_number": "+91 72497 17070",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Classic Hair Salon, Pune Complex, Malkapur Rd, Nagalkar Layout, Durga Nagar, Nandura, Maharashtra 443404",
+    "area": "Nagalkar Layout, Durga Nagar",
+    "latitude": 20.8381477,
+    "longitude": 76.45676929999999,
+    "place_id": "ChIJofFzecZf1zsRCE2Yev-DHvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJofFzecZf1zsRCE2Yev-DHvg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:58:09"
+  }
+]

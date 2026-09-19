@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "STANDARD SHOES CENTER",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Shopping mall",
+    "pincode": "443204",
+    "phone_number": "+91 72194 82386",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, D Raja, near Madina Complex, Maharashtra 443204",
+    "area": "Singne Nagar, Ambedkar Nagar",
+    "latitude": 20.0175493,
+    "longitude": 76.0372577,
+    "place_id": "ChIJX3CvzeZD2jsR3AZaB9x_mPs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX3CvzeZD2jsR3AZaB9x_mPs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:41:25"
+  },
+  {
+    "business_name": "Kailas Footwear Still Bhandi",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "443204",
+    "phone_number": "+91 99233 30884",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Gondegaon, Maharashtra 431213",
+    "area": "443204",
+    "latitude": 19.9270574,
+    "longitude": 75.93716979999999,
+    "place_id": "ChIJz6o3Idpb2jsRMVSpnp7fPSw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz6o3Idpb2jsRMVSpnp7fPSw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:41:26"
+  }
+]

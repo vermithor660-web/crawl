@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AAM CHAUDAMPALLI",
+    "search_category": "Wellness Center",
+    "primary_category": "Community health center",
+    "all_categories": "Community health center",
+    "pincode": "442705",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Chaudampalli, Maharashtra 442707",
+    "area": "442705",
+    "latitude": 19.5981077,
+    "longitude": 79.8455493,
+    "place_id": "ChIJ9w-fSQBtLToRS2oiI07PnH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9w-fSQBtLToRS2oiI07PnH0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:51:38"
+  },
+  {
+    "business_name": "Mahagaon Bk Primary Health Center",
+    "search_category": "Wellness Center",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "442705",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FX49+2HG, Mahagaon Kh, Aheri, Maharashtra 442705",
+    "area": "442705",
+    "latitude": 19.4550691,
+    "longitude": 79.96896579999999,
+    "place_id": "ChIJj7NoDV56LToRY6quwwDKZxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj7NoDV56LToRY6quwwDKZxk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:51:38"
+  }
+]

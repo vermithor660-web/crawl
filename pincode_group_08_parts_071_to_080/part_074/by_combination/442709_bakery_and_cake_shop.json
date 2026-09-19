@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aswad Bakers",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "442709",
+    "phone_number": "+91 91688 33335",
+    "website": "http://www.aswadbakers.com/",
+    "rating": 4.1,
+    "reviews_count": 141,
+    "address": "Bazarpet Rd, Mumbai - Goa Hwy, Mumbai, Maharashtra 416602",
+    "area": "Shivajinagar",
+    "latitude": 16.2653113,
+    "longitude": 73.7083234,
+    "place_id": "ChIJozWDPCkWwDsRLlsvtnWx-38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJozWDPCkWwDsRLlsvtnWx-38",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:54:22"
+  },
+  {
+    "business_name": "Primaura Cakes & Desserts | 100% VEG Cakes | Malad | Goregaon",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "442709",
+    "phone_number": "+91 85858 55304",
+    "website": "https://primaura.in/",
+    "rating": 4.6,
+    "reviews_count": 257,
+    "address": "SHOP NO. 06, CHS Ltd, DHEERAJ PLATINUM, B-WING, Chincholi Bunder Rd, Malad, Chincholi Bunder, Malad West, Mumbai, Maharashtra 400064",
+    "area": "Malad, Chincholi Bunder, Malad West",
+    "latitude": 19.1804676,
+    "longitude": 72.83864679999999,
+    "place_id": "ChIJCfoqQw235zsR9J_BMZ0uSJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCfoqQw235zsR9J_BMZ0uSJc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:54:22"
+  }
+]

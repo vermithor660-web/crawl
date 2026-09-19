@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajhuts Event and Decorator",
+    "search_category": "Flower Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "443102",
+    "phone_number": "+91 77559 95305",
+    "website": "https://www.rajhuts.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Navapur-Umbergothan Rd, Umbergothan, Virar West, Vasai-Virar, Maharashtra 401303",
+    "area": "Umbergothan, Virar West",
+    "latitude": 19.4460421,
+    "longitude": 72.77931,
+    "place_id": "ChIJw6r1vuir5zsRAKoU2EFhuxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw6r1vuir5zsRAKoU2EFhuxk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:27:42"
+  },
+  {
+    "business_name": "Flowernlove",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Flower delivery, Flower designer",
+    "pincode": "443102",
+    "phone_number": "+91 99208 70771",
+    "website": "https://www.flowernlove.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No 2, Veerson's Villa, Plot No 75, Ranade Rd, near Palkar Polyclinic, Dadar West, Shivaji Park, Mumbai, Maharashtra 400028",
+    "area": "Dadar West, Shivaji Park",
+    "latitude": 19.0247405,
+    "longitude": 72.8370262,
+    "place_id": "ChIJ__-jmNzO5zsReQ2-GXvuc4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__-jmNzO5zsReQ2-GXvuc4c",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:27:42"
+  }
+]

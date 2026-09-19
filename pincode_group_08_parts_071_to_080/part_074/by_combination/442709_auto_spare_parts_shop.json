@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Auto Antariksh",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "442709",
+    "phone_number": "+91 93735 08362",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Shop No.106, Jalna Rd, Apna Bazar, Nyay Nagar, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "Apna Bazar, Nyay Nagar",
+    "latitude": 19.8760139,
+    "longitude": 75.34671,
+    "place_id": "ChIJYcL7eZyi2zsRZw7JZHYg-FI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYcL7eZyi2zsRZw7JZHYg-FI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:54:52"
+  },
+  {
+    "business_name": "VAIBHAVLAXMI SPARE PARTS",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "442709",
+    "phone_number": "+91 72628 05935",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Velgur Road, Alapalli, Maharashtra 442703",
+    "area": "442709",
+    "latitude": 19.433477399999997,
+    "longitude": 80.063711,
+    "place_id": "ChIJWzRTBI95LToRMTa135lKafU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWzRTBI95LToRMTa135lKafU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:54:53"
+  }
+]

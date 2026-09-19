@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANSH FISH SUPPLIERS",
+    "search_category": "Fish Market",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "442917",
+    "phone_number": "+91 93234 24848",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "10/11, Juhu Nagar, Sector 10, Vashi, Navi Mumbai, Maharashtra 400703",
+    "area": "Juhu Nagar, Sector 10, Vashi",
+    "latitude": 19.08168,
+    "longitude": 72.99937419999999,
+    "place_id": "ChIJ____bzTB5zsR4HKGcpCOuyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____bzTB5zsR4HKGcpCOuyE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:15:41"
+  },
+  {
+    "business_name": "Kamothe Fish World",
+    "search_category": "Fish Market",
+    "primary_category": "Fishery",
+    "all_categories": "Fishery",
+    "pincode": "442917",
+    "phone_number": "+91 86521 25141",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Shop No.7, Sai Regency, Plot no.17, opposite central bank, Sector 15, Kamothe, Panvel, Maharashtra 410209",
+    "area": "Sector 15, Kamothe, Panvel",
+    "latitude": 19.0156582,
+    "longitude": 73.0943613,
+    "place_id": "ChIJ3Uxybijp5zsRY0vi62A0-OY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Uxybijp5zsRY0vi62A0-OY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:15:41"
+  }
+]

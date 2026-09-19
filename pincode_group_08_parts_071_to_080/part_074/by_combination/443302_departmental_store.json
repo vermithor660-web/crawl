@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sultanpur",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "443302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "3GPC+P6M, Sultanpur, Maharashtra 443302",
+    "area": "443302",
+    "latitude": 20.0868354,
+    "longitude": 76.52054919999999,
+    "place_id": "ChIJwaISAgCd0DsRY1wIFiOG5MQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwaISAgCd0DsRY1wIFiOG5MQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:46:29"
+  },
+  {
+    "business_name": "Aarav Janaral Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, General store",
+    "pincode": "443302",
+    "phone_number": "+91 91587 59456",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Zp School, Anjani Khurd, Maharashtra 443301",
+    "area": "443302",
+    "latitude": 20.0662262,
+    "longitude": 76.4782456,
+    "place_id": "ChIJW5TuzV6d0DsR4ZRuQL3830k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW5TuzV6d0DsR4ZRuQL3830k",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:46:30"
+  }
+]

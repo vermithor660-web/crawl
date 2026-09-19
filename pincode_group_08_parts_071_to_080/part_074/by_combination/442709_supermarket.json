@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mayur Kirana Store",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Store",
+    "pincode": "442709",
+    "phone_number": "+91 79728 72900",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": 3,
+    "address": "Shop Nu, ABC 23, Rajaram, Maharashtra 442709",
+    "area": "442709",
+    "latitude": 19.2715851,
+    "longitude": 80.15601199999999,
+    "place_id": "ChIJHbpuzyp_MjoRLGFTFz_3UtM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHbpuzyp_MjoRLGFTFz_3UtM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:54:13"
+  },
+  {
+    "business_name": "Kartik General Store",
+    "search_category": "Supermarket",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "442709",
+    "phone_number": "+91 94051 40517",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kartikesh Kirana Store, Infront Of PHC Centre, Damrancha, Maharashtra 442709",
+    "area": "442709",
+    "latitude": 19.2333286,
+    "longitude": 80.3768915,
+    "place_id": "ChIJYwN0TQB1MjoRU0mL69iccdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYwN0TQB1MjoRU0mL69iccdA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:54:13"
+  }
+]

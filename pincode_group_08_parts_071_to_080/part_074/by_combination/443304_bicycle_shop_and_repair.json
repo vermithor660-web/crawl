@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "vaibhavlaxmi bike servicing centre",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "443304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9F3P+JF5, Esoli, Maharashtra 444301",
+    "area": "443304",
+    "latitude": 20.354017199999998,
+    "longitude": 76.4862483,
+    "place_id": "ChIJe_mwu8an0DsRNkOwOhbjBZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe_mwu8an0DsRNkOwOhbjBZs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:50:44"
+  },
+  {
+    "business_name": "Janta Garage",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "443304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FF75+5X5, Undri, Udaynagar, Maharashtra 444303",
+    "area": "Undri",
+    "latitude": 20.4628875,
+    "longitude": 76.4599844,
+    "place_id": "ChIJk8GOdsap0DsRnlKdC4ub1Y4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk8GOdsap0DsRnlKdC4ub1Y4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:50:44"
+  }
+]

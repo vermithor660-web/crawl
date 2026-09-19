@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Galaxy Auto Works",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto air conditioning service, Auto body shop, Auto electrical service, Auto painting, Auto tune up service, Car battery store, Diagnostic center, Engine Rebuilding Service Station, Vehicle inspection service",
+    "pincode": "443104",
+    "phone_number": "+91 98202 25000",
+    "website": "https://www.galaxyautoworks.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "18, Genuine House, Genuine Engineering Works Compound, Shankar Rao Naram Path, Off Pandurang Budhkar Marg,, Worli / Lower Parel, Mumbai-400 013, Maharashtra 400013",
+    "area": "Lower Parel West, Lower Parel",
+    "latitude": 19.0045645,
+    "longitude": 72.8237537,
+    "place_id": "ChIJk_roi5PO5zsReRGdk790CMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk_roi5PO5zsReRGdk790CMU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:30:55"
+  },
+  {
+    "business_name": "Perfect Motors Car Electrician Cars Ac Works",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto electrical service",
+    "all_categories": "Auto electrical service",
+    "pincode": "443104",
+    "phone_number": "+91 88017 36649",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Pillar Number 202, Chintalmet, Upperpally, Hyderabad, Telangana 500048",
+    "area": "Chintalmet",
+    "latitude": 17.3495949,
+    "longitude": 78.41740899999999,
+    "place_id": "ChIJeQPB9PeXyzsRZtt7jIecwzw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeQPB9PeXyzsRZtt7jIecwzw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:30:55"
+  }
+]

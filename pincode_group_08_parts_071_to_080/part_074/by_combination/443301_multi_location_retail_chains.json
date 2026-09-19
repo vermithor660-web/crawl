@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri gajanan multi",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "443301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "A/p, Tq, Ukali, Mehkar, Maharashtra 443301",
+    "area": "443301",
+    "latitude": 20.119404799999998,
+    "longitude": 76.6072685,
+    "place_id": "ChIJoxwcKayZ0DsRBFchvCZTqgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoxwcKayZ0DsRBFchvCZTqgc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:46:25"
+  },
+  {
+    "business_name": "Rizvi Kirana Stores",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "443301",
+    "phone_number": "+91 94230 28786",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "Malipeth Rd, Bilal Nagar, Mehkar, Maharashtra 443301",
+    "area": "Bilal Nagar",
+    "latitude": 20.1510559,
+    "longitude": 76.5683213,
+    "place_id": "ChIJpyTOgt6Y0DsROhx-31utUDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpyTOgt6Y0DsROhx-31utUDo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:46:25"
+  }
+]

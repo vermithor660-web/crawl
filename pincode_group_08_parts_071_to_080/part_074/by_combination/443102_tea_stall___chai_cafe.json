@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kamal Tea Centre",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Tea Manufacturer",
+    "pincode": "443102",
+    "phone_number": "+91 94222 77449",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 19,
+    "address": "Chitra Chowk, Shop No 3, Dr. Pandit Complex, Navi Peth, M.S, Jalgaon, Maharashtra 425001",
+    "area": "Navi Peth, M.S, Jaikisan Wadi",
+    "latitude": 21.013063,
+    "longitude": 75.5667033,
+    "place_id": "ChIJ4_4YoMwP2TsRJp3m6CDNeZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4_4YoMwP2TsRJp3m6CDNeZ0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:26:46"
+  },
+  {
+    "business_name": "Cafe Irani Chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "443102",
+    "phone_number": "+91 70451 88020",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 76,
+    "address": "Shop num 37 d/2 ammonite bldg moraj residency Plot 01, Sector 16, Sanpada, Navi Mumbai, Maharashtra 400705",
+    "area": "Sector 16, Sanpada",
+    "latitude": 19.058604799999998,
+    "longitude": 73.00362969999999,
+    "place_id": "ChIJX0QReyjB5zsRNhGUPcz5tCE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX0QReyjB5zsRNhGUPcz5tCE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:26:46"
+  }
+]

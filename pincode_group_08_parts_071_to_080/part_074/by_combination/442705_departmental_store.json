@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pramod Kirna Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "442705",
+    "phone_number": "+91 91820 55361",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kirana Store, Marpalli, Yella, Maharashtra 442705",
+    "area": "Marpalli",
+    "latitude": 19.5255174,
+    "longitude": 79.8884819,
+    "place_id": "ChIJL2uoMQlvLToREfRF-knCNGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL2uoMQlvLToREfRF-knCNGg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:50:39"
+  },
+  {
+    "business_name": "kashi kirana store and csc center",
+    "search_category": "Departmental Store",
+    "primary_category": "Information services",
+    "all_categories": "Information services, Indian grocery store",
+    "pincode": "442705",
+    "phone_number": "+91 79722 83924",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "veer baburao sedmake chowk, machhigatta, Aheri, Maharashtra 442705",
+    "area": "machhigatta",
+    "latitude": 19.4133545,
+    "longitude": 80.0059101,
+    "place_id": "ChIJGRq_o-h7LToRqjCuVCw7oJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRq_o-h7LToRqjCuVCw7oJg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:50:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stock Trading",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Service establishment",
+    "pincode": "443302",
+    "phone_number": "+91 97116 79806",
+    "website": "https://upstox.com/open-account/?f=W1RM",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Stock Trading, 443302, India",
+    "area": "443302",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJr2SHBGt8YUsRQo0dEQ2448A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr2SHBGt8YUsRQo0dEQ2448A",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:47:55"
+  },
+  {
+    "business_name": "Mirae Asset Capital Markets (India) Pvt Ltd",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "443302",
+    "phone_number": "+91 1800 210 0818",
+    "website": "https://www.mstock.com/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "1st Floor, Tower-4, Equinox Business Park, Lal Bahadur Shastri Marg, Ambedkar Nagar, Kurla West, Kurla, W, Mumbai, Maharashtra 400070",
+    "area": "Ambedkar Nagar, Kurla West, Kurla",
+    "latitude": 19.071095,
+    "longitude": 72.8772822,
+    "place_id": "ChIJt5wxCuXI5zsRpDz4DTzh3Jk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt5wxCuXI5zsRpDz4DTzh3Jk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:47:55"
+  }
+]

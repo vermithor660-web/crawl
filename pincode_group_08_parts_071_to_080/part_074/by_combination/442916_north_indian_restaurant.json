@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PATIL TEA & PAN SHOP",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "442916",
+    "phone_number": "+91 82620 51974",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "At gopal malpanli celebration, Rajura - Korpana Rd, opposite indian petroleum chya side la, Gadchandur, Maharashtra 442908",
+    "area": "442916",
+    "latitude": 19.735225099999997,
+    "longitude": 79.1909795,
+    "place_id": "ChIJ2bELboTF0jsRsIYFtti1SNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2bELboTF0jsRsIYFtti1SNg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:14:00"
+  },
+  {
+    "business_name": "Hotel Kaastakaar Restaurant & Family Garden Mukutban",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Dhaba",
+    "pincode": "442916",
+    "phone_number": "+91 70578 09914",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 32,
+    "address": "Hotel Kaastakaar Restaurant And Family Garden Mukutba, Wani - Mukutban Rd, near Nayra Petrolpump, near Khadki, Khadaki, Wani, Maharashtra 445304",
+    "area": "442916",
+    "latitude": 19.8217842,
+    "longitude": 78.8725068,
+    "place_id": "ChIJdzkPSn3l0jsRpzPPNdHJzmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdzkPSn3l0jsRpzPPNdHJzmE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:14:00"
+  }
+]

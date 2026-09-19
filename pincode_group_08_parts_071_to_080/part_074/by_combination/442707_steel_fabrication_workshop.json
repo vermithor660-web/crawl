@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharda Welding Work shop",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Metal workshop",
+    "all_categories": "Metal workshop",
+    "pincode": "442707",
+    "phone_number": "+91 86006 13868",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Sadananad ward lohar, Quazi Pura Rd, Umarkhed, Maharashtra 445206",
+    "area": "Umarkhed",
+    "latitude": 19.6008461,
+    "longitude": 77.6898442,
+    "place_id": "ChIJDX5ggeCT0TsR7gfEiZHiAPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDX5ggeCT0TsR7gfEiZHiAPI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:53:58"
+  },
+  {
+    "business_name": "Sonu Steel",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Steel fabricator",
+    "all_categories": "Steel fabricator",
+    "pincode": "442707",
+    "phone_number": "+91 90112 24099",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kawarapeth, Gangapur, Umred Rural, Maharashtra 441203",
+    "area": "Kawarapeth, Gangapur",
+    "latitude": 20.8597826,
+    "longitude": 79.3129743,
+    "place_id": "ChIJ9TRFtbut1DsRHbYX-yJvay4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9TRFtbut1DsRHbYX-yJvay4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:53:59"
+  }
+]

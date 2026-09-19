@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Venus Stationers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Books Wholesaler, Computer accessories store, Hobby store, Office equipment supplier, Office supply store, Paper distributor, Scrapbooking store, Toner cartridge supplier",
+    "pincode": "443302",
+    "phone_number": "+91 240 235 8000",
+    "website": "http://www.venusstationers.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "near ASG Eye hospital, New Usmanpura, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "New Usmanpura",
+    "latitude": 19.871408799999998,
+    "longitude": 75.3282758,
+    "place_id": "ChIJVVVVlWSY2zsRVV5r96wrIgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlWSY2zsRVV5r96wrIgo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:47:43"
+  },
+  {
+    "business_name": "Vidya Books",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "443302",
+    "phone_number": "+91 97644 16831",
+    "website": "http://www.vidyabooksabd.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Aurangpura, Aurangapura Rd, Gulmandi, Naralibag, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Gulmandi, Naralibag",
+    "latitude": 19.884651899999998,
+    "longitude": 75.327962,
+    "place_id": "ChIJ56N78hKY2zsR_O9UKThcJHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ56N78hKY2zsR_O9UKThcJHk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:47:44"
+  }
+]

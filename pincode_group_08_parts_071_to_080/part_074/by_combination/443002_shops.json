@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "shree electronics multi service buldana",
+    "search_category": "Shops",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop, Electronics store",
+    "pincode": "443002",
+    "phone_number": "+91 77758 74440",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shree Electronic, Chikhali Rd, Shrikrushna Nagar, Ashtavinayak Nagar, Buldhana, Sundar khed, Maharashtra 443002",
+    "area": "Shrikrushna Nagar, Ashtavinayak Nagar",
+    "latitude": 20.5150617,
+    "longitude": 76.19527029999999,
+    "place_id": "ChIJ02tqtQQd2jsRN3-ADR9s-Ek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02tqtQQd2jsRN3-ADR9s-Ek",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:24:47"
+  },
+  {
+    "business_name": "Shri Balaji car decor & washing center",
+    "search_category": "Shops",
+    "primary_category": "Car stereo store",
+    "all_categories": "Car stereo store",
+    "pincode": "443002",
+    "phone_number": "+91 98222 29030",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "NH753A, Ashtavinayak Nagar, Malvihir, Maharashtra 443002",
+    "area": "Ashtavinayak Nagar",
+    "latitude": 20.504892299999998,
+    "longitude": 76.2012879,
+    "place_id": "ChIJZyZAR64d2jsRPig9wqlAORA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZyZAR64d2jsRPig9wqlAORA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:24:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SACHIN SERVICES",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "443102",
+    "phone_number": "+91 82756 46235",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Main Road, near Bus Stop, Shelgaon Bazar, Maharashtra 443102",
+    "area": "443102",
+    "latitude": 20.7927335,
+    "longitude": 76.1347359,
+    "place_id": "ChIJQYn4X-zt2TsRhtifzeFGg4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQYn4X-zt2TsRhtifzeFGg4s",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:28:21"
+  },
+  {
+    "business_name": "AMIT ZEROX",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "443102",
+    "phone_number": "+91 95033 24324",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, near Bus Stop, Motala, Datala, Maharashtra 443102",
+    "area": "443102",
+    "latitude": 20.8161882,
+    "longitude": 76.2039181,
+    "place_id": "ChIJNQd7uyrv2TsR1ie8QDep3zc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNQd7uyrv2TsR1ie8QDep3zc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:28:21"
+  }
+]

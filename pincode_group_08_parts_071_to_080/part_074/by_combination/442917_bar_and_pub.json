@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sudhir win bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "442917",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "P5JC+7GP, Gadchandur, Maharashtra 442908",
+    "area": "442917",
+    "latitude": 19.730721,
+    "longitude": 79.1713238,
+    "place_id": "ChIJf1adVfLF0jsR8lHT-Wlv3Z4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf1adVfLF0jsR8lHT-Wlv3Z4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:15:49"
+  },
+  {
+    "business_name": "जिवन बार & रेस्टॉर",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "442917",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 5,
+    "address": "Gadchandur, Maharashtra 442908",
+    "area": "442917",
+    "latitude": 19.7311063,
+    "longitude": 79.1758191,
+    "place_id": "ChIJs9ArXMLF0jsRssY9XwImz6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs9ArXMLF0jsRssY9XwImz6I",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:15:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Satyam Resort",
+    "search_category": "Resort",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "443204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "nagpur pune highway midc deulgaonraja chikhli road singaon fata, Deulgaon Raja, Maharashtra 443204",
+    "area": "443204",
+    "latitude": 20.028391,
+    "longitude": 76.0702,
+    "place_id": "ChIJaUGo725C2jsRZ4xDhI95e8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaUGo725C2jsRZ4xDhI95e8c",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:42:10"
+  },
+  {
+    "business_name": "SHREE RAM HOTEL",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "443204",
+    "phone_number": "+91 93592 94192",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SHOP NO 05, MAIN ROAD, near by REST HOUSE, Deulgaon Raja, Maharashtra 443204",
+    "area": "443204",
+    "latitude": 20.0189214,
+    "longitude": 76.0351976,
+    "place_id": "ChIJCTzIPPtD2jsRNpoqm7Alss8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCTzIPPtD2jsRNpoqm7Alss8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:42:11"
+  }
+]

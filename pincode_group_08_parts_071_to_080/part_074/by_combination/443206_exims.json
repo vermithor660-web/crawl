@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "E.S.I.S. Hospital",
+    "search_category": "EXIMS",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital, Hospital",
+    "pincode": "443206",
+    "phone_number": "+91 1800 11 2526",
+    "website": "https://www.esic.gov.in/esishospital/esis-hospital-chikalthana-aurangabad",
+    "rating": 3.6,
+    "reviews_count": 88,
+    "address": "P16, Naregaon Road, Near Garware Stadium, Chilkalthana, MIDC, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "Jhadav Mandi, MIDC",
+    "latitude": 19.886454,
+    "longitude": 75.3687489,
+    "place_id": "ChIJ0X0D3cGi2zsR1N0dnaM-iVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0X0D3cGi2zsR1N0dnaM-iVE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:44:28"
+  },
+  {
+    "business_name": "OYO Hotel Devpriya",
+    "search_category": "EXIMS",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "443206",
+    "phone_number": "+91 124 620 1126",
+    "website": "https://www.oyorooms.com/38698/",
+    "rating": 3.3,
+    "reviews_count": 1039,
+    "address": "1, Pushpa Nagari, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Pushpa Nagari",
+    "latitude": 19.8785643,
+    "longitude": 75.31725759999999,
+    "place_id": "ChIJTWe50kGY2zsRAI8KQwpbT94",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTWe50kGY2zsRAI8KQwpbT94",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:44:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FASHION HAIR SPA",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "442705",
+    "phone_number": "+91 93077 65819",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C262+HWJ, Sankul Police Station Rd, Aheri, Maharashtra 442705",
+    "area": "442705",
+    "latitude": 19.411454,
+    "longitude": 80.0022539,
+    "place_id": "ChIJbf5Y9t17LToRMw_kBJavIig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbf5Y9t17LToRMw_kBJavIig",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:51:35"
+  },
+  {
+    "business_name": "Vasanth medical Hall",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "442705",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near pochamma temple, SC colony, Chinthalamanepalli mandal, Korisini, Chinthalamanepalli, Telangana 504299",
+    "area": "SC colony, Chinthalamanepalli mandal",
+    "latitude": 19.5026238,
+    "longitude": 79.8533223,
+    "place_id": "ChIJL2sPludvLToRVrDISOzpEcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL2sPludvLToRVrDISOzpEcg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:51:36"
+  }
+]

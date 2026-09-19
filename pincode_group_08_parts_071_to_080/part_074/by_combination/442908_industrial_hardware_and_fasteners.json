@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satish Traders",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Barrel supplier, Home goods store, Irrigation equipment supplier, Plastic Wholesaler, Plywood supplier",
+    "pincode": "442908",
+    "phone_number": "+91 98236 45266",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Korpana, Maharashtra 442916",
+    "area": "442908",
+    "latitude": 19.7440081,
+    "longitude": 78.987523,
+    "place_id": "ChIJ49jNorHp0jsRlrFxG8g7gRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ49jNorHp0jsRlrFxG8g7gRw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:11:47"
+  },
+  {
+    "business_name": "S R M Enterprises , MAKITA POWER TOOLS ,INDUSTRIAL EQUIPMENTS SALES & SERVICE",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Industrial equipment supplier",
+    "all_categories": "Industrial equipment supplier, Tools Wholesaler",
+    "pincode": "442908",
+    "phone_number": "+91 94231 15608",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Tadoba Road, near Rohit petrol pump, Biyani Nagar, Tukum, Chandrapur, Maharashtra 442401",
+    "area": "Biyani Nagar, Tukum",
+    "latitude": 19.9767777,
+    "longitude": 79.29973059999999,
+    "place_id": "ChIJ_5zIF9vV0jsRepIdVTSL_Q4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_5zIF9vV0jsRepIdVTSL_Q4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:11:48"
+  }
+]

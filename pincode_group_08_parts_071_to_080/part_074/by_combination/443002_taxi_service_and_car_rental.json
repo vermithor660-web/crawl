@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BABA GO Cab Taxi Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Service establishment",
+    "pincode": "443002",
+    "phone_number": "N/A",
+    "website": "https://babagocabservice.odoo.com/",
+    "rating": 4.9,
+    "reviews_count": 18,
+    "address": "BABA GO Cab Taxi Service, 443002, India",
+    "area": "443002",
+    "latitude": 25.8904328,
+    "longitude": 85.8070058,
+    "place_id": "ChIJpepBd3RCIocRw0vnyx1Hip4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpepBd3RCIocRw0vnyx1Hip4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:23:37"
+  },
+  {
+    "business_name": "Vishwa Car Rental Mumbai",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Car rental agency, Minibus taxi service, Taxi service, Tour operator, Travel agency",
+    "pincode": "443002",
+    "phone_number": "+91 77100 54367",
+    "website": "https://vishwacarrental.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "HEX04-1503, HEX BLOX CHS,LTD, Plot No.269, Sector 10, Kharghar, Panvel, Maharashtra 410210",
+    "area": "Sector 10, Kharghar",
+    "latitude": 19.034029699999998,
+    "longitude": 73.0752068,
+    "place_id": "ChIJrdwjxBLD5zsRuYg73gm-qrA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrdwjxBLD5zsRuYg73gm-qrA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:23:37"
+  }
+]

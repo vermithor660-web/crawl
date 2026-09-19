@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Geeta Bichayat",
+    "search_category": "Shops",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "443201",
+    "phone_number": "+91 98507 94011",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Gandhi Nagar, Chikhli, Maharashtra 443201",
+    "area": "Gandhi Nagar",
+    "latitude": 20.350362999999998,
+    "longitude": 76.25748159999999,
+    "place_id": "ChIJ____jwgQ2jsRwP5JpCvr3tk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____jwgQ2jsRwP5JpCvr3tk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:37:28"
+  },
+  {
+    "business_name": "OM ONLINE SERVICE CENTR",
+    "search_category": "Shops",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "443201",
+    "phone_number": "+91 88887 31889",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Khamgaon Rd, near shri shivaji ded college, Errigation Colony, Shivaji Nagar, Chikhli, Maharashtra 443201",
+    "area": "Errigation Colony, Shivaji Nagar",
+    "latitude": 20.3491906,
+    "longitude": 76.2622655,
+    "place_id": "ChIJyf_U2wUQ2jsRYMcxG3YsnGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyf_U2wUQ2jsRYMcxG3YsnGw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:37:30"
+  }
+]

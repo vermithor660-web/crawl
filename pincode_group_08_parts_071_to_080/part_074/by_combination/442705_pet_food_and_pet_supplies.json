@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE PETS MART",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "442705",
+    "phone_number": "+91 87951 18888",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 216,
+    "address": "Guru govind singh chowk, Uttar Pradesh 262701",
+    "area": "Maharaj Nagar",
+    "latitude": 27.9428722,
+    "longitude": 80.7840782,
+    "place_id": "ChIJnY7r7QE1nzkRG69hfgHtqKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnY7r7QE1nzkRG69hfgHtqKI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:50:46"
+  },
+  {
+    "business_name": "expressive pets",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "442705",
+    "phone_number": "+91 98678 85221",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Plot No, Aakar Chs, D/6, Ganesh Mandir Lane, Swastik Cooperative Housing Society, SV Patel Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "Swastik Cooperative Housing Society, SV Patel Nagar, Andheri West",
+    "latitude": 19.134579,
+    "longitude": 72.8213968,
+    "place_id": "ChIJfdQA3Yi35zsRqrZFMTcAWN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfdQA3Yi35zsRqrZFMTcAWN0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:50:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "442707",
+    "phone_number": "+91 91687 24456",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MH SH 225, Narsi, Maharashtra 431709",
+    "area": "442707",
+    "latitude": 18.8116834,
+    "longitude": 77.5424659,
+    "place_id": "ChIJX8_rqMs_zjsR9h47K1UW_jw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX8_rqMs_zjsR9h47K1UW_jw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:53:45"
+  },
+  {
+    "business_name": "Shree Ganesh Mobile Repairing Mul",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "442707",
+    "phone_number": "+91 88306 71571",
+    "website": "https://sites.google.com/view/gsmsoftwareworld/home",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shree Ganesh Mobile Repairing, Mul, Maharashtra 441224",
+    "area": "442707",
+    "latitude": 20.0664299,
+    "longitude": 79.6792074,
+    "place_id": "ChIJ1zxsrmTfLDoR4WYZ86qOVL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1zxsrmTfLDoR4WYZ86qOVL8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:53:46"
+  }
+]

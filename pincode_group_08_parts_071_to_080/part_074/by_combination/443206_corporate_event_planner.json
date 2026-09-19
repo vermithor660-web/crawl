@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The.Event.House",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Banquet hall, Caterer, Event management company, Marriage celebrant, Party planner, Photography service",
+    "pincode": "443206",
+    "phone_number": "+91 73502 07832",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Plot No.9 Pratik Plaza Ulkanagri, khivansara Park, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Shrikrishna Nagar, Ulkanagari",
+    "latitude": 19.861708999999998,
+    "longitude": 75.339534,
+    "place_id": "ChIJ20sVlhuZ2zsRHe0wEsA-F8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ20sVlhuZ2zsRHe0wEsA-F8U",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:43:59"
+  },
+  {
+    "business_name": "Dream Events and Decorators",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "443206",
+    "phone_number": "+91 86007 37208",
+    "website": "https://instagram.com/dream.events_29?igshid=MmVlMjlkMTBhMg==",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "Hindustan awas, Paithan Rd, Nakshtrawadi, Kanchanwadi, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "Nakshtrawadi, Kanchanwadi",
+    "latitude": 19.819332,
+    "longitude": 75.2784452,
+    "place_id": "ChIJ3QQaZ7OZ2zsRcGU5m-rzWtE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3QQaZ7OZ2zsRcGU5m-rzWtE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:43:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sundaram Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Bedroom furniture store",
+    "all_categories": "Bedroom furniture store, Bed shop, Furniture Manufacturer, Furniture repair shop, Furniture store, Garden Furniture Store, Office furniture store, Sofa store, Wheelchair store",
+    "pincode": "443103",
+    "phone_number": "+91 97655 69262",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 171,
+    "address": "Natraj Garden Rd, Shyamlal Plots, Balaji Plots, Khamgaon, Maharashtra 444303",
+    "area": "Shyamlal Plots, Balaji Plots",
+    "latitude": 20.7070041,
+    "longitude": 76.5658134,
+    "place_id": "ChIJ00KWtdhQ1zsR1zA1uDiFJzI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ00KWtdhQ1zsR1zA1uDiFJzI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:29:21"
+  },
+  {
+    "business_name": "HARSHAL AGENCIES - FURNITURE STORE",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture wholesaler",
+    "all_categories": "Furniture wholesaler, Furniture store, Garden Furniture Store, Office furniture store",
+    "pincode": "443103",
+    "phone_number": "+91 94040 49777",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "177, Narkhede Building, Near Nutan Maratha Shopping complex, Pratap Nagar, Jalgaon, Maharashtra 425001",
+    "area": "Pratap Nagar",
+    "latitude": 21.0101031,
+    "longitude": 75.5594101,
+    "place_id": "ChIJR8SBVLoP2TsR3Tpmkki439U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR8SBVLoP2TsR3Tpmkki439U",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:29:23"
+  }
+]

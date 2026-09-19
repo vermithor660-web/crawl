@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DIVYA GENERAL STORES",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "443304",
+    "phone_number": "+91 91727 03212",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "At, Post, near Z.P. Uradu School, Lakhanwada, Maharashtra 444303",
+    "area": "443304",
+    "latitude": 20.493056799999998,
+    "longitude": 76.6222973,
+    "place_id": "ChIJFQcGQumt0DsRsFrGoGWEN-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFQcGQumt0DsRsFrGoGWEN-w",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:50:06"
+  },
+  {
+    "business_name": "Krushi Bhushan Super Shopee",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "443304",
+    "phone_number": "+91 98500 66767",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 33,
+    "address": "Mehekar Road, Amdapur, Maharashtra 444301",
+    "area": "443304",
+    "latitude": 20.4067834,
+    "longitude": 76.44609849999999,
+    "place_id": "ChIJAb-vQuoH2jsRDT40cKdIshQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAb-vQuoH2jsRDT40cKdIshQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:50:06"
+  }
+]

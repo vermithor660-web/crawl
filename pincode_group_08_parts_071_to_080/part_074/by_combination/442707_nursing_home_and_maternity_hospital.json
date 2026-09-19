@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wadekar Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "442707",
+    "phone_number": "+91 93256 32807",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JV45+8FP, Armori Rd, opp. LIC Office, Kapilvastu Nagar, Brahmapuri, Maharashtra 441206",
+    "area": "Kapilvastu Nagar",
+    "latitude": 20.605849199999998,
+    "longitude": 79.8586883,
+    "place_id": "ChIJ0YqvenaaLDoRIaCTEF8AhZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0YqvenaaLDoRIaCTEF8AhZg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:52:54"
+  },
+  {
+    "business_name": "Venkatesh Nursing home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "442707",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "V83W+J6J, Colliery Rd, Ravindra Nagar Vard, Ballarpur, Maharashtra 442701",
+    "area": "Ravindra Nagar Vard",
+    "latitude": 19.854094999999997,
+    "longitude": 79.345517,
+    "place_id": "ChIJEQfw-4fT0jsRA85Qb904DUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEQfw-4fT0jsRA85Qb904DUw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:52:55"
+  }
+]

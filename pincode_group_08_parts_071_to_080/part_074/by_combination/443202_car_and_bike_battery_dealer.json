@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NATH AUTOMOBILES",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "443202",
+    "phone_number": "+91 98503 33014",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, Malegaon Road, near sad hotel, opposite of shubham wine bar, Shiv Swarajya, Mehkar, Maharashtra 443301",
+    "area": "Shiv Swarajya",
+    "latitude": 20.158618399999998,
+    "longitude": 76.5889055,
+    "place_id": "ChIJ1_vXdoWZ0DsR7r1SnV1XDug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_vXdoWZ0DsR7r1SnV1XDug",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:38:07"
+  },
+  {
+    "business_name": "Vighnaharta Multiservices",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Car battery store",
+    "all_categories": "Car battery store, Battery Wholesaler, Battery Store, Electrician, Electronics manufacturer, Solar energy system service",
+    "pincode": "443202",
+    "phone_number": "+91 81800 82684",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 26,
+    "address": "Shreekrupa complex, Jafrabad - Bhokardan Rd, Bhokardan, Maharashtra 431114",
+    "area": "443202",
+    "latitude": 20.2564027,
+    "longitude": 75.7752447,
+    "place_id": "ChIJt1vYoQ0z2jsRCRmrMIAeYDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt1vYoQ0z2jsRCRmrMIAeYDA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:38:10"
+  }
+]

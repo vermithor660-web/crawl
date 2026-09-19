@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL NIRALI",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "443002",
+    "phone_number": "+91 94032 55354",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 71,
+    "address": "V652+9HH, road, near Shakti fitness, Wakodi, Maharashtra 443101",
+    "area": "443002",
+    "latitude": 20.858426599999998,
+    "longitude": 76.20149239999999,
+    "place_id": "ChIJNV65tHTp2TsRVJdonXIw32c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNV65tHTp2TsRVJdonXIw32c",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:23:09"
+  },
+  {
+    "business_name": "Hotel Dwarka",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "443002",
+    "phone_number": "+91 96044 55991",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "NH 548C, Pentakli Colony, Mehkar, Maharashtra 443301",
+    "area": "Pentakli Colony",
+    "latitude": 20.150033099999998,
+    "longitude": 76.5710205,
+    "place_id": "ChIJ-Xrg5vqZ0DsRORInhzP8650",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Xrg5vqZ0DsRORInhzP8650",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:23:11"
+  }
+]

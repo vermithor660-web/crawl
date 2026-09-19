@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S Bhavani General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "442908",
+    "phone_number": "N/A",
+    "website": "https://canva.link/7t76ipha7ftko7b",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "near Landmark Hotel, Gadchandur, Maharashtra 442905",
+    "area": "442908",
+    "latitude": 19.737236799999998,
+    "longitude": 79.1728232,
+    "place_id": "ChIJ0XfTF5zF0jsR8QRfzxy4vdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0XfTF5zF0jsR8QRfzxy4vdU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:10:12"
+  },
+  {
+    "business_name": "PeddaAsapur",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "442908",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Sewalal Temple PeddaAsapur post Jiwati Tah, Dist, Jiwati, Maharashtra 442908",
+    "area": "442908",
+    "latitude": 19.6214814,
+    "longitude": 79.12014719999999,
+    "place_id": "ChIJB2orb-_H0jsR-CGVy5h4wX0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2orb-_H0jsR-CGVy5h4wX0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:10:12"
+  }
+]

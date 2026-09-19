@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mr. Doodhwala",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "442902",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X77J+46F, Thhakkar Colony, Ramnagar, Chandrapur, Maharashtra 442401",
+    "area": "Thhakkar Colony, Ramnagar",
+    "latitude": 19.9628102,
+    "longitude": 79.2805341,
+    "place_id": "ChIJh8T0DADX0jsRipMzoWb2PfU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh8T0DADX0jsRipMzoWb2PfU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:59:32"
+  },
+  {
+    "business_name": "Dairy of milk",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "442902",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "39C2+C9, Sailpur, Uttar Pradesh 205304",
+    "area": "442902",
+    "latitude": 27.070973199999997,
+    "longitude": 79.35099799999999,
+    "place_id": "ChIJDUIEikH1dTkRNPCdG_7BM3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDUIEikH1dTkRNPCdG_7BM3c",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:59:33"
+  }
+]

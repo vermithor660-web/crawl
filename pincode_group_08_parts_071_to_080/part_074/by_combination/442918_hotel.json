@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "muskan hotel",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "442918",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "VJFM+P7C, Pombhurna, Maharashtra 442918",
+    "area": "442918",
+    "latitude": 19.8743224,
+    "longitude": 79.63313169999999,
+    "place_id": "ChIJIZlltCMlLToREDHi3bvBwLs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIZlltCMlLToREDHi3bvBwLs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:18:29"
+  },
+  {
+    "business_name": "Hotel Charulata",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "442918",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "VJFM+P6X, Pombhurna, Maharashtra 442918",
+    "area": "442918",
+    "latitude": 19.874374,
+    "longitude": 79.6331364,
+    "place_id": "ChIJrRmSblQlLToR9Zd2k3b9Pyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrRmSblQlLToR9Zd2k3b9Pyw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:18:31"
+  }
+]

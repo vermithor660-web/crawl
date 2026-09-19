@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Umanath Auto Point",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "442701",
+    "phone_number": "+91 88889 80623",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Road, Ravindra Nagar Vard, Ballarpur, Maharashtra 442701",
+    "area": "Ravindra Nagar Vard",
+    "latitude": 19.8555001,
+    "longitude": 79.346987,
+    "place_id": "ChIJv7pFh4zT0jsRx-Wu46wtq-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7pFh4zT0jsRx-Wu46wtq-Y",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:43:54"
+  },
+  {
+    "business_name": "HKGN AUTODEAL",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "442701",
+    "phone_number": "+91 80871 42321",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Allapalli Road, beside Gurunanak College, Bamni, Ballarpur, Maharashtra 442701",
+    "area": "Bamni",
+    "latitude": 19.840335,
+    "longitude": 79.36695619999999,
+    "place_id": "ChIJMyClfKPT0jsRGRQnZ1wa7Jg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMyClfKPT0jsRGRQnZ1wa7Jg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:43:56"
+  }
+]

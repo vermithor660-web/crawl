@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gajanan medical store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "443103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G5FR+7QV, Rajmata Nagar, Milind Nagar, Sundar khed, Maharashtra 443001",
+    "area": "Rajmata Nagar, Milind Nagar",
+    "latitude": 20.523276199999998,
+    "longitude": 76.1918864,
+    "place_id": "ChIJs7-HtPsd2jsRe653-e-pwfU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs7-HtPsd2jsRe653-e-pwfU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:28:59"
+  },
+  {
+    "business_name": "MAHARASHTRA AYURVEDALAY",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "443103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "BUS STAND, ROAD, near POLICE STATION, Jafrabad, Maharashtra 431206",
+    "area": "443103",
+    "latitude": 20.200393,
+    "longitude": 76.010177,
+    "place_id": "ChIJFwAAANw-2jsRPV_ofRQNqnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFwAAANw-2jsRPV_ofRQNqnI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:29:00"
+  }
+]

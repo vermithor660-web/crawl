@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SIDDHANT CLINIC",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Consultant, Doctor",
+    "pincode": "442907",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unnamed Road, Mahabank Colony, Indraprasth Nagar, Warora, Maharashtra 442907",
+    "area": "Mahabank Colony, Indraprasth Nagar",
+    "latitude": 20.249864199999998,
+    "longitude": 79.0136843,
+    "place_id": "ChIJ0fw5KBUX0zsRsczsSg6gZlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0fw5KBUX0zsRsczsSg6gZlk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:08:51"
+  },
+  {
+    "business_name": "Dr Jiwatode's Ayurveda and panchkarma clinic WARORA",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "442907",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "BAWANE complex, Mohbala Rd, near LIC office, Snehnagar, Warora, Maharashtra 442907",
+    "area": "Snehnagar",
+    "latitude": 20.2356664,
+    "longitude": 79.0020555,
+    "place_id": "ChIJR7ekHTkX0zsR7gdww2PpFa8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR7ekHTkX0zsR7gdww2PpFa8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:08:54"
+  }
+]

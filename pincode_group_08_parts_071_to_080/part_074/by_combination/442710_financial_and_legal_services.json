@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Legal Blue Bird",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Accounting firm, Business management consultant, Business to business service, Certification agency, Chartered accountant, Tax attorney, Tax consultant, Tax preparation",
+    "pincode": "442710",
+    "phone_number": "+91 63908 31928",
+    "website": "http://www.legalbluebird.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pillar No. 574, East Metro Station, B-1/624, near District Centre, Janakpuri, New Delhi, Delhi 110058",
+    "area": "Block B1, Janakpuri",
+    "latitude": 28.6319032,
+    "longitude": 77.0857429,
+    "place_id": "ChIJXyu2mVkFDTkRzASGigC9jW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXyu2mVkFDTkRzASGigC9jW4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:57:24"
+  },
+  {
+    "business_name": "Legal Companion Services Private Limited",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Registration office",
+    "all_categories": "Registration office, Accountant, Business management consultant, Consultant, Tax consultant",
+    "pincode": "442710",
+    "phone_number": "+91 88151 04801",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1st Floor, House No. 36, opposite Uniclean Dryclean, Nagar Nigam Colony, Samta Colony, Raipur, Chhattisgarh 492001",
+    "area": "Nagar Nigam Colony, Samta Colony",
+    "latitude": 21.2464078,
+    "longitude": 81.6252797,
+    "place_id": "ChIJqcSCvWTdKDoRfSFSVR3Oziw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqcSCvWTdKDoRfSFSVR3Oziw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:57:26"
+  }
+]

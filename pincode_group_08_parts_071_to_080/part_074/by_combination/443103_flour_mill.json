@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Floar Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill, Food court",
+    "pincode": "443103",
+    "phone_number": "+91 97635 03087",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MH SH 176, Buldana, Motala, Maharashtra 443103",
+    "area": "443103",
+    "latitude": 20.694692099999997,
+    "longitude": 76.20862,
+    "place_id": "ChIJS0l1CW3x2TsRyiS9a7gUix8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS0l1CW3x2TsRyiS9a7gUix8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:28:28"
+  },
+  {
+    "business_name": "Ansari Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "443103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "J4FH+JGG, Ansar Colony, Gothan, Rohinkhed, Maharashtra 443103",
+    "area": "Ansar Colony, Gothan",
+    "latitude": 20.6240663,
+    "longitude": 76.1288154,
+    "place_id": "ChIJIf1KKn7z2TsRVbUEmoR9COw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIf1KKn7z2TsRVbUEmoR9COw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:28:31"
+  }
+]

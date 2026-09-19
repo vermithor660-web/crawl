@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samakka Gharguti Bhojnalaya",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "442901",
+    "phone_number": "+91 77740 05543",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "W8V3+FH6, Ballarpur Rd, Gautam Nagar, Bazar Ward, Chandrapur, Maharashtra 442403",
+    "area": "Gautam Nagar, Bazar Ward",
+    "latitude": 19.9436639,
+    "longitude": 79.3038925,
+    "place_id": "ChIJLThjCDzU0jsRu5tegQG83BQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLThjCDzU0jsRu5tegQG83BQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:57:53"
+  },
+  {
+    "business_name": "South Indian Hotel",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "442901",
+    "phone_number": "+91 94941 41014",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Road, BTS, Chandrapur, Bamhani, Maharashtra 442701",
+    "area": "BTS",
+    "latitude": 19.8401471,
+    "longitude": 79.3692403,
+    "place_id": "ChIJO47GRFXT0jsR79Q3nhxdRRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO47GRFXT0jsR79Q3nhxdRRw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:57:53"
+  }
+]

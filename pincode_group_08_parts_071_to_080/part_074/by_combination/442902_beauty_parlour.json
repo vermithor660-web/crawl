@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Look Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "442902",
+    "phone_number": "+91 97641 19110",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Mahatma Phule Chk, near Madhav Medical, Thhakkar Colony, Road, Chandrapur, Maharashtra 442401",
+    "area": "Thhakkar Colony, Road",
+    "latitude": 19.959049999999998,
+    "longitude": 79.2874649,
+    "place_id": "ChIJGaSJpGzX0jsRRzaWANpR-0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGaSJpGzX0jsRRzaWANpR-0Y",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:00:24"
+  },
+  {
+    "business_name": "Chaitanya beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "442902",
+    "phone_number": "+91 93229 84615",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nagpur - Chandrapur Rd, Ghodpeth, Bhadravati, Maharashtra 442902",
+    "area": "442902",
+    "latitude": 20.0613788,
+    "longitude": 79.1716261,
+    "place_id": "ChIJySJ2sqsn0zsR3dnQStsQLPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJySJ2sqsn0zsR3dnQStsQLPw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:00:26"
+  }
+]

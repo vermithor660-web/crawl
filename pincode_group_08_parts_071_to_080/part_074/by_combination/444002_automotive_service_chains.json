@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Rajeshwar Automobiles",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "444002",
+    "phone_number": "+91 95611 11123",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "tehsil Rd, New Radhakisan Plots, Akola, Maharashtra 444001",
+    "area": "New Radhakisan Plots",
+    "latitude": 20.7063938,
+    "longitude": 76.99826,
+    "place_id": "ChIJSfpGhe8x1zsRZxIRgJU559I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSfpGhe8x1zsRZxIRgJU559I",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:03:24"
+  },
+  {
+    "business_name": "Akil Auto",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "444002",
+    "phone_number": "+91 97633 94033",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No008, Necklace Rd, near Samsung Stor, Ambedkar Nagar, Akola, Maharashtra 444001",
+    "area": "Ambedkar Nagar",
+    "latitude": 20.708146799999998,
+    "longitude": 77.0097282,
+    "place_id": "ChIJ45aAk50x1zsR9aARIOKdSWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ45aAk50x1zsR9aARIOKdSWE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:03:25"
+  }
+]

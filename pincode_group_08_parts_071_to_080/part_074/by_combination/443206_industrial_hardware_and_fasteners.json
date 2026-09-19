@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "APS FASTENERS",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "443206",
+    "phone_number": "+91 87664 99519",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "W 26, MIDC, near Kamgar Chowk, Waluj, Waladgaon, Maharashtra 431136",
+    "area": "Waluj",
+    "latitude": 19.829645499999998,
+    "longitude": 75.2448307,
+    "place_id": "ChIJx04qHESb2zsRLqjjZtg3_Ek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx04qHESb2zsRLqjjZtg3_Ek",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:44:23"
+  },
+  {
+    "business_name": "SIDDHIVINAYAK HARDWARE",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "443206",
+    "phone_number": "+91 92840 40670",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1, Malsawali Fata, Rajur Road, Pirbawada, Maharashtra 431134",
+    "area": "443206",
+    "latitude": 20.090145,
+    "longitude": 75.562463,
+    "place_id": "ChIJDc-Kuoi32zsRRHcSCux3RYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDc-Kuoi32zsRRHcSCux3RYk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:44:24"
+  }
+]

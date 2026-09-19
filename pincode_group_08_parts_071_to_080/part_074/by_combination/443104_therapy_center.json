@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr.dandage Hospital",
+    "search_category": "Therapy Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "443104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "PXR8+66C, Betavad, Ranjani, Maharashtra 425310",
+    "area": "Betavad",
+    "latitude": 20.740574499999997,
+    "longitude": 75.9655051,
+    "place_id": "ChIJXXYbwb-R2TsRUAfyUo2HEGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXXYbwb-R2TsRUAfyUo2HEGA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:31:15"
+  },
+  {
+    "business_name": "Jay Sevalal Hospital",
+    "search_category": "Therapy Center",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Hospital",
+    "pincode": "443104",
+    "phone_number": "+91 77760 85808",
+    "website": "https://book-appointment.healthplix.com/dr-anil-rathod-general-physician-devulgaon-gujri-jamner",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Behind birari jeweler's,devalgav gujari Devalgav, Gujri, Maharashtra 425310",
+    "area": "443104",
+    "latitude": 20.6317859,
+    "longitude": 75.9879146,
+    "place_id": "ChIJ1RwY2KOO2TsR6JwhxUwdZgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1RwY2KOO2TsR6JwhxUwdZgw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:31:15"
+  }
+]

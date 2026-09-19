@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hair Lounge family salon",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop, Artist, Balloon artist, Beauty Parlour, Facial spa, Hairdresser",
+    "pincode": "442702",
+    "phone_number": "+91 99123 16111",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1ST FLOOR, HDFC BANK & RASA DRY FRUITS, between, beside HDFC BANK, near SRI RAMA BOOK STALL, Jyothinagar, Karimnagar, Telangana 505001",
+    "area": "Jyothinagar",
+    "latitude": 18.4378559,
+    "longitude": 79.1188303,
+    "place_id": "ChIJh1wfGJbZzDsRaNeiFWvlegE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh1wfGJbZzDsRaNeiFWvlegE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:46:09"
+  },
+  {
+    "business_name": "Dileep mans parlour & salon tattoo",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Nail salon",
+    "all_categories": "Nail salon",
+    "pincode": "442702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9G4H+CG6, Easgaon Camp, Nazrulnagar, Easgaon, Telangana 504296",
+    "area": "Easgaon Camp",
+    "latitude": 19.3560029,
+    "longitude": 79.5288941,
+    "place_id": "ChIJ2dRVkPhRLToR24l1ZOO1NcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2dRVkPhRLToR24l1ZOO1NcI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:46:11"
+  }
+]

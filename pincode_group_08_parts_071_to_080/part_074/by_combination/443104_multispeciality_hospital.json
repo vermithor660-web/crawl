@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Siddhivinayak Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "443104",
+    "phone_number": "+91 98234 01235",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 9,
+    "address": "Jamner Road Dhamangaon Badhe Maharashtra State Highway 188, Dhamangaon Badhe, Maharashtra 443104",
+    "area": "443104",
+    "latitude": 20.669446,
+    "longitude": 76.030498,
+    "place_id": "ChIJZ2EIiq6N2TsRMkrbQlX0qVI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ2EIiq6N2TsRMkrbQlX0qVI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:30:42"
+  },
+  {
+    "business_name": "Kothari Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "443104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 6,
+    "address": "G5MH+J3X, Chaitanyawadi, Buldhana, Maharashtra 443001",
+    "area": "Chaitanyawadi",
+    "latitude": 20.5341128,
+    "longitude": 76.177724,
+    "place_id": "ChIJI8a8BAAe2jsRodqX9n__lvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI8a8BAAe2jsRodqX9n__lvk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:30:43"
+  }
+]

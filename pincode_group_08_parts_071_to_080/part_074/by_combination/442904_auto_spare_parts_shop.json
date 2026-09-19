@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AK Automobile &Mobile Shop",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "442904",
+    "phone_number": "+91 95277 18728",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shindewahi Chandrapur, Shindewahi Raod, Navargaon, Maharashtra 441223",
+    "area": "442904",
+    "latitude": 20.361026799999998,
+    "longitude": 79.5865343,
+    "place_id": "ChIJR3zhNNfHLDoRpAbEPTwkd54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR3zhNNfHLDoRpAbEPTwkd54",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:03:41"
+  },
+  {
+    "business_name": "Girish Auto",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "442904",
+    "phone_number": "+91 95886 21181",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Girish Auto, Navargaon, Maharashtra 441223",
+    "area": "442904",
+    "latitude": 20.3584453,
+    "longitude": 79.5871375,
+    "place_id": "ChIJ7T6biVPHLDoRgBbj-774A98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7T6biVPHLDoRgBbj-774A98",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:03:41"
+  }
+]

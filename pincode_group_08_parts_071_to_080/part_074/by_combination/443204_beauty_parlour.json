@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maurya Hair saloon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "443204",
+    "phone_number": "+91 99751 15048",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "cruiser point, civil colony road, Deulgaon Raja, Maharashtra 443204",
+    "area": "443204",
+    "latitude": 20.018565799999998,
+    "longitude": 76.03390519999999,
+    "place_id": "ChIJWZsuRABD2jsRY0KpYM0Z60s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWZsuRABD2jsRY0KpYM0Z60s",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:41:58"
+  },
+  {
+    "business_name": "SunShine Beuty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop",
+    "pincode": "443204",
+    "phone_number": "+91 91467 89037",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mante Complex, Chikhli Road, near Shivtej Medical, Deulgaon Raja, Maharashtra 443204",
+    "area": "443204",
+    "latitude": 20.020507,
+    "longitude": 76.0484513,
+    "place_id": "ChIJ5flTJLtD2jsRsdfIFkDIg9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5flTJLtD2jsRsdfIFkDIg9c",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:41:58"
+  }
+]

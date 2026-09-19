@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Durga Alankar Shop",
+    "search_category": "Organic Food Store",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Supermarket",
+    "pincode": "442916",
+    "phone_number": "+91 98605 56126",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "P5JC+C6F, Gadchandur, Maharashtra 442908",
+    "area": "442916",
+    "latitude": 19.7310527,
+    "longitude": 79.1705437,
+    "place_id": "ChIJAWJUAEjF0jsRwI2yNkIZhgg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAWJUAEjF0jsRwI2yNkIZhgg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:13:50"
+  },
+  {
+    "business_name": "Patanjali Arogya Kendra",
+    "search_category": "Organic Food Store",
+    "primary_category": "Health food store",
+    "all_categories": "Health food store, Ayurvedic clinic, Indian grocery store, Outlet mall",
+    "pincode": "442916",
+    "phone_number": "+91 95795 98271",
+    "website": "https://patanjalistores.patanjaliayurved.org/patanjali-arogya-kendra-ram-krishna-enterprises-indian-grocery-store-korpana-chandrapur-271196/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ground Floor Main Road, Gadchandur, Korpana, Near Nagar Parishad, Maharashtra 442917",
+    "area": "442916",
+    "latitude": 19.7801559,
+    "longitude": 79.1337123,
+    "place_id": "ChIJEZH_HEXF0jsRtpQAN8Wa_uc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEZH_HEXF0jsRtpQAN8Wa_uc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:13:50"
+  }
+]

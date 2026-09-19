@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vedika Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "443302",
+    "phone_number": "+91 75594 50107",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5, near Police Station, Lonar, Maharashtra 443302",
+    "area": "Shivaji Nagar",
+    "latitude": 19.9863941,
+    "longitude": 76.518847,
+    "place_id": "ChIJFemmXdyD0DsRFGrN0Bnmy9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFemmXdyD0DsRFGrN0Bnmy9c",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:47:24"
+  },
+  {
+    "business_name": "Urmi Beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "443302",
+    "phone_number": "+91 86052 68781",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Ambika urban Bank, Sultanpur, Maharashtra 443302",
+    "area": "443302",
+    "latitude": 20.0873305,
+    "longitude": 76.5186015,
+    "place_id": "ChIJLcJLhxCd0DsR0rJjvdVODR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLcJLhxCd0DsR0rJjvdVODR0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:47:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Printwell Printers",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Offset Printer",
+    "all_categories": "Offset Printer, Book publisher, Commercial printer, Graphic designer, Invitation printing service, Lamination service, Suppliers",
+    "pincode": "443206",
+    "phone_number": "+91 2554 254 235",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "C-Shed, Market Yard, 6-9, Camp Rd, Vardhaman Nagar, Malegaon, Maharashtra 423105",
+    "area": "Vardhaman Nagar",
+    "latitude": 20.562974099999998,
+    "longitude": 74.5214038,
+    "place_id": "ChIJ9ZMzr-mZ3jsRV6EqSftoBHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ZMzr-mZ3jsRV6EqSftoBHc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:44:06"
+  },
+  {
+    "business_name": "ALI PRESS PVT LTD",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop",
+    "pincode": "443206",
+    "phone_number": "+91 77200 07899",
+    "website": "https://alipress.lovable.app/",
+    "rating": 4.3,
+    "reviews_count": 20,
+    "address": "STEEL LANE, below MASJID MEMRAN, near VITTHAL MANDIR, Shah Inayat Mohalla, Shastri Nagar, Parbhani, Maharashtra 431401",
+    "area": "Shah Inayat Mohalla, Shastri Nagar",
+    "latitude": 19.2685332,
+    "longitude": 76.77084459999999,
+    "place_id": "ChIJ0QvMQdAX0DsRZCUujmB7lAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0QvMQdAX0DsRZCUujmB7lAI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:44:06"
+  }
+]

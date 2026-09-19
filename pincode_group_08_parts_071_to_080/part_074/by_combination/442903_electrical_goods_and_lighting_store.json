@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rachit Electrical",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "442903",
+    "phone_number": "+91 91585 86155",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Rachit Electrical, Kanhalgaon, Maharashtra 442904",
+    "area": "442903",
+    "latitude": 20.4009766,
+    "longitude": 79.6218949,
+    "place_id": "ChIJb06wovnHLDoRWL8QzSsQAmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb06wovnHLDoRWL8QzSsQAmU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:02:03"
+  },
+  {
+    "business_name": "साई ईलेक्ट्रीक अॅन्ड हार्डवेअर",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "442903",
+    "phone_number": "+91 73877 61915",
+    "website": "https://electrician-bhaiyuji-69661.grexa.site/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhaiyuji high school, road, Pimpalneri, Chimur, Maharashtra 442903",
+    "area": "Pimpalneri",
+    "latitude": 20.5257768,
+    "longitude": 79.3950117,
+    "place_id": "ChIJR69ZR7VM0zsRZ2ZrvviBvS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR69ZR7VM0zsRZ2ZrvviBvS0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:02:03"
+  }
+]

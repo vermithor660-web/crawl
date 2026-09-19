@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditya Industries",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "442704",
+    "phone_number": "+91 75880 78523",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 49,
+    "address": "Shop No 1, Nagar, Manmad Rd, Vilad, Maharashtra 414111",
+    "area": "442704",
+    "latitude": 19.2068846,
+    "longitude": 74.6790501,
+    "place_id": "ChIJJy2R9S2_3DsR7aD2zuqlG-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJy2R9S2_3DsR7aD2zuqlG-0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:50:24"
+  },
+  {
+    "business_name": "Lote MIDC",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer",
+    "pincode": "442704",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 30,
+    "address": "JF9M+642, Lote, Avashi, Maharashtra 415722",
+    "area": "442704",
+    "latitude": 17.6180125,
+    "longitude": 73.4827656,
+    "place_id": "ChIJ_dxyVfEJwjsRtmEgfZ35lLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_dxyVfEJwjsRtmEgfZ35lLw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:50:24"
+  }
+]

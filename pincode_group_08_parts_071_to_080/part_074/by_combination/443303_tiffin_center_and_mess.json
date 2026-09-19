@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sau Cloud Kitchen",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Restaurant",
+    "pincode": "443303",
+    "phone_number": "+91 90221 57293",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "Foor 2, Virabhadra Society, Barnes Corner Rd, Sai Park Colony, Thergaon, Pimpri-Chinchwad, Maharashtra 411033",
+    "area": "Sai Park Colony, Thergaon",
+    "latitude": 18.607686299999997,
+    "longitude": 73.7729985,
+    "place_id": "ChIJUW2kwpO5wjsRVagiuKgHWGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUW2kwpO5wjsRVagiuKgHWGw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:48:29"
+  },
+  {
+    "business_name": "Shri Jain Tiffin Centre",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin center",
+    "all_categories": "Tiffin center",
+    "pincode": "443303",
+    "phone_number": "+91 79768 25267",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Stylish Boutique, Mahaveer Path, Vaishali Nagar, Ajmer, Rajasthan 305004",
+    "area": "Vaishali Nagar",
+    "latitude": 26.488945299999997,
+    "longitude": 74.6152311,
+    "place_id": "ChIJnTh5cnznazkRBO4_wR05yfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnTh5cnznazkRBO4_wR05yfY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:48:29"
+  }
+]

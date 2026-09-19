@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taj Maching Center",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "442904",
+    "phone_number": "+91 91464 65242",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Road, Sindewahi, Chandrapur, Maharashtra 441222",
+    "area": "442904",
+    "latitude": 20.2897936,
+    "longitude": 79.6547403,
+    "place_id": "ChIJ52poWHbDLDoRzEp3rQE_JL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ52poWHbDLDoRzEp3rQE_JL0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:03:19"
+  },
+  {
+    "business_name": "Rimi Digital",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "442904",
+    "phone_number": "+91 87707 34586",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sindewahi Chandrapur, Chimur Road, Navargaon, Maharashtra 441223",
+    "area": "442904",
+    "latitude": 20.362275399999998,
+    "longitude": 79.5785337,
+    "place_id": "ChIJUWuNYWLHLDoR4ej5_rlU1NQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUWuNYWLHLDoR4ej5_rlU1NQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:03:19"
+  }
+]

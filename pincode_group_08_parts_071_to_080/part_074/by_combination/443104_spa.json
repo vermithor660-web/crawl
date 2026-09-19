@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KHUSHI SPA",
+    "search_category": "Spa",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "443104",
+    "phone_number": "+91 78753 43782",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1main, Road, near Bus Stop, Korhala, Maharashtra 443104",
+    "area": "443104",
+    "latitude": 20.6116614,
+    "longitude": 76.06178469999999,
+    "place_id": "ChIJLaBKeBWL2TsRdTnro-VWxsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLaBKeBWL2TsRdTnro-VWxsU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:31:10"
+  },
+  {
+    "business_name": "Devika Jends Parlor",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "443104",
+    "phone_number": "+91 93739 59328",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.2, Main Chowk, Deulgaon, Maharashtra 425310",
+    "area": "443104",
+    "latitude": 20.6320853,
+    "longitude": 75.9867555,
+    "place_id": "ChIJ90HoUkKP2TsRS049nKMf280",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ90HoUkKP2TsRS049nKMf280",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:31:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Clothes store",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "442704",
+    "phone_number": "+91 62680 15638",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Main road, Irpanar, Maharashtra 494777",
+    "area": "442704",
+    "latitude": 19.8041834,
+    "longitude": 80.4431221,
+    "place_id": "ChIJL-wJm4W5LToRC_t_fZ8hyUM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL-wJm4W5LToRC_t_fZ8hyUM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:49:09"
+  },
+  {
+    "business_name": "Attraction Men's Wear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "442704",
+    "phone_number": "+91 62670 50669",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kanker Road, New Market, Pakhanjur, Chhattisgarh 494776",
+    "area": "New Market",
+    "latitude": 20.033976499999998,
+    "longitude": 80.62555429999999,
+    "place_id": "ChIJQbSUNi7NLToRmeaRQCyJd_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQbSUNi7NLToRmeaRQCyJd_E",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:49:10"
+  }
+]

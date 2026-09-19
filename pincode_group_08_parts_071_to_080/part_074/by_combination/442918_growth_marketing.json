@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Growth Mythos",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Advertising agency, Service establishment",
+    "pincode": "442918",
+    "phone_number": "+91 78277 05730",
+    "website": "https://www.growthmythos.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Growth Mythos, 442918, India",
+    "area": "442918",
+    "latitude": 28.1575438,
+    "longitude": 77.0595484,
+    "place_id": "ChIJ88f9-qy8AUoRaQfpoZXf2T0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ88f9-qy8AUoRaQfpoZXf2T0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:19:09"
+  },
+  {
+    "business_name": "Grow",
+    "search_category": "Growth Marketing",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "442918",
+    "phone_number": "+91 74282 22335",
+    "website": "https://growhospitalitymarketing.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Grow, 442918, India",
+    "area": "442918",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJac3k2FRHeAgRFT9zs_5QuM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJac3k2FRHeAgRFT9zs_5QuM4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:19:10"
+  }
+]

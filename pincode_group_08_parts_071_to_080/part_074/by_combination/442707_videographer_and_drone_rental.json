@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ronak Parmar",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Video production service",
+    "all_categories": "Video production service, Service establishment, Website designer",
+    "pincode": "442707",
+    "phone_number": "+91 90399 19669",
+    "website": "https://ronakparmar.com/work",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ronak Parmar, 442707, India",
+    "area": "442707",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJR_Ydu8dDfDkR8xT2dFNkLt8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_Ydu8dDfDkR8xT2dFNkLt8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:53:32"
+  },
+  {
+    "business_name": "Kingz Drone System",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Drone shop",
+    "pincode": "442707",
+    "phone_number": "+91 98207 39547",
+    "website": "https://www.kingzdronesystem.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Naupada, Thane West, Thane, Maharashtra 400602",
+    "area": "Naupada, Thane West",
+    "latitude": 19.1872913,
+    "longitude": 72.9651124,
+    "place_id": "ChIJiVk2S0S75zsRWmtp1xiWxmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiVk2S0S75zsRWmtp1xiWxmM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:53:33"
+  }
+]

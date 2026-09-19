@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "442906",
+    "phone_number": "+91 94204 15688",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "House No 52, At, Post Khemjai Ta, Warora, Khemjai, Maharashtra 442914",
+    "area": "Warora",
+    "latitude": 20.351522,
+    "longitude": 79.103736,
+    "place_id": "ChIJ-94RtZk_0zsRU7Asy-n6ENM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-94RtZk_0zsRU7Asy-n6ENM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:07:58"
+  },
+  {
+    "business_name": "The mobile care",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "442906",
+    "phone_number": "N/A",
+    "website": "https://chat.whatsapp.com/FHpIriTNkyZD7v8BOtMlNt?s=hd&p=i&ilr=0&amv=1",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "84HW+X9F, Umred - Chimur - Warora Rd, Shegaon Bk, Maharashtra 442906",
+    "area": "442906",
+    "latitude": 20.3299341,
+    "longitude": 79.14591779999999,
+    "place_id": "ChIJbScbJQA50zsRGcLaRazXDYY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbScbJQA50zsRGcLaRazXDYY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:08:01"
+  }
+]

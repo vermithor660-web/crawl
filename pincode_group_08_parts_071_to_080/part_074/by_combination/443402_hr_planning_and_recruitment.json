@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maven HR Solution.",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter",
+    "pincode": "443402",
+    "phone_number": "+91 98504 31324",
+    "website": "http://www.mavenhrsolution.com/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "174/2, behind D Mart, Adarsh Nagar, Jalgaon, Maharashtra 425002",
+    "area": "Utkarsh Colony, Adarsh Nagar",
+    "latitude": 20.9907591,
+    "longitude": 75.5642979,
+    "place_id": "ChIJYXJV5bQP2TsRJi_Q5j5tA5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYXJV5bQP2TsRJi_Q5j5tA5M",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:56:53"
+  },
+  {
+    "business_name": "EngageHR",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter",
+    "pincode": "443402",
+    "phone_number": "+91 82372 90375",
+    "website": "https://engagehrindia.com/",
+    "rating": 4.9,
+    "reviews_count": 14,
+    "address": "2nd Floor, Noronha Dias Building, 11/652, Circle, Old Market, Colva, Margao, Goa 403601",
+    "area": "Old Market",
+    "latitude": 15.283318399999999,
+    "longitude": 73.95712259999999,
+    "place_id": "ChIJfT9bZLyzvzsRGWNItfJPyR4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfT9bZLyzvzsRGWNItfJPyR4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:56:54"
+  }
+]

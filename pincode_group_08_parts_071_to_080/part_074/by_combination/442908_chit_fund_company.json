@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Finance Manager Office",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "442908",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "D/3/774, Ashtabhuja Nagar, Babupeth, Chandrapur, Maharashtra 442403",
+    "area": "Ashtabhuja Nagar, Babupeth",
+    "latitude": 19.9492612,
+    "longitude": 79.31287859999999,
+    "place_id": "ChIJP1cGIUjU0jsR6YOfuBLnE_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP1cGIUjU0jsR6YOfuBLnE_E",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:11:37"
+  },
+  {
+    "business_name": "BhavithaSri Chit Funds Pvt Ltd",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Investment company",
+    "all_categories": "Investment company",
+    "pincode": "442908",
+    "phone_number": "+91 96660 01752",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Kumaram Bheem, Door no:12-192/-1, NH Road, near Jubilee Market, Asifabad, Telangana 504293",
+    "area": "442908",
+    "latitude": 19.361921799999998,
+    "longitude": 79.2930186,
+    "place_id": "ChIJj9tE17at0jsR4fr7nGxzSEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9tE17at0jsR4fr7nGxzSEc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:11:37"
+  }
+]

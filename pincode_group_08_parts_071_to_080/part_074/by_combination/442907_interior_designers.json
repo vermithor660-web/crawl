@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "pa designers",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "442907",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "38, Sai Nagar Colony, Buddha Vihar, Warora, Maharashtra 442907",
+    "area": "Sai Nagar Colony, Buddha Vihar",
+    "latitude": 20.224653,
+    "longitude": 78.9983542,
+    "place_id": "ChIJqzlz26wX0zsRs8_TZwcfn0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqzlz26wX0zsRs8_TZwcfn0I",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:09:17"
+  },
+  {
+    "business_name": "Innovex Design Studio",
+    "search_category": "Interior Designers",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "442907",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Block no.3, Patil Complex, Railway Station Road, Tilak Ward, Warora, Maharashtra 442907",
+    "area": "Vivekanand Colony",
+    "latitude": 20.2490401,
+    "longitude": 79.0111012,
+    "place_id": "ChIJaz2K2KkX0zsRqmUWhl8_USo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaz2K2KkX0zsRqmUWhl8_USo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:09:19"
+  }
+]

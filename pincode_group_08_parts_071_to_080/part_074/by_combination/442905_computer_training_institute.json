@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SNAP Computer Education, Bamni",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Software Training Institute",
+    "all_categories": "Software Training Institute",
+    "pincode": "442905",
+    "phone_number": "+91 99229 44973",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Fatales House, Jiotode layout C/O, Bamni, Maharashtra 442701",
+    "area": "Bamni",
+    "latitude": 19.8380617,
+    "longitude": 79.37853129999999,
+    "place_id": "ChIJbzf3TynT0jsRJUo71sJvK4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbzf3TynT0jsRJUo71sJvK4Q",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:06:02"
+  },
+  {
+    "business_name": "Google Computer",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "442905",
+    "phone_number": "+91 95952 04010",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 25,
+    "address": "Ragnath Swami Bank, Near, Asifabad Road, Rajura, Maharashtra 442905",
+    "area": "442905",
+    "latitude": 19.7770393,
+    "longitude": 79.36501539999999,
+    "place_id": "ChIJpTgI47nN0jsRccASFGUM10s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpTgI47nN0jsRccASFGUM10s",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:06:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Homecare Maid Facility",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Home health care service",
+    "all_categories": "Home health care service, Store, Unemployment office",
+    "pincode": "442703",
+    "phone_number": "+91 82868 64143",
+    "website": "http://www.homecaremaidfacility.in/",
+    "rating": 4.7,
+    "reviews_count": 21,
+    "address": "427, Ashok Nagar, Tagore Nagar, Vikhroli East, Mumbai, Maharashtra 400083",
+    "area": "Ashok Nagar, Tagore Nagar, Vikhroli East",
+    "latitude": 19.1147402,
+    "longitude": 72.9318765,
+    "place_id": "ChIJUUik0mnH5zsRehogxfsdxJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUUik0mnH5zsRehogxfsdxJs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:48:30"
+  },
+  {
+    "business_name": "Shiva washing centre",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Pressure washing service",
+    "all_categories": "Pressure washing service",
+    "pincode": "442703",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C3P7+VJ4 Velgur, road, Modumadgu, Alapalli, Maharashtra 442703",
+    "area": "442703",
+    "latitude": 19.4371093,
+    "longitude": 80.06406109999999,
+    "place_id": "ChIJgQXSDwB5LToRrW-ROtlN5B4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgQXSDwB5LToRrW-ROtlN5B4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:48:30"
+  }
+]

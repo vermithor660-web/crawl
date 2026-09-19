@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Venktesh Pets",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "444002",
+    "phone_number": "+91 98811 66669",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "T-1, Dabki Rd, Wakapur, Ganesh Nagar, Wankhade Nagar, Akola, Maharashtra 444002",
+    "area": "Wakapur, Ganesh Nagar, Wankhade Nagar",
+    "latitude": 20.7098104,
+    "longitude": 76.9814055,
+    "place_id": "ChIJHYOiG5Qx1zsRHpV19BDDfPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHYOiG5Qx1zsRHpV19BDDfPk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:02:45"
+  },
+  {
+    "business_name": "Akola Pashu Bazar",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "444002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 6,
+    "address": "Old NH-6, Near, Yashwant Nagar, Akola, Maharashtra 444002",
+    "area": "Yashwant Nagar, Dahigaon Gawande",
+    "latitude": 20.6933249,
+    "longitude": 76.9900383,
+    "place_id": "ChIJaeU4CfUx1zsRVUZmNiZ4ITc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaeU4CfUx1zsRVUZmNiZ4ITc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:02:45"
+  }
+]

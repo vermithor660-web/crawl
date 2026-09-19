@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "animal hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital, Hospital",
+    "pincode": "443106",
+    "phone_number": "+91 78219 22102",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "animal hospital sunegaon, tq, Loha, Maharashtra 431708",
+    "area": "443106",
+    "latitude": 18.9677589,
+    "longitude": 77.1056479,
+    "place_id": "ChIJRUSD55vTzzsRZRhzlQL_Q_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRUSD55vTzzsRZRhzlQL_Q_M",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:32:33"
+  },
+  {
+    "business_name": "Veterinary",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary pharmacy",
+    "all_categories": "Veterinary pharmacy, Veterinarian",
+    "pincode": "443106",
+    "phone_number": "+91 98221 34487",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "Jintur Rd, Swami Vivekanand Nagar, Sarvodaya Nagar, Sailu, Maharashtra 431503",
+    "area": "Swami Vivekanand Nagar, Sarvodaya Nagar",
+    "latitude": 19.4586139,
+    "longitude": 76.43476439999999,
+    "place_id": "ChIJM_rnlVif2jsRVtrpHlZct_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM_rnlVif2jsRVtrpHlZct_c",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:32:35"
+  }
+]

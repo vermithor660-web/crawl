@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Dhaba and Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "442901",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "V8VP+RX6, Ballarshah Rd, Bhivkund, Maharashtra 442701",
+    "area": "442901",
+    "latitude": 19.8945372,
+    "longitude": 79.3373897,
+    "place_id": "ChIJBxVdPADT0jsR7UyxvhJeDFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBxVdPADT0jsR7UyxvhJeDFc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:57:56"
+  },
+  {
+    "business_name": "Famous Crockery",
+    "search_category": "Family Restaurant",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "442901",
+    "phone_number": "+91 95795 78252",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gandhi Chowk Rd, Bazar Ward, Chandrapur, Maharashtra 442402",
+    "area": "Bazar Ward",
+    "latitude": 19.9485784,
+    "longitude": 79.2966672,
+    "place_id": "ChIJz6XhkaXV0jsR6JsYj-iZSHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz6XhkaXV0jsR6JsYj-iZSHc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:57:59"
+  }
+]

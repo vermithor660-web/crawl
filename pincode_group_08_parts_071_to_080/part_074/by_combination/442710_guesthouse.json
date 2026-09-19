@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel O by OYO RP",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "442710",
+    "phone_number": "+91 124 620 1126",
+    "website": "https://www.oyorooms.com/225720/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Tahsil, Plot No 44Gadegaon Depo, Lakhni, Maharashtra 441809",
+    "area": "442710",
+    "latitude": 21.077527999999997,
+    "longitude": 79.80883299999999,
+    "place_id": "ChIJiybbGwBrKzoRd1dd3XV-bK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiybbGwBrKzoRd1dd3XV-bK0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:57:02"
+  },
+  {
+    "business_name": "Bande River Camp - Llyods Metals",
+    "search_category": "Guesthouse",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "442710",
+    "phone_number": "+91 89748 24343",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "J88P+VG9, Surjagad, Bande m, Maharashtra 442704",
+    "area": "442710",
+    "latitude": 19.6171667,
+    "longitude": 80.3363677,
+    "place_id": "ChIJYZNyIACXLToRFRkF8AcD3xc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYZNyIACXLToRFRkF8AcD3xc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:57:04"
+  }
+]

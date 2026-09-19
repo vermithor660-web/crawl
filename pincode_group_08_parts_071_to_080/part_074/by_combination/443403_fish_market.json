@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DARSHAN FISH CENTER",
+    "search_category": "Fish Market",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "443403",
+    "phone_number": "+91 73787 16753",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Rd, near Fish Market, Kumbharpura, Jalgaon Jamod, Maharashtra 443402",
+    "area": "Kumbharpura",
+    "latitude": 21.0499303,
+    "longitude": 76.5391047,
+    "place_id": "ChIJMYpK9y5j1zsRZTOOSMRkOfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMYpK9y5j1zsRZTOOSMRkOfk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:57:20"
+  },
+  {
+    "business_name": "JAVED FISH CENTRE",
+    "search_category": "Fish Market",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "443403",
+    "phone_number": "+91 99751 52087",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Rd, near Fish Market, Jalgaon Jamod, Maharashtra 443402",
+    "area": "443403",
+    "latitude": 21.048478199999998,
+    "longitude": 76.538665,
+    "place_id": "ChIJAxedBMtj1zsRtJ4RDC5n5pQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAxedBMtj1zsRtJ4RDC5n5pQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:57:20"
+  }
+]

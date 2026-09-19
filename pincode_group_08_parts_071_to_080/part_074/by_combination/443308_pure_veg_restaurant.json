@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Annadata Dhaba",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "443308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "285P+8M8, Jambhora, Govardhan Nagar, Maharashtra 443308",
+    "area": "443308",
+    "latitude": 20.0082851,
+    "longitude": 76.3366988,
+    "place_id": "ChIJpU4M8ZRw2jsRcNMVA6PcOQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpU4M8ZRw2jsRcNMVA6PcOQA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:52:01"
+  },
+  {
+    "business_name": "SHREESHAILYA PURE VEG",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "443308",
+    "phone_number": "+91 91466 86888",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 41,
+    "address": "Majalgaon - Parbhani Rd, near YASHWADI, PATHRI, MANWATH, Maharashtra 431505",
+    "area": "443308",
+    "latitude": 19.339057099999998,
+    "longitude": 76.5755623,
+    "place_id": "ChIJ4ZdpresP0DsRhSYUn1jOJBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4ZdpresP0DsRhSYUn1jOJBw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:52:04"
+  }
+]

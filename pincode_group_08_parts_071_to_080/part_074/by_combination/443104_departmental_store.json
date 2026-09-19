@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anil Kiran Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "443104",
+    "phone_number": "+91 98347 58618",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 01, Road, Thad, Dhamangaon Badhe, Buldhana, Maharashtra 443104",
+    "area": "Thad",
+    "latitude": 20.5776185,
+    "longitude": 76.0624328,
+    "place_id": "ChIJZXLtkt6L2TsRt3PFf6vFVG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXLtkt6L2TsRt3PFf6vFVG8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:30:17"
+  },
+  {
+    "business_name": "कृष्णा किराणा & जनरल",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "443104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "M2FP+W8M, MH SH 188, Dhamangaon Badhe, Maharashtra 443104",
+    "area": "443104",
+    "latitude": 20.674846799999997,
+    "longitude": 76.0357954,
+    "place_id": "ChIJrUA9KaaN2TsR6qwYNHdZgtU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrUA9KaaN2TsR6qwYNHdZgtU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:30:19"
+  }
+]

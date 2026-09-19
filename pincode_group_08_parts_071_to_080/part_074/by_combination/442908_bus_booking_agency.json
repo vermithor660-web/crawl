@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suraj Tours & Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "442908",
+    "phone_number": "+91 74101 03303",
+    "website": "https://suraj-tours-travels.grexa.site/",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Rajura Road, Gadchandur, Maharashtra 442908",
+    "area": "442908",
+    "latitude": 19.737123,
+    "longitude": 79.17500559999999,
+    "place_id": "ChIJk2F2WAbF0jsRWZM_h4tS7GQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk2F2WAbF0jsRWZM_h4tS7GQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:10:53"
+  },
+  {
+    "business_name": "Bus stop Gadchandur",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus depot",
+    "all_categories": "Bus depot",
+    "pincode": "442908",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 678,
+    "address": "P5PC+VQW, Gadchandur, Maharashtra 442908",
+    "area": "442908",
+    "latitude": 19.7372293,
+    "longitude": 79.1719554,
+    "place_id": "ChIJsQPhTQDF0jsRzf4hgM79y1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsQPhTQDF0jsRzf4hgM79y1M",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:10:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kaushalya Kidney Care Superspeciality Hospital",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "443202",
+    "phone_number": "+91 87666 16709",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "DR HEDGEWAR MARG, NEW, Doctor Ln, beside SOMANI COLOR HOME, Parbhani, Maharashtra 431401",
+    "area": "New Mondha",
+    "latitude": 19.260977699999998,
+    "longitude": 76.77163139999999,
+    "place_id": "ChIJWfNHkFEZ0DsRqse_5Zsli2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWfNHkFEZ0DsRqse_5Zsli2M",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:38:01"
+  },
+  {
+    "business_name": "Eskag Sanjeevani Dialysis Center Bulandshashar",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "443202",
+    "phone_number": "+91 1800 102 2294",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 32,
+    "address": "Laxmi Nagar, Bulandshahr, Uttar Pradesh 203001",
+    "area": "Laxmi Nagar",
+    "latitude": 28.404997899999998,
+    "longitude": 77.8509373,
+    "place_id": "ChIJlY5LSUinDDkRs_mjPzKS4zk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlY5LSUinDDkRs_mjPzKS4zk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:38:01"
+  }
+]

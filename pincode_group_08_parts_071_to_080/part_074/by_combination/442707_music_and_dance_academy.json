@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Musical Dreams",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Artist, Dance school, Entertainment agency, Music management and promotion, Musical Band and Orchestra",
+    "pincode": "442707",
+    "phone_number": "+91 88007 77223",
+    "website": "https://www.musicaldreams.in/",
+    "rating": 4.8,
+    "reviews_count": 110,
+    "address": "A-1/48, Basement, B3 Block, Nauroji Nagar, Safdarjung Enclave, New Delhi, Delhi 110029",
+    "area": "B3 Block, Nauroji Nagar, Safdarjung Enclave",
+    "latitude": 28.566405999999997,
+    "longitude": 77.19679699999999,
+    "place_id": "ChIJhyRB7XniDDkR89Vp4_nbxMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhyRB7XniDDkR89Vp4_nbxMQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:53:41"
+  },
+  {
+    "business_name": "Dance classes",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Hip Hop Dance Class",
+    "all_categories": "Hip Hop Dance Class",
+    "pincode": "442707",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MRJ4+F3J, Ashti Nokewada, Maharashtra 442707",
+    "area": "442707",
+    "latitude": 19.681208299999998,
+    "longitude": 79.8051547,
+    "place_id": "ChIJq3QzcbQVLToRjYUTmmLJxFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq3QzcbQVLToRjYUTmmLJxFA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:53:42"
+  }
+]

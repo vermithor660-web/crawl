@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agriculture",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "FMCG Manufacturer",
+    "all_categories": "FMCG Manufacturer",
+    "pincode": "444002",
+    "phone_number": "+91 93734 32404",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sonal Niwas, Anand Nagar, Old Hingna Rd, Post, Gandhinagar, Akola, Maharashtra 444004",
+    "area": "Akoli Kh., Post, Gandhinagar",
+    "latitude": 20.679423,
+    "longitude": 76.9997333,
+    "place_id": "ChIJsZp7ahwz1zsRmdvzdWyxTQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsZp7ahwz1zsRmdvzdWyxTQY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:02:44"
+  },
+  {
+    "business_name": "DIPAK KRUSHI KENDRA",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Agrochemicals Supplier",
+    "all_categories": "Agrochemicals Supplier",
+    "pincode": "444002",
+    "phone_number": "+91 86987 73181",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 14,
+    "address": "PX8X+57X, SANTOSHI MATA MANDIR ROAD STAND CHOUK, Akot, Maharashtra 444006",
+    "area": "Ramdaspeth",
+    "latitude": 20.715489599999998,
+    "longitude": 76.9982342,
+    "place_id": "ChIJ4Y9dA-gx1zsR5zjCEs6s6I4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Y9dA-gx1zsR5zjCEs6s6I4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:02:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Tiffin Mess",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Food manufacturer",
+    "pincode": "442710",
+    "phone_number": "+91 72496 80447",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "2, Ganesh Nagar Rd, near Sundarabai School, Ganesh Nagar, Wadgaon Sheri, Pune, Maharashtra 411014",
+    "area": "Ganesh Nagar, Wadgaon Sheri",
+    "latitude": 18.5575083,
+    "longitude": 73.92740669999999,
+    "place_id": "ChIJ19Ya9e3BwjsRo2P5_focFk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ19Ya9e3BwjsRo2P5_focFk8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:56:09"
+  },
+  {
+    "business_name": "Sharma 's tiffin centre",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "442710",
+    "phone_number": "+91 86192 59803",
+    "website": "http://sharmastiffincentre.mydurable.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "352, Sector 2, Heerapura, Heerawala, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Sector 2, Heerapura, Heerawala",
+    "latitude": 26.8904619,
+    "longitude": 75.730851,
+    "place_id": "ChIJlzNmCoa1bTkRugGGXJ1FXqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlzNmCoa1bTkRugGGXJ1FXqM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:56:09"
+  }
+]

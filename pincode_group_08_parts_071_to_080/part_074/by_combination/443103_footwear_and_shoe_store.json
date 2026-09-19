@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ZOMAX SHOE",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "443103",
+    "phone_number": "+91 75583 11971",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 143,
+    "address": "Sathe Chowk, Bir, Beed, Maharashtra 431122",
+    "area": "Bir",
+    "latitude": 18.9941008,
+    "longitude": 75.7545047,
+    "place_id": "ChIJ4TKiEgArxTsRg0OQS3ngh80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4TKiEgArxTsRg0OQS3ngh80",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:28:46"
+  },
+  {
+    "business_name": "Rupams Foot Wear Motala",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Boot store",
+    "all_categories": "Boot store, Shoe store",
+    "pincode": "443103",
+    "phone_number": "+91 70206 15683",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Nandura Rd, Phata, Motala, Maharashtra 443103",
+    "area": "Phata",
+    "latitude": 20.6739098,
+    "longitude": 76.20522849999999,
+    "place_id": "ChIJZ3-pTQrx2TsRq5Q-86-VxWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ3-pTQrx2TsRq5Q-86-VxWg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:28:48"
+  }
+]

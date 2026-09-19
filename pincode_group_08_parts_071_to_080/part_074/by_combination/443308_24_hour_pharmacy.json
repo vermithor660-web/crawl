@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Medicals and General Stores",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "443308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Janta Colony, Nagalkar Layout, Buldana, NH-6, Dhule Nagpur Kolkata, Buldhana, Buldhana, Maharashtra 443404",
+    "area": "Qureshi Nagar",
+    "latitude": 20.837001,
+    "longitude": 76.45629799999999,
+    "place_id": "ChIJVQAHAADi2TsRyGB6drRDiCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQAHAADi2TsRyGB6drRDiCw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:52:16"
+  },
+  {
+    "business_name": "Pharmacist",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "443308",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Poundul No 3, Paundul, Maharashtra 414205",
+    "area": "Poundul No 3",
+    "latitude": 19.084274699999998,
+    "longitude": 75.596614,
+    "place_id": "ChIJPR_LEyIs2zsRUjcqjy_gf1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPR_LEyIs2zsRUjcqjy_gf1g",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:52:19"
+  }
+]

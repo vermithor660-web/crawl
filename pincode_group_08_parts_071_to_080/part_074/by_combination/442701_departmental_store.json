@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta Shopee",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "442701",
+    "phone_number": "+91 99215 70057",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Gandhi Chowk, Dr. Babasaheb Ambedkar Ward 25, Ballarpur, Maharashtra 442701",
+    "area": "Dr. Babasaheb Ambedkar Ward 25",
+    "latitude": 19.847937299999998,
+    "longitude": 79.3458283,
+    "place_id": "ChIJRx_xbfLS0jsRxYZvDbx90Vo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRx_xbfLS0jsRxYZvDbx90Vo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:43:16"
+  },
+  {
+    "business_name": "Abhay Kirana Stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "442701",
+    "phone_number": "+91 99759 46637",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "V82V+QJJ, Colliery Rd, Dr. Babasaheb Ambedkar Ward 25, Ballarpur, Maharashtra 442701",
+    "area": "Dr. Babasaheb Ambedkar Ward 25",
+    "latitude": 19.8519681,
+    "longitude": 79.3440245,
+    "place_id": "ChIJSy0ur_HS0jsRmwwBkdcNNR4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSy0ur_HS0jsRmwwBkdcNNR4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:43:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GLAMOUR JENTS PARLOR",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "443401",
+    "phone_number": "+91 97305 55593",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Shop No 01, Main, Nandura Rd, Qureshi Nagar, Buldhana, Nandura, Maharashtra 443404",
+    "area": "Qureshi Nagar",
+    "latitude": 20.8368499,
+    "longitude": 76.4552897,
+    "place_id": "ChIJV_vn5E3j2TsRzz48k5WlgbI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_vn5E3j2TsRzz48k5WlgbI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:54:36"
+  },
+  {
+    "business_name": "NEON GENTS PARLOUR",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "443401",
+    "phone_number": "+91 84594 15131",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nagalkar Layout, Durga Nagar, Nandura, Maharashtra 443404",
+    "area": "Nagalkar Layout, Durga Nagar",
+    "latitude": 20.836824699999998,
+    "longitude": 76.45590109999999,
+    "place_id": "ChIJRQcX4E_j2TsRAwrPRTewpNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQcX4E_j2TsRAwrPRTewpNg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:54:36"
+  }
+]

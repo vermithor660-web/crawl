@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHAAT CORNER",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "443106",
+    "phone_number": "+91 89993 79464",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Tahashil Road, opp. Tahsil Office Road, Chaitanyawadi, Buldhana, Maharashtra 443001",
+    "area": "Chaitanyawadi",
+    "latitude": 20.533018,
+    "longitude": 76.1821792,
+    "place_id": "ChIJaY7WluMd2jsRjAqVphPu30s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaY7WluMd2jsRjAqVphPu30s",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:32:14"
+  },
+  {
+    "business_name": "Vrundavan Misal",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Cafe, Breakfast restaurant, Indian restaurant, Maharashtrian Restaurant, Snack bar, Vegetarian restaurant",
+    "pincode": "443106",
+    "phone_number": "+91 72767 44658",
+    "website": "https://instagram.com/vrundavanmisal?igshid=OGQ5ZDc2ODk2ZA==",
+    "rating": 4.7,
+    "reviews_count": 444,
+    "address": "Vrundavan Misal, Agnihotri Chowk Rd, opposite Galaxy hospital, Basant Bahar, Ulkanagari, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Basant Bahar, Ulkanagari",
+    "latitude": 19.8662514,
+    "longitude": 75.3435097,
+    "place_id": "ChIJKxEV742j2zsRMbhOTTDd_J8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKxEV742j2zsRMbhOTTDd_J8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:32:15"
+  }
+]

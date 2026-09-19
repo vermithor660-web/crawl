@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Royal Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services, House cleaning service, House clearance service, Pest control service, Vegetable wholesale market, Water Tank Cleaners",
+    "pincode": "443103",
+    "phone_number": "+91 84118 11011",
+    "website": "http://www.sairoyal.com/",
+    "rating": 5,
+    "reviews_count": 68,
+    "address": "Sai Parasad Complex, New, Pimpalwadi Rd, Sai Nagar, Shirdi, Maharashtra 423109",
+    "area": "Sai Nagar",
+    "latitude": 19.7641964,
+    "longitude": 74.47784159999999,
+    "place_id": "ChIJpzxreZ5b3DsRnrSbvCDV4QQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpzxreZ5b3DsRnrSbvCDV4QQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:29:55"
+  },
+  {
+    "business_name": "Royal Super Shine Cleaning Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services, Carpet cleaning service, Gutter cleaning service, House cleaning service, Janitorial service, Pool cleaning service, Property maintenance, Sanitation service, Upholstery cleaning service, Water Tank Cleaners",
+    "pincode": "443103",
+    "phone_number": "+91 91580 82626",
+    "website": "https://royalsupershinecleaningservices.com/",
+    "rating": 5,
+    "reviews_count": 35,
+    "address": "New, Ganesh Nagar, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Ganesh Nagar, Sara Raaj Nagar, Garkheda",
+    "latitude": 19.8594162,
+    "longitude": 75.36317319999999,
+    "place_id": "ChIJsylogESj2zsRP-V0y07YUrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsylogESj2zsRP-V0y07YUrk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:29:55"
+  }
+]

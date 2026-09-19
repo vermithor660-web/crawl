@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BHADKE CLINICAL LAB",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "442702",
+    "phone_number": "+91 94236 46576",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "MRJ2 VPQ, Ashti Rd, Ashti, Maharashtra 442707",
+    "area": "442702",
+    "latitude": 19.6816902,
+    "longitude": 79.8004265,
+    "place_id": "ChIJOeryw8MVLToRPeNON30VJJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOeryw8MVLToRPeNON30VJJ8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:46:07"
+  },
+  {
+    "business_name": "S N Gents Palor Gondpipari p",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa, Barber shop",
+    "pincode": "442702",
+    "phone_number": "+91 87664 79053",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shivaji Chowk, Gondpipari, Maharashtra 442702",
+    "area": "Shivaji Chowk",
+    "latitude": 19.7193002,
+    "longitude": 79.69085989999999,
+    "place_id": "ChIJe2f9Vp4_LToRG4WPU8uZLqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe2f9Vp4_LToRG4WPU8uZLqM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:46:07"
+  }
+]

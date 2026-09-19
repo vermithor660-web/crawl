@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aswale Readymade",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "442702",
+    "phone_number": "+91 94234 22778",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Road, Gondpipari, Maharashtra 442702",
+    "area": "442702",
+    "latitude": 19.7155324,
+    "longitude": 79.6854634,
+    "place_id": "ChIJhTYPWTA_LToRG1u__ZgTSNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhTYPWTA_LToRG1u__ZgTSNc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:45:26"
+  },
+  {
+    "business_name": "Ashok Readymade Stores",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store",
+    "pincode": "442702",
+    "phone_number": "+91 94221 81805",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Main Road, Bazar Ward, Chandrapur, Maharashtra 442402",
+    "area": "Bazar Ward",
+    "latitude": 19.9483417,
+    "longitude": 79.295813,
+    "place_id": "ChIJQwc3yyjU0jsRMrvB46uOiso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQwc3yyjU0jsRMrvB46uOiso",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:45:27"
+  }
+]

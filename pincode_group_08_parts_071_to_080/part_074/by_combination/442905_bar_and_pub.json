@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel vijay bar & restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "442905",
+    "phone_number": "+91 77680 31967",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 76,
+    "address": "Hunuman Nagar, Rajura, Maharashtra 442905",
+    "area": "Hunuman Nagar",
+    "latitude": 19.7858594,
+    "longitude": 79.3709603,
+    "place_id": "ChIJR-trwy_N0jsR9OMLE5-xjJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR-trwy_N0jsR9OMLE5-xjJ8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:05:07"
+  },
+  {
+    "business_name": "Soham restaurant & Sarthak & lodging & rooms",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "442905",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P6Q9+CH2, Gadchandur Rd, Hardona Bk., Maharashtra 442908",
+    "area": "442905",
+    "latitude": 19.7379653,
+    "longitude": 79.2179767,
+    "place_id": "ChIJabwTNADP0jsRDKIIbeGbuMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJabwTNADP0jsRDKIIbeGbuMo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:05:09"
+  }
+]

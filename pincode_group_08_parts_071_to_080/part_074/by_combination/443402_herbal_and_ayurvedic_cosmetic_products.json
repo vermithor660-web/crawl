@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Poonam Bangles",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "443402",
+    "phone_number": "+91 88888 88131",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Godhriwala Market, Shahunagar, Jalgaon, Maharashtra 425001",
+    "area": "Shahunagar",
+    "latitude": 21.015849499999998,
+    "longitude": 75.56925389999999,
+    "place_id": "ChIJF_QrmoQP2TsRlO7GyuVfBB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF_QrmoQP2TsRlO7GyuVfBB4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:56:24"
+  },
+  {
+    "business_name": "Gopal Churna Bhandar",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Alternative medicine practitioner",
+    "all_categories": "Alternative medicine practitioner",
+    "pincode": "443402",
+    "phone_number": "+91 88189 90890",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "21, Santha Bazar, Marothia Bazar, Bartan Bazar, Indore, Madhya Pradesh 452002",
+    "area": "Santha Bazar, Marothia Bazar, Bartan Bazar",
+    "latitude": 22.7166404,
+    "longitude": 75.8499648,
+    "place_id": "ChIJaQn706b9YjkRIRtsY3XYYwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQn706b9YjkRIRtsY3XYYwA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:56:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ansh Sales",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "442707",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, near Shashtri School, Bagadganj, Tarda, Maharashtra 442702",
+    "area": "Bagadganj",
+    "latitude": 19.780034999999998,
+    "longitude": 79.72678169999999,
+    "place_id": "ChIJR1k_8-o9LToRafcpync24ls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR1k_8-o9LToRafcpync24ls",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:52:44"
+  },
+  {
+    "business_name": "SONALI NX",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "442707",
+    "phone_number": "+91 88988 33433",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 65,
+    "address": "1515, Gandhi Rd, Chouphala, Pandharpur, Maharashtra 413304",
+    "area": "Chouphala",
+    "latitude": 17.677776899999998,
+    "longitude": 75.33348579999999,
+    "place_id": "ChIJ89rtswMYxDsRNSpyQLERfvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ89rtswMYxDsRNSpyQLERfvY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:52:46"
+  }
+]

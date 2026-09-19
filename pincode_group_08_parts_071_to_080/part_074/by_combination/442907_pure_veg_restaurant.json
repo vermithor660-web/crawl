@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jhunka Bhakar Kendra",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant",
+    "pincode": "442907",
+    "phone_number": "+91 99221 21205",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 22,
+    "address": "62P4+H7F, Navin Vasti, Warora, Maharashtra 442907",
+    "area": "Navin Vasti",
+    "latitude": 20.2364419,
+    "longitude": 79.0056676,
+    "place_id": "ChIJ3-yc8DoW0zsR9IXZCFvGab4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-yc8DoW0zsR9IXZCFvGab4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:08:35"
+  },
+  {
+    "business_name": "Ambika Garden",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "442907",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 122,
+    "address": "Ambika Village Villa, near Ganesh Temple, beside Fairyland School, Bhadravati, Maharashtra 442902",
+    "area": "Gaurala",
+    "latitude": 20.0920572,
+    "longitude": 79.1069273,
+    "place_id": "ChIJSbGsOJYj0zsRTsW42yn5Ab0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSbGsOJYj0zsRTsW42yn5Ab0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:08:36"
+  }
+]

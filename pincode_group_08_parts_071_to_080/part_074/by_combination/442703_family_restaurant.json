@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bobby's kitchen",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "442703",
+    "phone_number": "+91 70322 52261",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "Aheri - Allapalli Rd, Aheri, Maharashtra 442705",
+    "area": "442703",
+    "latitude": 19.418623,
+    "longitude": 80.0224198,
+    "place_id": "ChIJ2QEIAwB5LToRwjtNtkO7hjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2QEIAwB5LToRwjtNtkO7hjM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:47:15"
+  },
+  {
+    "business_name": "MANTAI CAFE",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "442703",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "C3G6+HM3, Alapalli, Maharashtra 442703",
+    "area": "442703",
+    "latitude": 19.4265257,
+    "longitude": 80.0617266,
+    "place_id": "ChIJX8cICwB5LToR5fj-rthcbXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX8cICwB5LToR5fj-rthcbXQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:47:15"
+  }
+]

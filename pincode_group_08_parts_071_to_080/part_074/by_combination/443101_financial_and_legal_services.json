@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shaan Accounting Solution",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant, Auditor, Tax assessor",
+    "pincode": "443101",
+    "phone_number": "+91 91195 48245",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kazi Pura, near Jama MAsjid, Old- Town, Malkapur, Maharashtra 443101",
+    "area": "Old- Town",
+    "latitude": 20.8875024,
+    "longitude": 76.1947868,
+    "place_id": "ChIJde9wx5Hp2TsRa8tLWgue0zc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJde9wx5Hp2TsRa8tLWgue0zc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:26:15"
+  },
+  {
+    "business_name": "Advocate Aradhana Singh",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Lawyer",
+    "all_categories": "Lawyer",
+    "pincode": "443101",
+    "phone_number": "+91 88796 08019",
+    "website": "https://advaradhanasingh.com/",
+    "rating": 4.7,
+    "reviews_count": 18,
+    "address": "Office-212, Bawa Tower, Plot no 78/79, Sector 17, Vashi, Navi Mumbai, Maharashtra 400703",
+    "area": "Sector 17, Vashi",
+    "latitude": 19.0736678,
+    "longitude": 72.9989245,
+    "place_id": "ChIJfdh5GrrB5zsRTg-1gVR_QlU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfdh5GrrB5zsRTg-1gVR_QlU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:26:17"
+  }
+]

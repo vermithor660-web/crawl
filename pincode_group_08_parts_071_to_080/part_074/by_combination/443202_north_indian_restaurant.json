@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhumiputra Hotel",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "443202",
+    "phone_number": "+91 98508 31568",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "3F7F+MFV, Buldana, Anjani Khurd, Maharashtra 443301",
+    "area": "443202",
+    "latitude": 20.064248799999998,
+    "longitude": 76.4736643,
+    "place_id": "ChIJtwTZd5Sd0DsR2CI0eIMXuPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtwTZd5Sd0DsR2CI0eIMXuPE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:37:40"
+  },
+  {
+    "business_name": "HARSHA FOOD PARK",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Food court",
+    "pincode": "443202",
+    "phone_number": "+91 93735 73361",
+    "website": "https://harsha-food-park.grexa.site/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Shop No 1, near Maharana Pratap High school, Lonai, Lonar, Maharashtra 443302",
+    "area": "Lonai",
+    "latitude": 19.976941999999998,
+    "longitude": 76.5239831,
+    "place_id": "ChIJB3uYnB6D0DsRA8amisTkUQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB3uYnB6D0DsRA8amisTkUQY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:37:42"
+  }
+]

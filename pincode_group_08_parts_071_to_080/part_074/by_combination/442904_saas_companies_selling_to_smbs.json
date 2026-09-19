@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Itoby Infotech private Limited",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Office space rental agency",
+    "pincode": "442904",
+    "phone_number": "+91 91427 73500",
+    "website": "https://itobyinfotech.com/",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "2ND FLOOR, L100, Block M, Jagat Ram Park, Laxmi Nagar, New Delhi, Delhi, 110092",
+    "area": "Block M, Jagat Ram Park, Laxmi Nagar",
+    "latitude": 28.6355513,
+    "longitude": 77.27676989999999,
+    "place_id": "ChIJw_xEXBv9DDkR-yBnJPPIIn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw_xEXBv9DDkR-yBnJPPIIn4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:04:46"
+  },
+  {
+    "business_name": "Saletancy",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Marketing consultant",
+    "pincode": "442904",
+    "phone_number": "+91 70178 99611",
+    "website": "https://www.saletancy.com/",
+    "rating": 3.3,
+    "reviews_count": 50,
+    "address": "Saletancy Consulting Pvt. Ltd, H107, H Block, Sector 63, Noida, Uttar Pradesh 201309",
+    "area": "H Block, Sector 63",
+    "latitude": 28.626355,
+    "longitude": 77.377543,
+    "place_id": "ChIJizc9KXHxDDkRoKYgXDgCmc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJizc9KXHxDDkRoKYgXDgCmc4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:04:46"
+  }
+]

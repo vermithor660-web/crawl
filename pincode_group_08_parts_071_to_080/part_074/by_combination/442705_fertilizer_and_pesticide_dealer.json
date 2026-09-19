@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wasvi Agro Center",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store, Farmers' market",
+    "pincode": "442705",
+    "phone_number": "+91 94219 64466",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 11,
+    "address": "Bitargaon Road, Dhanki, Maharashtra 445207",
+    "area": "442705",
+    "latitude": 19.5659143,
+    "longitude": 77.8487124,
+    "place_id": "ChIJdcU9CGaL0TsR_Vqb_b5crA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdcU9CGaL0TsR_Vqb_b5crA8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:52:16"
+  },
+  {
+    "business_name": "Fertilizer And Co.",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Home help",
+    "all_categories": "Home help",
+    "pincode": "442705",
+    "phone_number": "+91 94042 77613",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Gdcc Bank Road, W.l, Rangayapalli, Rangayapalli W.l., Maharashtra 442504",
+    "area": "W.l",
+    "latitude": 18.8995732,
+    "longitude": 79.98277949999999,
+    "place_id": "ChIJvYaWgS3zMjoROydKU5T7H-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvYaWgS3zMjoROydKU5T7H-A",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:52:16"
+  }
+]

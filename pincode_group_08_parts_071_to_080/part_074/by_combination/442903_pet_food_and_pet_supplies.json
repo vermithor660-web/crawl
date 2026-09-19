@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "pranit pet accesories",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "442903",
+    "phone_number": "+91 90968 65992",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Bhisi, Maharashtra 442903",
+    "area": "442903",
+    "latitude": 20.6359057,
+    "longitude": 79.409942,
+    "place_id": "ChIJf9OpiuWsLDoRNtBMsLMrxiA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf9OpiuWsLDoRNtBMsLMrxiA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:01:24"
+  },
+  {
+    "business_name": "Vikram Pets And Pond",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "442903",
+    "phone_number": "+91 84211 17393",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Netaji Ward Main Road, Chimur, Maharashtra 442903",
+    "area": "Nehru Ward",
+    "latitude": 20.4943431,
+    "longitude": 79.3718186,
+    "place_id": "ChIJccesxHtN0zsRPfz_1Pql034",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJccesxHtN0zsRPfz_1Pql034",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:01:24"
+  }
+]

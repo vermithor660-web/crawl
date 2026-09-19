@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karan Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Footwear wholesaler",
+    "pincode": "442710",
+    "phone_number": "+91 75871 46138",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Tahsilpara, Sonpur Rd, Chhattisgarh 494661",
+    "area": "442710",
+    "latitude": 19.7184387,
+    "longitude": 81.2466293,
+    "place_id": "ChIJiYLbSRA_LjoRpM9QKh6dUqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiYLbSRA_LjoRpM9QKh6dUqU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:56:16"
+  },
+  {
+    "business_name": "Catty Shoes",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "442710",
+    "phone_number": "+91 79724 67017",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 124,
+    "address": "New Modikhana, Katad Khana, Pune, Maharashtra 411001",
+    "area": "New Modikhana, Katad Khana",
+    "latitude": 18.506582299999998,
+    "longitude": 73.8764838,
+    "place_id": "ChIJc3pFPTjAwjsRpC7JP3fvu6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc3pFPTjAwjsRpC7JP3fvu6A",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:56:18"
+  }
+]

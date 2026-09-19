@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAIRAM BAKERY",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "443102",
+    "phone_number": "+91 97300 92840",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "Shop No 1main Road Tarwadi, near Om Aqua, Pimpalgaon Raja, Maharashtra 444306",
+    "area": "443102",
+    "latitude": 20.7201377,
+    "longitude": 76.4296394,
+    "place_id": "ChIJg2pnWV792TsRpfPyNNwPUGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg2pnWV792TsRpfPyNNwPUGM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:26:45"
+  },
+  {
+    "business_name": "Ganesh Wadapao",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "443102",
+    "phone_number": "+91 92704 12847",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Industrial Traning Institute, Malkapur-Buldhana Rd, Motala, Buldhana, Maharashtra 443101",
+    "area": "443102",
+    "latitude": 20.7242204,
+    "longitude": 76.2122193,
+    "place_id": "ChIJBfmP3E_v2TsRMg8knum8wUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfmP3E_v2TsRMg8knum8wUQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:26:48"
+  }
+]

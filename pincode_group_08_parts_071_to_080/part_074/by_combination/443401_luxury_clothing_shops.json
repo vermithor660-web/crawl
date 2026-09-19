@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.K BOUTIQUE",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Clothing store, Fashion designer, Tailor",
+    "pincode": "443401",
+    "phone_number": "+91 98912 23587",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 17,
+    "address": "48 E, Block G, Kamla Nagar, New Delhi, Delhi, 110007",
+    "area": "Block G, Kamla Nagar",
+    "latitude": 28.681542399999998,
+    "longitude": 77.2036938,
+    "place_id": "ChIJycZTwYz9DDkRYBwS9e563EA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJycZTwYz9DDkRYBwS9e563EA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:54:05"
+  },
+  {
+    "business_name": "Alkaa Designs | Top Designer Boutique (Ulwe)",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer, Baby clothing store, Bridal shop, Clothing store, Designer Clothing Store, Embroidery shop, Wedding dress rental service, Wedding store",
+    "pincode": "443401",
+    "phone_number": "+91 73888 53336",
+    "website": "http://alkadesigns.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No.04, KK Solitaire CHS Ltd, Plot No.111, near Samman Biryani, Sector 20, Ulwe, Wahal, Maharashtra 410206",
+    "area": "Sector 20, Ulwe",
+    "latitude": 18.9774952,
+    "longitude": 73.0293281,
+    "place_id": "ChIJwTLnFl_D5zsRX-8FIuYt8tU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwTLnFl_D5zsRX-8FIuYt8tU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:54:06"
+  }
+]

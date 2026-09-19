@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mukta Kidney & Dialysis Clinic",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Hospital, Nephrologist",
+    "pincode": "442709",
+    "phone_number": "+91 77388 77259",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 77,
+    "address": "Gokhale Rd S, Parel Bus Depot, Premises, Parel, Mumbai, Maharashtra 400025",
+    "area": "Parel Bus Depot, Premises, Parel",
+    "latitude": 19.0101473,
+    "longitude": 72.8315724,
+    "place_id": "ChIJp6svXerO5zsR575IOJKaxQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp6svXerO5zsR575IOJKaxQg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:54:45"
+  },
+  {
+    "business_name": "NephroPlus Dialysis Clinic in Erandwane, Pune",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Cardiologist, Diabetologist, Doctor, Hospital, Nephrologist, Urologist",
+    "pincode": "442709",
+    "phone_number": "+91 96186 91133",
+    "website": "https://www.nephroplus.com/",
+    "rating": 4.6,
+    "reviews_count": 21,
+    "address": "32/2 A, Ace Hospital, Gulawani Maharaj Road, Pandurang Colony, Erandwane, Pune, Maharashtra 411004",
+    "area": "Pandurang Colony, Erandwane",
+    "latitude": 18.5049076,
+    "longitude": 73.8304005,
+    "place_id": "ChIJufgiZ-2_wjsRkUlywQbWcYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJufgiZ-2_wjsRkUlywQbWcYk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:54:45"
+  }
+]

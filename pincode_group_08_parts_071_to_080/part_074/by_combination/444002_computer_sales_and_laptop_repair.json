@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAVI Computer & Enterprises",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer service, Electronics wholesaler",
+    "pincode": "444002",
+    "phone_number": "+91 93092 24207",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Dabki Rd, Shahanwajpur, Gajanan Nagar, Akola, Maharashtra 444002",
+    "area": "Shahanwajpur, Gajanan Nagar",
+    "latitude": 20.7117404,
+    "longitude": 76.9757238,
+    "place_id": "ChIJLd6Q30sx1zsR95gZTdRloNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLd6Q30sx1zsR95gZTdRloNo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:03:57"
+  },
+  {
+    "business_name": "OVERCLOCK SYSTEMS",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "444002",
+    "phone_number": "+91 99703 22260",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SHOP NO.3, SAI HEIGHTS APARTMENT, Necklace Rd, Civil Line, Ranpise Nagar, Akola, Maharashtra 444001",
+    "area": "Civil Line, Ranpise Nagar",
+    "latitude": 20.707815,
+    "longitude": 77.0101459,
+    "place_id": "ChIJER9U0-wx1zsRYrG1sTg-qH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJER9U0-wx1zsRYrG1sTg-qH4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:03:58"
+  }
+]

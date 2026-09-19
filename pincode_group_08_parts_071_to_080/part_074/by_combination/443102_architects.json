@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "POAD Studio",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm, Architectural designer, Interior designer, Landscape designer, Vastu consultant",
+    "pincode": "443102",
+    "phone_number": "+91 70667 60706",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Satav Complex, Bhartiya Dnyanpeeth High School, Road, Qureshi Nagar, Nandura, Maharashtra 443404",
+    "area": "Qureshi Nagar",
+    "latitude": 20.835836699999998,
+    "longitude": 76.4561153,
+    "place_id": "ChIJi1XVOdVh1zsRyBbuaJHgu0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi1XVOdVh1zsRyBbuaJHgu0Y",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:27:29"
+  },
+  {
+    "business_name": "Sanrachana Architects And interiors",
+    "search_category": "Architects",
+    "primary_category": "Architectural designer",
+    "all_categories": "Architectural designer",
+    "pincode": "443102",
+    "phone_number": "+91 90497 37093",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 29,
+    "address": "At, post, Anandnagar, Jalgaon, Dapoli, Maharashtra 415712",
+    "area": "Anandnagar",
+    "latitude": 17.7449778,
+    "longitude": 73.1932271,
+    "place_id": "ChIJuWG-MRrD6TsRGdmiecwRrZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuWG-MRrD6TsRGdmiecwRrZg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:27:29"
+  }
+]

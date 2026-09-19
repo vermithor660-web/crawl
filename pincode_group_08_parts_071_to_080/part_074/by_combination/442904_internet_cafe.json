@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashish Computer & xerox Center",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "442904",
+    "phone_number": "+91 89997 05209",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 15,
+    "address": "Chandrapur - Mul - Nagbhir - Nagpur Hwy, Girgaon, Maharashtra 441223",
+    "area": "442904",
+    "latitude": 20.3783496,
+    "longitude": 79.60633779999999,
+    "place_id": "ChIJP6MFFXXHLDoR8aJHwvmVOrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP6MFFXXHLDoR8aJHwvmVOrc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:04:21"
+  },
+  {
+    "business_name": "R.N.R ONLINE CENTER",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "442904",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nanded Road, Nanded, Maharashtra 441221",
+    "area": "442904",
+    "latitude": 20.4248057,
+    "longitude": 79.5998163,
+    "place_id": "ChIJK2WhWwC5LDoRzhajrAaDFYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK2WhWwC5LDoRzhajrAaDFYg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:04:24"
+  }
+]

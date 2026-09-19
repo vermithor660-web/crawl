@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Travels Deulgaon Mahi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "443201",
+    "phone_number": "+91 99233 08277",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 11,
+    "address": "Sai Travels, Chhatrapati complex, Deulgaon Raja, Deulgaon Mahi, Maharashtra 443206",
+    "area": "443201",
+    "latitude": 20.0886477,
+    "longitude": 76.1802946,
+    "place_id": "ChIJI4HPErFt2jsRnl98kTMckgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI4HPErFt2jsRnl98kTMckgE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:36:20"
+  },
+  {
+    "business_name": "Car/Taxi Rental Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Service establishment",
+    "pincode": "443201",
+    "phone_number": "+91 90160 70454",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Car/Taxi Rental Service, 443201, India",
+    "area": "443201",
+    "latitude": 25.9065951,
+    "longitude": 87.8262439,
+    "place_id": "ChIJOfMqEUE55TkR2DwrEOjqupA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOfMqEUE55TkR2DwrEOjqupA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:36:20"
+  }
+]

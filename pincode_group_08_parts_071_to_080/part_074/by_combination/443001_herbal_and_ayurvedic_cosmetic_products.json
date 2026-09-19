@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paras Ayurvedic Agency",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Herbal medicine store",
+    "all_categories": "Herbal medicine store, Alternative Medicine Clinic, Ayurvedic clinic, Skin care products vending machine",
+    "pincode": "443001",
+    "phone_number": "+91 97129 15885",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "A-7, Shanti Sadan Apartment, Near Palanpur Patia, Anand Mahal Rd, Adajan, Surat, Gujarat 395009",
+    "area": "Saikrupa Society, Adajan",
+    "latitude": 21.208805599999998,
+    "longitude": 72.794167,
+    "place_id": "ChIJebG2ayVM4DsRs09IGzOu9RE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJebG2ayVM4DsRs09IGzOu9RE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:22:01"
+  },
+  {
+    "business_name": "Sri Sri Ayurveda",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "443001",
+    "phone_number": "+91 11 4140 2983",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "E7/1, Malviya Nagar Rd, near Amul juice corner or Geeta mandir, Khirki Extension, Malviya Nagar, New Delhi, Delhi 110017",
+    "area": "Khirki Extension, Malviya Nagar",
+    "latitude": 28.532869599999998,
+    "longitude": 77.2077291,
+    "place_id": "ChIJ82TDQR3iDDkRt1qcbwqwbwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ82TDQR3iDDkRt1qcbwqwbwE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:22:02"
+  }
+]

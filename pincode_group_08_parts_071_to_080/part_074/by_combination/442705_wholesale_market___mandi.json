@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vegetable Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "442705",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 8,
+    "address": "RXX6+PX3, Sironcha Ry., Kottagudam, Sironcha, Maharashtra 442504",
+    "area": "Sironcha Ry., Kottagudam",
+    "latitude": 18.849259399999998,
+    "longitude": 79.9624296,
+    "place_id": "ChIJeQQna0vyMjoRYiAgW7TFRTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeQQna0vyMjoRYiAgW7TFRTU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:52:26"
+  },
+  {
+    "business_name": "Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "442705",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 20,
+    "address": "8M6F+6XJ, Mohadi, Maharashtra 441909",
+    "area": "442705",
+    "latitude": 21.3105852,
+    "longitude": 79.6748913,
+    "place_id": "ChIJDbvbjfI8KzoRLreuO8dNstU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDbvbjfI8KzoRLreuO8dNstU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:52:28"
+  }
+]

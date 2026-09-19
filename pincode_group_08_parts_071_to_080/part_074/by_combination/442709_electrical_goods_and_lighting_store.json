@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Omshanti Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical products wholesaler",
+    "all_categories": "Electrical products wholesaler",
+    "pincode": "442709",
+    "phone_number": "+91 98222 94204",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Apurva complex, Canol Road, Ward Number 7, Shrirampur, Maharashtra 413709",
+    "area": "Ward Number 7",
+    "latitude": 19.616360399999998,
+    "longitude": 74.65138449999999,
+    "place_id": "ChIJp1Y6sFGL3DsRNZbyXGFKkBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp1Y6sFGL3DsRNZbyXGFKkBk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:54:59"
+  },
+  {
+    "business_name": "Veena Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "442709",
+    "phone_number": "+91 97644 47444",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Pundlik Nagar, Garkheda, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Pundlik Nagar, Garkheda",
+    "latitude": 19.867196099999997,
+    "longitude": 75.35332389999999,
+    "place_id": "ChIJZTIeVY-i2zsR4om-v2dBtpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZTIeVY-i2zsR4om-v2dBtpE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:54:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shrikrupa Cycle Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "444002",
+    "phone_number": "+91 99212 17772",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, Balapur Road, near Bhirad wadi, Sukapur, Old City, Akola, Maharashtra 444002",
+    "area": "Sukapur, Old City",
+    "latitude": 20.702864899999998,
+    "longitude": 76.980301,
+    "place_id": "ChIJgzxiSYUx1zsRNtlhdBL0UaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgzxiSYUx1zsRNtlhdBL0UaY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:03:18"
+  },
+  {
+    "business_name": "Star Repairing Centre",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop, Bicycle Shop",
+    "pincode": "444002",
+    "phone_number": "+91 88307 32420",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "Ward No 1, Milan Nagar Nayegao, Shop No 1 NAIGAON, Akot Fail, Jafrabad, Akola, Maharashtra 444003",
+    "area": "Akot Fail, Jafrabad",
+    "latitude": 20.724076999999998,
+    "longitude": 76.98771359999999,
+    "place_id": "ChIJg5bCDMsx1zsRRrmUStZv-Kw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg5bCDMsx1zsRRrmUStZv-Kw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 08:03:19"
+  }
+]

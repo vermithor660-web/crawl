@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "442702",
+    "phone_number": "+91 83299 18300",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Juna Bazar Chauk, near Post Office, At, Pomburna, Pombhurna, Maharashtra 442918",
+    "area": "At, Pomburna",
+    "latitude": 19.875238799999998,
+    "longitude": 79.632775,
+    "place_id": "ChIJY4yBF0olLToRE3dTE3wlyyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY4yBF0olLToRE3dTE3wlyyw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:45:30"
+  },
+  {
+    "business_name": "Aai Jewellers Yenapur",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "442702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "RRFF+JW3, Yenapur, Chitranjanpur, Maharashtra 442603",
+    "area": "442702",
+    "latitude": 19.824018499999998,
+    "longitude": 79.82478739999999,
+    "place_id": "ChIJe2XeHU4XLToRMO23MGW0yP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe2XeHU4XLToRMO23MGW0yP0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:45:30"
+  }
+]

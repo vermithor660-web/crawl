@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Saaya Guest House",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bed & breakfast",
+    "pincode": "443002",
+    "phone_number": "+91 98900 35487",
+    "website": "https://www.hotelsaaya.com/",
+    "rating": 4.8,
+    "reviews_count": 154,
+    "address": "Post, Pimpalgaon Sarai, Maharashtra 443002",
+    "area": "443002",
+    "latitude": 20.3827261,
+    "longitude": 76.0911697,
+    "place_id": "ChIJ3agOh_8Z2jsR_4ZewmGhmoY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3agOh_8Z2jsR_4ZewmGhmoY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:24:01"
+  },
+  {
+    "business_name": "Hotel Food Lover",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "443002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 6,
+    "address": "G56W+WHP, NH753A, Ashtavinayak Nagar, Sundar khed, Maharashtra 443002",
+    "area": "Ashtavinayak Nagar",
+    "latitude": 20.5123472,
+    "longitude": 76.1964426,
+    "place_id": "ChIJB5B6GiId2jsRAzdl4WqV7yE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB5B6GiId2jsRAzdl4WqV7yE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:24:04"
+  }
+]

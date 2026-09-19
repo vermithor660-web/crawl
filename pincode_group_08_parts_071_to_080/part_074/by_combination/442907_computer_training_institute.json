@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "UNIQUE COMPUTER INSTITUTE",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "442907",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8WXH+M42, Warora, Chikani, Maharashtra 442907",
+    "area": "442907",
+    "latitude": 20.3491461,
+    "longitude": 78.9277728,
+    "place_id": "ChIJ-zyGMvwT0zsRuWJ-fOXuN14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-zyGMvwT0zsRuWJ-fOXuN14",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:09:37"
+  },
+  {
+    "business_name": "RAINBOW COMPUTERS",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "442907",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "62H3+XP3, Yatra Rd, Navin Vasti, Warora, Maharashtra 442907",
+    "area": "Navin Vasti",
+    "latitude": 20.229882699999997,
+    "longitude": 79.004285,
+    "place_id": "ChIJFajeEjEW0zsRWc8yGJnGft4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFajeEjEW0zsRWc8yGJnGft4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:09:37"
+  }
+]

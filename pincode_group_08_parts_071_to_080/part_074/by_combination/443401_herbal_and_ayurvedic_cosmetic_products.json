@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amar Pharmaceuticals",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Pharmaceutical company",
+    "all_categories": "Pharmaceutical company, Manufacturer",
+    "pincode": "443401",
+    "phone_number": "+91 78304 56756",
+    "website": "https://bestherbalremedies.co/",
+    "rating": 4.8,
+    "reviews_count": 15,
+    "address": "INDUSTRIAL ESTATE, C-2, Meerut Rd, Sakuntala Avas Vikash Colony, Muzaffarnagar, Sujroo, Uttar Pradesh 251001",
+    "area": "Sakuntala Avas Vikash Colony",
+    "latitude": 29.440369399999998,
+    "longitude": 77.6995385,
+    "place_id": "ChIJFS1j3qAbDDkRv5TR8AzfPHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFS1j3qAbDDkRv5TR8AzfPHw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:54:40"
+  },
+  {
+    "business_name": "Herbsjoy India",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Alternative medicine practitioner",
+    "all_categories": "Alternative medicine practitioner, E-commerce service",
+    "pincode": "443401",
+    "phone_number": "+91 70654 67370",
+    "website": "http://www.herbsjoy.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1007, 22, Pataudi Rd, nr. Sector 10A, Shiv Nagar, Shakti Park Colony, Sector 10A, Gurugram, Haryana 122001",
+    "area": "Shiv Nagar, Shakti Park Colony, Sector 10A",
+    "latitude": 28.451546999999998,
+    "longitude": 77.009057,
+    "place_id": "ChIJZ6nZWogXDTkRvk7hnomR_mw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ6nZWogXDTkRvk7hnomR_mw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:54:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel shri krishn pure veg family restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Fast food restaurant, Hotel, Restaurant",
+    "pincode": "443206",
+    "phone_number": "+91 91751 57888",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jalna - Aurangabad Rd, near bank of india, Shendra MIDC, Kubhephal, Chhatrapati Sambhajinagar, Maharashtra 431154",
+    "area": "Shendra MIDC",
+    "latitude": 19.867023,
+    "longitude": 75.48899999999999,
+    "place_id": "ChIJ43HfDQCl2zsRS6ieSXQ2YQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ43HfDQCl2zsRS6ieSXQ2YQ8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:43:00"
+  },
+  {
+    "business_name": "Hotel Gurukrupa",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "443206",
+    "phone_number": "+91 90221 21156",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 55,
+    "address": "Kadegaon, Maharashtra 431202",
+    "area": "443206",
+    "latitude": 19.8702298,
+    "longitude": 75.6800415,
+    "place_id": "ChIJA8B5RNyt2zsRg8shsguLbdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA8B5RNyt2zsRg8shsguLbdQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:43:02"
+  }
+]

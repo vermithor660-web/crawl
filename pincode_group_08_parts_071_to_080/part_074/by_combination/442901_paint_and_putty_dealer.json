@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prakash Paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "442901",
+    "phone_number": "+91 93706 44480",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "36, Kamptee Rd, Nari Industrial Area, Nagpur, Maharashtra 440026",
+    "area": "Nari Industrial Area",
+    "latitude": 21.1837062,
+    "longitude": 79.1128572,
+    "place_id": "ChIJxQPko83G1DsRyrVH5MNg1HI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxQPko83G1DsRyrVH5MNg1HI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:58:30"
+  },
+  {
+    "business_name": "Paint Corporation",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "442901",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sangli, Khanbhag, Sangli Miraj Kupwad, Maharashtra 416416",
+    "area": "Sangli, Khanbhag",
+    "latitude": 16.857025,
+    "longitude": 74.57391799999999,
+    "place_id": "ChIJF7j3ZmkYwTsRlat37A30QZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF7j3ZmkYwTsRlat37A30QZ0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:58:30"
+  }
+]

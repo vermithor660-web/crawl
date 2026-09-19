@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hans Home Decor - Foam & Fabrics",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "443402",
+    "phone_number": "+91 80551 71755",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Ghate Complex, Bhadgaon Rd, Mahatma Phule Housing Society, Hanuman Wadi, Chalisgaon, Maharashtra 424101",
+    "area": "Mahatma Phule Housing Society, Hanuman Wadi",
+    "latitude": 20.4666793,
+    "longitude": 75.0112599,
+    "place_id": "ChIJfZAddQlV2TsR4mU4_PFmcsM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfZAddQlV2TsR4mU4_PFmcsM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:56:34"
+  },
+  {
+    "business_name": "Kaladalan",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Picture frame shop",
+    "all_categories": "Picture frame shop",
+    "pincode": "443402",
+    "phone_number": "+91 94222 96845",
+    "website": "http://www.kaladalanjal.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Windsor Heights, B-3, Ring Rd, Tagore Nagar, Jalgaon, Maharashtra 425001",
+    "area": "Tagore Nagar",
+    "latitude": 21.0078483,
+    "longitude": 75.5555768,
+    "place_id": "ChIJM2FJ6LkP2TsRFSccE8gU9OI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM2FJ6LkP2TsRFSccE8gU9OI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:56:34"
+  }
+]

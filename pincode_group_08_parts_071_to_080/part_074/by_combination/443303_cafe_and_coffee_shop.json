@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vedika’s Food Corner & Restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Fine dining restaurant",
+    "all_categories": "Fine dining restaurant",
+    "pincode": "443303",
+    "phone_number": "+91 76200 65717",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "chowk, main bypass chowk, Sonati, Mehkar, Maharashtra 443301",
+    "area": "443303",
+    "latitude": 20.1376584,
+    "longitude": 76.5825904,
+    "place_id": "ChIJLyVI2SiZ0DsRsDoI_j90GtY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLyVI2SiZ0DsRsDoI_j90GtY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:48:30"
+  },
+  {
+    "business_name": "Maharashtra hotel &wefars sentar",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "443303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5PJC+Q72, Dongaon, Maharashtra 443303",
+    "area": "443303",
+    "latitude": 20.1818977,
+    "longitude": 76.7206255,
+    "place_id": "ChIJYa6LQgCX0DsRDkFpmPyG-c0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYa6LQgCX0DsRDkFpmPyG-c0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 07:48:33"
+  }
+]
