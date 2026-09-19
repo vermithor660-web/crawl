@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hingora Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "431007",
+    "phone_number": "+91 84466 66220",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jalna - Aurangabad Rd, Chilkalthana, Chhatrapati Sambhajinagar, Maharashtra 431007",
+    "area": "Chilkalthana",
+    "latitude": 19.8655237,
+    "longitude": 75.4171082,
+    "place_id": "ChIJWzvmyTuj2zsRDxlDW5Tdev4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWzvmyTuj2zsRDxlDW5Tdev4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:03:40"
+  },
+  {
+    "business_name": "Force Motors - Shriram Cars | Commercial Vehicle Dealer & SUV's",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Motor vehicle dealer",
+    "all_categories": "Motor vehicle dealer, Auto repair shop, Electric motor store, Electric motor vehicle dealer, Truck dealer",
+    "pincode": "431007",
+    "phone_number": "+91 82910 30049",
+    "website": "https://www.forcemotors.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Five star, Plot No. A-28, Shendra MIDC, Midc, Chhatrapati Sambhajinagar, Shendra Kamangar, Maharashtra 431154",
+    "area": "Shendra MIDC, Midc",
+    "latitude": 19.8731658,
+    "longitude": 75.4793187,
+    "place_id": "ChIJG70R_e2i2zsRj5QV8n4GmNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG70R_e2i2zsRj5QV8n4GmNk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:03:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cricket ground",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Cricket ground",
+    "all_categories": "Cricket ground",
+    "pincode": "431127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "7Q43+QH, Gevrai, Maharashtra 431127",
+    "area": "431127",
+    "latitude": 19.2567848,
+    "longitude": 75.7540993,
+    "place_id": "ChIJv9ZoRCTZ2jsRkbdAPXFy4kQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv9ZoRCTZ2jsRkbdAPXFy4kQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:57:23"
+  },
+  {
+    "business_name": "Cricket ground",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Sports complex",
+    "all_categories": "Sports complex",
+    "pincode": "431127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "6VC3+28J, Pachegaon-Ardhamasla Rd, Bhatepuri, Maharashtra 431129",
+    "area": "431127",
+    "latitude": 19.2200982,
+    "longitude": 75.85326049999999,
+    "place_id": "ChIJhRGbqobb2jsRo5Ugi63zMz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhRGbqobb2jsRo5Ugi63zMz8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:57:26"
+  }
+]

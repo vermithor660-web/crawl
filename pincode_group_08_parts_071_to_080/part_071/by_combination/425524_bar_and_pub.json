@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mid Night Bar & Restaurant (A/C)",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "425524",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 78,
+    "address": "C/O-ABHAYA CHAUDHURY,AT-MANGULI,PO-CHOUDWAR,PIN-754025, Odisha 754025",
+    "area": "425524",
+    "latitude": 20.5273836,
+    "longitude": 85.94156439999999,
+    "place_id": "ChIJEzQfBUJtGToRDTCwvVrDnbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEzQfBUJtGToRDTCwvVrDnbY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:49:24"
+  },
+  {
+    "business_name": "Bhau Beer & Wine Shop",
+    "search_category": "Bar and Pub",
+    "primary_category": "Beer store",
+    "all_categories": "Beer store",
+    "pincode": "425524",
+    "phone_number": "+91 99703 71858",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Shop no.8, Khadake Complex, Auto Nagar, N.H No. 6, near Janta Radator, Old MIDC, Jalgaon, Maharashtra 425003",
+    "area": "Old MIDC",
+    "latitude": 21.0073462,
+    "longitude": 75.58235069999999,
+    "place_id": "ChIJUzGWNOAP2TsRU5mD04k42B0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUzGWNOAP2TsRU5mD04k42B0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:49:24"
+  }
+]

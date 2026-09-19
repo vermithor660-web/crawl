@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AP.services",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Home health care service, House cleaning service",
+    "pincode": "431104",
+    "phone_number": "+91 87669 61077",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Choudhury colony, near ghati hospital, MIDC Industrial Area, Chilkalthana, Chhatrapati Sambhajinagar, Maharashtra 431007",
+    "area": "MIDC Industrial Area, Chilkalthana",
+    "latitude": 19.8719826,
+    "longitude": 75.4018093,
+    "place_id": "ChIJDYigNE6j2zsRX1LStiS0wiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDYigNE6j2zsRX1LStiS0wiM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:19:55"
+  },
+  {
+    "business_name": "VIP Placements and Corporate management services LLP",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Employment agency",
+    "all_categories": "Employment agency",
+    "pincode": "431104",
+    "phone_number": "+91 97651 15978",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": null,
+    "address": "7,Nisarg complex,opp. to garkheda stadium,sutgirni to Darga road, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Shivaji Nagar, Ulkanagari",
+    "latitude": 19.8589001,
+    "longitude": 75.3413872,
+    "place_id": "ChIJ7WbV9H-i2zsRHe26pqOF8II",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7WbV9H-i2zsRHe26pqOF8II",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:19:55"
+  }
+]

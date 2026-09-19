@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Patel Financial Services",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service",
+    "pincode": "431104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Matrix Business Centre, 429, Kalda Corner, Ramanagar, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "Kalda Corner, Ramanagar",
+    "latitude": 19.8706231,
+    "longitude": 75.3355606,
+    "place_id": "ChIJQeKgxfaZ2zsRtRC6Sr_WKHQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQeKgxfaZ2zsRtRC6Sr_WKHQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:20:12"
+  },
+  {
+    "business_name": "Shriram Chits",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service, Loan agency",
+    "pincode": "431104",
+    "phone_number": "+91 240 662 0871",
+    "website": "https://www.shriramchits.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Plot No X-81, 2nd Floor, Krishna Chmaber, More Chowk, Bajaj Nagar, MIDC Area, Waluj, Waladgaon, Maharashtra 431136",
+    "area": "More Chowk, Bajaj Nagar, MIDC Area, Waluj",
+    "latitude": 19.8395349,
+    "longitude": 75.2462709,
+    "place_id": "ChIJo2pYPtib2zsRIQFPuuGiZ1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo2pYPtib2zsRIQFPuuGiZ1U",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:20:12"
+  }
+]

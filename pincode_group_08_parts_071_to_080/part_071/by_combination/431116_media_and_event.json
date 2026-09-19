@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ambika Press",
+    "search_category": "Media and Event",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop, Community center",
+    "pincode": "431116",
+    "phone_number": "+91 98232 07929",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Shop No 1, Stion Road, Shastri Nagar, Vaijapur, Maharashtra 423701",
+    "area": "Shastri Nagar",
+    "latitude": 19.9283835,
+    "longitude": 74.7296154,
+    "place_id": "ChIJFZtWJyZv3DsRlLWgOTphIqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZtWJyZv3DsRlLWgOTphIqk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:38:49"
+  },
+  {
+    "business_name": "Shivpuri Mangal Karyalay",
+    "search_category": "Media and Event",
+    "primary_category": "Wedding venue",
+    "all_categories": "Wedding venue",
+    "pincode": "431116",
+    "phone_number": "+91 98609 69598",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Vaijapur Rd, Shivoor, Maharashtra 431116",
+    "area": "431116",
+    "latitude": 20.073047199999998,
+    "longitude": 74.8847309,
+    "place_id": "ChIJ_cX4w1wL3DsRp-A__CDDWXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_cX4w1wL3DsRp-A__CDDWXk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:38:49"
+  }
+]

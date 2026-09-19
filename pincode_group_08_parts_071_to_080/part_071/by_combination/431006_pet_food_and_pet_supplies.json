@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "श्वान shwan House & Pet salon",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet adoption service, Pet boarding service, Pet groomer, Pet store",
+    "pincode": "431006",
+    "phone_number": "+91 70571 38125",
+    "website": "https://shwanhouse.com/",
+    "rating": 4.5,
+    "reviews_count": 35,
+    "address": "Shop Number 2, RK Tower, श्वान House, Shivaji Nagar Rd, Deshmukh Nagar, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Deshmukh Nagar, Laxmi Nagar, Garkheda",
+    "latitude": 19.8567364,
+    "longitude": 75.3501519,
+    "place_id": "ChIJ7dPjI1qj2zsRvNkXeRYnxro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7dPjI1qj2zsRvNkXeRYnxro",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:01:07"
+  },
+  {
+    "business_name": "Paras Birds Garden",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "431006",
+    "phone_number": "+91 88880 35405",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Shop no.2, Champa Chowk Rd, opp. Bahar Restaurant, Kaiser Colony, Shah Bazar, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Kaiser Colony, Shah Bazar",
+    "latitude": 19.8879535,
+    "longitude": 75.341189,
+    "place_id": "ChIJARLWCgqY2zsRA4-3Gjas5rs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJARLWCgqY2zsRA4-3Gjas5rs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:01:09"
+  }
+]

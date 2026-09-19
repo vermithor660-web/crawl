@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAISAGAR HOSIERY",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothing wholesaler, Custom t-shirt store, T-shirt store",
+    "pincode": "431112",
+    "phone_number": "+91 94040 31111",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No 25 Purna Bld R.L Park Sillod 431112, Sillod, Maharashtra 431112",
+    "area": "431112",
+    "latitude": 20.300133,
+    "longitude": 75.65241089999999,
+    "place_id": "ChIJUUUeJInN2zsRil2xHSkFi5w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUUUeJInN2zsRil2xHSkFi5w",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:30:31"
+  },
+  {
+    "business_name": "Bhimashankar Trading Company",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431112",
+    "phone_number": "+91 94234 53074",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "Narmada Building, R.L. Park, 14, Sillod, Maharashtra 431112",
+    "area": "431112",
+    "latitude": 20.2975607,
+    "longitude": 75.65627169999999,
+    "place_id": "ChIJnUIo1ojN2zsRmpSrnGQd07Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnUIo1ojN2zsRmpSrnGQd07Y",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:30:31"
+  }
+]

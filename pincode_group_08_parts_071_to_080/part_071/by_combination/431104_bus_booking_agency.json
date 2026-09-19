@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SOMNATH TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "431104",
+    "phone_number": "+91 98904 73466",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "V9F9+6R5, Jalna Rd, API Corner, Mayanagar Colony, N 2, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "API Corner, Mayanagar Colony, N 2, Cidco",
+    "latitude": 19.8730165,
+    "longitude": 75.3695947,
+    "place_id": "ChIJHaSCF_Ki2zsRz4XB5aUWPAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHaSCF_Ki2zsRz4XB5aUWPAU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:19:25"
+  },
+  {
+    "business_name": "Paulo Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "431104",
+    "phone_number": "+91 240 233 3100",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "Shop No. G-7, Dwarka Regime, Adalat Rd, near Chunilal Petrol Pump, Snehnagar, Konkanwadi, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "Snehnagar, Konkanwadi",
+    "latitude": 19.8717074,
+    "longitude": 75.3258219,
+    "place_id": "ChIJZQJST0KY2zsRUA7H1y5x4r8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQJST0KY2zsRUA7H1y5x4r8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:19:27"
+  }
+]

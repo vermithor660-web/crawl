@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shop No",
+    "search_category": "Shops",
+    "primary_category": "Shops",
+    "all_categories": "Shops",
+    "pincode": "431127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Kolher Rd, Tipu Sultan Nagar, Gevrai, Maharashtra 431127",
+    "area": "Tipu Sultan Nagar",
+    "latitude": 19.2711564,
+    "longitude": 75.748474,
+    "place_id": "ChIJm8gzUsPY2jsRM_SyPfrgZT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm8gzUsPY2jsRM_SyPfrgZT8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:57:57"
+  },
+  {
+    "business_name": "BHAIRAVNATH MALIT SERVICES",
+    "search_category": "Shops",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "431127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, 1, Mondha Rd, Gevrai, Maharashtra 431127",
+    "area": "431127",
+    "latitude": 19.2575093,
+    "longitude": 75.7507214,
+    "place_id": "ChIJFZdL7NrZ2jsRHwYCCNg7UBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZdL7NrZ2jsRHwYCCNg7UBs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:57:58"
+  }
+]

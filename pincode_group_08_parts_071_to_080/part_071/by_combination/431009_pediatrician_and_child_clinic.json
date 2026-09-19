@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shelke Child Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Child health care center",
+    "pincode": "431009",
+    "phone_number": "+91 98207 70118",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Ayyapa Mandir, Gopi Nath Pura, Satara Deolai Parisar, Deolai, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Deolai",
+    "latitude": 19.8501157,
+    "longitude": 75.347196,
+    "place_id": "ChIJ6dKZYcuj2zsRfth-uOyk0ME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6dKZYcuj2zsRfth-uOyk0ME",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:07:35"
+  },
+  {
+    "business_name": "Totla Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Ophthalmologist, Ophthalmology clinic, Pediatric surgeon, Surgeon",
+    "pincode": "431009",
+    "phone_number": "+91 94225 20550",
+    "website": "http://www.totlahospital.com/",
+    "rating": 4.2,
+    "reviews_count": 39,
+    "address": "29 Venkatesh Nagar, Jalna Road, Opposite St. Francis School, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Raghuveer Nagar, Venkatesh Nagar, Mondha",
+    "latitude": 19.8786736,
+    "longitude": 75.347379,
+    "place_id": "ChIJq6qqGpyi2zsRvoY95Ljq8PU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqGpyi2zsRvoY95Ljq8PU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:07:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ALL IN ONE PET SHOP",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "431111",
+    "phone_number": "+91 91588 82754",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "mohiniraj puram, Bhagatsingh Nagar Rd, Tpoint, Harsul, Chhatrapati Sambhajinagar, Maharashtra 431008",
+    "area": "Beri Bagh, Tpoint, Harsul",
+    "latitude": 19.9184534,
+    "longitude": 75.3551688,
+    "place_id": "ChIJC6rDoUO92zsRU2qGeTM63oE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC6rDoUO92zsRU2qGeTM63oE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:28:21"
+  },
+  {
+    "business_name": "Agrowon Boar Goat Farm",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "431111",
+    "phone_number": "+91 90225 09619",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Paal, Phulambri, Maharashtra 431111",
+    "area": "431111",
+    "latitude": 20.1461061,
+    "longitude": 75.4573006,
+    "place_id": "ChIJhaQiMKPH2zsR-K77mgHcj6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhaQiMKPH2zsR-K77mgHcj6k",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:28:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chinese Fast Food Center",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Chinese restaurant",
+    "pincode": "431116",
+    "phone_number": "+91 88883 50789",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Parimal Housing Society, N 3, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Parimal Housing Society, N 3, Cidco",
+    "latitude": 19.872018,
+    "longitude": 75.3625745,
+    "place_id": "ChIJs_1hE42i2zsRQOBNVjS3UMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs_1hE42i2zsRQOBNVjS3UMM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:37:51"
+  },
+  {
+    "business_name": "Chinese Corner Veg & Non veg",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Chinese restaurant",
+    "pincode": "431116",
+    "phone_number": "+91 80075 55455",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Shop No. 1, City Marvel Complex, Nirala Bazar Rd, Shardashram Colony, Aurangpura, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Shardashram Colony, Aurangpura",
+    "latitude": 19.8813499,
+    "longitude": 75.3256955,
+    "place_id": "ChIJ_aFPxGyY2zsRksb1Ea41SOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_aFPxGyY2zsRksb1Ea41SOo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:37:52"
+  }
+]

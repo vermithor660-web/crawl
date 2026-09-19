@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAIGAD Motor Driving School",
+    "search_category": "Driving School",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "431111",
+    "phone_number": "+91 75076 37674",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "KHULTABAD ROAD, Phulambri, Maharashtra 431111",
+    "area": "431111",
+    "latitude": 20.0851561,
+    "longitude": 75.40873599999999,
+    "place_id": "ChIJmcdsoDq_2zsR8FKEIdlEceQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmcdsoDq_2zsR8FKEIdlEceQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:29:00"
+  },
+  {
+    "business_name": "Shirodi bk",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school, Government office",
+    "pincode": "431111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "48XV+JCC, Shirodi Bk, Maharashtra 431152",
+    "area": "431111",
+    "latitude": 20.1490518,
+    "longitude": 75.3435092,
+    "place_id": "ChIJwRR7UAbB2zsRO14z8xFGyDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwRR7UAbB2zsRO14z8xFGyDE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:29:00"
+  }
+]

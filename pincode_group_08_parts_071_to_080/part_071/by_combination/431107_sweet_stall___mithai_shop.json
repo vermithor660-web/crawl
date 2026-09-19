@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Balaji Sweet",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "431107",
+    "phone_number": "+91 95039 74833",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "New Balaji Sweet, Stop, Pimpalwadi, Mudhalwadi, Maharashtra 431148",
+    "area": "Stop",
+    "latitude": 19.5297072,
+    "longitude": 75.3826807,
+    "place_id": "ChIJ9Uw6bwET2zsRZS5NhvyHwwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Uw6bwET2zsRZS5NhvyHwwc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:22:45"
+  },
+  {
+    "business_name": "FAIZAN SWWETS",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Fast food restaurant",
+    "pincode": "431107",
+    "phone_number": "+91 87673 21873",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "SHOP NO 1, Main Road, near MUKIRE MASJID, Nagar Palika, Paithan, Maharashtra 431107",
+    "area": "Nagar Palika",
+    "latitude": 19.470119699999998,
+    "longitude": 75.38692499999999,
+    "place_id": "ChIJF837yy4T2zsRADja8TsVVW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF837yy4T2zsRADja8TsVVW0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:22:45"
+  }
+]

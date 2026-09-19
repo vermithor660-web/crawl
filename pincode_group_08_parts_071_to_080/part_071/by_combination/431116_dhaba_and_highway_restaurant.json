@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Nana Restaurant, Jarul Phata",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Indian restaurant, Vegetarian restaurant",
+    "pincode": "431116",
+    "phone_number": "+91 78758 87171",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "Maharashtra State Highway 47 Vaijapur Road Jarul fata, Maharashtra 431116",
+    "area": "431116",
+    "latitude": 19.9823055,
+    "longitude": 74.773674,
+    "place_id": "ChIJpS_PxI5t3DsR0BD4axxjZ5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpS_PxI5t3DsR0BD4axxjZ5E",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:37:47"
+  },
+  {
+    "business_name": "Hotel Rama family restaurant and rajasthan dhaba (pure veg)",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431116",
+    "phone_number": "+91 70201 64862",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Aurangabad - Nashik Highway , At, near Khamgaon, Pati, Khamgaon, Yeola, Maharashtra 423402",
+    "area": "Pati",
+    "latitude": 19.9630543,
+    "longitude": 74.65573049999999,
+    "place_id": "ChIJE6sFCwBr3DsRK8vDkkB5QME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE6sFCwBr3DsRK8vDkkB5QME",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:37:48"
+  }
+]

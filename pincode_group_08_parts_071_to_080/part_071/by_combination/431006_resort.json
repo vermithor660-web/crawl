@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Atlas Family Resort",
+    "search_category": "Resort",
+    "primary_category": "Hiking area",
+    "all_categories": "Hiking area",
+    "pincode": "431006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 129,
+    "address": "W6PP+FVP, Abdimandi, Maharashtra 431002",
+    "area": "431006",
+    "latitude": 19.936215,
+    "longitude": 75.2372168,
+    "place_id": "ChIJGTBgAaaR2zsRjZCIpuJYwzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGTBgAaaR2zsRjZCIpuJYwzs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:02:11"
+  },
+  {
+    "business_name": "6 CR Hotel Natraj",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Restaurant",
+    "pincode": "431006",
+    "phone_number": "+91 86260 60696",
+    "website": "https://sites.google.com/view/6-cr-hotel-natraj/home?authuser=1",
+    "rating": 4,
+    "reviews_count": 275,
+    "address": "DhootHouse, Station Rd, beside RTO office, Rajnagar, MIDC, Padampura, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "Rajnagar, MIDC, Padampura",
+    "latitude": 19.8636828,
+    "longitude": 75.311172,
+    "place_id": "ChIJd9mI4luY2zsR9S9-AmJM1Tg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd9mI4luY2zsR9S9-AmJM1Tg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:02:14"
+  }
+]

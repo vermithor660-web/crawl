@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amol Fish Center",
+    "search_category": "Fish Market",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "431102",
+    "phone_number": "+91 74992 51814",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, S K Rd, Tapargaon, Hatnur, Maharashtra 431103",
+    "area": "431102",
+    "latitude": 20.1412268,
+    "longitude": 75.12791179999999,
+    "place_id": "ChIJ97NQO6Dz2zsRDXl0xoGdQNE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ97NQO6Dz2zsRDXl0xoGdQNE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:14:58"
+  },
+  {
+    "business_name": "Tourist",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "431102",
+    "phone_number": "+91 86682 56226",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop.No.01, Palaswadi, Maharashtra 431102",
+    "area": "431102",
+    "latitude": 20.0562708,
+    "longitude": 75.1365471,
+    "place_id": "ChIJLwChzNeN2zsRDZJmblUrRQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLwChzNeN2zsRDZJmblUrRQM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:14:58"
+  }
+]

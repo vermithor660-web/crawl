@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hairways Unisex Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431101",
+    "phone_number": "+91 96730 42222",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "A-3, Ekta Nagar - Jatwada Rd, Honaji Nagar, Mahmoodpura, Chhatrapati Sambhajinagar, Maharashtra 431008",
+    "area": "Honaji Nagar, Mahmoodpura",
+    "latitude": 19.916759199999998,
+    "longitude": 75.34264569999999,
+    "place_id": "ChIJd2ER-5292zsRlah59CbL9bY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd2ER-5292zsRlah59CbL9bY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:13:57"
+  },
+  {
+    "business_name": "MH 20 Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "431101",
+    "phone_number": "+91 94212 49170",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 58,
+    "address": "Harsul T.point, Jalgaon Rd, beside domino’s pizza, opposite Hp petrol pump, Chh, Harsul, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Chh, Harsul",
+    "latitude": 19.9139861,
+    "longitude": 75.3530136,
+    "place_id": "ChIJJUsZDAC92zsREsr_3Nv6Jjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJUsZDAC92zsREsr_3Nv6Jjg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:13:59"
+  }
+]

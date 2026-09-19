@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parisara Organic Junction",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Fruit and vegetable store, Grocery delivery service, Indian grocery store, Organic shop",
+    "pincode": "431010",
+    "phone_number": "+91 76762 59800",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "No.51, Behind Sri Krishna Sweets, 7th Cross MALLESHWARAM BETWEEN SAMPIGE ROAD AND MARGOSA ROAD, Bengaluru, Karnataka 560003",
+    "area": "Malleshwaram",
+    "latitude": 12.998494899999999,
+    "longitude": 77.56985519999999,
+    "place_id": "ChIJq1fOljoWrjsRflmrqGv9i7A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq1fOljoWrjsRflmrqGv9i7A",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:09:02"
+  },
+  {
+    "business_name": "Samay natural",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Organic shop",
+    "pincode": "431010",
+    "phone_number": "+91 79841 95528",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 13,
+    "address": "Giriraj complex,opp amarnath garden,RMC west zone office road,b/h big bazar, 150 Feet Ring Rd, Rajkot, Gujarat 360005",
+    "area": "New Maruti Park Society, Chandra Park",
+    "latitude": 22.2783259,
+    "longitude": 70.772404,
+    "place_id": "ChIJ1X6dFILLWTkRXlGywtt2DNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1X6dFILLWTkRXlGywtt2DNc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:09:04"
+  }
+]

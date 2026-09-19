@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SMART MOBILE SHOP",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "431109",
+    "phone_number": "+91 98905 96362",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "01, RAJU GANDHI CHOWK, Gangapur, Aurangabad, Maharashtra 431109",
+    "area": "431109",
+    "latitude": 19.695492599999998,
+    "longitude": 75.0086389,
+    "place_id": "ChIJuRp0waKB2zsRGpuY9V4ptug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuRp0waKB2zsRGpuY9V4ptug",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:25:51"
+  },
+  {
+    "business_name": "SS Mobile Vaijapur",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store, Mobile phone repair shop",
+    "pincode": "431109",
+    "phone_number": "+91 97303 00224",
+    "website": "http://www.ssmobile.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no.F25,26, Salim complex, Yeola road, opp. HP petrol, Vaijapur, Maharashtra 423701",
+    "area": "Vaijapur",
+    "latitude": 19.9252115,
+    "longitude": 74.7285364,
+    "place_id": "ChIJFQ9BlvJv3DsREJh9rlyUCd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFQ9BlvJv3DsREJh9rlyUCd8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:25:52"
+  }
+]

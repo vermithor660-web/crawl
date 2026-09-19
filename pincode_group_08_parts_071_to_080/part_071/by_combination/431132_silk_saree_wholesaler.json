@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satish Saree Stores",
+    "search_category": "Silk Saree Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431132",
+    "phone_number": "+91 91758 90985",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Modi Number 3, Variety Square, Sitabuldi, Nagpur, Maharashtra 440012",
+    "area": "Variety Square, Sitabuldi",
+    "latitude": 21.144089299999997,
+    "longitude": 79.0836092,
+    "place_id": "ChIJ0bj4EcDA1DsRifZ41C6I1gk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0bj4EcDA1DsRifZ41C6I1gk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:05:26"
+  },
+  {
+    "business_name": "S.A. Silk Factory",
+    "search_category": "Silk Saree Wholesaler",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop, Clothing manufacturer",
+    "pincode": "431132",
+    "phone_number": "N/A",
+    "website": "https://sasilkfactory.com/",
+    "rating": 4.8,
+    "reviews_count": 55,
+    "address": "B3/280, Shivala Rd, near hotel akash ganga, Shivala, Varanasi, Uttar Pradesh 221001",
+    "area": "Shivala",
+    "latitude": 25.2952914,
+    "longitude": 83.00500319999999,
+    "place_id": "ChIJBYqtj2ExjjkRxE3oXNCl208",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBYqtj2ExjjkRxE3oXNCl208",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:05:27"
+  }
+]

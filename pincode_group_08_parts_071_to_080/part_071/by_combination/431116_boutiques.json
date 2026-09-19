@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yamini Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431116",
+    "phone_number": "+91 94214 17870",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Shop no 7, Yamini Boutique, Infront of Nagar Parishad Garden, near Shri Ram Hotel, Vaijapur, Maharashtra 423701",
+    "area": "Vaijapur",
+    "latitude": 19.9256818,
+    "longitude": 74.72848119999999,
+    "place_id": "ChIJ09gMFWFv3DsR5KGObcdgbl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ09gMFWFv3DsR5KGObcdgbl0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:38:02"
+  },
+  {
+    "business_name": "Sajan Collection",
+    "search_category": "Boutiques",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "431116",
+    "phone_number": "+91 88069 49714",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sajan Collection Shivoor Bangla, Maharashtra 431116",
+    "area": "431116",
+    "latitude": 20.0950793,
+    "longitude": 74.8273183,
+    "place_id": "ChIJPVqSh4QN3DsRQCGfVGSVHX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPVqSh4QN3DsRQCGfVGSVHX4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:38:03"
+  }
+]

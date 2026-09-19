@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raymond Made to Measure",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Jeans shop, Designer Clothing Store, Dress store, Fabric store, Clothing Accessories Store, Men's clothing store, Gents Tailor, Clothing store",
+    "pincode": "431008",
+    "phone_number": "+91 80 6986 5944",
+    "website": "https://cidco.myraymond.com/made-to-measure/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No: G-84A, Ground Floor, Prozone Mall, Road, MIDC, Chilkalthana, Chhatrapati Sambhajinagar, Maharashtra 431008",
+    "area": "MIDC, Chilkalthana",
+    "latitude": 19.8921431,
+    "longitude": 75.36687169999999,
+    "place_id": "ChIJRedTRTij2zsR-0PPt2CYu0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRedTRTij2zsR-0PPt2CYu0c",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:05:22"
+  },
+  {
+    "business_name": "Divya Boutique",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Service establishment",
+    "pincode": "431008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Divya Boutique, 431008, India",
+    "area": "431008",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJPycgMFWj2zsR9H1d0Q7ioEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPycgMFWj2zsR9H1d0Q7ioEI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:05:22"
+  }
+]

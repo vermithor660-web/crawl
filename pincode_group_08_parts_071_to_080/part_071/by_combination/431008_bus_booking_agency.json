@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mandhir Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Airline ticket agency, Bus ticket agency, Money transfer service, Train ticket office",
+    "pincode": "431008",
+    "phone_number": "+91 240 224 1533",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "N-11, Hudco, Aurangabad, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Hudco, Sudarshan Nagar, N 11",
+    "latitude": 19.904552799999998,
+    "longitude": 75.35688739999999,
+    "place_id": "ChIJwyM4BrOi2zsRTeV63iWqbRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwyM4BrOi2zsRTeV63iWqbRg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:05:47"
+  },
+  {
+    "business_name": "I K it suppliers",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "431008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WFX4+PJ, Palshi, Maharashtra 431008",
+    "area": "431008",
+    "latitude": 19.949261,
+    "longitude": 75.456554,
+    "place_id": "ChIJyaNDTgC72zsRgFmKYHNCKe0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyaNDTgC72zsRgFmKYHNCKe0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:05:47"
+  }
+]

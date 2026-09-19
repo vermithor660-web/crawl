@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "मातोश्री डिजीटल एक्स - रे",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "431115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "station, near railway signal, beside Matoshree Medical store, Lasur, Sawangi, Maharashtra 423702",
+    "area": "Lasur",
+    "latitude": 19.9259924,
+    "longitude": 75.0149124,
+    "place_id": "ChIJb1b49gyJ2zsRlBBslKFaugs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb1b49gyJ2zsRlBBslKFaugs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:36:13"
+  },
+  {
+    "business_name": "Dhanvantri X Ray Centre Shivoor",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "431115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "3VCC+4Q3, Shivoor, Maharashtra 431116",
+    "area": "431115",
+    "latitude": 20.070271599999998,
+    "longitude": 74.8719103,
+    "place_id": "ChIJv54cBAAN3DsRfNEEaGI7i58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv54cBAAN3DsRfNEEaGI7i58",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:36:16"
+  }
+]

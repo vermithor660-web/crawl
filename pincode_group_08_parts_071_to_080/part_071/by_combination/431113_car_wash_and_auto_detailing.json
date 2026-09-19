@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "3Driven Auto Spa",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car detailing service",
+    "all_categories": "Car detailing service, Service establishment",
+    "pincode": "431113",
+    "phone_number": "N/A",
+    "website": "http://www.3drivenautospa.com/",
+    "rating": 5,
+    "reviews_count": 56,
+    "address": "3Driven Auto Spa, 431113, India",
+    "area": "431113",
+    "latitude": 43.0418555,
+    "longitude": -77.490985,
+    "place_id": "ChIJI-CDhl1H0YkRDZPPQsQQJU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI-CDhl1H0YkRDZPPQsQQJU0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:32:37"
+  },
+  {
+    "business_name": "Top Dog Mobile Detailing South LLC",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car detailing service",
+    "all_categories": "Car detailing service, Auto window tinting service, Car wash, Service establishment",
+    "pincode": "431113",
+    "phone_number": "N/A",
+    "website": "https://www.topdogmobiledetailingsouth.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Top Dog Mobile Detailing South LLC, 431113, India",
+    "area": "431113",
+    "latitude": 28.147325,
+    "longitude": -82.45375159999999,
+    "place_id": "ChIJ__97z0-7wogReA9wK66JItQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__97z0-7wogReA9wK66JItQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:32:38"
+  }
+]

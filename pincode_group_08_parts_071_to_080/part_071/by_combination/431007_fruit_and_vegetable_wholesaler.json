@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pathan Vegetable",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruits & Vegetable Wholesaler",
+    "all_categories": "Fruits & Vegetable Wholesaler, General store",
+    "pincode": "431007",
+    "phone_number": "+91 76668 69365",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "No1hina Nagar, Shop, Chilkalthana, Chhatrapati Sambhajinagar, Maharashtra 431007",
+    "area": "Chilkalthana",
+    "latitude": 19.868510699999998,
+    "longitude": 75.41945419999999,
+    "place_id": "ChIJCaHWWXej2zsR2VExBtrIj70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCaHWWXej2zsR2VExBtrIj70",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:03:03"
+  },
+  {
+    "business_name": "Noor And Sons Vegetables Supplier",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable wholesaler",
+    "all_categories": "Fruit and vegetable wholesaler",
+    "pincode": "431007",
+    "phone_number": "+91 70578 21600",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Brahmangaon, Road, To, Kadethan Kh., Kadethan Bk., Maharashtra 431121",
+    "area": "To",
+    "latitude": 19.6565908,
+    "longitude": 75.5628308,
+    "place_id": "ChIJ30RJQY0H2zsRiwMUlh3W1m4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ30RJQY0H2zsRiwMUlh3W1m4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:03:04"
+  }
+]

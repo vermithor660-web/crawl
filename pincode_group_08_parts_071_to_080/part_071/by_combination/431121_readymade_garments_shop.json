@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maharaja collection",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431121",
+    "phone_number": "+91 79720 53262",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Maharaja collection, main road, Pachod Bk., Maharashtra 431121",
+    "area": "431121",
+    "latitude": 19.5695011,
+    "longitude": 75.627635,
+    "place_id": "ChIJGbV6pFAD2zsR71GFwTWlpRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGbV6pFAD2zsR71GFwTWlpRI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:45:21"
+  },
+  {
+    "business_name": "Bharat Cloth Store",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431121",
+    "phone_number": "+91 94227 25259",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "53 GUT NO 94/2, BHARAT CLOTH STORES, Plot No. 52, Matsyodari Colony, Ambad, Maharashtra 431204",
+    "area": "Matsyodari Colony",
+    "latitude": 19.6103384,
+    "longitude": 75.7948368,
+    "place_id": "ChIJw2BZV9D92jsRprh8fCnbHiE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw2BZV9D92jsRprh8fCnbHiE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:45:21"
+  }
+]

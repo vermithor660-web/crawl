@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naasih Nephro Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "431115",
+    "phone_number": "+91 98457 08752",
+    "website": "http://naasihnephrocenter.com/",
+    "rating": 4.8,
+    "reviews_count": 26,
+    "address": "Clarke Rd, Richards Town, Bengaluru, Karnataka 560005",
+    "area": "Richards Town",
+    "latitude": 13.004774399999999,
+    "longitude": 77.6172315,
+    "place_id": "ChIJ-b6OnYkXrjsRKxSwKNa0mug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-b6OnYkXrjsRKxSwKNa0mug",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:36:16"
+  },
+  {
+    "business_name": "Ghazipur Dialysis Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Hospital, Medical Center, Nephrologist",
+    "pincode": "431115",
+    "phone_number": "+91 97955 68766",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 32,
+    "address": "Life Line Hospital Gandhi Park, Aamghat colony, Mahuabagh, Ghazipur, Uttar Pradesh 233001",
+    "area": "Mishra Bazar, Mahuabagh",
+    "latitude": 25.5816914,
+    "longitude": 83.5793997,
+    "place_id": "ChIJJ3P6pEX_kTkRVy_4vEHNjhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3P6pEX_kTkRVy_4vEHNjhM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:36:16"
+  }
+]

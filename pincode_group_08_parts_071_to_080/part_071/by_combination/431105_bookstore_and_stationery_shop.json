@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radhika Stationers & General",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Pen store",
+    "all_categories": "Pen store",
+    "pincode": "431105",
+    "phone_number": "+91 80075 81650",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Surbhi Complex, N12 J-1/6, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "N 2, Cidco",
+    "latitude": 19.902208899999998,
+    "longitude": 75.3462839,
+    "place_id": "ChIJK_9I0Oej2zsRBtI19RknuUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK_9I0Oej2zsRBtI19RknuUY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:22:00"
+  },
+  {
+    "business_name": "Anvit Stationeries",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "431105",
+    "phone_number": "+91 89759 29979",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 41,
+    "address": "Marwadi Galli, behind Canara Bank, Krishnapur, Bidkin, Maharashtra 431105",
+    "area": "Krishnapur",
+    "latitude": 19.705859399999998,
+    "longitude": 75.30067439999999,
+    "place_id": "ChIJ8Z-2AHp12zsRAAAA0N8Y0TM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Z-2AHp12zsRAAAA0N8Y0TM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:22:02"
+  }
+]

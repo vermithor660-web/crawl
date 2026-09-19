@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dahiwal jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "431129",
+    "phone_number": "+91 90289 57770",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sawargaon, Maharashtra 431131",
+    "area": "431129",
+    "latitude": 19.1891875,
+    "longitude": 76.1376875,
+    "place_id": "ChIJq_fNZfm32jsR2-ZaE2VRGBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq_fNZfm32jsR2-ZaE2VRGBs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:00:03"
+  },
+  {
+    "business_name": "Mahamuni Jelrsh",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "431129",
+    "phone_number": "+91 95790 19556",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 6, Majalgao Road, Sirasdevi, Maharashtra 431129",
+    "area": "Sirasdevi",
+    "latitude": 19.199873999999998,
+    "longitude": 75.8717319,
+    "place_id": "ChIJwyR_wufR2jsRZfzgaVO_UoI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwyR_wufR2jsRZfzgaVO_UoI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:00:04"
+  }
+]

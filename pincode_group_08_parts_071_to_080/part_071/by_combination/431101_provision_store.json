@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Areen Daily Needs And General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431101",
+    "phone_number": "+91 98813 19075",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Shop No. 1, Mount View Apartment, Power House Road, Bhavshingpura, Padegaon, Chhatrapati Sambhajinagar, Maharashtra 431002",
+    "area": "Bhavshingpura, Padegaon",
+    "latitude": 19.89837,
+    "longitude": 75.288016,
+    "place_id": "ChIJzfAAmtaZ2zsRS3CJmnUotA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzfAAmtaZ2zsRS3CJmnUotA0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:13:01"
+  },
+  {
+    "business_name": "Renuka Provision and General Stores",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431101",
+    "phone_number": "+91 78238 32453",
+    "website": "N/A",
+    "rating": 1.5,
+    "reviews_count": 2,
+    "address": "Muzaffar Nagar, Mahmoodpura, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Muzaffar Nagar, Mahmoodpura",
+    "latitude": 19.9152074,
+    "longitude": 75.3403221,
+    "place_id": "ChIJ8RATg_2X2zsRM0pv7W9Nq9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8RATg_2X2zsRM0pv7W9Nq9U",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:13:01"
+  }
+]

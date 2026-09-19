@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Gent's Parlor",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "431121",
+    "phone_number": "+91 88885 44503",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.1, near Z.p School, Murma, Aurangabad, Maharashtra 431121",
+    "area": "431121",
+    "latitude": 19.5450767,
+    "longitude": 75.6186189,
+    "place_id": "ChIJmVFwS7Eb2zsRI2CDCw1X8_g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmVFwS7Eb2zsRI2CDCw1X8_g",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:46:04"
+  },
+  {
+    "business_name": "Shree Sawmi Samarth Gents Parlour",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "431121",
+    "phone_number": "+91 94214 13877",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Paithan Rd, Dhorkin, Maharashtra 431105",
+    "area": "431121",
+    "latitude": 19.6149097,
+    "longitude": 75.3663325,
+    "place_id": "ChIJS7aIRZYM2zsRkZUovuYkEuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS7aIRZYM2zsRkZUovuYkEuo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:46:07"
+  }
+]

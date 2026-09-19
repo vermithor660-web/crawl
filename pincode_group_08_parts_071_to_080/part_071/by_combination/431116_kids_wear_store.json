@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tales & Stories",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431116",
+    "phone_number": "N/A",
+    "website": "https://www.talesandstories.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Prozone Mall, G-30A, MIDC Industrial Area, Chilkalthana, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "MIDC Industrial Area, Chilkalthana",
+    "latitude": 19.876517399999997,
+    "longitude": 75.3721333,
+    "place_id": "ChIJ6zrg7s-j2zsR2NSrotl13AQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6zrg7s-j2zsR2NSrotl13AQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:37:55"
+  },
+  {
+    "business_name": "Jayashree Kirana",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "431116",
+    "phone_number": "+91 90962 98112",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bus Stop, Shop No 1opp, Biloli, Maharashtra 431116",
+    "area": "431116",
+    "latitude": 20.0403157,
+    "longitude": 74.7271414,
+    "place_id": "ChIJk1CClUgT3DsRaYCd20jrooA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk1CClUgT3DsRaYCd20jrooA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:37:55"
+  }
+]

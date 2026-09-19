@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arihant Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Gold dealer, Goldsmith, Jewelry designer, Jewelry manufacturer, Jewelry repair service",
+    "pincode": "431123",
+    "phone_number": "+91 97652 62031",
+    "website": "https://www.arihantjeweller.in/",
+    "rating": 4.7,
+    "reviews_count": 158,
+    "address": "Saraf line, Kalamb Rd, Kalamb, Maharashtra 413507",
+    "area": "431123",
+    "latitude": 18.5776806,
+    "longitude": 76.02241169999999,
+    "place_id": "ChIJ_5ly8HEUxTsRXR6xsEgNtJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_5ly8HEUxTsRXR6xsEgNtJ0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:49:10"
+  },
+  {
+    "business_name": "Raj jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jewelry designer",
+    "pincode": "431123",
+    "phone_number": "+91 74995 83040",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "sonar line raod, Kalamb, Maharashtra 413507",
+    "area": "431123",
+    "latitude": 18.5772516,
+    "longitude": 76.021594,
+    "place_id": "ChIJb68tn3kVxTsRq2xnD7pmi_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb68tn3kVxTsRq2xnD7pmi_o",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:49:13"
+  }
+]

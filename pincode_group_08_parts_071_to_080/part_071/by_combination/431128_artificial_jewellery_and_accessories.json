@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pandurang Jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jeweler",
+    "pincode": "431128",
+    "phone_number": "+91 83902 33927",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Pandurang jewellers, Main Road, Sirsala, Maharashtra 431128",
+    "area": "Sirsala",
+    "latitude": 18.973948,
+    "longitude": 76.36861209999999,
+    "place_id": "ChIJUU_9wdVVxTsR9n4aWmEbaFE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUU_9wdVVxTsR9n4aWmEbaFE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:58:17"
+  },
+  {
+    "business_name": "Aarya Jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "431128",
+    "phone_number": "+91 99224 15477",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Tilak Road, Dhundi Pura, Bir, Beed, Maharashtra 431122",
+    "area": "Dhundi Pura, Bir",
+    "latitude": 18.992276399999998,
+    "longitude": 75.760819,
+    "place_id": "ChIJD5jSmCArxTsR_BVmIkEVa0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD5jSmCArxTsR_BVmIkEVa0A",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:58:19"
+  }
+]

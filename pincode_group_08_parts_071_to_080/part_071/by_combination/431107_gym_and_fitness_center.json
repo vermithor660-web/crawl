@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aarogam Fitness club .weight Management",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "431107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Adsare complex, Paithan Rd, aurangabad, Mudhalwadi, Maharashtra 431148",
+    "area": "431107",
+    "latitude": 19.527582499999998,
+    "longitude": 75.3838636,
+    "place_id": "ChIJnf3R990T2zsRe2FXMM7IL8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnf3R990T2zsRe2FXMM7IL8Q",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:23:13"
+  },
+  {
+    "business_name": "Fitness First Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "431107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "F9GM+XF4, Court Area, Paithan, Maharashtra 431107",
+    "area": "Court Area",
+    "latitude": 19.4772514,
+    "longitude": 75.3837745,
+    "place_id": "ChIJnZeQRgQT2zsR3yD28VdO1Fw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnZeQRgQT2zsR3yD28VdO1Fw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:23:15"
+  }
+]

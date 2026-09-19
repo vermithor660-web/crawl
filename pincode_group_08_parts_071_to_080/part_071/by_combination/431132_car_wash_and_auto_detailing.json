@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pr Auto Spa",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car detailing service",
+    "all_categories": "Car detailing service, Service establishment",
+    "pincode": "431132",
+    "phone_number": "N/A",
+    "website": "https://www.prautospa.com/",
+    "rating": 5,
+    "reviews_count": 48,
+    "address": "Pr Auto Spa, 431132, India",
+    "area": "431132",
+    "latitude": 43.021431,
+    "longitude": -76.1671289,
+    "place_id": "ChIJVW7PdmuGYogRuqZndIemtnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVW7PdmuGYogRuqZndIemtnI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:05:51"
+  },
+  {
+    "business_name": "Optimum Car Detailing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car detailing service",
+    "all_categories": "Car detailing service, Service establishment",
+    "pincode": "431132",
+    "phone_number": "N/A",
+    "website": "https://ocdwny.com/",
+    "rating": 5,
+    "reviews_count": 29,
+    "address": "Optimum Car Detailing, 431132, India",
+    "area": "431132",
+    "latitude": 42.9515335,
+    "longitude": -78.7835614,
+    "place_id": "ChIJEeii_cYhxoERJhQVD_xTE00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEeii_cYhxoERJhQVD_xTE00",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:05:51"
+  }
+]

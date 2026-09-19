@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govind Interiors",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "431007",
+    "phone_number": "+91 94040 22443",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "R8XW+GFC, Gopinath pura, Gopi Nath Pura, Alok Nagar, Plot, Satara Deolai Parisar, deokar parisar, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Gopi Nath Pura, Alok Nagar, Plot, Satara Deolai Parisar",
+    "latitude": 19.8488075,
+    "longitude": 75.3461507,
+    "place_id": "ChIJLWrFvZ2Z2zsRNhwCiWPdguI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLWrFvZ2Z2zsRNhwCiWPdguI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:03:57"
+  },
+  {
+    "business_name": "NILAM FURNITURE",
+    "search_category": "Interior Designers",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Carpenter, Furniture maker, Office furniture store, Sofa store",
+    "pincode": "431007",
+    "phone_number": "+91 98222 46441",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 54,
+    "address": "431, Jalna Rd, Shri Krishna Colony, Chilkalthana, Chhatrapati Sambhajinagar, Maharashtra 431007",
+    "area": "Shri Krishna Colony, Chilkalthana",
+    "latitude": 19.865499,
+    "longitude": 75.41683019999999,
+    "place_id": "ChIJEaji7Qaj2zsRd7B2CMTC79s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEaji7Qaj2zsRd7B2CMTC79s",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:03:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "I Phone Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "431128",
+    "phone_number": "+91 87673 70037",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No 1 Narsari Road Opp Mannat Zam Zam Colony, Shahinshah Nagar, Beed, Maharashtra 431122",
+    "area": "Shahinshah Nagar, Bir",
+    "latitude": 18.9822746,
+    "longitude": 75.7567155,
+    "place_id": "ChIJAZ3fLsYrxTsRbUnWqmhIWBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAZ3fLsYrxTsRbUnWqmhIWBQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:59:16"
+  },
+  {
+    "business_name": "Rahul mobile shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "431128",
+    "phone_number": "+91 91121 21350",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Siddhivinayak mandir, Ashok Nagar barshi naka, Bid Rural, Prakash Ambedkar Nagar, Beed, Maharashtra 431122",
+    "area": "Bid Rural, Prakash Ambedkar Nagar",
+    "latitude": 18.9772461,
+    "longitude": 75.7663336,
+    "place_id": "ChIJI1DtcEIrxTsRvlXo0F5T3Jg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI1DtcEIrxTsRvlXo0F5T3Jg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:59:17"
+  }
+]

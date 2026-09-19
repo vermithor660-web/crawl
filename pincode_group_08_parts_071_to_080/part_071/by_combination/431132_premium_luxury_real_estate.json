@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SaudaGhar",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Real Estate Builders & Construction Company",
+    "pincode": "431132",
+    "phone_number": "+91 70307 71234",
+    "website": "https://www.saudaghar.com/",
+    "rating": 4.9,
+    "reviews_count": 421,
+    "address": "816, 8th Floor, GLOBAL BUSINESS HUB, Kharadi Rd, opposite to Eon Free Zone, EON Free Zone, Kharadi, Pune, Maharashtra 411014",
+    "area": "EON Free Zone, Kharadi",
+    "latitude": 18.5534763,
+    "longitude": 73.9494552,
+    "place_id": "ChIJD9BQ4erDwjsRXzumxEeJYfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD9BQ4erDwjsRXzumxEeJYfo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:06:44"
+  },
+  {
+    "business_name": "Anant Metange (Property Dealer, Akola)",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent",
+    "pincode": "431132",
+    "phone_number": "+91 90211 93290",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Suryagardan Number 1 Apartment, Khadki Bk, Khadki, Akola, Maharashtra 444004",
+    "area": "Khadki Bk, Khadki",
+    "latitude": 20.6633267,
+    "longitude": 77.0237959,
+    "place_id": "ChIJey3zTeMt1zsR_3snqvkWU8M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJey3zTeMt1zsR_3snqvkWU8M",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:06:45"
+  }
+]

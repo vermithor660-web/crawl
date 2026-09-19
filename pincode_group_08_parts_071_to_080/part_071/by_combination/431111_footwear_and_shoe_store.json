@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunil Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "431111",
+    "phone_number": "+91 96896 44908",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Phulambri-Sillod Rd, near bus satnd, Chhatrapati Sambhajinagar, Phulambri, Maharashtra 431111",
+    "area": "431111",
+    "latitude": 20.0884104,
+    "longitude": 75.4213903,
+    "place_id": "ChIJixRAqgy_2zsRhsIJ_S0wJG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJixRAqgy_2zsRhsIJ_S0wJG4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:28:35"
+  },
+  {
+    "business_name": "SHIVANYA SPORTS",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "431111",
+    "phone_number": "+91 80077 88832",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 2 Main Road At Wadod Bazar Phulambri, Maharashtra 431134",
+    "area": "431111",
+    "latitude": 20.148937,
+    "longitude": 75.52312049999999,
+    "place_id": "ChIJU4WfDhfH2zsR74YLFu1-7HU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU4WfDhfH2zsR74YLFu1-7HU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:28:37"
+  }
+]

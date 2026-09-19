@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Kanhaiya-Juice & Breakfast Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "431121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "CPR8+M7C, Wadigodri Fata, Jalna - Beed Rd, Maharashtra 431205",
+    "area": "431121",
+    "latitude": 19.441675099999998,
+    "longitude": 75.7156263,
+    "place_id": "ChIJFdiV1F7h2jsRECTTZdPFK68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFdiV1F7h2jsRECTTZdPFK68",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:45:15"
+  },
+  {
+    "business_name": "Ayaan Pan shop and juice centre",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "431121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QHRH+5VG, Adgaon Kh, Maharashtra 431154",
+    "area": "431121",
+    "latitude": 19.7905485,
+    "longitude": 75.5796269,
+    "place_id": "ChIJdWYTbACp2zsRILdMdFmn2Ys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdWYTbACp2zsRILdMdFmn2Ys",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:45:15"
+  }
+]

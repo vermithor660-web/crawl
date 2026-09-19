@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Phoenix Event Studio",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "431010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Surana Nagar, Jalna Rd, Raghuveer Nagar, Venkatesh Nagar, Mondha, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Raghuveer Nagar, Venkatesh Nagar, Mondha",
+    "latitude": 19.8772272,
+    "longitude": 75.3501706,
+    "place_id": "ChIJOxtzinWj2zsRkaemBo82Hp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOxtzinWj2zsRkaemBo82Hp8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:10:17"
+  },
+  {
+    "business_name": "Shree Event Management & Ballon Decoration",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "431010",
+    "phone_number": "N/A",
+    "website": "https://youtube.com/@shreeeventmanagement?si=SNNFtV7i4baCqZqT",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Satara Deolai Parisar, Chhatrapati Sambhajinagar, Maharashtra 431010",
+    "area": "Satara Deolai Parisar",
+    "latitude": 19.844361499999998,
+    "longitude": 75.334756,
+    "place_id": "ChIJP_H0956Z2zsR8Wdc7LdFBfc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP_H0956Z2zsR8Wdc7LdFBfc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:10:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "We Care Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "431007",
+    "phone_number": "+91 89835 34352",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "We care clinic, Raja Bazar Rd, opp. jain mandir, Nawabpura, Mondha, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Nawabpura, Mondha",
+    "latitude": 19.8858972,
+    "longitude": 75.3349763,
+    "place_id": "ChIJAxpKtweZ2zsRXnOxDLADNHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAxpKtweZ2zsRXnOxDLADNHg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:03:33"
+  },
+  {
+    "business_name": "Dr DESHMUKH’S Dental Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "431007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "first floor, Dr. Deshmukh’s polyclinic, near, Gajanan Maharaj Mandir Rd, above Nitin wheel alignment, opposite CADA office, Sandesh Nagar, Vishalnagar, Garkheda, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Sandesh Nagar, Vishalnagar, Garkheda",
+    "latitude": 19.8705979,
+    "longitude": 75.35177039999999,
+    "place_id": "ChIJuT2SRp6j2zsRXrmcykvLYHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuT2SRp6j2zsRXrmcykvLYHY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:03:34"
+  }
+]

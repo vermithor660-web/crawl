@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE ROYAL CAKE STUDIO",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "431133",
+    "phone_number": "+91 77568 55898",
+    "website": "https://theroyalcakestudio.vercel.app/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "BE SIDE, RODE L, NEW KAMAN, Waluj, Kamlapur, Maharashtra 431133",
+    "area": "NEW KAMAN, Waluj",
+    "latitude": 19.836211,
+    "longitude": 75.2190107,
+    "place_id": "ChIJd3xgawyb2zsRVKciRoFvTEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd3xgawyb2zsRVKciRoFvTEk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:07:11"
+  },
+  {
+    "business_name": "Monginis Cake Shop",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Bakery and Cake Shop, Dessert restaurant, Dessert shop",
+    "pincode": "431133",
+    "phone_number": "+91 98810 81147",
+    "website": "https://www.monginis.net/",
+    "rating": 3.9,
+    "reviews_count": 73,
+    "address": "RL 141/6 Jay Bhavani Chowk, MIDC Waluj, Bajaj Nagar, Wadgaon Kolhati, Maharashtra 431136",
+    "area": "MIDC Waluj, Bajaj Nagar, Ranjangaon Shenpunji, Waluj",
+    "latitude": 19.8426462,
+    "longitude": 75.2330901,
+    "place_id": "ChIJExqKHAib2zsRka6xsOIC37o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJExqKHAib2zsRka6xsOIC37o",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:07:11"
+  }
+]

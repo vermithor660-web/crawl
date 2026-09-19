@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LeadLeaf Consultants",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Employment consultant",
+    "all_categories": "Employment consultant",
+    "pincode": "431009",
+    "phone_number": "+91 84830 00400",
+    "website": "https://leadleaf.in/",
+    "rating": 4.3,
+    "reviews_count": 29,
+    "address": "Gokul Sweet to Shivaji, Old, Pundlik Nagar Rd, near Rashtriya Mahavidyalay, Ganesh Nagar, Sector N 4, Garkheda, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Ganesh Nagar, Sector N 4, Garkheda",
+    "latitude": 19.8588633,
+    "longitude": 75.364093,
+    "place_id": "ChIJpzWAwUij2zsRa86JmK6SZjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpzWAwUij2zsRa86JmK6SZjM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:08:36"
+  },
+  {
+    "business_name": "RD Management and Placement Consultant",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant",
+    "pincode": "431009",
+    "phone_number": "+91 98900 57460",
+    "website": "http://rdconsultant.co.in/",
+    "rating": 4.2,
+    "reviews_count": 19,
+    "address": "Plot 21, August Hightstreet, 22, Ulkanagari Rd, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Basant Bahar, Ulkanagari",
+    "latitude": 19.864939,
+    "longitude": 75.344377,
+    "place_id": "ChIJ-WSEpGuZ2zsR4pH2MiTOIAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-WSEpGuZ2zsR4pH2MiTOIAg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:08:36"
+  }
+]

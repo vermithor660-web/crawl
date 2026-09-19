@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayushman Enterprises",
+    "search_category": "Plumber",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "431115",
+    "phone_number": "+91 75888 12367",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Shop1, near bus stand, Loni Kh., Maharashtra 431116",
+    "area": "431115",
+    "latitude": 20.1531619,
+    "longitude": 74.8216521,
+    "place_id": "ChIJezV5UrIP3DsRunq6GIxGSf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJezV5UrIP3DsRunq6GIxGSf4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:36:34"
+  },
+  {
+    "business_name": "Bharuchi Trading Company",
+    "search_category": "Plumber",
+    "primary_category": "Pipes Wholesaler",
+    "all_categories": "Pipes Wholesaler, Machine shop",
+    "pincode": "431115",
+    "phone_number": "+91 94234 55410",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "V8PM+WV6, Opposite A.Patel Petrol Pump, Mahavir Chowk, Shahgunj, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Mahavir Chowk, Shahgunj",
+    "latitude": 19.887292799999997,
+    "longitude": 75.33464029999999,
+    "place_id": "ChIJY7xpoxWY2zsRVewCs8M_nd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY7xpoxWY2zsRVewCs8M_nd8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:36:35"
+  }
+]

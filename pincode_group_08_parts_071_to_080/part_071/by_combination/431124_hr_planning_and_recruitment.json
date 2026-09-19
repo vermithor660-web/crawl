@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Clark Human Resources",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "431124",
+    "phone_number": "07503 742237",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Clark Human Resources, 431124, India",
+    "area": "431124",
+    "latitude": 47.73855,
+    "longitude": 12.508827499999999,
+    "place_id": "ChIJO-9cHdC4tUURkoUcqSqMYTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO-9cHdC4tUURkoUcqSqMYTc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:52:09"
+  },
+  {
+    "business_name": "HR",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "431124",
+    "phone_number": "+91 63857 31874",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HR, 431124, India",
+    "area": "431124",
+    "latitude": 10.845917499999999,
+    "longitude": 78.5874071,
+    "place_id": "ChIJOaDQjIHcHSgRZS8ghwq19aU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOaDQjIHcHSgRZS8ghwq19aU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:52:09"
+  }
+]

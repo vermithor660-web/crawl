@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRIME PROPERTY",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent",
+    "pincode": "425524",
+    "phone_number": "N/A",
+    "website": "https://www.primepropertypalanpur.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "swagat Villa road, 1, Deesa - Palanpur Hwy, near medipolis hospital, Palanpur, Gujarat 385001",
+    "area": "425524",
+    "latitude": 24.178074499999997,
+    "longitude": 72.40581,
+    "place_id": "ChIJT_jO-8LrXDkRRIBID8bzN3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT_jO-8LrXDkRRIBID8bzN3g",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:50:41"
+  },
+  {
+    "business_name": "Prime Homes & Developers",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "425524",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "A Block, Laxmi Vihar, Nawada, Delhi, 110059",
+    "area": "A Block, Laxmi Vihar, Nawada",
+    "latitude": 28.6320046,
+    "longitude": 77.0271691,
+    "place_id": "ChIJPTGQZmkFDTkR9XfDBF0G0bQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPTGQZmkFDTkR9XfDBF0G0bQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:50:41"
+  }
+]

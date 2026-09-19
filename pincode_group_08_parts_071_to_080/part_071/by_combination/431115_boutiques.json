@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jairaj Collection",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431115",
+    "phone_number": "+91 95614 72804",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "22MM+P65, रोड, Deogaon R, Maharashtra 431115",
+    "area": "431115",
+    "latitude": 20.0342555,
+    "longitude": 75.0331186,
+    "place_id": "ChIJ6fElNBKL2zsRpgePrZOuEgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6fElNBKL2zsRpgePrZOuEgM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:36:07"
+  },
+  {
+    "business_name": "Rohini Sadi Center",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431115",
+    "phone_number": "+91 95522 88325",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Shop No 2, Main Road, near Devgaon, Deogaon R, Maharashtra 431115",
+    "area": "431115",
+    "latitude": 20.0348927,
+    "longitude": 75.0343208,
+    "place_id": "ChIJz1Ff5kWL2zsRJa68DlK8fbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz1Ff5kWL2zsRJa68DlK8fbE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:36:08"
+  }
+]

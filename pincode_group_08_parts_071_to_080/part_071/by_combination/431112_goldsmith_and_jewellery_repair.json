@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Potdar jewellery",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith, Jewelry store",
+    "pincode": "431112",
+    "phone_number": "+91 89282 85988",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sarafa market, Sillod, Maharashtra 431112",
+    "area": "Sneha Nagar",
+    "latitude": 20.2997412,
+    "longitude": 75.6508453,
+    "place_id": "ChIJ29qeiGrN2zsRn86TDlxHRxQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29qeiGrN2zsRn86TDlxHRxQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:30:28"
+  },
+  {
+    "business_name": "Shri sai jwelars",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "431112",
+    "phone_number": "+91 77410 80051",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Srafa market, Bhokardan, hegdewar chaowk, near Police station, Bhokardan, Maharashtra 431114",
+    "area": "431112",
+    "latitude": 20.2546689,
+    "longitude": 75.7719209,
+    "place_id": "ChIJr30dWbAz2jsRvBXK1UTCpiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr30dWbAz2jsRvBXK1UTCpiw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:30:30"
+  }
+]

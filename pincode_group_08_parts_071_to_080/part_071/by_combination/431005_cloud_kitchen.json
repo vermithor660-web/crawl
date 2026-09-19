@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Moms Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "431005",
+    "phone_number": "+91 88267 60309",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gut No 83, Sai anant tower, Shop no G3, Deolai Rd, chh, Chhatrapati Sambhajinagar, Maharashtra 431010",
+    "area": "chh, Satara Deolai Parisar",
+    "latitude": 19.839907,
+    "longitude": 75.3552638,
+    "place_id": "ChIJKXmRTQCj2zsRiNirSuD0l0g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKXmRTQCj2zsRiNirSuD0l0g",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:59:12"
+  },
+  {
+    "business_name": "Jyo's Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "431005",
+    "phone_number": "+91 88300 25463",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hari Sai Park Renuka Mata Kaman, nearby Chate School, Chh, Satara Deolai Parisar, Chhatrapati Sambhajinagar, Maharashtra 431010",
+    "area": "Chh, Satara Deolai Parisar",
+    "latitude": 19.840400499999998,
+    "longitude": 75.3466364,
+    "place_id": "ChIJsdeIQByj2zsRCFxlCxhRrMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsdeIQByj2zsRCFxlCxhRrMQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:59:13"
+  }
+]

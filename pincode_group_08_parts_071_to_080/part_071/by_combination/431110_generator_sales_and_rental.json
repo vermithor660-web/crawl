@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Generator Store",
+    "search_category": "Generator Sales and Rental",
+    "primary_category": "Electric generator shop",
+    "all_categories": "Electric generator shop, Service establishment, Honda dealer",
+    "pincode": "431110",
+    "phone_number": "N/A",
+    "website": "http://www.generatorstore.com.au/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Generator Store, 431110, India",
+    "area": "431110",
+    "latitude": -32.205414999999995,
+    "longitude": 136.1073692,
+    "place_id": "ChIJMzywFfpn1moRxrxjJY0m3Vk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMzywFfpn1moRxrxjJY0m3Vk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:28:01"
+  },
+  {
+    "business_name": "Premier Generator Service LLC",
+    "search_category": "Generator Sales and Rental",
+    "primary_category": "Electric generator shop",
+    "all_categories": "Electric generator shop, Electrical equipment supplier, Electrical installation service, Electrical products wholesaler",
+    "pincode": "431110",
+    "phone_number": "N/A",
+    "website": "https://pgsgenerator.net/home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "13185 Hunt Rd, Riley, MI 48041, United States",
+    "area": "431110",
+    "latitude": 42.9614244,
+    "longitude": -82.8500531,
+    "place_id": "ChIJofuLwPRV6aQRqI1ZQ7f-iO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJofuLwPRV6aQRqI1ZQ7f-iO4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:28:01"
+  }
+]

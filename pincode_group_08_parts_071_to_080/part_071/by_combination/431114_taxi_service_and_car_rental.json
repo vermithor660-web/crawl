@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dilavar Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "431114",
+    "phone_number": "+91 97659 70412",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Ship No. 3, Anbedkar Chouk, Anvi, Maharashtra 431112",
+    "area": "Jai Bhawani Nagar",
+    "latitude": 20.3081131,
+    "longitude": 75.65317809999999,
+    "place_id": "ChIJ8cNjmiDT2zsRr3DVyiNEP3k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8cNjmiDT2zsRr3DVyiNEP3k",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:34:35"
+  },
+  {
+    "business_name": "Gourav Wadhekar",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "431114",
+    "phone_number": "+91 97642 91609",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ramnagar Main Road, Ram Nagar, Dhorpura, Jalna, Maharashtra 431203",
+    "area": "Ram Nagar, Dhorpura",
+    "latitude": 19.839343799999998,
+    "longitude": 75.9087239,
+    "place_id": "ChIJey_5M2lZ2jsRqSduqIf77Rk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJey_5M2lZ2jsRqSduqIf77Rk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:34:36"
+  }
+]

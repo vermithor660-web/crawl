@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prathmesh Vegetables",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Produce market",
+    "all_categories": "Produce market",
+    "pincode": "431133",
+    "phone_number": "+91 77986 46471",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "L corner, near Sai net cafe, near Jay Bhavani Chowk, Bajaj Nagar, MIDC, Waluj, Wadgaon Kolhati, Maharashtra 431136",
+    "area": "Bajaj Nagar, MIDC, Waluj",
+    "latitude": 19.842900999999998,
+    "longitude": 75.23295639999999,
+    "place_id": "ChIJu3pt_yeb2zsRPfVCMjDLQWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu3pt_yeb2zsRPfVCMjDLQWY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:07:05"
+  },
+  {
+    "business_name": "MILAN FRUITS CENTER",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "431133",
+    "phone_number": "+91 92848 79922",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near rock & roll, Paithan Gate, Khokadpura, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Paithan Gate, Khokadpura",
+    "latitude": 19.8802265,
+    "longitude": 75.32916279999999,
+    "place_id": "ChIJo3TAJyqZ2zsRPt0xno6w7ww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3TAJyqZ2zsRPt0xno6w7ww",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:07:07"
+  }
+]

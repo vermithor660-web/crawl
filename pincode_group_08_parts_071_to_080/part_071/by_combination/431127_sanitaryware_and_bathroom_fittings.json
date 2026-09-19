@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SBM Toilet",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Public bathroom",
+    "all_categories": "Public bathroom",
+    "pincode": "431127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near Ashok Nagar Momin Pura Road, Bid Rural, Mominpura, Beed, Maharashtra 431122",
+    "area": "Bid Rural, Mominpura",
+    "latitude": 18.9781136,
+    "longitude": 75.7664757,
+    "place_id": "ChIJjczBXhsrxTsRx6EkU-hZEdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjczBXhsrxTsRx6EkU-hZEdI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:56:56"
+  },
+  {
+    "business_name": "Grandeur Bathware- KOHLER STORE",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store",
+    "pincode": "431127",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Beed Bypass Rd, MIDC, Chhatrapati Sambhajinagar, Maharashtra 431010",
+    "area": "MIDC",
+    "latitude": 19.8525165,
+    "longitude": 75.3184299,
+    "place_id": "ChIJbeaMdDKZ2zsR9tb76DbzfbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbeaMdDKZ2zsR9tb76DbzfbE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:56:56"
+  }
+]

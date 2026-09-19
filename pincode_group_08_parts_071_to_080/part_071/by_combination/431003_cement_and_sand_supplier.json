@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Ganesh Traders",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Bathroom supply store, Paint store, Pipe supplier, Plumbing supply store",
+    "pincode": "431003",
+    "phone_number": "+91 98226 80243",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "Holkar Chowk, Rajmatha Jijao Housing Society, Sector N 4, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "Vishranti Nagar, Sector N 4, Cidco",
+    "latitude": 19.8597738,
+    "longitude": 75.36434849999999,
+    "place_id": "ChIJ_dUleWCi2zsR2ZEAU8DefdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_dUleWCi2zsR2ZEAU8DefdA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:57"
+  },
+  {
+    "business_name": "Ganga Cement Products",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Ready mix concrete supplier",
+    "all_categories": "Ready mix concrete supplier",
+    "pincode": "431003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Brijwadi Midc, Brijwadi Midc, Jalgaon Rd, near Prozone Mall, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431008",
+    "area": "MIDC Industrial Area, Cidco",
+    "latitude": 19.8921431,
+    "longitude": 75.36687169999999,
+    "place_id": "ChIJHYOjL8ei2zsRBhP5zKyv_Bk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHYOjL8ei2zsRBhP5zKyv_Bk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:58"
+  }
+]

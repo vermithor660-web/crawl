@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sayyad and Associates",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm, Chartered accountant, Financial audit",
+    "pincode": "431010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 5,
+    "address": "Shop No 8, Pune - Nagar Highway, near Axis Bank ATM, Waluj, Waladgaon, Maharashtra 431136",
+    "area": "Waluj",
+    "latitude": 19.8353337,
+    "longitude": 75.25213939999999,
+    "place_id": "ChIJHVwwtVyZ2zsRIARL-YcZcsA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHVwwtVyZ2zsRIARL-YcZcsA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:10:38"
+  },
+  {
+    "business_name": "ARNK and Associates LLP Chartered Accountants",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office, Financial audit",
+    "pincode": "431010",
+    "phone_number": "+91 240 297 0297",
+    "website": "http://arnindia.in/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "V8FC+673, Chintamani Colony, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "Chintamani Colony",
+    "latitude": 19.8730242,
+    "longitude": 75.3206742,
+    "place_id": "ChIJmZ-J2oqZ2zsRalNpX3xbHq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmZ-J2oqZ2zsRalNpX3xbHq4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:10:42"
+  }
+]

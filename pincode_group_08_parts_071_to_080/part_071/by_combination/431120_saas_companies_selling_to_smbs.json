@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Business Web",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer consultant, Computer networking service, Computer repair service, Computer security service, Computer service, Data recovery service",
+    "pincode": "431120",
+    "phone_number": "N/A",
+    "website": "https://www.busnweb.com/",
+    "rating": 5,
+    "reviews_count": 24,
+    "address": "13570 Ridge Cir, Edmond, OK 73025, United States",
+    "area": "431120",
+    "latitude": 35.7385442,
+    "longitude": -97.5546976,
+    "place_id": "ChIJf8sdaYb3sYcRj6EXksq9QRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf8sdaYb3sYcRj6EXksq9QRk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:45:02"
+  },
+  {
+    "business_name": "Spherical Insights - Research Consulting",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Market researcher",
+    "all_categories": "Market researcher",
+    "pincode": "431120",
+    "phone_number": "+91 90289 24100",
+    "website": "https://www.sphericalinsights.com/",
+    "rating": 3.8,
+    "reviews_count": 17,
+    "address": "Shop No, Office No 2, 3rd Floor, Prasanna Pride, Saswad Rd, Satavwadi, Hadapsar, Pune, Maharashtra 411028",
+    "area": "Satavwadi, Hadapsar",
+    "latitude": 18.4966827,
+    "longitude": 73.9438247,
+    "place_id": "ChIJzdS480K5wjsR_dmUrd1xkjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzdS480K5wjsR_dmUrd1xkjQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:45:02"
+  }
+]

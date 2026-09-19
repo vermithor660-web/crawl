@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Logistics",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "431116",
+    "phone_number": "+91 93700 90555",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Shop No 21.22 SBI LANE Busy Land Complex Nandgaon Peth, Amravati, Nandgaon, Maharashtra 423106",
+    "area": "431116",
+    "latitude": 20.306548,
+    "longitude": 74.657428,
+    "place_id": "ChIJTVod_zMZ3DsRJMJLJZfSRbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTVod_zMZ3DsRJMJLJZfSRbY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:38:21"
+  },
+  {
+    "business_name": "B K Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "431116",
+    "phone_number": "+91 73506 80708",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "2HCP+5VG, Saykheda, Maharashtra 431516",
+    "area": "431116",
+    "latitude": 19.020443099999998,
+    "longitude": 76.5871907,
+    "place_id": "ChIJZ8T5bVH8zzsRsyi__grEdAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ8T5bVH8zzsRsyi__grEdAs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:38:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tirupati Path Lab",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "431104",
+    "phone_number": "+91 92845 38692",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1 Babara Rod Nachanvel, TQ, Kanand, Aurangabad, Maharashtra 431104",
+    "area": "431104",
+    "latitude": 20.2950321,
+    "longitude": 75.4225812,
+    "place_id": "ChIJ260cq3_d2zsRSMS0aBCXT0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ260cq3_d2zsRSMS0aBCXT0c",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:19:13"
+  },
+  {
+    "business_name": "Janseva Medical Umbarkheda",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical diagnostic imaging center",
+    "all_categories": "Medical diagnostic imaging center",
+    "pincode": "431104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "9637+MM9, Unnamed Road, Umbarkheda, Maharashtra 431147",
+    "area": "431104",
+    "latitude": 20.354160699999998,
+    "longitude": 75.2142351,
+    "place_id": "ChIJ1X7kZzLl2zsR-02QJ6aNC5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1X7kZzLl2zsR-02QJ6aNC5o",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:19:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wedding Event Design",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "431110",
+    "phone_number": "N/A",
+    "website": "http://weddingeventdesign.net/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Wedding Event Design, 431110, India",
+    "area": "431110",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJa3V98857ToYR-KpqzTksVU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa3V98857ToYR-KpqzTksVU0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:27:27"
+  },
+  {
+    "business_name": "पूर्णस्वरुप event services",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "431110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gangapur, Maharashtra 431109",
+    "area": "431110",
+    "latitude": 19.6968918,
+    "longitude": 75.01149699999999,
+    "place_id": "ChIJBWyUKwuB2zsRx0M-HLygats",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBWyUKwuB2zsRx0M-HLygats",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:27:27"
+  }
+]

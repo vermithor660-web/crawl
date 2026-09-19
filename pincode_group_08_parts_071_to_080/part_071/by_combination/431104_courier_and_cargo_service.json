@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prathamesh Quriar Agencies",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "431104",
+    "phone_number": "+91 78419 53901",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kannad - Sillod Rd, Pishore, Digar, Maharashtra 431104",
+    "area": "431104",
+    "latitude": 20.296464399999998,
+    "longitude": 75.3247319,
+    "place_id": "ChIJ7cdpsCLn2zsR1B7HgwJ6og0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7cdpsCLn2zsR1B7HgwJ6og0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:20:12"
+  },
+  {
+    "business_name": "Shree Maruti Courier service hub",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "431104",
+    "phone_number": "+91 99871 09444",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 12,
+    "address": "Aurangabad - Nandgaon Rd, Shriniketan Colony, Rokda Hanuman Colony, Mondha, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Shriniketan Colony, Rokda Hanuman Colony, Mondha",
+    "latitude": 19.8755548,
+    "longitude": 75.3355723,
+    "place_id": "ChIJf9eTy3aY2zsReeisd9vU0Tw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf9eTy3aY2zsReeisd9vU0Tw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:20:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Qaisar Homeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "431007",
+    "phone_number": "+91 99755 25199",
+    "website": "https://qaisarhomeopathy-co-in.onrender.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "8-7-116, VIP Rd, Ganesh Colony, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Ganesh Colony",
+    "latitude": 19.8947347,
+    "longitude": 75.3425982,
+    "place_id": "ChIJKZDQ4Kei2zsRO5_87WlKCbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKZDQ4Kei2zsRO5_87WlKCbc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:03:30"
+  },
+  {
+    "business_name": "Homoeopathy Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "431007",
+    "phone_number": "+91 240 247 2946",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 2, C I D C O C I D C O, Pal Apartment, Plot 6, Stadium Road, Sangharsh Nagar, N-2, Mukundwadi, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "Sangharsh Nagar, N-2, Mukundwadi",
+    "latitude": 19.8677311,
+    "longitude": 75.3776524,
+    "place_id": "ChIJVVVVlfmi2zsRAheShT2IJmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlfmi2zsRAheShT2IJmw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:03:31"
+  }
+]

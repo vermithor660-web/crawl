@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HDB FINANCIAL SERVICES LTD",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Business development service",
+    "all_categories": "Business development service, Financial institution, Car finance and loan company, Loan agency, Mortgage broker, Mortgage lender",
+    "pincode": "431116",
+    "phone_number": "+91 44 4298 4541",
+    "website": "https://www.hdbfs.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st Floor, Chhatrapati Sambhajinagar - Nashik Hwy, near The Raymond Shop, Shastri Nagar, Vaijapur, Maharashtra 423701",
+    "area": "Shastri Nagar",
+    "latitude": 19.9286475,
+    "longitude": 74.72987119999999,
+    "place_id": "ChIJT0V1SPyZ2zsR2B02ruuJHLI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT0V1SPyZ2zsR2B02ruuJHLI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:39:07"
+  },
+  {
+    "business_name": "Royal Computers And Multi Services",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "431116",
+    "phone_number": "+91 99219 87886",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "Murari Park Gangapur Road, Tal, Vaijapur, Maharashtra 423701",
+    "area": "Sainath Nagar",
+    "latitude": 19.9249153,
+    "longitude": 74.7301761,
+    "place_id": "ChIJ-XNeT5Jv3DsR_k-_FUyvhas",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-XNeT5Jv3DsR_k-_FUyvhas",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:39:09"
+  }
+]

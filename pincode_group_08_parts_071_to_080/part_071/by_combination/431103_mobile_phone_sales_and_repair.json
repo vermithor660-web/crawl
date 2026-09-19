@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tushar Mobile Shop & Repairing",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "431103",
+    "phone_number": "+91 87934 44422",
+    "website": "https://sites.google.com/view/tusharmobile-com/home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Block no.-03, Gajanan Colony, RH-45 /9, near Daxin Mukhi Hanuman Mandir, Vedyas House Society, Bajaj Nagar, Waluj, Wadgaon Kolhati, Maharashtra 431136",
+    "area": "Vedyas House Society, Bajaj Nagar, Waluj",
+    "latitude": 19.8456084,
+    "longitude": 75.237022,
+    "place_id": "ChIJ5VEFy5Sb2zsRSxmNuHNW_fU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5VEFy5Sb2zsRSxmNuHNW_fU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:18:10"
+  },
+  {
+    "business_name": "MOBILE ZONE",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "431103",
+    "phone_number": "+91 81493 24789",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 01 Kamlapur Phata, MIDC, opp. Mamu chicken, Ranjangaon, Waluj, Ranjangaon (Shenpunji), Maharashtra 431136",
+    "area": "Ranjangaon, Waluj",
+    "latitude": 19.8429747,
+    "longitude": 75.2180494,
+    "place_id": "ChIJR9veYqqb2zsR8VyoHR1mIcg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR9veYqqb2zsR8VyoHR1mIcg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:18:10"
+  }
+]

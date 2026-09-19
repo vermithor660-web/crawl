@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manna Caterers And Event",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Catering food and drink supplier, Event planner, Restaurant supply store, Wedding buffet",
+    "pincode": "431002",
+    "phone_number": "+91 788 788 8220",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kranti Chowk, Samta Nagar, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Samta Nagar",
+    "latitude": 19.8732358,
+    "longitude": 75.3254942,
+    "place_id": "ChIJj5Mc41iZ2zsRl2f44LDh-cA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj5Mc41iZ2zsRl2f44LDh-cA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:54:12"
+  },
+  {
+    "business_name": "TAJ CATERERS",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Fast food restaurant, Restaurant",
+    "pincode": "431002",
+    "phone_number": "+91 98222 84554",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 20,
+    "address": "Shop No 01, Bhori Katada, City Chowk, Buddi lane, Naralibag, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "City Chowk, Buddi lane, Naralibag",
+    "latitude": 19.8885889,
+    "longitude": 75.32986799999999,
+    "place_id": "ChIJr5PaAA6Y2zsRbvwPpXg_1GU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr5PaAA6Y2zsRbvwPpXg_1GU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:54:15"
+  }
+]

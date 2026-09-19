@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinay Agencies",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "431131",
+    "phone_number": "+91 94051 03995",
+    "website": "https://vinay-agencies.grexa.site/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kale Complex, 01, Bazar Rd, near Ganapatb iandir In, Shahu Nagar, Majalgaon, Maharashtra 431131",
+    "area": "Shahu Nagar",
+    "latitude": 19.156247099999998,
+    "longitude": 76.20955649999999,
+    "place_id": "ChIJtWWZrEux2jsRPf8D8jSDImw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtWWZrEux2jsRPf8D8jSDImw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:04:19"
+  },
+  {
+    "business_name": "Shree Distributors Majalgaon",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "431131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "5674+FWJ, Samta Colony, Majalgaon, Maharashtra 431131",
+    "area": "Samta Colony",
+    "latitude": 19.163722699999997,
+    "longitude": 76.2072723,
+    "place_id": "ChIJ1T0ONE2x2jsRzYQL36GEq3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1T0ONE2x2jsRzYQL36GEq3Q",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:04:20"
+  }
+]

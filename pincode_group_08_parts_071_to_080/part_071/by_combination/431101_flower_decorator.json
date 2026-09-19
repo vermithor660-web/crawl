@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Utkarsh Home Decor",
+    "search_category": "Flower Decorator",
+    "primary_category": "Wallpaper store",
+    "all_categories": "Wallpaper store, Blinds shop, Carpet store, Home improvement store, Interior Decorator, Mattress store, Window treatment store",
+    "pincode": "431101",
+    "phone_number": "+91 79722 60346",
+    "website": "https://www.utkarshhomedecor.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No.05, Nana-Tatya Complex, JaiHind Nagri, Pisadevi, Chhatrapati Sambhajinagar, Maharashtra 431008",
+    "area": "431101",
+    "latitude": 19.912409399999998,
+    "longitude": 75.3821044,
+    "place_id": "ChIJf0t5l2Kj2zsRkFdgj9y5yjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf0t5l2Kj2zsRkFdgj9y5yjM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:14:04"
+  },
+  {
+    "business_name": "Savta Phool Centre Turkabad",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower market",
+    "all_categories": "Flower market",
+    "pincode": "431101",
+    "phone_number": "+91 95278 71337",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Turkabad Kharadi, Maharashtra 431133",
+    "area": "431101",
+    "latitude": 19.7847614,
+    "longitude": 75.1655586,
+    "place_id": "ChIJQ7zGw5Sd2zsREoej_hYBDUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ7zGw5Sd2zsREoej_hYBDUY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:14:05"
+  }
+]

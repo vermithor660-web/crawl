@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sayadri health & fitness club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "431129",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "7227+RG9, Takarwan, Maharashtra 431129",
+    "area": "431129",
+    "latitude": 19.2520433,
+    "longitude": 76.0138551,
+    "place_id": "ChIJDcNDCRjH2jsRn4SReLtY5_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDcNDCRjH2jsRn4SReLtY5_8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:00:18"
+  },
+  {
+    "business_name": "Yeshshree Classes",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "431129",
+    "phone_number": "+91 90282 85804",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2, Main Road, Vahegaon Amala, Amla, Maharashtra 431129",
+    "area": "431129",
+    "latitude": 19.152247,
+    "longitude": 75.9225531,
+    "place_id": "ChIJrUTv2r_P2jsRtQMLinyCUrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrUTv2r_P2jsRtQMLinyCUrI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:00:18"
+  }
+]

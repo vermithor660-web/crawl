@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Om Sai Samarth Lodging Boarding",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431111",
+    "phone_number": "N/A",
+    "website": "https://in.goibibo.com/api/v2/ingoibibo/calendar/45001714786/?bid=f91b9a9c30e5380acb1d7089b335a3fa",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Lahane Wadi, Anantha Road, Phulambri, Maharashtra 431111",
+    "area": "431111",
+    "latitude": 20.098023899999998,
+    "longitude": 75.4393168,
+    "place_id": "ChIJ6zgnxfG52zsREpnfGFL4olM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6zgnxfG52zsREpnfGFL4olM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:29:22"
+  },
+  {
+    "business_name": "Sahyadri hotel pure veg and lodging",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431111",
+    "phone_number": "+91 95617 76565",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 9,
+    "address": "Shop No 1 Kultabad Road Kingaon, Fata, Aurangabad, Maharashtra 431111",
+    "area": "Fata",
+    "latitude": 20.082679,
+    "longitude": 75.3495895,
+    "place_id": "ChIJmUryiIe_2zsRT-qlbMumyLE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmUryiIe_2zsRT-qlbMumyLE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:29:25"
+  }
+]

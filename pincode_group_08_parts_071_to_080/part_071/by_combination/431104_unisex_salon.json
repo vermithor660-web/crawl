@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R.R. Sales",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty supply store",
+    "all_categories": "Beauty supply store, Cosmetics store, General store",
+    "pincode": "431104",
+    "phone_number": "+91 94238 53518",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No.5, Nirvighana Apartment, Pundlik Nagar Rd, Sandesh Nagar, Garkheda Area, Nyay Nagar, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Sandesh Nagar, Garkheda Area, Nyay Nagar",
+    "latitude": 19.867718399999998,
+    "longitude": 75.3528948,
+    "place_id": "ChIJ2RfaV4-i2zsRulPtwQquaGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2RfaV4-i2zsRulPtwQquaGE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:19:42"
+  },
+  {
+    "business_name": "Ajintha Enterprises",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon, Beauty supply store",
+    "pincode": "431104",
+    "phone_number": "+91 93262 04785",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Shop No.2, Arihant Market, beside Vasanthbhavan, Machali Khadak, Gulmandi, Shahgunj, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Machali Khadak, Gulmandi, Shahgunj",
+    "latitude": 19.8862159,
+    "longitude": 75.33073,
+    "place_id": "ChIJNc2VmQ2Y2zsR3ImnELSkIRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNc2VmQ2Y2zsR3ImnELSkIRU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:19:42"
+  }
+]

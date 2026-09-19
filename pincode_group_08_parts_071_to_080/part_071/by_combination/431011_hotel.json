@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Greenscape",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Restaurant",
+    "pincode": "431011",
+    "phone_number": "+91 82084 36911",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Dhondre patil landmark , Nanda heights, Link road, Golwadi Bypass, Chhatrapati Sambhajinagar, Golwadi, Maharashtra 431136",
+    "area": "431011",
+    "latitude": 19.8400542,
+    "longitude": 75.2776883,
+    "place_id": "ChIJLeM6GkyZ2zsR0o2vbGQJx-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLeM6GkyZ2zsR0o2vbGQJx-M",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:12:11"
+  },
+  {
+    "business_name": "Treebo Antariksh",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431011",
+    "phone_number": "+91 93228 00100",
+    "website": "https://www.treebo.com/hotels-in-aurangabad/treebo-antariksh-waluj-midc-4557/?utm_source=partnerships&utm_medium=gmb&utm_campaign=gmblisting",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "7/8, CIDCO Waluj Mahanagar 2, MIDC, Waluj, Tisgaon, Chhatrapati Sambhajinagar, Maharashtra 431136",
+    "area": "CIDCO Waluj Mahanagar 2, MIDC, Waluj",
+    "latitude": 19.8506789,
+    "longitude": 75.2718273,
+    "place_id": "ChIJtwpIZzqZ2zsRsQ-tDXr0FRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtwpIZzqZ2zsRsQ-tDXr0FRY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:12:12"
+  }
+]

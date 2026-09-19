@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "One Piece Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "431006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Chistiya Colony Rd, near MGM Road, Arun Uday Colony, N-6, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Arun Uday Colony, N-6, Cidco",
+    "latitude": 19.8808905,
+    "longitude": 75.3604325,
+    "place_id": "ChIJ88JJRgCj2zsRXZC8LKZl8LY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ88JJRgCj2zsRXZC8LKZl8LY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:01:13"
+  },
+  {
+    "business_name": "Clovers Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "431006",
+    "phone_number": "+91 97304 41828",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "Connaught Place, Shop No. 7, Kailash Arcade, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "CIDCO Cannought, M G M",
+    "latitude": 19.8775013,
+    "longitude": 75.3647266,
+    "place_id": "ChIJtxXTpe-j2zsRh24QbCrXE64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtxXTpe-j2zsRh24QbCrXE64",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:01:14"
+  }
+]

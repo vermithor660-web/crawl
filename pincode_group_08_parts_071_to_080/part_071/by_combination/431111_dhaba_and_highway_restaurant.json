@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Rajdhani",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "431111",
+    "phone_number": "+91 93567 14720",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Shop.No.04, Phulambri - Kannad Rd, Kingaon, Maharashtra 431111",
+    "area": "431111",
+    "latitude": 20.0827427,
+    "longitude": 75.3495393,
+    "place_id": "ChIJrWKMJfu_2zsREkzEIohDn18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrWKMJfu_2zsREkzEIohDn18",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:28:26"
+  },
+  {
+    "business_name": "RASHTRASEVA DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "431111",
+    "phone_number": "+91 96040 33450",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 12,
+    "address": "Gut No 122 Hotel Rashtraseva, Undangaon Rd, Golegaon, Maharashtra 431112",
+    "area": "431111",
+    "latitude": 20.418504199999997,
+    "longitude": 75.688988,
+    "place_id": "ChIJJ66F2LzV2zsR3ru7RPSZkyU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ66F2LzV2zsR3ru7RPSZkyU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:28:27"
+  }
+]

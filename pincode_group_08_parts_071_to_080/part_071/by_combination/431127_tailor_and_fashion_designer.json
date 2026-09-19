@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "431127",
+    "phone_number": "+91 98608 94603",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "9VPC+F7R, Sadegaon, Maharashtra 431212",
+    "area": "431127",
+    "latitude": 19.3862269,
+    "longitude": 75.8706332,
+    "place_id": "ChIJw4T3_mPd2jsR72UOWys77uo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw4T3_mPd2jsR72UOWys77uo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:56:26"
+  },
+  {
+    "business_name": "S M TAILORS",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "431127",
+    "phone_number": "+91 99229 55529",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Raj gali, Gevrai, Maharashtra 431127",
+    "area": "431127",
+    "latitude": 19.2579021,
+    "longitude": 75.7513996,
+    "place_id": "ChIJVVVVVeHY2jsReiPke2lKOMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVeHY2jsReiPke2lKOMQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:56:29"
+  }
+]

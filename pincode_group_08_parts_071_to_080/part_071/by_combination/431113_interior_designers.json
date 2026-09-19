@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Icon Telars",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "431113",
+    "phone_number": "+91 99704 60782",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Icon Telars, Mandgaon, Khatkheda, Maharashtra 431151",
+    "area": "431113",
+    "latitude": 20.302563499999998,
+    "longitude": 75.5189352,
+    "place_id": "ChIJs1qttKHb2zsRjUL-tUsNNeA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs1qttKHb2zsRjUL-tUsNNeA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:32:54"
+  },
+  {
+    "business_name": "Tayde Patil and Associates",
+    "search_category": "Interior Designers",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "431113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "20, Teacher's Colony, Shivaji Nagar, Sillod, Maharashtra 431112",
+    "area": "Teacher's Colony, Shivaji Nagar",
+    "latitude": 20.3084314,
+    "longitude": 75.6594307,
+    "place_id": "ChIJZc-cBUPT2zsR7iMXCeYvCpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZc-cBUPT2zsR7iMXCeYvCpQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:32:56"
+  }
+]

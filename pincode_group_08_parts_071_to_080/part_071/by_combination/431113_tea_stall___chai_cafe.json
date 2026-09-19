@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Puneri Vada Pav",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant",
+    "pincode": "431113",
+    "phone_number": "+91 98500 94992",
+    "website": "http://punerivadapav.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Ambedkar Chowk, Sillod, Maharashtra 431112",
+    "area": "Ambedkar Chowk",
+    "latitude": 20.308200499999998,
+    "longitude": 75.6540053,
+    "place_id": "ChIJFawXhUjT2zsRUDVzReAwDUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFawXhUjT2zsRUDVzReAwDUQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:32:12"
+  },
+  {
+    "business_name": "GUJRAT CHAINIS CENTER",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "431113",
+    "phone_number": "+91 83089 18211",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "shop no 2, main road, Ambhai, sillod, Maharashtra 431113",
+    "area": "431113",
+    "latitude": 20.468242,
+    "longitude": 75.56678819999999,
+    "place_id": "ChIJbQldqi_X2zsRKWuOupaZ5CU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbQldqi_X2zsRKWuOupaZ5CU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:32:12"
+  }
+]

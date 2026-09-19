@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kuber Events",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Air conditioning contractor, Band, Canoe & kayak rental service, Caterer, Event management company, Event planner, Outdoor activity organiser, Party planner, Summer camp organizer",
+    "pincode": "431132",
+    "phone_number": "+91 82861 31122",
+    "website": "http://kuberevents.in/",
+    "rating": 4.9,
+    "reviews_count": 14,
+    "address": "UNIT NO 1 AND 2, near Ins Tower, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",
+    "area": "G Block BKC, Bandra Kurla Complex, Bandra East",
+    "latitude": 19.0669523,
+    "longitude": 72.866502,
+    "place_id": "ChIJy4wbXXTJ5zsRWUyDPmLJxy4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy4wbXXTJ5zsRWUyDPmLJxy4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:06:18"
+  },
+  {
+    "business_name": "Unique Web System",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "431132",
+    "phone_number": "+91 95957 71020",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shirole Galli, Gaothan, Shivajinagar, Pune, Maharashtra 411005",
+    "area": "Gaothan, Shivajinagar",
+    "latitude": 18.5235335,
+    "longitude": 73.8516389,
+    "place_id": "ChIJBdbINADBwjsRPJHV9_3CTVg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBdbINADBwjsRPJHV9_3CTVg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:06:18"
+  }
+]

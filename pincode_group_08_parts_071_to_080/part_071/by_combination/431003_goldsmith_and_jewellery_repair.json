@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahavir Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler, Jewelry store",
+    "pincode": "431003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 19,
+    "address": "Kasari Bazar, Mahavir Chowk, Shahgunj, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Kasari Bazar, Mahavir Chowk, Shahgunj",
+    "latitude": 19.887203,
+    "longitude": 75.33134319999999,
+    "place_id": "ChIJY7xpoxWY2zsR0YRkb1dl_6g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY7xpoxWY2zsR0YRkb1dl_6g",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:23"
+  },
+  {
+    "business_name": "Ajinkya Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "431003",
+    "phone_number": "+91 97650 00088",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 23,
+    "address": "Trimurti Chowk, Uttam Nagar, Jawahar Colony, Sindhi Colony, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "Uttam Nagar, Jawahar Colony, Sindhi Colony",
+    "latitude": 19.8701612,
+    "longitude": 75.3454486,
+    "place_id": "ChIJVVVVWYOi2zsRcyTn2h3MTug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVWYOi2zsRcyTn2h3MTug",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:23"
+  }
+]

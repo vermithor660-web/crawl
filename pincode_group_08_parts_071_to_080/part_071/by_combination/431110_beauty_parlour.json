@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Snehal Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "431110",
+    "phone_number": "+91 91566 15220",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "sai colony, symbiosis school, Mhasoba Nagar, Harsul, Chhatrapati Sambhajinagar, Maharashtra 431008",
+    "area": "Mhasoba Nagar, Harsul",
+    "latitude": 19.917082999999998,
+    "longitude": 75.36531389999999,
+    "place_id": "ChIJTxzv-Uy92zsRwdtyqzho9Z0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTxzv-Uy92zsRwdtyqzho9Z0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:27:19"
+  },
+  {
+    "business_name": "SHIVANYA BEAUTY PARLOUR",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "431110",
+    "phone_number": "+91 86009 62399",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NEVARGAON, Main Rd, Gangapur, Maharashtra 431110",
+    "area": "431110",
+    "latitude": 19.687033,
+    "longitude": 74.8989319,
+    "place_id": "ChIJjb4oXqV_3DsRXe5H4rGESK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjb4oXqV_3DsRXe5H4rGESK4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:27:19"
+  }
+]

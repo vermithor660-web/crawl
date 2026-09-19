@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Bagwe's Homeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "431005",
+    "phone_number": "+91 98224 72707",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot no 263 August Homes to Chaurangi hotel road, Ulkanagari Rd, Garkheda, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "shreenagar, Garkheda Area, Garkheda",
+    "latitude": 19.862960899999997,
+    "longitude": 75.3451345,
+    "place_id": "ChIJcRXobEKj2zsR9JxvDpDOXkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcRXobEKj2zsR9JxvDpDOXkY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:59:28"
+  },
+  {
+    "business_name": "Gurukrupa Clinic-Dr.Jyotsna Pathak l Best Homeopathic clinic.",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "431005",
+    "phone_number": "+91 98604 70286",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop. No.1,Besides, Asian Hospital, Freedom Tower, Akashwani Rd, inside Lohades Medicinewala, Chowk, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "Bhanudas Nagar, Chowk",
+    "latitude": 19.8752696,
+    "longitude": 75.34529359999999,
+    "place_id": "ChIJc1yYvHuZ2zsRiH1GGULQxrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc1yYvHuZ2zsRiH1GGULQxrQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:59:29"
+  }
+]

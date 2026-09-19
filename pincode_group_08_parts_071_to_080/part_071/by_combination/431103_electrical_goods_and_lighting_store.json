@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dadashree electronic and furniture",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Cell phone store, Electronics wholesaler, Furniture store, Home theater store, Mobile phone repair shop",
+    "pincode": "431103",
+    "phone_number": "+91 95950 09545",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mangalmurti Colony, MIDC, Ranjangaon, Waluj, Ranjangaon (Shenpunji), Maharashtra 431136",
+    "area": "MIDC, Ranjangaon, Waluj",
+    "latitude": 19.8416499,
+    "longitude": 75.2214329,
+    "place_id": "ChIJ5683_rab2zsRpm2y_7kXbZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5683_rab2zsRpm2y_7kXbZs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:17:31"
+  },
+  {
+    "business_name": "GH TECHNO WORLD",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting manufacturer",
+    "all_categories": "Lighting manufacturer, Battery Manufacturer, Solar Energy Company",
+    "pincode": "431103",
+    "phone_number": "+91 89560 19021",
+    "website": "http://www.ghtechnoworld.com/",
+    "rating": 4.7,
+    "reviews_count": 69,
+    "address": "Plot no 4B, Gut no 22, Sai Udyog Nagari beside to cosmo film MIDC, Chh, Waluj, Chhatrapati Sambhajinagar, Maharashtra 431136",
+    "area": "Chh, Waluj",
+    "latitude": 19.834726099999997,
+    "longitude": 75.2280136,
+    "place_id": "ChIJZQOF192b2zsRnK1xlRxuTGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQOF192b2zsRnK1xlRxuTGw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:17:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Atul dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "431008",
+    "phone_number": "+91 94056 79743",
+    "website": "http://www.atuldentalclinic.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "jaihind nagari, 3, Pisadevi, Chhatrapati Sambhajinagar, Maharashtra 431008",
+    "area": "431008",
+    "latitude": 19.9133553,
+    "longitude": 75.38322219999999,
+    "place_id": "ChIJ-5oI0qa92zsRqoaRANYNIyU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-5oI0qa92zsRqoaRANYNIyU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:05:30"
+  },
+  {
+    "business_name": "Shree Samarth Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Dentist, Doctor, Teeth whitening service",
+    "pincode": "431008",
+    "phone_number": "+91 99759 55022",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhagatsingh Nagar Rd, near Mayur nagar, Hudco, Mhasoba Nagar, Harsul, Chhatrapati Sambhajinagar, Maharashtra 431008",
+    "area": "Hudco, Mhasoba Nagar, Harsul",
+    "latitude": 19.913473,
+    "longitude": 75.3554224,
+    "place_id": "ChIJpWn6fk292zsR7IBV7oQZDeI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpWn6fk292zsR7IBV7oQZDeI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:05:32"
+  }
+]

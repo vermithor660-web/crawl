@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Itape Dairy Farm",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy farm",
+    "all_categories": "Dairy farm",
+    "pincode": "431124",
+    "phone_number": "+91 73504 65069",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "At, Arangaon, Kalegaon Ghat, Maharashtra 431123",
+    "area": "At",
+    "latitude": 18.710779799999997,
+    "longitude": 75.9544064,
+    "place_id": "ChIJt53B5ZA9xTsR1qmyrP9eAXU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt53B5ZA9xTsR1qmyrP9eAXU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:50:46"
+  },
+  {
+    "business_name": "SK BROTHER'S BUFFALO FRAM",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy farm",
+    "all_categories": "Dairy farm",
+    "pincode": "431124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "QGXM+95X, Vasantnagar, Maharashtra 431515",
+    "area": "431124",
+    "latitude": 18.7984898,
+    "longitude": 76.5329967,
+    "place_id": "ChIJBZFHOgD3zzsRnjYdaKTcYRA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZFHOgD3zzsRnjYdaKTcYRA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:50:46"
+  }
+]

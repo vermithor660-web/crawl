@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sangam Transport Company",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "431005",
+    "phone_number": "+91 98234 15005",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "R9X2+XM9, Beed Bypass Rd, Deolali Chowk, Satara Deolai Parisar, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Deolali Chowk, Satara Deolai Parisar",
+    "latitude": 19.849909,
+    "longitude": 75.3517409,
+    "place_id": "ChIJ7wNQoXqi2zsR5odZ9O9bDK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7wNQoXqi2zsR5odZ9O9bDK0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:59:47"
+  },
+  {
+    "business_name": "Vikas transport services",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service",
+    "pincode": "431005",
+    "phone_number": "+91 70385 73419",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sai nagar, gali no1, Satara Deolai Parisar, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "Satara Deolai Parisar",
+    "latitude": 19.837052,
+    "longitude": 75.3237913,
+    "place_id": "ChIJFXYdOvGZ2zsRRkxPacFevwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFXYdOvGZ2zsRRkxPacFevwM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:59:50"
+  }
+]

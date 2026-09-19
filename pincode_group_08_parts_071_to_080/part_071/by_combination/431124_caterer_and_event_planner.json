@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wishes Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Catering food and drink supplier, Service establishment, Event management company, Event planner, Wedding planner, Wedding store",
+    "pincode": "431124",
+    "phone_number": "N/A",
+    "website": "http://www.wishescaterers.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Wishes Caterers, 431124, India",
+    "area": "431124",
+    "latitude": 51.5820794,
+    "longitude": 0.2238228,
+    "place_id": "ChIJ9T7FmIgddkgR5KRmHgkqEjc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9T7FmIgddkgR5KRmHgkqEjc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:51:45"
+  },
+  {
+    "business_name": "Memories Catering",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Service establishment",
+    "pincode": "431124",
+    "phone_number": "01905 905908",
+    "website": "http://www.memoriescatering.co.uk/",
+    "rating": 5,
+    "reviews_count": 24,
+    "address": "Memories Catering, 431124, India",
+    "area": "431124",
+    "latitude": 52.314659999999996,
+    "longitude": -2.0435738,
+    "place_id": "ChIJ7f6sof1xVUARNJhVecG-MEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7f6sof1xVUARNJhVecG-MEc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:51:47"
+  }
+]

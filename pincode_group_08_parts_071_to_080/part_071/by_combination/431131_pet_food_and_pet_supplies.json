@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dushyant Trasport",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "431131",
+    "phone_number": "+91 90212 56001",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No, 1, Majalgaon Rd, near Sambhaji Maharaj Chowk In Kale Complex, Gadi Rd, Swami Vivekananda Nagar, Bank Colany, Majalgaon, Maharashtra 431131",
+    "area": "Gadi Rd, Swami Vivekananda Nagar, Bank Colany",
+    "latitude": 19.165418499999998,
+    "longitude": 76.20307799999999,
+    "place_id": "ChIJQ_K_JNex2jsRRnGOJiWWRY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ_K_JNex2jsRRnGOJiWWRY0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:03:27"
+  },
+  {
+    "business_name": "Star Budgie bird's shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Bird shop",
+    "all_categories": "Bird shop",
+    "pincode": "431131",
+    "phone_number": "+91 70380 17777",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Khandoba Mandir Rd, Khandoba Maidan, Majalgaon, Maharashtra 431131",
+    "area": "Khandoba Maidan",
+    "latitude": 19.1517479,
+    "longitude": 76.2111386,
+    "place_id": "ChIJp5fDXgCx2jsRfCi2YufM4vo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp5fDXgCx2jsRfCi2YufM4vo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:03:27"
+  }
+]

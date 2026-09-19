@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Coding Conquerors",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Training center",
+    "all_categories": "Training center, Educational institution, Institute of technology, Education center",
+    "pincode": "425524",
+    "phone_number": "N/A",
+    "website": "https://codingconquerors.vercel.app/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Prayas Hospital, Soygaon, Malegaon, Maharashtra 423203",
+    "area": "Soygaon",
+    "latitude": 20.5593085,
+    "longitude": 74.51398019999999,
+    "place_id": "ChIJt457wjuZ3jsRixjswrjwfnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt457wjuZ3jsRixjswrjwfnE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:50:23"
+  },
+  {
+    "business_name": "Course Square",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "425524",
+    "phone_number": "+91 91113 35522",
+    "website": "https://coursesquare.net/",
+    "rating": 4.9,
+    "reviews_count": 644,
+    "address": "Mahakali Empire, Link Rd, Old Chandaniya Para, Janjgir, Chhattisgarh 495668",
+    "area": "Old Chandaniya Para",
+    "latitude": 22.0115753,
+    "longitude": 82.58084459999999,
+    "place_id": "ChIJxwWg-QC_JzoRxsG7mp8N8pI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxwWg-QC_JzoRxsG7mp8N8pI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:50:24"
+  }
+]

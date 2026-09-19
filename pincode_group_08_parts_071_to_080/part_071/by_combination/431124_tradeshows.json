@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maharaja Events Hub",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "431124",
+    "phone_number": "+91 95884 68007",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Yashoda Super Market, State Bank Chowk, Bazar Rd, Shrirampur, Maharashtra 413709",
+    "area": "Shrirampur",
+    "latitude": 19.6222528,
+    "longitude": 74.6576108,
+    "place_id": "ChIJ9eJovfyL3DsR8fjanPRHXpI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9eJovfyL3DsR8fjanPRHXpI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:52:21"
+  },
+  {
+    "business_name": "Royal Traders",
+    "search_category": "Tradeshows",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "431124",
+    "phone_number": "+91 89573 83845",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ghunghunkotha, Uttar Pradesh 273015",
+    "area": "431124",
+    "latitude": 26.7583429,
+    "longitude": 83.3288729,
+    "place_id": "ChIJld7XmphGkTkR5-vJ-6miNQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJld7XmphGkTkR5-vJ-6miNQs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:52:22"
+  }
+]

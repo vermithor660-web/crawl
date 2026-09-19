@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aurangabad Dist. Co-op. Milk Producer Union Ltd.",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service, Dairy Products Supplier",
+    "pincode": "431103",
+    "phone_number": "+91 93252 19709",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Jalna Rd, near Govt. Milk Scheme, Ajabnagar, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Ajabnagar",
+    "latitude": 19.8756442,
+    "longitude": 75.3334642,
+    "place_id": "ChIJ9wlLE3GY2zsRVk_8G2l9IyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9wlLE3GY2zsRVk_8G2l9IyQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:16:46"
+  },
+  {
+    "business_name": "Morya Dairy and Icecream Parlour",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Ice cream shop, Milk delivery service",
+    "pincode": "431103",
+    "phone_number": "+91 99225 59101",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shivaji Maharaj chowk, Near, Vaijapur - Gangapur Rd, Raghunath Patil Colony, Gangapur, Maharashtra 431109",
+    "area": "Raghunath Patil Colony",
+    "latitude": 19.7003897,
+    "longitude": 75.0096525,
+    "place_id": "ChIJgfVmakqB2zsRuUv23MiMCeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgfVmakqB2zsRuUv23MiMCeY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:16:47"
+  }
+]

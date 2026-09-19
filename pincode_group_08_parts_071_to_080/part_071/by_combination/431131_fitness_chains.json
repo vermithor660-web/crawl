@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shoeb fitness club",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "431131",
+    "phone_number": "+91 78410 04084",
+    "website": "https://youtube.com/@ShoebFitness",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bay pass road, By Pass Rd, Majalgaon, Maharashtra 431131",
+    "area": "By Pass Rd",
+    "latitude": 19.149549999999998,
+    "longitude": 76.20542429999999,
+    "place_id": "ChIJOVIXM1ux2jsRrY7wCr-ieH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOVIXM1ux2jsRrY7wCr-ieH0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:03:55"
+  },
+  {
+    "business_name": "Champion sports",
+    "search_category": "Fitness Chains",
+    "primary_category": "Sportswear store",
+    "all_categories": "Sportswear store",
+    "pincode": "431131",
+    "phone_number": "+91 99601 21194",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Naer shree Infotech computer, dist, near shree infotech, Shahu Nagar, Majalgaon, Maharashtra 431131",
+    "area": "Shahu Nagar",
+    "latitude": 19.157494099999997,
+    "longitude": 76.20721569999999,
+    "place_id": "ChIJIRNiDIqx2jsRTJ6RRGzO5j8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIRNiDIqx2jsRTJ6RRGzO5j8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:03:57"
+  }
+]

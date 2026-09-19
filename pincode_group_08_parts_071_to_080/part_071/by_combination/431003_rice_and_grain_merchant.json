@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thakur Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Wholesale grocer",
+    "all_categories": "Wholesale grocer",
+    "pincode": "431003",
+    "phone_number": "+91 240 238 2787",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sale Hall No. 4, Shop No. 75, Jadhavwadi, Wholesale Market, Harsul, Chhatrapati Sambhajinagar, Maharashtra 431008",
+    "area": "Jadhavwadi, Wholesale Market, Harsul",
+    "latitude": 19.903045,
+    "longitude": 75.363362,
+    "place_id": "ChIJzw114bWi2zsRq4QiOOEbCbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzw114bWi2zsRq4QiOOEbCbM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:06"
+  },
+  {
+    "business_name": "Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "431003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kiradpura, Chhatrapati Sambhajinagar, Maharashtra",
+    "area": "Kiradpura",
+    "latitude": 19.9025611,
+    "longitude": 75.3533427,
+    "place_id": "ChIJfbovn66i2zsRMZz8CZCf3uE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfbovn66i2zsRMZz8CZCf3uE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:06"
+  }
+]

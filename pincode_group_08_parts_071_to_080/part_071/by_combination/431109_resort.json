@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Srushti",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Picnic ground, Farm household tour, Tourist attraction",
+    "pincode": "431109",
+    "phone_number": "+91 97667 27280",
+    "website": "https://srushtiagrotourism.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Hotel Srushti, Near BSNl Room no 20 Jikthan, Aurangabad-Nagar road, Chhatrapati Sambhajinagar, Maharashtra 431133",
+    "area": "431109",
+    "latitude": 19.753262799999998,
+    "longitude": 75.1520215,
+    "place_id": "ChIJQfgRXyqD2zsRx1VaNIPHRxg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQfgRXyqD2zsRx1VaNIPHRxg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:25:36"
+  },
+  {
+    "business_name": "DEODA FARM HOUSE",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Farmstay",
+    "pincode": "431109",
+    "phone_number": "+91 90111 44899",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 557,
+    "address": "Gut No. 3/4 , At. post: Solegaon, Taluka:, Gangapur, Maharashtra 431133",
+    "area": "431109",
+    "latitude": 19.7080219,
+    "longitude": 75.108852,
+    "place_id": "ChIJy5v2jK6D2zsRkfEm5Ygz8EM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy5v2jK6D2zsRkfEm5Ygz8EM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:25:37"
+  }
+]

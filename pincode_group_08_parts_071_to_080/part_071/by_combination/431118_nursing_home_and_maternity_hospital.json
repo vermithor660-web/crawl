@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganpati Hospital & Maternity Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Maternity Centre",
+    "all_categories": "Maternity Centre",
+    "pincode": "431118",
+    "phone_number": "+91 77095 43555",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "JVWM+9R3, Fattepur, Maharashtra 424208",
+    "area": "431118",
+    "latitude": 20.6458966,
+    "longitude": 75.8845525,
+    "place_id": "ChIJKW5maJyF2TsRa3XSNUyn5M8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKW5maJyF2TsRa3XSNUyn5M8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:41:50"
+  },
+  {
+    "business_name": "Astha Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431118",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.2,
+    "reviews_count": 21,
+    "address": "Q93F+29P, Aurangabad, Bihar 824101",
+    "area": "431118",
+    "latitude": 24.7525768,
+    "longitude": 84.3734587,
+    "place_id": "ChIJE4-iw8r9jDkR3rzLhLVod_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE4-iw8r9jDkR3rzLhLVod_0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:41:53"
+  }
+]

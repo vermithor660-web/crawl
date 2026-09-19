@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Black Roast cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "431007",
+    "phone_number": "+91 81493 91797",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Guru sai complex, opp. Renuka Gas Agency, Yogeshwari Silver Park, Garkheda Area, Ulkanagari, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Yogeshwari Silver Park, Garkheda Area, Ulkanagari",
+    "latitude": 19.860238,
+    "longitude": 75.3426794,
+    "place_id": "ChIJ0QmZVwCj2zsR49dGiA0ww6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0QmZVwCj2zsR49dGiA0ww6U",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:03:14"
+  },
+  {
+    "business_name": "Dcr cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe",
+    "pincode": "431007",
+    "phone_number": "+91 99755 68383",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Shop no 8 G-Fl, Sutgirni Chowk, Kasliwal Nagar, Garkheda, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Sutgirni Chowk, Kasliwal Nagar, Garkheda",
+    "latitude": 19.859652999999998,
+    "longitude": 75.3459866,
+    "place_id": "ChIJk69Natej2zsRz9MYSnYpKNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk69Natej2zsRz9MYSnYpKNc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:03:16"
+  }
+]

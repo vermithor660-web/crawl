@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL AJANTA PALACE",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431117",
+    "phone_number": "+91 80556 09163",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 32,
+    "address": "Hotel Ajanta Palace, Tondapur Road, near National Highway, Fardapur, Maharashtra 431118",
+    "area": "431117",
+    "latitude": 20.5875937,
+    "longitude": 75.7274592,
+    "place_id": "ChIJtUUPX1GB2TsRhUsw1Cife2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtUUPX1GB2TsRhUsw1Cife2s",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:39:41"
+  },
+  {
+    "business_name": "A 1 HOTEL",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431117",
+    "phone_number": "+91 95116 34126",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop No 1 Panas Phata, Aurangabad - Ajanta - Jalgaon Rd, Golegaon, Maharashtra 431112",
+    "area": "431117",
+    "latitude": 20.472310399999998,
+    "longitude": 75.7160289,
+    "place_id": "ChIJBajATcwr2jsRZ4gF_MwRCiI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBajATcwr2jsRZ4gF_MwRCiI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:39:44"
+  }
+]

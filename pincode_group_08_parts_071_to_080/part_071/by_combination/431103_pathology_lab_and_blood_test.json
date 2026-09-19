@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Pathology Laboratory",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Laboratory",
+    "all_categories": "Laboratory",
+    "pincode": "431103",
+    "phone_number": "+91 88308 69679",
+    "website": "http://www.shreepathologylab.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "431136, plot no.x67, MIDC Waluj, Bajaj Nagar, Waluj, Wadgaon Kolhati, Chhatrapati Sambhajinagar, Maharashtra 431136",
+    "area": "MIDC Waluj, Bajaj Nagar, Waluj",
+    "latitude": 19.841008499999997,
+    "longitude": 75.2419551,
+    "place_id": "ChIJP-WIenGb2zsR1WRLqgugJTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP-WIenGb2zsR1WRLqgugJTI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:17:15"
+  },
+  {
+    "business_name": "Medicare Pathology Laboratory",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Local medical services",
+    "all_categories": "Local medical services",
+    "pincode": "431103",
+    "phone_number": "+91 98506 88600",
+    "website": "https://pathology-laboratory-3.ueniweb.com/?utm_campaign=gmb",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Jay bhawani chowk, Main Road, Bajaj Nagar, Wadgaon Kolhati, Maharashtra 431136",
+    "area": "Bajaj Nagar, Ranjangaon Shenpunji, Waluj",
+    "latitude": 19.842888,
+    "longitude": 75.23360079999999,
+    "place_id": "ChIJXwHg-TKb2zsRD9RVaarN3Po",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXwHg-TKb2zsRD9RVaarN3Po",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:17:15"
+  }
+]

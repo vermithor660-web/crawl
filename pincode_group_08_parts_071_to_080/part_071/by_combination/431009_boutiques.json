@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Priya Fashion Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431009",
+    "phone_number": "+91 86057 78236",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Shop no 4, Hindu Rashtra Chowk, near shri ram Jwelars, Tirupatinagar, Gajanan Nagar, Garkheda, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Tirupatinagar, Gajanan Nagar, Garkheda",
+    "latitude": 19.8638337,
+    "longitude": 75.35481829999999,
+    "place_id": "ChIJ51BO8Dij2zsRQFrhbcbl0-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ51BO8Dij2zsRQFrhbcbl0-E",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:07:28"
+  },
+  {
+    "business_name": "Fashions Boutique \"Designer Stitching Shop\"",
+    "search_category": "Boutiques",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer, Designer Clothing Store",
+    "pincode": "431009",
+    "phone_number": "+91 94237 42224",
+    "website": "https://www.facebook.com/SanjanasFashionsBoutiqueAtGarkhedaChowkAurangabad",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 7, Varun Complex, Plot No. 240, Garkheda Rd, opposite to Laziz Pizza, Sahyognagar, Garkheda Area, Ulkanagari, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Sahyognagar, Garkheda Area, Ulkanagari",
+    "latitude": 19.8627766,
+    "longitude": 75.3474942,
+    "place_id": "ChIJcRCmMYei2zsRHLOjEMnEpW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcRCmMYei2zsRHLOjEMnEpW8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:07:31"
+  }
+]

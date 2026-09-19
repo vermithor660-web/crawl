@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "431129",
+    "phone_number": "+91 82750 90947",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HUSENIYA COLONY, near ARABI SCHOOL, NAVIN VASAHAT, Bhatwadgaon, Kesapuri, Maharashtra 431131",
+    "area": "NAVIN VASAHAT",
+    "latitude": 19.173792,
+    "longitude": 76.17379199999999,
+    "place_id": "ChIJ-Rhaizi32jsRtgr8muYdn1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Rhaizi32jsRtgr8muYdn1Y",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:01:02"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "431129",
+    "phone_number": "+91 94205 07050",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "AT TALKHED TQ MAJALGAON, Maharashtra 431153",
+    "area": "431129",
+    "latitude": 19.1828282,
+    "longitude": 76.0355849,
+    "place_id": "ChIJf3z8N-XJ2jsRzhKTJ5i9ss4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf3z8N-XJ2jsRzhKTJ5i9ss4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:01:02"
+  }
+]

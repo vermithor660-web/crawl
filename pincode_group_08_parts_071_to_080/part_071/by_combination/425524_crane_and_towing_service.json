@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Keshav towing",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "425524",
+    "phone_number": "+91 97027 35918",
+    "website": "https://keshavtowingservice.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Keshav towing, 425524, India",
+    "area": "425524",
+    "latitude": 19.1242526,
+    "longitude": 72.8695445,
+    "place_id": "ChIJZR0v1BowUAAR-JRVasTbYdY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZR0v1BowUAAR-JRVasTbYdY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:49:55"
+  },
+  {
+    "business_name": "Towing Less",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "425524",
+    "phone_number": "N/A",
+    "website": "https://towingless.com/local-towing/il/elgin/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Towing Less, 425524, India",
+    "area": "425524",
+    "latitude": 42.0375775,
+    "longitude": -88.338985,
+    "place_id": "ChIJa_dAXJAFD4gRhCJmBQ2dKT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa_dAXJAFD4gRhCJmBQ2dKT8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:49:56"
+  }
+]

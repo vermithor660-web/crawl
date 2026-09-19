@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaibhav Cycle Center",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle wholesaler",
+    "all_categories": "Bicycle wholesaler",
+    "pincode": "431124",
+    "phone_number": "+91 95617 77647",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Mahatma fule chowk, Nagar, Beed Road, opposite Hotel Vaibhav, Ashti, Maharashtra 414203",
+    "area": "431124",
+    "latitude": 18.802361599999998,
+    "longitude": 75.17252359999999,
+    "place_id": "ChIJyVeKRD6wxDsRbT6y2MrAtvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyVeKRD6wxDsRbT6y2MrAtvg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:51:22"
+  },
+  {
+    "business_name": "Cycle Hub",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle rental service",
+    "all_categories": "Bicycle rental service, Bicycle repair shop, Bicycle Shop, Leasing service",
+    "pincode": "431124",
+    "phone_number": "+91 80071 11055",
+    "website": "http://www.cyclehub.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Colony Number 11, opposite Swami Residency, Om Siddhi Colony, Ganesh Nagar, Bopkhel, Pimpri-Chinchwad, Maharashtra 411031",
+    "area": "Om Siddhi Colony, Ganesh Nagar, Bopkhel",
+    "latitude": 18.5920575,
+    "longitude": 73.8632799,
+    "place_id": "ChIJAakzKjLHwjsR5F8ar4uA4cA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAakzKjLHwjsR5F8ar4uA4cA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:51:24"
+  }
+]

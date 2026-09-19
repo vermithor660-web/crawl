@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nityaswea Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431128",
+    "phone_number": "+91 98227 76274",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X9FM+RH9, Sirsala, Maharashtra 431128",
+    "area": "Sirsala",
+    "latitude": 18.9745483,
+    "longitude": 76.383986,
+    "place_id": "ChIJVVVVVRhUxTsRDjwR79b0bJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVRhUxTsRDjwR79b0bJ8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:58:28"
+  },
+  {
+    "business_name": "Waghmode clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "431128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X9GH+MCF, Sirsala, Maharashtra 431128",
+    "area": "Sirsala",
+    "latitude": 18.9766785,
+    "longitude": 76.3785504,
+    "place_id": "ChIJ9RpWeRpUxTsRduSU5KDvHkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9RpWeRpUxTsRduSU5KDvHkg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:58:28"
+  }
+]

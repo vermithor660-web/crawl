@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonam Masale",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Food manufacturer",
+    "pincode": "431127",
+    "phone_number": "+91 94054 66102",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Majalgaon Fata, Hariom Colony, Ahilya Nagar, Gevrai, Maharashtra 431127",
+    "area": "Hariom Colony, Ahilya Nagar",
+    "latitude": 19.2605807,
+    "longitude": 75.75460819999999,
+    "place_id": "ChIJPeTxr43Z2jsR1pmfLRbktGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPeTxr43Z2jsR1pmfLRbktGs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:57:41"
+  },
+  {
+    "business_name": "P K TRADERS",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "431127",
+    "phone_number": "+91 99216 85151",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sanjay Nagar, Gevrai, Maharashtra 431127",
+    "area": "Sanjay Nagar",
+    "latitude": 19.2659268,
+    "longitude": 75.7478467,
+    "place_id": "ChIJ9y4KobbZ2jsRLquVEvOg-ZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9y4KobbZ2jsRLquVEvOg-ZI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:57:41"
+  }
+]

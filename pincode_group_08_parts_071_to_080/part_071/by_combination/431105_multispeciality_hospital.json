@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Advance Medicity Super Speciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Urologist",
+    "pincode": "431105",
+    "phone_number": "+91 91120 00644",
+    "website": "http://www.advancemedicity.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Gut No.71, Jai Nagari, Plot No. 136/A, Beed Bypass Rd, opp. MIT College, PWD Colony, Satara Deolai Parisar, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "PWD Colony, Satara Deolai Parisar",
+    "latitude": 19.8523541,
+    "longitude": 75.32451209999999,
+    "place_id": "ChIJgWbOlHWZ2zsR8pU8fkj1hGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgWbOlHWZ2zsR8pU8fkj1hGg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:21:04"
+  },
+  {
+    "business_name": "SHIFA MULTI-SPECIALITY HOSPITAL",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431105",
+    "phone_number": "+91 240 255 1017",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kamlapur road ram rai ( T point, near madarsa masjid, Waluj, Chhatrapati Sambhajinagar, Maharashtra 431133",
+    "area": "Ajinkyatara Housing Society, Waluj",
+    "latitude": 19.8015756,
+    "longitude": 75.22483799999999,
+    "place_id": "ChIJ95zc-XKd2zsRm4_vVwzWGr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ95zc-XKd2zsRm4_vVwzWGr4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:21:04"
+  }
+]

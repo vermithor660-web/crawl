@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Motors",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Car dealer, Loan agency",
+    "pincode": "431006",
+    "phone_number": "+91 90283 27777",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 7, Gangotri Apartment, Jalgaon Rd, Opp. Deogiri Bank, Satyam Nagar, N 5, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Satyam Nagar, N 5, Cidco",
+    "latitude": 19.88807,
+    "longitude": 75.3644109,
+    "place_id": "ChIJqXAQgL-i2zsRkBR2uHAE0Os",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqXAQgL-i2zsRkBR2uHAE0Os",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:01:40"
+  },
+  {
+    "business_name": "BMW Bavaria Motors | Chhatrapati Sambhajinagar (Aurangabad)",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Auto repair shop, Car dealer, BMW dealer",
+    "pincode": "431006",
+    "phone_number": "+91 88821 55000",
+    "website": "https://www.bmw-bavariamotors.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Plot No - 76, P/1/2, behind Dhoot Hospital Road, Ashok Nagar, MIDC Industrial Area, Chilkalthana, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "Ashok Nagar, MIDC Industrial Area, Chilkalthana",
+    "latitude": 19.8737171,
+    "longitude": 75.38819699999999,
+    "place_id": "ChIJEXGcgwKj2zsRQy8IVrvayZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEXGcgwKj2zsRQy8IVrvayZE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:01:41"
+  }
+]

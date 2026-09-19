@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nephrix Care Dialysis Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "431102",
+    "phone_number": "+91 90456 54989",
+    "website": "http://nephrixcare.com/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Deshrakshak Mode, Laksar Rd, Kankhal, Haridwar, Uttarakhand 249408",
+    "area": "Sarva Priya Vihar Colony, Kankhal",
+    "latitude": 29.9242574,
+    "longitude": 78.136825,
+    "place_id": "ChIJLx9tfWdHCTkRCIvElMePT2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLx9tfWdHCTkRCIvElMePT2s",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:15:26"
+  },
+  {
+    "business_name": "Samuhya Dialysis Centre",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "431102",
+    "phone_number": "N/A",
+    "website": "http://www.elamakkarasamuhyacs.com/dialysis.php",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "BUS STOP, opposite PERANDOOR, Perandoor, Elamakkara, Kochi, Ernakulam, Keralam 682026",
+    "area": "Perandoor, Elamakkara",
+    "latitude": 10.0182557,
+    "longitude": 76.2846141,
+    "place_id": "ChIJw__v0XINCDsRhOMt4mqumNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw__v0XINCDsRhOMt4mqumNk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:15:26"
+  }
+]

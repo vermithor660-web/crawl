@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Oneskin Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist",
+    "pincode": "425524",
+    "phone_number": "+91 87797 57979",
+    "website": "http://www.oneskin.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no. 12, GREEN HERITAGE, Plot. 79/80, next to Hotel Rajwada, Sector 20, Kharghar, Panvel, Maharashtra 410210",
+    "area": "Sector 20, Kharghar",
+    "latitude": 19.0529448,
+    "longitude": 73.071101,
+    "place_id": "ChIJHXuR8cLD5zsR7PgAN-MRAOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHXuR8cLD5zsR7PgAN-MRAOs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:49:39"
+  },
+  {
+    "business_name": "Dr. J S Chhabra | Skinlife Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Hair removal service, Hair replacement service, Hair transplantation clinic, Laser hair removal service, Dermatologist",
+    "pincode": "425524",
+    "phone_number": "+91 99265 80465",
+    "website": "http://www.skinlifeclinic.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Sch. No. - 54, Ankur Alley, 302, AB Rd, opp. Satya Sai School, Scheme No 74, Indore, Madhya Pradesh 452010",
+    "area": "Scheme No 74",
+    "latitude": 22.7557124,
+    "longitude": 75.8963622,
+    "place_id": "ChIJvetlhKsCYzkRoiATyIYbmXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvetlhKsCYzkRoiATyIYbmXk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:49:39"
+  }
+]

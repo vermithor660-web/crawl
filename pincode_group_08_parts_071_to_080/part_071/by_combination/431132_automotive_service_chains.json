@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Success Motor Garage",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Auto body shop, Car battery store, Car detailing service, Chauffeur service, Garage",
+    "pincode": "431132",
+    "phone_number": "+91 98609 69693",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 22,
+    "address": "Aurangabad Rd, Millat Nagar, Bhawani Nagar, Jalna, Maharashtra 431213",
+    "area": "Millat Nagar, Bhawani Nagar",
+    "latitude": 19.8494995,
+    "longitude": 75.8834116,
+    "place_id": "ChIJ_7HFzx5X2jsRZQ3rY9P2vXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_7HFzx5X2jsRZQ3rY9P2vXQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:05:58"
+  },
+  {
+    "business_name": "Services by RS",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Service establishment",
+    "pincode": "431132",
+    "phone_number": "07920 424331",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Services by RS, 431132, India",
+    "area": "431132",
+    "latitude": 47.73855,
+    "longitude": 12.508827499999999,
+    "place_id": "ChIJMxV-X6-xe0gRI61Pm-4a5Qg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMxV-X6-xe0gRI61Pm-4a5Qg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:05:59"
+  }
+]

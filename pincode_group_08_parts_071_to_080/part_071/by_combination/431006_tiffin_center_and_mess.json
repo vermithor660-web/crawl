@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Atharva Poli Bhaji Kendra",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431006",
+    "phone_number": "+91 99224 66684",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "V999+P8C, Kamgar Chowk, Prabodhankar Thakare Nagar, N 2, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "Kamgar Chowk, Prabodhankar Thakare Nagar, N 2, Cidco",
+    "latitude": 19.8693043,
+    "longitude": 75.3682752,
+    "place_id": "ChIJRRqxBvOi2zsR4HrFDzDdBac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRRqxBvOi2zsR4HrFDzDdBac",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:01:11"
+  },
+  {
+    "business_name": "Leela Bhojnalaya & Canteen",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431006",
+    "phone_number": "+91 98605 38531",
+    "website": "https://www.facebook.com/leelabhojnalaya",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Mathura Nagar, N-6, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Mathura Nagar, N-6, Cidco",
+    "latitude": 19.8828094,
+    "longitude": 75.35763759999999,
+    "place_id": "ChIJvaVNb5ai2zsRiioF4XPTmlA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvaVNb5ai2zsRiioF4XPTmlA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:01:11"
+  }
+]

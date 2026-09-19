@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samarth Stores",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "425524",
+    "phone_number": "+91 95187 49527",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No 1, Circle Rd, near Grampanchayat, Nhavi Pr. Yaval, Maharashtra 425524",
+    "area": "425524",
+    "latitude": 21.1972777,
+    "longitude": 75.8367734,
+    "place_id": "ChIJJdq8C9at2TsRKl9V_8G5Plk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdq8C9at2TsRKl9V_8G5Plk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:49:13"
+  },
+  {
+    "business_name": "Om Enterprises",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "425524",
+    "phone_number": "+91 80559 03713",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Circle Rd, near Nath Mandir, Nhavi Pr. Yaval, Maharashtra 425524",
+    "area": "425524",
+    "latitude": 21.197191399999998,
+    "longitude": 75.8367495,
+    "place_id": "ChIJnZDEJESt2TsR8qhOQwJe4tk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnZDEJESt2TsR8qhOQwJe4tk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:49:14"
+  }
+]

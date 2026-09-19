@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brother's fitness club Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "431120",
+    "phone_number": "+91 87898 92314",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 42,
+    "address": "Satyendra Nagar Rd, Aurangabad, Bihar 824101",
+    "area": "431120",
+    "latitude": 24.757164,
+    "longitude": 84.36409909999999,
+    "place_id": "ChIJr41X6G_9jDkRDxtGiQ5lBTg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr41X6G_9jDkRDxtGiQ5lBTg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:43:50"
+  },
+  {
+    "business_name": "MMF GYM",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center, Gym",
+    "pincode": "431120",
+    "phone_number": "+91 99058 07835",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 98,
+    "address": "Sabzi Mandi, Old GT Road, Chowk, near Kargill, Aurangabad, Bihar 824101",
+    "area": "431120",
+    "latitude": 24.7517311,
+    "longitude": 84.37543389999999,
+    "place_id": "ChIJ8TLyAdf9jDkRcINDHQXwRWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8TLyAdf9jDkRcINDHQXwRWU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:43:50"
+  }
+]

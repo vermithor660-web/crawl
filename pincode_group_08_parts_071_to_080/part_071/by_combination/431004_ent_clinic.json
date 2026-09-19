@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rohiwal Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431004",
+    "phone_number": "+91 240 235 5391",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Dhan Laxmi Complex, near Sant Eknath Rang Mandi, New Usmanpura, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "New Usmanpura",
+    "latitude": 19.8665265,
+    "longitude": 75.3281101,
+    "place_id": "ChIJVVVVlWSY2zsRyZrPmBJxP2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlWSY2zsRyZrPmBJxP2Y",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:57:37"
+  },
+  {
+    "business_name": "Dr. Priya Shende",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "431004",
+    "phone_number": "+91 22 2605 0846",
+    "website": "http://www.drpriyashende.com/",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "Beside Disha Nagari, Behind Hotel Master Cook, Beed Bypass Rd, opp. Hotel Nishant Park, Ajabnagar, Chhatrapati Sambhajinagar, Maharashtra 431010",
+    "area": "Ajabnagar",
+    "latitude": 19.8491315,
+    "longitude": 75.3288022,
+    "place_id": "ChIJkXwaj6fJ5zsRXctsfhmj1t0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkXwaj6fJ5zsRXctsfhmj1t0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:57:38"
+  }
+]

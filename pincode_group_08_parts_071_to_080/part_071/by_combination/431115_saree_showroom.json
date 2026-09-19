@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sudarshan dresses and saree center",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431115",
+    "phone_number": "+91 99237 90330",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Madhla pada, Shivoor, Maharashtra 431116",
+    "area": "Madhla pada",
+    "latitude": 20.0781153,
+    "longitude": 74.8736613,
+    "place_id": "ChIJcdPvQDcN3DsR_76hegmUpx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcdPvQDcN3DsR_76hegmUpx0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:35:57"
+  },
+  {
+    "business_name": "Radhika Saree Centre, Shivoor",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shivoor, Maharashtra 431116",
+    "area": "431115",
+    "latitude": 20.0767833,
+    "longitude": 74.87760329999999,
+    "place_id": "ChIJ30zcCAAL3DsRRwMF39YhBEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ30zcCAAL3DsRRwMF39YhBEw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:35:59"
+  }
+]

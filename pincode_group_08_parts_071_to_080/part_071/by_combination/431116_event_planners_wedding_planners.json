@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sparkling Event&party store",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "431116",
+    "phone_number": "+91 77198 89829",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WPHG+5F7, Vaijapur Tilak road ,Bhatiya, Haldi Galli, Vaijapur, Maharashtra 423701",
+    "area": "Vaijapur",
+    "latitude": 19.9279105,
+    "longitude": 74.7261872,
+    "place_id": "ChIJhwgYBApv3DsRTr7X8wClnCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhwgYBApv3DsRTr7X8wClnCw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:38:42"
+  },
+  {
+    "business_name": "Shri Sai Lawns",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding service",
+    "all_categories": "Wedding service, Festival hall",
+    "pincode": "431116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 56,
+    "address": "WP7V+RQP, Vaijapur Rural, Maharashtra 423701",
+    "area": "431116",
+    "latitude": 19.9145865,
+    "longitude": 74.744466,
+    "place_id": "ChIJAWWgMY1v3DsRGE_uySxonx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAWWgMY1v3DsRGE_uySxonx8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:38:42"
+  }
+]

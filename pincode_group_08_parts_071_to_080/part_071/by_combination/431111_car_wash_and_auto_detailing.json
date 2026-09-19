@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mobile Car Detailing Inc",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car detailing service",
+    "all_categories": "Car detailing service, Service establishment",
+    "pincode": "431111",
+    "phone_number": "N/A",
+    "website": "https://www.martyscardetail.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mobile Car Detailing Inc, 431111, India",
+    "area": "431111",
+    "latitude": 43.035134,
+    "longitude": -76.139366,
+    "place_id": "ChIJhXZ9Rqbs2okR8QNV-cGGu2k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhXZ9Rqbs2okR8QNV-cGGu2k",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:28:52"
+  },
+  {
+    "business_name": "Crystal Finish Car Detailing",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Service establishment",
+    "pincode": "431111",
+    "phone_number": "N/A",
+    "website": "https://crystalfinishcardetailing.com.au/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Crystal Finish Car Detailing, 431111, India",
+    "area": "431111",
+    "latitude": -33.917164899999996,
+    "longitude": 151.223838,
+    "place_id": "ChIJ93-OOY94ZCARDdEn5sVtx1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ93-OOY94ZCARDdEn5sVtx1w",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:28:52"
+  }
+]

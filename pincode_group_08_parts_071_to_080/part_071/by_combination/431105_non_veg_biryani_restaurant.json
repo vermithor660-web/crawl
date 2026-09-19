@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL RANVARA VEG AND NONVEG RESTAURANT",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431105",
+    "phone_number": "+91 95274 44499",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No, Pune Rod, Chhatrapati Sambhajinagar, Waluj Bk., Maharashtra 431133",
+    "area": "431105",
+    "latitude": 19.7891743,
+    "longitude": 75.2200091,
+    "place_id": "ChIJN5J01KGd2zsRLpC1KH02YJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN5J01KGd2zsRLpC1KH02YJ8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:20:46"
+  },
+  {
+    "business_name": "BIRYANI JUNCTION",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "431105",
+    "phone_number": "+91 84216 33270",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Biryani Junction, 1, Paithan Rd, Muddhalwadi, Krishnapur, Bidkin, Maharashtra 431105",
+    "area": "Muddhalwadi, Krishnapur",
+    "latitude": 19.7080836,
+    "longitude": 75.30014109999999,
+    "place_id": "ChIJMan_BgB12zsRBMvniupvo5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMan_BgB12zsRBMvniupvo5M",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:20:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grand Fitness Center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "431101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "behind Perfume park and hotel garnd, Grand main road, behind hotel, Sulibhanjan, Maharashtra 431101",
+    "area": "431101",
+    "latitude": 20.0003372,
+    "longitude": 75.1906485,
+    "place_id": "ChIJl0HXxxuT2zsRP_MPT5l7ne8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl0HXxxuT2zsRP_MPT5l7ne8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:13:33"
+  },
+  {
+    "business_name": "No Pain No Gain 2.0 Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "431101",
+    "phone_number": "+91 84212 36457",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sawangi - harsul , Naygoan Fata, Chh, Chhatrapati Sambhajinagar, Maharashtra 431008",
+    "area": "Chh",
+    "latitude": 19.9523334,
+    "longitude": 75.357593,
+    "place_id": "ChIJ-fn2nyO92zsRU5xwUrbG2Bs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-fn2nyO92zsRU5xwUrbG2Bs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:13:33"
+  }
+]

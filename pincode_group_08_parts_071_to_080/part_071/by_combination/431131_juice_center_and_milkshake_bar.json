@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Icecream Parlour and Juice center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "431131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "5664+VFW, Beed road, Gadi Rd, Swami Vivekananda Nagar, Bank Colany, Majalgaon, Maharashtra 431131",
+    "area": "Gadi Rd, Swami Vivekananda Nagar, Bank Colany",
+    "latitude": 19.162235199999998,
+    "longitude": 76.20618859999999,
+    "place_id": "ChIJeYbUjvSx2jsR54N3XNcYWm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeYbUjvSx2jsR54N3XNcYWm8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:03:29"
+  },
+  {
+    "business_name": "Jai shankar lassi and juice centre",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "431131",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7C6Q+XQR, Khasab Galli, Pathri, Maharashtra 431506",
+    "area": "Khasab Galli",
+    "latitude": 19.2624988,
+    "longitude": 76.4394023,
+    "place_id": "ChIJ8VU0TACn2jsR4z2xhuLfWDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8VU0TACn2jsR4z2xhuLfWDI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:03:31"
+  }
+]

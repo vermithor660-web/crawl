@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Kohinoor Battery",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Auto repair shop",
+    "pincode": "431104",
+    "phone_number": "+91 96655 66155",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Nagar Rd, near Prashant Petrol Pump, Waluj, Pandharpur, Maharashtra 431136",
+    "area": "Waluj",
+    "latitude": 19.831013499999997,
+    "longitude": 75.2476325,
+    "place_id": "ChIJK8UHVeSZ2zsROCAeXoUtK-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK8UHVeSZ2zsROCAeXoUtK-A",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:19:22"
+  },
+  {
+    "business_name": "New Super Battery",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "431104",
+    "phone_number": "+91 77980 79400",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "01 Cidco NR bajrang Chowk Cidco, N-6, Aurangbad, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Shri Nagar Colony, N-6, Aurangbad",
+    "latitude": 19.8879959,
+    "longitude": 75.35808449999999,
+    "place_id": "ChIJ2bNbBzKj2zsR_X7p9K9LRiU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2bNbBzKj2zsR_X7p9K9LRiU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:19:25"
+  }
+]

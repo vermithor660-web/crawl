@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KRUSHNA ARUN CHAVAN",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "431110",
+    "phone_number": "+91 93734 56707",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "Meera Provision Bhimashankar Mandir, Gangapur, Bhiw-dhanora, Maharashtra 431133",
+    "area": "Gangapur",
+    "latitude": 19.656065299999998,
+    "longitude": 75.0988339,
+    "place_id": "ChIJjQUwdV952zsRUPhAZjc5SIc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjQUwdV952zsRUPhAZjc5SIc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:26:23"
+  },
+  {
+    "business_name": "Mauli Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "431110",
+    "phone_number": "+91 70386 81951",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 8,
+    "address": "Bolegaon, Maharashtra 431133",
+    "area": "431110",
+    "latitude": 19.7403008,
+    "longitude": 75.0596552,
+    "place_id": "ChIJfSrTjICB2zsRkbOmAqiQidA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfSrTjICB2zsRkbOmAqiQidA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:26:23"
+  }
+]

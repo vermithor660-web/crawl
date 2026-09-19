@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Republic Motor Works",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Car battery store, Auto repair shop",
+    "pincode": "431110",
+    "phone_number": "+91 99317 59995",
+    "website": "http://republicmotorworksofficial.netlify.app/",
+    "rating": 4.9,
+    "reviews_count": 886,
+    "address": "Exhibition Rd, behind Shashi Complex, Fraser Road Area, Patna, Bihar 800001",
+    "area": "Fraser Road Area",
+    "latitude": 25.607526999999997,
+    "longitude": 85.14067229999999,
+    "place_id": "ChIJ36-jK5xZ7TkRt1zo6UFcRsI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ36-jK5xZ7TkRt1zo6UFcRsI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:27:00"
+  },
+  {
+    "business_name": "Clean Me! Auto Detailing Service",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car detailing service",
+    "all_categories": "Car detailing service, Auto restoration service, Car wash",
+    "pincode": "431110",
+    "phone_number": "N/A",
+    "website": "http://cleanmeauto.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Roundtree Rd, Hamburg, NY 14075, United States",
+    "area": "431110",
+    "latitude": 42.7606685,
+    "longitude": -78.84731239999999,
+    "place_id": "ChIJ9Q-jcUD_o2cR4RqMWqDT2lU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Q-jcUD_o2cR4RqMWqDT2lU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:27:02"
+  }
+]

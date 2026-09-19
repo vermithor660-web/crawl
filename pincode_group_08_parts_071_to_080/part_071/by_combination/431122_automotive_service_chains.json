@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SK MOTORS",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "431122",
+    "phone_number": "+91 96650 12520",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SHOP NO 1 TELGOAN NAKA, Parli Rd, Maharashtra 431122",
+    "area": "Bid Rural, Shree Swami Samarth",
+    "latitude": 18.9807167,
+    "longitude": 75.7799165,
+    "place_id": "ChIJs6yyLwYrxTsRyGWRMDE9LCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs6yyLwYrxTsRyGWRMDE9LCY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:47:44"
+  },
+  {
+    "business_name": "King's Auto, Tec",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "431122",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Syracuse, NY 13207, United States",
+    "area": "Southside",
+    "latitude": 43.0259317,
+    "longitude": -76.1585715,
+    "place_id": "ChIJe9ZupPXz2YkRMX9gYdcRmkk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe9ZupPXz2YkRMX9gYdcRmkk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:47:47"
+  }
+]

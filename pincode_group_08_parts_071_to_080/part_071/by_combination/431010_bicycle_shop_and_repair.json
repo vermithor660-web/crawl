@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cyclewala (सायकलवाला)",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle club, Bicycle repair shop, Bicycle wholesaler, Cycling park, Two Wheeler Repair Shop, Road cycling, Tire repair shop, Tire shop, Toy store",
+    "pincode": "431010",
+    "phone_number": "+91 87888 00699",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "V8HH+JCQ, Paithan Gate-Nirala Bazar Rd, Sanmitra Colony, Nirala Bazar, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Sanmitra Colony, Nirala Bazar",
+    "latitude": 19.879077499999998,
+    "longitude": 75.32862329999999,
+    "place_id": "ChIJ6YCK0Q2j2zsRLRo2zbtp5kA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6YCK0Q2j2zsRLRo2zbtp5kA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:09:46"
+  },
+  {
+    "business_name": "Ryder Cycles",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle rack, Bicycle repair shop, Bicycle wholesaler, Used bicycle shop",
+    "pincode": "431010",
+    "phone_number": "+91 93725 27633",
+    "website": "https://rydercycles.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sameer Building, Ulkanagari Rd, opp. Bank of India, Garkheda Area, Garkheda, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Garkheda Area, Garkheda",
+    "latitude": 19.8657932,
+    "longitude": 75.34548819999999,
+    "place_id": "ChIJQRst2rmj2zsRH6ALsEyFf_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQRst2rmj2zsRH6ALsEyFf_E",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:09:46"
+  }
+]

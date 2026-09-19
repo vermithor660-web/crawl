@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balloon Decor - Balloon Decoration Banglore",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Party planner",
+    "all_categories": "Party planner, Event management company",
+    "pincode": "431116",
+    "phone_number": "+91 96200 78573",
+    "website": "https://djdillu.shop/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gandhi Nagar, Yelahanka, Bengaluru, Karnataka 560064",
+    "area": "Gandhi Nagar, Yelahanka",
+    "latitude": 13.100498499999999,
+    "longitude": 77.5940488,
+    "place_id": "ChIJGU6CyhsZrjsRBEJxViDzsPU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGU6CyhsZrjsRBEJxViDzsPU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:38:42"
+  },
+  {
+    "business_name": "Sai Balloon Decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "431116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop 1, opp. Mit College, Rotegaon, Maharashtra 423701",
+    "area": "431116",
+    "latitude": 19.9528981,
+    "longitude": 74.7499828,
+    "place_id": "ChIJeWy2AA5t3DsR3zMZccvooXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeWy2AA5t3DsR3zMZccvooXo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:38:42"
+  }
+]

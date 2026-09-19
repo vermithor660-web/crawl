@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhavesh medical store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "425524",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8, MH SH 4, Shriram Peth, Mothi Rangar Ghati, Faizpur, Maharashtra 425503",
+    "area": "Shriram Peth, Mothi Rangar Ghati",
+    "latitude": 21.166008899999998,
+    "longitude": 75.8601025,
+    "place_id": "ChIJIbCNotat2TsRz0Yy-Sa9cNI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbCNotat2TsRz0Yy-Sa9cNI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:49:42"
+  },
+  {
+    "business_name": "Kalpasudha",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "425524",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raver - Bhusawal Hwy, Faizpur, Maharashtra 425503",
+    "area": "425524",
+    "latitude": 21.1645511,
+    "longitude": 75.8584846,
+    "place_id": "ChIJT08FjO-t2TsRctvSBrjyAEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT08FjO-t2TsRctvSBrjyAEM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:49:42"
+  }
+]

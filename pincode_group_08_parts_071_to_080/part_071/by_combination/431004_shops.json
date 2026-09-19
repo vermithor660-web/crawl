@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Traders",
+    "search_category": "Shops",
+    "primary_category": "Art supply store",
+    "all_categories": "Art supply store",
+    "pincode": "431004",
+    "phone_number": "+91 94233 95358",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 34,
+    "address": "Disha Kinara Apartment, Nagarkhana Gali, Diwan Devdi, Gulmandi, Shahgunj, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Diwan Devdi, Gulmandi, Shahgunj",
+    "latitude": 19.8848119,
+    "longitude": 75.3313658,
+    "place_id": "ChIJiU9IEg2Y2zsR6q5-84jL99o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiU9IEg2Y2zsR6q5-84jL99o",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:59:00"
+  },
+  {
+    "business_name": "SARTHAK ENTERPRISES",
+    "search_category": "Shops",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Electronics store",
+    "pincode": "431004",
+    "phone_number": "+91 99223 27555",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Raje Sambhaji Chowk Juna, Bhavshingpura, Padegaon, Chhatrapati Sambhajinagar, Maharashtra 431004",
+    "area": "Bhavshingpura, Padegaon",
+    "latitude": 19.8979391,
+    "longitude": 75.2950181,
+    "place_id": "ChIJLVX9lLWZ2zsRo1t2FGEE9Cs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLVX9lLWZ2zsRo1t2FGEE9Cs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:59:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stockup Financial",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Financial consultant, Financial institution, Educational institution",
+    "pincode": "431009",
+    "phone_number": "+91 94215 81110",
+    "website": "https://stockupfinancial.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Flat No.203 ,Wing-A, Place, CIDCO Cannought, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "CIDCO Cannought, Cidco",
+    "latitude": 19.8768714,
+    "longitude": 75.3622448,
+    "place_id": "ChIJsVUDxVSj2zsRdTqvOiN95KM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsVUDxVSj2zsRdTqvOiN95KM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:08:36"
+  },
+  {
+    "business_name": "ANGEL BROKING BALIRAM V. WAYAL",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Finance broker",
+    "pincode": "431009",
+    "phone_number": "+91 81490 30362",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Plot no 62, 63, Lane No. 12, Jai Bhavani Nagar, Sector N 4, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "Jai Bhavani Nagar, Sector N 4, Cidco",
+    "latitude": 19.8612543,
+    "longitude": 75.369767,
+    "place_id": "ChIJN6Cyk7-j2zsR5Af4KeOFGqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN6Cyk7-j2zsR5Af4KeOFGqw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:08:39"
+  }
+]

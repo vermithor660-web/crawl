@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saba Plywood & Particle Board",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Lumber store",
+    "all_categories": "Lumber store, Hardware store",
+    "pincode": "431007",
+    "phone_number": "+91 98907 88325",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Central Naka Rd, Opp. Veterinary Hospital, Indira Nagar, M G M, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Indira Nagar, M G M",
+    "latitude": 19.8850114,
+    "longitude": 75.3503073,
+    "place_id": "ChIJ81XFA5ii2zsRhc88jKH3rS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ81XFA5ii2zsRhc88jKH3rS4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:03:52"
+  },
+  {
+    "business_name": "Patel Plywood",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier",
+    "pincode": "431007",
+    "phone_number": "+91 98232 44547",
+    "website": "https://www.greenply.com/store/greenply-plywood-patel-plywood-best-plywood-shop-and-dealer-in-suyesh-complex-aurangabad_1083",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PLOT NO 9 AND 10, Suyash Complex, Baba Hardas Nagar, Kalda Corner, Ramanagar, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "Kalda Corner, Ramanagar",
+    "latitude": 19.8712215,
+    "longitude": 75.3357414,
+    "place_id": "ChIJvbZa-XmY2zsRRLcK3BHCFk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvbZa-XmY2zsRRLcK3BHCFk8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:03:52"
+  }
+]

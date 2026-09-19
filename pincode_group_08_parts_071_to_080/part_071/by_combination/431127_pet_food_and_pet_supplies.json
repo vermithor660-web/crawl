@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mauli Paahu khadya",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "431127",
+    "phone_number": "+91 92707 80808",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Market Kameti, Mondha Rd, Mondha Naka, Gevrai, Maharashtra 431127",
+    "area": "Mondha Naka",
+    "latitude": 19.256789299999998,
+    "longitude": 75.7506698,
+    "place_id": "ChIJM8vjWgDZ2jsRvjei5g3F7RQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8vjWgDZ2jsRvjei5g3F7RQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:56:16"
+  },
+  {
+    "business_name": "Panzade Pets Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "431127",
+    "phone_number": "+91 90284 37901",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 454,
+    "address": "Shop No 8 MAHALAXMI PETROL PUMP ROAD, Maharashtra 444505",
+    "area": "431127",
+    "latitude": 20.1107041,
+    "longitude": 77.13232789999999,
+    "place_id": "ChIJAfK4cODj0DsRl20kkc9IGOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAfK4cODj0DsRl20kkc9IGOM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:56:17"
+  }
+]

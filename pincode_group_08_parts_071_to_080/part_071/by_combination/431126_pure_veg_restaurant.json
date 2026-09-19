@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Vitthal Pure Veg Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "431126",
+    "phone_number": "+91 94030 40244",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "MMQV+W6C, Chousala, Pargaon, Maharashtra 431126",
+    "area": "431126",
+    "latitude": 18.6897601,
+    "longitude": 75.6930304,
+    "place_id": "ChIJu5CeLQDfxDsR8j41QgmKmts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu5CeLQDfxDsR8j41QgmKmts",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:54:27"
+  },
+  {
+    "business_name": "HOTEL GANDHARVA",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431126",
+    "phone_number": "+91 75759 71313",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "PMCX+PG2, Chousala, Dhotra, Maharashtra 431126",
+    "area": "431126",
+    "latitude": 18.721762,
+    "longitude": 75.69877,
+    "place_id": "ChIJU_RGZADfxDsR09u0k_5A524",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU_RGZADfxDsR09u0k_5A524",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:54:28"
+  }
+]

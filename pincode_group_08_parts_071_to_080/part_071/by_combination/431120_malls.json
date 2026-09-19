@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand Bazar",
+    "search_category": "Malls",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "431120",
+    "phone_number": "+91 97661 85410",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Anand Bazar, main road, near z p school, Jarandi, Maharashtra 431120",
+    "area": "431120",
+    "latitude": 20.5677445,
+    "longitude": 75.5493288,
+    "place_id": "ChIJi6ncXKJ82TsRRp6PWIWuKTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi6ncXKJ82TsRRp6PWIWuKTA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:45:04"
+  },
+  {
+    "business_name": "Jalaram Traders",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Hardware store",
+    "pincode": "431120",
+    "phone_number": "+91 98901 71795",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop.No.4, K.K.Nagar, Hanuman Mandir, Shendurni, Maharashtra 425003",
+    "area": "431120",
+    "latitude": 20.6496836,
+    "longitude": 75.5947044,
+    "place_id": "ChIJCXLst6l72TsRg48hAgq9dXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCXLst6l72TsRg48hAgq9dXk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:45:04"
+  }
+]

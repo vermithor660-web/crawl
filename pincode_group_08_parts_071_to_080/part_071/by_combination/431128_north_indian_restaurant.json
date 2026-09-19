@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL JAGDAMB",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Restaurant",
+    "pincode": "431128",
+    "phone_number": "+91 70836 71010",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 23,
+    "address": "Shop No 1 Gadi Road New Mondha, Maharashtra 431131",
+    "area": "431128",
+    "latitude": 19.1816441,
+    "longitude": 76.1577949,
+    "place_id": "ChIJu2fYo4u32jsRP3Kp4RuZhvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu2fYo4u32jsRP3Kp4RuZhvI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:58:08"
+  },
+  {
+    "business_name": "Shree Sai Hotel",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "431128",
+    "phone_number": "+91 90966 63563",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 52,
+    "address": "Kesapuri Camp, Kesapuri, Maharashtra 431142",
+    "area": "Kesapuri Camp",
+    "latitude": 19.1749245,
+    "longitude": 76.1870434,
+    "place_id": "ChIJO_Hw_y6x2jsR5LH_R8GZZ0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_Hw_y6x2jsR5LH_R8GZZ0M",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:58:08"
+  }
+]

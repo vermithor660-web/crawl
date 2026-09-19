@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Micron Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer consultant, Computer store, Computer service, Computer Wholesaler",
+    "pincode": "431103",
+    "phone_number": "+91 99222 46724",
+    "website": "https://www.microncomputer.in/",
+    "rating": 4.9,
+    "reviews_count": 287,
+    "address": "Area Chatrapati, Shop No 2 Kamlapur Phata Ranjangaon SP MIDC, Sambhajinagar, Waluj, Ranjangaon (Shenpunji), Maharashtra 431136",
+    "area": "Sambhajinagar, Waluj",
+    "latitude": 19.8430335,
+    "longitude": 75.2182802,
+    "place_id": "ChIJLZMgXrab2zsRJ-Z8Qjv8QGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLZMgXrab2zsRJ-Z8Qjv8QGo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:18:07"
+  },
+  {
+    "business_name": "Sunny Infotech",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service",
+    "pincode": "431103",
+    "phone_number": "+91 99220 88911",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 22,
+    "address": "Hiwarkheda road, Sethi complex,kannad, Tq-Kannad,Dist-Aurangabad, Aurangabad, Maharashtra 431103",
+    "area": "Sambhaji Colony, Shanti Nagar",
+    "latitude": 20.2675616,
+    "longitude": 75.1350721,
+    "place_id": "ChIJrwEAQAnw2zsRwbxsZ3eMO2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrwEAQAnw2zsRwbxsZ3eMO2c",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:18:07"
+  }
+]

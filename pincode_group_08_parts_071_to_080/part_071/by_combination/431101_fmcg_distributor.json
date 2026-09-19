@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divik Wholesale",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "431101",
+    "phone_number": "+91 92261 20542",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Aurangabad Rd, in front of APMC gate, Kanhori, Phulambri, Maharashtra 431111",
+    "area": "Kanhori",
+    "latitude": 20.092617,
+    "longitude": 75.42811139999999,
+    "place_id": "ChIJQ4bMsBC_2zsRRsOg8knqoxY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4bMsBC_2zsRRsOg8knqoxY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:13:03"
+  },
+  {
+    "business_name": "Mahesh Pharma Distributor pvt.ltd",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Pharmaceutical Products Wholesaler",
+    "all_categories": "Pharmaceutical Products Wholesaler",
+    "pincode": "431101",
+    "phone_number": "+91 94223 64356",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No 1.Ground Floor, Ghrushneshwar Housing society, Dalalwadi Rd, near Aushadhi Bhavan, Gomtesh Market, Khokadpura, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Gomtesh Market, Khokadpura",
+    "latitude": 19.8832591,
+    "longitude": 75.3305744,
+    "place_id": "ChIJ_SZ0tNaZ2zsRHT3eBbK5BhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_SZ0tNaZ2zsRHT3eBbK5BhQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:13:06"
+  }
+]

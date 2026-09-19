@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Inmotion EXIM",
+    "search_category": "EXIMS",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431121",
+    "phone_number": "+91 82082 81380",
+    "website": "http://www.inmotionexim.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GHR2+F4J, Dadegaon Bk., Maharashtra 431121",
+    "area": "431121",
+    "latitude": 19.5411802,
+    "longitude": 75.5503021,
+    "place_id": "ChIJAQAAAAkT2zsRJ2Z5OunlOuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAAkT2zsRJ2Z5OunlOuQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:46:48"
+  },
+  {
+    "business_name": "PARTH EXIM",
+    "search_category": "EXIMS",
+    "primary_category": "Import export company",
+    "all_categories": "Import export company",
+    "pincode": "431121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "47, ANKUSHNAGAR, MAHAKALA NH-52, TQ. AMBAD, DIST. JALNA, Aurangabad - Solapur Hwy, Maharashtra 431121",
+    "area": "431121",
+    "latitude": 19.5338541,
+    "longitude": 75.653134,
+    "place_id": "ChIJaYSBa9sd2zsRjr-ZenIYvY8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaYSBa9sd2zsRjr-ZenIYvY8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:46:48"
+  }
+]

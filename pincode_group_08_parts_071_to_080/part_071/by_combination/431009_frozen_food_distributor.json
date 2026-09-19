@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trimurti Foods bultose",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "431009",
+    "phone_number": "+91 240 234 0644",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "A/42, M I D C, Railway Station Road, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "Vedant Nagar",
+    "latitude": 19.860617599999998,
+    "longitude": 75.31782679999999,
+    "place_id": "ChIJ3dL16V6Y2zsRbsAILhZKCkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3dL16V6Y2zsRbsAILhZKCkM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:07:13"
+  },
+  {
+    "business_name": "DryOfeast (TRANSDELTA AGRO PRODUCTS)",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company",
+    "pincode": "431009",
+    "phone_number": "+91 90280 44486",
+    "website": "https://dryofeast.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "189, Rohitra, opp. Janshakti Wachak Chalwal, Samarth Nagar, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Samarth Nagar",
+    "latitude": 19.8772564,
+    "longitude": 75.3218231,
+    "place_id": "ChIJMWnQp-uZ2zsR8h5t3FD4GrM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMWnQp-uZ2zsR8h5t3FD4GrM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:07:13"
+  }
+]

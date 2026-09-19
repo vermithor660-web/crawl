@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lotus spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "431131",
+    "phone_number": "+91 95183 00565",
+    "website": "https://www.instagram.com/lotus_spa_majalgaon/profilecard/?igsh=YXZ2cDc2aHY3OWhu",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Dam, in fron of, gadi road, Majalgaon, Chinchgavhan, Maharashtra 431131",
+    "area": "431131",
+    "latitude": 19.1601666,
+    "longitude": 76.1878709,
+    "place_id": "ChIJS37FkXix2jsRmhWNRFI7kiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS37FkXix2jsRmhWNRFI7kiw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:04:18"
+  },
+  {
+    "business_name": "Morya Gents Parlour",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "431131",
+    "phone_number": "+91 88881 42308",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Maurya Gents Parlour, Gayak Ke Complex, Ram Raut, Devkheda, Maharashtra 431131",
+    "area": "Gadi Rd, Manglanath Colony",
+    "latitude": 19.1625765,
+    "longitude": 76.2054792,
+    "place_id": "ChIJi8JTGmax2jsRjplGy-R5Qng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi8JTGmax2jsRjplGy-R5Qng",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:04:18"
+  }
+]

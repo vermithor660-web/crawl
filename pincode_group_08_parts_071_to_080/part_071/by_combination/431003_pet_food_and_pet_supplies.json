@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fiza Pet Zone",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "431003",
+    "phone_number": "+91 97629 79011",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4, Champa Masjid, 4, Champa Chowk Rd, Kaiser Colony, Mondha, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Kaiser Colony, Mondha",
+    "latitude": 19.887959,
+    "longitude": 75.341203,
+    "place_id": "ChIJQV9xC9uZ2zsRJ1F5FmSNxaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQV9xC9uZ2zsRJ1F5FmSNxaw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:08"
+  },
+  {
+    "business_name": "Petgenics Pet Products",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "431003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Plo no.53, old S.B.H. Colony, Peer Bazar, State Bank Colony, New Usmanpura, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "Peer Bazar, State Bank Colony, New Usmanpura",
+    "latitude": 19.863585,
+    "longitude": 75.3287419,
+    "place_id": "ChIJf-h9-TOZ2zsRLKS80isZJnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf-h9-TOZ2zsRLKS80isZJnI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:08"
+  }
+]

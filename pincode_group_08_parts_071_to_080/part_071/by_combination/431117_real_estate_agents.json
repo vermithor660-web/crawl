@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Inapuram homes",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "431117",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Near, Gram Panchayat Rd, Khupta, Maharashtra 431132",
+    "area": "431117",
+    "latitude": 20.4705691,
+    "longitude": 75.8503501,
+    "place_id": "ChIJ50TSSQAp2jsRRi3q0z84VVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ50TSSQAp2jsRRi3q0z84VVc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:41:06"
+  },
+  {
+    "business_name": "Sap Real Estate Group",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "431117",
+    "phone_number": "N/A",
+    "website": "http://saprealestate.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4863 W Seneca Turnpike, Syracuse, NY 13215, United States",
+    "area": "431117",
+    "latitude": 43.0057945,
+    "longitude": -76.179904,
+    "place_id": "ChIJt_ko3kc8O4URlGMKrSONF0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_ko3kc8O4URlGMKrSONF0s",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:41:06"
+  }
+]

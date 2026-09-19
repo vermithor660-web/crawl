@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mishra Building Materials",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "425524",
+    "phone_number": "+91 94156 24280",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "NH 28, Chandwak, Ramdevpur, Uttar Pradesh 222129",
+    "area": "425524",
+    "latitude": 25.601433399999998,
+    "longitude": 82.9956665,
+    "place_id": "ChIJjXDrgVfRkTkRzxV_v0kd574",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjXDrgVfRkTkRzxV_v0kd574",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:49:58"
+  },
+  {
+    "business_name": "Raj Building Material",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "425524",
+    "phone_number": "+91 84238 07944",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6WQX+G2J, SH 74, Khanwa, Uttar Pradesh 221011",
+    "area": "425524",
+    "latitude": 25.2388324,
+    "longitude": 82.9475223,
+    "place_id": "ChIJpz3m5wQzjjkRW3ICuIAOadY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpz3m5wQzjjkRW3ICuIAOadY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:49:59"
+  }
+]

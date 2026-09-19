@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SS TRADERS",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Plumbing supply store",
+    "all_categories": "Plumbing supply store",
+    "pincode": "431123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "Mondha Rd, Jaywanti Nagar, Ambajogai, Maharashtra 431517",
+    "area": "Jaywanti Nagar",
+    "latitude": 18.7301206,
+    "longitude": 76.3847953,
+    "place_id": "ChIJ1xEPEqNfxTsRqNFjkbB35q0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1xEPEqNfxTsRqNFjkbB35q0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:49:54"
+  },
+  {
+    "business_name": "Shree Drip Agency",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Irrigation equipment supplier",
+    "all_categories": "Irrigation equipment supplier, Hardware store",
+    "pincode": "431123",
+    "phone_number": "+91 94222 40602",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Taj Plaza, Jalna - Beed Rd, opp. Veer Hospital, Beed, Maharashtra 431122",
+    "area": "431123",
+    "latitude": 18.996036699999998,
+    "longitude": 75.754346,
+    "place_id": "ChIJyZwL344rxTsRiYoGwcp-PZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZwL344rxTsRiYoGwcp-PZA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:49:54"
+  }
+]

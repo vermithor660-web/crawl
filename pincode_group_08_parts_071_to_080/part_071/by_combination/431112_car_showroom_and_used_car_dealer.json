@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAMEER ENTERPRISES",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "431112",
+    "phone_number": "+91 96376 00186",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "7J5Q+X2Q, Bhavan Rd, Karkhana, Bhawan, Maharashtra 431135",
+    "area": "Karkhana",
+    "latitude": 20.2599743,
+    "longitude": 75.6376126,
+    "place_id": "ChIJa5koFgDN2zsRgub3BhWFX0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa5koFgDN2zsRgub3BhWFX0I",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:30:47"
+  },
+  {
+    "business_name": "SAMRUDDHI MOTORS",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Tractor dealer",
+    "pincode": "431112",
+    "phone_number": "+91 99229 98147",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Opp Diamond Holl, Near Jadhav Hospital Sambhaji Nagar Jalgaon, By Pass Road, Sillod, Chhatrapati Sambhajinagar, Maharashtra 431112",
+    "area": "431112",
+    "latitude": 20.3003744,
+    "longitude": 75.6584307,
+    "place_id": "ChIJh9LYCwDN2zsRoWNPiWZQNdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh9LYCwDN2zsRoWNPiWZQNdU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:30:50"
+  }
+]

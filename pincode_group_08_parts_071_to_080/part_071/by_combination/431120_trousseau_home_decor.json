@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Decor Arts",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Gift basket store",
+    "pincode": "431120",
+    "phone_number": "+91 97116 62526",
+    "website": "https://thedecorarts.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "4, 19, Racquet Ct Rd, Civil Lines, Delhi, 110054",
+    "area": "Civil Lines",
+    "latitude": 28.68538,
+    "longitude": 77.22067779999999,
+    "place_id": "ChIJixraNbz9DDkR6cNgOcDJJpI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJixraNbz9DDkR6cNgOcDJJpI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:44:23"
+  },
+  {
+    "business_name": "Rukhwat house",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Marriage celebrant",
+    "all_categories": "Marriage celebrant, Perfume store",
+    "pincode": "431120",
+    "phone_number": "+91 92267 74398",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Main Rd, behind L T laibrary, opp. Krishna collection, Shrirampur, Maharashtra 413709",
+    "area": "431120",
+    "latitude": 19.6161222,
+    "longitude": 74.6578638,
+    "place_id": "ChIJJbGc-0qK3DsRlJ9F_YQa2U0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJbGc-0qK3DsRlJ9F_YQa2U0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:44:25"
+  }
+]

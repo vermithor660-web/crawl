@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Gharonda",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431103",
+    "phone_number": "+91 95453 98344",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Verul, Aurangabad SH-22, Dhule, Daulatabad Highway, Aurangabad, Maharashtra 431103",
+    "area": "Makranpur",
+    "latitude": 20.254464,
+    "longitude": 75.132103,
+    "place_id": "ChIJgzrgpAzw2zsRZEJ3fL-74RM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgzrgpAzw2zsRZEJ3fL-74RM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:16:52"
+  },
+  {
+    "business_name": "Kalyan Hotel",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431103",
+    "phone_number": "+91 99234 01581",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Verul, Aurangabad, SH-22, Dhule Daulatabad Highway, Aurangabad, Aurangabad, Maharashtra 431103",
+    "area": "431103",
+    "latitude": 20.212838299999998,
+    "longitude": 75.1289718,
+    "place_id": "ChIJlYDJIrXx2zsRjmckvi3viQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlYDJIrXx2zsRjmckvi3viQc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:16:52"
+  }
+]

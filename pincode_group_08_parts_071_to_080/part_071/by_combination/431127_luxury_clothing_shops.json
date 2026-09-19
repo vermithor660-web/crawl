@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Beed Fashions",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431127",
+    "phone_number": "+91 74983 64625",
+    "website": "https://beed-fashions.ueniweb.com/?utm_campaign=gmb",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Pandharwadi, Gevrai, Maharashtra 431127",
+    "area": "431127",
+    "latitude": 19.2685176,
+    "longitude": 75.7080727,
+    "place_id": "ChIJH0XN3r4n2zsREFmcNYA-bTw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH0XN3r4n2zsREFmcNYA-bTw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:56:33"
+  },
+  {
+    "business_name": "ARAB FASHION HUB",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Men's clothing store",
+    "pincode": "431127",
+    "phone_number": "+91 78881 99143",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bashir Ganj, Bir, Beed, Maharashtra 431122",
+    "area": "Bashir Ganj, Bir",
+    "latitude": 18.989466399999998,
+    "longitude": 75.7560345,
+    "place_id": "ChIJ6_7NHecrxTsRlUKopV8NCi0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6_7NHecrxTsRlUKopV8NCi0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:56:35"
+  }
+]

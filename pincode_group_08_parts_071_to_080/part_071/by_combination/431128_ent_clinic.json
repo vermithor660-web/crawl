@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Shree Rao",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Otolaryngology clinic, Pediatrician, Speech & Hearing Specialist",
+    "pincode": "431128",
+    "phone_number": "+91 80018 56789",
+    "website": "https://earsurgeon.in/",
+    "rating": 5,
+    "reviews_count": 1140,
+    "address": "Plot No.29, Road No. 4, behind Temple Bus Stop, Kukatpally Housing Board Colony, 3rd Phase, K P H B Phase 3, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Kukatpally Housing Board Colony, 3rd Phase, K P H B Phase 3, Kukatpally",
+    "latitude": 17.488115399999998,
+    "longitude": 78.3949756,
+    "place_id": "ChIJy8m7hOWRyzsRrmKuxTSg_AE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy8m7hOWRyzsRrmKuxTSg_AE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:58:29"
+  },
+  {
+    "business_name": "Dr Dushyanth Ganesuni",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "431128",
+    "phone_number": "+91 40 6700 0000",
+    "website": "https://continentalhospitals.com/doctors/dr-dushyanth-ganesuni/",
+    "rating": 4.9,
+    "reviews_count": 182,
+    "address": "Consultation Room No 4C13, 4th, Continental Hospitals, Plot No3, Road No. 2, Financial District, Gachibowli, Nanakramguda, Telangana 500032",
+    "area": "Financial District, Gachibowli",
+    "latitude": 17.4173553,
+    "longitude": 78.3393735,
+    "place_id": "ChIJoQWnG1SVyzsRZEDhU2VQx_o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoQWnG1SVyzsRZEDhU2VQx_o",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:58:29"
+  }
+]

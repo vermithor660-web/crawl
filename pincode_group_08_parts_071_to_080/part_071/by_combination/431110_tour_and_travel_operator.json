@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaishnavi tours & travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "431110",
+    "phone_number": "+91 77768 08100",
+    "website": "http://www.mahavirtravels.net/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "MR6G+F58, Deogaon Shani, Kamalpur, Maharashtra 413725",
+    "area": "431110",
+    "latitude": 19.6611676,
+    "longitude": 74.8254427,
+    "place_id": "ChIJtytQel2H3DsRUsgIvY_V6BI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtytQel2H3DsRUsgIvY_V6BI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:27:05"
+  },
+  {
+    "business_name": "Gurukrupa Tours Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "431110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Belpimpalgaon, Maharashtra 413725",
+    "area": "431110",
+    "latitude": 19.6075357,
+    "longitude": 74.84852,
+    "place_id": "ChIJq9ZrKQCH3DsRdfNIOBfNPd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq9ZrKQCH3DsRdfNIOBfNPd8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:27:08"
+  }
+]

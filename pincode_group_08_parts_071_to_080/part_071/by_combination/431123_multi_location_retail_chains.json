@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SONU MULTI SRVISES",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Photography service, Print shop",
+    "pincode": "431123",
+    "phone_number": "+91 95185 90722",
+    "website": "https://sites.google.com/view/sonuservices/home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, Kaij, Maharashtra 431123",
+    "area": "431123",
+    "latitude": 18.713504999999998,
+    "longitude": 76.0698336,
+    "place_id": "ChIJCUKIVBc_xTsRFkeaoEaEi4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCUKIVBc_xTsRFkeaoEaEi4Q",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:50:40"
+  },
+  {
+    "business_name": "Renu smart Mall",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "431123",
+    "phone_number": "+91 77210 76356",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No 01 Shivaji Nagar, Maharashtra 431122",
+    "area": "Mitra Nagar, Kranti Colony, Datta Nagar",
+    "latitude": 18.9842562,
+    "longitude": 75.74839399999999,
+    "place_id": "ChIJod3QvHArxTsRdCWXrUIlbvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJod3QvHArxTsRdCWXrUIlbvc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:50:41"
+  }
+]

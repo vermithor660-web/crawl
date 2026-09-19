@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Accwise Global Services Private Limited",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm, Service establishment",
+    "pincode": "431116",
+    "phone_number": "N/A",
+    "website": "http://www.accwiseglobal.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Accwise Global Services Private Limited, 431116, India",
+    "area": "431116",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ27uZ1F95posRlmqvEd-9pN8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ27uZ1F95posRlmqvEd-9pN8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:39:11"
+  },
+  {
+    "business_name": "GL Plus Accounting Solutions",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Bookkeeping service",
+    "all_categories": "Bookkeeping service, Service establishment",
+    "pincode": "431116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GL Plus Accounting Solutions, 431116, India",
+    "area": "431116",
+    "latitude": 62.6573279,
+    "longitude": -95.989235,
+    "place_id": "ChIJec7r4FdE04kRGGyJPuFuJgw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJec7r4FdE04kRGGyJPuFuJgw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:39:12"
+  }
+]

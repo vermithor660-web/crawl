@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shaikh Azhar",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "425524",
+    "phone_number": "+91 97645 15141",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop 21, Main Road, Yawal, Nhavi Pr. Yaval, Maharashtra 425524",
+    "area": "425524",
+    "latitude": 21.1857304,
+    "longitude": 75.8328774,
+    "place_id": "ChIJva7I9oSt2TsR_cekzLVIsZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJva7I9oSt2TsR_cekzLVIsZY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:49:53"
+  },
+  {
+    "business_name": "Om Maruti Motor Training School",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "425524",
+    "phone_number": "+91 98199 27278",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 952,
+    "address": "shop no. 17, ambika palace, Tandon Rd, near flyover bridge, beside biryani corner, Dombivli, Ramnagar, Dombivli East, Kalyan, Maharashtra 421201",
+    "area": "Dombivli, Ramnagar, Dombivli East",
+    "latitude": 19.2152043,
+    "longitude": 73.0862796,
+    "place_id": "ChIJTf_XvyC-5zsRxXzyEvgXc-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTf_XvyC-5zsRxXzyEvgXc-A",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:49:54"
+  }
+]

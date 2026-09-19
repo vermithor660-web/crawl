@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC Center Nagpur",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "425524",
+    "phone_number": "+91 97303 47189",
+    "website": "http://digitalseva.gov.in/",
+    "rating": 4.8,
+    "reviews_count": 250,
+    "address": "Sai Mandir, Bazar road, near Kushi Nagar, Sugat Nagar, Jaripatka, Nagpur, Maharashtra 440014",
+    "area": "Sugat Nagar, Jaripatka",
+    "latitude": 21.189151199999998,
+    "longitude": 79.09452619999999,
+    "place_id": "ChIJ7wL8pTnB1DsREz-9M8IHrA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7wL8pTnB1DsREz-9M8IHrA8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:50:28"
+  },
+  {
+    "business_name": "COMMON SERVICE CENTRE",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Common Service Center (CSC) / E-Seva",
+    "all_categories": "Common Service Center (CSC) / E-Seva",
+    "pincode": "425524",
+    "phone_number": "+91 88304 37909",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5, Gorewada Rd, Patel Nagar, Manjidana Colony, Nagpur, Maharashtra 440013",
+    "area": "Patel Nagar, Manjidana Colony",
+    "latitude": 21.1795306,
+    "longitude": 79.05387139999999,
+    "place_id": "ChIJ81oFSKXB1DsRLrtWaEanldI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ81oFSKXB1DsRLrtWaEanldI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:50:28"
+  }
+]

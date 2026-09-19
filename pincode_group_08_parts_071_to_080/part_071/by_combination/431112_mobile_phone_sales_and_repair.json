@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mauli Mobile Hasnabad",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Electronics Company",
+    "pincode": "431112",
+    "phone_number": "+91 91727 21471",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "BHOKARDAN ROAD, near BANK OF MAHARASHTRA, HASNABAD, AT, BHOKARDAN, Hasanabad, Maharashtra 431135",
+    "area": "HASNABAD, AT",
+    "latitude": 20.129698599999998,
+    "longitude": 75.69900969999999,
+    "place_id": "ChIJJWZh85bL2zsRziy6VhfD6XQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJWZh85bL2zsRziy6VhfD6XQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:31:30"
+  },
+  {
+    "business_name": "Lucky Mobile Shopee",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "431112",
+    "phone_number": "+91 99704 46655",
+    "website": "https://lucky-mobile-shopee.grexa.site/",
+    "rating": 4.3,
+    "reviews_count": 14,
+    "address": "Main Road, Dhawda, Maharashtra 431132",
+    "area": "431112",
+    "latitude": 20.501013699999998,
+    "longitude": 75.8882091,
+    "place_id": "ChIJ1XJPyxoo2jsR2rgxZcF--4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1XJPyxoo2jsR2rgxZcF--4s",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:31:32"
+  }
+]

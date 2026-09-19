@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samrat watch & general store",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Cell phone store, Electronics store, Home goods store",
+    "pincode": "431003",
+    "phone_number": "+91 80555 55119",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Pundlik Nagar Rd, Nandigram Colony, Vishalnagar, Nyay Nagar, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Nandigram Colony, Vishalnagar, Nyay Nagar",
+    "latitude": 19.868194,
+    "longitude": 75.351811,
+    "place_id": "ChIJ82QM7IWi2zsRq73z6-877xw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ82QM7IWi2zsRq73z6-877xw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:28"
+  },
+  {
+    "business_name": "Ahuja's Top Time",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Clock repair service, Clock and watch maker, Watch Manufacturer, Watch repair service",
+    "pincode": "431003",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "Chistiya chowk road, N-6, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Gulmohar Colony, Sahyadri Nagar, N-6, Cidco",
+    "latitude": 19.8819916,
+    "longitude": 75.36077639999999,
+    "place_id": "ChIJQc4wTJSi2zsRCHJInRQCrMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQc4wTJSi2zsRCHJInRQCrMI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:30"
+  }
+]

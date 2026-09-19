@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radhika Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431003",
+    "phone_number": "+91 94040 13184",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "431003, Sudarshan Nagar, N 11, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Hudco, Sudarshan Nagar, N 11, Cidco",
+    "latitude": 19.9043192,
+    "longitude": 75.3535211,
+    "place_id": "ChIJBcNJ6LKi2zsR4gOroPsQvK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBcNJ6LKi2zsR4gOroPsQvK4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:27"
+  },
+  {
+    "business_name": "Dream Season The Trending Couture",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Clothing store",
+    "pincode": "431003",
+    "phone_number": "+91 88568 87873",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "shop no 69/1, Mayuri Complex, Near, jadhwadi chowk, behind on jaiswal hall, Jadhav Mandi, N 9, Shivaji Nagar, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Jadhav Mandi, N 9, Shivaji Nagar",
+    "latitude": 19.9040262,
+    "longitude": 75.3573981,
+    "place_id": "ChIJQ77icDSj2zsRU37RebFGvo0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ77icDSj2zsRU37RebFGvo0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:28"
+  }
+]

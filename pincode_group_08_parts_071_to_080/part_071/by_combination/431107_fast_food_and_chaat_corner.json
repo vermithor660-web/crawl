@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lalajij Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "431107",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "F9CP+W9G, To Nath Mandir(out Side), Nagar Palika, Paithan, Maharashtra 431107",
+    "area": "Nagar Palika",
+    "latitude": 19.472313,
+    "longitude": 75.3859563,
+    "place_id": "ChIJHR6YY1cT2zsRgCIoKx5Ar4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHR6YY1cT2zsRgCIoKx5Ar4s",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:22:51"
+  },
+  {
+    "business_name": "Parivar Khaugalli & Family Restaurant",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431107",
+    "phone_number": "+91 98052 82930",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 94,
+    "address": "Tehsil road, Annapurna Nagar, Madhav Nagar, Court Area, Paithan, Maharashtra 431107",
+    "area": "Annapurna Nagar, Madhav Nagar, Court Area",
+    "latitude": 19.4784035,
+    "longitude": 75.3888759,
+    "place_id": "ChIJ10AlubkT2zsR_nykllThk1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ10AlubkT2zsR_nykllThk1s",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:22:52"
+  }
+]

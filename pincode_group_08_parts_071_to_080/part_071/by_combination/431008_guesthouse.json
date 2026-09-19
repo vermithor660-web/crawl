@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Atithi Inn",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431008",
+    "phone_number": "+91 99235 30584",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 21,
+    "address": "Gat No- 82, Cambridge Bypass road, opp. Janki Lawns, Sawangi, Chhatrapati Sambhajinagar, Maharashtra 431008",
+    "area": "431008",
+    "latitude": 19.926138599999998,
+    "longitude": 75.3887226,
+    "place_id": "ChIJMfHZa8m92zsR3wnsdutBTuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMfHZa8m92zsR3wnsdutBTuA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:06:15"
+  },
+  {
+    "business_name": "Grand Shripad Hotel and Lodging",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431008",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "Jalgaon Road, Chowk, Sawangi, Chhatrapati Sambhajinagar, Maharashtra 431008",
+    "area": "Chowk",
+    "latitude": 19.948880199999998,
+    "longitude": 75.3566273,
+    "place_id": "ChIJCw_AaGC92zsR4YAQ5BTQEtg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCw_AaGC92zsR4YAQ5BTQEtg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:06:15"
+  }
+]

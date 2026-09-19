@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saideep Gents Parlour",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "431116",
+    "phone_number": "+91 96042 15174",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No1, Vaijapur Rd, near Yeola, Ladagive Kaman, Vajapur, Vaijapur, Maharashtra 423701",
+    "area": "Ladagive Kaman, Vajapur",
+    "latitude": 19.924979699999998,
+    "longitude": 74.72663949999999,
+    "place_id": "ChIJdfhnNtFv3DsRoMN9XoJuzsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdfhnNtFv3DsRoMN9XoJuzsc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:38:35"
+  },
+  {
+    "business_name": "Simran Beauty Parlor",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "431116",
+    "phone_number": "+91 94207 83723",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Shop No, 1, Old State Bank Rd, Vaijapur, Maharashtra 423701",
+    "area": "Vaijapur",
+    "latitude": 19.927353399999998,
+    "longitude": 74.7272041,
+    "place_id": "ChIJLW9l9L9v3DsRfe1wHos8H9k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLW9l9L9v3DsRfe1wHos8H9k",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:38:35"
+  }
+]

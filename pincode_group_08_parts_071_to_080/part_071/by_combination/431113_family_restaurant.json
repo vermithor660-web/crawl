@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Manpasand bharadi",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "431113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "9G5R+9G9, Chalisgaon Rd, Bharadi, Maharashtra 431113",
+    "area": "431113",
+    "latitude": 20.3584158,
+    "longitude": 75.5413691,
+    "place_id": "ChIJQ4zjsQHR2zsRDNIQ-5NrN80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4zjsQHR2zsRDNIQ-5NrN80",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:32:14"
+  },
+  {
+    "business_name": "Hotel Manpasand Family Veg & Non-Veg Restaurant, Sillod",
+    "search_category": "Family Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Family restaurant, Fast food restaurant, Fine dining restaurant, Takeout restaurant, Non Vegetarian Restaurant, Restaurant, Vegetarian restaurant",
+    "pincode": "431113",
+    "phone_number": "+91 94227 17019",
+    "website": "https://www.instagram.com/hotel.manpasand_sillod",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "front of Swami School, Jalgaon Road, Sillod, Maharashtra 431112",
+    "area": "431113",
+    "latitude": 20.3238125,
+    "longitude": 75.6570625,
+    "place_id": "ChIJlRwTE2bS2zsRSoSzRMih0wg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlRwTE2bS2zsRSoSzRMih0wg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:32:14"
+  }
+]

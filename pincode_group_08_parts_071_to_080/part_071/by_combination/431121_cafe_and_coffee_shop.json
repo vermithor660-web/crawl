@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Q'up Bistro & Bakehouse",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Pizza restaurant",
+    "pincode": "431121",
+    "phone_number": "+91 88886 34624",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 92,
+    "address": "near Amrut well hospital, Shrikrishna Nagar, Srikrushnanagar, Ulkanagari, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Shrikrishna Nagar, Srikrushnanagar, Ulkanagari",
+    "latitude": 19.8628888,
+    "longitude": 75.3391615,
+    "place_id": "ChIJV1rCtL-Z2zsRn9C5pbfyXuE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV1rCtL-Z2zsRn9C5pbfyXuE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:45:20"
+  },
+  {
+    "business_name": "Shriram Agro Services",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service, Coffee shop",
+    "pincode": "431121",
+    "phone_number": "+91 73504 93956",
+    "website": "http://shriramagroservices.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "At, Wadigodri, Maharashtra 431205",
+    "area": "At",
+    "latitude": 19.452191,
+    "longitude": 75.7092425,
+    "place_id": "ChIJLdvZ4ygf2zsRkIzkPOwti-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLdvZ4ygf2zsRkIzkPOwti-Q",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:45:22"
+  }
+]

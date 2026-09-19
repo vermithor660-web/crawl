@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eureka Educational Consultancy",
+    "search_category": "Educational Consultant",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "431109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WPMJ+VQ9, Anand Nagar, Vaijapur, Maharashtra 423701",
+    "area": "Anand Nagar",
+    "latitude": 19.934655799999998,
+    "longitude": 74.7319952,
+    "place_id": "ChIJ9a4xIzdv3DsR86dkENPMDGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9a4xIzdv3DsR86dkENPMDGk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:25:46"
+  },
+  {
+    "business_name": "Sumedh Edu Care",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "431109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kamalpur Road, Patare Vasti, Bhokar, Maharashtra 413739",
+    "area": "Patare Vasti",
+    "latitude": 19.6271661,
+    "longitude": 74.7732478,
+    "place_id": "ChIJ_R1o-gOJ3DsRRcCz9fF2zO8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_R1o-gOJ3DsRRcCz9fF2zO8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:25:46"
+  }
+]

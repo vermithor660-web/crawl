@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tere Naam Pan Stall",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop",
+    "pincode": "431128",
+    "phone_number": "+91 98223 71530",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 21,
+    "address": "Maharashtra State Highway 67, Annapurna Nagar, Ausa, Maharashtra 413520",
+    "area": "Annapurna Nagar",
+    "latitude": 18.2490874,
+    "longitude": 76.5031195,
+    "place_id": "ChIJocWqDYp-zzsRBBGSX3ykLrM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJocWqDYp-zzsRBBGSX3ykLrM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:58:02"
+  },
+  {
+    "business_name": "S K pan shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop",
+    "pincode": "431128",
+    "phone_number": "+91 83907 54699",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Beed nagar road, Gandhanwadi Rd, Pandharwadi fata, Maharashtra 413207",
+    "area": "pandharwadi phata, Pandharwadi fata",
+    "latitude": 18.962950199999998,
+    "longitude": 75.2875878,
+    "place_id": "ChIJ6SAqx6S1xDsRQJx20uk5k-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6SAqx6S1xDsRQJx20uk5k-A",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:58:05"
+  }
+]

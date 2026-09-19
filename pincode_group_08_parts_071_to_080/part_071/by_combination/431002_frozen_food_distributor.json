@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shrija fresh food",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store, Frozen food manufacturer, Momo restaurant",
+    "pincode": "431002",
+    "phone_number": "+91 82757 67274",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "MIDC Waluj, Bajaj Nagar, Ranjangaon Shenpunji, Waluj, Wadgaon Kolhati, Maharashtra 431136",
+    "area": "MIDC Waluj, Bajaj Nagar, Ranjangaon Shenpunji, Waluj",
+    "latitude": 19.840869599999998,
+    "longitude": 75.23393109999999,
+    "place_id": "ChIJdSc6A7Cb2zsRCV92ee2ZAZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdSc6A7Cb2zsRCV92ee2ZAZk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:53:09"
+  },
+  {
+    "business_name": "SVAM Agrofoodex Pvt Ltd.",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company, Food and beverage consultant",
+    "pincode": "431002",
+    "phone_number": "+91 240 255 3491",
+    "website": "http://svamagrofoodex.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FF-8, Orange Square, Nagar, Chhatrapati Sambhajinagar - Ahilyanagar - Pune Hwy, CIDCO Waluj Mahanagar 1, Mhanagar-1, Tisgaon, Maharashtra 431136",
+    "area": "CIDCO Waluj Mahanagar 1, Mhanagar-1, Waluj",
+    "latitude": 19.8410832,
+    "longitude": 75.2561554,
+    "place_id": "ChIJHYQ0imOZ2zsRNwEBcdxhdYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHYQ0imOZ2zsRNwEBcdxhdYs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:53:09"
+  }
+]

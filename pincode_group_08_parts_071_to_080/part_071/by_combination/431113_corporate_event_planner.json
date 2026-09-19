@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Fabrication",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Electronics store",
+    "pincode": "431113",
+    "phone_number": "+91 98507 70314",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Shop No.1, Ghatnandra, Maharashtra 431113",
+    "area": "Ghat Nandra",
+    "latitude": 20.4489642,
+    "longitude": 75.4227147,
+    "place_id": "ChIJf1C470ff2zsRHk9BD1eylpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf1C470ff2zsRHk9BD1eylpE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:33:12"
+  },
+  {
+    "business_name": "Shreesai lawns",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "431113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "post, at Kasod, Bharadi Rd, ta, Jai Bhawani Nagar, Sillod, Maharashtra 431112",
+    "area": "ta, Jai Bhawani Nagar",
+    "latitude": 20.310909,
+    "longitude": 75.6519532,
+    "place_id": "ChIJp2vVeQDR2zsRvvwM712enWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp2vVeQDR2zsRvvwM712enWY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:33:12"
+  }
+]

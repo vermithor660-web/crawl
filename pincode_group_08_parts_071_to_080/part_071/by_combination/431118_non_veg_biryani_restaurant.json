@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel New Suruchi",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431118",
+    "phone_number": "+91 90110 89387",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "MH MSH 8, Fardapur, Maharashtra 431118",
+    "area": "431118",
+    "latitude": 20.590916099999998,
+    "longitude": 75.7239046,
+    "place_id": "ChIJrZlYJzGD2TsRRnxEyjAwJic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZlYJzGD2TsRRnxEyjAwJic",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:41:33"
+  },
+  {
+    "business_name": "SAIRAM AJINTA HOTEL",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "431118",
+    "phone_number": "+91 97678 81991",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop.No.01, Road Aurangabad Balapur Road, Ajantha, Sillod, Maharashtra 431117",
+    "area": "431118",
+    "latitude": 20.4955601,
+    "longitude": 75.7306447,
+    "place_id": "ChIJ35su1TMr2jsRx6tXOndw43s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ35su1TMr2jsRx6tXOndw43s",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:41:36"
+  }
+]

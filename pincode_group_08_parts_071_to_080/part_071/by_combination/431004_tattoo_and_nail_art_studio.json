@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Patna Ink Tattoo",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo and piercing shop",
+    "all_categories": "Tattoo and piercing shop",
+    "pincode": "431004",
+    "phone_number": "+91 84099 44430",
+    "website": "http://www.patnaink.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gv mall, Boring Rd, crossing, Patna, Bihar 800001",
+    "area": "crossing, Sri Krishna Puri",
+    "latitude": 25.6122446,
+    "longitude": 85.11839499999999,
+    "place_id": "ChIJVY2vhNtZ7TkRyaP4xc2NAHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVY2vhNtZ7TkRyaP4xc2NAHA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:58:05"
+  },
+  {
+    "business_name": "19s Tattoo studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo and piercing shop",
+    "all_categories": "Tattoo and piercing shop, Art studio, Body piercing shop, Tattoo artist, Tattoo removal service, Tattoo shop, Tattoo supply store",
+    "pincode": "431004",
+    "phone_number": "+91 84099 86183",
+    "website": "https://19stattoo.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no LG 14, g v mall, Boring Rd, crossing, chauraha, Patna, Bihar 800001",
+    "area": "crossing, chauraha",
+    "latitude": 25.6127616,
+    "longitude": 85.1180869,
+    "place_id": "ChIJicPrKaJZ7TkRQqUBp1b2KQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJicPrKaJZ7TkRQqUBp1b2KQc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:58:05"
+  }
+]

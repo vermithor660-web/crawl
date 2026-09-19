@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modern Flower Shop",
+    "search_category": "Flower Decorator",
+    "primary_category": "Dried flower shop",
+    "all_categories": "Dried flower shop",
+    "pincode": "431009",
+    "phone_number": "+91 99704 17670",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "48, Darga Rd, Shrikrishna Nagar, Jyoti Nagar, Shahnoorwadi, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Shrikrishna Nagar, Jyoti Nagar, Shahnoorwadi",
+    "latitude": 19.8581643,
+    "longitude": 75.33429699999999,
+    "place_id": "ChIJr2fUPoeY2zsRyzl7j0VSsr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr2fUPoeY2zsRyzl7j0VSsr4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:08:12"
+  },
+  {
+    "business_name": "(Closed Store)",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Corporate gift supplier, Flower delivery, Gift shop",
+    "pincode": "431009",
+    "phone_number": "N/A",
+    "website": "https://www.fnp.com/flowers/aurangabad?utm_source=local&utm_medium=organic&utm_campaign=gmbparam",
+    "rating": 3.9,
+    "reviews_count": 114,
+    "address": "5/5/28, Nyati Chambers, Near Osmanpura Circles Besides Bikaner Bhujiawala, Maharashtra 431005",
+    "area": "Snehnagar, Konkanwadi",
+    "latitude": 19.8712606,
+    "longitude": 75.3276119,
+    "place_id": "ChIJl1VVlWSY2zsRsV-312eYZuk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl1VVlWSY2zsRsV-312eYZuk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:08:12"
+  }
+]

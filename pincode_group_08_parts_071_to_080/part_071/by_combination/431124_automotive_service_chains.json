@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VAISHNAVI AUTOMOBILE",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "431124",
+    "phone_number": "+91 82085 32828",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raj Hotel, Shop No 1 Solapur Road, Beed - Solapur Rd, opp. Manjeri Phata, Pali, Beed, Maharashtra 431153",
+    "area": "431124",
+    "latitude": 18.9006217,
+    "longitude": 75.7412904,
+    "place_id": "ChIJdXGqkFwpxTsRAkXmAzn62FM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdXGqkFwpxTsRAkXmAzn62FM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:51:27"
+  },
+  {
+    "business_name": "SR auto mobiles",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "431124",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "X3G2+8J, Sarsena Khalsa, Uttar Pradesh 276205",
+    "area": "431124",
+    "latitude": 25.9760587,
+    "longitude": 83.0521584,
+    "place_id": "ChIJ36cmQgCxkTkRqLgB5HFh8ew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ36cmQgCxkTkRqLgB5HFh8ew",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:51:27"
+  }
+]

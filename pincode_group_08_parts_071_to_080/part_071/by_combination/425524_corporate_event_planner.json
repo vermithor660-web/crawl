@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "XL Events India",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Children's party service, Event management company, Wedding planner, Graphic designer, Party planner, Wedding service",
+    "pincode": "425524",
+    "phone_number": "+91 97681 19009",
+    "website": "https://www.xlevents.in/",
+    "rating": 4.9,
+    "reviews_count": 52,
+    "address": "Rajshree 11, 90 Feet Rd, Pant Nagar, east, Mumbai, Maharashtra 400075",
+    "area": "Pant Nagar, east",
+    "latitude": 19.081822199999998,
+    "longitude": 72.91180949999999,
+    "place_id": "ChIJRUxAbcHH5zsRQlQjOl-htsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRUxAbcHH5zsRQlQjOl-htsU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:50:21"
+  },
+  {
+    "business_name": "Mahadev Events Management",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "425524",
+    "phone_number": "+91 98610 50067",
+    "website": "https://mahadevevents.lovable.app/",
+    "rating": 5,
+    "reviews_count": 44,
+    "address": "Padhi Street, Paralakhemundi, Odisha 761200",
+    "area": "425524",
+    "latitude": 18.7799087,
+    "longitude": 84.0842218,
+    "place_id": "ChIJXQ3Fbu33PDoRF6vq4_ccbc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXQ3Fbu33PDoRF6vq4_ccbc8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:50:21"
+  }
+]

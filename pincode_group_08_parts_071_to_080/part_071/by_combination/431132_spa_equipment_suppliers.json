@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Bella Spa",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "431132",
+    "phone_number": "+91 90671 60666",
+    "website": "http://www.thebellaspas.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Hotel Vishwamitra, 1st Floor, Khardekar Stop, Ausa Rd, Latur, Maharashtra 413531",
+    "area": "Mantri Nagar",
+    "latitude": 18.3912352,
+    "longitude": 76.56192539999999,
+    "place_id": "ChIJs0wRrDmDzzsRGENLVwdUjZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs0wRrDmDzzsRGENLVwdUjZo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:06:14"
+  },
+  {
+    "business_name": "Spa Mart Pty Ltd",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Hot tub store, Swimming pool, Swimming pool contractor, Swimming pool supply store",
+    "pincode": "431132",
+    "phone_number": "N/A",
+    "website": "https://www.facebook.com/SpaMartPtyLtd/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Unit 8/8 Lindsay Rd, Lonsdale SA 5160, Australia",
+    "area": "431132",
+    "latitude": -35.1039344,
+    "longitude": 138.5050161,
+    "place_id": "ChIJSyjc7NnZsGoRcE35gM8Rc5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSyjc7NnZsGoRcE35gM8Rc5g",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:06:14"
+  }
+]

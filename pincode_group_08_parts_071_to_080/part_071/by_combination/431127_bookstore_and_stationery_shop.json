@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DILEEP STATIONERY MART",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Paper store, Stationery wholesaler",
+    "pincode": "431127",
+    "phone_number": "+91 94207 85518",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "XQV5+8XH, Subash Rd, opposite Bank Of Baroda, Bir, Beed, Maharashtra 431122",
+    "area": "Bir",
+    "latitude": 18.9932688,
+    "longitude": 75.7624165,
+    "place_id": "ChIJPZWZ2DgrxTsRHWv41aXVOos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPZWZ2DgrxTsRHWv41aXVOos",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:57:23"
+  },
+  {
+    "business_name": "Bhavana Multiservices",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "431127",
+    "phone_number": "+91 88889 87738",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Shop No 4 Main Road Kekatpangari Gevarai Kekatpangri, Maharashtra 431127",
+    "area": "431127",
+    "latitude": 19.2615961,
+    "longitude": 75.83016839999999,
+    "place_id": "ChIJFbfEao_b2jsRc-m-OBdzKw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFbfEao_b2jsRc-m-OBdzKw4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:57:24"
+  }
+]

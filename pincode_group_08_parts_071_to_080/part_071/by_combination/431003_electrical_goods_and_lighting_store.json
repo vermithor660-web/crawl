@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanskriti Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Electric motor store, Electrical appliance wholesaler, Light bulb supplier, Electrical supply store",
+    "pincode": "431003",
+    "phone_number": "+91 98222 77913",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No 7, Shrinivas Appartment, Pundlik Nagar Rd, opp. Gokul Sweet, Kamgar Chowk, Sector N 4, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431007",
+    "area": "Kamgar Chowk, Sector N 4, Cidco",
+    "latitude": 19.8658292,
+    "longitude": 75.3650265,
+    "place_id": "ChIJn1FZ0PSi2zsRK_Ynng0bZBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn1FZ0PSi2zsRK_Ynng0bZBM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:51"
+  },
+  {
+    "business_name": "Shivsai Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "431003",
+    "phone_number": "+91 77698 91650",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Prathamesh Nagar, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "Prathamesh Nagar",
+    "latitude": 19.855021,
+    "longitude": 75.369445,
+    "place_id": "ChIJk8uHblyi2zsROK5-OStAl2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk8uHblyi2zsROK5-OStAl2Y",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:51"
+  }
+]

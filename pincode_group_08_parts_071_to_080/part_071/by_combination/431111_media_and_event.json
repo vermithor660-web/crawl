@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay Warta",
+    "search_category": "Media and Event",
+    "primary_category": "Newspaper publisher",
+    "all_categories": "Newspaper publisher, Advertising service",
+    "pincode": "431111",
+    "phone_number": "+91 93713 35333",
+    "website": "http://www.sanjaywarta.com/",
+    "rating": 4.5,
+    "reviews_count": 82,
+    "address": "Plot No-81 G-sector, beside Power House, Sector N 4, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Sector E, Sector N 4, Cidco",
+    "latitude": 19.8699181,
+    "longitude": 75.3627928,
+    "place_id": "ChIJy8lYCpyi2zsRT65WxqOVSok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy8lYCpyi2zsRT65WxqOVSok",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:29:28"
+  },
+  {
+    "business_name": "Anchor Vishal Gadiya",
+    "search_category": "Media and Event",
+    "primary_category": "Entertainer",
+    "all_categories": "Entertainer",
+    "pincode": "431111",
+    "phone_number": "+91 84088 52728",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Nutan Yashwant Housing Society, Shivdatta Housing Society, N 8, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Nutan Yashwant Housing Society, Shivdatta Housing Society, N 8, Cidco",
+    "latitude": 19.8893928,
+    "longitude": 75.35513379999999,
+    "place_id": "ChIJx____3KY2zsRkYHRlwTMo_k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx____3KY2zsRkYHRlwTMo_k",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:29:29"
+  }
+]

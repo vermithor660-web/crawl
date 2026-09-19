@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Realty One Group Refined",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Commercial real estate agency, Real estate agent, Real estate consultant",
+    "pincode": "431120",
+    "phone_number": "N/A",
+    "website": "https://rogrefined.com/",
+    "rating": 4.9,
+    "reviews_count": 28,
+    "address": "5950 Winchester Rd NW Unit A, Carroll, OH 43112, United States",
+    "area": "431120",
+    "latitude": 39.8004664,
+    "longitude": -82.70948179999999,
+    "place_id": "ChIJ1ZYwu6J3OIgRr8HN5TAQpws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ZYwu6J3OIgRr8HN5TAQpws",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:44:47"
+  },
+  {
+    "business_name": "Just Properties",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "431120",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "E Square Carnival Xion Mall, Hinjawadi, Maharashtra 411057",
+    "area": "Hinjawadi",
+    "latitude": 18.5922002,
+    "longitude": 73.7450355,
+    "place_id": "ChIJ6xvnTAC7wjsRtiRzqcaaUeM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6xvnTAC7wjsRtiRzqcaaUeM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:44:49"
+  }
+]

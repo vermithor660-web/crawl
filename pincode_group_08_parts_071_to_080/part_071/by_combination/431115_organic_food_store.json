@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aarohi Farm",
+    "search_category": "Organic Food Store",
+    "primary_category": "Agricultural organization",
+    "all_categories": "Agricultural organization, Supplier, Exporter, Organic farm, Spices Exporter, Spices Wholesaler",
+    "pincode": "431115",
+    "phone_number": "+91 90218 11324",
+    "website": "https://aarohifarm.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GUT . 92 NIMGAON, TUNKI Tq. VAIJAPUR DIST, AURANGABAD ( CHA SAMBHAJINAGAR, Maharashtra 431116",
+    "area": "431115",
+    "latitude": 20.1124244,
+    "longitude": 74.80465629999999,
+    "place_id": "ChIJd8CsvWcN3DsR8FOucQfsZuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd8CsvWcN3DsR8FOucQfsZuo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:35:43"
+  },
+  {
+    "business_name": "Maharudra Gifts General Stores",
+    "search_category": "Organic Food Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Ayurvedic clinic, Convenience store, Cosmetics store, Gift shop, Stationery store, Women's clothing store",
+    "pincode": "431115",
+    "phone_number": "N/A",
+    "website": "https://maharudra-gifts-general.grexa.site/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "lasur station,Bombay highway, Lasur, Sambhaji nagar, chauk, Sawangi, Maharashtra 423702",
+    "area": "Lasur, Sambhaji nagar, chauk",
+    "latitude": 19.919682899999998,
+    "longitude": 75.0151747,
+    "place_id": "ChIJcW9xyKWJ2zsRrgnHPlEcB1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcW9xyKWJ2zsRrgnHPlEcB1w",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:35:43"
+  }
+]

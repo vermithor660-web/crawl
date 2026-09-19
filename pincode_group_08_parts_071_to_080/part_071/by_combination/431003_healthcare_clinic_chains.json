@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Phoenix Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431003",
+    "phone_number": "+91 77968 62566",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "front of cidco bus stand, Jalgaon Rd, E/1, Sector, Town Center, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Town Center, Cidco",
+    "latitude": 19.876039499999997,
+    "longitude": 75.3659418,
+    "place_id": "ChIJs9x-Pe2i2zsRt2et4qFruto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs9x-Pe2i2zsRt2et4qFruto",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:40"
+  },
+  {
+    "business_name": "Lenskart.com at Prozone Mall, Chhatrapati Sambhajinagar (First Lens Replacement Free)",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Eye care center, Optometrist, Repair service, Sunglasses store",
+    "pincode": "431003",
+    "phone_number": "+91 74288 91313",
+    "website": "https://www.lenskart.com/stores/optometrist-sunglasses-Chilkalthana-Aurangabad-61036/Home",
+    "rating": 4.9,
+    "reviews_count": 1616,
+    "address": "P 80, Prozone Mall Unit No G 53, MIDC, API Road, near McDonalds, Chilkalthana, Chhatrapati Sambhajinagar, Maharashtra 431210",
+    "area": "MIDC Industrial Area, Chilkalthana",
+    "latitude": 19.8921431,
+    "longitude": 75.36687169999999,
+    "place_id": "ChIJAzSIQu6i2zsRRhOhBO96wUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAzSIQu6i2zsRRhOhBO96wUw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:42"
+  }
+]

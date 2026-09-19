@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khed City",
+    "search_category": "Industrial Estate / GIDC / MIDC / SIPCOT",
+    "primary_category": "Industry",
+    "all_categories": "Industry",
+    "pincode": "425524",
+    "phone_number": "+91 20 6687 1300",
+    "website": "http://www.khedcity.com/",
+    "rating": 4.3,
+    "reviews_count": 136,
+    "address": "Gat No. 342, Nimgaon Village, Nimgaon, Maharashtra 410505",
+    "area": "425524",
+    "latitude": 18.820615,
+    "longitude": 73.959598,
+    "place_id": "ChIJqfM7xRnNwjsRg9o8D4rxrK4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfM7xRnNwjsRg9o8D4rxrK4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:50:58"
+  },
+  {
+    "business_name": "Godavari Institute of Management & Research",
+    "search_category": "Industrial Estate / GIDC / MIDC / SIPCOT",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "425524",
+    "phone_number": "+91 257 227 0731",
+    "website": "http://www.gimrjal.ac.in/",
+    "rating": 4.2,
+    "reviews_count": 25,
+    "address": "P-54, near Bharat Petroleum, Additional MIDC, Jalgaon, Maharashtra 425003",
+    "area": "Additional MIDC",
+    "latitude": 20.9970015,
+    "longitude": 75.5966686,
+    "place_id": "ChIJxbi_ICAP2TsR-GiYr92gF-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxbi_ICAP2TsR-GiYr92gF-Y",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:50:58"
+  }
+]

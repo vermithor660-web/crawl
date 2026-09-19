@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anupam Garments",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431123",
+    "phone_number": "+91 2446 248 653",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Guruwar Peth, Gawli Pura, Ambajogai, Maharashtra 431517",
+    "area": "Guruwar Peth, Gawli Pura",
+    "latitude": 18.7352159,
+    "longitude": 76.386144,
+    "place_id": "ChIJgy_4zopexTsRKAx2wbJgGKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgy_4zopexTsRKAx2wbJgGKI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:49:18"
+  },
+  {
+    "business_name": "Denim Hub Lifestyle",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431123",
+    "phone_number": "+91 99029 34598",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 20,
+    "address": "16, Shikshak Colony Rd, Sneh Nagar, Beed, Maharashtra 431122",
+    "area": "Sneh Nagar",
+    "latitude": 18.9952574,
+    "longitude": 75.7578463,
+    "place_id": "ChIJ0Ra64dgqxTsRlR_jbOQY6IE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Ra64dgqxTsRlR_jbOQY6IE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:49:19"
+  }
+]

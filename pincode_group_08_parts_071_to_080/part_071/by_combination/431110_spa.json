@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Fish Center",
+    "search_category": "Spa",
+    "primary_category": "Fish spa",
+    "all_categories": "Fish spa",
+    "pincode": "431110",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nagar, Sambhaji Nagar highway, Pravarasangam, नेवासा, Maharashtra 414603",
+    "area": "431110",
+    "latitude": 19.6189861,
+    "longitude": 75.0203093,
+    "place_id": "ChIJc62cGi9_2zsRGhPvdd3OkEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc62cGi9_2zsRGhPvdd3OkEA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:27:20"
+  },
+  {
+    "business_name": "Deepak Mhaske",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "431110",
+    "phone_number": "+91 98505 48202",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Matoshree Medical, Dhoregaon, Chhatrapati Sambhajinagar, Maharashtra 431133",
+    "area": "431110",
+    "latitude": 19.7136838,
+    "longitude": 75.1049396,
+    "place_id": "ChIJw_cYQzaD2zsRSHioCV7dmEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw_cYQzaD2zsRSHioCV7dmEQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:27:20"
+  }
+]

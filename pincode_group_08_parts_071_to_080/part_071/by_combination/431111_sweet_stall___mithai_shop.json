@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Super Peda Sweets Store",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Craft store",
+    "all_categories": "Craft store",
+    "pincode": "431111",
+    "phone_number": "+91 86980 53378",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 01, Bazaar Galli Road, Chhatrapati Sambhajinagar, Phulambri, Maharashtra 431111",
+    "area": "431111",
+    "latitude": 20.0887507,
+    "longitude": 75.42069099999999,
+    "place_id": "ChIJ607EQRi_2zsRmY72dTRMmCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ607EQRi_2zsRmY72dTRMmCc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:28:21"
+  },
+  {
+    "business_name": "Sweet Shop",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431111",
+    "phone_number": "+91 87880 73371",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kat Kat Gate Rd, Younus Colony, Kat Kat Gate, Sharif Colony, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Younus Colony, Kat Kat Gate, Sharif Colony, Cidco",
+    "latitude": 19.8923265,
+    "longitude": 75.3463994,
+    "place_id": "ChIJk-TxsPaj2zsRRonL-fIbyPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-TxsPaj2zsRRonL-fIbyPM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:28:23"
+  }
+]

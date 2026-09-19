@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lokhande Agency",
+    "search_category": "Boutiques",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Store",
+    "pincode": "431113",
+    "phone_number": "+91 94213 04058",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 13,
+    "address": "Shop No 1, near Bus Stand, Amthana, Maharashtra 431113",
+    "area": "Amthana",
+    "latitude": 20.416422,
+    "longitude": 75.4707118,
+    "place_id": "ChIJBw3_6g_Z2zsRtMPTY2MxQ9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBw3_6g_Z2zsRtMPTY2MxQ9I",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:32:24"
+  },
+  {
+    "business_name": "POOJA EMPORIUM AND MAHAVIR COLLECTION",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431113",
+    "phone_number": "+91 94214 28855",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No.3, Main Rd, near Porana Bank, Amthana, Mondha, Aurangabad, Amthana, Maharashtra 431113",
+    "area": "Amthana, Mondha",
+    "latitude": 20.4166635,
+    "longitude": 75.47077329999999,
+    "place_id": "ChIJQao8exzZ2zsRCCjPqSv56Z8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQao8exzZ2zsRCCjPqSv56Z8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:32:25"
+  }
+]

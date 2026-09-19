@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "aman travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "431123",
+    "phone_number": "+91 70838 11199",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 10,
+    "address": "P379+GQV, Kaij, Maharashtra 431123",
+    "area": "431123",
+    "latitude": 18.7138599,
+    "longitude": 76.0694302,
+    "place_id": "ChIJo26ZOhg_xTsRbMwq9GN-hYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo26ZOhg_xTsRbMwq9GN-hYs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:49:34"
+  },
+  {
+    "business_name": "Kalamb Bus Stand",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "431123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "H2HF+2WP, Kalamb, Maharashtra 413507",
+    "area": "431123",
+    "latitude": 18.5781785,
+    "longitude": 76.0245151,
+    "place_id": "ChIJSfRjArEVxTsRxjYHbh4iKgY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSfRjArEVxTsRxjYHbh4iKgY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:49:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Basuri Pure Veg Family Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Family restaurant",
+    "pincode": "431107",
+    "phone_number": "+91 97678 14916",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 677,
+    "address": "NH52, Aurangabad - Solapur Hwy, Gahininath Nagar, Wadigodri, Maharashtra 431205",
+    "area": "431107",
+    "latitude": 19.428624799999998,
+    "longitude": 75.71319419999999,
+    "place_id": "ChIJD7JFv3Uf2zsRNY3yBIZtWGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD7JFv3Uf2zsRNY3yBIZtWGo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:22:50"
+  },
+  {
+    "business_name": "SHREE GANESH MASALA DOSA",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "431107",
+    "phone_number": "+91 91305 18125",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Court Rd, near BUS STOP, Court Area, Paithan, Maharashtra 431107",
+    "area": "Court Area",
+    "latitude": 19.4755148,
+    "longitude": 75.3849867,
+    "place_id": "ChIJ6a6yggkT2zsRAAAAMD1FonY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6a6yggkT2zsRAAAAMD1FonY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:22:51"
+  }
+]

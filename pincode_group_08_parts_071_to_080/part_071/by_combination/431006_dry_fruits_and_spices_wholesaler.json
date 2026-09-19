@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Little Nuts Dryfruits Store",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "431006",
+    "phone_number": "+91 91567 11107",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "N 5-N6, Main Rd, Shri Nagar Colony, N 5, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Shri Nagar Colony, N 5, Cidco",
+    "latitude": 19.8859614,
+    "longitude": 75.3603815,
+    "place_id": "ChIJRTl4eUCj2zsRQfZ1l28J8kY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRTl4eUCj2zsRQfZ1l28J8kY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:01:02"
+  },
+  {
+    "business_name": "Maharashtra Spices And Dry Fruits",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Spices Wholesaler",
+    "all_categories": "Spices Wholesaler",
+    "pincode": "431006",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Plot No.04, Swangi By-Pass, near Shendra MIDC, Sanjay Nagar, N 2, Mukundwadi, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "Sanjay Nagar, N 2, Mukundwadi",
+    "latitude": 19.872071899999998,
+    "longitude": 75.3818024,
+    "place_id": "ChIJNeyscy2j2zsRyr6TctrFP7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNeyscy2j2zsRyr6TctrFP7Q",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:01:04"
+  }
+]

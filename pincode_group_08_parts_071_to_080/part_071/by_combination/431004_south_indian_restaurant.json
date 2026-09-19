@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "South spoon",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431004",
+    "phone_number": "+91 70289 99328",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near deepak lawns, faata, Harsul, Naigaon, Sawangi, Maharashtra 431001",
+    "area": "faata, Harsul",
+    "latitude": 19.95232,
+    "longitude": 75.3575985,
+    "place_id": "ChIJFcVHgdG92zsReF0mXjCQmcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFcVHgdG92zsReF0mXjCQmcU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:57:14"
+  },
+  {
+    "business_name": "Amma idli restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "431004",
+    "phone_number": "+91 87885 40972",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Front side of jilhaparshad karayalay, near by Amba - Apsara Cinema Road, near by narali baag, theatre, Aurangpura, Chhatrapati Sambhajinagar, Maharashtra 431136",
+    "area": "theatre, Aurangpura",
+    "latitude": 19.8844969,
+    "longitude": 75.3251593,
+    "place_id": "ChIJP8piWOiZ2zsRVZLHEgvTgp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP8piWOiZ2zsRVZLHEgvTgp0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:57:15"
+  }
+]

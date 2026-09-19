@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parag Agro Agencies",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store, Pest control service, Agricultural Seed Store",
+    "pincode": "431009",
+    "phone_number": "+91 240 234 1402",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Galli No. C/4, Smashan Maruti Rd, Bahadurpura, Sanjay Nagar, Jaffer Gate, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Bahadurpura, Sanjay Nagar, Jaffer Gate",
+    "latitude": 19.8806969,
+    "longitude": 75.336736,
+    "place_id": "ChIJq6qqqp-i2zsR5o2hzJwzbdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqp-i2zsR5o2hzJwzbdE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:08:46"
+  },
+  {
+    "business_name": "Sai Agro Agency",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431009",
+    "phone_number": "+91 87934 91972",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Gandhi Chowk, Main Rd, Chelipura, Mondha, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Chelipura, Mondha",
+    "latitude": 19.8876352,
+    "longitude": 75.3378788,
+    "place_id": "ChIJPQrq_ZmZ2zsR8xm7dMUV6aw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPQrq_ZmZ2zsR8xm7dMUV6aw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:08:48"
+  }
+]

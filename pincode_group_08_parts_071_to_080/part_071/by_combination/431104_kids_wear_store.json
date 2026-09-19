@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sachin Shejul",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "431104",
+    "phone_number": "+91 72182 12048",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Unnamed Road, Kannad - Sillod Rd, Kannada, Maharashtra 431104",
+    "area": "Kannada",
+    "latitude": 20.299692,
+    "longitude": 75.4133086,
+    "place_id": "ChIJP2ZtG4fd2zsRFArPtD7Hxlo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP2ZtG4fd2zsRFArPtD7Hxlo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:19:00"
+  },
+  {
+    "business_name": "Rajveer Salon",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "431104",
+    "phone_number": "+91 77688 63577",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, Fhata, Nachanwel, Maharashtra 431104",
+    "area": "Fhata",
+    "latitude": 20.3107062,
+    "longitude": 75.4250703,
+    "place_id": "ChIJ8wa1r0rd2zsRLycdIvRuujM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8wa1r0rd2zsRLycdIvRuujM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:19:00"
+  }
+]

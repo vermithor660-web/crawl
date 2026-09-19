@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aher Agro Services",
+    "search_category": "Organic Food Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "431102",
+    "phone_number": "+91 82753 24607",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "22JH+64X, Deogaon R, Maharashtra 431115",
+    "area": "431102",
+    "latitude": 20.0306228,
+    "longitude": 75.027857,
+    "place_id": "ChIJG73q5RaL2zsRgA-x6T68044",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG73q5RaL2zsRgA-x6T68044",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:14:55"
+  },
+  {
+    "business_name": "Abhayanand Agro Tourism",
+    "search_category": "Organic Food Store",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Farmstay, Home Stay",
+    "pincode": "431102",
+    "phone_number": "+91 90958 51008",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "behind Tulsi Restaurant, near Ellora Caves, Aurangabad, Verul, Maharashtra 431102",
+    "area": "431102",
+    "latitude": 20.024396499999998,
+    "longitude": 75.1716856,
+    "place_id": "ChIJGV26F4OT2zsRtUnBlA0NxeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGV26F4OT2zsRtUnBlA0NxeY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:14:58"
+  }
+]

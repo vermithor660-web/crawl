@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OM PURE VEG CHINESE CENTRE",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431132",
+    "phone_number": "+91 75173 77923",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "Shop No, 3, Sambhajainagar Road, near Trimurti Supershop, Gajanan Nagar, Dhad, Maharashtra 443106",
+    "area": "Gajanan Nagar",
+    "latitude": 20.391919299999998,
+    "longitude": 75.9987362,
+    "place_id": "ChIJOaGJ1GAj2jsRMOWBvRgYQLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOaGJ1GAj2jsRMOWBvRgYQLk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:05:20"
+  },
+  {
+    "business_name": "Hotel Sai Prasad",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431132",
+    "phone_number": "+91 94037 59023",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Leha, Maharashtra 431112",
+    "area": "431132",
+    "latitude": 20.4145137,
+    "longitude": 75.6876328,
+    "place_id": "ChIJAfu3IwLV2zsRqYLe19nRv54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAfu3IwLV2zsRqYLe19nRv54",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:05:21"
+  }
+]

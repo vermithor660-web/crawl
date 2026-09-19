@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reengineer Clothing Hub",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Custom t-shirt store",
+    "pincode": "431003",
+    "phone_number": "+91 75586 00955",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "TV Centre Rd, behind manaav saloon, K Sector, Mayur Nagar, N 11, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "K Sector, Mayur Nagar, N 11, Cidco",
+    "latitude": 19.9075664,
+    "longitude": 75.3493177,
+    "place_id": "ChIJr7ygqZa92zsROICJvPgWw1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr7ygqZa92zsROICJvPgWw1Y",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:23"
+  },
+  {
+    "business_name": "Vision Garments",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431003",
+    "phone_number": "+91 98237 08370",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "V983+MWP swami samarth kendr, Pundlik Nagar Rd, Vishalnagar, Nyay Nagar, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Vishalnagar, Nyay Nagar",
+    "latitude": 19.866709999999998,
+    "longitude": 75.354719,
+    "place_id": "ChIJ8cQrz4ii2zsRMkJ7nwWbnfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8cQrz4ii2zsRMkJ7nwWbnfY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:24"
+  }
+]

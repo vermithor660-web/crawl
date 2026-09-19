@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Joban Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "431006",
+    "phone_number": "+91 94207 62738",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 6, N2, HPCL Housing Colony, N 2, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "HPCL Housing Colony, N 2, Cidco",
+    "latitude": 19.871689099999998,
+    "longitude": 75.3749563,
+    "place_id": "ChIJFeZSivCi2zsRAAAAMOUjuyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFeZSivCi2zsRAAAAMOUjuyo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:01:27"
+  },
+  {
+    "business_name": "Asra Fashion Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Laundry",
+    "pincode": "431006",
+    "phone_number": "+91 73508 77174",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "Shop No. 1, Near, Mahalaxmi Chowk, Kamgar Chowk, Prabodhankar Thakare Nagar, N 2, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "Kamgar Chowk, Prabodhankar Thakare Nagar, N 2, Cidco",
+    "latitude": 19.868551399999998,
+    "longitude": 75.372145,
+    "place_id": "ChIJjW9KUvGi2zsRmOH37ca8mfU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjW9KUvGi2zsRmOH37ca8mfU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:01:28"
+  }
+]

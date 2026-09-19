@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Diamond Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility, Warehouse",
+    "pincode": "431124",
+    "phone_number": "+91 79770 43339",
+    "website": "http://wa.me/917977727265",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Taloja, Vavanje, Maharashtra 410208",
+    "area": "Taloja",
+    "latitude": 19.0820513,
+    "longitude": 73.1520282,
+    "place_id": "ChIJdwdFA8Tr5zsR9Kcs-Ziz2Wg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdwdFA8Tr5zsR9Kcs-Ziz2Wg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:50:51"
+  },
+  {
+    "business_name": "Sangram Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "431124",
+    "phone_number": "+91 99228 95556",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "Tehsil, Shop No. 5, Service Apartment, Lawthleshwar, Jejuri, Purandar Rd, Pune, Maharashtra 412303",
+    "area": "431124",
+    "latitude": 18.2809191,
+    "longitude": 74.1532197,
+    "place_id": "ChIJDacOx1f8wjsR_1SqxojT8fI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDacOx1f8wjsR_1SqxojT8fI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:50:51"
+  }
+]

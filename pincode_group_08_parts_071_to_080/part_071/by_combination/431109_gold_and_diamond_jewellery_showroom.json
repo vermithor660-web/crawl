@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Santosh Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "431109",
+    "phone_number": "+91 94214 09774",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 48,
+    "address": "SH48, Gangapur, Maharashtra 431109",
+    "area": "431109",
+    "latitude": 19.6963875,
+    "longitude": 75.01037029999999,
+    "place_id": "ChIJQ8FUsSuA2zsRQybqar89lrw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ8FUsSuA2zsRQybqar89lrw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:24:48"
+  },
+  {
+    "business_name": "Mahendra Jewellers Suwarnkar",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "431109",
+    "phone_number": "+91 80871 96062",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "Rajiv Gandhi Chowk, Main road, Gangapur, Maharashtra 431109",
+    "area": "431109",
+    "latitude": 19.6954863,
+    "longitude": 75.00830069999999,
+    "place_id": "ChIJ2QBWhimA2zsRk4EHJZyaLUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2QBWhimA2zsRk4EHJZyaLUU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:24:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Poultry & Chicken Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "431008",
+    "phone_number": "+91 72197 97177",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khuldabad Rd, Phulambri, Maharashtra 431111",
+    "area": "431008",
+    "latitude": 20.0855604,
+    "longitude": 75.4148843,
+    "place_id": "ChIJ91ySnPm_2zsRP8TGocyrTTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91ySnPm_2zsRP8TGocyrTTc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:05:03"
+  },
+  {
+    "business_name": "A1 Agro Farms",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "431008",
+    "phone_number": "+91 95451 16464",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mamnapur, Maharashtra 431101",
+    "area": "431008",
+    "latitude": 20.0304118,
+    "longitude": 75.2499402,
+    "place_id": "ChIJrZtqGwCV2zsRcDsKhu12kKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZtqGwCV2zsRcDsKhu12kKs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:05:05"
+  }
+]

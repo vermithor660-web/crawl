@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aryan Plumbing & Sanitary",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "431123",
+    "phone_number": "+91 85306 22262",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop 05, Takadgaon Rd, Gevrai, Maharashtra 431127",
+    "area": "431123",
+    "latitude": 19.2646391,
+    "longitude": 75.7579465,
+    "place_id": "ChIJUUzZTB3Z2jsRibOHS-qu5D4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUUzZTB3Z2jsRibOHS-qu5D4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:49:39"
+  },
+  {
+    "business_name": "Astral Bathware",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store, Pipe Manufacturer, Pipes Wholesaler, Waterproofing service",
+    "pincode": "431123",
+    "phone_number": "+91 99607 14999",
+    "website": "https://www.astralltd.com/astral-bathware/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Soringkar Complex, Ambika Chowk, Shahunagar, Beed, Maharashtra 431122",
+    "area": "Shahunagar",
+    "latitude": 18.9972802,
+    "longitude": 75.7480175,
+    "place_id": "ChIJVaxzAnMrxTsRXmusSHdIKn4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVaxzAnMrxTsRXmusSHdIKn4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:49:39"
+  }
+]

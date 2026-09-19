@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JAHANGIR MEDICAL STORE'",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "425524",
+    "phone_number": "+91 77678 79171",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "AZIZ CHAUK, Marul, Maharashtra 425524",
+    "area": "425524",
+    "latitude": 21.2190637,
+    "longitude": 75.8146816,
+    "place_id": "ChIJWQ8VvAat2TsRR66piJKsuuk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQ8VvAat2TsRR66piJKsuuk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:49:32"
+  },
+  {
+    "business_name": "Kotkar Medical & Cosmeceuticals",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Drug store",
+    "all_categories": "Drug store",
+    "pincode": "425524",
+    "phone_number": "+91 257 222 3001",
+    "website": "https://drkotkar.com/",
+    "rating": 4.5,
+    "reviews_count": 41,
+    "address": "Arihant Avenue, RR School Rd, near Kothari Managal Karalaya, Jaikisan Wadi, Jalgaon, Maharashtra 425001",
+    "area": "Jaikisan Wadi",
+    "latitude": 21.009633299999997,
+    "longitude": 75.56502929999999,
+    "place_id": "ChIJ_RA7DKUP2TsRhN3nz7tMj74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_RA7DKUP2TsRhN3nz7tMj74",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:49:34"
+  }
+]

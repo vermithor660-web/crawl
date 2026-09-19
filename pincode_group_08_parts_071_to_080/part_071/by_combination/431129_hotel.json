@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Sunrise",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Restaurant",
+    "pincode": "431129",
+    "phone_number": "+91 2442 256 015",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "3Q62+PR6, Jalna - Beed Rd, near Namalgaon, Ghosapuri, Maharashtra 431153",
+    "area": "431129",
+    "latitude": 19.061784799999998,
+    "longitude": 75.7520238,
+    "place_id": "ChIJKXpZIanV2jsRwdt3qgC2m-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKXpZIanV2jsRwdt3qgC2m-c",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:00:47"
+  },
+  {
+    "business_name": "Tarunya Lodging",
+    "search_category": "Hotel",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "431129",
+    "phone_number": "+91 90492 01220",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ashti- partur Road, Tq, opposite of Government Hospital, Ashti, Partur, Maharashtra 431507",
+    "area": "431129",
+    "latitude": 19.3857423,
+    "longitude": 76.2173933,
+    "place_id": "ChIJf31CYwC92jsR4cYJkNgjmkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf31CYwC92jsR4cYJkNgjmkE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:00:47"
+  }
+]

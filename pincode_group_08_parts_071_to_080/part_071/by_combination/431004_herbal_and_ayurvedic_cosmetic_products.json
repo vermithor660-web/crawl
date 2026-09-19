@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HerbaCare",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Herbal medicine store",
+    "all_categories": "Herbal medicine store, Medical supply store",
+    "pincode": "431004",
+    "phone_number": "+91 240 234 9311",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Building \"SIDRAH, New Manzoorpura Rd, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Sarafa Bazaar, Shahgunj",
+    "latitude": 19.8890365,
+    "longitude": 75.3343742,
+    "place_id": "ChIJ5_rGpg6Y2zsR2rAIywjZHuY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5_rGpg6Y2zsR2rAIywjZHuY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:58:05"
+  },
+  {
+    "business_name": "Pure Herbal Ayurveda",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Herbal medicine store",
+    "all_categories": "Herbal medicine store",
+    "pincode": "431004",
+    "phone_number": "+91 77799 99661",
+    "website": "http://pureherbalayurveda.com/",
+    "rating": 4.7,
+    "reviews_count": 38,
+    "address": "First Floor, RZ-84F, Dabri Extension, Dabri Village, Dabri, New Delhi, Delhi, 110045",
+    "area": "Dabri Village, Dabri",
+    "latitude": 28.608696799999997,
+    "longitude": 77.0827279,
+    "place_id": "ChIJkZJ7vmYFDTkRujuQ4mENtdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZJ7vmYFDTkRujuQ4mENtdw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:58:06"
+  }
+]

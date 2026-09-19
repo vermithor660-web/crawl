@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fancy Leather Belts and Bags",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "431107",
+    "phone_number": "+91 98076 45603",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lahurabir Rd Nai Sarak,Near Sanatan Dharam Inter College, near Abdul Khalik & Sons, Bangali Tola, Varanasi, Uttar Pradesh 221010",
+    "area": "Bangali Tola",
+    "latitude": 25.3118941,
+    "longitude": 83.0050736,
+    "place_id": "ChIJr9AVxxwujjkRs6ujO7LKEys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr9AVxxwujjkRs6ujO7LKEys",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:23:00"
+  },
+  {
+    "business_name": "Leather World",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store, Handbags shop, Luggage repair service, Luggage store",
+    "pincode": "431107",
+    "phone_number": "+91 98190 31173",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 27,
+    "address": "Shop No-18-19, Likhite Tower, Nehru Rd, Dombivli East, Kalyan, Maharashtra 421201",
+    "area": "Dombivli, Dombivli East",
+    "latitude": 19.219225299999998,
+    "longitude": 73.0898031,
+    "place_id": "ChIJVW5gv4qV5zsRvgab7nIzmd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVW5gv4qV5zsRvgab7nIzmd0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:23:01"
+  }
+]

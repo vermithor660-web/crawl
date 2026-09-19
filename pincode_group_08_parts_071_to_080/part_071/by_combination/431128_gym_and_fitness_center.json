@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tara Pan Sentar",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "431128",
+    "phone_number": "+91 96653 62386",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Shop No 2, Patroud Main Chowk, Devkheda, Patrud, Maharashtra 431131",
+    "area": "431128",
+    "latitude": 19.091728399999997,
+    "longitude": 76.21567089999999,
+    "place_id": "ChIJtSCJntaz2jsRR_tSumZ4GFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtSCJntaz2jsRR_tSumZ4GFk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:58:32"
+  },
+  {
+    "business_name": "Shubham Mane Fitness Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "431128",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "375V+GP6, Umari Bk., Maharashtra 431128",
+    "area": "431128",
+    "latitude": 19.058776299999998,
+    "longitude": 76.29426839999999,
+    "place_id": "ChIJAyR3xyit2jsRP90R-YFqGrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAyR3xyit2jsRP90R-YFqGrk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:58:32"
+  }
+]

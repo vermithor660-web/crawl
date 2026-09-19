@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Pankaj Bhansali",
+    "search_category": "Dialysis Center",
+    "primary_category": "Pediatric nephrologist",
+    "all_categories": "Pediatric nephrologist, Pediatrician, Urologist",
+    "pincode": "431003",
+    "phone_number": "+91 240 234 5454",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 30,
+    "address": "Besides Hotel Ladli, CSN Star Children's Superspeciality Srvices Sumananjali Nursing Home, Plot no. 2, CIDCO N-3, Cidco Flyover, Chh, Nyay Nagar, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Kamgar Chowk, Mayanagar Colony, Chh, Nyay Nagar",
+    "latitude": 19.8729373,
+    "longitude": 75.3675889,
+    "place_id": "ChIJhedrXUqj2zsRYt1A3QnCm8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhedrXUqj2zsRYt1A3QnCm8E",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:36"
+  },
+  {
+    "business_name": "Shree Kidney clinic",
+    "search_category": "Dialysis Center",
+    "primary_category": "Nephrologist",
+    "all_categories": "Nephrologist",
+    "pincode": "431003",
+    "phone_number": "+91 88306 03739",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "First floor, B 232, Bhagyarutu, Town Centre, N 1, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Town Centre, N 1, Cidco",
+    "latitude": 19.8801788,
+    "longitude": 75.3656838,
+    "place_id": "ChIJ2T_x39Cj2zsRFL5Zbbg491I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2T_x39Cj2zsRFL5Zbbg491I",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:36"
+  }
+]

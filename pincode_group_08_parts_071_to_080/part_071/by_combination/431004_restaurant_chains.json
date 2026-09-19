@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spice Veg Restaurant",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Breakfast restaurant, Chinese restaurant, Fast food restaurant",
+    "pincode": "431004",
+    "phone_number": "+91 93255 24161",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Opp. Zilla Parishad, beside Bata Showroom, Aurangpura, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Aurangpura",
+    "latitude": 19.884892999999998,
+    "longitude": 75.326489,
+    "place_id": "ChIJ4eGGAROY2zsRa-EumUZmIN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4eGGAROY2zsRa-EumUZmIN0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:57:17"
+  },
+  {
+    "business_name": "Naaz Family Restaurant, नाज फैमिली रेस्टोरेंट, ناز فیملی ریسٹورنٹ",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Biryani restaurant, Chinese noodle restaurant, Fast food restaurant, Indian restaurant, Mughlai restaurant, Non Vegetarian Restaurant, North Indian restaurant, Vegetarian restaurant",
+    "pincode": "431004",
+    "phone_number": "+91 97650 06688",
+    "website": "http://zomato.com/",
+    "rating": 3.5,
+    "reviews_count": 189,
+    "address": "Railway Station Masjid, Railway Station Rd, near Railway station, Ayodhya Nagari, Padampura, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "Ayodhya Nagari, Padampura",
+    "latitude": 19.861561599999998,
+    "longitude": 75.3101957,
+    "place_id": "ChIJYzbQEFmY2zsREhsKhxDWf3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYzbQEFmY2zsREhsKhxDWf3s",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:57:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Graduate Chai Bidkin",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "431105",
+    "phone_number": "+91 93099 00608",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Graduate tea lassi, Bidkin, Maharashtra 431105",
+    "area": "431105",
+    "latitude": 19.7011781,
+    "longitude": 75.3004186,
+    "place_id": "ChIJNYNcVuB12zsRhnHfJI1RJg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNYNcVuB12zsRhnHfJI1RJg8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:20:45"
+  },
+  {
+    "business_name": "Rambharose Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Tea store",
+    "pincode": "431105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "near kaman, Police Quarter, Nagar Palika, Paithan, Maharashtra 431107",
+    "area": "Police Quarter, Nagar Palika",
+    "latitude": 19.4748633,
+    "longitude": 75.3877899,
+    "place_id": "ChIJ7fB2qqAT2zsRaiqT3Kwj3Mw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7fB2qqAT2zsRaiqT3Kwj3Mw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:20:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Linxus InfoTech Private Limited",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "431111",
+    "phone_number": "+91 88287 57008",
+    "website": "https://www.linxusinfotech.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G.No.215, Dongargaon (Shev), Post: Sherudi, Phulambri, Maharashtra 431111",
+    "area": "431111",
+    "latitude": 20.143528099999997,
+    "longitude": 75.3857523,
+    "place_id": "ChIJK4AsM67B2zsRyEiwd6onQuE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK4AsM67B2zsRyEiwd6onQuE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:29:48"
+  },
+  {
+    "business_name": "Jean Management & Consulting LLC",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Bookkeeping service",
+    "all_categories": "Bookkeeping service, Service establishment, Tax preparation service",
+    "pincode": "431111",
+    "phone_number": "N/A",
+    "website": "https://j-mcllc.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jean Management & Consulting LLC, 431111, India",
+    "area": "431111",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJhcC7Z6yx1okRuMqzHlHYx2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhcC7Z6yx1okRuMqzHlHYx2Y",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:29:49"
+  }
+]

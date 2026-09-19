@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LALAJI'S FAMILY RESTO & LODGING",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 298,
+    "address": "Dr. Bhapkar Marg, Station Rd, Maharashtra 431005",
+    "area": "Padampani Colony",
+    "latitude": 19.8607349,
+    "longitude": 75.3115516,
+    "place_id": "ChIJS5TW11iY2zsRwqDIkicfSoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS5TW11iY2zsRwqDIkicfSoM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:59:15"
+  },
+  {
+    "business_name": "Hotel Dera Punjab",
+    "search_category": "Family Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant",
+    "pincode": "431005",
+    "phone_number": "+91 93733 56898",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 715,
+    "address": "1 Ratandeep Appartment, Behind Gurudwara, Osmanpura, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "New Usmanpura",
+    "latitude": 19.8686589,
+    "longitude": 75.3271462,
+    "place_id": "ChIJU-hxD2WY2zsRRIXxdLpPIoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU-hxD2WY2zsRRIXxdLpPIoU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:59:15"
+  }
+]

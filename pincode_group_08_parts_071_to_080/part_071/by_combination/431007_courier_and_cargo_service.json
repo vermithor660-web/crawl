@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Anjani Courier Services",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Shipping service",
+    "all_categories": "Shipping service",
+    "pincode": "431007",
+    "phone_number": "+91 89833 22828",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": null,
+    "address": "V85W+P3C, Sutgirni Chowk, Garkheda Area, Garkheda, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Sutgirni Chowk, Garkheda Area, Garkheda",
+    "latitude": 19.859306999999998,
+    "longitude": 75.3451505,
+    "place_id": "ChIJu6ikOH6i2zsRzJ611Ok6bxg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu6ikOH6i2zsRzJ611Ok6bxg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:04:35"
+  },
+  {
+    "business_name": "Delhivery Private limited",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "431007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1.9,
+    "reviews_count": null,
+    "address": "VFCJ+FGV, Shendra MIDC, Kubhephal, Maharashtra 431154",
+    "area": "Shendra MIDC",
+    "latitude": 19.8712452,
+    "longitude": 75.48128129999999,
+    "place_id": "ChIJ4XNwEI2l2zsRULhqjHBLCxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4XNwEI2l2zsRULhqjHBLCxc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:04:37"
+  }
+]

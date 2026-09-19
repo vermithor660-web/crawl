@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Omkar Tea Center",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Wine store",
+    "pincode": "431121",
+    "phone_number": "+91 91467 59598",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": 13,
+    "address": "7, Thergaon, Maharashtra 431121",
+    "area": "431121",
+    "latitude": 19.5563142,
+    "longitude": 75.57259599999999,
+    "place_id": "ChIJa7u9iAkF2zsRmdDrDYAhgZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa7u9iAkF2zsRmdDrDYAhgZA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:45:18"
+  },
+  {
+    "business_name": "THE CHAIWALA",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "431121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QP27+HHR, nearby Raj hotel, Badapur, Maharashtra 431202",
+    "area": "431121",
+    "latitude": 19.7514798,
+    "longitude": 75.7138884,
+    "place_id": "ChIJX356eQAB2zsRYqYWtpWn7OA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX356eQAB2zsRYqYWtpWn7OA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:45:18"
+  }
+]

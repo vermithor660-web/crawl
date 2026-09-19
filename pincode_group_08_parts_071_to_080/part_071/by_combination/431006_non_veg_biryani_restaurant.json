@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Biryani House",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "431006",
+    "phone_number": "+91 82088 28700",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Jalna Rd, opposite Dhoot Hospital Road, Toranagad Nagar, Mhada Colony, N 2, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "Toranagad Nagar, Mhada Colony, N 2, Cidco",
+    "latitude": 19.8711845,
+    "longitude": 75.3874265,
+    "place_id": "ChIJ2brQdQCj2zsR5SCkQn7uzwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2brQdQCj2zsR5SCkQn7uzwo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:01:13"
+  },
+  {
+    "business_name": "RAPS BIRYANIWALA",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "431006",
+    "phone_number": "+91 99757 67720",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 38,
+    "address": "Chatrapati, Cannought Garden, Place, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Cannought Garden, Place, Cidco",
+    "latitude": 19.8777351,
+    "longitude": 75.3646274,
+    "place_id": "ChIJW2meENyj2zsRYeuA3cv8qEw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW2meENyj2zsRYeuA3cv8qEw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:01:13"
+  }
+]

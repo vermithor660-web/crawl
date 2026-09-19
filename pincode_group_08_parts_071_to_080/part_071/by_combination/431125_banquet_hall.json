@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Al Noor Function Hall",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "431125",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RQ4P+R3Q, Neknoor, Maharashtra 431125",
+    "area": "431125",
+    "latitude": 18.8071013,
+    "longitude": 75.7853095,
+    "place_id": "ChIJV-g-KwAnxTsR0rFIrjgu2UM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV-g-KwAnxTsR0rFIrjgu2UM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:53:31"
+  },
+  {
+    "business_name": "Mauli Mangal Karyalay",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall",
+    "pincode": "431125",
+    "phone_number": "+91 95115 55520",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 11,
+    "address": "Near, Hanuman Mandir Rd, Neknoor, Maharashtra 431125",
+    "area": "431125",
+    "latitude": 18.805407,
+    "longitude": 75.7835075,
+    "place_id": "ChIJ17rmCfonxTsRnHN6Vut9QJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ17rmCfonxTsRnHN6Vut9QJA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:53:31"
+  }
+]

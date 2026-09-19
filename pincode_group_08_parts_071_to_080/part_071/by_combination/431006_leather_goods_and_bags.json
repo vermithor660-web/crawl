@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smart Bags",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "431006",
+    "phone_number": "+91 82372 44444",
+    "website": "http://www.smartbags.in/",
+    "rating": 4.9,
+    "reviews_count": 35,
+    "address": "Smart Bags Pvt Ltd, Jalna Rd, behind The Hotel Gentleman, near Seth Nandlal Dhoot Hospital, MIDC Industrial Area, Chilkalthana, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "MIDC Industrial Area, Chilkalthana",
+    "latitude": 19.8724544,
+    "longitude": 75.3873402,
+    "place_id": "ChIJk3jw-_2i2zsR8F6yR4Wz_WI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk3jw-_2i2zsR8F6yR4Wz_WI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:01:22"
+  },
+  {
+    "business_name": "Bag house",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "431006",
+    "phone_number": "+91 77760 35377",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 15,
+    "address": "Sabji mandi, near BANYAN TREE, Gulmandi, Aurangpura, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Gulmandi, Aurangpura",
+    "latitude": 19.8846088,
+    "longitude": 75.3290509,
+    "place_id": "ChIJ5TraNr6Z2zsRe3k9LvSVuXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5TraNr6Z2zsRe3k9LvSVuXk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:01:23"
+  }
+]

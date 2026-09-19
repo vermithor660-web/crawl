@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tejas Dudh Deri",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness center",
+    "all_categories": "Wellness center",
+    "pincode": "431102",
+    "phone_number": "+91 94214 07047",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 3, near Bus Stop, Galleborgaon, Maharashtra 431102",
+    "area": "431102",
+    "latitude": 20.0911951,
+    "longitude": 75.1190202,
+    "place_id": "ChIJn5OTY4vz2zsRoYKwSWJ-ONc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn5OTY4vz2zsRoYKwSWJ-ONc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:15:54"
+  },
+  {
+    "business_name": "ProteinMart Sambhajinagar",
+    "search_category": "Wellness Center",
+    "primary_category": "Sports nutrition store",
+    "all_categories": "Sports nutrition store",
+    "pincode": "431102",
+    "phone_number": "+91 92707 14770",
+    "website": "https://proteinmart.in/",
+    "rating": 4.9,
+    "reviews_count": 126,
+    "address": "Shop Number G - (5-6) The Orion App, Railway Station Rd, opposite IIB classes, Chatrapati, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Chatrapati, Konkanwadi",
+    "latitude": 19.8683634,
+    "longitude": 75.32155519999999,
+    "place_id": "ChIJyQV-NACZ2zsRv8V-fnb3_H4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyQV-NACZ2zsRv8V-fnb3_H4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:15:55"
+  }
+]

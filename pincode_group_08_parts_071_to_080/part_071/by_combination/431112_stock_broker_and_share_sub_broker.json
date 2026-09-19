@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stock market investments",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Service establishment, Insurance broker, Online Share Trading Center, Stock exchange building",
+    "pincode": "431112",
+    "phone_number": "+91 88485 72894",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Stock market investments, 431112, India",
+    "area": "431112",
+    "latitude": 9.0070091,
+    "longitude": 76.6556312,
+    "place_id": "ChIJTaiECBhgNi8Rr0NIW2OObO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTaiECBhgNi8Rr0NIW2OObO4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:31:39"
+  },
+  {
+    "business_name": "Stock Blogger",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Service establishment",
+    "pincode": "431112",
+    "phone_number": "N/A",
+    "website": "http://stockbloggerindia.blogspot.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Stock Blogger, 431112, India",
+    "area": "431112",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJF8HGb6cXrjsRZo4epWUqJ0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8HGb6cXrjsRZo4epWUqJ0s",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:31:39"
+  }
+]

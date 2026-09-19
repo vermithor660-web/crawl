@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ahmad Auto Electrician And Car Ac",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "431003",
+    "phone_number": "0304 2478539",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 101,
+    "address": "M2V7+2PM Irfan Plaza, F-10 Markaz F 10/4 F-10, Islamabad, 44000, Pakistan",
+    "area": "F-10 Markaz F 10/4 F-10",
+    "latitude": 33.692585,
+    "longitude": 73.0142935,
+    "place_id": "ChIJu2zuAUa_3zgRaxNJhDzEOak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu2zuAUa_3zgRaxNJhDzEOak",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:46"
+  },
+  {
+    "business_name": "Bharat Auto",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Air conditioning repair service, Auto electrical service, Auto Accessories Store",
+    "pincode": "431003",
+    "phone_number": "+91 76202 02052",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "E-16,Ground Floor, Bharat Bazar,API Corner, MIDC Industrial Area, Chilkalthana, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "Bharat Bazar,API Corner, MIDC Industrial Area, Chilkalthana",
+    "latitude": 19.87546,
+    "longitude": 75.3709219,
+    "place_id": "ChIJ29mFDu6i2zsR4V6EHWHWEhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29mFDu6i2zsR4V6EHWHWEhE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:49"
+  }
+]

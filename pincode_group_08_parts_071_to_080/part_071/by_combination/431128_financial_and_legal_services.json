@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GS Financial Services,Beed",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution, Financial consultant, Life insurance agency, Tax consultant",
+    "pincode": "431128",
+    "phone_number": "+91 92737 71777",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Opp. ST ANS School, Jalna Rd, above kotak Bank, Beed, Maharashtra 431122",
+    "area": "Mali Galli",
+    "latitude": 19.0043181,
+    "longitude": 75.7553302,
+    "place_id": "ChIJ1yzrTHwrxTsRBPBlnwc6_BI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1yzrTHwrxTsRBPBlnwc6_BI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:59:29"
+  },
+  {
+    "business_name": "Jay Fainance Services",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "431128",
+    "phone_number": "+91 97676 97052",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No, Jalna Rd, opp. Sbi Bank, Vipra Nagar, Beed, Maharashtra 431122",
+    "area": "Vipra Nagar",
+    "latitude": 19.0010022,
+    "longitude": 75.7533219,
+    "place_id": "ChIJNXQNMVwrxTsRLhMaDwL44xw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNXQNMVwrxTsRLhMaDwL44xw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:59:29"
+  }
+]

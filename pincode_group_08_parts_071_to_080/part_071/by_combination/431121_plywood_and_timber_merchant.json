@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tayyaba Timber Mart",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "431121",
+    "phone_number": "+91 98907 88887",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "4-18-26, near mondha naka, beside Reliable Transport, Kailash Nagar, signal, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Kailash Nagar, signal",
+    "latitude": 19.8772156,
+    "longitude": 75.3389799,
+    "place_id": "ChIJM8w9enaY2zsRH6L4E_JusUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8w9enaY2zsRH6L4E_JusUY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:45:56"
+  },
+  {
+    "business_name": "Balaji Wood Stock",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "431121",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "B-37, Waluj, Waladgaon, Maharashtra 431136",
+    "area": "Waluj",
+    "latitude": 19.832760699999998,
+    "longitude": 75.2436919,
+    "place_id": "ChIJqXBIxVyb2zsRYhNUlOjq7Ho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqXBIxVyb2zsRYhNUlOjq7Ho",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:45:58"
+  }
+]

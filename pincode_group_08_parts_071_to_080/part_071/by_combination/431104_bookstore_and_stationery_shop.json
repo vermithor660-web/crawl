@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Triveni Book Shop",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "431104",
+    "phone_number": "+91 99605 37959",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 115,
+    "address": "P-1/2/1, Ramnagar Rd, Vittalnagar, Ram Nagar, N 2, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "Vittalnagar, Ram Nagar, N 2, Cidco",
+    "latitude": 19.8692539,
+    "longitude": 75.38397719999999,
+    "place_id": "ChIJF0O9m_6i2zsRx6Xp2Swr0EQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF0O9m_6i2zsRx6Xp2Swr0EQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:20:01"
+  },
+  {
+    "business_name": "Amit Book Center",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "431104",
+    "phone_number": "+91 98900 01357",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shri Mandir Road, New Usmanpura, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "New Usmanpura",
+    "latitude": 19.865204,
+    "longitude": 75.3254999,
+    "place_id": "ChIJCXD3c2SY2zsRQ1csHzsq-8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCXD3c2SY2zsRQ1csHzsq-8g",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:20:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VIJAYKUMAR SWEET MART",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "431117",
+    "phone_number": "+91 99706 47301",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1 Bus Stand At Shivna, Tq, Sillod, Maharashtra 431132",
+    "area": "431117",
+    "latitude": 20.4781598,
+    "longitude": 75.8035536,
+    "place_id": "ChIJCZ6wAHEr2jsRwpTnT1-pyrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZ6wAHEr2jsRwpTnT1-pyrQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:39:40"
+  },
+  {
+    "business_name": "AKSHAY SWEET MART",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "431117",
+    "phone_number": "+91 91560 57001",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SHOP NO 1 BUS STAND AT SHIVNA, TQ, SILLOD, Maharashtra 431132",
+    "area": "431117",
+    "latitude": 20.4785573,
+    "longitude": 75.8041047,
+    "place_id": "ChIJIx6iuuAr2jsRPWcPqP6ZN6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIx6iuuAr2jsRPWcPqP6ZN6U",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:39:40"
+  }
+]

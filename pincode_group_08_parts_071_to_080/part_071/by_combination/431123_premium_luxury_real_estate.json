@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prime Properties",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "431123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PNS Layout, Subbayianiah Palyam, Kammanahalli, Bengaluru, Karnataka 560084",
+    "area": "PNS Layout, Subbayianiah Palyam, Kammanahalli",
+    "latitude": 13.0152767,
+    "longitude": 77.6394916,
+    "place_id": "ChIJBbPUnCcXrjsRBNc-iGBtfr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBbPUnCcXrjsRBNc-iGBtfr0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:50:25"
+  },
+  {
+    "business_name": "KUMAR PROPERTIES & DEVELOPERS",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "431123",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "Isbavi, Pandharpur, Maharashtra 413304",
+    "area": "Isbavi",
+    "latitude": 17.677102899999998,
+    "longitude": 75.3132105,
+    "place_id": "ChIJIQ5t3CAYxDsRiFha6aCQ_2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIQ5t3CAYxDsRiFha6aCQ_2g",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:50:25"
+  }
+]

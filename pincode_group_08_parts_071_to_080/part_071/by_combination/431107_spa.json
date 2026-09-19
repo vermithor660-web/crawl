@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nathsagar Medical general store",
+    "search_category": "Spa",
+    "primary_category": "Medical spa",
+    "all_categories": "Medical spa, Medical Center",
+    "pincode": "431107",
+    "phone_number": "+91 70288 78485",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Udyan Road, near bus stand, Nagar Palika, Paithan, Maharashtra 431107",
+    "area": "Nagar Palika",
+    "latitude": 19.4755963,
+    "longitude": 75.38459399999999,
+    "place_id": "ChIJMatO5_IT2zsRJ1Iu18BrR90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMatO5_IT2zsRJ1Iu18BrR90",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:23:35"
+  },
+  {
+    "business_name": "Kishor Hair Dresars",
+    "search_category": "Spa",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431107",
+    "phone_number": "+91 76206 53433",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 1, near Arogya Kendra, Rahatgaon, Maharashtra 431107",
+    "area": "431107",
+    "latitude": 19.525533199999998,
+    "longitude": 75.4399938,
+    "place_id": "ChIJidwn4xoR2zsRJKUUESYJizw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJidwn4xoR2zsRJKUUESYJizw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:23:38"
+  }
+]

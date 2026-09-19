@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHINDE HOSPITAL",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431104",
+    "phone_number": "+91 82378 71183",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 6,
+    "address": "3CM7+WF6, Khuldabad Rd, Phulambri, Maharashtra 431111",
+    "area": "431104",
+    "latitude": 20.084785,
+    "longitude": 75.4136336,
+    "place_id": "ChIJGTOP-0K_2zsRlQ8c6feeKMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGTOP-0K_2zsRlQ8c6feeKMk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:19:17"
+  },
+  {
+    "business_name": "Dr. Gauri Kulkarni",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Nephrologist",
+    "all_categories": "Nephrologist",
+    "pincode": "431104",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JJ Plus Hospital Opp District and Session Court, Adalat, Jalna Rd, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "Chintamani Colony",
+    "latitude": 19.87305,
+    "longitude": 75.32006369999999,
+    "place_id": "ChIJjfMfiDiZ2zsREs4AMzywG0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjfMfiDiZ2zsREs4AMzywG0E",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:19:17"
+  }
+]

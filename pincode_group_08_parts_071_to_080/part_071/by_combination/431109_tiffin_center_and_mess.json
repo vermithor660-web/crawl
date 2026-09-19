@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mauli Mess (Homely Food)",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431109",
+    "phone_number": "+91 86240 29679",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 25,
+    "address": "House No. 347, Near Janta Kirana, Eknath Nagar Rd, New Usmanpura, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "Eknathnagar, Surana Nagar, New Usmanpura",
+    "latitude": 19.860187,
+    "longitude": 75.3242188,
+    "place_id": "ChIJO4qUHAiZ2zsRruiGKsCXhTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO4qUHAiZ2zsRruiGKsCXhTc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:24:40"
+  },
+  {
+    "business_name": "Gharguti Tiffin Services",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Nutan Colony, Deogiri Colony, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Nutan Colony, Deogiri Colony",
+    "latitude": 19.876546899999997,
+    "longitude": 75.3255566,
+    "place_id": "ChIJL8_Xke6Z2zsR7243VGUQR5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL8_Xke6Z2zsR7243VGUQR5I",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:24:42"
+  }
+]

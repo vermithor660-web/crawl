@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dipti Beauty Centre",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "425524",
+    "phone_number": "+91 88055 19595",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Saraf bazar, Parola, Maharashtra 425111",
+    "area": "Saraf bazar",
+    "latitude": 20.8822211,
+    "longitude": 75.1253342,
+    "place_id": "ChIJ3yttBAA32TsRFILV6GVjU2w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3yttBAA32TsRFILV6GVjU2w",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:50:18"
+  },
+  {
+    "business_name": "OffiStore",
+    "search_category": "Gifting",
+    "primary_category": "Corporate gift supplier",
+    "all_categories": "Corporate gift supplier, Gift shop",
+    "pincode": "425524",
+    "phone_number": "+91 90099 86226",
+    "website": "https://offistore.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no G2, Sneh Residency, Shri mangal, Scheme No 140, Indore, Madhya Pradesh 452016",
+    "area": "Scheme No 140",
+    "latitude": 22.7132447,
+    "longitude": 75.9130909,
+    "place_id": "ChIJQVHa5jv9YjkRMgj_aWkkfLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQVHa5jv9YjkRMgj_aWkkfLA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:50:19"
+  }
+]

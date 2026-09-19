@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Qazi wood furniture",
+    "search_category": "Interior Designers",
+    "primary_category": "Carpenter",
+    "all_categories": "Carpenter",
+    "pincode": "431125",
+    "phone_number": "N/A",
+    "website": "http://qaziwoodfurniture.blogspot.com/",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "Dhule - Solapur Hwy, Bid Rural, Prakash Ambedkar Nagar, Beed, Maharashtra 431122",
+    "area": "Bid Rural, Prakash Ambedkar Nagar",
+    "latitude": 18.9781652,
+    "longitude": 75.7635233,
+    "place_id": "ChIJp8ORrMkrxTsRvInlaORgZmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp8ORrMkrxTsRvInlaORgZmE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:53:22"
+  },
+  {
+    "business_name": "SS ENGINEERS & INTERIORS",
+    "search_category": "Interior Designers",
+    "primary_category": "Civil engineering company",
+    "all_categories": "Civil engineering company, Architectural designer, Interior designer",
+    "pincode": "431125",
+    "phone_number": "N/A",
+    "website": "https://www.ssengineersinteriors.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Golden Complex, Bashir Ganj, Bir, Beed, Maharashtra 431122",
+    "area": "Bashir Ganj, Bir",
+    "latitude": 18.9884018,
+    "longitude": 75.7554712,
+    "place_id": "ChIJYyMS74ErxTsRvpphVqOmKoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYyMS74ErxTsRvpphVqOmKoU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:53:24"
+  }
+]

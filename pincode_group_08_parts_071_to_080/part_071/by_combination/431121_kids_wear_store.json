@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTE KING",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "431121",
+    "phone_number": "+91 92265 00574",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1 Beed Road, Fata, Rohi Lagad, Maharashtra 431121",
+    "area": "431121",
+    "latitude": 19.6990037,
+    "longitude": 75.6005374,
+    "place_id": "ChIJ055PUMQH2zsRvEH0QDlTw-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ055PUMQH2zsRvEH0QDlTw-8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:45:25"
+  },
+  {
+    "business_name": "Shetkari Mens Wear And Children Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "431121",
+    "phone_number": "+91 87880 94969",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "QP8G+5R, Nanegaon, Opposite Nanegaon Choufuli, near by Dosti Auto Gar, Maharashtra 431202",
+    "area": "431121",
+    "latitude": 19.765206799999998,
+    "longitude": 75.7270257,
+    "place_id": "ChIJ3T5DFIpV2jsR-C43MAFE00g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3T5DFIpV2jsR-C43MAFE00g",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:45:25"
+  }
+]

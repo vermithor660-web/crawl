@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GIRJAI TEA HOUSE",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "431104",
+    "phone_number": "+91 87679 13838",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "At Post Gourpimpri, Pishor bildari Rd, Maharashtra 431104",
+    "area": "431104",
+    "latitude": 20.2667492,
+    "longitude": 75.3615094,
+    "place_id": "ChIJ5cnJS03D2zsRICoGonzIye8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5cnJS03D2zsRICoGonzIye8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:18:55"
+  },
+  {
+    "business_name": "Red Bite Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "431104",
+    "phone_number": "+91 90961 18590",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "TV Centre Rd, opp. Swami Vivekanand Garden, N 12, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "N 12, Cidco",
+    "latitude": 19.901095899999998,
+    "longitude": 75.3495236,
+    "place_id": "ChIJh0GsMwCj2zsRM5T4Fgra5sE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh0GsMwCj2zsRM5T4Fgra5sE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:18:55"
+  }
+]

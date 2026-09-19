@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MMF Business Solutions, LLC",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Bookkeeping service",
+    "all_categories": "Bookkeeping service, Service establishment",
+    "pincode": "431114",
+    "phone_number": "N/A",
+    "website": "https://www.mmfbusinesssolutions.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MMF Business Solutions, LLC, 431114, India",
+    "area": "431114",
+    "latitude": 42.896239099999995,
+    "longitude": -78.864442,
+    "place_id": "ChIJAQNrJj1ciGQRwk4K1QI97Tg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQNrJj1ciGQRwk4K1QI97Tg",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:35:23"
+  },
+  {
+    "business_name": "Detroit Accounting Company",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant, Bookkeeping service, Service establishment, Tax preparation",
+    "pincode": "431114",
+    "phone_number": "N/A",
+    "website": "http://www.detroitaccountingcompany.com/",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "Detroit Accounting Company, 431114, India",
+    "area": "431114",
+    "latitude": 42.6510074,
+    "longitude": -83.258135,
+    "place_id": "ChIJt8qS41xxokERwNoaWpn0_GA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt8qS41xxokERwNoaWpn0_GA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:35:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Gokul",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Non Vegetarian Restaurant",
+    "pincode": "431127",
+    "phone_number": "+91 94200 21775",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 58,
+    "address": "Hotel Gokul, Beed Nagar Road, Amalner Bha, Amalner, Maharashtra 413207",
+    "area": "Amalner Bha",
+    "latitude": 18.9502249,
+    "longitude": 75.31981069999999,
+    "place_id": "ChIJEXPFHGu1xDsRGoU7vP743Ms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEXPFHGu1xDsRGoU7vP743Ms",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:56:21"
+  },
+  {
+    "business_name": "Matoshree Dosa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "431127",
+    "phone_number": "+91 91308 59280",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Matoshree Dosa, Jalna - Jintur Rd, near Gajanan Mangal Karyalay, Mantha, Maharashtra 431504",
+    "area": "431127",
+    "latitude": 19.6485488,
+    "longitude": 76.3689308,
+    "place_id": "ChIJqQKtflmD2jsRnRT-EBCsoSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqQKtflmD2jsRnRT-EBCsoSY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:56:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Auto Sarvice",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "431128",
+    "phone_number": "+91 98501 10718",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Telgaon Bk., Beed, Maharashtra 431131",
+    "area": "431128",
+    "latitude": 18.9895843,
+    "longitude": 76.18096609999999,
+    "place_id": "ChIJqw_g15dNxTsR5EJOWPi6Uug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqw_g15dNxTsR5EJOWPi6Uug",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:58:43"
+  },
+  {
+    "business_name": "Auto Sarvis",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "431128",
+    "phone_number": "+91 77093 57674",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Majlgaov Beed, Beed, Maharashtra 431131",
+    "area": "Phule Nagar, Khandoba Maidan",
+    "latitude": 19.1539589,
+    "longitude": 76.212289,
+    "place_id": "ChIJMQ8ChI6x2jsRbPRvv5ZT_xA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMQ8ChI6x2jsRbPRvv5ZT_xA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:58:43"
+  }
+]

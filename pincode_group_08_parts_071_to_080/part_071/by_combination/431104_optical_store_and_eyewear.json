@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vision optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "431104",
+    "phone_number": "+91 98229 88091",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hedgewar Hospital Rd, near Gajanan Maharaj mandir, near Udgire heart care Hospital, Sandesh Nagar, Chh, Garkheda, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Sandesh Nagar, Chh, Garkheda",
+    "latitude": 19.868995899999998,
+    "longitude": 75.3502152,
+    "place_id": "ChIJT9VawRWj2zsRybzEKT2qTCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT9VawRWj2zsRybzEKT2qTCk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:19:06"
+  },
+  {
+    "business_name": "Bombay Optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "431104",
+    "phone_number": "+91 80557 66664",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "V8PH+9CX, Kumbharwada Rd, Baroodgar Nala, Gulmandi, Aurangpura, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Baroodgar Nala, Gulmandi, Aurangpura",
+    "latitude": 19.8859873,
+    "longitude": 75.3285939,
+    "place_id": "ChIJdbOxZRKY2zsRu5q5BnRv4BE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdbOxZRKY2zsRu5q5BnRv4BE",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:19:06"
+  }
+]

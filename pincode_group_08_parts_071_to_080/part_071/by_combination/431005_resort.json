@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Daulat Lawns",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Festival hall",
+    "pincode": "431005",
+    "phone_number": "+91 95954 33535",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 390,
+    "address": "to, Jalna Rd, Chilkalthana, Chhatrapati Sambhajinagar, Maharashtra 431007",
+    "area": "Chilkalthana",
+    "latitude": 19.8640939,
+    "longitude": 75.4255069,
+    "place_id": "ChIJSZSwDoOj2zsRR1rqraVzaH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSZSwDoOj2zsRR1rqraVzaH8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:00:14"
+  },
+  {
+    "business_name": "Natraj Motels Private Limited",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431005",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CTS NO 1925, DISHA SAGAR, THE SKY COURT, Station Rd, opposite Railway Station, MIDC, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "MIDC",
+    "latitude": 19.861058099999997,
+    "longitude": 75.3121196,
+    "place_id": "ChIJC-XH1F6Y2zsRKcnF2rDN1FA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC-XH1F6Y2zsRKcnF2rDN1FA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:00:14"
+  }
+]

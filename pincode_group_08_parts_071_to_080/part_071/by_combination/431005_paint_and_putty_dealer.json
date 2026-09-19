@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ezee Home Solution",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Cement Supplier",
+    "pincode": "431005",
+    "phone_number": "+91 99709 38606",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Deluxe Bazar Opp Prashant HotelDeolai Chowk, Rahim Nagar, Beed Bypass Rd, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Deolali Chowk, Satara Deolai Parisar",
+    "latitude": 19.849901,
+    "longitude": 75.351913,
+    "place_id": "ChIJUY-Rpnqi2zsRwFi8BehTvLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUY-Rpnqi2zsRwFi8BehTvLU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:59:51"
+  },
+  {
+    "business_name": "Nerolac Dealer - Maroti Paints",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "431005",
+    "phone_number": "+91 92847 71224",
+    "website": "https://www.nerolac.com/store-locator/maharashtra/aurangabad/maroti-paints?utm_source=google_maps&utm_medium=organic",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dnyaneshwar Nagar, Ulkanagari, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Dnyaneshwar Nagar, Ulkanagari",
+    "latitude": 19.8590528,
+    "longitude": 75.3417408,
+    "place_id": "ChIJ3dK_5Lej2zsRRRX16zQqxfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3dK_5Lej2zsRRRX16zQqxfQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:59:51"
+  }
+]

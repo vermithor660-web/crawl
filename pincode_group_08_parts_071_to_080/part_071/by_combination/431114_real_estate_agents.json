@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BHUMI REALTORS",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Real Estate Builders & Construction Company, Industrial real estate agency",
+    "pincode": "431114",
+    "phone_number": "+91 99605 55547",
+    "website": "https://bhumirealtors.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2ND FLORE OF, UPSIDE OF KALPTARU CAR DECOR, CHATUR COMPLEX, Mantha Rd, opposite D MART, Jalna, Maharashtra 431203",
+    "area": "431114",
+    "latitude": 19.8430861,
+    "longitude": 75.92700049999999,
+    "place_id": "ChIJR8h0NE1Z2jsROmaGugXEAWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR8h0NE1Z2jsROmaGugXEAWM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:35:23"
+  },
+  {
+    "business_name": "RAJ PROPERTY DEALER JALNA",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer",
+    "pincode": "431114",
+    "phone_number": "+91 95520 09444",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "KARUNA TOWER, Ambad Rd, opp. MATOSHREE LAWNS, Yeshwant Nagar, Jalna, Maharashtra 431203",
+    "area": "Yeshwant Nagar",
+    "latitude": 19.8149716,
+    "longitude": 75.8733448,
+    "place_id": "ChIJA4cSCNpX2jsRKXj9z24Q0zc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA4cSCNpX2jsRKXj9z24Q0zc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:35:23"
+  }
+]

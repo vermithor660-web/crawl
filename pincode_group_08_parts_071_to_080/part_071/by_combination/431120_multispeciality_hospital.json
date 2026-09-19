@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soham Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Hospital",
+    "pincode": "431120",
+    "phone_number": "+91 90965 75176",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shop No11A, Near, Mohata Devi Mandir Rd, opposite Kamgar Bhawan, Bajaj Nagar, Waluj, Wadgaon Kolhati, Maharashtra 431136",
+    "area": "Bajaj Nagar, Waluj",
+    "latitude": 19.844000299999998,
+    "longitude": 75.2445553,
+    "place_id": "ChIJGaY-idab2zsR06c9yCrHCfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGaY-idab2zsR06c9yCrHCfo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:43:42"
+  },
+  {
+    "business_name": "Ashtavinayak Hospital & Research Centre Multi Superspeciality Unit",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431120",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "24, MIDC Rd, Waluj, Tisgaon, Maharashtra 431136",
+    "area": "Waluj",
+    "latitude": 19.8378023,
+    "longitude": 75.2521287,
+    "place_id": "ChIJ3SFbomOZ2zsRJP8mqK6DHYY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3SFbomOZ2zsRJP8mqK6DHYY",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:43:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pooja Sales",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "431002",
+    "phone_number": "+91 90112 77474",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No C2, Motiwala Complex, Nirala Bazar Rd, behind old Kfc, Jijamata Colony, Gulmandi, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Jijamata Colony, Gulmandi",
+    "latitude": 19.8805724,
+    "longitude": 75.3274117,
+    "place_id": "ChIJlySeOYyZ2zsRCOPZ9XRh74Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlySeOYyZ2zsRCOPZ9XRh74Q",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:00"
+  },
+  {
+    "business_name": "Kalika Multi Services",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Appliance store",
+    "pincode": "431002",
+    "phone_number": "+91 240 235 9011",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "3, Shivaji Colony, Near Kranti Chowk Police Station, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Shantiniketan Colony",
+    "latitude": 19.8759773,
+    "longitude": 75.3241512,
+    "place_id": "ChIJu_USrG6Y2zsRtd9zPiRtuDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu_USrG6Y2zsRtd9zPiRtuDs",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:00"
+  }
+]

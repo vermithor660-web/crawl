@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Neeti's Pet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "431003",
+    "phone_number": "+91 98501 40014",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "C-3, Silver Estate, Shop 3, N1 Rd, next to Sairam saloon, Sambhaji Nagar, N 1, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "Sambhaji Nagar, Town Centre, N 1, Cidco",
+    "latitude": 19.879189,
+    "longitude": 75.367775,
+    "place_id": "ChIJqTcrFACj2zsRfOJYKrcgRPQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqTcrFACj2zsRfOJYKrcgRPQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:38"
+  },
+  {
+    "business_name": "Aga khan agency for habitat india chhatrapati sambhaji nagar",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Non-governmental organization",
+    "all_categories": "Non-governmental organization, Pet adoption service, Pet sitter, Pet store, Pet supply store",
+    "pincode": "431003",
+    "phone_number": "N/A",
+    "website": "https://www.akahindia.org/",
+    "rating": 4.3,
+    "reviews_count": 58,
+    "address": "Silver estate, Town Centre, N 1, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Town Centre, N 1, Cidco",
+    "latitude": 19.8792364,
+    "longitude": 75.366601,
+    "place_id": "ChIJuZdvmuyi2zsRT8DquGn65sI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuZdvmuyi2zsRT8DquGn65sI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:55:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S K Electrical",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "431130",
+    "phone_number": "+91 90210 33508",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Shop No.1 Karnja Road, Azizpura Rd, Beed, Maharashtra 431122",
+    "area": "Bir",
+    "latitude": 18.9874798,
+    "longitude": 75.75863489999999,
+    "place_id": "ChIJs4s90fgrxTsRepBVgA2dLsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4s90fgrxTsRepBVgA2dLsc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:02:18"
+  },
+  {
+    "business_name": "Sai lights Services",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical products wholesaler",
+    "all_categories": "Electrical products wholesaler, Electronics Accessories Wholesaler, Electronics wholesaler",
+    "pincode": "431130",
+    "phone_number": "+91 96045 46339",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "At, Post, Bhalgaon, Chhatrapati Sambhajinagar, Maharashtra 431007",
+    "area": "431130",
+    "latitude": 19.8054088,
+    "longitude": 75.471695,
+    "place_id": "ChIJk3O03Gml2zsRT4qRAHOP-hA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk3O03Gml2zsRT4qRAHOP-hA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:02:18"
+  }
+]

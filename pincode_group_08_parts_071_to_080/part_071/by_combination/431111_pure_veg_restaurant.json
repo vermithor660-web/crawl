@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Sai Pure Vegetarian",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Restaurant",
+    "pincode": "431111",
+    "phone_number": "+91 78753 99776",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Phulambri, Aurangabad SH-8, Sillod - Aurangabad Rd, Chhatrapati Sambhajinagar, Maharashtra 431008",
+    "area": "431111",
+    "latitude": 19.958577,
+    "longitude": 75.3669358,
+    "place_id": "ChIJw2RWrKG92zsRSlIJ5GKLGD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw2RWrKG92zsRSlIJ5GKLGD8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:28:23"
+  },
+  {
+    "business_name": "Hotel Om Sai Samarth 100% Pure veg family restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431111",
+    "phone_number": "+91 95189 62015",
+    "website": "https://www.vbdigitalcard.com/HOTEL-OM-SAI-SAMARTH",
+    "rating": 4.6,
+    "reviews_count": 427,
+    "address": "Lahanewadi fata, ajintha road, Phulambri, Maharashtra 431111",
+    "area": "431111",
+    "latitude": 20.098074699999998,
+    "longitude": 75.43936,
+    "place_id": "ChIJpQDOqSK52zsRsIF7ndaRgJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpQDOqSK52zsRsIF7ndaRgJU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:28:24"
+  }
+]

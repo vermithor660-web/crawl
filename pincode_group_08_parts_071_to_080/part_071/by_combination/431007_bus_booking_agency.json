@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAIRAJ TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Car rental agency",
+    "pincode": "431007",
+    "phone_number": "+91 98907 98615",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Lan No 05, Plot No-87, New Hanuman Nagar, Sector N 4, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "New Hanuman Nagar, Sector N 4, Cidco",
+    "latitude": 19.865215,
+    "longitude": 75.36029049999999,
+    "place_id": "ChIJLy064RGj2zsRsg2NVg3ABAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLy064RGj2zsRsg2NVg3ABAM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:03:45"
+  },
+  {
+    "business_name": "Gaurav Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "431007",
+    "phone_number": "+91 94222 13066",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1, V9C2+WPX Gokuldham, Gajanan Maharaj Mandir Rd, near Cada Office, Nyay Nagar, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Nyay Nagar",
+    "latitude": 19.8722469,
+    "longitude": 75.3518611,
+    "place_id": "ChIJY7xpoxWY2zsRZ4OIHv1x64o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY7xpoxWY2zsRZ4OIHv1x64o",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:03:45"
+  }
+]

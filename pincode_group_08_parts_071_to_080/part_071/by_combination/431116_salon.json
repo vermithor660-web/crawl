@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amol Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair removal service",
+    "all_categories": "Hair removal service",
+    "pincode": "431116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "At. Jarul, Vaijapur, Jarul, Maharashtra 431116",
+    "area": "431116",
+    "latitude": 19.982471099999998,
+    "longitude": 74.7551347,
+    "place_id": "ChIJ_-gdVxVt3DsRnRZyIkvGqbI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_-gdVxVt3DsRnRZyIkvGqbI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:38:35"
+  },
+  {
+    "business_name": "VIP Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431116",
+    "phone_number": "+91 90566 09910",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Kahdala Vaijapur, Vaijapur Rd, Khandala, Maharashtra 431116",
+    "area": "431116",
+    "latitude": 20.0227893,
+    "longitude": 74.8012402,
+    "place_id": "ChIJ-2Mliwxz3DsRdm_TYlQTlrM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-2Mliwxz3DsRdm_TYlQTlrM",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:38:37"
+  }
+]

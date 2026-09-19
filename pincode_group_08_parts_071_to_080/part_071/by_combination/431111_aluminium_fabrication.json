@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishwakarma Enterprises",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop, Aluminium Supplier, Furniture maker",
+    "pincode": "431111",
+    "phone_number": "+91 94216 84188",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Plot No 158 Matoshri Nagar Chowk, Sector N 4, Pundlik Nagar, Area, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Matoshri Nagar Chowk, Pundlik Nagar, Area",
+    "latitude": 19.863059,
+    "longitude": 75.3599699,
+    "place_id": "ChIJLXFhFIqi2zsRXCoRpnGnenQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXFhFIqi2zsRXCoRpnGnenQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:29:52"
+  },
+  {
+    "business_name": "Bhairavnath body builder",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Metal fabricator",
+    "all_categories": "Metal fabricator",
+    "pincode": "431111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4F54+G6G, Phulambri, Maharashtra 431111",
+    "area": "431111",
+    "latitude": 20.1088094,
+    "longitude": 75.45559089999999,
+    "place_id": "ChIJPXy2QQDH2zsRWx0N7a2y_h4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPXy2QQDH2zsRWx0N7a2y_h4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:29:53"
+  }
+]

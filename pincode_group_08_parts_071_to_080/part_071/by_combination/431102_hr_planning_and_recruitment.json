@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Your HR Handled Ltd",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "431102",
+    "phone_number": "07508 384839",
+    "website": "http://www.yourhrhandled.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Your HR Handled Ltd, 431102, India",
+    "area": "431102",
+    "latitude": 47.73855,
+    "longitude": 12.508827499999999,
+    "place_id": "ChIJPU6d0vq0N0AR_j_vDBtZ2MU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPU6d0vq0N0AR_j_vDBtZ2MU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:16:22"
+  },
+  {
+    "business_name": "HR Perspectives & Recruiting",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Service establishment",
+    "pincode": "431102",
+    "phone_number": "N/A",
+    "website": "https://www.hrperspectives.org/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HR Perspectives & Recruiting, 431102, India",
+    "area": "431102",
+    "latitude": 40.3282504,
+    "longitude": -83.12256959999999,
+    "place_id": "ChIJaS0xN6r6dU4R_raMdOjYFSA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaS0xN6r6dU4R_raMdOjYFSA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:16:23"
+  }
+]

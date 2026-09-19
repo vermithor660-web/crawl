@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ravikiran Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "431107",
+    "phone_number": "+91 97632 38282",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Nath High School Complex, kanaya Shala, Kanayashala Road, Raod, Paithan, Maharashtra 431107",
+    "area": "Nagar Palika",
+    "latitude": 19.473744099999998,
+    "longitude": 75.3874131,
+    "place_id": "ChIJmbVIXCQT2zsRa41dFuVXZ-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmbVIXCQT2zsRa41dFuVXZ-M",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:23:27"
+  },
+  {
+    "business_name": "Deepak electronics",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics wholesaler",
+    "all_categories": "Electronics wholesaler",
+    "pincode": "431107",
+    "phone_number": "+91 90966 49699",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dalalwadi Rd, Paithan Gate, Khokadpura, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Paithan Gate, Khokadpura",
+    "latitude": 19.8817874,
+    "longitude": 75.3305965,
+    "place_id": "ChIJD5juA0-Z2zsR0_QbCNkArX0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD5juA0-Z2zsR0_QbCNkArX0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:23:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sachi Classes",
+    "search_category": "Tuition Center",
+    "primary_category": "Coaching Center",
+    "all_categories": "Coaching Center",
+    "pincode": "431120",
+    "phone_number": "+91 74990 74942",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Hare, near Chavhan Hospital, Arun Nagar, Shindad, Pimpalgaon Hareshwar, Maharashtra 424203",
+    "area": "Arun Nagar",
+    "latitude": 20.5792649,
+    "longitude": 75.48122459999999,
+    "place_id": "ChIJvUjPXxFl2TsR3Q6EoDVMvXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvUjPXxFl2TsR3Q6EoDVMvXk",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:44:30"
+  },
+  {
+    "business_name": "VitaSkills Academy",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "431120",
+    "phone_number": "+91 73064 81963",
+    "website": "https://vitaskillsacademy.com/",
+    "rating": 4.9,
+    "reviews_count": 308,
+    "address": "JV9W+V22, Aameen Tower, Pothencode, Keralam 695584",
+    "area": "431120",
+    "latitude": 8.6196875,
+    "longitude": 76.8950625,
+    "place_id": "ChIJud4SqKLABTsRGCgPF4Wo5t8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJud4SqKLABTsRGCgPF4Wo5t8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:44:31"
+  }
+]

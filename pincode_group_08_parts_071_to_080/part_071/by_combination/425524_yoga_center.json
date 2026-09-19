@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divy Yoga Class",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "425524",
+    "phone_number": "N/A",
+    "website": "https://www.facebook.com/divyyogaclass?mibextid=ZbWKwL",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Tulsiyana Residency, Hare Krishna Vihar, Nipania, Indore, Madhya Pradesh 452010",
+    "area": "Hare Krishna Vihar, Nipania",
+    "latitude": 22.7546559,
+    "longitude": 75.9294278,
+    "place_id": "ChIJafcf1McdYzkR6JvGSNFsQMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJafcf1McdYzkR6JvGSNFsQMI",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:49:42"
+  },
+  {
+    "business_name": "Yoga with Garima",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga instructor",
+    "all_categories": "Yoga instructor, Service establishment",
+    "pincode": "425524",
+    "phone_number": "+91 86985 75395",
+    "website": "https://www.yogawithgarima.com/",
+    "rating": 5,
+    "reviews_count": 51,
+    "address": "Yoga with Garima, 425524, India",
+    "area": "425524",
+    "latitude": 18.5291902,
+    "longitude": 73.9170745,
+    "place_id": "ChIJISn5xuDrvzsRfnt746mcd-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJISn5xuDrvzsRfnt746mcd-0",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 06:49:45"
+  }
+]

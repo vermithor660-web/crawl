@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HAMDAN TOURS AND TRAVELS",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "431121",
+    "phone_number": "+91 72497 88653",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 17,
+    "address": "HAMDAN TOURS AND TRAVELS, 431121, India",
+    "area": "431121",
+    "latitude": 18.9460125,
+    "longitude": 76.6755835,
+    "place_id": "ChIJT6ZE8WCp5zsRO0kxuahP1s8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6ZE8WCp5zsRO0kxuahP1s8",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:45:49"
+  },
+  {
+    "business_name": "Babji tour & travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "431121",
+    "phone_number": "+91 77450 16490",
+    "website": "https://www.babjicabs.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Molai nuruddin dargah, Awrngabad, Dongaon, Maharashtra 431121",
+    "area": "431121",
+    "latitude": 19.5098053,
+    "longitude": 75.6731734,
+    "place_id": "ChIJH10DV_cd2zsRHSOIAHnYpFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH10DV_cd2zsRHSOIAHnYpFw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:45:49"
+  }
+]

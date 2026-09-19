@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balloons decor by Kathery",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Service establishment",
+    "pincode": "431132",
+    "phone_number": "N/A",
+    "website": "https://balloonsdecor.wixsite.com/balloonsdecor",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Balloons decor by Kathery, 431132, India",
+    "area": "431132",
+    "latitude": 40.3633958,
+    "longitude": -82.669505,
+    "place_id": "ChIJQ7pYxanJoCUR02vMA9Gu8ng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ7pYxanJoCUR02vMA9Gu8ng",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:06:19"
+  },
+  {
+    "business_name": "Bella Decorations",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Service establishment",
+    "pincode": "431132",
+    "phone_number": "N/A",
+    "website": "http://www.instagram.com/bella_decor01",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bella Decorations, 431132, India",
+    "area": "431132",
+    "latitude": 41.0912645,
+    "longitude": -82.6213004,
+    "place_id": "ChIJ24AuEFrAcEAReT8rx2muSic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ24AuEFrAcEAReT8rx2muSic",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 08:06:19"
+  }
+]

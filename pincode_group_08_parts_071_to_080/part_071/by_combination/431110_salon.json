@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devansh Hair Salon",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "431110",
+    "phone_number": "+91 88058 10025",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.1, Gaon Nagar Highway Road, Chh Sambhaji Nagar, Bhendala, Maharashtra 431110",
+    "area": "Chh Sambhaji Nagar",
+    "latitude": 19.6814675,
+    "longitude": 75.06836659999999,
+    "place_id": "ChIJDWli6u152zsRfgpF5_bykWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDWli6u152zsRfgpF5_bykWw",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:27:19"
+  },
+  {
+    "business_name": "Active Jents Parlour",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431110",
+    "phone_number": "+91 89759 97613",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Active Jents Parlour, Nagar Road, Bhendala, Maharashtra 431110",
+    "area": "431110",
+    "latitude": 19.681182,
+    "longitude": 75.06750749999999,
+    "place_id": "ChIJP8BZlcx52zsRVqO58pGaw54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP8BZlcx52zsRVqO58pGaw54",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:27:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jagruti beauty parlour",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "431115",
+    "phone_number": "+91 98819 25325",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Lasurgaon unani hospital, Vaijapur, Lasur Gaon, Maharashtra 423702",
+    "area": "431115",
+    "latitude": 19.9407665,
+    "longitude": 74.9863112,
+    "place_id": "ChIJh8Djt0uJ2zsRWxtFW61-Cyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh8Djt0uJ2zsRWxtFW61-Cyo",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:36:40"
+  },
+  {
+    "business_name": "Avani beautyparlour",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "431115",
+    "phone_number": "+91 96892 10471",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Shree ram chowk sutar galli khanala Dis- ch, Sambhajinagar, Vaijapur, Maharashtra 431116",
+    "area": "Sambhajinagar",
+    "latitude": 20.0202648,
+    "longitude": 74.7988196,
+    "place_id": "ChIJdcZ9O5dz3DsRRlmSbwWBKlc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdcZ9O5dz3DsRRlmSbwWBKlc",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:36:43"
+  }
+]

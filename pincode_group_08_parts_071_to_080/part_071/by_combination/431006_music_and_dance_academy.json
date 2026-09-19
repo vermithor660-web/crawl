@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Step Up Dance and Fitness",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "431006",
+    "phone_number": "+91 81494 01414",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Deshmukh Nagar, Laxmi Nagar, Garkheda, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Deshmukh Nagar, Laxmi Nagar, Garkheda",
+    "latitude": 19.8558576,
+    "longitude": 75.3496481,
+    "place_id": "ChIJu0suwqSj2zsR4isczeasn8A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu0suwqSj2zsR4isczeasn8A",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:02:23"
+  },
+  {
+    "business_name": "Gurudev Sangeet Vidyalaya",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Music school",
+    "all_categories": "Music school, Music instructor, Music publisher",
+    "pincode": "431006",
+    "phone_number": "+91 75881 68939",
+    "website": "http://gurudevsangeetvidyalaya.blogspot.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Avinash Sweet Home, Vitthal Chowk, Ram Nagar, N 2, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431006",
+    "area": "Vitthal Chowk, Ram Nagar, N 2, Cidco",
+    "latitude": 19.8683551,
+    "longitude": 75.3842545,
+    "place_id": "ChIJwadN__2i2zsRdMB8IsFjaE4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwadN__2i2zsRdMB8IsFjaE4",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:02:24"
+  }
+]

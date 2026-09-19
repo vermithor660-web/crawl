@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRATIK GARAGE",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "431126",
+    "phone_number": "+91 90227 65155",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus stop, Chousaal, Chousala, Maharashtra 431126",
+    "area": "Chousaal",
+    "latitude": 18.7099577,
+    "longitude": 75.6914407,
+    "place_id": "ChIJUwLdtVTfxDsRYQJGt4Cc_ss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUwLdtVTfxDsRYQJGt4Cc_ss",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:54:53"
+  },
+  {
+    "business_name": "Shivkripa auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "431126",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MRHP+F74, Shivaji chok Mandir ghat, Maharashtra 431126",
+    "area": "431126",
+    "latitude": 18.6786478,
+    "longitude": 75.8356996,
+    "place_id": "ChIJZUQ_f0cjxTsRLytW0Z2MJmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZUQ_f0cjxTsRLytW0Z2MJmU",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:54:53"
+  }
+]

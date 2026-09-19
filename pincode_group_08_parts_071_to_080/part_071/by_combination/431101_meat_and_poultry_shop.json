@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Girija Anna Dhaba",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "431101",
+    "phone_number": "+91 91452 53893",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Phulambri, Maharashtra 431111",
+    "area": "431101",
+    "latitude": 20.066952,
+    "longitude": 75.4089845,
+    "place_id": "ChIJoXw-MQC_2zsREbgRpnAxiAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoXw-MQC_2zsREbgRpnAxiAQ",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:13:02"
+  },
+  {
+    "business_name": "JANTA SEVA MUTTON AND CHICKEN SHOP",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "431101",
+    "phone_number": "+91 99703 91757",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "S.T Depo Rd, near Old Bus Stand, Shri Swami Samarth Nagar, Vaijapur, Maharashtra 423701",
+    "area": "Shri Swami Samarth Nagar",
+    "latitude": 19.9229834,
+    "longitude": 74.7283647,
+    "place_id": "ChIJeYKVVy9v3DsRPIeA1_YNQHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeYKVVy9v3DsRPIeA1_YNQHA",
+    "part_id": "part_071",
+    "crawled_at": "2026-09-19 07:13:02"
+  }
+]
