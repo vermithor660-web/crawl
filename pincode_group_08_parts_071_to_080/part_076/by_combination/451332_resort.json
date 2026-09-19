@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swastik Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "451332",
+    "phone_number": "+91 80871 43258",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 71,
+    "address": "GJ SH 6, near OFV Gate, Opposite Sai Mandir, Talvel, Maharashtra 425305",
+    "area": "Opposite Sai Mandir",
+    "latitude": 21.012138099999998,
+    "longitude": 75.9289464,
+    "place_id": "ChIJwX6U0Lu72TsRUJNSX2Xv8k8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwX6U0Lu72TsRUJNSX2Xv8k8",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:33:21"
+  },
+  {
+    "business_name": "Star resort yawal",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "451332",
+    "phone_number": "+91 94235 79414",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 6,
+    "address": "Star resorts, Main Borawal road, Yawal, Maharashtra 425301",
+    "area": "451332",
+    "latitude": 21.1523185,
+    "longitude": 75.6996916,
+    "place_id": "ChIJ1euDd0gB2TsRiVaPua5RPMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1euDd0gB2TsRiVaPua5RPMk",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:33:21"
+  }
+]

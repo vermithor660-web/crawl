@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bajrang Chaat Center",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Deli",
+    "pincode": "451660",
+    "phone_number": "+91 94406 34457",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 762,
+    "address": "CF2G+RXV, Shaheed Yar Jung Rd, Avanti Nagar, Basheer Bagh, Hyderabad, Telangana 500029",
+    "area": "Avanti Nagar, Basheer Bagh",
+    "latitude": 17.4021112,
+    "longitude": 78.4774147,
+    "place_id": "ChIJR0pCsN-ZyzsR8NzkhinS9WM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR0pCsN-ZyzsR8NzkhinS9WM",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:48:02"
+  },
+  {
+    "business_name": "Snack On Track",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "451660",
+    "phone_number": "+91 99661 23625",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "ST Thomas school road, NH Highway, beside service road, Nirmal, Telangana 504106",
+    "area": "451660",
+    "latitude": 19.0866565,
+    "longitude": 78.37419969999999,
+    "place_id": "ChIJm6Pl3wKNzTsRVYtY7yTZXKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm6Pl3wKNzTsRVYtY7yTZXKA",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:48:02"
+  }
+]

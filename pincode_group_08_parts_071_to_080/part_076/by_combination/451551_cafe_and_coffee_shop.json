@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Siddhi Coldrink",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "451551",
+    "phone_number": "+91 96179 50945",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Shop No, 1 Main Road, Barwani, Madhya Pradesh 451551",
+    "area": "451551",
+    "latitude": 22.038665299999998,
+    "longitude": 74.89868919999999,
+    "place_id": "ChIJN0-JjF35YTkR9xCmPokPQ8k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN0-JjF35YTkR9xCmPokPQ8k",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:44:34"
+  },
+  {
+    "business_name": "Saawariya Family Restaurant & Cafe Kukshi",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "451551",
+    "phone_number": "+91 96699 44646",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Nariman point, Kukshi, Madhya Pradesh 454331",
+    "area": "451551",
+    "latitude": 22.200470799999998,
+    "longitude": 74.75796799999999,
+    "place_id": "ChIJPVcVnB_tYTkRIPTgZeWhMY4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPVcVnB_tYTkRIPTgZeWhMY4",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:44:35"
+  }
+]

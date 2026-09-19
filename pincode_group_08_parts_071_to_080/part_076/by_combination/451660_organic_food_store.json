@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Organic Collective - Whole Foods Market",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Farmers' market, Grocery delivery service, Health food store, Organic farm, Organic shop, Produce market, Spices Wholesaler, Supermarket, Vegetable wholesale market",
+    "pincode": "451660",
+    "phone_number": "+91 77089 96699",
+    "website": "https://samarpanam.org/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "6, H.M.Kassim Salai, opp. Sri Aurobindo Street, Viratipatu, Papers, Heritage Town, Puducherry, 605001",
+    "area": "Viratipatu, Papers, Heritage Town",
+    "latitude": 11.9402835,
+    "longitude": 79.8333397,
+    "place_id": "ChIJ0wzcXhZjUzoRxojyLJ34bgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0wzcXhZjUzoRxojyLJ34bgk",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:47:50"
+  },
+  {
+    "business_name": "vvfarms spirulina",
+    "search_category": "Organic Food Store",
+    "primary_category": "Natural goods store",
+    "all_categories": "Natural goods store",
+    "pincode": "451660",
+    "phone_number": "+91 99413 31112",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 72,
+    "address": "Walaja kolatheri, bridge, Ranipet, Tamil Nadu 632501",
+    "area": "451660",
+    "latitude": 12.9904555,
+    "longitude": 79.38534489999999,
+    "place_id": "ChIJixBSZny1UjoRRepCfvpGtx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJixBSZny1UjoRRepCfvpGtx8",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:47:52"
+  }
+]

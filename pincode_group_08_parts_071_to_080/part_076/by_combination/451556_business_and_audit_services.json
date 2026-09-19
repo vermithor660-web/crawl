@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om and Jaswani",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant",
+    "pincode": "451556",
+    "phone_number": "+91 98916 28354",
+    "website": "http://www.omandjaswani.co.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "A5C/50, Block A 5B, Possangipur, Janakpuri, New Delhi, Delhi, 110058",
+    "area": "Block A 5B, Possangipur, Janakpuri",
+    "latitude": 28.622469799999998,
+    "longitude": 77.0852599,
+    "place_id": "ChIJ41GvTQAFDTkRw4bKvFe83o8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ41GvTQAFDTkRw4bKvFe83o8",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:47:31"
+  },
+  {
+    "business_name": "H S Lalwani & Co. Chartered Accountants",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Accountant, Accounting firm, Auditor, Bookkeeping service, Chartered accountant, Tax preparation service",
+    "pincode": "451556",
+    "phone_number": "+91 84880 05030",
+    "website": "https://hslalwani.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "E 921, GANESH GLORY 11 JAGATPUR ROAD, Sarkhej - Gandhinagar Hwy, Ahmedabad, Gujarat 382470",
+    "area": "Gota",
+    "latitude": 23.113486299999998,
+    "longitude": 72.54006729999999,
+    "place_id": "ChIJ9ajeqL2DXjkRYNqsnePvgwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9ajeqL2DXjkRYNqsnePvgwA",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:47:32"
+  }
+]

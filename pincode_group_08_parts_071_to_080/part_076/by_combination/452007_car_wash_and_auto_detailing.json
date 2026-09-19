@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pro car wash & detailing studio",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "452007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "303, Mechanic Nagar Main Rd, Transport Nagar, Indore, Madhya Pradesh 452014",
+    "area": "Transport Nagar",
+    "latitude": 22.694521899999998,
+    "longitude": 75.8619338,
+    "place_id": "ChIJoUx5ZAD9YjkRx_GzYx7QIMs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoUx5ZAD9YjkRx_GzYx7QIMs",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:05:17"
+  },
+  {
+    "business_name": "Autoform Brandstore - AVS Motors",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto Accessories Store",
+    "all_categories": "Auto Accessories Store",
+    "pincode": "452007",
+    "phone_number": "+91 98067 49974",
+    "website": "http://www.autoformindia.com/",
+    "rating": 4.9,
+    "reviews_count": 116,
+    "address": "271, Scheme no.44 , mechanic nagar main road 271, Mechanic nagar, Patel Gali, Transport Nagar, Indore, Madhya Pradesh 452014",
+    "area": "Transport Nagar",
+    "latitude": 22.6945862,
+    "longitude": 75.8625472,
+    "place_id": "ChIJ5wIDG6b9YjkRXCSkvTfhTvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5wIDG6b9YjkRXCSkvTfhTvo",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:05:20"
+  }
+]

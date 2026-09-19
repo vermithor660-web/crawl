@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manglam Realtors",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial real estate agency, Real Estate Builders & Construction Company, Corporate office, Industrial real estate agency, Leasing service, Office space rental agency, Real estate rental agency",
+    "pincode": "451440",
+    "phone_number": "+91 94140 30007",
+    "website": "http://www.manglamrealtors.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Amrapali Plaza, B-23, Block E, Vaishali Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Block E, Vaishali Nagar",
+    "latitude": 26.911423,
+    "longitude": 75.7443669,
+    "place_id": "ChIJo3hzd_O1bTkR2AXhgyvKE3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3hzd_O1bTkR2AXhgyvKE3E",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:37:16"
+  },
+  {
+    "business_name": "Property Solutions Realtors",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent",
+    "pincode": "451440",
+    "phone_number": "N/A",
+    "website": "https://propertysolutionrealtors.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "C1 / 7, Ajmer Rd, near Yadav PP, Jamuna Nagar, Sodala, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302006",
+    "area": "Jamuna Nagar, Sodala",
+    "latitude": 26.901539,
+    "longitude": 75.7714551,
+    "place_id": "ChIJrz8_3Zu1bTkRac-r8m4x-eI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrz8_3Zu1bTkRac-r8m4x-eI",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:37:16"
+  }
+]

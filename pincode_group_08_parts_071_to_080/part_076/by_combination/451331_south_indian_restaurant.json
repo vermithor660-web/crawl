@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Andhra Cafe",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "451331",
+    "phone_number": "+91 92010 31188",
+    "website": "https://andhracafe.co.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "71, J.K Town Rd, Shirdipuram, Kolar Rd, Gehun Kheda, Bhopal, Madhya Pradesh 462042",
+    "area": "Shirdipuram, Kolar Rd",
+    "latitude": 23.1777829,
+    "longitude": 77.4267406,
+    "place_id": "ChIJQWcAe81DfDkRBvqOjQppG1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQWcAe81DfDkRBvqOjQppG1g",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:30:37"
+  },
+  {
+    "business_name": "Annu South Indian Tiffin Center",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Tiffin Service Provider, Breakfast restaurant",
+    "pincode": "451331",
+    "phone_number": "+91 97901 21253",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 93,
+    "address": "C-62, Raisen Rd, Near SBI ATM, Jubli Gate, BHEL, Raisen Rd, Near SBI ATM, Jubli Gate, BHEL, Indrapuri A sector, Sector C, Indrapuri, Bhopal, Madhya Pradesh 462022",
+    "area": "Near SBI ATM, Jubli Gate, BHEL, Indrapuri A sector, Sector C, Indrapuri",
+    "latitude": 23.2523186,
+    "longitude": 77.4596657,
+    "place_id": "ChIJjU_bEwZCfDkRBjnkxhIGzaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjU_bEwZCfDkRBjnkxhIGzaI",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:30:39"
+  }
+]

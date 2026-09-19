@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "POS Billing Software",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "451881",
+    "phone_number": "+91 89432 29346",
+    "website": "https://www.posbillingsoftware.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "The Paradise, 54 B, 4th East Street, Indira Nagar, Kattupakkam, Kattuppakkam, Tamil Nadu 600056",
+    "area": "Indira Nagar, Kattupakkam",
+    "latitude": 13.0356597,
+    "longitude": 80.1261014,
+    "place_id": "ChIJ2YpawtBhUjoR05WN9G4NLUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YpawtBhUjoR05WN9G4NLUI",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:54:26"
+  },
+  {
+    "business_name": "Poorv Infotech Solutions",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Service establishment",
+    "pincode": "451881",
+    "phone_number": "+91 99245 14928",
+    "website": "https://www.indiamart.com/poorv-infosys/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Poorv Infotech Solutions, 451881, India",
+    "area": "451881",
+    "latitude": 22.083611299999998,
+    "longitude": 73.24728739999999,
+    "place_id": "ChIJ9XcY0_7pXzkRkzFeFO37D_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9XcY0_7pXzkRkzFeFO37D_E",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:54:28"
+  }
+]

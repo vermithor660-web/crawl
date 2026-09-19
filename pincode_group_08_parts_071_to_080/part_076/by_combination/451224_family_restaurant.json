@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel prutviraj family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "451224",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6G86+C5G, Maheshwar, Palasya, Madhya Pradesh 451224",
+    "area": "451224",
+    "latitude": 22.2160513,
+    "longitude": 75.51045909999999,
+    "place_id": "ChIJ6xnTCABvYjkR35aPrNjWtME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6xnTCABvYjkR35aPrNjWtME",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:25:29"
+  },
+  {
+    "business_name": "Makwana Brothers Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "451224",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "9GXV+HH2, Dhal, Madhya Pradesh 451224",
+    "area": "451224",
+    "latitude": 22.3988958,
+    "longitude": 75.5439056,
+    "place_id": "ChIJf04mygBdYjkRsqNUTKuIqII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf04mygBdYjkRsqNUTKuIqII",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:25:29"
+  }
+]

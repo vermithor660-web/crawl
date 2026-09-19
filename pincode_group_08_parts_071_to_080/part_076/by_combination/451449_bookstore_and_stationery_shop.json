@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dalal Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Sporting goods store, Stationery store",
+    "pincode": "451449",
+    "phone_number": "+91 93527 29340",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 71,
+    "address": "Dalal Market, Loharu, Akberpur, Haryana 127201",
+    "area": "451449",
+    "latitude": 28.4315489,
+    "longitude": 75.8054064,
+    "place_id": "ChIJqehgwobjEjkRUhAcZ_pluaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqehgwobjEjkRUhAcZ_pluaQ",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:43:53"
+  },
+  {
+    "business_name": "Rishi Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "451449",
+    "phone_number": "+91 98967 03070",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 67,
+    "address": "Main Bazzar, Chang, Haryana 127027",
+    "area": "451449",
+    "latitude": 28.8801287,
+    "longitude": 76.2443625,
+    "place_id": "ChIJATtQjGhlEjkR5o6jesNQSaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJATtQjGhlEjkR5o6jesNQSaM",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:43:53"
+  }
+]

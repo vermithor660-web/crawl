@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "452006",
+    "phone_number": "+91 96855 68617",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PRWR+GW6, Nanda Nagar, Karma Nagar, Indore, Madhya Pradesh 452015",
+    "area": "Nanda Nagar, Karma Nagar",
+    "latitude": 22.7462938,
+    "longitude": 75.8422789,
+    "place_id": "ChIJ3bPKD3gCYzkRAAAAsIpkVAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3bPKD3gCYzkRAAAAsIpkVAs",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:04:25"
+  },
+  {
+    "business_name": "Dineshchandra Vinodrai & Co.",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Electric motor store",
+    "all_categories": "Electric motor store, Bearing supplier, Flour mill, Machinery parts manufacturer, Pipes Wholesaler, Transmission shop, Water Pump Supplier",
+    "pincode": "452006",
+    "phone_number": "+91 91650 12001",
+    "website": "https://vinodraiandsons.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "87/2, Telgali, Siyaganj, Siyaganj, Indore, Madhya Pradesh 452007",
+    "area": "Siyaganj",
+    "latitude": 22.716825399999998,
+    "longitude": 75.8663455,
+    "place_id": "ChIJ____Dw79YjkRh3wOeXmAjc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____Dw79YjkRh3wOeXmAjc8",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:04:26"
+  }
+]

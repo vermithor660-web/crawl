@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Diamond Hair Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "451332",
+    "phone_number": "+91 90982 74419",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Complex No 105, Zirniya, ke Pass Khargone Road, near Satabdi Main Market, Zirnia, Madhya Pradesh 451332",
+    "area": "451332",
+    "latitude": 21.6507434,
+    "longitude": 75.9933915,
+    "place_id": "ChIJX_Q7SzZr2DsRKgm8x1oy3nU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX_Q7SzZr2DsRKgm8x1oy3nU",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:33:08"
+  },
+  {
+    "business_name": "Riya Gents Parlour",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "451332",
+    "phone_number": "+91 99771 29939",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "02, Main Road, Satwada, Madhya Pradesh 451441",
+    "area": "451332",
+    "latitude": 21.7657015,
+    "longitude": 75.8952381,
+    "place_id": "ChIJoX1yAK1l2DsRA0tqLgTL_Vk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoX1yAK1l2DsRA0tqLgTL_Vk",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:33:11"
+  }
+]

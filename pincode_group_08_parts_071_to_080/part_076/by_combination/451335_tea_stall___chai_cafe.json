@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tea café",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "451335",
+    "phone_number": "+91 95930 39417",
+    "website": "https://www.instagram.com/tea_cafe._?igsh=d2p6ZmxibXZhYjIw",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "No- 3.5, near NBU Gate, Leninpur, Siliguri, Bairatisal, West Bengal 734011",
+    "area": "Leninpur",
+    "latitude": 26.713363899999997,
+    "longitude": 88.3603402,
+    "place_id": "ChIJ8SMkaABH5DkRT6h0XqSXFbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8SMkaABH5DkRT6h0XqSXFbw",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:34:10"
+  },
+  {
+    "business_name": "STD CHAI WALE",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "451335",
+    "phone_number": "+91 97898 91684",
+    "website": "https://instagram.com/stdchaiwale?igshid=YmMyMTA2M2Y=",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop no.5, Ratan Lal Brahmin Sarani, Thiknikata, Sushruta Nagar, Siliguri, West Bengal 734012",
+    "area": "451335",
+    "latitude": 26.6892279,
+    "longitude": 88.3820607,
+    "place_id": "ChIJGZrxqdlF5DkRagj19fghEvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZrxqdlF5DkRagj19fghEvI",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:34:11"
+  }
+]

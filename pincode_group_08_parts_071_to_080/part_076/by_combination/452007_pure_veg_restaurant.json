@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Shree Leela",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "452007",
+    "phone_number": "+91 99777 77028",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 985,
+    "address": "3, opp. Sarvate Bus Stand, Murai Mohalla, Chhoti Gwaltoli, Indore, Madhya Pradesh 452001",
+    "area": "Murai Mohalla, Chhoti Gwaltoli",
+    "latitude": 22.7138647,
+    "longitude": 75.8691826,
+    "place_id": "ChIJAQAAQBb9YjkREvvuwrK56Rg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAQBb9YjkREvvuwrK56Rg",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:04:49"
+  },
+  {
+    "business_name": "Shree Ganesh Bhojnalaya",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "452007",
+    "phone_number": "+91 98266 33816",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "81/1, Navlakha Rd, Agrasen Square, Shankar Bag, Indore, Madhya Pradesh 452001",
+    "area": "Agrasen Square, Shankar Bag",
+    "latitude": 22.7039623,
+    "longitude": 75.8731987,
+    "place_id": "ChIJjYkkUR79YjkRcL1JnvrKuRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjYkkUR79YjkRcL1JnvrKuRY",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:04:49"
+  }
+]

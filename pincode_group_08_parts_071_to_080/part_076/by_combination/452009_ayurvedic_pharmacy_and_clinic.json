@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mama Shree Ayurvedic Store",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "452009",
+    "phone_number": "+91 97541 60603",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "102 B Sudama Nagar, Annapurna Rd, Secter, Indore, Madhya Pradesh 452009",
+    "area": "Sector D, Secter",
+    "latitude": 22.6915311,
+    "longitude": 75.83546849999999,
+    "place_id": "ChIJpVl6CcH9YjkRB96MMbYIZLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpVl6CcH9YjkRB96MMbYIZLo",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:07:03"
+  },
+  {
+    "business_name": "Ayurvedic Bhandar",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Alternative medicine practitioner",
+    "all_categories": "Alternative medicine practitioner",
+    "pincode": "452009",
+    "phone_number": "+91 92299 18160",
+    "website": "N/A",
+    "rating": 2.8,
+    "reviews_count": 4,
+    "address": "U-1, Indrasen Complex, MY Hospital Rd, Opposite H.Y Tempo Stand, Ushaganj, Murai Mohalla, Indore, Madhya Pradesh 452001",
+    "area": "Ushaganj, Murai Mohalla",
+    "latitude": 22.7109745,
+    "longitude": 75.88038039999999,
+    "place_id": "ChIJlQkwCCP9YjkRFk4-9aeEhvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlQkwCCP9YjkRFk4-9aeEhvg",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:07:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "451335",
+    "phone_number": "+91 76971 47710",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sarafa Market, Gogawan, Shahpura[Gogaon], Madhya Pradesh 451335",
+    "area": "451335",
+    "latitude": 21.9181858,
+    "longitude": 75.7459839,
+    "place_id": "ChIJTdf-AWt_2DsRFW9z4kj2Lec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTdf-AWt_2DsRFW9z4kj2Lec",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:34:20"
+  },
+  {
+    "business_name": "Silver Gallery",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Antique store",
+    "pincode": "451335",
+    "phone_number": "N/A",
+    "website": "http://www.jewellerybyvishal.blogspot.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sanawad Rd, Khargone, Madhya Pradesh 451001",
+    "area": "451335",
+    "latitude": 21.8292429,
+    "longitude": 75.62411929999999,
+    "place_id": "ChIJ4d8_zNmH2DsR3gfEjJGz-w0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4d8_zNmH2DsR3gfEjJGz-w0",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:34:20"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Babli Fitness Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "451770",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 19,
+    "address": "C662+469, Sambhe, Maharashtra 402304",
+    "area": "451770",
+    "latitude": 18.410287,
+    "longitude": 73.20061919999999,
+    "place_id": "ChIJNf90ZoY96DsRTplgr1nWAzs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNf90ZoY96DsRTplgr1nWAzs",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:51:55"
+  },
+  {
+    "business_name": "Royal fitness and gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "451770",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "X2VP+F2M, Wadwani, Maharashtra 431144",
+    "area": "451770",
+    "latitude": 18.9937069,
+    "longitude": 76.03505229999999,
+    "place_id": "ChIJVeow5Pc1xTsRTWq0O1Kk2IE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVeow5Pc1xTsRTWq0O1Kk2IE",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:51:56"
+  }
+]

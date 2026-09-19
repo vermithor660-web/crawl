@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gopal Krishna - Dairy & Sweets",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service",
+    "pincode": "452005",
+    "phone_number": "+91 97545 20731",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Chikitsak Nagar, Indore, Madhya Pradesh 452010",
+    "area": "Chikitsak Nagar",
+    "latitude": 22.754320399999997,
+    "longitude": 75.905579,
+    "place_id": "ChIJhWoiKlQdYzkRrcbe-P3oWtc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhWoiKlQdYzkRrcbe-P3oWtc",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:00:53"
+  },
+  {
+    "business_name": "Sudama dairy firm",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service",
+    "pincode": "452005",
+    "phone_number": "+91 74151 52534",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "1242, Sector D, Sudama Nagar, Indore, Madhya Pradesh 452009",
+    "area": "Sector D, Sudama Nagar",
+    "latitude": 22.691502699999997,
+    "longitude": 75.8332305,
+    "place_id": "ChIJOY7H22H9YjkRFAFUa9E8pnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOY7H22H9YjkRFAFUa9E8pnc",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:00:53"
+  }
+]

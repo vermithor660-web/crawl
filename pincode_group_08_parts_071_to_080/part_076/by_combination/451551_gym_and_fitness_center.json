@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fitness zone kukshi",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "451551",
+    "phone_number": "+91 91119 30169",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "GURUKRIPA RESTORANT, ALIRAJPUR ROAD, Kukshi, Madhya Pradesh 454331",
+    "area": "451551",
+    "latitude": 22.2047652,
+    "longitude": 74.7481579,
+    "place_id": "ChIJxXKpYGLtYTkRiwsgnzfYWqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxXKpYGLtYTkRiwsgnzfYWqY",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:44:55"
+  },
+  {
+    "business_name": "Arnold Health Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "451551",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5XQC+JG7, manawar road, Singhana, Madhya Pradesh 454446",
+    "area": "451551",
+    "latitude": 22.1890259,
+    "longitude": 74.97122449999999,
+    "place_id": "ChIJEzicAAAdYjkReSMGV6_UaE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEzicAAAdYjkReSMGV6_UaE0",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:44:55"
+  }
+]

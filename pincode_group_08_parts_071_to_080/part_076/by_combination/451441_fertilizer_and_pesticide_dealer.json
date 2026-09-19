@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MyGromor - Mana Gromor Center - Jadcherla",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store, Agricultural Product Wholesaler, Agricultural service, Agrochemicals Supplier, Farm shop, Organic shop, Store",
+    "pincode": "451441",
+    "phone_number": "+91 97016 02062",
+    "website": "https://www.mygromor.com/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Door No 31, 203/2, opp. Raghavendra Theatre, Gowri Shanker Colony, Badepalle, Jadcherla, Telangana 509301",
+    "area": "Gowri Shanker Colony",
+    "latitude": 16.759840099999998,
+    "longitude": 78.1456393,
+    "place_id": "ChIJ_0NJKXgwyjsR95LBxZAyKek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_0NJKXgwyjsR95LBxZAyKek",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:39:05"
+  },
+  {
+    "business_name": "Vinayaka Fertilizers",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Fertilizer Store",
+    "all_categories": "Fertilizer Store",
+    "pincode": "451441",
+    "phone_number": "+91 92906 81775",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Vinayaka Fertilizer, Veenavanka, Telangana 505502",
+    "area": "451441",
+    "latitude": 18.3503288,
+    "longitude": 79.4152173,
+    "place_id": "ChIJpXahxA0tMzoRE6zfJMtmZD4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpXahxA0tMzoRE6zfJMtmZD4",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:39:05"
+  }
+]

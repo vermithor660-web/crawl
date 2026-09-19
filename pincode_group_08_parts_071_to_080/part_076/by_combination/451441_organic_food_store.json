@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tarkari Natural's",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "451441",
+    "phone_number": "N/A",
+    "website": "https://www.facebook.com/tarkarinaturals/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "PP83+3XP, Unnamed Road, Nutan Nag, Vishwa Sakha Nagar, Khargone, Bhatud, Madhya Pradesh 451441",
+    "area": "Nutan Nag, Vishwa Sakha Nagar",
+    "latitude": 21.7152074,
+    "longitude": 75.7049552,
+    "place_id": "ChIJo8cY39CF2DsRC_UKkyxfbds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo8cY39CF2DsRC_UKkyxfbds",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:37:34"
+  },
+  {
+    "business_name": "Aaranya Farms",
+    "search_category": "Organic Food Store",
+    "primary_category": "Farm",
+    "all_categories": "Farm",
+    "pincode": "451441",
+    "phone_number": "N/A",
+    "website": "https://aaranyafarms.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8962+9VJ, Virwade, Maharashtra 425107",
+    "area": "451441",
+    "latitude": 21.3109584,
+    "longitude": 75.35214309999999,
+    "place_id": "ChIJaxuL-QLn2DsRTzI1drgVof8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaxuL-QLn2DsRTzI1drgVof8",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:37:35"
+  }
+]

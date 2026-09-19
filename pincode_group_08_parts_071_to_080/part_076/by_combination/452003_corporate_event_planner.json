@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Event Tribe",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "452003",
+    "phone_number": "+91 98260 25500",
+    "website": "https://www.instagram.com/eventtribe.in?igsh=bGg3Z25vN2s1ODJv",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "133, Vallabh Nagar, Indore, Madhya Pradesh 452003",
+    "area": "Vallabh Nagar",
+    "latitude": 22.727954399999998,
+    "longitude": 75.8697865,
+    "place_id": "ChIJ3aAO5y39YjkROihLumIn-cU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3aAO5y39YjkROihLumIn-cU",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:00:05"
+  },
+  {
+    "business_name": "Credible Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "452003",
+    "phone_number": "+91 98260 12436",
+    "website": "http://www.credibleevents.in/",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "19, Clerk Colony Rd, near Electronica Complex, Clerk Colony, Indore, Madhya Pradesh 452011",
+    "area": "Clerk Colony",
+    "latitude": 22.7513577,
+    "longitude": 75.8697382,
+    "place_id": "ChIJPxKQEo8DYzkRgJ67wa3nJCE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPxKQEo8DYzkRgJ67wa3nJCE",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:00:09"
+  }
+]

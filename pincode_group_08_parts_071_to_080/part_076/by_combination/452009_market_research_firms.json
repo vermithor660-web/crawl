@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alpha Wealth Research",
+    "search_category": "Market Research Firms",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "452009",
+    "phone_number": "+91 70491 10540",
+    "website": "https://www.alphawealthresearch.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "BCM Height, Office no. Mez 1 A 2 to 10, 30 to 35 and 35 A 4, Indore, Madhya Pradesh 452001",
+    "area": "Scheme No 54",
+    "latitude": 22.7538859,
+    "longitude": 75.9003145,
+    "place_id": "ChIJWeZy5RAdYzkRGV8SXznDLvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWeZy5RAdYzkRGV8SXznDLvc",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:08:23"
+  },
+  {
+    "business_name": "DS IP Global",
+    "search_category": "Market Research Firms",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "452009",
+    "phone_number": "+91 83759 62845",
+    "website": "http://www.dsipglobal.com/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "House no 861, near, 60 Feet Rd, Dwarkapuri, Indore, Madhya Pradesh 452009",
+    "area": "Dwarkapuri",
+    "latitude": 22.6909915,
+    "longitude": 75.8232732,
+    "place_id": "ChIJtRMBWEj9YjkRLX3wZlb_n-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtRMBWEj9YjkRLX3wZlb_n-0",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:08:24"
+  }
+]

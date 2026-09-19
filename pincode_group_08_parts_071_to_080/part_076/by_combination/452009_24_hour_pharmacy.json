@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Bhagwati Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Store",
+    "pincode": "452009",
+    "phone_number": "+91 90090 62554",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 8,
+    "address": "Shop number 1, near Choithram Hospital, Manikbagh, Raj Twp, Indore, Madhya Pradesh 452014",
+    "area": "Manikbagh, Raj Township",
+    "latitude": 22.6920745,
+    "longitude": 75.8570266,
+    "place_id": "ChIJ4aAqawD9YjkRopoFjttJ-lY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4aAqawD9YjkRopoFjttJ-lY",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:07:01"
+  },
+  {
+    "business_name": "g & g pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "452009",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus Stand, 120, Dhar Rd, opp. Kastur Cinema, Gangwal, Gurunanak Timber Market, Indore, Madhya Pradesh 452002",
+    "area": "Gurunanak Timber Market",
+    "latitude": 22.711952,
+    "longitude": 75.838128,
+    "place_id": "ChIJuZu9CJP9YjkRIV9-1Be8VF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuZu9CJP9YjkRIV9-1Be8VF4",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:07:04"
+  }
+]

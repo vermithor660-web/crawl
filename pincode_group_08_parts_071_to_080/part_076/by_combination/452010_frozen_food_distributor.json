@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajneesh Trading company",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Pharmaceutical Products Wholesaler",
+    "all_categories": "Pharmaceutical Products Wholesaler, Cosmetics wholesaler, Packaging company, Packaging supply store",
+    "pincode": "452010",
+    "phone_number": "+91 89629 62340",
+    "website": "http://www.rajneeshbottletrading.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sanwer Road Industrial Area, Indore, Madhya Pradesh 452015",
+    "area": "Sanwer Road Industrial Area",
+    "latitude": 22.7717593,
+    "longitude": 75.8416385,
+    "place_id": "ChIJp3qc47UDYzkRBtRSFl9zovA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp3qc47UDYzkRBtRSFl9zovA",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:08:37"
+  },
+  {
+    "business_name": "Fresh Mart",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "452010",
+    "phone_number": "+91 90984 86949",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "RW9G+2JC, Manglaya Sadak, Indore, Madhya Pradesh 453771",
+    "area": "Manglaya Sadak",
+    "latitude": 22.817570399999997,
+    "longitude": 75.9265229,
+    "place_id": "ChIJv2omnOodYzkR9Q-G1skohjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2omnOodYzkR9Q-G1skohjo",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:08:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hairy men's saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hair salon",
+    "pincode": "451224",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "6F9F+293, Dhamnod, Madhya Pradesh 454552",
+    "area": "451224",
+    "latitude": 22.2175223,
+    "longitude": 75.47341209999999,
+    "place_id": "ChIJc_jXFXdvYjkRMTEDHeuWjac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc_jXFXdvYjkRMTEDHeuWjac",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:26:09"
+  },
+  {
+    "business_name": "Gliss Studio",
+    "search_category": "Unisex Salon",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "451224",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2nd floor, maratha complex, Dhamnod, Madhya Pradesh 454552",
+    "area": "451224",
+    "latitude": 22.2126374,
+    "longitude": 75.4731169,
+    "place_id": "ChIJS8ZwIORvYjkRbYnQGQYVFW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS8ZwIORvYjkRbYnQGQYVFW0",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:26:10"
+  }
+]

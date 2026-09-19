@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditya Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "452005",
+    "phone_number": "+91 82250 44664",
+    "website": "https://www.eka.care/doctor/dr-pratap-goud-atikam-internal-medicine-mancherial?utm_source=gmb&utm_medium=website&utm_campaign=032023",
+    "rating": 4.4,
+    "reviews_count": 8,
+    "address": "315, near ranjeet hanuman temple, Dravid Nagar, Usha Nagar, Indore, Madhya Pradesh 452009",
+    "area": "Dravid Nagar, Usha Nagar",
+    "latitude": 22.7009617,
+    "longitude": 75.8374118,
+    "place_id": "ChIJtWW4mrD9YjkRweKa5b3gwd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtWW4mrD9YjkRweKa5b3gwd0",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:01:19"
+  },
+  {
+    "business_name": "Banthia Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Emergency room",
+    "pincode": "452005",
+    "phone_number": "+91 97700 41451",
+    "website": "http://www.banthiahospital.com/",
+    "rating": 4.3,
+    "reviews_count": 232,
+    "address": "10, Airport Rd, Ganga Colony, Tirupati Nagar, Indore, Madhya Pradesh 452005",
+    "area": "Ganga Colony, Tirupati Nagar",
+    "latitude": 22.7232985,
+    "longitude": 75.8295761,
+    "place_id": "ChIJJ3yy8ZX9YjkRE5dt19bwpjE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3yy8ZX9YjkRE5dt19bwpjE",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:01:19"
+  }
+]

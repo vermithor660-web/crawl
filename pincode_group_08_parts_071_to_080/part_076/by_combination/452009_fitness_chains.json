@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reeyaz Health Club",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "452009",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "311, Annapurna Rd, Prabhu Nagar, Indore, Madhya Pradesh 452009",
+    "area": "Prabhu Nagar",
+    "latitude": 22.6789779,
+    "longitude": 75.834606,
+    "place_id": "ChIJNbjdakH8YjkR42Qd75kbIkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNbjdakH8YjkR42Qd75kbIkE",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:07:11"
+  },
+  {
+    "business_name": "V-24 FITNESS CLUB",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "452009",
+    "phone_number": "+91 95894 72114",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "192, Pragati Nagar Rd, near narmada square, Rajendra Nagar, colony, Pragati Nagar, Indore, Madhya Pradesh 452012",
+    "area": "Rajendra Nagar, colony, Pragati Nagar",
+    "latitude": 22.6744749,
+    "longitude": 75.82504449999999,
+    "place_id": "ChIJKV4A1YT9YjkRqEvsqnylV6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKV4A1YT9YjkRqEvsqnylV6Y",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:07:11"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "STYLISH FASHION SHOP",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Service establishment",
+    "pincode": "451770",
+    "phone_number": "+91 90996 87782",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "STYLISH FASHION SHOP, 451770, India",
+    "area": "451770",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJcY2JKvEFYDkRg2ifVpvQv1s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcY2JKvEFYDkRg2ifVpvQv1s",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:51:47"
+  },
+  {
+    "business_name": "Fashion Designer Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "451770",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Nerul East, Sector 3, Nerul, Navi Mumbai, Maharashtra 400706",
+    "area": "Nerul East, Sector 3, Nerul",
+    "latitude": 19.041478299999998,
+    "longitude": 73.0218671,
+    "place_id": "ChIJiUvjttzD5zsRQ5ISBNWtaCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiUvjttzD5zsRQ5ISBNWtaCM",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:51:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Agency",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "451551",
+    "phone_number": "+91 90090 02211",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "kukshi - Jobat Rd, Kukshi, Madhya Pradesh 454331",
+    "area": "451551",
+    "latitude": 22.2049044,
+    "longitude": 74.7491835,
+    "place_id": "ChIJkawfHbntYTkRNYL2SV7Vgls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkawfHbntYTkRNYL2SV7Vgls",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:44:29"
+  },
+  {
+    "business_name": "Gajanan Malviya",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "451551",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2WP3+G8G, Barwani, Madhya Pradesh 451551",
+    "area": "451551",
+    "latitude": 22.0363157,
+    "longitude": 74.903339,
+    "place_id": "ChIJJ8soCwD5YTkR0yRPqEGIsyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8soCwD5YTkR0yRPqEGIsyQ",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:44:30"
+  }
+]

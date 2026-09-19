@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agrawal Hotel",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Fast food restaurant, Punjabi restaurant, Rajasthani Restaurant, Vegan restaurant",
+    "pincode": "451660",
+    "phone_number": "+91 83496 96000",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 164,
+    "address": "Chouraha, Maheshwar, Dhamnod, Madhya Pradesh 454552",
+    "area": "Chouraha",
+    "latitude": 22.2172905,
+    "longitude": 75.4739014,
+    "place_id": "ChIJb02nmOZuYjkR-c4wYz37RyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb02nmOZuYjkR-c4wYz37RyI",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:48:00"
+  },
+  {
+    "business_name": "Food of indians",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "451660",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 27,
+    "address": "NH-44, near Shivalik Resort, Chak Dayala, Jammu and Kashmir 184144",
+    "area": "451660",
+    "latitude": 32.4752483,
+    "longitude": 75.31338509999999,
+    "place_id": "ChIJESGsHLcTHDkRpbpADqbIaFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJESGsHLcTHDkRpbpADqbIaFM",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:48:02"
+  }
+]

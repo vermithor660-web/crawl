@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Durga auto garage",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop, Auto repair shop",
+    "pincode": "452007",
+    "phone_number": "+91 98269 65259",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "23 khandwa Road bhawar kuan indore, Indore, Madhya Pradesh 452001",
+    "area": "Ashok Nagar",
+    "latitude": 22.695387999999998,
+    "longitude": 75.867006,
+    "place_id": "ChIJsbwQ8b_8YjkRBgMe7fLGisQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsbwQ8b_8YjkRBgMe7fLGisQ",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:05:17"
+  },
+  {
+    "business_name": "Harish Auto Garage",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "452007",
+    "phone_number": "+91 99260 02448",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "81 Navlakha main road, agrasan square indore, Indore, Madhya Pradesh 452001",
+    "area": "Shankar Bag",
+    "latitude": 22.704086,
+    "longitude": 75.873102,
+    "place_id": "ChIJHRg1Vx79YjkR0dUcZmIyWNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHRg1Vx79YjkR0dUcZmIyWNg",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:05:20"
+  }
+]

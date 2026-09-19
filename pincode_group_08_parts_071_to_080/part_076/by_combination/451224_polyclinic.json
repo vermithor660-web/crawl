@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Ashapuri Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic",
+    "pincode": "451224",
+    "phone_number": "+91 82694 94343",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Aashapur, Manawar, Madhya Pradesh 451224",
+    "area": "451224",
+    "latitude": 22.282892999999998,
+    "longitude": 75.56018159999999,
+    "place_id": "ChIJV65OSsBnYjkRSVqJvzmScY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV65OSsBnYjkRSVqJvzmScY0",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:25:44"
+  },
+  {
+    "business_name": "Sanwariya polyclinic and medical store",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "451224",
+    "phone_number": "+91 98931 46484",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Dhar Mandu road, Nalchha, Madhya Pradesh 454001",
+    "area": "451224",
+    "latitude": 22.4224388,
+    "longitude": 75.409408,
+    "place_id": "ChIJ9d26DMBBYjkRdw2K0MPM1MA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9d26DMBBYjkRdw2K0MPM1MA",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:25:44"
+  }
+]

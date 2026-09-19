@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj copy bhandar",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "451441",
+    "phone_number": "+91 93347 43708",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Gola Rd, near IMAMBARA, Nawada, Bihar 805110",
+    "area": "451441",
+    "latitude": 24.8855819,
+    "longitude": 85.5448579,
+    "place_id": "ChIJEdJ2YF_-8jkR9kyhkGdpg1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEdJ2YF_-8jkR9kyhkGdpg1g",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:38:46"
+  },
+  {
+    "business_name": "GYAN SAGAR",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "451441",
+    "phone_number": "+91 99269 51979",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gopal Hotel Ke Piche, N152, Nutan Nagar, Vishwa Sakha Nagar, Khargone, Madhya Pradesh 451001",
+    "area": "Nutan Nagar, Vishwa Sakha Nagar",
+    "latitude": 21.8221089,
+    "longitude": 75.619593,
+    "place_id": "ChIJ3wBcrCiF2DsRLZFh_VrWMwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3wBcrCiF2DsRLZFh_VrWMwU",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:38:46"
+  }
+]

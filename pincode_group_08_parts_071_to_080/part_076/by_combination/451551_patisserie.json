@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Antar",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "451551",
+    "phone_number": "+91 91313 63912",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "42A, Sukh Vilas Colony, Barwani, Madhya Pradesh 451551",
+    "area": "Sukh Vilas Colony",
+    "latitude": 22.0350878,
+    "longitude": 74.9025192,
+    "place_id": "ChIJq5uLVtT5YTkRTUbLdCy6qIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq5uLVtT5YTkRTUbLdCy6qIM",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:44:32"
+  },
+  {
+    "business_name": "Dinesh Varma",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "451551",
+    "phone_number": "+91 91315 44089",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "15, Barwani, Madhya Pradesh 451551",
+    "area": "451551",
+    "latitude": 22.034789699999997,
+    "longitude": 74.9010601,
+    "place_id": "ChIJaw0ZLXz5YTkRSulTbfe951M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaw0ZLXz5YTkRSulTbfe951M",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:44:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Equity Gurukul",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Service establishment",
+    "pincode": "451220",
+    "phone_number": "N/A",
+    "website": "https://myequitygurukul.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "My Equity Gurukul, 451220, India",
+    "area": "451220",
+    "latitude": 19.0815074,
+    "longitude": 72.8783527,
+    "place_id": "ChIJy9XX-Y7MzY8RCA7ilr7SFc4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy9XX-Y7MzY8RCA7ilr7SFc4",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:23:13"
+  },
+  {
+    "business_name": "The Investment Point",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Financial planner, Insurance agent",
+    "pincode": "451220",
+    "phone_number": "+91 96025 09579",
+    "website": "https://theinvestmentpoint.in/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "1st Floor, SMB PLAZA, Office No, F-07, Udaipur, Rajasthan 313001",
+    "area": "Old City, Bapu Bazar, Borawadi",
+    "latitude": 24.585378799999997,
+    "longitude": 73.69473289999999,
+    "place_id": "ChIJeRK7rCXlZzkRMA3fZDfT_Dg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeRK7rCXlZzkRMA3fZDfT_Dg",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:23:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandrakant Karma Shop",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "451449",
+    "phone_number": "+91 99930 61382",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Barufak, Men Road, Badsalaya, Madhya Pradesh 451449",
+    "area": "451449",
+    "latitude": 21.9735566,
+    "longitude": 75.2987414,
+    "place_id": "ChIJobZy8tYLYjkRJqHRsHsbInw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJobZy8tYLYjkRJqHRsHsbInw",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:42:48"
+  },
+  {
+    "business_name": "Lokesh Mangal (Tirupati Traders)",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "451449",
+    "phone_number": "+91 99811 24037",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Infront of Maa sharda hospital, Old A.B. Rd, Chachriyapati, Sendhwa, Madhya Pradesh 451666",
+    "area": "Chachriyapati",
+    "latitude": 21.6810023,
+    "longitude": 75.0936049,
+    "place_id": "ChIJwe_ZREyw2DsR87cA7-zOrYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwe_ZREyw2DsR87cA7-zOrYs",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:42:48"
+  }
+]

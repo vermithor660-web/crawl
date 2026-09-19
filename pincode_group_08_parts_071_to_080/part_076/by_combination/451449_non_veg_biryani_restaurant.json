@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Muttonwada Sendhwa",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "451449",
+    "phone_number": "+91 97543 51111",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M3JH+WM5, Sendhwa, Pipaldhar, Madhya Pradesh 451666",
+    "area": "451449",
+    "latitude": 21.681261,
+    "longitude": 75.078294,
+    "place_id": "ChIJb9jeTACx2DsRulz6ULQJwsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb9jeTACx2DsRulz6ULQJwsg",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:42:53"
+  },
+  {
+    "business_name": "Bagul dhaba veg and non veg",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "451449",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sendhawa R.A., Madhya Pradesh 451666",
+    "area": "451449",
+    "latitude": 21.7072675,
+    "longitude": 75.1082347,
+    "place_id": "ChIJ0U4wY5Wx2DsRxPX5cppBBeU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0U4wY5Wx2DsRxPX5cppBBeU",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:42:56"
+  }
+]

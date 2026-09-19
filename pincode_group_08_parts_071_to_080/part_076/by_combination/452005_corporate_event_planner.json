@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surprise Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "452005",
+    "phone_number": "+91 99266 49609",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "73, Airport Rd, near Bada Ganpati, Sitaram Park Colony, Indore, Madhya Pradesh 452005",
+    "area": "Sitaram Park Colony",
+    "latitude": 22.7264965,
+    "longitude": 75.8179158,
+    "place_id": "ChIJmw-SxVv9YjkRxHWoKvdcKA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmw-SxVv9YjkRxHWoKvdcKA0",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:02:02"
+  },
+  {
+    "business_name": "Party Managers",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "452005",
+    "phone_number": "+91 91117 77022",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "08, Airport Rd, Agrasen Nagar, Indore, Madhya Pradesh 452005",
+    "area": "Agrasen Nagar",
+    "latitude": 22.7239759,
+    "longitude": 75.8375672,
+    "place_id": "ChIJp5CLxBL9YjkRZzE9v4yU1eY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp5CLxBL9YjkRZzE9v4yU1eY",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:02:02"
+  }
+]

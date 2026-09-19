@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trackon Couriers Pvt.Limited",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "452006",
+    "phone_number": "N/A",
+    "website": "http://trackoncourier.com/",
+    "rating": 2.6,
+    "reviews_count": 325,
+    "address": "18/1, Snehlataganj, Indore, Madhya Pradesh 452003",
+    "area": "Snehlataganj",
+    "latitude": 22.7261089,
+    "longitude": 75.8670975,
+    "place_id": "ChIJkf___yP9YjkRuU6WzHNZ8zo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkf___yP9YjkRuU6WzHNZ8zo",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:04:15"
+  },
+  {
+    "business_name": "Star India Container Line Pvt. Ltd.",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Freight Forwarding Agency",
+    "all_categories": "Freight Forwarding Agency",
+    "pincode": "452006",
+    "phone_number": "+91 731 424 6665",
+    "website": "https://www.staricl.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Alankar Chamber, 210-214, A-2, AB Rd, Ratlam Kothi, Indore, Madhya Pradesh 452001",
+    "area": "Ratlam Kothi",
+    "latitude": 22.7168043,
+    "longitude": 75.8837214,
+    "place_id": "ChIJt8z_oHb9YjkR0ni1k23UqEg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt8z_oHb9YjkR0ni1k23UqEg",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:04:16"
+  }
+]

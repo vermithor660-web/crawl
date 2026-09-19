@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba Loknath Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "451115",
+    "phone_number": "+91 91650 69240",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Main Road, Katkut, Madhya Pradesh 451115",
+    "area": "451115",
+    "latitude": 22.414366599999997,
+    "longitude": 76.1131889,
+    "place_id": "ChIJcwgIREXBYjkRU17is9Kmgi0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcwgIREXBYjkRU17is9Kmgi0",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:20:34"
+  },
+  {
+    "business_name": "Pooja Cilinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "451115",
+    "phone_number": "+91 90097 38034",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ship No.1, Complex No.2, near Jat Kirana Ke Samne, Katkut, Madhya Pradesh 451115",
+    "area": "451115",
+    "latitude": 22.4173601,
+    "longitude": 76.1139448,
+    "place_id": "ChIJRfm6UjrBYjkRhr81gYUPsak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRfm6UjrBYjkRhr81gYUPsak",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:20:34"
+  }
+]

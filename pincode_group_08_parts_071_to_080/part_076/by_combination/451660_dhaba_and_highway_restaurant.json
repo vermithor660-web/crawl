@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Darbar Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "451660",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "4CJX+X8W, Madhya Pradesh State Highway 3, Khal Khurd, Madhya Pradesh 451660",
+    "area": "451660",
+    "latitude": 22.1324763,
+    "longitude": 75.4483355,
+    "place_id": "ChIJBxpE4bdxYjkR5-E5H3SJuOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBxpE4bdxYjkR5-E5H3SJuOw",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:47:58"
+  },
+  {
+    "business_name": "Rajputana dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "451660",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "4CHW+54G, Khal Khurd, Madhya Pradesh 451660",
+    "area": "451660",
+    "latitude": 22.128738199999997,
+    "longitude": 75.4460952,
+    "place_id": "ChIJCdE3dt1xYjkRGjZQxLaMlGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCdE3dt1xYjkRGjZQxLaMlGc",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:48:00"
+  }
+]

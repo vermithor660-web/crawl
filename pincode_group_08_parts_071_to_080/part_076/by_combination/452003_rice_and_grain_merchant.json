@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pujya Kailadevi Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Wholesale grocer",
+    "all_categories": "Wholesale grocer",
+    "pincode": "452003",
+    "phone_number": "+91 94250 94250",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "9, 9, Padeshipura, Clerk Colony, Indore, Madhya Pradesh 452011",
+    "area": "Padeshipura, Clerk Colony",
+    "latitude": 22.750269,
+    "longitude": 75.869593,
+    "place_id": "ChIJr0oOyZ0CYzkRmqTI3qwccbI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr0oOyZ0CYzkRmqTI3qwccbI",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:58:56"
+  },
+  {
+    "business_name": "JDMK Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Grocery delivery service",
+    "pincode": "452003",
+    "phone_number": "+91 73551 83213",
+    "website": "https://mydukaan.io/jdmk",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "11, MR 10 Rd, Kashipuri Colony, Bhangarh, Indore, Madhya Pradesh 452010",
+    "area": "Kashipuri Colony, Bhangarh",
+    "latitude": 22.7673783,
+    "longitude": 75.8716584,
+    "place_id": "ChIJC_kp3xQDYzkRkuU1ClA1lsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC_kp3xQDYzkRkuU1ClA1lsg",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:58:56"
+  }
+]

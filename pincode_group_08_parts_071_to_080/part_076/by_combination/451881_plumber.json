@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Munna Bhai Plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "451881",
+    "phone_number": "+91 99811 80809",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nayapura Rd, Mochipura, Nayapura, Barnagar, Badnagar Kasba, Madhya Pradesh 456771",
+    "area": "Mochipura, Nayapura",
+    "latitude": 23.044215599999998,
+    "longitude": 75.3787559,
+    "place_id": "ChIJqzV947C_YzkR9xCTuhFYfFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqzV947C_YzkR9xCTuhFYfFs",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:53:56"
+  },
+  {
+    "business_name": "A TO Z BHOPAL SERVICES",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Carpenter, Real Estate Builders & Construction Company, Contractor, Electrician, Painter, Building materials supplier, Waterproofing service",
+    "pincode": "451881",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "road, near patidar square, Phase 2, Salaiya, Bhopal, Madhya Pradesh 462026",
+    "area": "Phase 2, Salaiya",
+    "latitude": 23.163076099999998,
+    "longitude": 77.4440868,
+    "place_id": "ChIJnVBAySpDfDkR2cFq_zykPIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnVBAySpDfDkR2cFq_zykPIg",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:53:58"
+  }
+]

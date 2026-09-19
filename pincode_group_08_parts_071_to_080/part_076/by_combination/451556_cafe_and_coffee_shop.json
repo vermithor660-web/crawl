@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chay Chaska Anjad",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Fast food restaurant",
+    "pincode": "451556",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "Aanand Bhavan Cinema Chouk, Anjad, Madhya Pradesh 451556",
+    "area": "451556",
+    "latitude": 22.040959299999997,
+    "longitude": 75.0511016,
+    "place_id": "ChIJP8tnm7oDYjkRhG1JnM89e6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP8tnm7oDYjkRhG1JnM89e6o",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:46:15"
+  },
+  {
+    "business_name": "Bhagwati Cafe Nisarpur",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Fast food restaurant",
+    "pincode": "451556",
+    "phone_number": "+91 74405 02750",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Nisarpur, Madhya Pradesh 454335",
+    "area": "451556",
+    "latitude": 22.1129972,
+    "longitude": 74.8303681,
+    "place_id": "ChIJiefVWgDxYTkRU_6Ck1mRBzA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiefVWgDxYTkRU_6Ck1mRBzA",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:46:15"
+  }
+]

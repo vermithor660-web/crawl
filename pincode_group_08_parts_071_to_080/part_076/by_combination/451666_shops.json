@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AB road sendhwa",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "451666",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M3MW+977, Agra - Mumbai Rd, nearby Address: mobile care, Sendhwa, Madhya Pradesh 451666",
+    "area": "451666",
+    "latitude": 21.683415099999998,
+    "longitude": 75.0956759,
+    "place_id": "ChIJidPtAwCx2DsRMBLf8IUviOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJidPtAwCx2DsRMBLf8IUviOI",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:51:21"
+  },
+  {
+    "business_name": "Balu",
+    "search_category": "Shops",
+    "primary_category": "Drug store",
+    "all_categories": "Drug store",
+    "pincode": "451666",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "349 gram dugani , tehsil warla, Sendhwa, Madhya Pradesh 451666",
+    "area": "451666",
+    "latitude": 21.5040042,
+    "longitude": 75.1972964,
+    "place_id": "ChIJ6-yycP_H2DsRpXCwNtr7KhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6-yycP_H2DsRpXCwNtr7KhU",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:51:21"
+  }
+]

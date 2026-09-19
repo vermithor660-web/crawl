@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veterinary Doctor Zirvi",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "451556",
+    "phone_number": "+91 99268 80043",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "vill zirvi, post zirvi, Manawar, Madhya Pradesh 454449",
+    "area": "451556",
+    "latitude": 22.176355299999997,
+    "longitude": 75.2146247,
+    "place_id": "ChIJvZNRn40RYjkR1Kh02Y49rgs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvZNRn40RYjkR1Kh02Y49rgs",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:46:36"
+  },
+  {
+    "business_name": "Vet N Pet Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Ambulance service, Cat boarding service, Dog breeder, Dog day care center, Pet boarding service, Pet groomer, Pet store, Animal hospital",
+    "pincode": "451556",
+    "phone_number": "+91 88850 00588",
+    "website": "https://vetnpethospital.com/",
+    "rating": 4.1,
+    "reviews_count": 1057,
+    "address": "Vet N Pet, H.No 8-2-293/82/JIII/376/B/G3, Plot No 376 Matoshree complex, Road Number 82 Phase 3, Film Nagar, Jubilee Hills, Hyderabad, Telangana 500096",
+    "area": "Giani Zail Singh Nagar, Jubilee Hills",
+    "latitude": 17.413789299999998,
+    "longitude": 78.4050117,
+    "place_id": "ChIJT4CqaMiWyzsRovekxgd1MJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT4CqaMiWyzsRovekxgd1MJk",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:46:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Messe Frankfurt India",
+    "search_category": "Tradeshows",
+    "primary_category": "Exhibition and trade center",
+    "all_categories": "Exhibition and trade center",
+    "pincode": "451228",
+    "phone_number": "+91 22 6144 5900",
+    "website": "http://messefrankfurtindia.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Gala Impecca, 5th, Andheri - Kurla Rd, Vijay Nagar Colony, Chakala, Andheri East, Mumbai, Maharashtra 400093",
+    "area": "Vijay Nagar Colony, Chakala, Andheri East",
+    "latitude": 19.1134798,
+    "longitude": 72.86465,
+    "place_id": "ChIJBzFr0nfJ5zsRDuQiEcXItdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBzFr0nfJ5zsRDuQiEcXItdM",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:30:17"
+  },
+  {
+    "business_name": "Danish Construction",
+    "search_category": "Tradeshows",
+    "primary_category": "Trade fair construction company",
+    "all_categories": "Trade fair construction company, Contractor",
+    "pincode": "451228",
+    "phone_number": "N/A",
+    "website": "http://www.danishconstruction.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "WG53+GFQ, Singun Rd, near Government Hospital, Tilakwadi, Bagud, Madhya Pradesh 451001",
+    "area": "Tilakwadi",
+    "latitude": 21.9088364,
+    "longitude": 75.503731,
+    "place_id": "ChIJgX5RzK93YjkRJYnxxY3-E5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgX5RzK93YjkRJYnxxY3-E5s",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:30:19"
+  }
+]

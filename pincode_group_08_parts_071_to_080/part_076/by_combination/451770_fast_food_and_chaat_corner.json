@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tasty Snacks Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Dessert shop",
+    "pincode": "451770",
+    "phone_number": "+91 81693 26990",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Nagar, Palika Road, Manek Nagar, Old Panvel, Panvel, Maharashtra 410206",
+    "area": "Manek Nagar, Old Panvel, Panvel",
+    "latitude": 18.9886008,
+    "longitude": 73.10929759999999,
+    "place_id": "ChIJxTTz5BTo5zsRzkTEchZQWR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxTTz5BTo5zsRzkTEchZQWR8",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:51:35"
+  },
+  {
+    "business_name": "CHAATOAST PANVEL",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Food court",
+    "pincode": "451770",
+    "phone_number": "+91 91678 25159",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop No 4, KUSUM SADAN BUILDING, Maharana Pratap Road, near SAVARKAR, Chauk, Manek Nagar, Old Panvel, Panvel, Maharashtra 410206",
+    "area": "Chauk, Manek Nagar, Old Panvel, Panvel",
+    "latitude": 18.9916525,
+    "longitude": 73.1093629,
+    "place_id": "ChIJxdQQqi3D5zsRI8USyzuw_f0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxdQQqi3D5zsRI8USyzuw_f0",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:51:35"
+  }
+]

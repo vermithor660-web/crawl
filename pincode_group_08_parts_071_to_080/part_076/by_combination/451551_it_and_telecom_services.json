@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "451551",
+    "phone_number": "+91 94243 72515",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WARD NO 6, GRAM BAMNAL, Vijay Kharte 33 KATAR FALYA, Limbi, Madhya Pradesh 451551",
+    "area": "451551",
+    "latitude": 21.958975,
+    "longitude": 74.716183,
+    "place_id": "ChIJJ_2GTCzjYTkRcInd-KwYF3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ_2GTCzjYTkRcInd-KwYF3g",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:45:39"
+  },
+  {
+    "business_name": "vivo & iQOO Authorised Service Center",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop, Cell phone accessory store, Electronics repair shop, Electronics store, Phone repair service",
+    "pincode": "451551",
+    "phone_number": "+91 84352 19458",
+    "website": "https://www.vivo.com/in/support/?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No 10/11, Crystal Plaza Laxmi Talkies Road, Chachal Chauraha, near Laxmi Talkies, Barwani, Madhya Pradesh 451551",
+    "area": "451551",
+    "latitude": 22.028346,
+    "longitude": 74.896103,
+    "place_id": "ChIJ_QZ_ymH5YTkRo0XFwlScFsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_QZ_ymH5YTkRo0XFwlScFsU",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:45:40"
+  }
+]

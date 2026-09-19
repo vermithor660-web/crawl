@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayyappam Idli",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, Breakfast restaurant, Cafe, Catering food and drink supplier, Fast food restaurant, Indian restaurant, Kerala restaurant, Modern Indian restaurant, Tiffin center, Vegetarian restaurant",
+    "pincode": "451220",
+    "phone_number": "+91 99668 85782",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 52,
+    "address": "178/4, and 178/5, Mahatma Gandhi Rd, Gorakund, Khajuri Bazar, Indore, Madhya Pradesh 452002",
+    "area": "Gorakund, Khajuri Bazar",
+    "latitude": 22.7191209,
+    "longitude": 75.8503119,
+    "place_id": "ChIJxZXZIgD9YjkR2DGutqyeVYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZXZIgD9YjkR2DGutqyeVYk",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:22:00"
+  },
+  {
+    "business_name": "FOODIO भक्तिपथ",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "451220",
+    "phone_number": "+91 89590 62742",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 147,
+    "address": "Front of devraj palace, Maheshwar, Madhya Pradesh 451224",
+    "area": "451220",
+    "latitude": 22.179365999999998,
+    "longitude": 75.59163149999999,
+    "place_id": "ChIJ_VokC2KLYjkRCwuAuDH0ulI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_VokC2KLYjkRCwuAuDH0ulI",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:22:01"
+  }
+]

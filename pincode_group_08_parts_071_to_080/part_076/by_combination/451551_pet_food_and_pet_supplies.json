@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My pet mall kukshi",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "451551",
+    "phone_number": "+91 88782 02060",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "सूर्य टॉकीज के सामने complex के ऊपर, Bhawsar Moholla, Kukshi, Madhya Pradesh 454331",
+    "area": "Bhawsar Moholla",
+    "latitude": 22.207996299999998,
+    "longitude": 74.7561171,
+    "place_id": "ChIJg-JHS23tYTkRVzvp9EzrICk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg-JHS23tYTkRVzvp9EzrICk",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:44:29"
+  },
+  {
+    "business_name": "Guna Pet's Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "451551",
+    "phone_number": "+91 84450 98417",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Bhura bhaiya fish aquarium near mahavir narshing home, Over bridge, AB Rd, Guna, Madhya Pradesh 473001",
+    "area": "Soni Colony",
+    "latitude": 24.642127199999997,
+    "longitude": 77.3046043,
+    "place_id": "ChIJFZg_81lbejkRN2FECn61P34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZg_81lbejkRN2FECn61P34",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:44:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baneshwari Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Bus ticket agency, Bus tour agency",
+    "pincode": "452006",
+    "phone_number": "+91 98266 99999",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "Banganga Main Road, Mari Mata Square, Durga Colony, Indore, Madhya Pradesh 452015",
+    "area": "Mari Mata Square, Durga Colony",
+    "latitude": 22.734672699999997,
+    "longitude": 75.8494699,
+    "place_id": "ChIJ80oYOoP9YjkR9oNXhM3_Gok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ80oYOoP9YjkR9oNXhM3_Gok",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:03:26"
+  },
+  {
+    "business_name": "Shri Somnath Tour & Travels, Indore",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "452006",
+    "phone_number": "+91 98266 46686",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 62,
+    "address": "Indore, Madhya Pradesh 452006",
+    "area": "452006",
+    "latitude": 22.7485557,
+    "longitude": 75.81271989999999,
+    "place_id": "ChIJexoNh6b9YjkRMHuskbKOQjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJexoNh6b9YjkRMHuskbKOQjY",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:03:28"
+  }
+]

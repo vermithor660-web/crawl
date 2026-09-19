@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ambica Bhojnalay",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "451551",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 24,
+    "address": "2VMX+468, Ranjit Chowk, Barwani, Madhya Pradesh 451551",
+    "area": "Ranjit Chowk",
+    "latitude": 22.0327993,
+    "longitude": 74.8980701,
+    "place_id": "ChIJk8hOKBX5YTkRiDqthz-6zII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk8hOKBX5YTkRiDqthz-6zII",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:44:32"
+  },
+  {
+    "business_name": "Golden Restaurant Veg and Nonveg",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant",
+    "pincode": "451551",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Alirajpur Road, Silkuwa, Madhya Pradesh 454331",
+    "area": "451551",
+    "latitude": 22.2045809,
+    "longitude": 74.73828879999999,
+    "place_id": "ChIJx8FVOLTtYTkRfgAanME9_48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx8FVOLTtYTkRfgAanME9_48",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:44:35"
+  }
+]

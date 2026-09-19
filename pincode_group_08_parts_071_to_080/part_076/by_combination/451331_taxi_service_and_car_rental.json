@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "cab elite bhikangaon",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Car rental agency, Chauffeur service",
+    "pincode": "451331",
+    "phone_number": "+91 95894 84230",
+    "website": "https://cabelite.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jhirniya road, behind mohan hospital, Bhikangaon, Madhya Pradesh 451331",
+    "area": "451331",
+    "latitude": 21.8607561,
+    "longitude": 75.9639536,
+    "place_id": "ChIJ2Saj8KNx2DsRp0qyPVgqMto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Saj8KNx2DsRp0qyPVgqMto",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:31:06"
+  },
+  {
+    "business_name": "Nainital Cabs - Nainital Taxi Booking",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Service establishment",
+    "pincode": "451331",
+    "phone_number": "+91 96905 21609",
+    "website": "https://www.nainitalcabs.com/",
+    "rating": 4.9,
+    "reviews_count": 271,
+    "address": "Nainital Cabs - Nainital Taxi Booking, 451331, India",
+    "area": "451331",
+    "latitude": 24.6616966,
+    "longitude": 8.4393672,
+    "place_id": "ChIJzzWTgQjV84YRtXgJqmw9V-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzzWTgQjV84YRtXgJqmw9V-U",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:31:06"
+  }
+]

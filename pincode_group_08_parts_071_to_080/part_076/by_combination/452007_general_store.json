@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "452007",
+    "phone_number": "+91 99260 93443",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "88, Peergali, Rajewada, Rajwada, Indore, Madhya Pradesh 452007",
+    "area": "Rajewada, Rajwada",
+    "latitude": 22.720833799999998,
+    "longitude": 75.8555068,
+    "place_id": "ChIJd0GVUe79YjkRB_vaM15ma0Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd0GVUe79YjkRB_vaM15ma0Y",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:04:45"
+  },
+  {
+    "business_name": "Anand Sneh Genaral Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "452007",
+    "phone_number": "+91 97700 67770",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "123, Raoji Bazar, Juni Indore, Indore, Madhya Pradesh 452007",
+    "area": "Raoji Bazar, Juni Indore",
+    "latitude": 22.7101513,
+    "longitude": 75.86230379999999,
+    "place_id": "ChIJk4hoCAX9YjkRpqjGShWQacM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk4hoCAX9YjkRpqjGShWQacM",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:04:45"
+  }
+]

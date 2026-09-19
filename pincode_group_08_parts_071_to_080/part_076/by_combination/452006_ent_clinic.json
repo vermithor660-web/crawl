@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Dilliwals ENT & Dental Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "452006",
+    "phone_number": "+91 96177 62588",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 8,
+    "address": "60, Main Road, Sadar Bazar, Indore, Madhya Pradesh 452006",
+    "area": "Sadar Bazar",
+    "latitude": 22.727152699999998,
+    "longitude": 75.8521499,
+    "place_id": "ChIJ1UJ6xR39YjkR7BqUAY4S4MI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1UJ6xR39YjkR7BqUAY4S4MI",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:03:17"
+  },
+  {
+    "business_name": "AKASH HOSPITAL",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Diagnostic center, Fertility clinic, Maternity Centre, Orthopedic surgeon, Otolaryngology clinic, Private hospital",
+    "pincode": "452006",
+    "phone_number": "+91 97525 94080",
+    "website": "http://www.akashhospital.co.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Bicholi Mardana Main Road, opposite Agrawal Public School, Indore, Madhya Pradesh 452016",
+    "area": "Sampat Farms, Bicholi Mardana",
+    "latitude": 22.7026143,
+    "longitude": 75.9211835,
+    "place_id": "ChIJhR7ZSiDjYjkRk3bT1qfjYpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhR7ZSiDjYjkRk3bT1qfjYpQ",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:03:19"
+  }
+]

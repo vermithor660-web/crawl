@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anandam Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, DJ service, Entertainment agency, Event technology service, Party equipment rental service, Party planner, Tent House Supplier, Wedding photographer, Wedding planner",
+    "pincode": "451332",
+    "phone_number": "+91 98716 67970",
+    "website": "https://www.anandamevents.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "First Floor, B-1/3, near Brands Show Sha, B 1 Block, Paschim Vihar, New Delhi, Delhi, 110063",
+    "area": "B 1 Block, Paschim Vihar",
+    "latitude": 28.6698377,
+    "longitude": 77.1074641,
+    "place_id": "ChIJm_gNH4YDDTkRrwqXKpyXU6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm_gNH4YDDTkRrwqXKpyXU6c",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:33:23"
+  },
+  {
+    "business_name": "Kalpataru Event Management",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Restaurant supply store",
+    "all_categories": "Restaurant supply store",
+    "pincode": "451332",
+    "phone_number": "+91 99329 74006",
+    "website": "https://m.facebook.com/people/Kalpataru-Event-Management/100083279022247/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "BDO office Road, Ghatal, Ranirbazar, West Bengal 721212",
+    "area": "451332",
+    "latitude": 22.6721468,
+    "longitude": 87.692914,
+    "place_id": "ChIJRWwNnGkH-DkRm2fJHsQ86ds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRWwNnGkH-DkRm2fJHsQ86ds",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:33:23"
+  }
+]

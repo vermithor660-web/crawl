@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adarsh Sales Pvt Ltd",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier, Door manufacturer",
+    "pincode": "451770",
+    "phone_number": "+91 99810 01100",
+    "website": "https://adarshply.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NH- 75, Panna Khajuraho Rd, in front of bagri petrol pump, Satna, Madhya Pradesh 485441",
+    "area": "451770",
+    "latitude": 24.5853231,
+    "longitude": 80.7410037,
+    "place_id": "ChIJMajHyOefgzkRtSrYKIse9bM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMajHyOefgzkRtSrYKIse9bM",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:52:07"
+  },
+  {
+    "business_name": "Mishra Timber Mart",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier, Lumber store",
+    "pincode": "451770",
+    "phone_number": "+91 99674 36191",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Damle Colony, Kanjurmarg East, Mumbai, Maharashtra 400042",
+    "area": "Damle Colony, Kanjurmarg East",
+    "latitude": 19.1341672,
+    "longitude": 72.9379143,
+    "place_id": "ChIJXztVA4fH5zsReyphLHUfqLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXztVA4fH5zsReyphLHUfqLk",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:52:08"
+  }
+]

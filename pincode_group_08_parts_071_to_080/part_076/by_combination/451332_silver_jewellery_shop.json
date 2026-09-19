@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jewellery Town",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "451332",
+    "phone_number": "+91 70190 07003",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 03, Road, near Govind Medical, New Indira Colony, Raver, Mohammadpura, Madhya Pradesh 450331",
+    "area": "New Indira Colony",
+    "latitude": 21.3122903,
+    "longitude": 76.2132318,
+    "place_id": "ChIJy6ey7PMz2DsRtI-XP0MOlq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy6ey7PMz2DsRtI-XP0MOlq4",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:32:30"
+  },
+  {
+    "business_name": "Chamba Lama",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "451332",
+    "phone_number": "+91 99034 90968",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "58, 59 & 60, New Market Area, Dharmatala, Taltala, Kolkata, West Bengal 700087",
+    "area": "New Market Area, Dharmatala, Taltala",
+    "latitude": 22.5599918,
+    "longitude": 88.3531374,
+    "place_id": "ChIJn4-CVQh3AjoRd6gw81oPIAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn4-CVQh3AjoRd6gw81oPIAE",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:32:30"
+  }
+]

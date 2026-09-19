@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "shrinathji traders",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "451115",
+    "phone_number": "+91 99774 88544",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "728H+VJF, Indore - Khandwa Rd, Loharpura, Madhya Pradesh 451115",
+    "area": "451115",
+    "latitude": 22.267183199999998,
+    "longitude": 76.02903649999999,
+    "place_id": "ChIJm4LYF_KWYjkRpdxx4u1B1nU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm4LYF_KWYjkRpdxx4u1B1nU",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:21:46"
+  },
+  {
+    "business_name": "Sohan kirana",
+    "search_category": "Malls",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "451115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "927H+PWM, Nyapura, Madhya Pradesh 451115",
+    "area": "451115",
+    "latitude": 22.3643479,
+    "longitude": 76.0297848,
+    "place_id": "ChIJ44ieReiVYjkRuDWgja9apIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ44ieReiVYjkRuDWgja9apIs",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:21:46"
+  }
+]

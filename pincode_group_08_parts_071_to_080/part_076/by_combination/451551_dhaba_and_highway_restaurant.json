@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Prabhat Joshi family Restaurant & dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Vegetarian restaurant",
+    "pincode": "451551",
+    "phone_number": "+91 94798 59798",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Near Tehsil Corner, Khandwa, Baroda Road, Kukshi, Madhya Pradesh 454331",
+    "area": "451551",
+    "latitude": 22.205191,
+    "longitude": 74.7498638,
+    "place_id": "ChIJe_IdIrntYTkRqdRRpC1tjeY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe_IdIrntYTkRqdRRpC1tjeY",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:44:32"
+  },
+  {
+    "business_name": "The Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Dhaba",
+    "pincode": "451551",
+    "phone_number": "+91 78744 44208",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 787,
+    "address": "The Dhaba, Kevadiya road, near Statue of unity, Garudeshwar, Gabhana, Gujarat 393151",
+    "area": "Garudeshwar",
+    "latitude": 21.8949548,
+    "longitude": 73.672759,
+    "place_id": "ChIJXecfzg0bYDkRDUDANKuawWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXecfzg0bYDkRDUDANKuawWM",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:44:34"
+  }
+]

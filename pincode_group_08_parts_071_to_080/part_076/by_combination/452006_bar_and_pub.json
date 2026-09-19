@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K26 restro bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "452006",
+    "phone_number": "+91 95843 84040",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "first floor, Jaiswal plaza, Jail Rd, opposite Vijay bhang ghota, Indore GPO, Indore, Madhya Pradesh 452003",
+    "area": "Indore GPO",
+    "latitude": 22.7250259,
+    "longitude": 75.8626451,
+    "place_id": "ChIJ_e_EDxP9YjkRLH0pU6Qny_U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_e_EDxP9YjkRLH0pU6Qny_U",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:02:58"
+  },
+  {
+    "business_name": "Shubham Bhaskar Maha",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "452006",
+    "phone_number": "+91 73878 07438",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No 26, Khajuri Bazar, Indore, Madhya Pradesh 452002",
+    "area": "Khajuri Bazar",
+    "latitude": 22.7183344,
+    "longitude": 75.8532065,
+    "place_id": "ChIJ40rMKf_9YjkRm9LPVDJ_Yz0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ40rMKf_9YjkRm9LPVDJ_Yz0",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:02:58"
+  }
+]

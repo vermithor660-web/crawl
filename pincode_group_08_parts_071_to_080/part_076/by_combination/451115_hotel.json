@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Om Mangalam Palace",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "451115",
+    "phone_number": "+91 92035 88864",
+    "website": "https://hotelommangalampalace.com/",
+    "rating": 4.3,
+    "reviews_count": 17,
+    "address": "Ganesh Nagar, Omkareshwar Main Road, near New Bus Stand, Kothi, Madhya Pradesh 450554",
+    "area": "451115",
+    "latitude": 22.2364067,
+    "longitude": 76.1298281,
+    "place_id": "ChIJGwgWJQC9YjkRD4PQtlwkCGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGwgWJQC9YjkRD4PQtlwkCGg",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:21:09"
+  },
+  {
+    "business_name": "Rukmani Palace",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "451115",
+    "phone_number": "+91 91115 62561",
+    "website": "http://pw.live.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Ward No 01, Ganesh Nagar, Omkar Dham Colony, Main Road, Mandhata, Kothi, Madhya Pradesh 450554",
+    "area": "451115",
+    "latitude": 22.235756199999997,
+    "longitude": 76.1264193,
+    "place_id": "ChIJVQftX1q9YjkRBURjQ3VEWss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQftX1q9YjkRBURjQ3VEWss",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:21:10"
+  }
+]

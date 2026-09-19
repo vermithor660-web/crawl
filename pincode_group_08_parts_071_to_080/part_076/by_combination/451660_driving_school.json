@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suresh",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "451660",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "37FG+77F, Dawana, Rangaon, Madhya Pradesh 451660",
+    "area": "451660",
+    "latitude": 22.073196799999998,
+    "longitude": 75.2756802,
+    "place_id": "ChIJaQ4HpvANYjkRZiIrzXdCFtM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaQ4HpvANYjkRZiIrzXdCFtM",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:48:30"
+  },
+  {
+    "business_name": "Sangam Driving School",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "451660",
+    "phone_number": "+91 94164 84777",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 47,
+    "address": "Rani Talab, Jind, Haryana 126102",
+    "area": "Rani Talab",
+    "latitude": 29.315656599999997,
+    "longitude": 76.3209818,
+    "place_id": "ChIJ2-kGOFQEEjkRjXbS6AEQtAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2-kGOFQEEjkRjXbS6AEQtAA",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:48:31"
+  }
+]

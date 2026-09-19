@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunrise Sports Academy",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "451441",
+    "phone_number": "+91 84850 42200",
+    "website": "http://www.sunrisesportsacademy.in/",
+    "rating": 4.8,
+    "reviews_count": 45,
+    "address": "4B, Chaitanya Nagar, Ganesh Colony, Jalgaon, Maharashtra 425001",
+    "area": "Chaitanya Nagar, Ganesh Colony",
+    "latitude": 21.0079221,
+    "longitude": 75.552211,
+    "place_id": "ChIJKQRSrKAP2TsRViih_m1eavc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKQRSrKAP2TsRViih_m1eavc",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:38:06"
+  },
+  {
+    "business_name": "Royal Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "451441",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 25,
+    "address": "Gat no 139/2B plot no 41 Rukhmini nagar, near chaitanya mahadev mandir, Harivitthal Nagar, Jalgaon, Maharashtra 425002",
+    "area": "Harivitthal Nagar",
+    "latitude": 20.9959642,
+    "longitude": 75.54177829999999,
+    "place_id": "ChIJu9dtNCQP2TsRIaF4s1NmQDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu9dtNCQP2TsRIaF4s1NmQDc",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:38:06"
+  }
+]

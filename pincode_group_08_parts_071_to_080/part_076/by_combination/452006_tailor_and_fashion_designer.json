@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Packard tailors & suits",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Gents Tailor",
+    "pincode": "452006",
+    "phone_number": "+91 80 4513 2053",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "1,subhash marg, Chiman Bagh Chauraha, Indore, Madhya Pradesh 452007",
+    "area": "Jail Road",
+    "latitude": 22.723923499999998,
+    "longitude": 75.8617846,
+    "place_id": "ChIJKbH9LHP9YjkRHKT9igGM5h0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKbH9LHP9YjkRHKT9igGM5h0",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:03:02"
+  },
+  {
+    "business_name": "Elegant lotus designs",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "452006",
+    "phone_number": "+91 99824 35246",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "35/94, near Ajay bakery, Sadar Bazar, Indore, Madhya Pradesh 452006",
+    "area": "Sadar Bazar",
+    "latitude": 22.7287215,
+    "longitude": 75.851338,
+    "place_id": "ChIJSXLYpFL9YjkRbizlsxdvwvQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSXLYpFL9YjkRbizlsxdvwvQ",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:03:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AR Unisex",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hair replacement service, Make-up artist",
+    "pincode": "452003",
+    "phone_number": "+91 85180 61670",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "DM Tower, Race Course Rd, Janjeerwala Chouraha, New Palasia, Indore, Madhya Pradesh 452001",
+    "area": "Janjeerwala Chouraha, New Palasia",
+    "latitude": 22.7261293,
+    "longitude": 75.88235139999999,
+    "place_id": "ChIJ4RAbLX79YjkRtuVZmcxRTFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4RAbLX79YjkRtuVZmcxRTFw",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:59:51"
+  },
+  {
+    "business_name": "Art of Arm Exotic Unisex Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "452003",
+    "phone_number": "+91 74009 70098",
+    "website": "https://www.instagram.com/artofarm_unisexsalon/",
+    "rating": 4.9,
+    "reviews_count": 208,
+    "address": "Shivneri Plaza, opposite marriot hotel, Opp.Hotel Fortune Landmark, Vijay Nagar, Scheme 54 PU4, Indore, Madhya Pradesh 452010",
+    "area": "Opp.Hotel Fortune Landmark, Vijay Nagar, Scheme 54 PU4",
+    "latitude": 22.7538281,
+    "longitude": 75.8845583,
+    "place_id": "ChIJqbB3hBkDYzkRFpxX1hj9rdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqbB3hBkDYzkRFpxX1hj9rdI",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:59:52"
+  }
+]

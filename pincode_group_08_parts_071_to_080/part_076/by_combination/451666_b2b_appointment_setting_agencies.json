@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Brand Life Agency",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Service establishment",
+    "pincode": "451666",
+    "phone_number": "+91 99451 40513",
+    "website": "https://businessvolunteers.online/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Brand Life Agency, 451666, India",
+    "area": "451666",
+    "latitude": 22.5338905,
+    "longitude": 72.8847766,
+    "place_id": "ChIJqQRp_x3QSqkR2bWg9deeVHY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqQRp_x3QSqkR2bWg9deeVHY",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:51:17"
+  },
+  {
+    "business_name": "Easy Business",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Service establishment",
+    "pincode": "451666",
+    "phone_number": "+91 76004 09942",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Easy Business, 451666, India",
+    "area": "451666",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJZeXuxykn4DsRHkWe6lNMmos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZeXuxykn4DsRHkWe6lNMmos",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:51:18"
+  }
+]

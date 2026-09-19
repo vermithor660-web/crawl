@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aashi Bridal studio",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Bridal shop",
+    "all_categories": "Bridal shop, Women's clothing store, Clothing store, Dress store",
+    "pincode": "452007",
+    "phone_number": "+91 99265 28282",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "107, BK Sindhi Colony Main Rd, near Amber studio, Sindhi Colony, Indore, Madhya Pradesh 452001",
+    "area": "Sindhi Colony",
+    "latitude": 22.7003833,
+    "longitude": 75.8635864,
+    "place_id": "ChIJUS0CXv38YjkRC-IWHuhMclA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUS0CXv38YjkRC-IWHuhMclA",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:05:02"
+  },
+  {
+    "business_name": "Bridal Dresses",
+    "search_category": "Bridal Wear and Wedding Collection",
+    "primary_category": "Costume rental service",
+    "all_categories": "Costume rental service, Bridal shop, Costume jewelry shop, Designer Clothing Store, Make-up artist",
+    "pincode": "452007",
+    "phone_number": "+91 96300 83266",
+    "website": "https://wedrobe.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "110, RNT Marg, near by khandelwal sev bhandar, Parsi Mohalla, Chhawni, Indore, Madhya Pradesh 452001",
+    "area": "Parsi Mohalla, Chhawni",
+    "latitude": 22.7077729,
+    "longitude": 75.8754996,
+    "place_id": "ChIJ14LZXzP9YjkRt5MAkV9G2B8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ14LZXzP9YjkRt5MAkV9G2B8",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:05:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grover Namkeen",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "451660",
+    "phone_number": "+91 99916 44000",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 61,
+    "address": "Circular Road, Bhiwani - Hansi Rd, opposite Nehru Park, near Muthoot finance, Bhiwani, Haryana 127021",
+    "area": "Bank Colony, Park Colony, Krishna Colony",
+    "latitude": 28.7994471,
+    "longitude": 76.134008,
+    "place_id": "ChIJj3-2u9dmEjkRLeD5RwfDJFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj3-2u9dmEjkRLeD5RwfDJFU",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:47:59"
+  },
+  {
+    "business_name": "The Rich Table Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "451660",
+    "phone_number": "+91 72248 08716",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 24,
+    "address": "R95C+768 Arjun Palace, Harsh Nagar, Chanehata, Katni, Madhya Pradesh 483501",
+    "area": "Harsh Nagar, Chanehata",
+    "latitude": 23.8081595,
+    "longitude": 80.37057539999999,
+    "place_id": "ChIJJdSLAr5hgTkRQDUO9-zEgcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJdSLAr5hgTkRQDUO9-zEgcU",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:47:59"
+  }
+]

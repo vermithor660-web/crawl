@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lalten",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Gift shop, Handicraft, Home goods store, Paintings store, Wallpaper store",
+    "pincode": "451332",
+    "phone_number": "+91 90014 37003",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Railway Sta Rd, Subhash Chowk, Sikar, Rajasthan 332001",
+    "area": "Subhash Chowk",
+    "latitude": 27.612583899999997,
+    "longitude": 75.1457339,
+    "place_id": "ChIJu7_3TSqlbDkRXtNjLwrTiZI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu7_3TSqlbDkRXtNjLwrTiZI",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:33:01"
+  },
+  {
+    "business_name": "Shikhar Light",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Electronics wholesaler, Light bulb supplier, Lighting consultant, Lighting contractor, Lighting manufacturer, Electrical supply store, Lighting products wholesaler, Wholesaler",
+    "pincode": "451332",
+    "phone_number": "+91 1572 256 112",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Bajaj Rd, Subhash Chowk, Sikar, Rajasthan 332001",
+    "area": "Subhash Chowk",
+    "latitude": 27.6143145,
+    "longitude": 75.140575,
+    "place_id": "ChIJA-TW3cWkbDkRx_0E7Y3kajM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA-TW3cWkbDkRx_0E7Y3kajM",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:33:01"
+  }
+]

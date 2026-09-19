@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HealthBag Meal Pvt. Ltd",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Meal delivery, Tiffin center",
+    "pincode": "451556",
+    "phone_number": "+91 97022 11146",
+    "website": "https://healthbagmeal.in/",
+    "rating": 4.6,
+    "reviews_count": 203,
+    "address": "Sane Guruji Marg, Dadal Estate, Bane Compound, Tardeo, Mumbai, Maharashtra 400034",
+    "area": "Dadal Estate, Bane Compound, Tardeo",
+    "latitude": 18.970539,
+    "longitude": 72.81763529999999,
+    "place_id": "ChIJzZQIdwTP5zsRAAsbOub-Y7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzZQIdwTP5zsRAAsbOub-Y7s",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:46:13"
+  },
+  {
+    "business_name": "Tiffin Center Jaipur",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "451556",
+    "phone_number": "+91 97991 11936",
+    "website": "http://www.tiffincenterjaipur.in/",
+    "rating": 4,
+    "reviews_count": 37,
+    "address": "Singh Bhoomi Khatipura Rd, Singh Bhoomi, Khatipura, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302012",
+    "area": "Singh Bhoomi, Khatipura",
+    "latitude": 26.9256513,
+    "longitude": 75.7438998,
+    "place_id": "ChIJUSQgaVGzbTkRZEOMR1O_AGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUSQgaVGzbTkRZEOMR1O_AGg",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:46:14"
+  }
+]

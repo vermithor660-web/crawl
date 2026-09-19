@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Earth Spa",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Day spa, Massage spa",
+    "pincode": "451331",
+    "phone_number": "+91 87774 57874",
+    "website": "https://earthspakolkata.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "67, Road, Ajoy Nagar, Santoshpur, Kolkata, West Bengal 700099",
+    "area": "Ajoy Nagar, Santoshpur",
+    "latitude": 22.4888245,
+    "longitude": 88.3952904,
+    "place_id": "ChIJRXJTdotxAjoRCeUvow5MzqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRXJTdotxAjoRCeUvow5MzqQ",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:31:26"
+  },
+  {
+    "business_name": "Sam Spa services",
+    "search_category": "Spa Consultants",
+    "primary_category": "Massage therapist",
+    "all_categories": "Massage therapist, Service establishment",
+    "pincode": "451331",
+    "phone_number": "+91 90283 71715",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sam Spa services, 451331, India",
+    "area": "451331",
+    "latitude": 18.5035801,
+    "longitude": 73.8746239,
+    "place_id": "ChIJm6fgFjW_wjsRp_WisjO3hoI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm6fgFjW_wjsRp_WisjO3hoI",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:31:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "बिजांकुर आयुर्वेद चिकित्सा डॉ मदन वास्कले",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "451881",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PHV9+24, Karanpura, Madhya Pradesh 451881",
+    "area": "451881",
+    "latitude": 21.7425656,
+    "longitude": 74.5678162,
+    "place_id": "ChIJ62_DbQBn3zsR6nkHmL5bdcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ62_DbQBn3zsR6nkHmL5bdcc",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:53:35"
+  },
+  {
+    "business_name": "Sarvadnya Clinic",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "451881",
+    "phone_number": "+91 99225 93087",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "JFRG+RFC, Mhasawad, Maharashtra 425432",
+    "area": "451881",
+    "latitude": 21.6420673,
+    "longitude": 74.4761353,
+    "place_id": "ChIJ9XOrQQBv3zsRXZvm14iMSms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9XOrQQBv3zsRXZvm14iMSms",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:53:36"
+  }
+]

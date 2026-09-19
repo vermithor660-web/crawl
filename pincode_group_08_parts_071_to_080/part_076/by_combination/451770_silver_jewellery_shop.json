@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa durga jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "451770",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "PJ6F+75M, Pansemal, Bhadgone, Madhya Pradesh 451881",
+    "area": "451770",
+    "latitude": 21.710700499999998,
+    "longitude": 74.62292339999999,
+    "place_id": "ChIJqf6iYwBd3zsRoqMtWI4DeC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqf6iYwBd3zsRoqMtWI4DeC0",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:51:40"
+  },
+  {
+    "business_name": "Sri Gurukrupa Jwellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "451770",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nadi Rd, atal chouk, Pansemal, Madhya Pradesh 451770",
+    "area": "atal chouk",
+    "latitude": 21.659173799999998,
+    "longitude": 74.6983855,
+    "place_id": "ChIJA4ZuaZBF3zsR3ROztkoXVsg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA4ZuaZBF3zsR3ROztkoXVsg",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:51:40"
+  }
+]

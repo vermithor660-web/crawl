@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhiyan book and stationary store",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store",
+    "pincode": "451551",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/abhiyan_book_store_barwani?igsh=MTR0ZmZpemlzYjA0dw==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no.3, dindayal complex, shree ram chowk, Barwani, Madhya Pradesh 451551",
+    "area": "451551",
+    "latitude": 22.036167,
+    "longitude": 74.8996714,
+    "place_id": "ChIJkQlKYxP5YTkRcduWsvEiqbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkQlKYxP5YTkRcduWsvEiqbw",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:45:32"
+  },
+  {
+    "business_name": "Bansal Book Stall",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "451551",
+    "phone_number": "+91 98982 45560",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 2059,
+    "address": "No.9 Gayatri Chamber RC Dutt Rd, Rajpath, Near Hotel, Alkapuri, Vadodara, Gujarat 390007",
+    "area": "Alkapuri",
+    "latitude": 22.3093821,
+    "longitude": 73.1794139,
+    "place_id": "ChIJQeeld63IXzkRZX6fnG45p4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQeeld63IXzkRZX6fnG45p4c",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:45:33"
+  }
+]

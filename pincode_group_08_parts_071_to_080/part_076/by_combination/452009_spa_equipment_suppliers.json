@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "YAS Salon",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Beauty product supplier, Hair removal service, Make-up artist, Nail salon, Hairdresser",
+    "pincode": "452009",
+    "phone_number": "+91 731 422 1101",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 207,
+    "address": "1st Floor, 163, near Narmada Choraha, Scheme 97, Vip Paraspar Nagar, Indore, Madhya Pradesh 452009",
+    "area": "Scheme 97, Vip Paraspar Nagar",
+    "latitude": 22.6762701,
+    "longitude": 75.8259194,
+    "place_id": "ChIJ0S_vtT79YjkR-kaebao_diU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0S_vtT79YjkR-kaebao_diU",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:07:35"
+  },
+  {
+    "business_name": "Motodresser",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Helmet Shop",
+    "all_categories": "Helmet Shop, Auto Accessories Wholesaler, Auto Accessories Store",
+    "pincode": "452009",
+    "phone_number": "+91 96691 96692",
+    "website": "https://motodresser.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "10, Gulmarg Complex, Sapna Sangeeta Rd, Snehnagar, Indore, Madhya Pradesh 452001",
+    "area": "Snehnagar",
+    "latitude": 22.6994929,
+    "longitude": 75.8676361,
+    "place_id": "ChIJ2UZi87X9YjkRasI7Ol5AVTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2UZi87X9YjkRasI7Ol5AVTk",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:07:37"
+  }
+]

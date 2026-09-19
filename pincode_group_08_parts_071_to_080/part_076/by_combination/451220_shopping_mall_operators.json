@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "City Centre New Town",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "451220",
+    "phone_number": "N/A",
+    "website": "http://newtown.citycentremalls.in/",
+    "rating": 4.5,
+    "reviews_count": 28192,
+    "address": "Ground Floor, Service Rd, AA II, Action Area IID, Rajarhat, West Bengal 700161",
+    "area": "AA II, Action Area IID, Rajarhat",
+    "latitude": 22.6226339,
+    "longitude": 88.4502582,
+    "place_id": "ChIJQQo_mWif-DkR35FcRulX24M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQQo_mWif-DkR35FcRulX24M",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:23:31"
+  },
+  {
+    "business_name": "Aasthan mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Outlet mall",
+    "all_categories": "Outlet mall",
+    "pincode": "451220",
+    "phone_number": "+91 70885 56651",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 201,
+    "address": "Ramnagar, Uttarakhand 244715",
+    "area": "451220",
+    "latitude": 29.4007519,
+    "longitude": 79.1270873,
+    "place_id": "ChIJG09LWJcTCjkRZWxWUVglZRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG09LWJcTCjkRZWxWUVglZRE",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:23:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepmala Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "452010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Indore, Sector E, Sanwer Road Industrial Area, Indore, Madhya Pradesh 452015",
+    "area": "Sector E, Sanwer Road Industrial Area",
+    "latitude": 22.776513299999998,
+    "longitude": 75.8475637,
+    "place_id": "ChIJ925NXlkCYzkRp79K2N1WDNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ925NXlkCYzkRp79K2N1WDNs",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:08:38"
+  },
+  {
+    "business_name": "Thali Company",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "452010",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "156, Aditya Nagar, Vishnu Puri Colony, Indore, Madhya Pradesh 452014",
+    "area": "Aditya Nagar, Vishnu Puri Colony",
+    "latitude": 22.6931373,
+    "longitude": 75.8643148,
+    "place_id": "ChIJaxChASb9YjkRHSk7jWYenII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaxChASb9YjkRHSk7jWYenII",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:08:41"
+  }
+]

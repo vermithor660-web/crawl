@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tara Surgical",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store",
+    "pincode": "451440",
+    "phone_number": "+91 99255 08005",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JP Towers, 204-205, Tagore Rd, GIDC UdhyogNagar, Bhakti Nagar, Rajkot, Gujarat 360002",
+    "area": "GIDC UdhyogNagar, Bhakti Nagar",
+    "latitude": 22.284032,
+    "longitude": 70.79377199999999,
+    "place_id": "ChIJt_wNABfKWTkReZg9nSWyoYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_wNABfKWTkReZg9nSWyoYA",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:36:23"
+  },
+  {
+    "business_name": "Doon Surgicals",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical Products Wholesaler",
+    "all_categories": "Surgical Products Wholesaler, Pharmacy",
+    "pincode": "451440",
+    "phone_number": "+91 94120 57532",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "12, Gandhi Rd, near Darshan Lal Chowk, adjacent Khushi Ram Library, Darshan Lal Chowk, Harrawala, Dehradun, Uttarakhand 248001",
+    "area": "Darshan Lal Chowk, Harrawala",
+    "latitude": 30.3219113,
+    "longitude": 78.0418643,
+    "place_id": "ChIJPbMtq-opCTkRhfN2XfFlDlo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPbMtq-opCTkRhfN2XfFlDlo",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:36:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ghori engineering works",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "452007",
+    "phone_number": "+91 99070 74786",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "329, Transport Nagar, Indore, Madhya Pradesh 452001",
+    "area": "Transport Nagar",
+    "latitude": 22.695730599999997,
+    "longitude": 75.8602379,
+    "place_id": "ChIJT89qm8X9YjkRvGm3dVAbnQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT89qm8X9YjkRvGm3dVAbnQY",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:05:24"
+  },
+  {
+    "business_name": "SHREE VINAYAK MOTORS",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "452007",
+    "phone_number": "+91 99778 91987",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 107,
+    "address": "Agrasen Square, opp. Navlakha Complex, Shankar Bag, Indore, Madhya Pradesh 452001",
+    "area": "Shankar Bag",
+    "latitude": 22.704804199999998,
+    "longitude": 75.87228,
+    "place_id": "ChIJOYz21e79YjkRAjxcPdWrmjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOYz21e79YjkRAjxcPdWrmjI",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:05:24"
+  }
+]

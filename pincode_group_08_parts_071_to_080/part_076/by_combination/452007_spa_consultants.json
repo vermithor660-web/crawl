@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spa Vibes",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Health spa, Thai massage therapist, Wellness center",
+    "pincode": "452007",
+    "phone_number": "+91 97555 00377",
+    "website": "https://spa-vibes.grexa.site/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ground Floor, Samiksh Landmark, Choithram Circle, G-01, Pipliya Pala Main Rd, Choithram Mandi, Indore, Madhya Pradesh 452012",
+    "area": "Choithram Mandi",
+    "latitude": 22.678648499999998,
+    "longitude": 75.8515614,
+    "place_id": "ChIJe2qXPQ79YjkRjshNCtWFFBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe2qXPQ79YjkRjshNCtWFFBI",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:05:43"
+  },
+  {
+    "business_name": "Indore, Madhya Pradesh 452007",
+    "search_category": "Spa Consultants",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "452007",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ram Bagh, Indore, Madhya Pradesh",
+    "area": "Ram Bagh",
+    "latitude": 22.7151159,
+    "longitude": 75.8621101,
+    "place_id": "ChIJHSUpAAn9YjkRIgHVYzw5rtM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHSUpAAn9YjkRIgHVYzw5rtM",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:05:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.S. Cycle Works",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop",
+    "pincode": "451556",
+    "phone_number": "+91 91362 06297",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 79,
+    "address": "H.no, 1, Patparganj village, Mayur Vihar, New Delhi, Delhi, 110091",
+    "area": "Patparganj village, Mayur Vihar",
+    "latitude": 28.6127073,
+    "longitude": 77.28841609999999,
+    "place_id": "ChIJa3dQzKDkDDkRADG2FVyGESg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa3dQzKDkDDkRADG2FVyGESg",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:46:45"
+  },
+  {
+    "business_name": "Bansal Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "451556",
+    "phone_number": "+91 76785 80294",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 24,
+    "address": "J34J+6M6, Vaishali Colony, Dashrath Puri, New Delhi, Delhi, 110045",
+    "area": "Vaishali Colony, Dashrath Puri",
+    "latitude": 28.6055425,
+    "longitude": 77.0816444,
+    "place_id": "ChIJU-DxOkobDTkRh-pbqPLqxeg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU-DxOkobDTkRh-pbqPLqxeg",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:46:45"
+  }
+]

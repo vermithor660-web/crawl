@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Panacea veterinary clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary care",
+    "all_categories": "Veterinary care",
+    "pincode": "452002",
+    "phone_number": "+91 88401 00200",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 56,
+    "address": "3/1 Shree, Krishna Nagar, Indore, Madhya Pradesh 452005",
+    "area": "Krishna Nagar",
+    "latitude": 22.726200799999997,
+    "longitude": 75.8191045,
+    "place_id": "ChIJe5oDKHj9YjkR8jY9JxVoKv4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe5oDKHj9YjkR8jY9JxVoKv4",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:57:30"
+  },
+  {
+    "business_name": "Pure Vet Pharma",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "452002",
+    "phone_number": "+91 91790 11900",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "No 330, No 330,No 13-14, RNT Marg, Dawa Bazar, Madhumilan, Pahali Manzil Dawa Bazar, Murai Mohalla, Jaora Compound, Indore, Madhya Pradesh 452001",
+    "area": "Dawa Bazar, Madhumilan, Pahali Manzil Dawa Bazar, Murai Mohalla, Jaora Compound",
+    "latitude": 22.7134952,
+    "longitude": 75.8761506,
+    "place_id": "ChIJ10ma-Bf9YjkR4jJN8qlUa2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ10ma-Bf9YjkR4jJN8qlUa2c",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:57:33"
+  }
+]

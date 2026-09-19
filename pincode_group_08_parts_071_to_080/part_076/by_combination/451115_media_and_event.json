@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Modern Media Services",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Advertising agency",
+    "pincode": "451115",
+    "phone_number": "+91 91257 77791",
+    "website": "http://mmsevent.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "16/35, Old Sohbatiya Bagh, New Sohabatia Bagh, Allahpur, Prayagraj, Uttar Pradesh 211006",
+    "area": "Old Sohbatiya Bagh, New Sohabatia Bagh, Allahpur",
+    "latitude": 25.447509999999998,
+    "longitude": 81.867498,
+    "place_id": "ChIJb92DwFe1mjkRuPCwX6ZP5j8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb92DwFe1mjkRuPCwX6ZP5j8",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:21:13"
+  },
+  {
+    "business_name": "Dhruv Event's",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "451115",
+    "phone_number": "+91 82693 42328",
+    "website": "https://dhruv-event-management-company.ueniweb.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Siddh Baba Colony Sant Nagar Jagmohan Das Ward, Madhya Pradesh 483501",
+    "area": "Shiv Nagar",
+    "latitude": 23.8485104,
+    "longitude": 80.3986681,
+    "place_id": "ChIJoW-8AnnfgzkR3FmSEUuD_TA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoW-8AnnfgzkR3FmSEUuD_TA",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:21:13"
+  }
+]

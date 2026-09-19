@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Das Studio",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Photographer",
+    "all_categories": "Photographer",
+    "pincode": "451228",
+    "phone_number": "+91 98301 08499",
+    "website": "http://www.dasstudiokolkata.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ward No - 071, 72B, Ashutosh Mukherjee Rd, Bhowanipore, Kolkata, West Bengal 700025",
+    "area": "Bhowanipore",
+    "latitude": 22.5331927,
+    "longitude": 88.3457262,
+    "place_id": "ChIJ06Um42t3AjoRUvmj7eWghf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ06Um42t3AjoRUvmj7eWghf0",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:29:45"
+  },
+  {
+    "business_name": "SJ Agri Drones",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service",
+    "pincode": "451228",
+    "phone_number": "+91 79930 26974",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gandavaram, Andhra Pradesh 524317",
+    "area": "451228",
+    "latitude": 14.5756527,
+    "longitude": 79.97013199999999,
+    "place_id": "ChIJ8zZWn7-PTDoRhvaRZoXf058",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8zZWn7-PTDoRhvaRZoXf058",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:29:46"
+  }
+]

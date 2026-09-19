@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jeeva klasuwa",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "451556",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "55J2+RFJ, BAKANER, Madhya Pradesh 454446",
+    "area": "451556",
+    "latitude": 22.182087499999998,
+    "longitude": 75.15114059999999,
+    "place_id": "ChIJyTvwCQAbYjkRSrXLBvBy_5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyTvwCQAbYjkRSrXLBvBy_5g",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:46:53"
+  },
+  {
+    "business_name": "Prajapati Electrical & Plumber",
+    "search_category": "Plumber",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "451556",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "15, Manawar, BAKANER, Bhuwada, Madhya Pradesh 454446",
+    "area": "Manawar",
+    "latitude": 22.1876785,
+    "longitude": 75.1666723,
+    "place_id": "ChIJnYuY6wERYjkRxd9jWZsd09M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnYuY6wERYjkRxd9jWZsd09M",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:46:53"
+  }
+]

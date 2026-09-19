@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DTDC Courier & Cargo LTD.",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "451441",
+    "phone_number": "+91 99364 99515",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 40,
+    "address": "7922+FJC, Saiyadraja, Uttar Pradesh 232110",
+    "area": "451441",
+    "latitude": 25.251189699999998,
+    "longitude": 83.3515271,
+    "place_id": "ChIJ65EELkERjjkRedJboz5ltF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ65EELkERjjkRedJboz5ltF0",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:38:56"
+  },
+  {
+    "business_name": "Kondapur",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "451441",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RJG9+79R, Khargone, Madhya Pradesh 451001",
+    "area": "451441",
+    "latitude": 21.8257464,
+    "longitude": 75.6184061,
+    "place_id": "ChIJsUKsRwCF2DsR1X8rhjeuUbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsUKsRwCF2DsR1X8rhjeuUbk",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 09:38:57"
+  }
+]

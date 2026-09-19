@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Girinar Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Chinese restaurant, Fast food restaurant",
+    "pincode": "452006",
+    "phone_number": "+91 79879 09650",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 581,
+    "address": "56 Vrindavan Colony, Kila Maidan Rd, Near Marimata Choraha, Indore, Madhya Pradesh 452015",
+    "area": "Nanda Nagar, Vrindavan Colony",
+    "latitude": 22.7415844,
+    "longitude": 75.8482133,
+    "place_id": "ChIJS9VvSIH9YjkRzsfbKIrwW6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS9VvSIH9YjkRzsfbKIrwW6c",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:02:55"
+  },
+  {
+    "business_name": "Radha Mohan Rasoi",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "452006",
+    "phone_number": "+91 93431 47488",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "1, Sanwer Rd, Sector B, Bhagat Singh Nagar, Indore, Madhya Pradesh 452015",
+    "area": "Sector B, Bhagat Singh Nagar",
+    "latitude": 22.7552201,
+    "longitude": 75.8487605,
+    "place_id": "ChIJxRMeSwADYzkRa3FnMLfFnoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxRMeSwADYzkRa3FnMLfFnoU",
+    "part_id": "part_076",
+    "crawled_at": "2026-09-19 10:02:55"
+  }
+]
