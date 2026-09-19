@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Service Care",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Air conditioning repair service",
+    "all_categories": "Air conditioning repair service",
+    "pincode": "458990",
+    "phone_number": "+91 83289 85001",
+    "website": "https://myservicecare.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Saheed Nagar, Bhubaneswar, Odisha 751007",
+    "area": "Saheed Nagar",
+    "latitude": 20.2885052,
+    "longitude": 85.8483097,
+    "place_id": "ChIJcVIQYm0JGToRM5WPIJ-ckXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcVIQYm0JGToRM5WPIJ-ckXc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:20:51"
+  },
+  {
+    "business_name": "SRK Refrigeraton service",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Refrigerator repair service",
+    "all_categories": "Refrigerator repair service, Air conditioning contractor, Air conditioning repair service, Electronics repair shop, Mechanic, Refrigerated transport service, Refrigerator store, Repair service, Washer & dryer repair service, Washer & dryer store",
+    "pincode": "458990",
+    "phone_number": "+91 96942 79759",
+    "website": "https://sawaimadhopurrajasthanotherretail.nowfloats.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Bajriya Indira market ke pass hindard ke niche, Sawai Madhopur, Rajasthan 322001",
+    "area": "Indra Colony",
+    "latitude": 26.0224247,
+    "longitude": 76.3576315,
+    "place_id": "ChIJv1mNflElbjkRHMLQ1p4UAwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv1mNflElbjkRHMLQ1p4UAwI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:20:52"
+  }
+]

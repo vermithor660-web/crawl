@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DURGA'S KITCHEN (Cloud Kitchen)",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant, Indian takeaway, Lunch restaurant, Takeout restaurant",
+    "pincode": "457772",
+    "phone_number": "+91 80877 06030",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "opposite Goverment Guesthouse, Pagmala, Chiplun, Mirjoli, Maharashtra 415605",
+    "area": "Pagmala",
+    "latitude": 17.5174749,
+    "longitude": 73.5069231,
+    "place_id": "ChIJvcZmzF8HwjsR8h04rlJvkxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvcZmzF8HwjsR8h04rlJvkxs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:05:36"
+  },
+  {
+    "business_name": "Swaad Meal Sutra Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Caterer, Food court, Food manufacturer, Meal delivery, Takeout restaurant, Vegetarian restaurant",
+    "pincode": "457772",
+    "phone_number": "+91 97282 69917",
+    "website": "http://www.swaadmeal.com/",
+    "rating": 5,
+    "reviews_count": 66,
+    "address": "Hero Honda Colony, AR-50, near Raja Vatika, Arjun Nagar, Shanti Nagar, Rewari, Haryana 123401",
+    "area": "Arjun Nagar, Shanti Nagar",
+    "latitude": 28.204957999999998,
+    "longitude": 76.6278821,
+    "place_id": "ChIJyQCmZzBbDTkRhK7ilIbIzz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyQCmZzBbDTkRhK7ilIbIzz4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:05:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BuzzOmni",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "458330",
+    "phone_number": "+91 77770 47784",
+    "website": "https://www.buzzomni.com/",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "6th Floor, Mickey Square MIDC, Wrap2Earn Technologies Pvt Ltd, Headquarters, 602/3, Road No. 7, Kondivita, Andheri East, Mumbai, Maharashtra 400093",
+    "area": "Kondivita, Andheri East",
+    "latitude": 19.1183044,
+    "longitude": 72.8715335,
+    "place_id": "ChIJq6JrDyRMEqwRpP_S-w8hLRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6JrDyRMEqwRpP_S-w8hLRo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:44:03"
+  },
+  {
+    "business_name": "BALAJI PRINTERS &FLEX",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "458330",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus Stop, shop No. 4, Jawad, Madhya Pradesh 458220",
+    "area": "458330",
+    "latitude": 24.5858514,
+    "longitude": 74.8565613,
+    "place_id": "ChIJX_SiZR4NZjkRw_KyU-0J8Ss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX_SiZR4NZjkRw_KyU-0J8Ss",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:44:03"
+  }
+]

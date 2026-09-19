@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parlour Agency",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "458220",
+    "phone_number": "+91 82691 78854",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jake Bagatelle 35, Schme No. 36 - B, Jaju Nagar, Neemuch, Madhya Pradesh 458441",
+    "area": "Schme No. 36 - B, Jaju Nagar",
+    "latitude": 24.473766299999998,
+    "longitude": 74.8726501,
+    "place_id": "ChIJb7fIpOZzZjkR48vYWWpnId4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb7fIpOZzZjkR48vYWWpnId4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:37:33"
+  },
+  {
+    "business_name": "FAME & GLAM Professional Beauty Care & Spa (Only for Women)",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Beautician, Health and beauty shop",
+    "pincode": "458220",
+    "phone_number": "+91 87701 53480",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Jawaher Marg, Station Raod, Jawad, Madhya Pradesh 458330",
+    "area": "458220",
+    "latitude": 24.5972829,
+    "longitude": 74.859365,
+    "place_id": "ChIJdetuJlENZjkRSqYWJVuztHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdetuJlENZjkRSqYWJVuztHA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:37:35"
+  }
+]

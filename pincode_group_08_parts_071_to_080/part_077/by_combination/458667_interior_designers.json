@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Avi Home Decor",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator, Home goods store",
+    "pincode": "458667",
+    "phone_number": "+91 99264 98582",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bank of India ke piche Oswal ksk ke samne, Dalauda, Banikhedi, Madhya Pradesh 458667",
+    "area": "Dalauda",
+    "latitude": 23.9479079,
+    "longitude": 75.100591,
+    "place_id": "ChIJ7bbgOwAlZDkRa78Vc1S9zhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7bbgOwAlZDkRa78Vc1S9zhc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:03:58"
+  },
+  {
+    "business_name": "Shree Sawaliya Home Decore Daloda",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "458667",
+    "phone_number": "+91 97555 32287",
+    "website": "https://www.instagram.com/decore_your_dreamhouse?igsh=MXhvYXZsOTdmZGhxMw==",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Hdfc bank k niche, near jain mandir, Dalauda, Banikhedi, Madhya Pradesh 458667",
+    "area": "Dalauda",
+    "latitude": 23.9462627,
+    "longitude": 75.1018503,
+    "place_id": "ChIJkZnfdnYlZDkRiIpPkXYWuJI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkZnfdnYlZDkRiIpPkXYWuJI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:03:58"
+  }
+]

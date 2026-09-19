@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satish Sharma and Sons",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "457882",
+    "phone_number": "+91 98262 29400",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 7,
+    "address": "Shop No. 1, Sabji Mandi, Kalka Chowk, Dewas Naka, Niranjanpur, Indore, Madhya Pradesh 452010",
+    "area": "Dewas Naka, Niranjanpur",
+    "latitude": 22.7791365,
+    "longitude": 75.89388389999999,
+    "place_id": "ChIJsRDh558CYzkR9jRA5Vb3LMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsRDh558CYzkR9jRA5Vb3LMo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:16:23"
+  },
+  {
+    "business_name": "Chhindwara Mandi",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Produce market",
+    "all_categories": "Produce market",
+    "pincode": "457882",
+    "phone_number": "N/A",
+    "website": "http://mpmandiboard.gov.in/",
+    "rating": 3.8,
+    "reviews_count": 254,
+    "address": "3XHM+VFJ, Kusmeli, Chhindwara, Madhya Pradesh 480001",
+    "area": "457882",
+    "latitude": 22.079724199999998,
+    "longitude": 78.9836274,
+    "place_id": "ChIJUzxHK5VqyTsRMPmXjgS9qE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUzxHK5VqyTsRMPmXjgS9qE8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:16:23"
+  }
+]

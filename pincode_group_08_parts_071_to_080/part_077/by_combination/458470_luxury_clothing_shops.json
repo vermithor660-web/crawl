@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Le Mill",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothing Accessories Store, Furniture store, Jewelry store",
+    "pincode": "458470",
+    "phone_number": "+91 85919 07690",
+    "website": "http://lemillindia.com/",
+    "rating": 4.5,
+    "reviews_count": 68,
+    "address": "1st Floor, Pheroze Building, Chhatrapati Shivaji Maharaj Marg, Apollo Bandar, Colaba, Mumbai, Maharashtra 400001",
+    "area": "Apollo Bandar, Colaba",
+    "latitude": 18.9238197,
+    "longitude": 72.83328089999999,
+    "place_id": "ChIJCcHFMMHR5zsRxIEH4a1lJOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCcHFMMHR5zsRxIEH4a1lJOs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:54:00"
+  },
+  {
+    "business_name": "RAGA RENTALS (2nd Branch) Lehenga and Sherwani On RENT",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store, Clothing store, Dress and tuxedo rental service, Dress store, Fashion designer, Full dress rental service, Men's clothing store, Wedding dress rental service",
+    "pincode": "458470",
+    "phone_number": "+91 70668 26599",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 622,
+    "address": "Gumanpura - Kothri Rd, above BIBA Showroom, near Rai Beauty, Gumanpura, Kota, Kota Municipal Area, Rajasthan 324007",
+    "area": "Gumanpura",
+    "latitude": 25.1761645,
+    "longitude": 75.8480115,
+    "place_id": "ChIJMdNR_jCFbzkRSaE_MGEhli4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMdNR_jCFbzkRSaE_MGEhli4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:54:00"
+  }
+]

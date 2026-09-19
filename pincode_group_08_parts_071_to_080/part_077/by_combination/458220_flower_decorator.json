@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Shyam Aata Chakki",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "458220",
+    "phone_number": "+91 90987 24139",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sharda Chouk Mandir, Road, Nayagaon, Kanawati, Madhya Pradesh 458441",
+    "area": "458220",
+    "latitude": 24.4885737,
+    "longitude": 74.8550101,
+    "place_id": "ChIJEVfV4xZzZjkRsNftTzWt-po",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEVfV4xZzZjkRsNftTzWt-po",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:37:42"
+  },
+  {
+    "business_name": "Vaibhav Flower Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "458220",
+    "phone_number": "+91 73680 39034",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Mahavir chowk, Singheshwar, Bihar 852128",
+    "area": "458220",
+    "latitude": 25.9832705,
+    "longitude": 86.7996125,
+    "place_id": "ChIJDSPfGCc37jkRXxTbkbpNuME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDSPfGCc37jkRXxTbkbpNuME",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:37:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adarsh Palm Acres",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Villa",
+    "all_categories": "Villa",
+    "pincode": "458553",
+    "phone_number": "+91 63649 21352",
+    "website": "https://www.adarshdevelopers.com/projects/residential/adarsh-palm%20acres/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Vidya Nagar Cross Rd, Jala Hobli, BEML Layout, Bagalur, Huttanahalli, Karnataka 562157",
+    "area": "Jala Hobli, BEML Layout, Bagalur",
+    "latitude": 13.1570938,
+    "longitude": 77.6638237,
+    "place_id": "ChIJqz4QfwYcrjsRwzNwJipez3w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqz4QfwYcrjsRwzNwJipez3w",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:57:00"
+  },
+  {
+    "business_name": "Sobha Neopolis",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Condominium complex",
+    "all_categories": "Condominium complex",
+    "pincode": "458553",
+    "phone_number": "N/A",
+    "website": "https://www.sobha.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Silver Oaks Main Rd, Balagere, Bengaluru, Karnataka 560087",
+    "area": "Balagere",
+    "latitude": 12.933570099999999,
+    "longitude": 77.71660399999999,
+    "place_id": "ChIJKaPfb0UTrjsReRM3UiTSaeQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKaPfb0UTrjsReRM3UiTSaeQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:57:01"
+  }
+]

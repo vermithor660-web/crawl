@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Ram Gest House Bhawani Mandi",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "458778",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 55,
+    "address": "1/13, Housing Board Colony, Bhawani Mandi, Rajasthan 326502",
+    "area": "458778",
+    "latitude": 24.4107681,
+    "longitude": 75.82779699999999,
+    "place_id": "ChIJi9Qw8vIFZTkRi-jcyjyWH5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi9Qw8vIFZTkRi-jcyjyWH5E",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:11:37"
+  },
+  {
+    "business_name": "Gami sadan hotel wala",
+    "search_category": "Guesthouse",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "458778",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CRRR+G59, Bhensoda, Madhya Pradesh 458778",
+    "area": "458778",
+    "latitude": 24.4412943,
+    "longitude": 75.8404941,
+    "place_id": "ChIJ9djxTAAPZTkRzcp5iHrNi30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9djxTAAPZTkRzcp5iHrNi30",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:11:40"
+  }
+]

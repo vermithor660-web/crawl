@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Jain Shri",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "458002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Dalauda, Banikhedi, Madhya Pradesh 458667",
+    "area": "Dalauda",
+    "latitude": 23.9574131,
+    "longitude": 75.1014524,
+    "place_id": "ChIJOzPA8qclZDkRXfxh_VE8WdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOzPA8qclZDkRXfxh_VE8WdE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:28:23"
+  },
+  {
+    "business_name": "HOTEL MP CAFE & RESTAURANT",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "458002",
+    "phone_number": "+91 94799 57495",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Parshavnath chouraha, Neemuch - Mhow Rd, near Mouh, near toll naka, Bahi, Piplia Mandi, Madhya Pradesh 458664",
+    "area": "458002",
+    "latitude": 24.1791979,
+    "longitude": 75.00839189999999,
+    "place_id": "ChIJlYenAQDVZTkR8iliUziVrT0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlYenAQDVZTkR8iliUziVrT0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:28:23"
+  }
+]

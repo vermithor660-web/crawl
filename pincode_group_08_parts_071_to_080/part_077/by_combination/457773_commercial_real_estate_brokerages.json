@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "REAL ESTATE CORNER",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Commercial real estate agency",
+    "all_categories": "Commercial real estate agency, Commercial agent, Real Estate Builders & Construction Company, Industrial real estate agency, Office space rental agency, Property management company, Real estate rental agency, Residents association, Retail space rental agency",
+    "pincode": "457773",
+    "phone_number": "+91 69013 01315",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Oppo Sunvally Hospital, House No, 5, Purbanchal Path, Bormotoria, Guwahati, Assam 781006",
+    "area": "Bormotoria",
+    "latitude": 26.1379411,
+    "longitude": 91.80126779999999,
+    "place_id": "ChIJ2e0M58RZWjcRkloblpziPjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2e0M58RZWjcRkloblpziPjw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:08:45"
+  },
+  {
+    "business_name": "Agarwal Realtors",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial real estate agency, Real Estate Builders & Construction Company",
+    "pincode": "457773",
+    "phone_number": "+91 99910 00585",
+    "website": "https://arbpl.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Badshahpur Sohna Rd, next to Central Park Flower Valley, Dhunela, Sohna, Haryana 122103",
+    "area": "457773",
+    "latitude": 28.284461399999998,
+    "longitude": 77.0666823,
+    "place_id": "ChIJYdqVklIkDTkRDoOlaLREz98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYdqVklIkDTkRDoOlaLREz98",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:08:45"
+  }
+]

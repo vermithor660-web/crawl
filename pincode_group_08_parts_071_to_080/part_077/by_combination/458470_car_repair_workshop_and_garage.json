@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pappu maruti workshop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Auto repair shop",
+    "pincode": "458470",
+    "phone_number": "+91 86024 90500",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 12,
+    "address": "ke piche, bus stand, Mandi road, Biaora, Madhya Pradesh 465674",
+    "area": "458470",
+    "latitude": 23.923955799999998,
+    "longitude": 76.91437599999999,
+    "place_id": "ChIJOwo7fQBrezkRUb0CedWLfgQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOwo7fQBrezkRUb0CedWLfgQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:54:12"
+  },
+  {
+    "business_name": "jain auto centre",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Engine Rebuilding Service Station",
+    "all_categories": "Engine Rebuilding Service Station",
+    "pincode": "458470",
+    "phone_number": "+91 731 404 0010",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "bsoni mension, 12, Gita Bhawan Rd, Ratlam Kothi, Indore, Madhya Pradesh 452001",
+    "area": "Ratlam Kothi",
+    "latitude": 22.717893,
+    "longitude": 75.882954,
+    "place_id": "ChIJmXwCjzv9YjkRWQLRtO9Nodc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmXwCjzv9YjkRWQLRtO9Nodc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:54:12"
+  }
+]

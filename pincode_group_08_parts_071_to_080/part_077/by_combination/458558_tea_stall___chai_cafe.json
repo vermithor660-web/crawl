@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharon Tea Stall",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store, Tea house",
+    "pincode": "458558",
+    "phone_number": "N/A",
+    "website": "http://www.sharonteastall.com/",
+    "rating": 4.4,
+    "reviews_count": 4342,
+    "address": "New Thippasandra Main Rd, HAL 3rd Stage, Colony New 515, New Thippasandra, Bengaluru, Karnataka 560075",
+    "area": "HAL 3rd Stage, Colony New 515, New Thippasandra",
+    "latitude": 12.973149999999999,
+    "longitude": 77.647134,
+    "place_id": "ChIJIbpRcKkWrjsRQJfyLGPqGuk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbpRcKkWrjsRQJfyLGPqGuk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:59:26"
+  },
+  {
+    "business_name": "Chai & Kadi",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Coffee shop, Restaurant",
+    "pincode": "458558",
+    "phone_number": "+91 90361 18734",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 1135,
+    "address": "Lower Ground Floor, Building, 3047, 80 Feet Rd, 8th cross, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008",
+    "area": "8th cross, HAL 2nd Stage, Indiranagar",
+    "latitude": 12.9719301,
+    "longitude": 77.6470138,
+    "place_id": "ChIJH7Rw86kWrjsRDlY8zRt-i0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH7Rw86kWrjsRDlY8zRt-i0o",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:59:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shamim Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "458888",
+    "phone_number": "+91 99293 39206",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mundla Road Mundla Roa, Rajasthan 326515",
+    "area": "458888",
+    "latitude": 23.943298199999997,
+    "longitude": 75.59982459999999,
+    "place_id": "ChIJB2zMyEVbZDkRET3oFC8Tsyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2zMyEVbZDkRET3oFC8Tsyk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:16:52"
+  },
+  {
+    "business_name": "Mubarak Cycle Traders - Best Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop, Bicycle wholesaler",
+    "pincode": "458888",
+    "phone_number": "+91 90198 51241",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "8th Main Rd, Maruthi Layout, Hongasandra, Bengaluru, Karnataka 560114",
+    "area": "Maruthi Layout, Hongasandra",
+    "latitude": 12.893758799999999,
+    "longitude": 77.6256774,
+    "place_id": "ChIJgfLkyhkVrjsRLEaL0szmgCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgfLkyhkVrjsRLEaL0szmgCU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:16:55"
+  }
+]

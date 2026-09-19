@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chokhi Dhani Restaurant Veg & Non veg",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "458669",
+    "phone_number": "+91 96178 47064",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "X399+5JX, Mandsaur, Madhya Pradesh 458002",
+    "area": "458669",
+    "latitude": 23.9679804,
+    "longitude": 75.0691147,
+    "place_id": "ChIJBfg2SwAlZDkR-1U3chyCoB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBfg2SwAlZDkR-1U3chyCoB4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:05:08"
+  },
+  {
+    "business_name": "Chamunda Dhaba And Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "458669",
+    "phone_number": "+91 98267 75601",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 38,
+    "address": "Naikhedi, Madhya Pradesh 458667",
+    "area": "458669",
+    "latitude": 23.960619899999998,
+    "longitude": 75.10045579999999,
+    "place_id": "ChIJL4j_25slZDkRxlVSmbvbg3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL4j_25slZDkRxlVSmbvbg3g",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:05:10"
+  }
+]

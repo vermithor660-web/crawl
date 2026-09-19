@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Enterprises",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Industrial equipment supplier",
+    "all_categories": "Industrial equipment supplier",
+    "pincode": "458389",
+    "phone_number": "+91 93021 10344",
+    "website": "https://www.rbalajient.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "118, Siyaganj Main Rd, Siyaganj, Indore, Madhya Pradesh 452007",
+    "area": "Siyaganj",
+    "latitude": 22.716801099999998,
+    "longitude": 75.8644892,
+    "place_id": "ChIJ_65j6U79YjkRDdKt1URZ3s0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_65j6U79YjkRDdKt1URZ3s0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:49:30"
+  },
+  {
+    "business_name": "Ankush Argon Welding Laser Welding",
+    "search_category": "Welding and Lathe Works",
+    "primary_category": "Iron works",
+    "all_categories": "Iron works",
+    "pincode": "458389",
+    "phone_number": "+91 98182 65223",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G 61 Sector 9, Noida, 61, G Block, Sector 9, Meerut Division Delhi, Sector 9, Uttar Pradesh 201301",
+    "area": "Sector 9",
+    "latitude": 28.587964,
+    "longitude": 77.32758,
+    "place_id": "ChIJ9SF8WP_kDDkR9X15tTKIlwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9SF8WP_kDDkR9X15tTKIlwM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:49:30"
+  }
+]

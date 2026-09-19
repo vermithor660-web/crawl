@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Sana road lines",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "458001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "33P2+67Q, Mandsaur, Madhya Pradesh 458001",
+    "area": "458001",
+    "latitude": 24.0855899,
+    "longitude": 75.0507272,
+    "place_id": "ChIJ5w74KwArZDkRlb9I9XTvi9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5w74KwArZDkRlb9I9XTvi9I",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:26:09"
+  },
+  {
+    "business_name": "Bhiwadi tempo service",
+    "search_category": "Tempo and Mini Truck Service",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "458001",
+    "phone_number": "N/A",
+    "website": "http://allindiatemposervice.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Call-925OOI6OOI, Capital, Mall Rd, Sector 10, U.I.T., Bhiwadi, Rajasthan 301019",
+    "area": "Sector 10, U.I.T.",
+    "latitude": 28.2013544,
+    "longitude": 76.8472128,
+    "place_id": "ChIJo79UFgA3DTkRb9HFSmgiWus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo79UFgA3DTkRb9HFSmgiWus",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:26:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaango",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "458118",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "8MWH+634, Rupra, Madhya Pradesh 458880",
+    "area": "458118",
+    "latitude": 24.3457202,
+    "longitude": 75.6784097,
+    "place_id": "ChIJg-G6LwCpZTkRbMehB6x8_yE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg-G6LwCpZTkRbMehB6x8_yE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:34:55"
+  },
+  {
+    "business_name": "Rajasthani kesar",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Food court, Gujarati restaurant, Family restaurant, North Indian restaurant, Rajasthani Restaurant, Restaurant",
+    "pincode": "458118",
+    "phone_number": "+91 63778 58903",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Delhi - Mumbai Expy, Rupra, Garoth, Madhya Pradesh 458880",
+    "area": "458118",
+    "latitude": 24.345624299999997,
+    "longitude": 75.680893,
+    "place_id": "ChIJF_3kIwCpZTkR9hI_Haz-LIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF_3kIwCpZTkR9hI_Haz-LIE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:34:55"
+  }
+]

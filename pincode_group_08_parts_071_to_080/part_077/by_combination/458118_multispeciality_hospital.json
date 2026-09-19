@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surgical Care Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "458118",
+    "phone_number": "+91 74232 28797",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 22,
+    "address": "19, Gandhi Nagar, Jawahar Nagar, Neemuch, Madhya Pradesh 458441",
+    "area": "Gandhi Nagar, Jawahar Nagar",
+    "latitude": 24.4627879,
+    "longitude": 74.8792586,
+    "place_id": "ChIJ-3iZmn50ZjkRmrNQZEaMcyY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-3iZmn50ZjkRmrNQZEaMcyY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:35:12"
+  },
+  {
+    "business_name": "OM HOSPITAL",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "458118",
+    "phone_number": "+91 89896 57522",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 33,
+    "address": "11, near MASSY SHOWROOM CHORHA, Shastri Nagar, Neemuch, Madhya Pradesh 458441",
+    "area": "Shastri Nagar",
+    "latitude": 24.4599732,
+    "longitude": 74.8779232,
+    "place_id": "ChIJS1wDuJp1ZjkRjB_iLx9XTNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS1wDuJp1ZjkRjB_iLx9XTNw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:35:12"
+  }
+]

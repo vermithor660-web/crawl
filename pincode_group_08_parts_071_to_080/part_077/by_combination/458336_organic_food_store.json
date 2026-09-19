@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Farm essence",
+    "search_category": "Organic Food Store",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "458336",
+    "phone_number": "+91 81144 08871",
+    "website": "http://thefarmessence.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Plot no 152, Teh, Bamora, Jiran, Madhya Pradesh 458441",
+    "area": "458336",
+    "latitude": 24.357373199999998,
+    "longitude": 74.8605189,
+    "place_id": "ChIJq5ZLAC9xZjkRIFOXSmlK_Dw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq5ZLAC9xZjkRIFOXSmlK_Dw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:44:11"
+  },
+  {
+    "business_name": "Krishi Mandi",
+    "search_category": "Organic Food Store",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "458336",
+    "phone_number": "N/A",
+    "website": "http://mpmandiboard.gov.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "8V6P+M27, Gandhi Nagar, Aghoriya, Jiran, Madhya Pradesh 458336",
+    "area": "Gandhi Nagar",
+    "latitude": 24.311673499999998,
+    "longitude": 74.8850397,
+    "place_id": "ChIJuQpa7_F5ZjkRm7eiI4ca6bw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuQpa7_F5ZjkRm7eiI4ca6bw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:44:11"
+  }
+]

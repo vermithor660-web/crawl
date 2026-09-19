@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MANGALAM RESTAURANT",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Fine dining restaurant",
+    "all_categories": "Fine dining restaurant",
+    "pincode": "457770",
+    "phone_number": "+91 88394 46722",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "ROAD, near BUM PETROL PUMP, Kardawad, PETLAWAD, Madhya Pradesh 457773",
+    "area": "457770",
+    "latitude": 23.0301325,
+    "longitude": 74.8086943,
+    "place_id": "ChIJZWw2xdldYTkRG5lBlGk1szs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZWw2xdldYTkRG5lBlGk1szs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:03:47"
+  },
+  {
+    "business_name": "Dwarkadhish Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "457770",
+    "phone_number": "+91 99743 80871",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 1474,
+    "address": "GJ SH 6A, Bhimrana, Gujarat 361345",
+    "area": "457770",
+    "latitude": 22.391920799999998,
+    "longitude": 68.9909158,
+    "place_id": "ChIJ2X-G95OhVjkRsOPDzm3zhuE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2X-G95OhVjkRsOPDzm3zhuE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:03:49"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ram Consultancy Services",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm, Service establishment",
+    "pincode": "458339",
+    "phone_number": "+91 93990 71920",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ram Consultancy Services, 458339, India",
+    "area": "458339",
+    "latitude": 23.6873944,
+    "longitude": 75.4208742,
+    "place_id": "ChIJ42WialNRG6MRiEWlfw2W7NQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42WialNRG6MRiEWlfw2W7NQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:47:18"
+  },
+  {
+    "business_name": "M.D. Consultancy",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "458339",
+    "phone_number": "+91 93297 08224",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "3378+GQ8, Near Maheshwari Dharmshala, infront of Goverdhan nath ji tample, jivaganj, Dhan Mandi, Mandsaur, Madhya Pradesh 458002",
+    "area": "Dhan Mandi",
+    "latitude": 24.0637859,
+    "longitude": 75.0669559,
+    "place_id": "ChIJu-18DW0vZDkR1lq1gLC-k6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu-18DW0vZDkR1lq1gLC-k6c",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:47:18"
+  }
+]

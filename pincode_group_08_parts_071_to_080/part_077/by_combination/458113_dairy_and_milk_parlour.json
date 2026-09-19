@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SANCHI MILK PARLOUR JHARDA",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "458113",
+    "phone_number": "+91 87179 88636",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "44, Sadar Bazaar, Jharda, Madhya Pradesh 458553",
+    "area": "Sadar Bazaar",
+    "latitude": 24.335879,
+    "longitude": 75.1093765,
+    "place_id": "ChIJbR9GXmLQZTkRAAAA0HIbKR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbR9GXmLQZTkRAAAA0HIbKR0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:31:04"
+  },
+  {
+    "business_name": "Sawariya seth",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "458113",
+    "phone_number": "+91 62663 11290",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "shop number 1, Neemuch Rd, Sagrana, Neemuch, Madhya Pradesh 458441",
+    "area": "458113",
+    "latitude": 24.5262477,
+    "longitude": 74.8200298,
+    "place_id": "ChIJQ4z1yCoNZjkR2Mg1RR339Zw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4z1yCoNZjkR2Mg1RR339Zw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:31:05"
+  }
+]

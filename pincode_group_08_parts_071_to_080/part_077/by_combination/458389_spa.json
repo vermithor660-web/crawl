@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pooja Parlour",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "458389",
+    "phone_number": "+91 97522 43562",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jat Kacharaiya, Kachariya, Kheda, Madhya Pradesh 458990",
+    "area": "458389",
+    "latitude": 24.014624299999998,
+    "longitude": 75.3744827,
+    "place_id": "ChIJMX7MEDVJZDkRBuUJ4d1nY3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMX7MEDVJZDkRBuUJ4d1nY3E",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:48:53"
+  },
+  {
+    "business_name": "Sawriya Mava Bhati",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "458389",
+    "phone_number": "+91 87180 72376",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bholiya, Road, Kunchrod, Madhya Pradesh 458895",
+    "area": "458389",
+    "latitude": 23.893839,
+    "longitude": 75.2617382,
+    "place_id": "ChIJzcD2x1E_ZDkRsgTZwzIDtH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzcD2x1E_ZDkRsgTZwzIDtH0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:48:53"
+  }
+]

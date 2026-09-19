@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LUXURY KING PROPERTIES LLC",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "458116",
+    "phone_number": "N/A",
+    "website": "http://www.luxurykingproperties.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Al A'amal St - Business Bay - Dubai - United Arab Emirates",
+    "area": "Business Bay",
+    "latitude": 25.1783744,
+    "longitude": 55.2664598,
+    "place_id": "ChIJ58AZOwBnXz4R2veI4v_0Uoo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ58AZOwBnXz4R2veI4v_0Uoo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:34:26"
+  },
+  {
+    "business_name": "SUKH-SAMRIDDHI REAL ESTATE",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial real estate agency, Property investment company, Property management company, Real estate rental agency",
+    "pincode": "458116",
+    "phone_number": "N/A",
+    "website": "https://sukhsamriddhirealestate.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Treasure Fantasy, F-04, Rangwasa Rd, behind Surya Mandir, Cat, Rau, Indore, Madhya Pradesh 453331",
+    "area": "Cat, Rau",
+    "latitude": 22.6581911,
+    "longitude": 75.7871981,
+    "place_id": "ChIJPVfoF2H_YjkRJ36frZhbq6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPVfoF2H_YjkRJ36frZhbq6U",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:34:28"
+  }
+]

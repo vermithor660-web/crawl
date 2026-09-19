@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kunj cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "457777",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3C6C+64P, Main road, Kakanwani, Madhya Pradesh 457777",
+    "area": "457777",
+    "latitude": 23.0605826,
+    "longitude": 74.4203192,
+    "place_id": "ChIJaXcxCAA9YTkR7grlGzA5vuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaXcxCAA9YTkR7grlGzA5vuM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:11:05"
+  },
+  {
+    "business_name": "Hotal zaika",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "457777",
+    "phone_number": "+91 79876 75193",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Navapada Rd, Thandla, Madhya Pradesh 457777",
+    "area": "457777",
+    "latitude": 23.0115832,
+    "longitude": 74.576228,
+    "place_id": "ChIJ2-fBSJE_YTkRzwgzhvot8A4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2-fBSJE_YTkRzwgzhvot8A4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:11:06"
+  }
+]

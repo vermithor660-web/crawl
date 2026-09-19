@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pick Me Pet Store",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "458778",
+    "phone_number": "+91 77955 43478",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 189,
+    "address": "beside hfd restaurant, Azad Nagar, Raichur, Karnataka 584101",
+    "area": "Azad Nagar",
+    "latitude": 16.197030899999998,
+    "longitude": 77.3472298,
+    "place_id": "ChIJ-0VnQqbXyTsRnAfnA2Lvwfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-0VnQqbXyTsRnAfnA2Lvwfk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:10:37"
+  },
+  {
+    "business_name": "Qaswa aquatics and pets",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Aquarium, Aquarium shop, Bird shop",
+    "pincode": "458778",
+    "phone_number": "+91 93535 75750",
+    "website": "https://qaswa-aquatics-and.grexa.site/",
+    "rating": 5,
+    "reviews_count": 187,
+    "address": "1st cross, near petrol pump, Tippu Nagar, Joythinagar, Chikkamagaluru, Karnataka 577101",
+    "area": "Tippu Nagar, Joythinagar",
+    "latitude": 13.3200521,
+    "longitude": 75.7771571,
+    "place_id": "ChIJwQgIqn7XujsRF4wICN63I3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQgIqn7XujsRF4wICN63I3g",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:10:37"
+  }
+]

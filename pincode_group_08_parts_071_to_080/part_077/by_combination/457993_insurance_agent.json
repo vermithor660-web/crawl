@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HDFC Bank",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance company",
+    "all_categories": "Insurance company, ATM, Business banking service, Car finance and loan company, Financial institution, Bank, Investment service, Loan agency, Private Sector Bank, Savings bank",
+    "pincode": "457993",
+    "phone_number": "+91 1800 1601",
+    "website": "https://www.hdfc.bank.in/branch-locator/madhyapradesh/jhabua/hdfcbank-branch-jhabua",
+    "rating": 3.5,
+    "reviews_count": 12,
+    "address": "Bldg No 103, Ward No 1, Gr & 1st Floor, Anandilal Parikh Marg, College Road, Jhabua, Madhya Pradesh 457661",
+    "area": "College Road",
+    "latitude": 22.7672497,
+    "longitude": 74.5898307,
+    "place_id": "ChIJtywWhNUMYTkRLBCnRxD9xB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtywWhNUMYTkRLBCnRxD9xB0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:24:59"
+  },
+  {
+    "business_name": "HDFC ERGO Insurance Agent: Anjani Kr Jaiswal",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, Auto insurance agency, Health insurance agency, Home insurance agency, Motorcycle insurance agency",
+    "pincode": "457993",
+    "phone_number": "+91 8071 888 813",
+    "website": "https://agent.hdfcergo.com/hdfc-ergo-insurance-agent-anjani-kr-jaiswal-insurance-broker-bokolia-karbi-anglong-368101/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No 192, near Bakalia Lamps Ltd, Bokolia, Assam 782482",
+    "area": "457993",
+    "latitude": 26.057761,
+    "longitude": 93.192921,
+    "place_id": "ChIJRZBHsk6jRTcRF4yPrNVZIeM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRZBHsk6jRTcRF4yPrNVZIeM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:24:59"
+  }
+]

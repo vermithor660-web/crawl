@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Roy clinic & ksharsutra center",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "458389",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "6F27+RJ2, Chandwasa, Madhya Pradesh 458883",
+    "area": "458389",
+    "latitude": 24.202005099999997,
+    "longitude": 75.4640308,
+    "place_id": "ChIJx1TJDxWzZTkR3gknbdK2sl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx1TJDxWzZTkR3gknbdK2sl8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:48:28"
+  },
+  {
+    "business_name": "Dr Pooja Aswani, Mandsaur",
+    "search_category": "Polyclinic",
+    "primary_category": "Obstetrician-gynecologist",
+    "all_categories": "Obstetrician-gynecologist, Doctor, Maternity Centre",
+    "pincode": "458389",
+    "phone_number": "+91 83054 19828",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 74,
+    "address": "Dr Pooja Aswani Clinic, Sai Sadan, DKY vali gali, Kalakhet, Mandsaur, Madhya Pradesh 458001",
+    "area": "Kalakhet",
+    "latitude": 24.071385,
+    "longitude": 75.0705021,
+    "place_id": "ChIJHckVuOgtZDkRk5lLSwdeMNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHckVuOgtZDkRk5lLSwdeMNM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:48:30"
+  }
+]

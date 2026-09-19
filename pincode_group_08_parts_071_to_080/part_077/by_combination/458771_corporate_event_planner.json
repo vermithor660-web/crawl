@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R K Event.co",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "458771",
+    "phone_number": "+91 83700 12146",
+    "website": "https://www.rkevent.co/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Chouraha, near Ravishankar School, Rajeev Nagar Ward, Moti Nagar, Sagar, Madhya Pradesh 470002",
+    "area": "Rajeev Nagar Ward, Moti Nagar",
+    "latitude": 23.8367619,
+    "longitude": 78.7262793,
+    "place_id": "ChIJuxcP-73XeDkRkGxsxQaWPiY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuxcP-73XeDkRkGxsxQaWPiY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:07:56"
+  },
+  {
+    "business_name": "Crown Events and Decore",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Balloon artist, Balloon store, Event management company, Caterer, Florist, Flower designer, Interior Decorator, Restaurant supply store",
+    "pincode": "458771",
+    "phone_number": "+91 70671 25832",
+    "website": "https://decorator-in-sagar.odoo.com/",
+    "rating": 5,
+    "reviews_count": 28,
+    "address": "behind trends showroom, Padmakar Nagar, Makroniya, Sagar, Madhya Pradesh 470004",
+    "area": "Padmakar Nagar",
+    "latitude": 23.8514159,
+    "longitude": 78.7902309,
+    "place_id": "ChIJrdZZ0M_ReDkR5gfIQEhdar4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrdZZ0M_ReDkR5gfIQEhdar4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:07:56"
+  }
+]

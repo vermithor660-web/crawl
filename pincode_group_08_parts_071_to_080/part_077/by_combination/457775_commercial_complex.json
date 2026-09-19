@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navratna Kirana",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "457775",
+    "phone_number": "+91 94248 14089",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "MWHW+4GP, Rajgarh, Madhya Pradesh 454116",
+    "area": "457775",
+    "latitude": 22.677841299999997,
+    "longitude": 74.9463272,
+    "place_id": "ChIJRxpx7ux_YTkRNS5uhFmRRXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxpx7ux_YTkRNS5uhFmRRXQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:10:50"
+  },
+  {
+    "business_name": "Divit Online Services",
+    "search_category": "Commercial Complex",
+    "primary_category": "Business banking service",
+    "all_categories": "Business banking service",
+    "pincode": "457775",
+    "phone_number": "+91 70008 04815",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Palika Nidhi Complex, Rajgarh Rd, Rajgarh, Madhya Pradesh 454116",
+    "area": "457775",
+    "latitude": 22.6783231,
+    "longitude": 74.9481203,
+    "place_id": "ChIJyaHws6l_YTkRsahIOeX53sY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyaHws6l_YTkRsahIOeX53sY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:10:52"
+  }
+]

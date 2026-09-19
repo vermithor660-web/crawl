@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DIVYA AUTOMOBILES",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "458330",
+    "phone_number": "+91 90445 37733",
+    "website": "https://carsell.in/",
+    "rating": 4.5,
+    "reviews_count": 62,
+    "address": "Main Lalitpur rode, Hansari, Jhansi, Uttar Pradesh 284135",
+    "area": "Hansari",
+    "latitude": 25.4097378,
+    "longitude": 78.56335969999999,
+    "place_id": "ChIJqUaYVaF7dzkRKU-dVP1RutA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqUaYVaF7dzkRKU-dVP1RutA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:42:54"
+  },
+  {
+    "business_name": "CHETAK CAR",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "458330",
+    "phone_number": "+91 77377 22975",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 34,
+    "address": "Kumbha Nagar, Chittorgarh, Rajasthan 312001",
+    "area": "Kumbha Nagar",
+    "latitude": 24.8872333,
+    "longitude": 74.62081909999999,
+    "place_id": "ChIJC6dRQAChaDkRuuSOOaraPiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC6dRQAChaDkRuuSOOaraPiw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:42:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Common Service Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "457777",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RRR7+PJ, Gobekram, Meghalaya 794112",
+    "area": "457777",
+    "latitude": 25.841818,
+    "longitude": 90.814115,
+    "place_id": "ChIJW5UBevjbWTcRgXG4kdec0Sk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW5UBevjbWTcRgXG4kdec0Sk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:12:12"
+  },
+  {
+    "business_name": "csc center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Information services",
+    "all_categories": "Information services",
+    "pincode": "457777",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "XFVW+C68, Gabha, Gujarat 362150",
+    "area": "457777",
+    "latitude": 20.993538299999997,
+    "longitude": 70.49558189999999,
+    "place_id": "ChIJnaZPAgDL4jsRiT6zKX13Z4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnaZPAgDL4jsRiT6zKX13Z4w",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:12:15"
+  }
+]

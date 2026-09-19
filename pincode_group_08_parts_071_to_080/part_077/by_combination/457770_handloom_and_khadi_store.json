@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Handloom House",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "457770",
+    "phone_number": "+91 2673 221 616",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "1767, Mahatma Gandhi Rd, Nazami Mohalla, Hamidi Moholla, Govindnagar, Dahod, Gujarat 389151",
+    "area": "Nazami Mohalla, Hamidi Moholla, Govindnagar",
+    "latitude": 22.8324669,
+    "longitude": 74.2562055,
+    "place_id": "ChIJjxWS1KgdYTkRAOzI8o0ngEY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjxWS1KgdYTkRAOzI8o0ngEY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:03:57"
+  },
+  {
+    "business_name": "Panchsheel Khadi Bhavan",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "457770",
+    "phone_number": "+91 265 248 8984",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Lok Sevak Market, 40-41, Sangam Char Rasta, Saikrupa society, Karelibagh, Vadodara, Gujarat 390022",
+    "area": "Sangam Char Rasta, Saikrupa society, Karelibagh",
+    "latitude": 22.319632199999997,
+    "longitude": 73.21111669999999,
+    "place_id": "ChIJGbvKiWzPXzkR6B3tuRvOhRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGbvKiWzPXzkR6B3tuRvOhRU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:03:57"
+  }
+]

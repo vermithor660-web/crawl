@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Shree Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "458339",
+    "phone_number": "+91 86026 09939",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Manasa - Piplia Mandi Rd, near HDFC Bank, Mandsaur, Panth Pipalia, Madhya Pradesh 458664",
+    "area": "458339",
+    "latitude": 24.202611299999997,
+    "longitude": 75.00505369999999,
+    "place_id": "ChIJMXTwSKjVZTkR9ioNZ6P7J0k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMXTwSKjVZTkR9ioNZ6P7J0k",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:47:16"
+  },
+  {
+    "business_name": "Lucky Home Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "458339",
+    "phone_number": "+91 98934 98266",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Relway Fatak, Piplia Mandi, Madhya Pradesh 458664",
+    "area": "458339",
+    "latitude": 24.2010005,
+    "longitude": 75.01020969999999,
+    "place_id": "ChIJu80PJkDVZTkRPIBoeefOeQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu80PJkDVZTkRPIBoeefOeQk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:47:16"
+  }
+]

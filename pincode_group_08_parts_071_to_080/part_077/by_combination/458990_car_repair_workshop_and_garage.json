@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Auto Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "458990",
+    "phone_number": "+91 99938 28583",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Suwasra Road, Titrod, Palyakhedi, Madhya Pradesh 458990",
+    "area": "458990",
+    "latitude": 24.0222175,
+    "longitude": 75.4197445,
+    "place_id": "ChIJQQ1hEPFJZDkRccYb9_bIjeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQQ1hEPFJZDkRccYb9_bIjeo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:20:37"
+  },
+  {
+    "business_name": "Classic Car Care : Wheel Alignment & Wheel Balancing",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "458990",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "33Q3+2V9, Mhow - Neemuch Rd, near Ashok Toll Kanta, Steel Nagar, Mandsaur, Madhya Pradesh 458001",
+    "area": "Steel Nagar",
+    "latitude": 24.0875424,
+    "longitude": 75.0547225,
+    "place_id": "ChIJh0-d8RMrZDkRVZiQsrB0JGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh0-d8RMrZDkRVZiQsrB0JGE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:20:37"
+  }
+]

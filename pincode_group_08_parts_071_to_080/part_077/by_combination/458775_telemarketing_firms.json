@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lakhan Trading",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "458775",
+    "phone_number": "+91 87199 67683",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ramoura Drvaja, Garoth, Madhya Pradesh 458880",
+    "area": "458775",
+    "latitude": 24.323859,
+    "longitude": 75.6478788,
+    "place_id": "ChIJ7xNSXoKpZTkRc2sha1IeHeA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7xNSXoKpZTkRc2sha1IeHeA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:10:23"
+  },
+  {
+    "business_name": "Narmada Marketing",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Agricultural Product Wholesaler",
+    "all_categories": "Agricultural Product Wholesaler, Cement Supplier",
+    "pincode": "458775",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "No 01, Narmada Marketing, Bazar, near Yes Bank, Ramganj Mandi, Rajasthan 326519",
+    "area": "458775",
+    "latitude": 24.6463672,
+    "longitude": 75.9418184,
+    "place_id": "ChIJCUmqIrltZTkRfHRe6810kKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCUmqIrltZTkRfHRe6810kKk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:10:25"
+  }
+]

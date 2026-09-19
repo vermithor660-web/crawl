@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Dance Hub fitness & Studio",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Hip Hop Dance Class",
+    "all_categories": "Hip Hop Dance Class",
+    "pincode": "458113",
+    "phone_number": "+91 96855 55381",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FV69+844, Jain Bhavan Rd, Neemuch Chawni, Neemuch, Madhya Pradesh 458441",
+    "area": "Neemuch Chawni",
+    "latitude": 24.460758499999997,
+    "longitude": 74.86781289999999,
+    "place_id": "ChIJh9U1cQBzZjkRfZPVrlqyshk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh9U1cQBzZjkRfZPVrlqyshk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:32:18"
+  },
+  {
+    "business_name": "Kaneria arts & music classes",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Music instructor",
+    "all_categories": "Music instructor",
+    "pincode": "458113",
+    "phone_number": "+91 98934 96407",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "FV59+MJM, Neemuch Chawni, Neemuch, Madhya Pradesh 458441",
+    "area": "Neemuch Chawni",
+    "latitude": 24.4592206,
+    "longitude": 74.869036,
+    "place_id": "ChIJ-aMgqB5zZjkRCoMEfrc_u1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-aMgqB5zZjkRCoMEfrc_u1U",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:32:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Sawaliya General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "458664",
+    "phone_number": "+91 81209 60524",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bank Of India Wali, Gali, Manasa - Piplia Mandi Rd, Mahaveer Ganj, Pratap Colony, Panth Pipalia, Madhya Pradesh 458664",
+    "area": "Mahaveer Ganj, Pratap Colony",
+    "latitude": 24.2060493,
+    "longitude": 75.0098332,
+    "place_id": "ChIJLVXMEvHVZTkROrIUuk6twLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLVXMEvHVZTkROrIUuk6twLU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:01:09"
+  },
+  {
+    "business_name": "Pawar Kirana Store",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "458664",
+    "phone_number": "+91 62637 45487",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 01, Botal Road, Dhikanya, Ujagariya, Madhya Pradesh 458664",
+    "area": "458664",
+    "latitude": 24.169919999999998,
+    "longitude": 75.05295339999999,
+    "place_id": "ChIJYV8OX6zVZTkRaWFRgIscA_0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYV8OX6zVZTkRaWFRgIscA_0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:01:09"
+  }
+]

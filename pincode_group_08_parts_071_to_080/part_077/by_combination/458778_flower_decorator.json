@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bareilly Flower Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "458778",
+    "phone_number": "+91 88021 16498",
+    "website": "http://facebook.com/BareillyFlowerDecoration",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "103 Israeli, Aonla Shahabad Road, Sirauli, Uttar Pradesh 243303",
+    "area": "458778",
+    "latitude": 28.4951613,
+    "longitude": 79.0877759,
+    "place_id": "ChIJjerIDjsHoDkRzpkCK4LGw8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjerIDjsHoDkRzpkCK4LGw8Y",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:11:35"
+  },
+  {
+    "business_name": "party store by decor hub",
+    "search_category": "Flower Decorator",
+    "primary_category": "Balloon store",
+    "all_categories": "Balloon store",
+    "pincode": "458778",
+    "phone_number": "+91 97827 33682",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "somnath circle, Ganesh Pura Rd, Somnath Colony, Dausa, Rajasthan 303303",
+    "area": "Somnath Colony",
+    "latitude": 26.9029118,
+    "longitude": 76.3544596,
+    "place_id": "ChIJ_cbS_oSNbTkRNRwWA57zWOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_cbS_oSNbTkRNRwWA57zWOo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:11:35"
+  }
+]

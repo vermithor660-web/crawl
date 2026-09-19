@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Ice Candy And Restaurant",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Ice supplier",
+    "pincode": "458113",
+    "phone_number": "+91 96699 91919",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "16, Bashtand, Jharda, Madhya Pradesh 458553",
+    "area": "Bashtand",
+    "latitude": 24.3375553,
+    "longitude": 75.1045638,
+    "place_id": "ChIJ5yGSAP3RZTkRYsCFoTrrzk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5yGSAP3RZTkRYsCFoTrrzk0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:31:16"
+  },
+  {
+    "business_name": "Havmor Ice Cream",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "458113",
+    "phone_number": "+91 98936 47046",
+    "website": "https://www.havmor.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Tagore Marg, CRPF Road, Neemuch, Madhya Pradesh 458441",
+    "area": "Nagar Palika Colony, Neemuch Chawni",
+    "latitude": 24.461140699999998,
+    "longitude": 74.8658286,
+    "place_id": "ChIJWWnto4NzZjkREkSrCReHQZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWWnto4NzZjkREkSrCReHQZ0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:31:18"
+  }
+]

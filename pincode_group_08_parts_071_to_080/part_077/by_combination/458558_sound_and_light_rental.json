@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Electronic Goods",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Office supply store",
+    "all_categories": "Office supply store",
+    "pincode": "458558",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Electronic Guards S-60, S-60, Okhla Phase II, Okhla, New Delhi, Delhi 110020",
+    "area": "S-60, Okhla Phase II, Okhla",
+    "latitude": 28.537457,
+    "longitude": 77.279111,
+    "place_id": "ChIJv-DaJmnjDDkRJ6kpmlPQvOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv-DaJmnjDDkRJ6kpmlPQvOI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:00:22"
+  },
+  {
+    "business_name": "BALAJI COLLECTION AND SAFA HOUSE",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "458558",
+    "phone_number": "+91 91315 56320",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "front of old government hospital, road, near Pipliya mandi, Piplia Mandi, Madhya Pradesh 458664",
+    "area": "458558",
+    "latitude": 24.2070915,
+    "longitude": 75.012564,
+    "place_id": "ChIJ68PIAqjVZTkRFo0gAKDAlaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ68PIAqjVZTkRFo0gAKDAlaM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:00:22"
+  }
+]

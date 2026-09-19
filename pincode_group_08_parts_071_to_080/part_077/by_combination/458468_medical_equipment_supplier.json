@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gourav medical store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "458468",
+    "phone_number": "+91 95752 07433",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nayagaon, Madhya Pradesh 458468",
+    "area": "458468",
+    "latitude": 24.563467,
+    "longitude": 74.7720001,
+    "place_id": "ChIJc93gknUTZjkRLD5lZS3qkhU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc93gknUTZjkRLD5lZS3qkhU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:52:18"
+  },
+  {
+    "business_name": "Fortune Medicals",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "458468",
+    "phone_number": "+91 98253 41663",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "B 52/53, Railway Station Rd, behind ongc health center, Falshruti Nagar, Moficer Jin Compound, Bharuch, Gujarat 392001",
+    "area": "Falshruti Nagar, Moficer Jin Compound",
+    "latitude": 21.7052446,
+    "longitude": 72.9957104,
+    "place_id": "ChIJrcHT1BQh4DsRCvih2Y91oAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrcHT1BQh4DsRCvih2Y91oAY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:52:19"
+  }
+]

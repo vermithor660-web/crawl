@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "prime interior",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "457882",
+    "phone_number": "+91 89894 24304",
+    "website": "https://primeinterior.netlify.app/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "22, VT Rd, Alirajpur, Madhya Pradesh 457887",
+    "area": "457882",
+    "latitude": 22.3035146,
+    "longitude": 74.354066,
+    "place_id": "ChIJO8X5aiq3YTkRDe-VpO86vAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO8X5aiq3YTkRDe-VpO86vAA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:15:24"
+  },
+  {
+    "business_name": "RR CONSTRUCTIONS",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "457882",
+    "phone_number": "+91 97134 14929",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1, Alirajpur - khattali Chhoti Rd, near VETENARY HOSPITAL, RAKSHA, Alirajpur, Madhya Pradesh 457887",
+    "area": "RAKSHA",
+    "latitude": 22.3054322,
+    "longitude": 74.3607243,
+    "place_id": "ChIJNUV66Sm3YTkRcFIZAHVogJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNUV66Sm3YTkRcFIZAHVogJw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:15:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Priyanka Bhojnalay Rampura",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "458116",
+    "phone_number": "+91 78287 11520",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "FC87+R7J, MP SH 31A, Dudhlai, Madhya Pradesh 458118",
+    "area": "458116",
+    "latitude": 24.467095,
+    "longitude": 75.4131262,
+    "place_id": "ChIJhYthwcO5ZTkRBiHhQ1mk9QY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhYthwcO5ZTkRBiHhQ1mk9QY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:33:05"
+  },
+  {
+    "business_name": "Jay joganiya daba",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Soup kitchen",
+    "pincode": "458116",
+    "phone_number": "+91 90981 68687",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rampura, Dudhlai, Madhya Pradesh 458118",
+    "area": "Rampura",
+    "latitude": 24.469155,
+    "longitude": 75.4011702,
+    "place_id": "ChIJEViDKAC5ZTkRr_oQimZ0vts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEViDKAC5ZTkRr_oQimZ0vts",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:33:08"
+  }
+]

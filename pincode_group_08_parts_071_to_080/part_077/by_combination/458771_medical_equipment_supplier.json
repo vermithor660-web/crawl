@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bio Medical Systems Private Limited",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "458771",
+    "phone_number": "+91 731 409 9250",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "EA-42, Ring Rd, near nipaniya circle, Vrindavan Palace Colony, Sector A, Scheme 94, Indore, Madhya Pradesh 452010",
+    "area": "Vrindavan Palace Colony, Sector A, Scheme 94",
+    "latitude": 22.7698266,
+    "longitude": 75.9090366,
+    "place_id": "ChIJ____s079YjkRBY7Rytjbh9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____s079YjkRBY7Rytjbh9U",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:07:20"
+  },
+  {
+    "business_name": "Medonis",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Pharmaceutical Products Wholesaler",
+    "all_categories": "Pharmaceutical Products Wholesaler",
+    "pincode": "458771",
+    "phone_number": "+91 94172 49000",
+    "website": "http://www.medonis.in/",
+    "rating": 4.9,
+    "reviews_count": 28,
+    "address": "306 A, Shreenath Plaza, Hospital Rd, Madhuban, Udaipur, Rajasthan 313001",
+    "area": "Madhuban",
+    "latitude": 24.590576,
+    "longitude": 73.693175,
+    "place_id": "ChIJ46x2v3PlZzkRyTAu7dGrzwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ46x2v3PlZzkRyTAu7dGrzwM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:07:20"
+  }
+]

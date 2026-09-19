@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nazaakat",
+    "search_category": "Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "458002",
+    "phone_number": "+91 77700 35983",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gautam Nagar, Kalakhet, Mandsaur, Madhya Pradesh 458002",
+    "area": "Gautam Nagar, Kalakhet",
+    "latitude": 24.0634889,
+    "longitude": 75.0700559,
+    "place_id": "ChIJ-beff6svZDkRqVnAhUNqi1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-beff6svZDkRqVnAhUNqi1A",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:29:08"
+  },
+  {
+    "business_name": "babji store watch sale and services",
+    "search_category": "Shops",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "458002",
+    "phone_number": "+91 78696 44463",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "sadar bazar, Mandsaur, Madhya Pradesh 458002",
+    "area": "sadar bazar",
+    "latitude": 24.061112599999998,
+    "longitude": 75.0701515,
+    "place_id": "ChIJEWYK3bkvZDkRMiqs1iLzi9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEWYK3bkvZDkRMiqs1iLzi9g",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:29:09"
+  }
+]

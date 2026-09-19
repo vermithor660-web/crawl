@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vikram Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "458895",
+    "phone_number": "+91 97704 27724",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sitamau Rd, Digaonmali, Madhya Pradesh 458895",
+    "area": "458895",
+    "latitude": 24.046782099999998,
+    "longitude": 75.15120809999999,
+    "place_id": "ChIJ55MItHsvZDkRIijIQM_NaTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ55MItHsvZDkRIijIQM_NaTQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:18:07"
+  },
+  {
+    "business_name": "Tirupati Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "458895",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "33G6+VXG, Janta Colony, Mandsaur, Madhya Pradesh 458001",
+    "area": "Janta Colony",
+    "latitude": 24.0771768,
+    "longitude": 75.0624595,
+    "place_id": "ChIJA15plgcsZDkRPV-qFwE78BQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA15plgcsZDkRPV-qFwE78BQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:18:08"
+  }
+]

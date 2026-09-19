@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sandeep",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "457779",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XC48+XH2, Nawapadapal, Madhya Pradesh 457779",
+    "area": "457779",
+    "latitude": 22.9573952,
+    "longitude": 74.41637639999999,
+    "place_id": "ChIJE2QaWQAXYTkRCa0XzJvbfp0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE2QaWQAXYTkRCa0XzJvbfp0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:12:57"
+  },
+  {
+    "business_name": "Piu",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "457779",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "WF8V+J9F, Juni Rambhapur, Madhya Pradesh 457779",
+    "area": "457779",
+    "latitude": 22.9165515,
+    "longitude": 74.49341679999999,
+    "place_id": "ChIJP2GUxjEXYTkRe0XobtEkwWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP2GUxjEXYTkRe0XobtEkwWw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:12:57"
+  }
+]

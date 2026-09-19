@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Juice & Co.",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "458002",
+    "phone_number": "+91 70657 05050",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Geotech Pristine Avenue, Gaur City 2, Greater Noida, Ghaziabad, Uttar Pradesh 201009",
+    "area": "Gaur City 2",
+    "latitude": 28.620069299999997,
+    "longitude": 77.42305309999999,
+    "place_id": "ChIJq6oBocrvDDkR7MZ-CEIxflE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6oBocrvDDkR7MZ-CEIxflE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:27:26"
+  },
+  {
+    "business_name": "Juice corner",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "458002",
+    "phone_number": "+91 97840 86881",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "d4-5, Jaipur Expressway, near space Delhi, Jhotwara Industrial Area, Jaipur, Rajasthan 302016",
+    "area": "Jhotwara Industrial Area, Bani Park",
+    "latitude": 26.9352308,
+    "longitude": 75.7924359,
+    "place_id": "ChIJz1F0Ku-zbTkRnKEKbkkCuTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz1F0Ku-zbTkRnKEKbkkCuTQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:27:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shribeni",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Manufacturer",
+    "pincode": "458118",
+    "phone_number": "+91 94259 23843",
+    "website": "http://www.shribeni.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "28, 29, Industrial Area, Schme No. 36 - B, Jaju Nagar, Neemuch, Madhya Pradesh 458441",
+    "area": "Industrial Area, Schme No. 36 - B, Jaju Nagar",
+    "latitude": 24.4772742,
+    "longitude": 74.8702943,
+    "place_id": "ChIJv8Ft84NzZjkRXCFuw8JuytU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv8Ft84NzZjkRXCFuw8JuytU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:34:49"
+  },
+  {
+    "business_name": "Gupta Rice And General Mills",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "458118",
+    "phone_number": "+91 98960 43019",
+    "website": "http://shahikhana.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Guhla Rd, Cheeka, Haryana 136035",
+    "area": "458118",
+    "latitude": 30.045873099999998,
+    "longitude": 76.3180636,
+    "place_id": "ChIJC3T67KnRETkRJwHF3QXjmBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC3T67KnRETkRJwHF3QXjmBs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:34:49"
+  }
+]

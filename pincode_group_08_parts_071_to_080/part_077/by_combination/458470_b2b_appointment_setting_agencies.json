@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BCloudSolution",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business to business service",
+    "all_categories": "Business to business service, Software company, Internet marketing service, Marketing agency",
+    "pincode": "458470",
+    "phone_number": "+91 95448 07727",
+    "website": "http://www.bcloudsolution.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1St Floor, 7992+93H Meppilly Arcade, near Infopark Road, Jamuna Nagar, Koratty, Keralam 680308",
+    "area": "Jamuna Nagar",
+    "latitude": 10.2684375,
+    "longitude": 76.35018749999999,
+    "place_id": "ChIJC7CJNQADCDsRO4bamhPCbXI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC7CJNQADCDsRO4bamhPCbXI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:55:24"
+  },
+  {
+    "business_name": "WeHelp Business Directory",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business to business service",
+    "all_categories": "Business to business service, Advertising agency, Business networking company, Database Management Company, Service establishment, Internet marketing service, Internet service provider, Marketing agency",
+    "pincode": "458470",
+    "phone_number": "+91 82530 00666",
+    "website": "https://wehelp.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WeHelp Business Directory, 458470, India",
+    "area": "458470",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJOxu7C1TFBzsR5GTBJLmzy6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOxu7C1TFBzsR5GTBJLmzy6o",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:55:24"
+  }
+]

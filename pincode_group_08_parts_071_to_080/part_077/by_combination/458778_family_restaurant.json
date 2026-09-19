@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanwaliya restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "458778",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GVJ6+6VW, Jhalawar road, choraha, Ledi, Sandhara, Madhya Pradesh 458778",
+    "area": "choraha",
+    "latitude": 24.5312129,
+    "longitude": 75.8620682,
+    "place_id": "ChIJ8_ARTgANZTkRSPfx1TjEa4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8_ARTgANZTkRSPfx1TjEa4Y",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:10:43"
+  },
+  {
+    "business_name": "ROYAL FAMILY AND RESTAURANT DHABA",
+    "search_category": "Family Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "458778",
+    "phone_number": "+91 82248 66488",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NE 4, Side Road, near Delhi - Mumbai Expressway, Mumbai, Kuntalkhedi, Madhya Pradesh 458778",
+    "area": "458778",
+    "latitude": 24.4229311,
+    "longitude": 75.74190089999999,
+    "place_id": "ChIJb6V8iuEJZTkR8yvBfrMVNgQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb6V8iuEJZTkR8yvBfrMVNgQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:10:43"
+  }
+]

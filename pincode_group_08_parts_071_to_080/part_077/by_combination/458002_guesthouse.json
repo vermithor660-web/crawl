@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BHARAT VATIKA Guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "458002",
+    "phone_number": "+91 91796 31383",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 36,
+    "address": "Behind bus stand, Sitamau, Madhya Pradesh 458990",
+    "area": "458002",
+    "latitude": 24.013424099999998,
+    "longitude": 75.354171,
+    "place_id": "ChIJb9xMlQ9IZDkRbevbQOjVSYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb9xMlQ9IZDkRbevbQOjVSYg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:28:23"
+  },
+  {
+    "business_name": "Hotel Neelam, Mandsaur",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "458002",
+    "phone_number": "+91 74222 22922",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 158,
+    "address": "Road, Near Old Bus Stand, Kalakhet, Mandsaur, Madhya Pradesh 458002",
+    "area": "Kalakhet",
+    "latitude": 24.065044699999998,
+    "longitude": 75.0705163,
+    "place_id": "ChIJcxfg-aguZDkRgb_rd_zUsjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcxfg-aguZDkRgb_rd_zUsjM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:28:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Chintan Vyas (Child Specialist)",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Hospital",
+    "pincode": "457777",
+    "phone_number": "+91 2832 225 718",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "6MQC+QWQ, 49-A, Lotus Colony street No.2 opp. Patel eye hospital Chandan Medical Street, 49/B, Hospital Rd, Lotus Colony, Madhapar, Bhuj, Gujarat 370001",
+    "area": "Lotus Colony, Madhapar",
+    "latitude": 23.239433,
+    "longitude": 69.6722896,
+    "place_id": "ChIJd9D3J-PhUDkRPOsqyxddo3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd9D3J-PhUDkRPOsqyxddo3U",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:11:23"
+  },
+  {
+    "business_name": "BalGopal Children Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Children's hospital",
+    "all_categories": "Children's hospital, Research institute",
+    "pincode": "457777",
+    "phone_number": "+91 77142 25610",
+    "website": "http://www.balgopalhospital.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Near Mahila Police Thane, Byron Bazar Rd, Byron Bazar, Raipur, Chhattisgarh 492001",
+    "area": "Byron Bazar, Janta Colony",
+    "latitude": 21.2350499,
+    "longitude": 81.6414499,
+    "place_id": "ChIJp-ZG06XdKDoRV7wBPIehbn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp-ZG06XdKDoRV7wBPIehbn8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:11:23"
+  }
+]

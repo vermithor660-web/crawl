@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Just footprint",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "457772",
+    "phone_number": "+91 76977 07069",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 23,
+    "address": "opp. State bank of india, Jhanda Chowk, Barwani, Madhya Pradesh 451551",
+    "area": "Jhanda Chowk",
+    "latitude": 22.033305,
+    "longitude": 74.89652679999999,
+    "place_id": "ChIJ-_M9VVT5YTkRGLSy0pvfYk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-_M9VVT5YTkRGLSy0pvfYk4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:05:43"
+  },
+  {
+    "business_name": "Famous Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "457772",
+    "phone_number": "N/A",
+    "website": "https://www.famousfootwear.com/",
+    "rating": 4.9,
+    "reviews_count": 12,
+    "address": "Main Road, near Bus Stand, Tejgadh, Gujarat 391156",
+    "area": "457772",
+    "latitude": 22.348941399999998,
+    "longitude": 73.906695,
+    "place_id": "ChIJjRZ3R9pDYDkR12jbA6WPzF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjRZ3R9pDYDkR12jbA6WPzF0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:05:43"
+  }
+]

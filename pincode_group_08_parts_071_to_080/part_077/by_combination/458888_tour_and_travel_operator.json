@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "tour_wala",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "458888",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Main Rd, Shamgarh, Madhya Pradesh 458883",
+    "area": "458888",
+    "latitude": 24.187554,
+    "longitude": 75.6386325,
+    "place_id": "ChIJf_39nZpVZDkRpdVdixpHt_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf_39nZpVZDkRpdVdixpHt_8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:16:54"
+  },
+  {
+    "business_name": "श्री महालक्मी टूर एंड ट्रैवल्स | Travel agency in Suwasra",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "458888",
+    "phone_number": "+91 95899 92466",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Runija, road, Suwasra, MANDSAUR, Madhya Pradesh 458888",
+    "area": "458888",
+    "latitude": 24.0718298,
+    "longitude": 75.6578522,
+    "place_id": "ChIJo9yM5qNXZDkRt2AY9vPJ9rc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo9yM5qNXZDkRt2AY9vPJ9rc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:16:56"
+  }
+]

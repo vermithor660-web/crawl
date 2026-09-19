@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAHAS Physiotherapy Centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "457775",
+    "phone_number": "+91 99774 78119",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Chandrashekhar Azad Marg, Rajamani Nagar, Rajgarh, Madhya Pradesh 454111",
+    "area": "Rajamani Nagar",
+    "latitude": 22.6749264,
+    "longitude": 74.9461769,
+    "place_id": "ChIJu2_D-aR_YTkRLGFVB5E3P48",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu2_D-aR_YTkRLGFVB5E3P48",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:10:02"
+  },
+  {
+    "business_name": "SAMARTH Psychotherapy & Counselling Centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Psychologist",
+    "all_categories": "Psychologist, Career guidance service, Child psychologist, Counselor, Family counselor, Life coach, Mental health service, Psychotherapist, Wellness center",
+    "pincode": "457775",
+    "phone_number": "+91 93009 10036",
+    "website": "https://clinicalpsychologistindia.com/",
+    "rating": 4.4,
+    "reviews_count": 128,
+    "address": "Heritage, Opp. Hukumchand Tower, Mahatma Gandhi Rd, Indore, Madhya Pradesh 452003",
+    "area": "Opp. Hukum Chand Ghanta Ghar, New Palasia",
+    "latitude": 22.72319,
+    "longitude": 75.8829181,
+    "place_id": "ChIJRQlZKT_9YjkRHRU-JJBqNnQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQlZKT_9YjkRHRU-JJBqNnQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:10:05"
+  }
+]

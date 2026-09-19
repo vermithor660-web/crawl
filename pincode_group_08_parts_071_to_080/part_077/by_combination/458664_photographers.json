@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "One9 Pictures",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "458664",
+    "phone_number": "+91 92025 00366",
+    "website": "https://one9pictures.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bank Colony, 2, Nahar Sayyed Rd, Janta Colony, Mandsaur, Madhya Pradesh 458001",
+    "area": "Janta Colony",
+    "latitude": 24.0826882,
+    "longitude": 75.063581,
+    "place_id": "ChIJQ8XKbAAtZDkRKwFmF0BjUSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ8XKbAAtZDkRKwFmF0BjUSg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:02:17"
+  },
+  {
+    "business_name": "Rishabh Studio India",
+    "search_category": "Photographers",
+    "primary_category": "Photographer",
+    "all_categories": "Photographer, Photography service",
+    "pincode": "458664",
+    "phone_number": "+91 97551 94102",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 5,
+    "address": "Geeta Bhawan Rd, Nai Abaadi, Mandsaur, Madhya Pradesh 458001",
+    "area": "Nai Abaadi",
+    "latitude": 24.0819652,
+    "longitude": 75.07112819999999,
+    "place_id": "ChIJR7ALzg8sZDkR-JpW7CMmT7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR7ALzg8sZDkR-JpW7CMmT7s",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:02:17"
+  }
+]

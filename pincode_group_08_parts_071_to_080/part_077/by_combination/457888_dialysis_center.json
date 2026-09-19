@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Apollo Dialysis",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center",
+    "pincode": "457888",
+    "phone_number": "+91 95715 31266",
+    "website": "https://www.apollodialysis.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Eternal hospital, Sanganer, Jaipur, Rajasthan 302029",
+    "area": "Sanganer",
+    "latitude": 26.818640499999997,
+    "longitude": 75.7948357,
+    "place_id": "ChIJNcLh4KjLbTkRUGeEmcqZxdk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNcLh4KjLbTkRUGeEmcqZxdk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:20:36"
+  },
+  {
+    "business_name": "Mohit Dialysis Center",
+    "search_category": "Dialysis Center",
+    "primary_category": "Dialysis center",
+    "all_categories": "Dialysis center, Nephrologist",
+    "pincode": "457888",
+    "phone_number": "+91 78303 82000",
+    "website": "http://www.panaceahospitals.com/",
+    "rating": 4.9,
+    "reviews_count": 36,
+    "address": "197, Haridwar Rd, near Swami Dayanand Saraswati Setu, Danda Dharampur, Dharampur, Dehradun, Uttarakhand 248001",
+    "area": "Danda Dharampur, Dharampur",
+    "latitude": 30.2963252,
+    "longitude": 78.0557838,
+    "place_id": "ChIJqxpniXcpCTkRYTYn6aKXqug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqxpniXcpCTkRYTYn6aKXqug",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:20:36"
+  }
+]

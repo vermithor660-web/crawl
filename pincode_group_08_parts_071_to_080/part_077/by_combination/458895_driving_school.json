@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nagar Sewa",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "458895",
+    "phone_number": "+91 97526 85773",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vikram 750, Nagar Sewa, Mandsaur, Madhya Pradesh 458002",
+    "area": "458895",
+    "latitude": 24.0611079,
+    "longitude": 75.08516689999999,
+    "place_id": "ChIJhRtdwggvZDkRlSFC35CKFqM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhRtdwggvZDkRlSFC35CKFqM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:18:51"
+  },
+  {
+    "business_name": "Dilip Auto Agency Yamaha",
+    "search_category": "Driving School",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "458895",
+    "phone_number": "+91 98264 43939",
+    "website": "https://www.yamaha-motor-india.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward No 26, House No, 786, Mhow Neemuch Road, near Sitamau Fatak, Mandsaur, Madhya Pradesh 458002",
+    "area": "458895",
+    "latitude": 24.058838599999998,
+    "longitude": 75.0850468,
+    "place_id": "ChIJGyBZqZwvZDkRo0n8iIPFfyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGyBZqZwvZDkRo0n8iIPFfyI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:18:52"
+  }
+]

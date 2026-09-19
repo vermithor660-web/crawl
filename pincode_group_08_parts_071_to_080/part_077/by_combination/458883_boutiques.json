@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kailash Chuohan",
+    "search_category": "Boutiques",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "458883",
+    "phone_number": "+91 96852 39953",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Devnarayan Mandir, Hatuniya, Madhya Pradesh 458883",
+    "area": "458883",
+    "latitude": 24.2657077,
+    "longitude": 75.4633224,
+    "place_id": "ChIJvZeIWC-zZTkRoYTkoiT8D3Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvZeIWC-zZTkRoYTkoiT8D3Y",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:14:41"
+  },
+  {
+    "business_name": "Balaji Building material tails showroom suwasra",
+    "search_category": "Boutiques",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "458883",
+    "phone_number": "+91 96309 65956",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Dhalpat, Madhya Pradesh 458888",
+    "area": "458883",
+    "latitude": 24.0786618,
+    "longitude": 75.64022779999999,
+    "place_id": "ChIJ44NlLwBXZDkRSImlyAgROlU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ44NlLwBXZDkRSImlyAgROlU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:14:41"
+  }
+]

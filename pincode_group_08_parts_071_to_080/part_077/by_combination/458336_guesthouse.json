@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agrawal Dharamshala",
+    "search_category": "Guesthouse",
+    "primary_category": "Inn",
+    "all_categories": "Inn",
+    "pincode": "458336",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Fawwara chowk, near bus stand, Neemuch, Madhya Pradesh 458441",
+    "area": "458336",
+    "latitude": 24.4549159,
+    "longitude": 74.8730483,
+    "place_id": "ChIJyRH7HgBzZjkRx5PaQeEU6DM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyRH7HgBzZjkRx5PaQeEU6DM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:45:18"
+  },
+  {
+    "business_name": "Devndra's home",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "458336",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward N 17, Makan N 28, Road Ke Pass, Ambaw, Semli, Madhya Pradesh 458664",
+    "area": "458336",
+    "latitude": 24.1645914,
+    "longitude": 74.9173345,
+    "place_id": "ChIJjf90XSF_ZjkRqHTxCnjgcWw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjf90XSF_ZjkRqHTxCnjgcWw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:45:21"
+  }
+]

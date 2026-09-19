@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BHC Fitness Zone",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "458339",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 17,
+    "address": "GNG COMPLEX 2,3 & 4 FLOOR CHAMTI KHEDA ROAD, chamti kheda circle, New puliya, Chittorgarh, Rajasthan 312001",
+    "area": "New puliya, Kailash Nagar",
+    "latitude": 24.8818064,
+    "longitude": 74.6292529,
+    "place_id": "ChIJ6SGMk4ChaDkRWdWtwVDRbV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6SGMk4ChaDkRWdWtwVDRbV4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:46:38"
+  },
+  {
+    "business_name": "MK FITNESS CENTRE ATS",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "458339",
+    "phone_number": "+91 96022 34067",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "VG42+2FV, Abasar, Rajasthan 331505",
+    "area": "458339",
+    "latitude": 27.855768599999998,
+    "longitude": 74.5019516,
+    "place_id": "ChIJkxcOQQDLFDkRftNatjM1VKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkxcOQQDLFDkRftNatjM1VKE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:46:38"
+  }
+]

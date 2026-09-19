@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New kundan and family restorent",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "458883",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "6H8P+G67, Jamuniya, Madhya Pradesh 458883",
+    "area": "458883",
+    "latitude": 24.2162868,
+    "longitude": 75.5855505,
+    "place_id": "ChIJp88wB4atZTkRxgu3dgpGNcs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp88wB4atZTkRxgu3dgpGNcs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:14:29"
+  },
+  {
+    "business_name": "Shree Sanwaliya restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "458883",
+    "phone_number": "+91 98263 43435",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ujjain Rd, Varni, Madhya Pradesh 458880",
+    "area": "458883",
+    "latitude": 24.2914149,
+    "longitude": 75.6411719,
+    "place_id": "ChIJuS0WdtCrZTkRaHpSBebIa_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuS0WdtCrZTkRaHpSBebIa_Y",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:14:32"
+  }
+]

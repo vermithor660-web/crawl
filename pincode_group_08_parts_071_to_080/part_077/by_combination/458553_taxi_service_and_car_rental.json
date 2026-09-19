@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TaxiWale.com",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport Shuttle Service Provider, Bus tour agency, Car leasing service, Minibus taxi service, Sightseeing Tour Operator, Tour agency, Tour operator, Tourist information center",
+    "pincode": "458553",
+    "phone_number": "+91 96029 46666",
+    "website": "http://taxiwale.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Sector No 4, Shriji Vihar, Shop No 3, near Silver Square Apartment, New Vidhyanagar, Hiran Magri, Udaipur, Rajasthan 313002",
+    "area": "New Vidhyanagar, Sector 3, Hiran Magri",
+    "latitude": 24.5701935,
+    "longitude": 73.7355339,
+    "place_id": "ChIJE_KR00XvZzkRtJD2y9qi_wE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE_KR00XvZzkRtJD2y9qi_wE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:56:10"
+  },
+  {
+    "business_name": "99 City Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Cabin rental agency",
+    "pincode": "458553",
+    "phone_number": "+91 89418 08257",
+    "website": "https://99citycabs.com/booking/delhi-ncr-taxi-service",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Gali No. 8, near IGI Road, New Delhi, Delhi 110037",
+    "area": "458553",
+    "latitude": 28.544791099999998,
+    "longitude": 77.11452469999999,
+    "place_id": "ChIJsaYxZEsdDTkRL3LmCYRPjxg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsaYxZEsdDTkRL3LmCYRPjxg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:56:10"
+  }
+]

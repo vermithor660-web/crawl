@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "छतरपुर",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "458468",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HQ7C+3M8, Nayagaon, Madhya Pradesh 458468",
+    "area": "458468",
+    "latitude": 24.5626681,
+    "longitude": 74.7717112,
+    "place_id": "ChIJkVrqNwATZjkRrh5ZzwnFJGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkVrqNwATZjkRrh5ZzwnFJGE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:51:46"
+  },
+  {
+    "business_name": "Rahi Store",
+    "search_category": "Supermarket",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "458468",
+    "phone_number": "+91 63770 13296",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 143,
+    "address": "C-117, KV No.1 Road, opp. Hanuman Mandir, Pratap Nagar, Udaipur, Rajasthan 313001",
+    "area": "Sunderwas, Pratap Nagar",
+    "latitude": 24.5891278,
+    "longitude": 73.7415252,
+    "place_id": "ChIJ_dKTqJXlZzkRhkjeZ3p-A4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_dKTqJXlZzkRhkjeZ3p-A4c",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:51:47"
+  }
+]

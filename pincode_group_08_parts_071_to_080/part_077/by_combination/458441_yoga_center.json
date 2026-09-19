@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FTLT",
+    "search_category": "Yoga Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "458441",
+    "phone_number": "+91 93525 15335",
+    "website": "https://goftlt.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "First Floor, 55-56, Mehnot Nagar, Neemuch, Madhya Pradesh 458441",
+    "area": "Mehnot Nagar",
+    "latitude": 24.4600674,
+    "longitude": 74.88269799999999,
+    "place_id": "ChIJ69a5HTt1ZjkRek-KFo09-pI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ69a5HTt1ZjkRek-KFo09-pI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:50:22"
+  },
+  {
+    "business_name": "Brahma Kumaris Neemuch Baghana",
+    "search_category": "Yoga Center",
+    "primary_category": "Meditation center",
+    "all_categories": "Meditation center",
+    "pincode": "458441",
+    "phone_number": "+91 62612 47420",
+    "website": "http://brahmakumaris.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HOUSE NO: 346 RETIRED COLONY, Dhaneriya Rd, Neemuch, Madhya Pradesh 458441",
+    "area": "New Regar Colony, Bhaghana",
+    "latitude": 24.4605472,
+    "longitude": 74.8452425,
+    "place_id": "ChIJU9dbczlzZjkRnRxl5nIU3qE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU9dbczlzZjkRnRxl5nIU3qE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:50:22"
+  }
+]

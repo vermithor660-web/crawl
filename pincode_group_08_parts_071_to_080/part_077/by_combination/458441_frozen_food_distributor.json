@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "USHA DAIRY",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "458441",
+    "phone_number": "+91 62617 98403",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "MIG-4, Manasa Rd, Indira Nagar, Neemuch, Madhya Pradesh 458441",
+    "area": "Indira Nagar",
+    "latitude": 24.462361599999998,
+    "longitude": 74.8853549,
+    "place_id": "ChIJwVR4sXx0ZjkRechiW3KUSYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwVR4sXx0ZjkRechiW3KUSYA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:49:54"
+  },
+  {
+    "business_name": "Freeze'O'Fresh",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer",
+    "pincode": "458441",
+    "phone_number": "+91 98933 62020",
+    "website": "https://freezeofresh.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "5, Kabir Khedi, nearby Dhannalal Chouksey Manglik Bhawan, Veena Nagar, Prime City, Sukhliya, Indore, Madhya Pradesh 452010",
+    "area": "Veena Nagar, Prime City, Sukhliya",
+    "latitude": 22.75533,
+    "longitude": 75.8716944,
+    "place_id": "ChIJzY6lRj4DYzkR95QpEt7f5m4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzY6lRj4DYzkR95QpEt7f5m4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:49:56"
+  }
+]

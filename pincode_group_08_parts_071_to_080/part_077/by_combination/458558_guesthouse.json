@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "बन्नासा की हवेली",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "458558",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "4CMJ+GX6, Arniya, Khedi, Madhya Pradesh 458558",
+    "area": "458558",
+    "latitude": 24.1337904,
+    "longitude": 75.4324014,
+    "place_id": "ChIJqZ6kRUdLZDkR8LHIdVk2TCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZ6kRUdLZDkR8LHIdVk2TCQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:00:24"
+  },
+  {
+    "business_name": "Patidar dharmshala paliya Maru",
+    "search_category": "Guesthouse",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "458558",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 5,
+    "address": "5644+HG, Padliyamaru, Madhya Pradesh 458558",
+    "area": "458558",
+    "latitude": 24.1563981,
+    "longitude": 75.2063048,
+    "place_id": "ChIJw-elVAAzZDkRk8oXqc1jfb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-elVAAzZDkRk8oXqc1jfb4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:00:27"
+  }
+]

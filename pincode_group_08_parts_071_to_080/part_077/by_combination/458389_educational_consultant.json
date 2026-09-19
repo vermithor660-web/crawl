@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Advocate Balwant Singh Rathore",
+    "search_category": "Educational Consultant",
+    "primary_category": "Education center",
+    "all_categories": "Education center, Legal services",
+    "pincode": "458389",
+    "phone_number": "+91 82259 21476",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward no 2, teh, near Balaji mandir, sitamu, Mundla, Sitamu, Madhya Pradesh 458895",
+    "area": "sitamu",
+    "latitude": 23.9340627,
+    "longitude": 75.2933424,
+    "place_id": "ChIJW3JdulA5ZDkR46RtL_Gt-A8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW3JdulA5ZDkR46RtL_Gt-A8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:49:12"
+  },
+  {
+    "business_name": "Gaurav Bardiya",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, School administration office, Graphic designer, Website designer",
+    "pincode": "458389",
+    "phone_number": "+91 91444 62969",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "near Bus Stand, Krishna Colony, Sitamau, Madhya Pradesh 458990",
+    "area": "Krishna Colony",
+    "latitude": 24.0128696,
+    "longitude": 75.35503949999999,
+    "place_id": "ChIJA_LXBA8sZDkR_CFU-N_7jDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA_LXBA8sZDkR_CFU-N_7jDs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:49:12"
+  }
+]

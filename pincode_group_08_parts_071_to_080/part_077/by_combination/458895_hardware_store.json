@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahavir store",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "458895",
+    "phone_number": "+91 83497 91234",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main road, near ramjanki temple, Afzalpur, Madhya Pradesh 458895",
+    "area": "458895",
+    "latitude": 23.978895299999998,
+    "longitude": 75.2341921,
+    "place_id": "ChIJ_8iENfA7ZDkRXWJ5aHYODNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_8iENfA7ZDkRXWJ5aHYODNc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:18:51"
+  },
+  {
+    "business_name": "Kiran shree",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "458895",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hafiz Petrol Pump Ke Samne, Sitamau Fatak, Mandsaur, Madhya Pradesh 458001",
+    "area": "458895",
+    "latitude": 24.0623073,
+    "longitude": 75.0855734,
+    "place_id": "ChIJ77WSVfovZDkRRBtNkmN6Hdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ77WSVfovZDkRRBtNkmN6Hdw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:18:51"
+  }
+]

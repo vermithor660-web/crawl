@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The fitness club gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "458888",
+    "phone_number": "+91 78911 66189",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "WHWV+534, Kolvi Mandi Rajendra pura, Rajasthan 326515",
+    "area": "458888",
+    "latitude": 23.9453765,
+    "longitude": 75.59271679999999,
+    "place_id": "ChIJm0GfoqtbZDkRIWLktZGHTbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm0GfoqtbZDkRIWLktZGHTbk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:16:45"
+  },
+  {
+    "business_name": "Rahul Heir Center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "458888",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "3GGM+FR9, Mandsaur-Suwasra Rd, Basai, Madhya Pradesh 458888",
+    "area": "458888",
+    "latitude": 24.0761625,
+    "longitude": 75.5346012,
+    "place_id": "ChIJ6YLH3tBRZDkRBN1gw26Qiq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6YLH3tBRZDkRBN1gw26Qiq0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:16:45"
+  }
+]

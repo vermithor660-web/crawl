@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Optics Ranthambhore",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Store",
+    "pincode": "458556",
+    "phone_number": "+91 98870 52282",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ranthambore Cir, opposite Vatsalya Hospital, near Hammir Bridge Road, Railway Colony, Sawai Madhopur, Rajasthan 322001",
+    "area": "Railway Colony",
+    "latitude": 26.012882599999998,
+    "longitude": 76.3555746,
+    "place_id": "ChIJvZ7asDQlbjkRb9BjKgRGtFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvZ7asDQlbjkRb9BjKgRGtFQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:57:44"
+  },
+  {
+    "business_name": "sardarshahar optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Sunglasses store",
+    "all_categories": "Sunglasses store",
+    "pincode": "458556",
+    "phone_number": "+91 97846 76650",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "ke samne, ridhi sidhi hospital, near Manju mata mandir, Sardarshahar, Sardarshahr, Rajasthan 331403",
+    "area": "458556",
+    "latitude": 28.4353029,
+    "longitude": 74.48646029999999,
+    "place_id": "ChIJj0LDynv3FDkRm0iS1IRSw1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj0LDynv3FDkRm0iS1IRSw1c",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:57:45"
+  }
+]

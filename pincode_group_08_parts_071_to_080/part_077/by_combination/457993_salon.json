@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRADEEP MAKWANA",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "457993",
+    "phone_number": "+91 99937 29991",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Man Rodh Chapri, Jhabua, Chhapari, Madhya Pradesh 457993",
+    "area": "457993",
+    "latitude": 22.6633358,
+    "longitude": 74.5641721,
+    "place_id": "ChIJc1vlTkALYTkRO16Kbncp6UM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc1vlTkALYTkRO16Kbncp6UM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:24:30"
+  },
+  {
+    "business_name": "Ambika Hair Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "457993",
+    "phone_number": "+91 93408 26800",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Naka, Ranapur, Jhabua, Madhya Pradesh 457993",
+    "area": "Naka",
+    "latitude": 22.649417699999997,
+    "longitude": 74.5239213,
+    "place_id": "ChIJNfJ3btELYTkR-kzNILEiJUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNfJ3btELYTkR-kzNILEiJUI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:24:30"
+  }
+]

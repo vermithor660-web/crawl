@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "getmepos",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "457777",
+    "phone_number": "N/A",
+    "website": "https://getmepos.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FME - 01, Swami Regency, Canal Rd, near panchshil talkies, Ramdaspeth, Nagpur, Maharashtra 441108",
+    "area": "Ramdaspeth",
+    "latitude": 21.1387918,
+    "longitude": 79.0777964,
+    "place_id": "ChIJv3zvI1bB1DsR_AaolgSwfdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv3zvI1bB1DsR_AaolgSwfdU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:12:14"
+  },
+  {
+    "business_name": "Zaap Solutions",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "457777",
+    "phone_number": "+91 84607 72313",
+    "website": "https://zaapsolutions.com/",
+    "rating": 4.9,
+    "reviews_count": 15,
+    "address": "Sapphire Prime, 307, Waghawadi Rd., Hill Drive, Bhavnagar, Gujarat 364001",
+    "area": "Hill Drive",
+    "latitude": 21.7609769,
+    "longitude": 72.1461497,
+    "place_id": "ChIJ7-_7BGdRXzkRLujrUtq69wk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7-_7BGdRXzkRLujrUtq69wk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:12:15"
+  }
+]

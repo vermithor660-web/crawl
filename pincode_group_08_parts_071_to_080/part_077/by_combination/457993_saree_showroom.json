@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harsh Saree Shop",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "457993",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Subhash Marg, Ranapur, Madhya Pradesh 457993",
+    "area": "457993",
+    "latitude": 22.648127499999998,
+    "longitude": 74.5196723,
+    "place_id": "ChIJddneit4LYTkRO1chEfyIXnU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJddneit4LYTkRO1chEfyIXnU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:23:51"
+  },
+  {
+    "business_name": "Suhag Saree",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Women's clothing store",
+    "pincode": "457993",
+    "phone_number": "+91 751 242 5794",
+    "website": "https://www.instagram.com/suhag_saree?igsh=MXR4b2xhaGt3YXJyZw%3D%3D&utm_source=qr",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Kothari Complex, Infront of, Sarafa Bazaar, Dahi Mandi, Sarafa Bazar, Lashkar, Gwalior, Madhya Pradesh 474001",
+    "area": "Dahi Mandi, Sarafa Bazar, Lashkar",
+    "latitude": 26.201226499999997,
+    "longitude": 78.1505324,
+    "place_id": "ChIJxXctgdHFdjkRJGieEG2ovPs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxXctgdHFdjkRJGieEG2ovPs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:23:53"
+  }
+]

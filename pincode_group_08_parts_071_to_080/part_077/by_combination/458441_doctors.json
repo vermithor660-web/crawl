@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aryan Medicose",
+    "search_category": "Doctors",
+    "primary_category": "Local medical services",
+    "all_categories": "Local medical services",
+    "pincode": "458441",
+    "phone_number": "+91 81200 01194",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FV6F+WXG, Neemuch, Madhya Pradesh 458441",
+    "area": "458441",
+    "latitude": 24.4623179,
+    "longitude": 74.8749406,
+    "place_id": "ChIJB_vAOuB1ZjkRKnuSGnGYUU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB_vAOuB1ZjkRKnuSGnGYUU4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:50:18"
+  },
+  {
+    "business_name": "Mesh medical and surgical",
+    "search_category": "Doctors",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "458441",
+    "phone_number": "+91 86029 38248",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Manasa Rd, near sinhal hospital upside of yogesh tour 1st flour, Shree Nath Nagar, Neemuch, Madhya Pradesh 458441",
+    "area": "Shree Nath Nagar",
+    "latitude": 24.4623579,
+    "longitude": 74.8820875,
+    "place_id": "ChIJj8JlXJR1ZjkRAg2ern8QnI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj8JlXJR1ZjkRAg2ern8QnI0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:50:18"
+  }
+]

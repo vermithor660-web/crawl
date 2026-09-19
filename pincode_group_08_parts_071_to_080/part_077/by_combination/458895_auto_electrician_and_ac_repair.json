@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SSM Auto Electrical",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "458895",
+    "phone_number": "+91 80035 47715",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sanjeet Road, nearby Sindpan, Nai Abadi, Dhabla, Madhya Pradesh 458556",
+    "area": "Nai Abadi",
+    "latitude": 24.1740231,
+    "longitude": 75.1275309,
+    "place_id": "ChIJxcGG1WjTZTkRCvtMKw-jFSw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxcGG1WjTZTkRCvtMKw-jFSw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:18:45"
+  },
+  {
+    "business_name": "Soni Auto Electricles",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "458895",
+    "phone_number": "+91 99935 53736",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "48, near B P L Choraha, Mandsaur, Madhya Pradesh 458001",
+    "area": "Kalakhet",
+    "latitude": 24.071078099999998,
+    "longitude": 75.071518,
+    "place_id": "ChIJFar9HdAtZDkRxVw5WjDcp-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFar9HdAtZDkRxVw5WjDcp-I",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:18:46"
+  }
+]

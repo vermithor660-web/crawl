@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MBA Kapde Wala",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "458001",
+    "phone_number": "+91 78282 26603",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 23,
+    "address": "31, Sanjit Naka Geeta Bhawan Rd, Patel Nagar, Mandsaur, Madhya Pradesh 458001",
+    "area": "Patel Nagar",
+    "latitude": 24.083413999999998,
+    "longitude": 75.0667007,
+    "place_id": "ChIJFdEjk84tZDkR1AdlrQflaQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFdEjk84tZDkR1AdlrQflaQ0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:27:13"
+  },
+  {
+    "business_name": "i24mart",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery delivery service",
+    "all_categories": "Grocery delivery service, Service establishment",
+    "pincode": "458001",
+    "phone_number": "+91 83497 11449",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "i24mart, 458001, India",
+    "area": "458001",
+    "latitude": 24.0733739,
+    "longitude": 75.0636565,
+    "place_id": "ChIJ23HPwKUtZDkRFtPvdefbNdw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ23HPwKUtZDkRFtPvdefbNdw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:27:15"
+  }
+]

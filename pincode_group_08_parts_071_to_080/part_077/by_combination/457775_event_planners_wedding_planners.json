@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R Cube Events",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Service establishment",
+    "pincode": "457775",
+    "phone_number": "+91 88896 88829",
+    "website": "https://rcubeevent.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "R Cube Events, 457775, India",
+    "area": "457775",
+    "latitude": 23.9902291,
+    "longitude": 76.2865312,
+    "place_id": "ChIJAVDW13WKYzkR6LHLmkPEanQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAVDW13WKYzkR6LHLmkPEanQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:10:03"
+  },
+  {
+    "business_name": "Antra Entertainment",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Artist, Event management company",
+    "pincode": "457775",
+    "phone_number": "+91 78058 77000",
+    "website": "https://www.antraentertainment.com/",
+    "rating": 4.6,
+    "reviews_count": 67,
+    "address": "220,B, Trade Centre, South Tukoganj, Indore, Madhya Pradesh 452001",
+    "area": "Trade Centre, South Tukoganj",
+    "latitude": 22.7206393,
+    "longitude": 75.8830037,
+    "place_id": "ChIJL4H9Zxj9YjkRdtvTO9pFyCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL4H9Zxj9YjkRdtvTO9pFyCA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:10:04"
+  }
+]

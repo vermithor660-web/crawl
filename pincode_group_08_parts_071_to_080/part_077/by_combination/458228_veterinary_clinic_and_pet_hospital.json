@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Legacy animal hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Emergency veterinarian service",
+    "all_categories": "Emergency veterinarian service",
+    "pincode": "458228",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ward no 37, behind pwd colony, Nohar, Rajasthan 335523",
+    "area": "458228",
+    "latitude": 29.186104999999998,
+    "longitude": 74.77415549999999,
+    "place_id": "ChIJY65rxmsbFDkRd0jFmgdoG2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY65rxmsbFDkRd0jFmgdoG2Y",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:40:54"
+  },
+  {
+    "business_name": "VETCARE madic & FEED SUPLIMENTS",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary pharmacy",
+    "all_categories": "Veterinary pharmacy",
+    "pincode": "458228",
+    "phone_number": "+91 96021 85008",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "near shekhavat emitra, Bhojasar, Rajasthan 333041",
+    "area": "458228",
+    "latitude": 28.0228511,
+    "longitude": 75.24026529999999,
+    "place_id": "ChIJVwueUclPEzkRVPwSMMoXKFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVwueUclPEzkRVPwSMMoXKFQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:40:57"
+  }
+]

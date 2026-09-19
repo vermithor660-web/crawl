@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Mahi Residency",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "458880",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "5JXV+HW4, Dhabla Rd, Shamgarh, Madhya Pradesh 458883",
+    "area": "458880",
+    "latitude": 24.19888,
+    "longitude": 75.644818,
+    "place_id": "ChIJewnjvCtVZDkRNLkvKJHGcz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJewnjvCtVZDkRNLkvKJHGcz4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:13:30"
+  },
+  {
+    "business_name": "जय अम्बे ढाबा",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "458880",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "CMVM+MVF, Kukdeshwara, Madhya Pradesh 458880",
+    "area": "458880",
+    "latitude": 24.4441758,
+    "longitude": 75.68468,
+    "place_id": "ChIJOWRAVt6nZTkRv6jFa9355NM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOWRAVt6nZTkRv6jFa9355NM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:13:32"
+  }
+]

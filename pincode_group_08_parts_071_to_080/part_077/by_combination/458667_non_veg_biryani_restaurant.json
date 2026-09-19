@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Masoom Chicken Biryani",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "458667",
+    "phone_number": "+91 88719 43341",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Mandsaur, Madhya Pradesh 458002",
+    "area": "458667",
+    "latitude": 24.0617768,
+    "longitude": 75.0855504,
+    "place_id": "ChIJMT3-z90vZDkR2LdSGxLPCUY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMT3-z90vZDkR2LdSGxLPCUY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:03:17"
+  },
+  {
+    "business_name": "Shalimar Nonveg Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "458667",
+    "phone_number": "+91 93995 58366",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Ramghat Shalimar Colony, Ke Bahar Pratapgarh Road, Mandsaur, Madhya Pradesh 458002",
+    "area": "458667",
+    "latitude": 24.0534464,
+    "longitude": 75.054886,
+    "place_id": "ChIJC_toNRApZDkRq2-8Q8Ck0oY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC_toNRApZDkRq2-8Q8Ck0oY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:03:17"
+  }
+]

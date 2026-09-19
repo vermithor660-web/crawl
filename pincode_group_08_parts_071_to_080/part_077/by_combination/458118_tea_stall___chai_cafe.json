@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chai ka place",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "458118",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 6,
+    "address": "P64H+QRG, Dhamaniya, Baggar, Rajasthan 341521",
+    "area": "458118",
+    "latitude": 26.706927099999998,
+    "longitude": 74.2295863,
+    "place_id": "ChIJXdTLpdm1azkRgEJ9R4BaSbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXdTLpdm1azkRgEJ9R4BaSbM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:34:53"
+  },
+  {
+    "business_name": "Vishal Chay&kirana Stor",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "458118",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vishal, Khemla Block, Madhya Pradesh 458118",
+    "area": "458118",
+    "latitude": 24.5275167,
+    "longitude": 75.5152147,
+    "place_id": "ChIJG3Yqvz69ZTkRc2cM-OHFdvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG3Yqvz69ZTkRc2cM-OHFdvY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:34:55"
+  }
+]

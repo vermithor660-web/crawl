@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Avon Salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "458002",
+    "phone_number": "+91 96179 59862",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "3379+78X, Dhan Mandi, Mandsaur, Madhya Pradesh 458002",
+    "area": "Dhan Mandi",
+    "latitude": 24.063239499999998,
+    "longitude": 75.0683628,
+    "place_id": "ChIJqxJmR6kuZDkRl9zZqkMFXQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqxJmR6kuZDkRl9zZqkMFXQc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:28:12"
+  },
+  {
+    "business_name": "Gigles saloon Parlour",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "458002",
+    "phone_number": "+91 91315 29672",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "no.4, M.P, Jamidar Colony, near Uday hostel, ramtekri, Mandsaur, Madhya Pradesh 458002",
+    "area": "ramtekri, Bhatrewas",
+    "latitude": 24.0700716,
+    "longitude": 75.0624672,
+    "place_id": "ChIJ-8dWQgAsZDkR2eqGqyWsQNA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8dWQgAsZDkR2eqGqyWsQNA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:28:12"
+  }
+]

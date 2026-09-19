@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mehta Stores",
+    "search_category": "Shops",
+    "primary_category": "Outlet mall",
+    "all_categories": "Outlet mall, Store",
+    "pincode": "458110",
+    "phone_number": "+91 99931 11999",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 27,
+    "address": "22 Ahinsa path, Pustak Bazaar Rd, Bohra Bazar, Neemuch Chawni, Neemuch, Madhya Pradesh 458441",
+    "area": "Bohra Bazar, Neemuch Chawni",
+    "latitude": 24.4593906,
+    "longitude": 74.866965,
+    "place_id": "ChIJl4ODCoRzZjkRCqCRLAJSSG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl4ODCoRzZjkRCqCRLAJSSG8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:31:03"
+  },
+  {
+    "business_name": "Shree online shop E rajistri and EStamp",
+    "search_category": "Shops",
+    "primary_category": "Ferry Service Provider",
+    "all_categories": "Ferry Service Provider",
+    "pincode": "458110",
+    "phone_number": "+91 79744 36504",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Court Area, Manasa, Madhya Pradesh 458110",
+    "area": "Court Area",
+    "latitude": 24.4740002,
+    "longitude": 75.1382088,
+    "place_id": "ChIJj5gyBindZTkRdg-iGO6IOZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj5gyBindZTkRdg-iGO6IOZY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:31:04"
+  }
+]

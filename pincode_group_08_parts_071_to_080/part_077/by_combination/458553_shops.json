@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mobi Shree",
+    "search_category": "Shops",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "458553",
+    "phone_number": "+91 78696 97474",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mobi Shree, near Rup Shree Store, Ahir Mohalla, Sadar Bazar, Narayangarh, Madhya Pradesh 458553",
+    "area": "Ahir Mohalla, Sadar Bazar",
+    "latitude": 24.2699324,
+    "longitude": 75.05079049999999,
+    "place_id": "ChIJEW4E_FzXZTkROwIe6OXy8eU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEW4E_FzXZTkROwIe6OXy8eU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:57:18"
+  },
+  {
+    "business_name": "Maruti Suzuki Service (Patel Motors)",
+    "search_category": "Shops",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "458553",
+    "phone_number": "+91 95223 19116",
+    "website": "https://www.marutisuzuki.com/service-workshop-in-sitamau",
+    "rating": 4.5,
+    "reviews_count": 17,
+    "address": "1742/11, Narayangarh, Tehsil, Malhargarh, Madhya Pradesh 458553",
+    "area": "458553",
+    "latitude": 24.2688854,
+    "longitude": 75.0469181,
+    "place_id": "ChIJhfXxKbrWZTkRb6I0yGpkkko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhfXxKbrWZTkRb6I0yGpkkko",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:57:20"
+  }
+]

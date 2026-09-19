@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Best Logistics Solutions",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service, Transportation service",
+    "pincode": "458888",
+    "phone_number": "N/A",
+    "website": "http://www.bestlogistics.co.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2nd Floor, 47A/81, Arcot Rd, United India Colony, Kodambakkam, Chennai, Tamil Nadu 600024",
+    "area": "United India Colony, Kodambakkam",
+    "latitude": 13.0532214,
+    "longitude": 80.22428839999999,
+    "place_id": "ChIJK5wsyPNmUjoRzdFrZnyL4Ag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK5wsyPNmUjoRzdFrZnyL4Ag",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:16:55"
+  },
+  {
+    "business_name": "Total Transport Systems Limited",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Logistics service",
+    "all_categories": "Logistics service, Freight Forwarding Agency, Import export company, Shipping service, Warehouse",
+    "pincode": "458888",
+    "phone_number": "+91 22 6644 1500",
+    "website": "http://www.ttspl.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "7th Floor, T Square, Opp Chandivali Petrol Pump, Saki Vihar Road, Sakinaka, Andheri(E), Mumbai, Ganesh Nagar, Marol, Andheri East, Mumbai, Maharashtra 400072",
+    "area": "Ganesh Nagar, Marol, Andheri East",
+    "latitude": 19.1123206,
+    "longitude": 72.8880964,
+    "place_id": "ChIJKxdimQ3I5zsRYco02wgWkFs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKxdimQ3I5zsRYco02wgWkFs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:16:56"
+  }
+]

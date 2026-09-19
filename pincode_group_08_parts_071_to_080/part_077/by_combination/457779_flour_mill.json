@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinayak Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "457779",
+    "phone_number": "+91 83445 45410",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vinayak Flour Mill, Madhuram Society, Mandav Rd, Govindnagar, Dahod, Gujarat 389151",
+    "area": "Govindnagar",
+    "latitude": 22.8361409,
+    "longitude": 74.2671342,
+    "place_id": "ChIJtTxuhrkdYTkRS5HNvkf_110",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtTxuhrkdYTkRS5HNvkf_110",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:12:46"
+  },
+  {
+    "business_name": "Metro Enterprise",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill, Manufacturer",
+    "pincode": "457779",
+    "phone_number": "+91 81411 60110",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chhapri, Usarvan Part, Dahod, Gujarat 389151",
+    "area": "Chhapri",
+    "latitude": 22.863581099999998,
+    "longitude": 74.2424609,
+    "place_id": "ChIJC5dlot0dYTkRqqD91Q4hkfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC5dlot0dYTkRqqD91Q4hkfQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:12:48"
+  }
+]

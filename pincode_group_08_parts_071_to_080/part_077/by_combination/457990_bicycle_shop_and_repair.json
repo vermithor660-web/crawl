@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jagdamba Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop",
+    "pincode": "457990",
+    "phone_number": "+91 97826 76365",
+    "website": "https://jagdamba-cycle-store.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rathore Nagar ,Hoshiyar, Queens Rd, near Jharkhand Mahadev Temple, Vaishali Nagar, Jaipur, Rajasthan 302021",
+    "area": "Vaishali Nagar",
+    "latitude": 26.910640899999997,
+    "longitude": 75.7528473,
+    "place_id": "ChIJn67cmYW0bTkRbD1LSWflNb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn67cmYW0bTkRbD1LSWflNb4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:22:36"
+  },
+  {
+    "business_name": "Jagannath Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle wholesaler",
+    "all_categories": "Bicycle wholesaler",
+    "pincode": "457990",
+    "phone_number": "+91 94390 17978",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Infront of nehru park, MS-125, Ambagan Cir, near State bank of india, Bank Street, Sector 19, Rourkela, Raurkela Industrialship, Odisha 769005",
+    "area": "Bank Street, Sector 19",
+    "latitude": 22.2588257,
+    "longitude": 84.8644762,
+    "place_id": "ChIJxZLQbgMcIDoRoCbRconetbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxZLQbgMcIDoRoCbRconetbA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:22:36"
+  }
+]

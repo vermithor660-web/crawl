@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radiant Gym & Fitness Center",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "457882",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bujra, Rajasthan 313031",
+    "area": "457882",
+    "latitude": 24.5628521,
+    "longitude": 73.6305392,
+    "place_id": "ChIJI8zNjwnxZzkR3h26tRuXhRQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI8zNjwnxZzkR3h26tRuXhRQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:15:07"
+  },
+  {
+    "business_name": "The Fitness Nation",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "457882",
+    "phone_number": "+91 88780 93361",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 31,
+    "address": "208-209, A.B. ROAD, Dongargaon, Dr. Ambedkar Nagar, Madhya Pradesh 453441",
+    "area": "457882",
+    "latitude": 22.5460179,
+    "longitude": 75.74414689999999,
+    "place_id": "ChIJYaqeRwD3YjkRd5_tRSFCPog",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYaqeRwD3YjkRd5_tRSFCPog",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:15:08"
+  }
+]

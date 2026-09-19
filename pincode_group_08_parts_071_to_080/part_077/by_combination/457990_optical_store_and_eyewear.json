@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samir optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "457990",
+    "phone_number": "+91 99094 49814",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 16,
+    "address": "Dudhiyapir-Taiwaga, opp. Seshnarayan Temple, Taiwaga, Dabhoi, Gujarat 391110",
+    "area": "Taiwaga",
+    "latitude": 22.1338032,
+    "longitude": 73.41848,
+    "place_id": "ChIJRXBKCwDhXzkRglLZJXC5w4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRXBKCwDhXzkRglLZJXC5w4M",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:22:18"
+  },
+  {
+    "business_name": "Dimple Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Sunglasses store",
+    "pincode": "457990",
+    "phone_number": "+91 78376 62656",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Booth No. 307, Sector 37 d, 37D, Sector 37, Chandigarh, 160036",
+    "area": "Sector 37 d, 37D, Sector 37",
+    "latitude": 30.739869199999998,
+    "longitude": 76.7488659,
+    "place_id": "ChIJt8TK2untDzkRrpVjRl_UNcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt8TK2untDzkRrpVjRl_UNcE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:22:19"
+  }
+]

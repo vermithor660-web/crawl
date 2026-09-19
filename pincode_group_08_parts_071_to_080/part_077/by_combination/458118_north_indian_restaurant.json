@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NHAI Food Court",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "458118",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "8MWJ+PM, Kundalya Charandas, Madhya Pradesh 458880",
+    "area": "458118",
+    "latitude": 24.346973499999997,
+    "longitude": 75.6807596,
+    "place_id": "ChIJx9HXQQCpZTkRdC56q6TcnSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9HXQQCpZTkRdC56q6TcnSE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:34:55"
+  },
+  {
+    "business_name": "Ruchi Bhojnalay, Gandhi Sagar No.3",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Vegetarian restaurant",
+    "pincode": "458118",
+    "phone_number": "+91 94259 76333",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Bus stand, Gandhi Sagar No. 3, Mandsaur, Madhya Pradesh 458771",
+    "area": "458118",
+    "latitude": 24.6668187,
+    "longitude": 75.59272899999999,
+    "place_id": "ChIJlS4VbGaZZTkR76WYZ3WbmA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlS4VbGaZZTkR76WYZ3WbmA0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:34:55"
+  }
+]

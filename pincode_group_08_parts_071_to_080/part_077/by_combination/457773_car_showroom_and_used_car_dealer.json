@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Car Bazar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "457773",
+    "phone_number": "+91 98719 95550",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 54,
+    "address": "45, opp. मुख्य डाकघर, Agrasain Market, Bhamashah Nagar, Hisar, Haryana 125001",
+    "area": "Agrasain Market, Bhamashah Nagar",
+    "latitude": 29.1595004,
+    "longitude": 75.7207056,
+    "place_id": "ChIJtz6lidYyEjkRoPp9D5r9alg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtz6lidYyEjkRoPp9D5r9alg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:07:50"
+  },
+  {
+    "business_name": "Used cars Gujarat",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Auto repair shop, Garage",
+    "pincode": "457773",
+    "phone_number": "+91 79019 80198",
+    "website": "https://www.secondgaadi.com/",
+    "rating": 4.9,
+    "reviews_count": 8,
+    "address": "AMTS bus station, Bopal - Ghuma Rd, near JP farm, behind Ghuma, Ghuma, Ahmedabad, Gujarat 380058",
+    "area": "Ghuma",
+    "latitude": 23.029245,
+    "longitude": 72.4509202,
+    "place_id": "ChIJdU-R9tibXjkRdrrVjAZ-9tg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdU-R9tibXjkRdrrVjAZ-9tg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:07:52"
+  }
+]

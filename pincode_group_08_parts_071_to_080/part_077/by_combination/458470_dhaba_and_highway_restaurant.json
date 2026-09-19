@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "458470",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Nayagaon Toll Plaza, NH 79, Madhya Pradesh 458468",
+    "area": "458470",
+    "latitude": 24.569337899999997,
+    "longitude": 74.7643789,
+    "place_id": "ChIJdZ53v2wSZjkRSh-SMLiqzU0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZ53v2wSZjkRSh-SMLiqzU0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:53:46"
+  },
+  {
+    "business_name": "Shivom Restro",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "458470",
+    "phone_number": "+91 77376 66187",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 38,
+    "address": "RJM6+5JM, NH 27, Segawa, Rajasthan 312025",
+    "area": "458470",
+    "latitude": 24.8330533,
+    "longitude": 74.61010499999999,
+    "place_id": "ChIJbTY1-F8fZjkROIQ8xzST0Ww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbTY1-F8fZjkROIQ8xzST0Ww",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:53:47"
+  }
+]

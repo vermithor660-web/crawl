@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Resourceful People Group",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "458771",
+    "phone_number": "01234 989100",
+    "website": "http://www.resourcefulpeoplegroup.com/",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Resourceful People Group, 458771, India",
+    "area": "458771",
+    "latitude": 52.8378768,
+    "longitude": -2.3274808,
+    "place_id": "ChIJh-HfxrbFNogRMQr-lM7P36A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh-HfxrbFNogRMQr-lM7P36A",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:08:15"
+  },
+  {
+    "business_name": "The HR Practice Limited",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting",
+    "pincode": "458771",
+    "phone_number": "07500 071915",
+    "website": "https://thehrpractice.co.uk/",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Merlin House, 20 Mossland Rd, Hillington, Park, Glasgow G52 4XZ, United Kingdom",
+    "area": "Hillington, Park",
+    "latitude": 55.863184499999996,
+    "longitude": -4.3791191,
+    "place_id": "ChIJbQLwsvOyVwURlbScpqn4mdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbQLwsvOyVwURlbScpqn4mdM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:08:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Patel TV Center",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "458553",
+    "phone_number": "+91 98277 14022",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhagriya Rd, Ahir Mohalla, Narayangarh, Madhya Pradesh 458553",
+    "area": "Ahir Mohalla",
+    "latitude": 24.2697623,
+    "longitude": 75.0522649,
+    "place_id": "ChIJwzNoKrfWZTkRZTEb3hdm2q0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzNoKrfWZTkRZTEb3hdm2q0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:56:48"
+  },
+  {
+    "business_name": "Bundela Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "458553",
+    "phone_number": "+91 94147 77001",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 33,
+    "address": "Shri Ram Mandir, Naya Bass, Churu, Rajasthan 331001",
+    "area": "Naya Bass",
+    "latitude": 28.2970337,
+    "longitude": 74.97128,
+    "place_id": "ChIJz9t-Dv9hEzkRbfek1x1szuQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz9t-Dv9hEzkRbfek1x1szuQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:56:50"
+  }
+]

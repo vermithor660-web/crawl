@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paliwal Stationars",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "458441",
+    "phone_number": "+91 93013 44829",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 38,
+    "address": "16, Messy Showroom, Rogi Kalyan Samiti Complex, Chauraha, Neemuch, Madhya Pradesh 458441",
+    "area": "Chauraha",
+    "latitude": 24.4606437,
+    "longitude": 74.87635809999999,
+    "place_id": "ChIJvUWaLX90ZjkRwCV3m0XbxbA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvUWaLX90ZjkRwCV3m0XbxbA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:51:08"
+  },
+  {
+    "business_name": "Rajendra Computer",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "458441",
+    "phone_number": "+91 94794 34747",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 16,
+    "address": "Ambedkar Marg, Main Road, near Modi Tailor, Jawahar Nagar, Neemuch, Madhya Pradesh 458441",
+    "area": "Jawahar Nagar",
+    "latitude": 24.4620851,
+    "longitude": 74.8753526,
+    "place_id": "ChIJRZMDPn90ZjkRkw7l55pw9Fk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRZMDPn90ZjkRkw7l55pw9Fk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:51:08"
+  }
+]

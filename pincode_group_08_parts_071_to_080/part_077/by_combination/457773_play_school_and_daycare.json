@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Future Tots",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool, Art center, Children's club, Kindergarten School, Montessori school, Plant nursery, Playgroup",
+    "pincode": "457773",
+    "phone_number": "+91 85110 02007",
+    "website": "http://www.futuretots.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Spring Meadows, A-42, SOBO Centre Rd, Sector - 7, South Bopal, Bopal, Ahmedabad, Gujarat 380057",
+    "area": "Sector - 7, South Bopal, Bopal",
+    "latitude": 23.019905899999998,
+    "longitude": 72.4739548,
+    "place_id": "ChIJfx5HH8abXjkRAgemKJEiiHI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfx5HH8abXjkRAgemKJEiiHI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:08:24"
+  },
+  {
+    "business_name": "SMART KIDS PRESCHOOL.DAHOD.",
+    "search_category": "Play School and Daycare",
+    "primary_category": "Preschool",
+    "all_categories": "Preschool",
+    "pincode": "457773",
+    "phone_number": "+91 99240 83228",
+    "website": "http://www.facebook.com/dhilahsd/",
+    "rating": 2.8,
+    "reviews_count": null,
+    "address": "Maimoon nagar,Saifee nagar, Godhra Road, Dahod, Gujarat 389151",
+    "area": "Godhra Road, Parsi Colony, Freelandganj",
+    "latitude": 22.8356183,
+    "longitude": 74.2412562,
+    "place_id": "ChIJcy0-jKYdYTkRtAvjPKVNMTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcy0-jKYdYTkRtAvjPKVNMTo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:08:26"
+  }
+]

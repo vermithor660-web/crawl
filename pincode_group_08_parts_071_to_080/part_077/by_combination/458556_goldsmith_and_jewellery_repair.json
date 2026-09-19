@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tulsi Jewellery",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Goldsmith, Manufacturer, Silversmith",
+    "pincode": "458556",
+    "phone_number": "+91 94267 58978",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "A/G/23, Gold Coin Complex, Jodhpur Cross Road, Satellite Rd, Satellite, Ahmedabad, Gujarat 380015",
+    "area": "Kameshwar Vihar, Suryapooja Block B, Satellite",
+    "latitude": 23.025695,
+    "longitude": 72.527243,
+    "place_id": "ChIJwY8vY86EXjkRLkJtsewlTlo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwY8vY86EXjkRLkJtsewlTlo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:57:40"
+  },
+  {
+    "business_name": "Navkar Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "458556",
+    "phone_number": "+91 92947 63739",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Balaji Mandir Ke Pass, Daloda Chopati, Nai Abaadi, Mandsaur, Madhya Pradesh 458001",
+    "area": "Daloda Chopati, Nai Abaadi",
+    "latitude": 24.076555,
+    "longitude": 75.0666298,
+    "place_id": "ChIJXUmNDO0tZDkRSE2DveO4BCU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXUmNDO0tZDkRSE2DveO4BCU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:57:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shanti Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "458226",
+    "phone_number": "+91 94147 00458",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 42,
+    "address": "X2Q8+FMP, Killa Rd, near HDFC Bank, Begun, Rajasthan 312023",
+    "area": "458226",
+    "latitude": 24.9887037,
+    "longitude": 75.01670639999999,
+    "place_id": "ChIJc06Ron9UbzkRiZVnx1Kf6IE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc06Ron9UbzkRiZVnx1Kf6IE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:39:38"
+  },
+  {
+    "business_name": "Shree Maya Lodge",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "458226",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 6,
+    "address": "near Higher Secondary School, Singoli, Madhya Pradesh 458228",
+    "area": "458226",
+    "latitude": 24.969746699999998,
+    "longitude": 75.2901498,
+    "place_id": "ChIJd5pRdpBfbzkReWPZ_QlNKCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd5pRdpBfbzkReWPZ_QlNKCo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:39:38"
+  }
+]

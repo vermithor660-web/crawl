@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Trading Company",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Agricultural Product Wholesaler",
+    "all_categories": "Agricultural Product Wholesaler",
+    "pincode": "458228",
+    "phone_number": "+91 74407 44060",
+    "website": "https://jaintrading.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bunglow Behind Roadways, Bus Stand, Jaroli Trade Center, Maharana Pratap Marg, Neemuch, Madhya Pradesh 458441",
+    "area": "458228",
+    "latitude": 24.4556366,
+    "longitude": 74.87617,
+    "place_id": "ChIJCZ6URBt1ZjkR9FUVKkMH7xI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZ6URBt1ZjkR9FUVKkMH7xI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:40:27"
+  },
+  {
+    "business_name": "Sugar Trading Company",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "458228",
+    "phone_number": "+91 94251 06234",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "FV55+QV2, Station Road, Shree Market, near Chokanna Balaji Temple, Neemuch, Madhya Pradesh 458441",
+    "area": "Nagar Palika Colony, Neemuch Chawni",
+    "latitude": 24.4593852,
+    "longitude": 74.8596376,
+    "place_id": "ChIJ5w19bchzZjkRTk3n29JRPxI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5w19bchzZjkRTk3n29JRPxI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:40:29"
+  }
+]

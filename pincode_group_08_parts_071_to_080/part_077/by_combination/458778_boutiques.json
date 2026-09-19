@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Patidar agriculture store",
+    "search_category": "Boutiques",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "458778",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GVXJ+4XW, Sandhara, Madhya Pradesh 458778",
+    "area": "458778",
+    "latitude": 24.547871999999998,
+    "longitude": 75.8824422,
+    "place_id": "ChIJP5c1fQANZTkRzMh3oANv_FQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP5c1fQANZTkRzMh3oANv_FQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:10:55"
+  },
+  {
+    "business_name": "GOLU NISHAD CO RAMANAND NISHAD",
+    "search_category": "Boutiques",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Boutique",
+    "pincode": "458778",
+    "phone_number": "+91 87881 04195",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kuntalkhedi, Madhya Pradesh 458778",
+    "area": "458778",
+    "latitude": 24.40995,
+    "longitude": 75.7375517,
+    "place_id": "ChIJgeN15zIHZTkRWchH6UID9kQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgeN15zIHZTkRWchH6UID9kQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:10:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wonder Cement",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Cement Manufacturer",
+    "all_categories": "Cement Manufacturer",
+    "pincode": "458895",
+    "phone_number": "+91 80857 51950",
+    "website": "http://wondercement.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "FV2C+222, Gol Chouraha, Purani Mandi Road, Mandsaur, Madhya Pradesh 458441",
+    "area": "Ambedkar Colony, Krishna Nagar, Neemuch Chawni",
+    "latitude": 24.45,
+    "longitude": 74.86999999999999,
+    "place_id": "ChIJU98fFIlzZjkRxdzf6ni7wWg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU98fFIlzZjkRxdzf6ni7wWg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:18:55"
+  },
+  {
+    "business_name": "Ultratech Cement Sales Office",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "458895",
+    "phone_number": "+91 74222 53535",
+    "website": "http://www.ultratechcement.com/",
+    "rating": 3.4,
+    "reviews_count": 8,
+    "address": "10, Transport Nagar, Mandsaur, Bhunyakhedi, Madhya Pradesh 458001",
+    "area": "Transport Nagar",
+    "latitude": 24.0950067,
+    "longitude": 75.05215539999999,
+    "place_id": "ChIJE4CI040rZDkRqXvAOCuAmq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE4CI040rZDkRqXvAOCuAmq0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:18:56"
+  }
+]

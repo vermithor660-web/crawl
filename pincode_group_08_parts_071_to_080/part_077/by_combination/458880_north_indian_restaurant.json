@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jay mata di dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "458880",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "6JVW+5QR, N Western Railway Line, Garoth, Farasali, Rajasthan 458880",
+    "area": "458880",
+    "latitude": 24.242995,
+    "longitude": 75.646895,
+    "place_id": "ChIJ6WvoSwCrZTkRuTmxtcUxM7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6WvoSwCrZTkRuTmxtcUxM7Q",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:12:33"
+  },
+  {
+    "business_name": "Food court on ne4",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "458880",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "8MWJ+GCC, Rupra, Madhya Pradesh 458880",
+    "area": "458880",
+    "latitude": 24.346308699999998,
+    "longitude": 75.6810002,
+    "place_id": "ChIJsxHaSQCpZTkRPxU3k1wYE-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxHaSQCpZTkRPxU3k1wYE-0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:12:34"
+  }
+]

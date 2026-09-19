@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naresh Fruit Trader's",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "458667",
+    "phone_number": "+91 99266 57875",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sankhla Bhawan, Nayapura Rd, Kalakhet, Mandsaur, Madhya Pradesh 458002",
+    "area": "Kalakhet",
+    "latitude": 24.063491,
+    "longitude": 75.06841059999999,
+    "place_id": "ChIJ80ttNJovZDkReGr_CMGh5IE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ80ttNJovZDkReGr_CMGh5IE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:03:07"
+  },
+  {
+    "business_name": "Maruti Fresh Fruits",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit parlor",
+    "all_categories": "Fruit parlor",
+    "pincode": "458667",
+    "phone_number": "+91 94259 76939",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 8,
+    "address": "Sarafa Bazar, Mandsaur, Madhya Pradesh 458002",
+    "area": "Sarafa Bazar",
+    "latitude": 24.0623459,
+    "longitude": 75.0701327,
+    "place_id": "ChIJqSgxK68uZDkRb5t_J-RzdoQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqSgxK68uZDkRb5t_J-RzdoQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:03:08"
+  }
+]

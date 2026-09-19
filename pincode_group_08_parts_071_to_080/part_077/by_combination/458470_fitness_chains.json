@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Bullheads Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "458470",
+    "phone_number": "+91 72176 02299",
+    "website": "https://instagram.com/thebullheads?utm_medium=copy_link",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "E2/228, Shastri Nagar Rd, Block E2, Shastri Nagar, Delhi, 110052",
+    "area": "Block E2, Shastri Nagar",
+    "latitude": 28.670962499999998,
+    "longitude": 77.1783353,
+    "place_id": "ChIJn7OISKEDDTkREjNjISYWROs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn7OISKEDDTkREjNjISYWROs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:54:11"
+  },
+  {
+    "business_name": "THE WARRIOR FITNESS",
+    "search_category": "Fitness Chains",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "458470",
+    "phone_number": "+91 83838 89554",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Basement, 19/1A, Block 19, Shakti Nagar, Delhi, 110007",
+    "area": "Block 19, Shakti Nagar",
+    "latitude": 28.679791599999998,
+    "longitude": 77.1961487,
+    "place_id": "ChIJvzMuwjQDDTkRlsQ_F16cH8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvzMuwjQDDTkRlsQ_F16cH8Y",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:54:11"
+  }
+]

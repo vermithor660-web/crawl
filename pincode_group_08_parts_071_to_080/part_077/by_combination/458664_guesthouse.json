@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sammet Shikharji Dharamshala",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "458664",
+    "phone_number": "+91 89897 42366",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "5XCV+JH5, Bahi, Madhya Pradesh 458664",
+    "area": "458664",
+    "latitude": 24.171715199999998,
+    "longitude": 74.9938181,
+    "place_id": "ChIJu4mSLQDVZTkR-93cpx14a4g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu4mSLQDVZTkR-93cpx14a4g",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:02:21"
+  },
+  {
+    "business_name": "होटल सांवलिया गेस्ट हाउस",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "458664",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "52F6+2J6, NH-79, Botalganj, Sokdi, Madhya Pradesh 458664",
+    "area": "458664",
+    "latitude": 24.171416699999998,
+    "longitude": 75.0114533,
+    "place_id": "ChIJF5oUSgDVZTkRouY5OC2WXOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF5oUSgDVZTkRouY5OC2WXOI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:02:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ideal Surgical Company",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store",
+    "pincode": "458990",
+    "phone_number": "N/A",
+    "website": "https://www.surgicalequipmentsinchennai.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "842 & 840, Anna Salai, opp. to Tamil Nadu Govt Multi Specialty Hospital, Mount Road, Chintadripet, Chennai, Tamil Nadu 600002",
+    "area": "Mount Road, Chintadripet",
+    "latitude": 13.0689964,
+    "longitude": 80.2716942,
+    "place_id": "ChIJxaYCmhxmUjoRto0p0uYLZjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxaYCmhxmUjoRto0p0uYLZjQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:20:34"
+  },
+  {
+    "business_name": "Khalsa Surgicals",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store, Medical equipment supplier, Wheelchair store",
+    "pincode": "458990",
+    "phone_number": "+91 86044 21994",
+    "website": "https://newgenhealthcare.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "118, Sadar Bazar, Opp. Oriental Bank of Commerce, 118, near Punjab National Bank, Sadar Bazaar, Cantonment, Lucknow, Uttar Pradesh 226002",
+    "area": "Sadar Bazaar, Cantonment",
+    "latitude": 26.8268526,
+    "longitude": 80.9453206,
+    "place_id": "ChIJAb_nmqv9mzkRJnivLO9HesU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAb_nmqv9mzkRJnivLO9HesU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:20:34"
+  }
+]

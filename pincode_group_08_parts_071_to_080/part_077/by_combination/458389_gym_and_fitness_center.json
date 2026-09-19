@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bajrangi fitness gym (fitness club)",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "458389",
+    "phone_number": "+91 91654 44129",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "titrod, Sitamau, Kherkheda, Madhya Pradesh 458990",
+    "area": "titrod",
+    "latitude": 24.021370899999997,
+    "longitude": 75.4155557,
+    "place_id": "ChIJB182EJ1JZDkR7V1ePNRKZu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB182EJ1JZDkR7V1ePNRKZu4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:48:31"
+  },
+  {
+    "business_name": "Fitness Club and gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "458389",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 7,
+    "address": "Village, near Bypass road NH29, Gontha, Uttar Pradesh 275303",
+    "area": "458389",
+    "latitude": 26.229779699999998,
+    "longitude": 83.5119508,
+    "place_id": "ChIJdyJ9CfKBkTkRdc-9yv_3P_k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdyJ9CfKBkTkRdc-9yv_3P_k",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:48:32"
+  }
+]

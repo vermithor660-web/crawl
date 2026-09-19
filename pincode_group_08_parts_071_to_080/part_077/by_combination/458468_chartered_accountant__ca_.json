@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CA baldev Raj & Co.",
+    "search_category": "Chartered Accountant (CA)",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant",
+    "pincode": "458468",
+    "phone_number": "+91 93122 35173",
+    "website": "https://www.baldevrajco.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Padma Tower II, 1206, Govind Lal Sikka Marg, Pocket C 1, Rajendra Place, New Delhi, Delhi 110005",
+    "area": "Pocket C 1, Rajendra Place",
+    "latitude": 28.6459786,
+    "longitude": 77.17830529999999,
+    "place_id": "ChIJac5ijpYCDTkR5ya2JCIVN30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJac5ijpYCDTkR5ya2JCIVN30",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:53:09"
+  },
+  {
+    "business_name": "R S P H & Associates",
+    "search_category": "Chartered Accountant (CA)",
+    "primary_category": "Certified public accountant",
+    "all_categories": "Certified public accountant, Chartered accountant",
+    "pincode": "458468",
+    "phone_number": "+91 11 2571 5850",
+    "website": "http://rsphindia.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "906, Vikram Towers, 16, Rajendra Place, New Delhi, Delhi 110008",
+    "area": "Rajendra Place",
+    "latitude": 28.642690599999998,
+    "longitude": 77.17645259999999,
+    "place_id": "ChIJt_g695UCDTkRKRwQ4qZA4CQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_g695UCDTkRKRwQ4qZA4CQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:53:09"
+  }
+]

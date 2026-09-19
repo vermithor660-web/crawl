@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The leather craft",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "458558",
+    "phone_number": "+91 88400 29282",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "30, Rest House Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+    "area": "Shanthala Nagar, Ashok Nagar",
+    "latitude": 12.9737923,
+    "longitude": 77.60704299999999,
+    "place_id": "ChIJTyFrHd8XrjsRtly7kYy19zw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTyFrHd8XrjsRtly7kYy19zw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:59:36"
+  },
+  {
+    "business_name": "Saaf Leather Products",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather Products Manufacturer",
+    "all_categories": "Leather Products Manufacturer, Leather goods supplier",
+    "pincode": "458558",
+    "phone_number": "+91 80987 64397",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "148/1, Kandrampalli Road, Thutipet, Thuthipattu, Tamil Nadu 635811",
+    "area": "Thutipet",
+    "latitude": 12.8013494,
+    "longitude": 78.7069889,
+    "place_id": "ChIJPz-7gg8JrTsRaP2fcov9zF0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPz-7gg8JrTsRaP2fcov9zF0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:59:39"
+  }
+]

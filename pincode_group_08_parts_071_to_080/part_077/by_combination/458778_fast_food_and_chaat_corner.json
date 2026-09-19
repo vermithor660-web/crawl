@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Chat and Fast-Food Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "458778",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "535W+X3P, Kiul Basti, Lakhisarai, Bihar 811311",
+    "area": "Kiul Basti",
+    "latitude": 25.159951799999998,
+    "longitude": 86.0952049,
+    "place_id": "ChIJ80IXOUkj8jkRdyJrzxXee2c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ80IXOUkj8jkRdyJrzxXee2c",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:10:42"
+  },
+  {
+    "business_name": "Swastik Fast Food Center",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "458778",
+    "phone_number": "+91 93512 32411",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 53,
+    "address": "Dugar school road Ghantaghar, near shani mander, Sardarshahr, Rajasthan 331403",
+    "area": "458778",
+    "latitude": 28.438786099999998,
+    "longitude": 74.4912878,
+    "place_id": "ChIJwbHpj6X2FDkRdSlksnZzY6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwbHpj6X2FDkRdSlksnZzY6s",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:10:43"
+  }
+]

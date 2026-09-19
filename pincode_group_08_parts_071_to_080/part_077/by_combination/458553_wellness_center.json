@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Primary health center",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "458553",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "743W+FPP, Badri, Budha, Madhya Pradesh 458556",
+    "area": "Badri",
+    "latitude": 24.253712099999998,
+    "longitude": 75.14681829999999,
+    "place_id": "ChIJjVp480zTZTkRg3AEHf6gmpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjVp480zTZTkRg3AEHf6gmpQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:56:30"
+  },
+  {
+    "business_name": "primary health centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "458553",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "753W+RJ, Takrawad, Madhya Pradesh 458556",
+    "area": "458553",
+    "latitude": 24.2546169,
+    "longitude": 75.1965213,
+    "place_id": "ChIJv7qSHADNZTkRAuH3spDZHzI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7qSHADNZTkRAuH3spDZHzI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:56:30"
+  }
+]

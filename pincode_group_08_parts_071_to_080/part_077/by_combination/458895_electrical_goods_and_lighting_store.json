@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Electrical",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "458895",
+    "phone_number": "+91 94068 14568",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "No 7, Shellputri Kripa, Abhinandan Colony, Mandsaur, Madhya Pradesh 458001",
+    "area": "Abhinandan Colony",
+    "latitude": 24.0861193,
+    "longitude": 75.0760564,
+    "place_id": "ChIJ7crCPEEtZDkRpL5O4CgUVGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7crCPEEtZDkRpL5O4CgUVGY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:18:51"
+  },
+  {
+    "business_name": "Raj Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "458895",
+    "phone_number": "+91 94250 82210",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2, Agrasen Market, Kalakhet, Mandsaur, Madhya Pradesh 458002",
+    "area": "Kalakhet",
+    "latitude": 24.0654289,
+    "longitude": 75.0715373,
+    "place_id": "ChIJY2M-bSkvZDkRhG2pzfPrfZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY2M-bSkvZDkRhG2pzfPrfZM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:18:55"
+  }
+]

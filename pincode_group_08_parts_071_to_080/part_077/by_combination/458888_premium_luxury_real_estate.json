@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Luxury Homes Real Estate",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Property investment company",
+    "pincode": "458888",
+    "phone_number": "N/A",
+    "website": "http://luxuryhomesrealestate.ae/",
+    "rating": 4.6,
+    "reviews_count": 52,
+    "address": "Business Bay - Bay Square - Dubai - United Arab Emirates",
+    "area": "Business Bay - Bay Square",
+    "latitude": 25.1854241,
+    "longitude": 55.2801414,
+    "place_id": "ChIJh-ZJYMtrXz4RrU-PQIt-J-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh-ZJYMtrXz4RrU-PQIt-J-g",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:17:45"
+  },
+  {
+    "business_name": "Top Luxury Property",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "458888",
+    "phone_number": "N/A",
+    "website": "https://topluxuryproperty.com/",
+    "rating": 3.8,
+    "reviews_count": 23,
+    "address": "909 & 910, Clover Bay Tower - 9th Floor - Business Bay - Dubai - United Arab Emirates",
+    "area": "Business Bay",
+    "latitude": 25.188858,
+    "longitude": 55.2696918,
+    "place_id": "ChIJz4IWMKppXz4Rd_nbXqEeSNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4IWMKppXz4Rd_nbXqEeSNc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:17:45"
+  }
+]

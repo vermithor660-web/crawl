@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaat house Hotels",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Coffee shop",
+    "pincode": "458220",
+    "phone_number": "+91 81021 76267",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Chamber bilding, im road, faltu line, Mokokchung, Nagaland 798601",
+    "area": "faltu line",
+    "latitude": 26.3250024,
+    "longitude": 94.5159202,
+    "place_id": "ChIJCR3lTACpRzcRr5h4ofGy6x8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCR3lTACpRzcRr5h4ofGy6x8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:36:49"
+  },
+  {
+    "business_name": "KRISHNA KACHORI",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "458220",
+    "phone_number": "+91 95540 51388",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 1171,
+    "address": "8JVQ+X8R, Unnamed Road, nearby Suchna Kendra, Sindhu Nagar, Shastri Nagar, Gopalganj, Bhilwara, Rajasthan 311001",
+    "area": "Sindhu Nagar, Shastri Nagar",
+    "latitude": 25.3449323,
+    "longitude": 74.6382383,
+    "place_id": "ChIJB5ywlkrCaDkRADTk4ug6ciw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB5ywlkrCaDkRADTk4ug6ciw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:36:50"
+  }
+]

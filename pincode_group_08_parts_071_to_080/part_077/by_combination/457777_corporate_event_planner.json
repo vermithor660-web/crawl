@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deepanshu andaaz event's",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Flower designer",
+    "pincode": "457777",
+    "phone_number": "+91 88199 92256",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 24,
+    "address": "Lal Bahadur Shastri Ward Maa Bhawani Darshan Dwar Old Central Bank, Mandla, Madhya Pradesh 481661",
+    "area": "457777",
+    "latitude": 22.5985805,
+    "longitude": 80.3764005,
+    "place_id": "ChIJjRin8Y2XgDkRvlYWtrYcc6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjRin8Y2XgDkRvlYWtrYcc6o",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:12:03"
+  },
+  {
+    "business_name": "Shree Multi Services",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "457777",
+    "phone_number": "+91 94291 14378",
+    "website": "https://sites.google.com/view/shreemultiservicesdhd/home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nr. Patel Resort, Godi Road, Ramnagar Society, Dahod, Gujarat 389151",
+    "area": "Ramnagar Society",
+    "latitude": 22.845440399999998,
+    "longitude": 74.25936949999999,
+    "place_id": "ChIJHXV3M1sdYTkRyWeEMuddb4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHXV3M1sdYTkRyWeEMuddb4Q",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:12:06"
+  }
+]

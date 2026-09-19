@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blossom Child Care",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Child health care center",
+    "pincode": "458001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 6,
+    "address": "188,189 Tirupati Nagar, Railway Station Rd, Mandsaur, Madhya Pradesh 458001",
+    "area": "Police Colony",
+    "latitude": 24.0735215,
+    "longitude": 75.07466629999999,
+    "place_id": "ChIJLXGWttAtZDkRAue0KzsyBrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXGWttAtZDkRAue0KzsyBrg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:25:53"
+  },
+  {
+    "business_name": "Dr. S. M. Jain.child m s",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "458001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "33C8+7G4 R K Hospital Ke Samne, Nayapura Rd, New Colony, Bhatrewas, Mandsaur, Madhya Pradesh 458001",
+    "area": "New Colony, Bhatrewas",
+    "latitude": 24.0706499,
+    "longitude": 75.0663162,
+    "place_id": "ChIJVbTYNAAtZDkRUumFUSAY4Uo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVbTYNAAtZDkRUumFUSAY4Uo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:25:53"
+  }
+]

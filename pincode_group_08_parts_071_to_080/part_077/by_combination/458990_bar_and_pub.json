@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Afzalpur Dargah",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "458990",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "X6JP+42G, Afzalpur, Madhya Pradesh 458895",
+    "area": "458990",
+    "latitude": 23.9803084,
+    "longitude": 75.2350811,
+    "place_id": "ChIJL99Ok-k7ZDkRd3sJmOPq_Tg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL99Ok-k7ZDkRd3sJmOPq_Tg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:20:13"
+  },
+  {
+    "business_name": "THE HARLEEN BAR",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "458990",
+    "phone_number": "+91 99505 54088",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 15,
+    "address": "old bypass, near bajaj showroom, Madhuban Colony, Bundi, Rajasthan 323001",
+    "area": "Madhuban Colony",
+    "latitude": 25.424136999999998,
+    "longitude": 75.63536789999999,
+    "place_id": "ChIJd5ZeangJbzkRz6_mRledDKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd5ZeangJbzkRz6_mRledDKE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:20:15"
+  }
+]

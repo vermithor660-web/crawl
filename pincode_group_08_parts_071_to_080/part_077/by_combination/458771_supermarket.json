@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DARWESH SALES CORPORATION",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Grocery store",
+    "pincode": "458771",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Inside Chat Gali, opp. Chandan Bhavan, Bhensoda Mandi, Bhawani Mandi, Madhya Pradesh 458778",
+    "area": "Bhensoda Mandi",
+    "latitude": 24.418493599999998,
+    "longitude": 75.8325144,
+    "place_id": "ChIJGZhk-4oFZTkRC8jVOCFMPRs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZhk-4oFZTkRC8jVOCFMPRs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:06:47"
+  },
+  {
+    "business_name": "KAMAL INTERPRISES BHANPURA",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "458771",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 14,
+    "address": "GP6V+9J7, Bhanpura - Bhawani Mandi Rd, Bhanpura, Madhya Pradesh 458775",
+    "area": "458771",
+    "latitude": 24.5109209,
+    "longitude": 75.7440458,
+    "place_id": "ChIJ9RX5MSsLZTkRqA0XLzHIhT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9RX5MSsLZTkRqA0XLzHIhT8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:06:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DayDecoder Private Limited",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Graphic designer, Website designer",
+    "pincode": "457777",
+    "phone_number": "N/A",
+    "website": "https://daydecoder.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "22, 100SQ Plot, Pipalva, Talala, Gujarat 362150",
+    "area": "457777",
+    "latitude": 21.0364442,
+    "longitude": 70.53747489999999,
+    "place_id": "ChIJc1r1jzTJ4jsRkdJjxu6rbC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc1r1jzTJ4jsRkdJjxu6rbC4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:12:41"
+  },
+  {
+    "business_name": "Ved Solution",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "457777",
+    "phone_number": "+91 80001 52007",
+    "website": "https://vedsolution.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ved Solution, 457777, India",
+    "area": "457777",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJm92FzQ8Vd4QRn2dedSjvljI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm92FzQ8Vd4QRn2dedSjvljI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:12:42"
+  }
+]

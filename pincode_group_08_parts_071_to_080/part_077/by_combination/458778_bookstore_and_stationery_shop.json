@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mittal Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "458778",
+    "phone_number": "+91 94688 58984",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1286,
+    "address": "44/18, Kiran Path, Mansarovar Sector 4, Mansarovar, Jaipur, Rajasthan 302020",
+    "area": "Kiran Path, Mansarovar Sector 4, Mansarovar",
+    "latitude": 26.8672017,
+    "longitude": 75.756952,
+    "place_id": "ChIJ9cm0twG1bTkRiX-d1zjKq6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9cm0twG1bTkRiX-d1zjKq6M",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:11:47"
+  },
+  {
+    "business_name": "Bhiwadi Stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "458778",
+    "phone_number": "+91 97403 34817",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 11,
+    "address": "Sector 6 road, Baba Mohan Ram Mandir Marg, U.I.T., Bhiwadi, Rajasthan 301019",
+    "area": "Sector 6, U.I.T.",
+    "latitude": 28.199822899999997,
+    "longitude": 76.8416866,
+    "place_id": "ChIJ1fQrJQ03DTkRAedvUC81Cr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1fQrJQ03DTkRAedvUC81Cr4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:11:47"
+  }
+]

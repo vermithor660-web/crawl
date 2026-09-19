@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kota Cab",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "458389",
+    "phone_number": "+91 82399 99091",
+    "website": "http://www.kotacab.in/",
+    "rating": 4.5,
+    "reviews_count": 351,
+    "address": "Shop no 7, Zuber Complex, Aerodrome Circle, Kota Airport Area, Gumanpura, Kota, Kota Municipal Area, Rajasthan 324007",
+    "area": "Kota Airport Area, Gumanpura",
+    "latitude": 25.1679514,
+    "longitude": 75.8507873,
+    "place_id": "ChIJGfH-nCybbzkRoch1t8bdAL0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGfH-nCybbzkRoch1t8bdAL0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:48:39"
+  },
+  {
+    "business_name": "Kishan car travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Minibus taxi service",
+    "all_categories": "Minibus taxi service",
+    "pincode": "458389",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rajnagar, Madhya Pradesh 458389",
+    "area": "458389",
+    "latitude": 23.9619964,
+    "longitude": 75.35727419999999,
+    "place_id": "ChIJV0cCrIlHZDkRlRRBb0qBX00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV0cCrIlHZDkRlRRBb0qBX00",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:48:41"
+  }
+]

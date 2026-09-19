@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Assure Physio Care",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center, Physiotherapist",
+    "pincode": "457779",
+    "phone_number": "+91 70009 18657",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "Shop 8, Ground Floor, The Landmark, Godhra Rd, Desaiwad, Dahod, Gujarat 389151",
+    "area": "Desaiwad",
+    "latitude": 22.8320948,
+    "longitude": 74.25163239999999,
+    "place_id": "ChIJrcCNA0wdYTkREISS8_IBiJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrcCNA0wdYTkREISS8_IBiJU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:13:44"
+  },
+  {
+    "business_name": "VARAHI PHYSIOTHERAPY CLINIC",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center",
+    "pincode": "457779",
+    "phone_number": "+91 83470 72108",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Mandav Rd, Shantikunj Society, Govindnagar, Dahod, Gujarat 389151",
+    "area": "Shantikunj Society, Govindnagar",
+    "latitude": 22.837306599999998,
+    "longitude": 74.2659982,
+    "place_id": "ChIJQZ11ykUdYTkRnfcl5Z89LZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZ11ykUdYTkRnfcl5Z89LZk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:13:45"
+  }
+]

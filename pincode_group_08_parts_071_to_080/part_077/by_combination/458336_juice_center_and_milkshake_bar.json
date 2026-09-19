@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayyappa Juice Centre",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "458336",
+    "phone_number": "+91 94400 45674",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "TSR Complex, Shop No. 42, Ground Floor, Waltair Station Approach Rd, Dwaraka Nagar, Visakhapatnam, Andhra Pradesh 530004",
+    "area": "Dwaraka Nagar",
+    "latitude": 17.724778999999998,
+    "longitude": 83.303887,
+    "place_id": "ChIJkUepNiNDOToRpmrmXrOprtU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkUepNiNDOToRpmrmXrOprtU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:44:20"
+  },
+  {
+    "business_name": "The Thick Shake Factory",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "458336",
+    "phone_number": "N/A",
+    "website": "https://thethickshakefactory.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "721, Hitech City Rd, Sri Rama Colony, Kavuri Hills, Madhapur, Hyderabad, Telangana 500033",
+    "area": "Sri Rama Colony, Kavuri Hills, Madhapur",
+    "latitude": 17.4394232,
+    "longitude": 78.39656509999999,
+    "place_id": "ChIJUWFWuESRyzsRqxj-LTBgCHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUWFWuESRyzsRqxj-LTBgCHc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:44:20"
+  }
+]

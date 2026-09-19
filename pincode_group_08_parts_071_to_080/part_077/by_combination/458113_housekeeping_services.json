@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CLEAN & CARE LAUNDRY",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Laundry service",
+    "all_categories": "Laundry service",
+    "pincode": "458113",
+    "phone_number": "+91 88898 96565",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "B.no 42, Ganga Nagar, Neemuch Chawni, Neemuch, Madhya Pradesh 458441",
+    "area": "Ganga Nagar, Neemuch Chawni",
+    "latitude": 24.4660075,
+    "longitude": 74.8626735,
+    "place_id": "ChIJ6amKXb1zZjkRzj0A5ZMxyTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6amKXb1zZjkRzj0A5ZMxyTs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:32:34"
+  },
+  {
+    "business_name": "VK drycleaners",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Laundry service",
+    "all_categories": "Laundry service",
+    "pincode": "458113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "D/80, Dr. Radhakrishnan Nagar, Neemuch Chawni, Neemuch, Madhya Pradesh 458441",
+    "area": "Dr. Radhakrishnan Nagar, Neemuch Chawni",
+    "latitude": 24.4656174,
+    "longitude": 74.8692277,
+    "place_id": "ChIJUdYIh3JzZjkRSQUVCXit3s8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUdYIh3JzZjkRSQUVCXit3s8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:32:35"
+  }
+]

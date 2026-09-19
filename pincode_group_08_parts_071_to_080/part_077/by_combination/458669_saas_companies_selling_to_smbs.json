@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naukri Bangalore Office",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Employment center",
+    "all_categories": "Employment center",
+    "pincode": "458669",
+    "phone_number": "+91 80 4969 5300",
+    "website": "https://www.naukri.com/",
+    "rating": 4.2,
+    "reviews_count": 37,
+    "address": "8th floor, Manipal Centre, N 801, Dickenson Rd, Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens, Bengaluru, Karnataka 560042",
+    "area": "Yellappa Garden, Yellappa Chetty Layout, Sivanchetti Gardens",
+    "latitude": 12.9750686,
+    "longitude": 77.6147276,
+    "place_id": "ChIJd1E6RDAXrjsRY0fkAVRK9OM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd1E6RDAXrjsRY0fkAVRK9OM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:06:42"
+  },
+  {
+    "business_name": "SMS-iT",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Advertising agency, E-commerce service, Legal services, Marketing agency, Marketing consultant, Telecommunications service provider, Telephone Marketing Agency, Telephone answering service, Video Conferencing Service Provider",
+    "pincode": "458669",
+    "phone_number": "N/A",
+    "website": "https://smsit.ai/",
+    "rating": 4.4,
+    "reviews_count": 29,
+    "address": "1390 Market St #200, San Francisco, CA 94102, United States",
+    "area": "Civic Center",
+    "latitude": 37.777195899999995,
+    "longitude": -122.4173361,
+    "place_id": "ChIJF1CY7oCBhYARMLDGWlh0WTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF1CY7oCBhYARMLDGWlh0WTo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:06:43"
+  }
+]

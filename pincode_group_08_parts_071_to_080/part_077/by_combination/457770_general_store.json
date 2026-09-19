@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naman Collection",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "457770",
+    "phone_number": "+91 99260 99805",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Old Bus Stand, Petlawad, Madhya Pradesh 457773",
+    "area": "457770",
+    "latitude": 23.0109367,
+    "longitude": 74.7964057,
+    "place_id": "ChIJc2tGCvFnYTkRAAAAsKyPGEY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc2tGCvFnYTkRAAAAsKyPGEY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:03:40"
+  },
+  {
+    "business_name": "Shree Agrasen Traders",
+    "search_category": "General Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "457770",
+    "phone_number": "+91 99776 22272",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 8,
+    "address": "Sarangi, Madhya Pradesh 457770",
+    "area": "457770",
+    "latitude": 23.047208299999998,
+    "longitude": 74.9071817,
+    "place_id": "ChIJQY3_JDpeYTkRZlO-dKAVwt4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQY3_JDpeYTkRZlO-dKAVwt4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:03:41"
+  }
+]

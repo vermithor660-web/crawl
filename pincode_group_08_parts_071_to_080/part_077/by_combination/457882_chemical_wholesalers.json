@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Padmawati Enterprises",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Herbal medicine store",
+    "all_categories": "Herbal medicine store, Beauty product supplier, Fertilizer Store",
+    "pincode": "457882",
+    "phone_number": "+91 97378 02012",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "7, shivaji marg, Madhya Pradesh 457887",
+    "area": "457882",
+    "latitude": 22.2698525,
+    "longitude": 74.2648864,
+    "place_id": "ChIJ338vVm61YTkRAmrQ4-TV71A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ338vVm61YTkRAmrQ4-TV71A",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:16:08"
+  },
+  {
+    "business_name": "Annexe Chem Private Limited",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer",
+    "pincode": "457882",
+    "phone_number": "+91 98987 22162",
+    "website": "http://annexechem.com/",
+    "rating": 4.9,
+    "reviews_count": 181,
+    "address": "Plot No, 1116, Lamdapura Rd, Manjusar, Lamdapura, Gujarat 391775",
+    "area": "457882",
+    "latitude": 22.4652133,
+    "longitude": 73.2090521,
+    "place_id": "ChIJBdlOtMHMXzkRPAEPQZrjsAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBdlOtMHMXzkRPAEPQZrjsAA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:16:08"
+  }
+]

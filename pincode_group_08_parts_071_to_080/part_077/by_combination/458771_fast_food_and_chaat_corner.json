@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaat Ok Please",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "458771",
+    "phone_number": "+91 22 4266 2604",
+    "website": "http://chaatokplease.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Office No. 230, 2nd Floor, MOHID HEIGHTS, RTO Rd, above Cafe 015, Suresh Nagar, Andheri West, Mumbai, Maharashtra 400053",
+    "area": "Suresh Nagar, Andheri West",
+    "latitude": 19.1343168,
+    "longitude": 72.82615369999999,
+    "place_id": "ChIJQf7LdBi25zsRgT5yR25-Kv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQf7LdBi25zsRgT5yR25-Kv0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:07:00"
+  },
+  {
+    "business_name": "Divya Food Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "458771",
+    "phone_number": "+91 70147 38089",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 16,
+    "address": "CFRV+3X9, Pincha bass, Pincha Patta, Meena well road, Sardarshahr, Rajasthan 331403",
+    "area": "Janhit Pranyas Colony",
+    "latitude": 28.4401835,
+    "longitude": 74.4949704,
+    "place_id": "ChIJUVGrL6f3FDkRM03XnWBhcWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUVGrL6f3FDkRM03XnWBhcWY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:07:00"
+  }
+]

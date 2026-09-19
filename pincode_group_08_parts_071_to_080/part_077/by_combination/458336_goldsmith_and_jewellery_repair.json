@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devshri Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "458336",
+    "phone_number": "+91 79878 35005",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 27,
+    "address": "Shop No 27, Indus Towne, Hari Ganga Nagar, Bhopal, Madhya Pradesh 472026",
+    "area": "Indus Towne, Hari Ganga Nagar",
+    "latitude": 23.131090999999998,
+    "longitude": 77.4885797,
+    "place_id": "ChIJf_xuSHxHfDkRn1Wai9HYGTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf_xuSHxHfDkRn1Wai9HYGTI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:44:31"
+  },
+  {
+    "business_name": "Janki Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jeweler",
+    "pincode": "458336",
+    "phone_number": "+91 94150 92871",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 28,
+    "address": "199/200, Sadar Bazar, Cantt, Jhansi, Uttar Pradesh 284001",
+    "area": "Sadar Bazar, Cantt",
+    "latitude": 25.4403218,
+    "longitude": 78.5860244,
+    "place_id": "ChIJPVGPbvh3dzkR-CaLapBU0us",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPVGPbvh3dzkR-CaLapBU0us",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:44:31"
+  }
+]

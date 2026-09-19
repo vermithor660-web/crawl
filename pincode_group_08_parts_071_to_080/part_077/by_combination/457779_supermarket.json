@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Archana Sharma",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "457779",
+    "phone_number": "+91 91315 88158",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ke Pass, Meghnagar Railway Station Rd, Megh Nagar, Madhya Pradesh 457779",
+    "area": "457779",
+    "latitude": 22.9065233,
+    "longitude": 74.5402512,
+    "place_id": "ChIJFSTrJAgVYTkRccTtxAb7kRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFSTrJAgVYTkRccTtxAb7kRw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:12:43"
+  },
+  {
+    "business_name": "Harsh Super Market",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Grocery store",
+    "pincode": "457779",
+    "phone_number": "+91 82003 36002",
+    "website": "https://harsh-super-market.grexa.site/",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "Shivajirao Shopping Center, Harsh Super Market, 30, Chakalia Rd, Dahod, Gujarat 389151",
+    "area": "Govindnagar",
+    "latitude": 22.8359615,
+    "longitude": 74.26026809999999,
+    "place_id": "ChIJSxmHniUdYTkRNrChccG_a20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSxmHniUdYTkRNrChccG_a20",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:12:44"
+  }
+]

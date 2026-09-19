@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gouri Auto Parts",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "458888",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bus stand, New, Dag, Rajasthan 326514",
+    "area": "458888",
+    "latitude": 23.9384019,
+    "longitude": 75.8388732,
+    "place_id": "ChIJ_5BNRXjzZDkR9uLrgLc1vlE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_5BNRXjzZDkR9uLrgLc1vlE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:16:47"
+  },
+  {
+    "business_name": "Massey Ferguson - Radheshyam Kishanlal Agarwal",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Tractor dealer",
+    "all_categories": "Tractor dealer, Agricultural machinery manufacturer, Farm equipment supplier, Machinery parts manufacturer, Tractor repair shop",
+    "pincode": "458888",
+    "phone_number": "+91 80 4492 4298",
+    "website": "https://dealers.masseyfergusonindia.com/tractors-in-dag-jhalawar-rajasthan-326514/home",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Road, opp. IndianOil, Dag, Rajasthan 326514",
+    "area": "458888",
+    "latitude": 23.9346036,
+    "longitude": 75.8346282,
+    "place_id": "ChIJd5MwCGfzZDkR9-6GHYDzJYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd5MwCGfzZDkR9-6GHYDzJYI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:16:49"
+  }
+]

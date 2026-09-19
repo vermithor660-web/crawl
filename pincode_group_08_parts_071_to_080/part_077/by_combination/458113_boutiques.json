@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahiba boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "458113",
+    "phone_number": "+91 78690 61817",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "281, Moments Gallery Rd, HUDCO Colony, Neemuch Chawni, Neemuch, Madhya Pradesh 458441",
+    "area": "HUDCO Colony, Neemuch Chawni",
+    "latitude": 24.4674732,
+    "longitude": 74.871651,
+    "place_id": "ChIJM4kBmZ5zZjkRGGPrLZy-3eg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM4kBmZ5zZjkRGGPrLZy-3eg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:31:26"
+  },
+  {
+    "business_name": "Nia boutique by Neha",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "458113",
+    "phone_number": "+91 74894 20382",
+    "website": "https://youtube.com/@fdwithnains?si=1hTnGMSGWH6MjMlE",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "FV58+CPR, Bohra Bazar, Neemuch Chawni, Neemuch, Madhya Pradesh 458441",
+    "area": "Bohra Bazar, Neemuch Chawni",
+    "latitude": 24.4586011,
+    "longitude": 74.8667524,
+    "place_id": "ChIJOyItFgBzZjkR7Ap-lLUaQ0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOyItFgBzZjkR7Ap-lLUaQ0A",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:31:28"
+  }
+]

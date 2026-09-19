@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Community Health centre sitamau",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "458990",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "289P+GH5, Sitamau, Madhya Pradesh 458990",
+    "area": "458990",
+    "latitude": 24.018762499999998,
+    "longitude": 75.3364763,
+    "place_id": "ChIJHaifCwA3ZDkROg-QmjqCecg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHaifCwA3ZDkROg-QmjqCecg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:21:00"
+  },
+  {
+    "business_name": "Brahma Kumaris Rajayoga Meditation Centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Meditation center",
+    "all_categories": "Meditation center",
+    "pincode": "458990",
+    "phone_number": "+91 99536 58779",
+    "website": "http://brahmakumaris.com/",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "POST OFFICE ROAD Dist:, Sitamau, Madhya Pradesh 458990",
+    "area": "458990",
+    "latitude": 24.0177175,
+    "longitude": 75.35647879999999,
+    "place_id": "ChIJuY9-qBFIZDkRMiYiFHLDmqk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuY9-qBFIZDkRMiYiFHLDmqk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:21:00"
+  }
+]

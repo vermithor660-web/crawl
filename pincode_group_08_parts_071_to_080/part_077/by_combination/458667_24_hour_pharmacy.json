@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Med Life Pharma",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "458667",
+    "phone_number": "+91 77379 21312",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "15, Gol Chouraha Rd, in front of Jain Mandir, Gol Chaura, Mandsaur, Madhya Pradesh 458001",
+    "area": "Gol Chaura",
+    "latitude": 24.0711124,
+    "longitude": 75.06704839999999,
+    "place_id": "ChIJZQFtnF4tZDkRHOcSM4o17XA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQFtnF4tZDkRHOcSM4o17XA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:03:28"
+  },
+  {
+    "business_name": "Amber Medicose",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "458667",
+    "phone_number": "+91 88238 62569",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Swimming Pool Comlex, Dawa Bazar, Kalakhet, Mandsaur, Madhya Pradesh 458001",
+    "area": "Dawa Bazar, Kalakhet",
+    "latitude": 24.0694092,
+    "longitude": 75.06990259999999,
+    "place_id": "ChIJVYDylOQtZDkR-HN7v_NjvG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVYDylOQtZDkR-HN7v_NjvG0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:03:29"
+  }
+]

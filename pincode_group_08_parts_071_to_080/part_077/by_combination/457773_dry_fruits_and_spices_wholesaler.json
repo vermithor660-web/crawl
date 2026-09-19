@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Vraj Dryfruits",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, Grocery store",
+    "pincode": "457773",
+    "phone_number": "+91 90169 53119",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "G-80,81, Singapore Hub, Malgodown Rd, Parvati Nagar Society, Shraddhadip Society, Mehsana, Gujarat 384002",
+    "area": "Parvati Nagar Society, Shraddhadip Society",
+    "latitude": 23.596590799999998,
+    "longitude": 72.3843693,
+    "place_id": "ChIJO2y5_SVDXDkRFLe5mBphh50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO2y5_SVDXDkRFLe5mBphh50",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:07:17"
+  },
+  {
+    "business_name": "Bhat Dry Fruits",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store, E-commerce service",
+    "pincode": "457773",
+    "phone_number": "+91 97971 56064",
+    "website": "http://www.kashmirbowl.com/",
+    "rating": 4.7,
+    "reviews_count": 120,
+    "address": "Munawar Link Road, Munawara Abad, Srinagar, Jammu and Kashmir 190001",
+    "area": "Munawara Abad",
+    "latitude": 34.0809291,
+    "longitude": 74.819521,
+    "place_id": "ChIJ-d4uRISP4TgRrJlbjm_8wDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-d4uRISP4TgRrJlbjm_8wDY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:07:18"
+  }
+]

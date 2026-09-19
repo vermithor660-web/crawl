@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharma Homeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Medical clinic",
+    "pincode": "458116",
+    "phone_number": "+91 94605 08896",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "HN:39,B, block Meera Nagar, Meera Nagar, Bhuwana, Udaipur, Bhuwana, Rajasthan 313001",
+    "area": "Meera Nagar, Bhuwana",
+    "latitude": 24.616152099999997,
+    "longitude": 73.71566399999999,
+    "place_id": "ChIJFcYKfkLlZzkR04eJgjMR-LU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFcYKfkLlZzkR04eJgjMR-LU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:33:19"
+  },
+  {
+    "business_name": "HomeHomeo's HOLISTIC HOMEOPATHY - Expert Homeopath & Best Homeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Alternative medicine practitioner, Doctor, Holistic medicine practitioner, Medical Center, Walk-in clinic",
+    "pincode": "458116",
+    "phone_number": "+91 63808 86510",
+    "website": "https://www.homehomeo.in/",
+    "rating": 4.9,
+    "reviews_count": 420,
+    "address": "2/174, Balamurugan Gardens 1st Main Rd, Customs Colony, Sakthi Nagar, Thoraipakkam, Chennai, Tamil Nadu 600097",
+    "area": "Customs Colony, Sakthi Nagar",
+    "latitude": 12.944469699999999,
+    "longitude": 80.23861289999999,
+    "place_id": "ChIJ2-bW2mFdUjoR47Q7JRdsk2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2-bW2mFdUjoR47Q7JRdsk2s",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:33:20"
+  }
+]

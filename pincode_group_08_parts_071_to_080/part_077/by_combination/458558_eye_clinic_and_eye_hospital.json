@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ISHA EYE CARE",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "458558",
+    "phone_number": "+91 94700 41356",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Ahiyapur, Bihar 842001",
+    "area": "458558",
+    "latitude": 26.148622,
+    "longitude": 85.3997359,
+    "place_id": "ChIJY5_KMgAR7TkRWIW6eVjvDJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5_KMgAR7TkRWIW6eVjvDJo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:59:46"
+  },
+  {
+    "business_name": "Narayani Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Hospital, Surgeon",
+    "pincode": "458558",
+    "phone_number": "+91 92619 90003",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 45,
+    "address": "Govt. Hospital, Medical Market Near, Sardarshahr, Rajasthan 331403",
+    "area": "Sharif Gouri",
+    "latitude": 28.437842999999997,
+    "longitude": 74.48537619999999,
+    "place_id": "ChIJKVx7hbr2FDkRwUreJUKRs0o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKVx7hbr2FDkRwUreJUKRs0o",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:59:46"
+  }
+]

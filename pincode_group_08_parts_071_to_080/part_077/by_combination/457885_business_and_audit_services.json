@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jayesh & Co.",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Tax preparation service",
+    "all_categories": "Tax preparation service",
+    "pincode": "457885",
+    "phone_number": "+91 98981 69088",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Aspire Business Centre (ABC Complex, 411, BRTS, opp. Rabari Colony, Rabari Colony, Amraiwadi, Ahmedabad, Gujarat 380026",
+    "area": "Rabari Colony, Amraiwadi",
+    "latitude": 23.0040485,
+    "longitude": 72.6372964,
+    "place_id": "ChIJ04S0dS6HXjkR2Tz9Oe8HMCs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04S0dS6HXjkR2Tz9Oe8HMCs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:17:56"
+  },
+  {
+    "business_name": "Chandwani & Company",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant, Accountant, Consultant",
+    "pincode": "457885",
+    "phone_number": "+91 98266 77887",
+    "website": "https://chandwani.co/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G:19 Ground Floor, Sanchi Complex, opp. Board Office, No 7 Locality, No 6 Locality, Shivaji Nagar, Bhopal, Madhya Pradesh 462016",
+    "area": "No 7 Locality, No 6 Locality, Shivaji Nagar",
+    "latitude": 23.2306004,
+    "longitude": 77.43201429999999,
+    "place_id": "ChIJk6skLOBDfDkRcSsCkNjNHGk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk6skLOBDfDkRcSsCkNjNHGk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:17:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Stationary",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "458667",
+    "phone_number": "+91 98265 77085",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "02, Sitamau Rd, Dalauda, Banikhedi, Madhya Pradesh 458667",
+    "area": "Dalauda",
+    "latitude": 23.9526593,
+    "longitude": 75.10265,
+    "place_id": "ChIJI3DT-74lZDkRcLfOzLj-hPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI3DT-74lZDkRcLfOzLj-hPA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:04:23"
+  },
+  {
+    "business_name": "Goodluck Stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "458667",
+    "phone_number": "+91 98270 18555",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near Shiv Mandir, ramtekri, Corner, Mandsaur, Madhya Pradesh 458001",
+    "area": "ramtekri, Corner",
+    "latitude": 24.0729701,
+    "longitude": 75.06338079999999,
+    "place_id": "ChIJO4zcQcgtZDkR6vI6Lup4h2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO4zcQcgtZDkR6vI6Lup4h2Q",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:04:23"
+  }
+]

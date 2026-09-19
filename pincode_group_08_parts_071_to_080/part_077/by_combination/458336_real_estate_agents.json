@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rush Property Brokers",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "458336",
+    "phone_number": "+91 99935 47954",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "8V6R+WRJ, Mandi Rd, Kalyan Pura, Jiran, Madhya Pradesh 458336",
+    "area": "Kalyan Pura",
+    "latitude": 24.3123328,
+    "longitude": 74.8920038,
+    "place_id": "ChIJSyW9Tul5ZjkRRgSTU1Ch3R4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSyW9Tul5ZjkRRgSTU1Ch3R4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:45:42"
+  },
+  {
+    "business_name": "कन्हैयालाल पाटीदार वेद",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "458336",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6XM4+GG, Amarpura, Madhya Pradesh 458664",
+    "area": "458336",
+    "latitude": 24.2340181,
+    "longitude": 74.95647,
+    "place_id": "ChIJ52SeKwB_ZjkR59FfI-UvFtM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ52SeKwB_ZjkR59FfI-UvFtM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:45:42"
+  }
+]

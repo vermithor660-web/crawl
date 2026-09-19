@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ennergy Fitness",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "458441",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1.5,
+    "reviews_count": 2,
+    "address": "18 TIT colony gomabai road, Neemuch Chawni, Neemuch, Madhya Pradesh 458441",
+    "area": "Neemuch Chawni",
+    "latitude": 24.4667271,
+    "longitude": 74.8662086,
+    "place_id": "ChIJGW4Y7XhzZjkRSmc0xGqQXik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGW4Y7XhzZjkRSmc0xGqQXik",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:50:22"
+  },
+  {
+    "business_name": "Hookie Dookie Pool Club & Cafe",
+    "search_category": "Fitness Chains",
+    "primary_category": "Pool hall",
+    "all_categories": "Pool hall, Game store, Video game store",
+    "pincode": "458441",
+    "phone_number": "+91 80705 55556",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3rd floor, Patel Plaza, Neemuch Chawni, Neemuch, Madhya Pradesh 458441",
+    "area": "Neemuch Chawni",
+    "latitude": 24.456775699999998,
+    "longitude": 74.8710852,
+    "place_id": "ChIJvTs32wRzZjkRTV5aLowGSUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvTs32wRzZjkRTV5aLowGSUQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:50:23"
+  }
+]

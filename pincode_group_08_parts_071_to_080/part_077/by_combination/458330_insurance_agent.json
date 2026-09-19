@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HDFC ERGO General Insurance",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance broker",
+    "all_categories": "Insurance broker, Auto insurance agency, Health insurance agency, Home insurance agency, Motorcycle insurance agency",
+    "pincode": "458330",
+    "phone_number": "+91 22 6234 6234",
+    "website": "https://agent.hdfcergo.com/hdfc-ergo-general-insurance-insurance-broker-basantpur-rajnandgaon-458330/Home",
+    "rating": null,
+    "reviews_count": null,
+    "address": "H No B/27, near Sree Ram Hospital, Basantpur, Rajnandgaon, Chhattisgarh 491441",
+    "area": "Basantpur",
+    "latitude": 21.088419,
+    "longitude": 81.02049869999999,
+    "place_id": "ChIJ-6jz8_RFKToRgc8cLd3Wwpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-6jz8_RFKToRgc8cLd3Wwpc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:43:42"
+  },
+  {
+    "business_name": "HDFC Bank",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance company",
+    "all_categories": "Insurance company, ATM, Business banking service, Car finance and loan company, Financial institution, Bank, Investment service, Loan agency, Private Sector Bank, Savings bank",
+    "pincode": "458330",
+    "phone_number": "+91 1800 1601",
+    "website": "https://www.hdfc.bank.in/branch-locator/madhyapradesh/neemuch/hdfcbank-branch-jawad",
+    "rating": null,
+    "reviews_count": null,
+    "address": "House No 75/1, Ground Floor Ward 03, Neemuch Road, Jawad, near Jawahar Marg, Neemuch, Rajasthan 458330",
+    "area": "458330",
+    "latitude": 24.684784099999998,
+    "longitude": 74.7098888,
+    "place_id": "ChIJj1JZ4VIbZjkR--6Phzf7DYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1JZ4VIbZjkR--6Phzf7DYw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:43:45"
+  }
+]

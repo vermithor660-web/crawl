@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kavya Beauty Parlour",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "458116",
+    "phone_number": "+91 84629 60844",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rathore Mohalla, Talau, Khejdi, Madhya Pradesh 458116",
+    "area": "458116",
+    "latitude": 24.4195089,
+    "longitude": 75.2876584,
+    "place_id": "ChIJIbis8qPHZTkRoOnOtfWVaec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIbis8qPHZTkRoOnOtfWVaec",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:33:51"
+  },
+  {
+    "business_name": "jai maa sonal khodiyar",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "458116",
+    "phone_number": "+91 91659 07360",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "mata ji road, near bus stand, Chachor, Madhya Pradesh 458116",
+    "area": "458116",
+    "latitude": 24.3781018,
+    "longitude": 75.355851,
+    "place_id": "ChIJ_dIxDeK5ZTkR_bK2NBJ5ecY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_dIxDeK5ZTkR_bK2NBJ5ecY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:33:51"
+  }
+]

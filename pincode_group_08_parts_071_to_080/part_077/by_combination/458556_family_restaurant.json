@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree sawara restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "458556",
+    "phone_number": "+91 92386 56311",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "petrol pump, SH-14, kai pass Sitammu road, Bardiya Gujar, Madhya Pradesh 458895",
+    "area": "458556",
+    "latitude": 24.0361017,
+    "longitude": 75.18918359999999,
+    "place_id": "ChIJ315tw5wxZDkRNVp6XFO4fE4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ315tw5wxZDkRNVp6XFO4fE4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:57:33"
+  },
+  {
+    "business_name": "Hotal mahi family restored sudh sakahari",
+    "search_category": "Family Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "458556",
+    "phone_number": "+91 94253 07011",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "52R4+26F, mahu nimach road, Piplia Mandi, Madhya Pradesh 458664",
+    "area": "458556",
+    "latitude": 24.190058699999998,
+    "longitude": 75.0055323,
+    "place_id": "ChIJGenNdgDVZTkRdS7l-HjIsSM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGenNdgDVZTkRdS7l-HjIsSM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:57:36"
+  }
+]

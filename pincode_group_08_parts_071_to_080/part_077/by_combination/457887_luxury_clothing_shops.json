@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Luxury Outfit",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "457887",
+    "phone_number": "+91 70023 44355",
+    "website": "http://www.theluxuryoutfit.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "The Luxury Outfit Rupahi to, Assam 782125",
+    "area": "457887",
+    "latitude": 26.4206766,
+    "longitude": 92.7855033,
+    "place_id": "ChIJib3blNnhRDcR1YTp1sk45p4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJib3blNnhRDcR1YTp1sk45p4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:18:40"
+  },
+  {
+    "business_name": "Saraha Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "457887",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Krishnajivan Society, 61, Causeway Rd, opposite Radheshyam Society, near Siganpor, Radhe Shyam Society, Katargam, Surat, Gujarat 395004",
+    "area": "Radhe Shyam Society, Katargam",
+    "latitude": 21.224923999999998,
+    "longitude": 72.819464,
+    "place_id": "ChIJ1XPMQN1P4DsRSW76lBzO6P4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1XPMQN1P4DsRSW76lBzO6P4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:18:40"
+  }
+]

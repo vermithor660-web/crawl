@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain shoes store",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "458226",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Singoli, Madhya Pradesh 458228",
+    "area": "458226",
+    "latitude": 24.9695446,
+    "longitude": 75.2901673,
+    "place_id": "ChIJf1QCphtfbzkRseUhqsdFu1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf1QCphtfbzkRseUhqsdFu1k",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:38:49"
+  },
+  {
+    "business_name": "Fancy Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "458226",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R474+CXM, Ratangarh, Madhya Pradesh 458226",
+    "area": "458226",
+    "latitude": 24.8136194,
+    "longitude": 75.1074343,
+    "place_id": "ChIJA-rQOwD7ZTkRdPYQ__Ej9ww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA-rQOwD7ZTkRdPYQ__Ej9ww",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:38:49"
+  }
+]

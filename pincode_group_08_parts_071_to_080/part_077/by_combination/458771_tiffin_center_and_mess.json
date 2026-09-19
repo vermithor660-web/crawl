@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Tiffinz",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "458771",
+    "phone_number": "+91 93230 26362",
+    "website": "http://www.mytiffinz.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Zircon CHS, off Lal Bahadur Shastri Marg, opp. Sheth Montana, Moti Nagar, Mulund Colony, Mulund West, Mumbai, Maharashtra 400080",
+    "area": "Moti Nagar, Mulund Colony, Mulund West",
+    "latitude": 19.1692109,
+    "longitude": 72.9362956,
+    "place_id": "ChIJ-4U3GZe55zsRww-FzyP8GRk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-4U3GZe55zsRww-FzyP8GRk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:06:58"
+  },
+  {
+    "business_name": "Shree hari tiffin centre",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "458771",
+    "phone_number": "+91 63502 61140",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "B-89, behind rose public school, Jamnapuri, Murlipura Scheme, Alkapuri, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302013",
+    "area": "Jamnapuri, Murlipura Scheme, Alkapuri",
+    "latitude": 26.9771449,
+    "longitude": 75.76252079999999,
+    "place_id": "ChIJxVEJj2KzbTkRHzFyhOHwz58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxVEJj2KzbTkRHzFyhOHwz58",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:06:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "457770",
+    "phone_number": "+91 99932 13943",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Krishna mobioe, Petlawad, Madhya Pradesh 457773",
+    "area": "457770",
+    "latitude": 23.0140246,
+    "longitude": 74.7952679,
+    "place_id": "ChIJWcaJfABnYTkRb3yTjlv0EM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWcaJfABnYTkRb3yTjlv0EM0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:04:53"
+  },
+  {
+    "business_name": "Shree Aastha enterprises",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "457770",
+    "phone_number": "+91 98931 14555",
+    "website": "http://servicecenter.samsungdigitalservicecenter.com/",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "201, Chandrashekher Azad Marg, Alirajpur, Madhya Pradesh 457887",
+    "area": "457770",
+    "latitude": 22.3070241,
+    "longitude": 74.3538698,
+    "place_id": "ChIJGdNZSgC3YTkRRy9f5LBribg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGdNZSgC3YTkRRy9f5LBribg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:04:56"
+  }
+]

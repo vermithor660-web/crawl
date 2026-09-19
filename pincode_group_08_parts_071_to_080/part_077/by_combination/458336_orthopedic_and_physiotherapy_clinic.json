@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neemtree Healthcare",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Orthopedic clinic",
+    "all_categories": "Orthopedic clinic",
+    "pincode": "458336",
+    "phone_number": "+91 99996 11628",
+    "website": "https://neemtreehealthcare.com/",
+    "rating": 4.8,
+    "reviews_count": 89,
+    "address": "2nd Floor, A 290, Block A, Defence Colony, New Delhi, Delhi 110024",
+    "area": "Block A, Defence Colony",
+    "latitude": 28.5731292,
+    "longitude": 77.2284921,
+    "place_id": "ChIJJ8G-8B7jDDkRLsRhPdHa4mI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8G-8B7jDDkRLsRhPdHa4mI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:44:42"
+  },
+  {
+    "business_name": "RS meditech enterprises",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapy equipment supplier",
+    "all_categories": "Physiotherapy equipment supplier, Exercise equipment store",
+    "pincode": "458336",
+    "phone_number": "+91 93980 06878",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 28,
+    "address": "54/C, Shiva Nagar, Allwyn Colony, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Shiva Nagar, Allwyn Colony, Kukatpally",
+    "latitude": 17.5046607,
+    "longitude": 78.41762539999999,
+    "place_id": "ChIJO80pMwSRyzsRUNnY2_877CQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO80pMwSRyzsRUNnY2_877CQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:44:43"
+  }
+]

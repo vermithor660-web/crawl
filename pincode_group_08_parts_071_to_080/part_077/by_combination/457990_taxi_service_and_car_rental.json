@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ankit travels one way taxi",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "457990",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GP59+VJP, Bori, Madhya Pradesh 457990",
+    "area": "457990",
+    "latitude": 22.509701,
+    "longitude": 74.7190753,
+    "place_id": "ChIJJZ1xNwCbYTkRiw8Ga7Dnkxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJZ1xNwCbYTkRiw8Ga7Dnkxk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:22:33"
+  },
+  {
+    "business_name": "Shambhu Cabs",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Car leasing service, Taxi service",
+    "pincode": "457990",
+    "phone_number": "+91 98193 99797",
+    "website": "https://shambhucab.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Saket Tata Power CHS, Swami Samarth Marg, Juhu Nagar, Sector-16, Vashi, Navi Mumbai, Maharashtra 400703",
+    "area": "Juhu Nagar, Sector-16, Vashi",
+    "latitude": 19.075789,
+    "longitude": 73.0012375,
+    "place_id": "ChIJH-ZWvP8Gz64R04JWtp77h5k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH-ZWvP8Gz64R04JWtp77h5k",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:22:35"
+  }
+]

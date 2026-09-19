@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reddy Transport company",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "458468",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Neemuch Rd, Nayagaon, Madhya Pradesh 458468",
+    "area": "458468",
+    "latitude": 24.5629727,
+    "longitude": 74.7723026,
+    "place_id": "ChIJg_V3kSwTZjkR0pZ_mSzSPg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg_V3kSwTZjkR0pZ_mSzSPg8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:52:26"
+  },
+  {
+    "business_name": "Kamlesh Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "458468",
+    "phone_number": "N/A",
+    "website": "http://www.kamlesheagle.com/",
+    "rating": 3.6,
+    "reviews_count": 428,
+    "address": "Bus Stand, Building No. 27A National Highway 9 Opposite Roadways, Udaipur, Rajasthan 313001",
+    "area": "Udaipole, Jawahar Nagar",
+    "latitude": 24.5757706,
+    "longitude": 73.6997691,
+    "place_id": "ChIJH5w_cX_lZzkRJJm_rGRh818",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH5w_cX_lZzkRJJm_rGRh818",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:52:27"
+  }
+]

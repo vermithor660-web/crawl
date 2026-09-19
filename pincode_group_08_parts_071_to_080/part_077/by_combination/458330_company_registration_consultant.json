@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TaxNemo Consultancy",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Tax preparation service",
+    "all_categories": "Tax preparation service",
+    "pincode": "458330",
+    "phone_number": "+91 70109 97102",
+    "website": "http://taxnemo.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "137, Raja Street, Panaiolapadi, Tamil Nadu 606705",
+    "area": "458330",
+    "latitude": 12.3512326,
+    "longitude": 78.93249809999999,
+    "place_id": "ChIJWw9HhH7prDsRuH1mCWDofk4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWw9HhH7prDsRuH1mCWDofk4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:43:47"
+  },
+  {
+    "business_name": "Consultoria Services LLP",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Service establishment",
+    "pincode": "458330",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Consultoria Services LLP, 458330, India",
+    "area": "458330",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ2cS4_BKx5zsRcY9kokyXIg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2cS4_BKx5zsRcY9kokyXIg4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:43:47"
+  }
+]

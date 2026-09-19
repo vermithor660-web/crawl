@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rathi Book stall",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store",
+    "pincode": "457777",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 96,
+    "address": "R8FW+P8Q, MP SH 26, Ramganj Ward, Khandwa, Madhya Pradesh 450001",
+    "area": "Ramganj Ward",
+    "latitude": 21.824341699999998,
+    "longitude": 76.3458479,
+    "place_id": "ChIJ4yg81m0b2DsRXRDCDvxeg5k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4yg81m0b2DsRXRDCDvxeg5k",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:12:09"
+  },
+  {
+    "business_name": "Sahitya Sangam Jammu",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "457777",
+    "phone_number": "+91 93840 67229",
+    "website": "http://sahityasangam.in/",
+    "rating": 4,
+    "reviews_count": 258,
+    "address": "opposite BJP Office, Kacchi Chawni, Ambphalla, Old Heritage City, Jammu, Jammu and Kashmir 180001",
+    "area": "Kacchi Chawni, Ambphalla, Old Heritage City",
+    "latitude": 32.7392827,
+    "longitude": 74.8674381,
+    "place_id": "ChIJ17aYyUmFHjkR1aE29pyXY5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ17aYyUmFHjkR1aE29pyXY5o",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:12:11"
+  }
+]

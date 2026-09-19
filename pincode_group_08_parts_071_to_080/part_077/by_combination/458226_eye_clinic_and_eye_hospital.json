@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TITANIUM EYE CARE",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Pediatric ophthalmologist",
+    "pincode": "458226",
+    "phone_number": "+91 76040 79944",
+    "website": "https://www.tecmedica.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CF 134, Salt Lake Rd, CF Block, Sector 1, Bidhannagar, Kolkata, West Bengal 700064",
+    "area": "CF Block, Sector 1, Bidhannagar",
+    "latitude": 22.5951585,
+    "longitude": 88.4152968,
+    "place_id": "ChIJP3vjL0t1AjoRu7fkmVI1Mq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP3vjL0t1AjoRu7fkmVI1Mq4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:38:57"
+  },
+  {
+    "business_name": "Naveen Eye Care & Opticals",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Optometrist",
+    "all_categories": "Optometrist",
+    "pincode": "458226",
+    "phone_number": "+91 83599 71588",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Hospital Road, near Indion Oil Petrol Pump, Kanera, Rajasthan 312606",
+    "area": "458226",
+    "latitude": 24.707009499999998,
+    "longitude": 74.8919107,
+    "place_id": "ChIJ2_jz_uEHZjkR3cMZ33cpGbI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2_jz_uEHZjkR3cMZ33cpGbI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:38:59"
+  }
+]

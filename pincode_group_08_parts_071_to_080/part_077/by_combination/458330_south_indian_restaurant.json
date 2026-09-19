@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spice Touch India",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Food manufacturer",
+    "all_categories": "Food manufacturer",
+    "pincode": "458330",
+    "phone_number": "+91 94251 07050",
+    "website": "http://www.spicetouchindia.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Village, Jaisinghpura, Neemuch, Madhya Pradesh 458441",
+    "area": "Jaisinghpura",
+    "latitude": 24.447243099999998,
+    "longitude": 74.858937,
+    "place_id": "ChIJ73yaIS9zZjkRvIkZp-GW3RM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ73yaIS9zZjkRvIkZp-GW3RM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:42:26"
+  },
+  {
+    "business_name": "Sri Annapoorneshwari Refreshment",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "458330",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 202,
+    "address": "Shop No, 1, DRC Post, Venkateshwara Layout, S.G. Palya, Bengaluru, Karnataka 560029",
+    "area": "DRC Post, Venkateshwara Layout, S.G. Palya",
+    "latitude": 12.9313007,
+    "longitude": 77.6072843,
+    "place_id": "ChIJxygj50QVrjsRoLDfZdQAEAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxygj50QVrjsRoLDfZdQAEAs",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:42:26"
+  }
+]

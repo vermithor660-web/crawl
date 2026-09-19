@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajkumar Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant",
+    "pincode": "458228",
+    "phone_number": "+91 90096 73410",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Sindhi Colony, Neemuch, Madhya Pradesh 458441",
+    "area": "Sindhi Colony",
+    "latitude": 24.4608417,
+    "longitude": 74.871674,
+    "place_id": "ChIJVVVVModzZjkRTdP6dPZjxlY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVModzZjkRTdP6dPZjxlY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:40:33"
+  },
+  {
+    "business_name": "जय श्री सांवरिया सेठ रेस्टोरेंट एवं भोजनालय",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Rajasthani Restaurant",
+    "all_categories": "Rajasthani Restaurant",
+    "pincode": "458228",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "324M+H8, Katunda, Rajasthan 312023",
+    "area": "458228",
+    "latitude": 25.0563865,
+    "longitude": 75.0333388,
+    "place_id": "ChIJTznvcABTbzkRn3BJWPZhQJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTznvcABTbzkRn3BJWPZhQJ0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:40:33"
+  }
+]

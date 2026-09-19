@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pipliya Super Market",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, General store",
+    "pincode": "458664",
+    "phone_number": "+91 93408 81655",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "08, Main Market Road, Ajmer, Panth Pipalia, Rajasthan 458664",
+    "area": "458664",
+    "latitude": 24.2024482,
+    "longitude": 75.00768579999999,
+    "place_id": "ChIJ03bVBUbVZTkRbAcgAv-Dyd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ03bVBUbVZTkRbAcgAv-Dyd4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:01:08"
+  },
+  {
+    "business_name": "AK ब्रदर्स सुपर स्टोर",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "458664",
+    "phone_number": "+91 81205 45866",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "6257+FMR, Tilakheda, Panth Pipalia, Madhya Pradesh 458664",
+    "area": "Tilakheda",
+    "latitude": 24.2087424,
+    "longitude": 75.0141498,
+    "place_id": "ChIJkWaAVlrVZTkR2Ef_ONuTO6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkWaAVlrVZTkR2Ef_ONuTO6o",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:01:09"
+  }
+]

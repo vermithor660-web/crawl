@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paroha Developers",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer",
+    "pincode": "458441",
+    "phone_number": "+91 78798 30068",
+    "website": "http://www.parohadevelopers.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "MR-4 Road Ext, near Ekta Chowk, Vijay Nagar, Jabalpur, Madhya Pradesh 482002",
+    "area": "Vijay Nagar",
+    "latitude": 23.1818535,
+    "longitude": 79.9012781,
+    "place_id": "ChIJt6vAwhqugTkRtGLcrzP4Sws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt6vAwhqugTkRtGLcrzP4Sws",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:51:26"
+  },
+  {
+    "business_name": "Premium Property Advisor",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "458441",
+    "phone_number": "+91 72782 00001",
+    "website": "http://www.premiumpropertyadvisor.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "54-D, opposite Dr. Kalicharan, D-Block, Sarabha Nagar, Ludhiana, Punjab 141008",
+    "area": "D-Block, Sarabha Nagar",
+    "latitude": 30.890337499999998,
+    "longitude": 75.8198421,
+    "place_id": "ChIJVbuTwCaDGjkRLxrcE52_zq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVbuTwCaDGjkRLxrcE52_zq8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:51:27"
+  }
+]

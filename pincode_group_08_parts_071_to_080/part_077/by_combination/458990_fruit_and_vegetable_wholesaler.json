@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Fruit Center",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "458990",
+    "phone_number": "+91 88150 77972",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Banti Chouraha, Nai Aabadi, near Bus Stand, Daloda Chopati, Bhatrewas, Mandsaur, Madhya Pradesh 458001",
+    "area": "Daloda Chopati, Bhatrewas",
+    "latitude": 24.073460999999998,
+    "longitude": 75.06788689999999,
+    "place_id": "ChIJMxod3EgtZDkRQe4DL3j185g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMxod3EgtZDkRQe4DL3j185g",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:20:01"
+  },
+  {
+    "business_name": "Shree Ram Fruit & Vegetables",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "458990",
+    "phone_number": "+91 94138 95971",
+    "website": "http://www.shree-ram-fruit-vegetables.business.site.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Adityapuram, Sawa, Rajasthan 312613",
+    "area": "458990",
+    "latitude": 24.7560178,
+    "longitude": 74.61320979999999,
+    "place_id": "ChIJ5U8x0ucZZjkRH8Xo2g2_2b0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5U8x0ucZZjkRH8Xo2g2_2b0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:20:02"
+  }
+]

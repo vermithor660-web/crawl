@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahadev Taxi Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "457772",
+    "phone_number": "+91 94626 87652",
+    "website": "https://www.taxiservicemountabu.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Neel Kanth Rd, near Sterling, Dhundai Village, Dhundayi, Aburaj, Rajasthan 307501",
+    "area": "Dhundai Village, Dhundayi",
+    "latitude": 24.5867449,
+    "longitude": 72.72477359999999,
+    "place_id": "ChIJ_aXPVXAqXTkR_MABPx23enk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_aXPVXAqXTkR_MABPx23enk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:06:03"
+  },
+  {
+    "business_name": "Bansidhar Cab Jamnagar",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Chauffeur service, Minibus taxi service, Sightseeing Tour Operator, Travel agency",
+    "pincode": "457772",
+    "phone_number": "+91 63547 04545",
+    "website": "https://bansidharcabservice.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Defence Colony Road, near Mahakali Circle, Defence Colony, Jamnagar, Gujarat 361002",
+    "area": "Defence Colony",
+    "latitude": 22.471301099999998,
+    "longitude": 70.03088989999999,
+    "place_id": "ChIJK1miGwVuyYARkBLJtimLyBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK1miGwVuyYARkBLJtimLyBA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:06:03"
+  }
+]

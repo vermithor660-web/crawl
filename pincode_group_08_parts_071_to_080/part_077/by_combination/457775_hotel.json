@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shanti Gaura Palace",
+    "search_category": "Hotel",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "457775",
+    "phone_number": "+91 99773 14394",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Indore - Ahmedabad Hwy, Rajgarh, Dhulet, Madhya Pradesh 454116",
+    "area": "457775",
+    "latitude": 22.6804311,
+    "longitude": 74.9294231,
+    "place_id": "ChIJfddWRy9_YTkRlRhZEsGibRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfddWRy9_YTkRlRhZEsGibRY",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:10:07"
+  },
+  {
+    "business_name": "Hotel Devraj Palace",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "457775",
+    "phone_number": "+91 91713 94009",
+    "website": "http://hoteldevrajpalace.com/",
+    "rating": 4.1,
+    "reviews_count": 2685,
+    "address": "Highway, near Maheshwar Cottage, Indore, Maheshwar, Madhya Pradesh 451224",
+    "area": "457775",
+    "latitude": 22.17965,
+    "longitude": 75.5916144,
+    "place_id": "ChIJ8bpsoMZkYjkRzd20I0Tq2uI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8bpsoMZkYjkRzd20I0Tq2uI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:10:09"
+  }
+]

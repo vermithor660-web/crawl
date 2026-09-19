@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VIJAY FLOUR MILL",
+    "search_category": "Flour Mill",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "457885",
+    "phone_number": "+91 91747 55765",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Industrial area, 75-76, Unnamed Road, Harda, Madhya Pradesh 461331",
+    "area": "457885",
+    "latitude": 22.353201,
+    "longitude": 77.1028682,
+    "place_id": "ChIJZ3GPp193fTkRC1V8lPfUZGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ3GPp193fTkRC1V8lPfUZGo",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:16:25"
+  },
+  {
+    "business_name": "Flour mill (007)",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "457885",
+    "phone_number": "+91 95846 47468",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hatai chouk, Bistan, Madhya Pradesh 451441",
+    "area": "457885",
+    "latitude": 21.697092899999998,
+    "longitude": 75.6655176,
+    "place_id": "ChIJrUTr2DqL2DsR-80uBP4RR7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrUTr2DqL2DsR-80uBP4RR7M",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:16:26"
+  }
+]

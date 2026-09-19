@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AV Events",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "457775",
+    "phone_number": "+91 92021 17599",
+    "website": "https://avevents.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "AV Events, Vidyapati Building, 206, Race Course Rd, Near Janjeerwala Square, Narayan Kothi, Indore, Madhya Pradesh 452003",
+    "area": "Near Janjeerwala Square, Narayan Kothi",
+    "latitude": 22.726687899999998,
+    "longitude": 75.87994619999999,
+    "place_id": "ChIJd6qzavL9YjkRQLF7SllXfuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd6qzavL9YjkRQLF7SllXfuM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:10:12"
+  },
+  {
+    "business_name": "Indore Events",
+    "search_category": "Media and Event",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "457775",
+    "phone_number": "+91 70005 67470",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "H No. 113, Palhar Nagar, Indore, Madhya Pradesh 452005",
+    "area": "Palhar Nagar",
+    "latitude": 22.7292229,
+    "longitude": 75.8357333,
+    "place_id": "ChIJK6du6c79YjkRYpLcx1psIi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK6du6c79YjkRYpLcx1psIi8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:10:12"
+  }
+]

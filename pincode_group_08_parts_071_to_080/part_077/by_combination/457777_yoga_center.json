@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "YogaWithNeha",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Yoga instructor",
+    "pincode": "457777",
+    "phone_number": "+91 97121 52564",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2nd floor, Time square, Daman Rd, above sugar and spice restaurant, Daulat Nagar, Chala, Vapi, Gujarat 396191",
+    "area": "Daulat Nagar, Chala",
+    "latitude": 20.3883993,
+    "longitude": 72.898426,
+    "place_id": "ChIJb5UFof3R4DsRRct-LpRJXaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb5UFof3R4DsRRct-LpRJXaA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:11:28"
+  },
+  {
+    "business_name": "Anantay Yog",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "457777",
+    "phone_number": "+91 63533 98229",
+    "website": "https://www.instagram.com/anantay_yog",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near mangalam cross road, Sanskar Nagar, Bhuj, Gujarat 370001",
+    "area": "Sanskar Nagar",
+    "latitude": 23.2432774,
+    "longitude": 69.656668,
+    "place_id": "ChIJK9I_3QkfUTkRwv9Rn87p2zc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK9I_3QkfUTkRwv9Rn87p2zc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:11:28"
+  }
+]

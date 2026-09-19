@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FilmAddicts Photography",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Wedding photographer",
+    "all_categories": "Wedding photographer, Photographer, Wedding planner",
+    "pincode": "458002",
+    "phone_number": "+91 91711 11551",
+    "website": "https://www.filmaddicts.in/",
+    "rating": 4.8,
+    "reviews_count": 766,
+    "address": "4th Floor, ATP Towers, 27/12A, Bypass Rd, Ram Nagar, Madurai, Tamil Nadu 625016",
+    "area": "Ram Nagar",
+    "latitude": 9.918113199999999,
+    "longitude": 78.0944846,
+    "place_id": "ChIJb_yrWnHPADsRHTNED2QoSBA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb_yrWnHPADsRHTNED2QoSBA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:28:24"
+  },
+  {
+    "business_name": "SJ Agri Drones",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service",
+    "pincode": "458002",
+    "phone_number": "+91 79930 26974",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 28,
+    "address": "Gandavaram, Andhra Pradesh 524317",
+    "area": "458002",
+    "latitude": 14.5756527,
+    "longitude": 79.97013199999999,
+    "place_id": "ChIJ8zZWn7-PTDoRhvaRZoXf058",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8zZWn7-PTDoRhvaRZoXf058",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:28:24"
+  }
+]

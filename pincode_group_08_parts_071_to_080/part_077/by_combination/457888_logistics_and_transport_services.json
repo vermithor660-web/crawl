@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suyash Transport Company",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "457888",
+    "phone_number": "+91 98904 15733",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no. 2, First Floor, Puniyai Complex, Choufula-Kedgoan, Road, Kedgaon Station, Maharashtra 412203",
+    "area": "457888",
+    "latitude": 18.4812489,
+    "longitude": 74.37192019999999,
+    "place_id": "ChIJc9il7XYZwzsRNFm_s0DdYig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc9il7XYZwzsRNFm_s0DdYig",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:20:48"
+  },
+  {
+    "business_name": "Inland World Logistics, Dhulagarh",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "457888",
+    "phone_number": "+91 90075 09831",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "H5MR+726, Dhulagori, Howrah, Dhulagari, West Bengal 711302",
+    "area": "Dhulagori",
+    "latitude": 22.5831569,
+    "longitude": 88.19001349999999,
+    "place_id": "ChIJJ3f-MJx_AjoR5KFBfCmMPLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3f-MJx_AjoR5KFBfCmMPLM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:20:48"
+  }
+]

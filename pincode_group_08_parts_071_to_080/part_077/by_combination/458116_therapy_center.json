@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarkar Hospital सरकार स्वास्थ्य केन्द्र",
+    "search_category": "Therapy Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "458116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward no 17, near by shitla mata mandir, Hanspur, Manasa, Madhya Pradesh 458110",
+    "area": "458116",
+    "latitude": 24.456684199999998,
+    "longitude": 75.19028829999999,
+    "place_id": "ChIJ29p7OmzDZTkR5RetWE7kiDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29p7OmzDZTkR5RetWE7kiDI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:33:56"
+  },
+  {
+    "business_name": "Janta physiotharpy center",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "458116",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "near police station, Kukdeshwar, Madhya Pradesh 458116",
+    "area": "458116",
+    "latitude": 24.4802257,
+    "longitude": 75.2711602,
+    "place_id": "ChIJb1059vfBZTkRmGFN98p3NFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb1059vfBZTkRmGFN98p3NFA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:33:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Mangalam Properties",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Real estate developer",
+    "pincode": "458990",
+    "phone_number": "+91 89529 04587",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "A-1, Road, Gayatri Vihar, Raipura, Kethun, Kota, Rajasthan 324004",
+    "area": "Gayatri Vihar, Raipura",
+    "latitude": 25.147680299999998,
+    "longitude": 75.9026688,
+    "place_id": "ChIJLdlAT_WPbzkR6lBmM_YV7g8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLdlAT_WPbzkR6lBmM_YV7g8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:21:31"
+  },
+  {
+    "business_name": "Manglam Realtors",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial real estate agency, Real Estate Builders & Construction Company, Corporate office, Industrial real estate agency, Leasing service, Office space rental agency, Real estate rental agency",
+    "pincode": "458990",
+    "phone_number": "+91 94140 30007",
+    "website": "http://www.manglamrealtors.com/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Amrapali Plaza, B-23, Block E, Vaishali Nagar, Jaipur, Jaipur Nagar Nigam Area, Rajasthan 302021",
+    "area": "Block E, Vaishali Nagar",
+    "latitude": 26.911423,
+    "longitude": 75.7443669,
+    "place_id": "ChIJo3hzd_O1bTkR2AXhgyvKE3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3hzd_O1bTkR2AXhgyvKE3E",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:21:31"
+  }
+]

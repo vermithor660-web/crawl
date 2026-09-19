@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Vinaydeep Multispecialtiy Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "458556",
+    "phone_number": "+91 86901 13459",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "X442+F97, Dalauda, Banikhedi, Madhya Pradesh 458667",
+    "area": "Dalauda",
+    "latitude": 23.9559367,
+    "longitude": 75.1013765,
+    "place_id": "ChIJz9n0cVUlZDkRg1WpUBCkmD8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz9n0cVUlZDkRg1WpUBCkmD8",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:57:45"
+  },
+  {
+    "business_name": "Dr. Bhati Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "458556",
+    "phone_number": "+91 99931 32341",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khakhi bagh, Napakheda - Billod Rd, Nahargarh, Madhya Pradesh 458558",
+    "area": "458556",
+    "latitude": 24.1683067,
+    "longitude": 75.2370914,
+    "place_id": "ChIJUeM-LlAzZDkRX8S-JixRimk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUeM-LlAzZDkRX8S-JixRimk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:57:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Fish store",
+    "all_categories": "Fish store",
+    "pincode": "457772",
+    "phone_number": "+91 63521 39791",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 67,
+    "address": "R29W+454, Saiyed Wada, Una, Gujarat 362560",
+    "area": "Saiyed Wada",
+    "latitude": 20.817750999999998,
+    "longitude": 71.04546359999999,
+    "place_id": "ChIJtzwDDQH94jsRgY3ysamFYjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtzwDDQH94jsRgY3ysamFYjI",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:05:28"
+  },
+  {
+    "business_name": "Machhi Bazaar",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market, Market",
+    "pincode": "457772",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 189,
+    "address": "967P+PV9, SH8, Maliwada, Nandurbar, Maharashtra 425412",
+    "area": "Maliwada",
+    "latitude": 21.3642799,
+    "longitude": 74.2372194,
+    "place_id": "ChIJX1drcuoJ3zsR6oiP1uUQRDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX1drcuoJ3zsR6oiP1uUQRDg",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:05:30"
+  }
+]

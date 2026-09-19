@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Seva Computer",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "458880",
+    "phone_number": "+91 99260 27550",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Gandhi chowk, Garoth, Madhya Pradesh 458880",
+    "area": "458880",
+    "latitude": 24.3246802,
+    "longitude": 75.65167939999999,
+    "place_id": "ChIJ_UmCHG-pZTkR3442Bqzovbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_UmCHG-pZTkR3442Bqzovbw",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:13:43"
+  },
+  {
+    "business_name": "Sundaram Infotech",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "458880",
+    "phone_number": "+91 98272 54444",
+    "website": "https://d-sundaraminfotech.dotpe.in/",
+    "rating": 4,
+    "reviews_count": 64,
+    "address": "Dhanotiya complex, Shamgarh, Madhya Pradesh 458883",
+    "area": "458880",
+    "latitude": 24.1902203,
+    "longitude": 75.64022349999999,
+    "place_id": "ChIJbW_sS5RUZDkRoK8dtQEFm6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbW_sS5RUZDkRoK8dtQEFm6s",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:13:43"
+  }
+]

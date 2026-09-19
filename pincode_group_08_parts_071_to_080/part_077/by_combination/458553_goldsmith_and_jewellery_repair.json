@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vashali Jewllers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "458553",
+    "phone_number": "+91 88788 87662",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ke Samne, mandi Gate, Jenaviva Complex, Sader Bajar, Madhya Pradesh 458002",
+    "area": "Sarafa Bazar",
+    "latitude": 24.0601101,
+    "longitude": 75.0702013,
+    "place_id": "ChIJp51V5TovZDkR1Sz_8Bbbht4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp51V5TovZDkR1Sz_8Bbbht4",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:55:50"
+  },
+  {
+    "business_name": "Yash Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "458553",
+    "phone_number": "+91 98276 38547",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sarafa Bazar, Mandsaur, Madhya Pradesh 458002",
+    "area": "Sarafa Bazar",
+    "latitude": 24.059844599999998,
+    "longitude": 75.0711565,
+    "place_id": "ChIJ6YrGUJovZDkRs8VXQeC4KFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6YrGUJovZDkRs8VXQeC4KFA",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:55:50"
+  }
+]

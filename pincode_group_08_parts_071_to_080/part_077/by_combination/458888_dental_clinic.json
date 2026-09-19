@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vedansh Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "458888",
+    "phone_number": "+91 89660 58948",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sadar Bazar Main Road, near Vinayak Cable, Suwasra, Madhya Pradesh 458888",
+    "area": "458888",
+    "latitude": 24.069689699999998,
+    "longitude": 75.6528122,
+    "place_id": "ChIJBWyPrKNXZDkRJou6n5jVaR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBWyPrKNXZDkRJou6n5jVaR0",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:16:39"
+  },
+  {
+    "business_name": "Modern Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "458888",
+    "phone_number": "+91 90248 77184",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Niche mandi, Chaumahla, Kolvi Mandi Rajendra pura, Rajasthan 326515",
+    "area": "458888",
+    "latitude": 23.9459107,
+    "longitude": 75.6001361,
+    "place_id": "ChIJI6t3ee1bZDkRvn2pSyv6qQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI6t3ee1bZDkRvn2pSyv6qQE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:16:39"
+  }
+]

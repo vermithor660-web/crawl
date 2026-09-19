@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Hair Style",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "458990",
+    "phone_number": "+91 99937 41299",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.2, Bus Stand, Road, near Be Bus Stand, Sitamau, Madhya Pradesh 458990",
+    "area": "458990",
+    "latitude": 24.013030999999998,
+    "longitude": 75.3535938,
+    "place_id": "ChIJFX5F2MtJZDkR9222xSWLvOc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFX5F2MtJZDkR9222xSWLvOc",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:20:54"
+  },
+  {
+    "business_name": "PrateekRaj Mens Parlour",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "458990",
+    "phone_number": "+91 95897 54316",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "101, Kheda Rd, Sitamau, Madhya Pradesh 458990",
+    "area": "458990",
+    "latitude": 24.0201213,
+    "longitude": 75.3560122,
+    "place_id": "ChIJsRzhzlxJZDkR2NPaDZF9rgE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsRzhzlxJZDkR2NPaDZF9rgE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:20:54"
+  }
+]

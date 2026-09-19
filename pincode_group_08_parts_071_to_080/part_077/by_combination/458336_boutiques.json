@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivi fashion",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "458336",
+    "phone_number": "+91 73549 20478",
+    "website": "https://www.instagram.com/shivi_fashion77?igsh=aDZrYnV5NHo2d2c0",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sadar Bazar Rd, Jiran, Madhya Pradesh 458336",
+    "area": "458336",
+    "latitude": 24.3090709,
+    "longitude": 74.8917993,
+    "place_id": "ChIJA2jMbwB5ZjkR24whEBx5r4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA2jMbwB5ZjkR24whEBx5r4E",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:44:33"
+  },
+  {
+    "business_name": "Yatika Boutique And Maching Centre",
+    "search_category": "Boutiques",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "458336",
+    "phone_number": "+91 96912 71583",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mandi Rd, Gandhi Nagar, Jiran, Aghoriya, Madhya Pradesh 458336",
+    "area": "Gandhi Nagar",
+    "latitude": 24.311312899999997,
+    "longitude": 74.8868735,
+    "place_id": "ChIJLcQa0ix5ZjkRf7MyNrHUYno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLcQa0ix5ZjkRf7MyNrHUYno",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:44:33"
+  }
+]

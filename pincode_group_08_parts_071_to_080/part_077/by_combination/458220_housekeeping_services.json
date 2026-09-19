@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naukri Mitra",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "458220",
+    "phone_number": "+91 91318 00339",
+    "website": "https://naukrimitra.in/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "M-40, 2nd floor, BDA Comlex, Manisha market, Shahpura, Bhopal, Madhya Pradesh 462016",
+    "area": "No 6 Locality, Shahpura",
+    "latitude": 23.2235194,
+    "longitude": 77.433398,
+    "place_id": "ChIJc3g0m0RDfDkRB592YEGLnww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc3g0m0RDfDkRB592YEGLnww",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:38:06"
+  },
+  {
+    "business_name": "Solar Panel Cleaning Chemical - Kushagra Enterprises",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "458220",
+    "phone_number": "N/A",
+    "website": "https://www.solarpanelcleaningchemical.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Neemuch New Dhaan Mandi, Changera, Chouraha, Jawad, Neemuch, Madhya Pradesh 458441",
+    "area": "Chouraha",
+    "latitude": 24.5106888,
+    "longitude": 74.8346009,
+    "place_id": "ChIJnXhRU9YNZjkRmbXKvMS1UoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnXhRU9YNZjkRmbXKvMS1UoU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:38:06"
+  }
+]

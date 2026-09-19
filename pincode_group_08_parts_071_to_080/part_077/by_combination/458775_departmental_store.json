@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mewara Retail Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "458775",
+    "phone_number": "+91 99777 60862",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 7,
+    "address": "Ramganj Mandi Rd, Kalakot, Madhya Pradesh 458775",
+    "area": "458775",
+    "latitude": 24.577288799999998,
+    "longitude": 75.8810041,
+    "place_id": "ChIJBVTRjG0NZTkRSHABLagaVLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBVTRjG0NZTkRSHABLagaVLU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:08:36"
+  },
+  {
+    "business_name": "punjabi plastic store and crockery..",
+    "search_category": "Departmental Store",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "458775",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "road, Punjabi Colony, Bhanpura, Madhya Pradesh 458775",
+    "area": "Punjabi Colony",
+    "latitude": 24.510624999999997,
+    "longitude": 75.7464269,
+    "place_id": "ChIJVUnxZCYKZTkReZotROwptDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVUnxZCYKZTkReZotROwptDM",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:08:36"
+  }
+]

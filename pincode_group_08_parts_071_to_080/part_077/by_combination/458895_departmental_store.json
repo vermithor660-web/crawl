@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Mohan Traders",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Asian grocery store",
+    "pincode": "458895",
+    "phone_number": "+91 77718 60913",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Railway station road Shop no.8, Madhya Pradesh 458001",
+    "area": "Mathur Colony, Nai Abaadi",
+    "latitude": 24.0760944,
+    "longitude": 75.07494249999999,
+    "place_id": "ChIJr5wBMpQtZDkRDRaaaZqVgKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr5wBMpQtZDkRDRaaaZqVgKk",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:18:05"
+  },
+  {
+    "business_name": "Mahesh kirana",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "458895",
+    "phone_number": "+91 97521 71652",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Sitamau fatak, near Labh muni Hospital, Mandsaur, Todi, Madhya Pradesh 458002",
+    "area": "458895",
+    "latitude": 24.0593728,
+    "longitude": 75.0928531,
+    "place_id": "ChIJvZwvu9wvZDkRJTmF0NU8COU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvZwvu9wvZDkRJTmF0NU8COU",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 11:18:06"
+  }
+]

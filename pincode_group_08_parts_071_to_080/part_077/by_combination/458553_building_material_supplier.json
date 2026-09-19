@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meetha Sales Agency",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "458553",
+    "phone_number": "+91 94240 80426",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "8 no.comlpex.pipliya mandi road ,budha M.P 8 no.comlpex, Manasa-Mandsaur Rd, Budha, Madhya Pradesh 458556",
+    "area": "Badri",
+    "latitude": 24.252739599999998,
+    "longitude": 75.1418135,
+    "place_id": "ChIJPYOUJhvSZTkRTsKsgnpYljE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPYOUJhvSZTkRTsKsgnpYljE",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:56:18"
+  },
+  {
+    "business_name": "Swastik Industries",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "458553",
+    "phone_number": "+91 94066 75357",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "ke samne, 8Number Complex, Pipliya Mandi Rd, Badri, Budha, Madhya Pradesh 458556",
+    "area": "Badri",
+    "latitude": 24.2529839,
+    "longitude": 75.1421969,
+    "place_id": "ChIJMVRxuaXTZTkRxwXMShJTCdQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMVRxuaXTZTkRxwXMShJTCdQ",
+    "part_id": "part_077",
+    "crawled_at": "2026-09-19 10:56:20"
+  }
+]
