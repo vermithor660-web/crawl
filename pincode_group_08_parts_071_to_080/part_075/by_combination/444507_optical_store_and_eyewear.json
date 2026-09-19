@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "गजानन ऑप्टीकल्स",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "444507",
+    "phone_number": "+91 94218 33885",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ansing, Maharashtra 444507",
+    "area": "444507",
+    "latitude": 20.0398417,
+    "longitude": 77.31118219999999,
+    "place_id": "ChIJayIVXMAE0TsRAzYqc-jqTRQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJayIVXMAE0TsRAzYqc-jqTRQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:22:47"
+  },
+  {
+    "business_name": "AKSHAY OPTICALS",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Vegetarian restaurant",
+    "pincode": "444507",
+    "phone_number": "+91 73877 30531",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Borkar Complex, Mahalakshmi Petrol Pump Rd, Washim, Maharashtra 444505",
+    "area": "444507",
+    "latitude": 20.11066,
+    "longitude": 77.1323061,
+    "place_id": "ChIJq6lKcrzj0DsR1PpowBbNh5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6lKcrzj0DsR1PpowBbNh5o",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:22:50"
+  }
+]

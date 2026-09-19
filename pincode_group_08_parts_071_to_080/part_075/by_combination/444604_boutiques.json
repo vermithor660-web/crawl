@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "EKATRA BOUTIQUE AMRAVATI",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "444604",
+    "phone_number": "+91 70200 26926",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 11, Gulshan Tower, Panchsheel Theater, Road, beside Axis Bank, Amrawati Tahsil, Wahdat Nagar, Amravati, Maharashtra 444601",
+    "area": "Amrawati Tahsil, Wahdat Nagar",
+    "latitude": 20.931377299999998,
+    "longitude": 77.7562899,
+    "place_id": "ChIJR5QfkV2l1jsR7Hezp15ZaXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR5QfkV2l1jsR7Hezp15ZaXA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:33:41"
+  },
+  {
+    "business_name": "Radhika Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "444604",
+    "phone_number": "+91 89753 58787",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "202, Satya Dev Appartment, Pote College Road, Vithai Nagar, Amravati, Maharashtra 444604",
+    "area": "Vithai Nagar",
+    "latitude": 20.9664392,
+    "longitude": 77.756605,
+    "place_id": "ChIJrZ6tZ_uj1jsRjQR-Lh7L1d4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZ6tZ_uj1jsRjQR-Lh7L1d4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:33:41"
+  }
+]

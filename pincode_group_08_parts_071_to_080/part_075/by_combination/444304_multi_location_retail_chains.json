@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Retail Way",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "444304",
+    "phone_number": "+91 99101 49915",
+    "website": "https://retailway.in/",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Mez & 1st Floor, A83, Pocket D, Okhla Phase II, Okhla Industrial Estate, New Delhi, Delhi 110020",
+    "area": "Pocket D, Okhla Phase II, Okhla Industrial Estate",
+    "latitude": 28.5386293,
+    "longitude": 77.26949259999999,
+    "place_id": "ChIJg1AjEbrjDDkR646zdv-xQzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg1AjEbrjDDkR646zdv-xQzU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 05:54:39"
+  },
+  {
+    "business_name": "Cheap & Best",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "General store",
+    "all_categories": "General store, Grocery delivery service, Indian grocery store",
+    "pincode": "444304",
+    "phone_number": "+91 81084 49946",
+    "website": "http://cbest.in/",
+    "rating": 3.8,
+    "reviews_count": 217,
+    "address": "Raheja Vihar Circular Rd, Hillside Cooperative Society, Tunga Village, Chandivali, Powai, Mumbai, Maharashtra 400072",
+    "area": "Hillside Cooperative Society, Tunga Village, Chandivali, Powai",
+    "latitude": 19.116799999999998,
+    "longitude": 72.89488089999999,
+    "place_id": "ChIJOcDvifHH5zsROvaMBb1c0Bg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOcDvifHH5zsROvaMBb1c0Bg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 05:54:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sheetal Fast Food",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Ice cream shop",
+    "pincode": "444501",
+    "phone_number": "+91 80873 76806",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Mahatma Gandhi Rd, Kala Chabutra, Chowpati, Akola, Maharashtra 444006",
+    "area": "Kala Chabutra, Chowpati",
+    "latitude": 20.708393299999997,
+    "longitude": 76.9978903,
+    "place_id": "ChIJjeTxlycx1zsRvwdGQYN4V58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjeTxlycx1zsRvwdGQYN4V58",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:12:13"
+  },
+  {
+    "business_name": "Sandwich",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Sandwich shop",
+    "all_categories": "Sandwich shop",
+    "pincode": "444501",
+    "phone_number": "+91 73505 31272",
+    "website": "https://instagram.com/sandwich.com_akola?igshid=YmMyMTA2M2Y",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Necklace Rd, near LRT COLLEGE, Ranpise Nagar, Akola, Maharashtra 444001",
+    "area": "Ranpise Nagar",
+    "latitude": 20.7069312,
+    "longitude": 77.0100578,
+    "place_id": "ChIJtUS2Yusx1zsR8Y0jbXO9Fgk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtUS2Yusx1zsR8Y0jbXO9Fgk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:12:13"
+  }
+]

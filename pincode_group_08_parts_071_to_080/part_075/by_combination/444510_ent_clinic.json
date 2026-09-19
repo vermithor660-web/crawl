@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tirupati Clinic",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "444510",
+    "phone_number": "+91 79729 30449",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1 Bus Stand, Asegaon Pen, Maharashtra 444505",
+    "area": "444510",
+    "latitude": 20.1157558,
+    "longitude": 77.13588279999999,
+    "place_id": "ChIJyw3TWy7j0DsRlNaLKz4pLQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyw3TWy7j0DsRlNaLKz4pLQA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:24:38"
+  },
+  {
+    "business_name": "Care ENT Hospital & Maternity Home",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444510",
+    "phone_number": "+91 93701 11449",
+    "website": "https://carehospital.in/",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Babu lodge area, Police Station Road, beside Hasham Bichhayat, Shivaji Nagar, Chikhli, Maharashtra 443201",
+    "area": "Shivaji Nagar",
+    "latitude": 20.349627299999998,
+    "longitude": 76.2549318,
+    "place_id": "ChIJ1wGXjJoR2jsRkA03Eyn6abQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1wGXjJoR2jsRkA03Eyn6abQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:24:38"
+  }
+]

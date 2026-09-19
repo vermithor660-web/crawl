@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Associates",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Contractor, Electrical installation service, Plumbing supply store",
+    "pincode": "444601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "shop no. 13, shri ram market, in front of shri ram mandeer, Rajapeth, Govind Nagar, Amravati, Maharashtra 444605",
+    "area": "Rajapeth, Govind Nagar",
+    "latitude": 20.9201834,
+    "longitude": 77.7562432,
+    "place_id": "ChIJB32TjmKl1jsRMw1UCFh24jc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB32TjmKl1jsRMw1UCFh24jc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:29:05"
+  },
+  {
+    "business_name": "Ashish Harkut & Associates",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "444601",
+    "phone_number": "+91 97669 19290",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shilangan Rd, Ganesh Colony, Amravati, Maharashtra 444605",
+    "area": "Ganesh Colony",
+    "latitude": 20.9204322,
+    "longitude": 77.7481375,
+    "place_id": "ChIJVx2Q1LGk1jsR8HPygBaWXr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVx2Q1LGk1jsR8HPygBaWXr0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:29:07"
+  }
+]

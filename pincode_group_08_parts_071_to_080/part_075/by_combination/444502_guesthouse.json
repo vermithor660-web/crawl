@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Chetan Palace",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Lodge",
+    "pincode": "444502",
+    "phone_number": "+91 83808 61225",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Railway Station Rd, Ramdaspeth, Akola, Maharashtra 444005",
+    "area": "Ramdaspeth",
+    "latitude": 20.7218302,
+    "longitude": 77.0055294,
+    "place_id": "ChIJNYCosd4x1zsRjmzcJoV7tL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNYCosd4x1zsRjmzcJoV7tL4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:14:49"
+  },
+  {
+    "business_name": "Satyam palace",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Banquet hall",
+    "pincode": "444502",
+    "phone_number": "+91 88888 41447",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 86,
+    "address": "Akola road, Akot, Tandulwadi, Maharashtra 444101",
+    "area": "444502",
+    "latitude": 21.0539694,
+    "longitude": 77.0452655,
+    "place_id": "ChIJsbBiTGkZ1zsRXOHnzqSJDwk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsbBiTGkZ1zsRXOHnzqSJDwk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:14:50"
+  }
+]

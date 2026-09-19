@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tirumala Hotel Amravati",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Extended stay hotel, Motel, Restaurant",
+    "pincode": "444603",
+    "phone_number": "+91 93590 67585",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 101,
+    "address": "Irwin Square, Morshi Rd, near Agrawal Petrol Pump, Amravati, Maharashtra 444603",
+    "area": "Shrikrishna Peth",
+    "latitude": 20.934597099999998,
+    "longitude": 77.7615517,
+    "place_id": "ChIJTwdSOqek1jsRS3ycvpBs3u8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTwdSOqek1jsRS3ycvpBs3u8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:32:30"
+  },
+  {
+    "business_name": "OYO 71253 Milan Palace",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "444603",
+    "phone_number": "+91 124 620 1126",
+    "website": "https://www.oyorooms.com/99098",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Badnera Rd, Sharda Vihar, Amravati, Maharashtra 444605",
+    "area": "Sharda Vihar",
+    "latitude": 20.9146742,
+    "longitude": 77.7530766,
+    "place_id": "ChIJYTJUBZ6l1jsRDFaQLP18N10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYTJUBZ6l1jsRDFaQLP18N10",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:32:31"
+  }
+]

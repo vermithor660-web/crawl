@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ARHSUB AUTODEAL",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "444402",
+    "phone_number": "+91 98226 50205",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "39,Nafees Park, Ganga Nagar 2, Patur Road, Maharashtra 444007",
+    "area": "Nafees Bagh, Dahigaon Gawande",
+    "latitude": 20.6927447,
+    "longitude": 76.9846125,
+    "place_id": "ChIJDUvwUlIx1zsRs_dFw5kZ3hM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDUvwUlIx1zsRs_dFw5kZ3hM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:02:21"
+  },
+  {
+    "business_name": "Car Depot",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Car dealer",
+    "pincode": "444402",
+    "phone_number": "+91 97053 32220",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 210,
+    "address": "Metro Station Yousufguda, Road Number 5, beside Jubliee Hills, opposite Pillar No 1573, Women's Welfare Housing Society, Jubilee Hills, Hyderabad, Telangana 500034",
+    "area": "Women's Welfare Housing Society, Jubilee Hills",
+    "latitude": 17.4305079,
+    "longitude": 78.4211141,
+    "place_id": "ChIJNVXTMySRyzsRsJFXIPceVkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNVXTMySRyzsRsJFXIPceVkM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:02:24"
+  }
+]

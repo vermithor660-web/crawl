@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garden Dresses",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "444706",
+    "phone_number": "+91 77961 07130",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Sangludkar Complex, Main Road, Shiwarkar Nagar, Banosa, Daryapur Banosa, Maharashtra 444803",
+    "area": "Shiwarkar Nagar",
+    "latitude": 20.9240966,
+    "longitude": 77.32467869999999,
+    "place_id": "ChIJW9JY5Wbc1jsRdLEYy-dQskg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW9JY5Wbc1jsRdLEYy-dQskg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:48:00"
+  },
+  {
+    "business_name": "Anuja Dresses kids wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "444706",
+    "phone_number": "+91 98600 86186",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sarvadnya Complex Kanya Shala Road Shop No 1, Daryapur Banosa, Maharashtra 444803",
+    "area": "Civil Line",
+    "latitude": 20.9241368,
+    "longitude": 77.3273475,
+    "place_id": "ChIJvfH4HeHd1jsRaMwTDPayxvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvfH4HeHd1jsRaMwTDPayxvo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:48:00"
+  }
+]

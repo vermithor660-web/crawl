@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SK nursing home and hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Badnera Rd, Guruchhaya Colony, Sai Nagar, Amravati, Maharashtra 444607",
+    "area": "Guruchhaya Colony, Sai Nagar",
+    "latitude": 20.898095899999998,
+    "longitude": 77.74729219999999,
+    "place_id": "ChIJjw9d8iyl1jsRnntU5O_0vlM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjw9d8iyl1jsRnntU5O_0vlM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:29:56"
+  },
+  {
+    "business_name": "Bansod Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dastur Nagar, Amravati, Maharashtra 444606",
+    "area": "Dastur Nagar",
+    "latitude": 20.908883499999998,
+    "longitude": 77.7672936,
+    "place_id": "ChIJ19qT6MGk1jsRGM4-KxlHpLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ19qT6MGk1jsRGM4-KxlHpLg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:29:59"
+  }
+]

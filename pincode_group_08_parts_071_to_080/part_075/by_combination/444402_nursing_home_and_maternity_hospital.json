@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444402",
+    "phone_number": "+91 72763 00971",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Kediya plots, Ranpise Nagar, Akola, Maharashtra 444005",
+    "area": "Ranpise Nagar",
+    "latitude": 20.712734599999997,
+    "longitude": 77.0129766,
+    "place_id": "ChIJO3VhXh4u1zsRm-8gotQEZzw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3VhXh4u1zsRm-8gotQEZzw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:02:11"
+  },
+  {
+    "business_name": "Nursing Station Surgicals",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Surgical supply store",
+    "all_categories": "Surgical supply store",
+    "pincode": "444402",
+    "phone_number": "+91 99767 83123",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1/1, Bypass Rd, Sakthi Velammal Nagar, Ponni Nagar, Kalavasal, Madurai, Tamil Nadu 625016",
+    "area": "Sakthi Velammal Nagar, Ponni Nagar, Kalavasal",
+    "latitude": 9.9268105,
+    "longitude": 78.0948004,
+    "place_id": "ChIJcSefTjDPADsR2dlpN4FblkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcSefTjDPADsR2dlpN4FblkM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:02:14"
+  }
+]

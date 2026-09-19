@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Computer Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "444511",
+    "phone_number": "+91 70288 27711",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Akola Fata, Malegaon Jahangir, Maharashtra 444503",
+    "area": "444511",
+    "latitude": 20.2355885,
+    "longitude": 76.99326219999999,
+    "place_id": "ChIJScqMI5LD0DsRrnL-Yr2IY8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJScqMI5LD0DsRrnL-Yr2IY8Q",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:27:01"
+  },
+  {
+    "business_name": "THE VOCATIONAL COMPUTER CENTRE",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "444511",
+    "phone_number": "+91 90965 71699",
+    "website": "https://www.mkcl.org/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chhatrapati Shivaji Maharaj Chowk, behind Post Office Datt Sankul, Jamb, Maharashtra 444511",
+    "area": "444511",
+    "latitude": 20.3803975,
+    "longitude": 76.8549367,
+    "place_id": "ChIJZcnuNxTH0DsRTsDvh0ttBBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZcnuNxTH0DsRTsDvh0ttBBQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:27:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RamKamal Mart (RK)",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "444602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 77,
+    "address": "Vidharb Mill, Bus Stop, Paratwada, Vivekanand Colony, Kheldeomali, Maharashtra 444805",
+    "area": "Paratwada, Vivekanand Colony",
+    "latitude": 21.2737603,
+    "longitude": 77.52268959999999,
+    "place_id": "ChIJs4NBGjrz1jsRwEWn_A-KQWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs4NBGjrz1jsRwEWn_A-KQWY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:31:21"
+  },
+  {
+    "business_name": "Shrikrushna Multi Services",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Astrologer",
+    "all_categories": "Astrologer, Counselor, Gemstone Jeweler, Life coach, Meditation center, Numerologist, Print shop, Psychotherapist, 3D printing service, Vastu consultant",
+    "pincode": "444602",
+    "phone_number": "+91 94055 99645",
+    "website": "https://shrikrushnamultiservices.com/",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "Swarashti Apartment, 102, Gawande Layout, Sai Nagar, Amravati, Maharashtra 444607",
+    "area": "Gawande Layout, Sai Nagar",
+    "latitude": 20.901370399999998,
+    "longitude": 77.7454547,
+    "place_id": "ChIJednMZgCl1jsR3fRBfiPv5X8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJednMZgCl1jsR3fRBfiPv5X8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:31:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "salim tayer works",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Store",
+    "pincode": "444604",
+    "phone_number": "+91 83084 30186",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "shop no 65, Transport Nagar, Amravati, Maharashtra 444601",
+    "area": "Transport Nagar",
+    "latitude": 20.946953,
+    "longitude": 77.7403458,
+    "place_id": "ChIJYdQYPhW91jsRgMIVghCxDd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYdQYPhW91jsRgMIVghCxDd4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:33:53"
+  },
+  {
+    "business_name": "National Agency- Continental Tyres",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop, Auto Accessories Store, Oil change service, Wheel alignment service",
+    "pincode": "444604",
+    "phone_number": "+91 79 4929 4368",
+    "website": "https://stores.continental-tyres.in/continental-tyres---national-agency-radha-nagar-amravati-16992/overview/?brandId=6f1a0ea5-977f-466e-81eb-5df4c71209ef",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "panchwati Chowk, Morshi Rd, Radha Nagar, Gadge Nagar, Amravati, Maharashtra 444603",
+    "area": "Radha Nagar, Gadge Nagar",
+    "latitude": 20.9458275,
+    "longitude": 77.7717105,
+    "place_id": "ChIJOdboplij1jsRCo57e1SyOww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOdboplij1jsRCo57e1SyOww",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:33:53"
+  }
+]

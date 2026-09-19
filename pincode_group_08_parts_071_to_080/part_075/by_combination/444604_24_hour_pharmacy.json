@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Saad Medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "444604",
+    "phone_number": "+91 98224 43806",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WPQP+CXG, Taj Nagar, Amravati, Maharashtra 444601",
+    "area": "Taj Nagar",
+    "latitude": 20.938573899999998,
+    "longitude": 77.73744649999999,
+    "place_id": "ChIJuZKFMwC91jsRd3Soq2DOA8k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuZKFMwC91jsRd3Soq2DOA8k",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:33:43"
+  },
+  {
+    "business_name": "Al Sayyed Pharma",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "444604",
+    "phone_number": "+91 97665 49725",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shifa Clinic, 481, Bhakuali Road, Pathan Chowk, Paki Pura, Amravati, Maharashtra 444601",
+    "area": "Pathan Chowk, Paki Pura",
+    "latitude": 20.9388161,
+    "longitude": 77.74100469999999,
+    "place_id": "ChIJNcmgkFW91jsR-D_247cstqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNcmgkFW91jsR-D_247cstqQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:33:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nirantar Healthcare",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444602",
+    "phone_number": "+91 90219 30681",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rajashree colony, Dastur Nagar, Amravati, Maharashtra 444606",
+    "area": "Dastur Nagar",
+    "latitude": 20.9280181,
+    "longitude": 77.7652346,
+    "place_id": "ChIJsYsQed2l1jsRa36tR8ii-BQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsYsQed2l1jsRa36tR8ii-BQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:30:04"
+  },
+  {
+    "business_name": "MedPlus Arjun Nagar",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, General store, Medical supply store, Sports nutrition store, Vitamin & supplements store",
+    "pincode": "444602",
+    "phone_number": "+91 40 6700 6700",
+    "website": "https://www.medplusmart.com/",
+    "rating": 3.8,
+    "reviews_count": 21,
+    "address": "Near, Shop No 1&2 Property No. 507/1, Ward No. 4 Sahajanand Nagar, Arjun Nagar, Amravati, Maharashtra 444603",
+    "area": "Arjun Nagar",
+    "latitude": 20.9592605,
+    "longitude": 77.7773555,
+    "place_id": "ChIJWQJjJ06j1jsR-vTxONuTYVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQJjJ06j1jsR-vTxONuTYVU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:30:06"
+  }
+]

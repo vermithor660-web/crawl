@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wheat Flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "444404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "V845+CX2, MIDC, Chhatrapati Sambhajinagar, Maharashtra 431010",
+    "area": "MIDC",
+    "latitude": 19.856024599999998,
+    "longitude": 75.3098777,
+    "place_id": "ChIJU9klRvaY2zsRJfq7unsp8cM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU9klRvaY2zsRJfq7unsp8cM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:06:43"
+  },
+  {
+    "business_name": "Maharashtra oil mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "444404",
+    "phone_number": "+91 96371 07474",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ruikar Colony, Kolhapur, Maharashtra 416005",
+    "area": "Ruikar Colony",
+    "latitude": 16.701391,
+    "longitude": 74.255152,
+    "place_id": "ChIJJTLzJkgAwTsRXMXUwFfvz74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJTLzJkgAwTsRXMXUwFfvz74",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:06:43"
+  }
+]

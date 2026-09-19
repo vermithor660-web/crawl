@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KHAN FLOUR MIL",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "444502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "HVM7+V5W, Azad chowk, Wadegaon, Maharashtra 444502",
+    "area": "Azad chowk",
+    "latitude": 20.584725199999998,
+    "longitude": 76.8629421,
+    "place_id": "ChIJ98cTXyfL0DsRufX_aFdXmBg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ98cTXyfL0DsRufX_aFdXmBg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:13:50"
+  },
+  {
+    "business_name": "Samyak khandare",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "444502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "HWV9+H2W, Bharatpur, Maharashtra 444006",
+    "area": "444502",
+    "latitude": 20.593978699999997,
+    "longitude": 76.91757179999999,
+    "place_id": "ChIJ45uGpok11zsRKAxBSKOPXmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ45uGpok11zsRKAxBSKOPXmM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:13:52"
+  }
+]

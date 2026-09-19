@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guwahati Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Assamese restaurant",
+    "all_categories": "Assamese restaurant",
+    "pincode": "444507",
+    "phone_number": "+91 80990 83709",
+    "website": "https://www.instagram.com/guwahaticloudkitchen/profilecard/?igsh=MWNoNmsyOTR2YnVleg==",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "nearby SBI ATM, Japorigog, Krishnanagar, Guwahati, Assam 781005",
+    "area": "Japorigog, Krishnanagar",
+    "latitude": 26.1598124,
+    "longitude": 91.79603,
+    "place_id": "ChIJv0oh7PJZWjcRQhV8vTJN-7c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv0oh7PJZWjcRQhV8vTJN-7c",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:22:38"
+  },
+  {
+    "business_name": "Cinnamon Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "444507",
+    "phone_number": "+91 80876 18854",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no. 06, Sahyog Complex, Sut Girni Rd, beside Rudra Food Court, opposite to old chaurangi hotel, Sahyognagar, Chh, garkheda, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Sahyognagar, Chh, garkheda",
+    "latitude": 19.8621502,
+    "longitude": 75.3470689,
+    "place_id": "ChIJw0bKpx-j2zsR2MA12Gz_3Qk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw0bKpx-j2zsR2MA12Gz_3Qk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:22:38"
+  }
+]

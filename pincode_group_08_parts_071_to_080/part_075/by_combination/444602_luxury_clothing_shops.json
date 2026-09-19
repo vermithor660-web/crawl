@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Innovative collection",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Jeans shop, Men's clothing store",
+    "pincode": "444602",
+    "phone_number": "+91 97636 56370",
+    "website": "https://t.me/innovativecollection",
+    "rating": 5,
+    "reviews_count": 19,
+    "address": "G3,Pawar complex, Gali Number 1, Radha Nagar, Panchavati chowk, Amravati, Maharashtra 444603",
+    "area": "Radha Nagar, Panchavati chowk",
+    "latitude": 20.943507,
+    "longitude": 77.7693741,
+    "place_id": "ChIJk3L-94uj1jsR70azkizrm6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk3L-94uj1jsR70azkizrm6k",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:29:54"
+  },
+  {
+    "business_name": "Monte Carlo Exclusive Showroom",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer",
+    "pincode": "444602",
+    "phone_number": "+91 79 4272 7016",
+    "website": "https://stores.montecarlo.in/monte-carlo-exclusive-showroom-fashion-designer-gopal-nagar-amravati-492922/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1st Flr, Tapadia City Centre, No C111, Gopal Nagar, Amravati, Maharashtra 444607",
+    "area": "Gopal Nagar",
+    "latitude": 20.8998456,
+    "longitude": 77.74806,
+    "place_id": "ChIJhxlW-nul1jsRImw1vK0XIxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhxlW-nul1jsRImw1vK0XIxc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:29:55"
+  }
+]

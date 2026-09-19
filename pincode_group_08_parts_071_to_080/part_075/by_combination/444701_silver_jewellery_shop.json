@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarthak Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "444701",
+    "phone_number": "+91 90759 56047",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ashok Nagar, Subhash Chauk, New Town, Badnera, Amravati, Maharashtra 444601",
+    "area": "New Town, Badnera",
+    "latitude": 20.8532016,
+    "longitude": 77.72777339999999,
+    "place_id": "ChIJF0v_AwC71jsR38b-RLbHlzQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF0v_AwC71jsR38b-RLbHlzQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:40:57"
+  },
+  {
+    "business_name": "Shri Siddhanath Jewelers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "444701",
+    "phone_number": "+91 95524 99905",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 8,
+    "address": "Shop No.01, Mhada Colony, Harsh Colony, Badnera, Amravati, Maharashtra 444701",
+    "area": "Mhada Colony, Harsh Colony, Badnera",
+    "latitude": 20.8532315,
+    "longitude": 77.7289622,
+    "place_id": "ChIJcb95RLu61jsRAAAAcMMD6TI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcb95RLu61jsRAAAAcMMD6TI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:40:57"
+  }
+]

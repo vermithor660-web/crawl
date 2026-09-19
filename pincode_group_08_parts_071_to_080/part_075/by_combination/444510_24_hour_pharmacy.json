@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Netmeds Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "444510",
+    "phone_number": "+91 83560 19166",
+    "website": "https://www.netmeds.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Survey No 476/2, Mandhane Complex, SMART Point, Ground Floor, Washim, Maharashtra 444505",
+    "area": "444510",
+    "latitude": 20.1081726,
+    "longitude": 77.1447396,
+    "place_id": "ChIJYRNbWGLj0DsRbM79Dk6LaoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYRNbWGLj0DsRbM79Dk6LaoM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:24:29"
+  },
+  {
+    "business_name": "Alhajj Muhammad Naeemuddin Manzil",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "444510",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GANJI SHAH BABA, Dargah Rd, Saudagar Pura, Washim, Maharashtra 444505",
+    "area": "Saudagar Pura",
+    "latitude": 20.1050604,
+    "longitude": 77.1345786,
+    "place_id": "ChIJv4xN8Grj0DsRlFW7M5wrS_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv4xN8Grj0DsRlFW7M5wrS_8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:24:32"
+  }
+]

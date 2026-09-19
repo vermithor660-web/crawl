@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanta Chat Corner & Sandwitch",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Sandwich shop",
+    "all_categories": "Sandwich shop",
+    "pincode": "444506",
+    "phone_number": "+91 70391 21272",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 333,
+    "address": "B.P.D. Road, near Saraswat Co. Op. Bank, Thane West, Thane, Maharashtra 400602",
+    "area": "Naupada, Thane West",
+    "latitude": 19.1873517,
+    "longitude": 72.9693727,
+    "place_id": "ChIJL2J-jB-55zsR6bUwQxZYzEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL2J-jB-55zsR6bUwQxZYzEk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:20:55"
+  },
+  {
+    "business_name": "Yadav Chaat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "444506",
+    "phone_number": "+91 91671 36331",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 23,
+    "address": "Shop No 12, Kashigaon, Mira Road East, Mumbai, Mira Bhayandar, Maharashtra 401107",
+    "area": "Kashigaon, Mira Road East",
+    "latitude": 19.2711164,
+    "longitude": 72.8869201,
+    "place_id": "ChIJUYAEsfCx5zsRErJkjXlOMDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUYAEsfCx5zsRErJkjXlOMDA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:20:55"
+  }
+]

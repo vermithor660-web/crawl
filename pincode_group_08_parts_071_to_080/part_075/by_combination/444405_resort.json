@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Caves County",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "444405",
+    "phone_number": "+91 87999 58461",
+    "website": "https://cavescountyresort.com/",
+    "rating": 4,
+    "reviews_count": 969,
+    "address": "19/1 VIHOLI, Mumbai - Nashik Expy, near OCTROI NAKA, next to Bharat Petrol Pump, Vilholi, Maharashtra 422010",
+    "area": "444405",
+    "latitude": 19.9335526,
+    "longitude": 73.7301665,
+    "place_id": "ChIJW-sVw92T3TsRp1hohHjdCNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-sVw92T3TsRp1hohHjdCNw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:07:56"
+  },
+  {
+    "business_name": "Tropical Retreat By Zuper",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "444405",
+    "phone_number": "+91 82687 67676",
+    "website": "https://tropicalretreat.in/",
+    "rating": 4.4,
+    "reviews_count": 7963,
+    "address": "Survey No. 237/1, Pimpri Road, Mumbai - Agra, National Highway, near PWD Guest House, Ram Nagar, Igatpuri, Maharashtra 422403",
+    "area": "Ram Nagar",
+    "latitude": 19.683816999999998,
+    "longitude": 73.5764567,
+    "place_id": "ChIJTQPKfD6E3TsRszgyAXrvpf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQPKfD6E3TsRszgyAXrvpf8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:07:56"
+  }
+]

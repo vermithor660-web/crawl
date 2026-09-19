@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHAMPION FITNESS CLUB",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "444702",
+    "phone_number": "+91 97701 61495",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Royal Enfield shorum ke uppar, 1, Kalapatha Rd, vikas nagar, Betul, Madhya Pradesh 460001",
+    "area": "vikas nagar",
+    "latitude": 21.9088832,
+    "longitude": 77.90680069999999,
+    "place_id": "ChIJA0PVVf4J1jsRbh2676KzYEI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA0PVVf4J1jsRbh2676KzYEI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:43:04"
+  },
+  {
+    "business_name": "Varad Fitness Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "444702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "6977+868, Pathrot, Maharashtra 444808",
+    "area": "444702",
+    "latitude": 21.2132798,
+    "longitude": 77.363083,
+    "place_id": "ChIJ98vC6Zn71jsRYfgu-V3KoBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ98vC6Zn71jsRYfgu-V3KoBQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:43:06"
+  }
+]

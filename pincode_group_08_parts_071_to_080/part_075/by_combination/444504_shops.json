@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tapdiya Traders",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "444504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "near Hanuman Mandir, Gowardhan, Maharashtra 444504",
+    "area": "444504",
+    "latitude": 20.106006,
+    "longitude": 76.8336405,
+    "place_id": "ChIJU4fARs7t0DsR2819-fhsSV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU4fARs7t0DsR2819-fhsSV8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:18:57"
+  },
+  {
+    "business_name": "Yash Snacks Hub",
+    "search_category": "Shops",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop",
+    "pincode": "444504",
+    "phone_number": "+91 83808 33685",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Koyali Bk., Maharashtra 444504",
+    "area": "444504",
+    "latitude": 20.146047499999998,
+    "longitude": 76.80525999999999,
+    "place_id": "ChIJLXwFDgCV0DsRnnFkW-1FwnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXwFDgCV0DsRnnFkW-1FwnI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:18:57"
+  }
+]

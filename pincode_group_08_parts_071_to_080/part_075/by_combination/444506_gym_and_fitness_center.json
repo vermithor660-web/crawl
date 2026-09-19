@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fitness Freak GYM",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "444506",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 9,
+    "address": "5H6F+5VM, manwatkar, &, Saoji Galli Rd, farmMehkar, Maharashtra 443301",
+    "area": "Bilal Nagar",
+    "latitude": 20.1512589,
+    "longitude": 76.5655053,
+    "place_id": "ChIJLdAaQACZ0DsRGsUJaAiiE7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLdAaQACZ0DsRGsUJaAiiE7Q",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:21:17"
+  },
+  {
+    "business_name": "ADA DANCE STUDIO . Risod",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Fitness center",
+    "pincode": "444506",
+    "phone_number": "+91 77449 47767",
+    "website": "https://adachoreolab.com/",
+    "rating": 4.9,
+    "reviews_count": 17,
+    "address": "Shop No 7, Loni Rd, Ram Nagar, Risod, Maharashtra 444506",
+    "area": "Ram Nagar",
+    "latitude": 19.979009899999998,
+    "longitude": 76.78704239999999,
+    "place_id": "ChIJIdfZa82N0DsRyY493dWK-J8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIdfZa82N0DsRyY493dWK-J8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:21:17"
+  }
+]

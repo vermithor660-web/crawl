@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dattakrupa Furniture Mall",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "444511",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "CV42+RGG, Alegaon, Maharashtra 444511",
+    "area": "444511",
+    "latitude": 20.407061499999998,
+    "longitude": 76.8513239,
+    "place_id": "ChIJobYhLgDJ0DsRzkgEnQzmGLc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJobYhLgDJ0DsRzkgEnQzmGLc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:26:42"
+  },
+  {
+    "business_name": "Super Farniture Patur",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store, Furniture maker",
+    "pincode": "444511",
+    "phone_number": "+91 84079 29247",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Akola-Patur Hwy, Patur, Bagayat, Road, Akola, Maharashtra 444501",
+    "area": "444511",
+    "latitude": 20.4704564,
+    "longitude": 76.9454014,
+    "place_id": "ChIJi3F7RevP0DsRoozS-PH7s4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi3F7RevP0DsRoozS-PH7s4M",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:26:45"
+  }
+]

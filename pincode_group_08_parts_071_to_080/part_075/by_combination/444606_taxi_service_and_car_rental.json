@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parth Tour And Travel",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency, Minibus taxi service, Motor vehicle dealer, Rental car return location, Travel agency",
+    "pincode": "444606",
+    "phone_number": "+91 95451 41952",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Vijay Nagar, M I, D C, Amravati MIDC, Amravati, Maharashtra 444607",
+    "area": "Vijay Nagar, M I, D C, Amravati MIDC",
+    "latitude": 20.889050899999997,
+    "longitude": 77.7557581,
+    "place_id": "ChIJ4TustH6l1jsRmT8458gn240",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4TustH6l1jsRmT8458gn240",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:37:37"
+  },
+  {
+    "business_name": "Shree ganesh tours and travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "444606",
+    "phone_number": "+91 78238 70630",
+    "website": "https://shree-ganesh-358326.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Devi Nagar Wadali, Laghuvetan Colony, Amravati, Maharashtra 444606",
+    "area": "Laghuvetan Colony",
+    "latitude": 20.926862099999997,
+    "longitude": 77.7881628,
+    "place_id": "ChIJuVwpSB-l1jsRcxlJhqpll58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuVwpSB-l1jsRcxlJhqpll58",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:37:40"
+  }
+]

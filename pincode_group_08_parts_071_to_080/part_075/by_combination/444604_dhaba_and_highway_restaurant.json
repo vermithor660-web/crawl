@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gurukrupa Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "444604",
+    "phone_number": "+91 83294 32233",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 81,
+    "address": "1, Amt Road, Gorala, Maharashtra 444901",
+    "area": "444604",
+    "latitude": 21.144043999999997,
+    "longitude": 77.9286951,
+    "place_id": "ChIJvbmlcqOd1jsRHtXXjIEHloE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvbmlcqOd1jsRHtXXjIEHloE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:33:27"
+  },
+  {
+    "business_name": "होटल साई कृपा (Patil Dhaba )",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge, Dhaba, Hotel, Restaurant",
+    "pincode": "444604",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 492,
+    "address": "3X3V+32V, Mozari, Maharashtra 444902",
+    "area": "444604",
+    "latitude": 21.0527487,
+    "longitude": 77.99258999999999,
+    "place_id": "ChIJEStrINwh1DsRN5WS5wWCJQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEStrINwh1DsRN5WS5wWCJQg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:33:27"
+  }
+]

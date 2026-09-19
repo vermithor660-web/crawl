@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Krishna daily needs and दूध डेअरी",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop, Dairy store",
+    "pincode": "444502",
+    "phone_number": "+91 95116 40448",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Main Road, Bhaji Market, Wadegaon, Maharashtra 444502",
+    "area": "Bhaji Market",
+    "latitude": 20.578920999999998,
+    "longitude": 76.85025139999999,
+    "place_id": "ChIJ108Mh_jL0DsRLFueqlw6dkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ108Mh_jL0DsRLFueqlw6dkQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:13:54"
+  },
+  {
+    "business_name": "Shri Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "444502",
+    "phone_number": "+91 93099 63413",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 5, in front of Krushi Utpan Bajar Samity, Wadegaon, Maharashtra 444502",
+    "area": "444502",
+    "latitude": 20.5904538,
+    "longitude": 76.8448511,
+    "place_id": "ChIJIXIcGDg11zsRMtV1L5ztZ_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIXIcGDg11zsRMtV1L5ztZ_s",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:13:54"
+  }
+]

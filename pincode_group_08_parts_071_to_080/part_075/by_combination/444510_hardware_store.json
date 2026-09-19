@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RADHIKA HARDWEAR",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "444510",
+    "phone_number": "+91 96893 17250",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "4, Tandali Bk., Maharashtra 444505",
+    "area": "444510",
+    "latitude": 20.0990173,
+    "longitude": 77.02575999999999,
+    "place_id": "ChIJq6GH3TPl0DsR_nPpZxQaoko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6GH3TPl0DsR_nPpZxQaoko",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:24:49"
+  },
+  {
+    "business_name": "Laxmi Agro & hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "444510",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "446G+WMF, Washim, Maharashtra 444505",
+    "area": "444510",
+    "latitude": 20.112299999999998,
+    "longitude": 77.1266594,
+    "place_id": "ChIJtfwiWwDj0DsRCZ6dALF55To",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtfwiWwDj0DsRCZ6dALF55To",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:24:52"
+  }
+]

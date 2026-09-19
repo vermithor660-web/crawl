@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MJ events entertainment",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "444602",
+    "phone_number": "+91 90213 60270",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Saturna industrial Estate, Saturna, Amravati, Maharashtra 444607",
+    "area": "Saturna",
+    "latitude": 20.9043219,
+    "longitude": 77.7485755,
+    "place_id": "ChIJsWQR9Xel1jsRDAo990E5qAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsWQR9Xel1jsRDAo990E5qAU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:30:41"
+  },
+  {
+    "business_name": "Rajgure Decorators & Event Management Service Provider",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "444602",
+    "phone_number": "+91 74995 54935",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rahatgaon, Amravati, Maharashtra 444603",
+    "area": "Rahatgaon",
+    "latitude": 20.966103099999998,
+    "longitude": 77.7844439,
+    "place_id": "ChIJgU6RNwCj1jsRcP7SBahn0OU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgU6RNwCj1jsRcP7SBahn0OU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:30:45"
+  }
+]

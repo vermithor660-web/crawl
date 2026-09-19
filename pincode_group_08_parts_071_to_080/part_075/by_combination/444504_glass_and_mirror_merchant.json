@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yogesh Glass",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "444504",
+    "phone_number": "+91 70209 44728",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 2 Nadikinara, Siddhnerali, near Maitri Cha-cha, Siddhanerli, Maharashtra 416232",
+    "area": "444504",
+    "latitude": 16.5492547,
+    "longitude": 74.2452471,
+    "place_id": "ChIJedeftEH5wDsRCtCFPIBHqYI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJedeftEH5wDsRCtCFPIBHqYI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:18:02"
+  },
+  {
+    "business_name": "Amatulla Glass And Aluminium",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "444504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Uttam Nagar, Nashik, Maharashtra 422010",
+    "area": "Uttam Nagar",
+    "latitude": 19.9650268,
+    "longitude": 73.7536935,
+    "place_id": "ChIJaczZO1_r3TsR4VdraWDZ9iE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaczZO1_r3TsR4VdraWDZ9iE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:18:02"
+  }
+]

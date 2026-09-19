@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Skin Care n Cure",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "444405",
+    "phone_number": "+91 94204 82876",
+    "website": "https://www.dryuvrajmoreskin.com/",
+    "rating": 4.8,
+    "reviews_count": 5690,
+    "address": "Flat No.4, 2nd Floor, Anant Apartment, Sinhgad Rd, near Jagtap Hospital, Anand Nagar, Pune, Maharashtra 411051",
+    "area": "Mahalakshmi Society, Varshanand Society, Anand Nagar",
+    "latitude": 18.4777502,
+    "longitude": 73.82396949999999,
+    "place_id": "ChIJ_f4f0F6VwjsRNaz08V68MXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_f4f0F6VwjsRNaz08V68MXs",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:07:23"
+  },
+  {
+    "business_name": "Apex Hospital",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444405",
+    "phone_number": "+91 72424 90655",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Tapadia Nagar, Akola, Maharashtra 444005",
+    "area": "Tapadia Nagar",
+    "latitude": 20.7162002,
+    "longitude": 77.01511099999999,
+    "place_id": "ChIJgQSIRB8u1zsRjOYCPEm9_R0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgQSIRB8u1zsRjOYCPEm9_R0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:07:24"
+  }
+]

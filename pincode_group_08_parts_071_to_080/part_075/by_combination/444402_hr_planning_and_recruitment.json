@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HR Consultancy Group",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "444402",
+    "phone_number": "N/A",
+    "website": "https://www.hrconsultancygroup.com.au/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HR Consultancy Group, 444402, India",
+    "area": "444402",
+    "latitude": -33.832001999999996,
+    "longitude": 150.93197469999998,
+    "place_id": "ChIJe9uDv--kKwURaAKOdfDUCTM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe9uDv--kKwURaAKOdfDUCTM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:03:07"
+  },
+  {
+    "business_name": "Swift HR Solutions",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment, Recruiter",
+    "pincode": "444402",
+    "phone_number": "N/A",
+    "website": "https://swifthrsolutions.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Swift HR Solutions, 444402, India",
+    "area": "444402",
+    "latitude": 37.141521,
+    "longitude": -98.0272595,
+    "place_id": "ChIJDUPUC4dskFQRBg-TKviJN1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDUPUC4dskFQRBg-TKviJN1g",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:03:07"
+  }
+]

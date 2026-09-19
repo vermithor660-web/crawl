@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kaushalya Super Shoppy",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "444604",
+    "phone_number": "+91 98347 32904",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No.1, Shegaon - Rahatgaon Rd, Siddhivinayak Nagar, Amravati, Maharashtra 444604",
+    "area": "Siddhivinayak Nagar",
+    "latitude": 20.9644972,
+    "longitude": 77.7685941,
+    "place_id": "ChIJT9iQjhWj1jsR9D2OqpkFcds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT9iQjhWj1jsR9D2OqpkFcds",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:33:16"
+  },
+  {
+    "business_name": "Balaji Provisions",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "444604",
+    "phone_number": "+91 94225 39165",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 12,
+    "address": "Green Park, Siddhivinayak Nagar, Amravati, Maharashtra 444604",
+    "area": "Green Park, Siddhivinayak Nagar",
+    "latitude": 20.9592694,
+    "longitude": 77.763052,
+    "place_id": "ChIJTyJzsECj1jsRTgLRLWT6YFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTyJzsECj1jsRTgLRLWT6YFI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:33:16"
+  }
+]

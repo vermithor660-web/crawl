@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAJPUT AUTOMOBILES",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "444507",
+    "phone_number": "+91 82610 31295",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.7, in front of New Bus Stand, Ansing, Maharashtra 444507",
+    "area": "444507",
+    "latitude": 20.0378062,
+    "longitude": 77.3089632,
+    "place_id": "ChIJWQDXNBEF0TsRGHQ62HsgOzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWQDXNBEF0TsRGHQ62HsgOzY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:23:01"
+  },
+  {
+    "business_name": "A1 battery",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Car battery store",
+    "all_categories": "Car battery store",
+    "pincode": "444507",
+    "phone_number": "+91 98500 76786",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Himayatnagar, Maharashtra 431802",
+    "area": "444507",
+    "latitude": 19.4266367,
+    "longitude": 77.8740225,
+    "place_id": "ChIJe6UQdzr30TsRlr9GBvgTh_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe6UQdzr30TsRlr9GBvgTh_s",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:23:03"
+  }
+]

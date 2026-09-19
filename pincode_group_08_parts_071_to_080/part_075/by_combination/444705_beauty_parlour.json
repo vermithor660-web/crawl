@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dulhan Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop",
+    "pincode": "444705",
+    "phone_number": "+91 99707 95548",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Kapustalni, Maharashtra 444705",
+    "area": "444705",
+    "latitude": 21.1036331,
+    "longitude": 77.35729979999999,
+    "place_id": "ChIJwWtDf1Ll1jsRgI-BDOY4bqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwWtDf1Ll1jsRgI-BDOY4bqw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:46:52"
+  },
+  {
+    "business_name": "Malaxmi beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "444705",
+    "phone_number": "+91 95030 47926",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "6988+CVX, Pathrot, Maharashtra 444808",
+    "area": "444705",
+    "latitude": 21.2160641,
+    "longitude": 77.36714669999999,
+    "place_id": "ChIJ0QrEknD71jsRxK2gmOe8rO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0QrEknD71jsRxK2gmOe8rO0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:46:52"
+  }
+]

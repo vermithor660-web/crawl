@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ranghu Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "444701",
+    "phone_number": "+91 90522 64489",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ship Bo U8, Railway Station, Badnera, Amravati, Maharashtra 444701",
+    "area": "Badnera",
+    "latitude": 20.851319399999998,
+    "longitude": 77.7335818,
+    "place_id": "ChIJsVfr80-71jsRJ-i3V-oQo8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsVfr80-71jsRJ-i3V-oQo8E",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:40:46"
+  },
+  {
+    "business_name": "Krishnarpan Dudh Dairy & Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "444701",
+    "phone_number": "+91 90755 09901",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shri Gajanan Maharaj Temple, New Colony, Dastur Nagar, Amravati, Maharashtra 444606",
+    "area": "New Colony, Dastur Nagar",
+    "latitude": 20.9091366,
+    "longitude": 77.7681297,
+    "place_id": "ChIJzcLvIl-l1jsRkcViUFrcvU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzcLvIl-l1jsRkcViUFrcvU8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:40:46"
+  }
+]

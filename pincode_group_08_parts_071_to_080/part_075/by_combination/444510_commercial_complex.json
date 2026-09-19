@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shreya Multiservices",
+    "search_category": "Commercial Complex",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "444510",
+    "phone_number": "+91 97647 72498",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Bank of Maharashtra, Madhavnagar, Lakhala, Washim, Maharashtra 444505",
+    "area": "Madhavnagar, Lakhala",
+    "latitude": 20.1082034,
+    "longitude": 77.1165831,
+    "place_id": "ChIJ8_HfOQ3j0DsRuUBcqyBdsGQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8_HfOQ3j0DsRuUBcqyBdsGQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:25:49"
+  },
+  {
+    "business_name": "Fedbank Financial Services Ltd",
+    "search_category": "Commercial Complex",
+    "primary_category": "Loan agency",
+    "all_categories": "Loan agency, Bank, Car finance and loan company, Finance broker, Financial institution, Investment company, Investment service, Private Sector Bank",
+    "pincode": "444510",
+    "phone_number": "+91 80 6961 6362",
+    "website": "https://locations.fedfina.com/financial-services-in-new-colony-washim-maharashtra/home",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Upper GF, B wing, Patni Commercial Complex, No. 1-2, Risod - Washim Rd, Lakhala, Washim, Maharashtra 444505",
+    "area": "Lakhala",
+    "latitude": 20.110733,
+    "longitude": 77.127136,
+    "place_id": "ChIJO3dfTRjj0DsRApUB7Q37d2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3dfTRjj0DsRApUB7Q37d2E",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:25:49"
+  }
+]

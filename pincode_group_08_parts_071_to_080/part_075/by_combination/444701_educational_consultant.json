@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Educational Adviser",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "444701",
+    "phone_number": "+91 94226 59221",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 51,
+    "address": "House Number 14, Parijat Colony, Badnera Road, Near Nemani Godown, Amravati, Maharashtra 444701",
+    "area": "Guruchhaya Colony, Sai Nagar",
+    "latitude": 20.8805747,
+    "longitude": 77.7411494,
+    "place_id": "ChIJS_d7TuOl1jsR4_Pg02sXTBg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS_d7TuOl1jsR4_Pg02sXTBg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:41:58"
+  },
+  {
+    "business_name": "ENGENEARS CONSULTANCY SERVICES",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "444701",
+    "phone_number": "+91 76201 17332",
+    "website": "https://engenearsconsultancyservices.netlify.app/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward no. 01, at post Shivni rasulapur, Taluka, Khandeshwar, Nandgaon, Maharashtra 444708",
+    "area": "Khandeshwar",
+    "latitude": 20.627515,
+    "longitude": 77.850664,
+    "place_id": "ChIJoZWMFA5V0TsRWfLyk8N3ims",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoZWMFA5V0TsRWfLyk8N3ims",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:42:00"
+  }
+]

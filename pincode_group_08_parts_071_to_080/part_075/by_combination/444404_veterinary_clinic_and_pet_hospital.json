@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr . Pet - pet shop & hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Pet groomer, Pet supply store, Veterinary pharmacy",
+    "pincode": "444404",
+    "phone_number": "+91 72181 86489",
+    "website": "https://jsdl.in/DT-99LKSWQRWRW",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Mainde Chowk, Infront Of Bidkar Hospital, Vidhardh Housing Society, Yavatmal, Maharashtra 445001",
+    "area": "Vidhardh Housing Society",
+    "latitude": 20.3838453,
+    "longitude": 78.1297514,
+    "place_id": "ChIJkTLFBADp0zsRSb6FRQ2GKds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkTLFBADp0zsRSb6FRQ2GKds",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:05:42"
+  },
+  {
+    "business_name": "ANIMAL CLINIC & Research Center",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary care",
+    "all_categories": "Veterinary care",
+    "pincode": "444404",
+    "phone_number": "+91 93723 04038",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Wadgaon Road, Laxmi Nagar, Yavatmal, Maharashtra 445002",
+    "area": "Wadgaon Road, Laxmi Nagar",
+    "latitude": 20.3766039,
+    "longitude": 78.1178071,
+    "place_id": "ChIJ0WHxFKLo0zsR3o_DiyMAuqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0WHxFKLo0zsR3o_DiyMAuqA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:05:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trendsetter",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "444505",
+    "phone_number": "+91 98222 45130",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "M D plaza, near R A College, Washim, Maharashtra 444505",
+    "area": "444505",
+    "latitude": 20.1263696,
+    "longitude": 77.129438,
+    "place_id": "ChIJkcCdPM7j0DsRBtvkmOZcqo4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkcCdPM7j0DsRBtvkmOZcqo4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:19:13"
+  },
+  {
+    "business_name": "Rayfal_mens_fashion",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "444505",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/rayfal_mens_fashion?igsi=MXgwZjYwcjFwMjFlYw==",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "446G+2M7, Washim, Maharashtra 444505",
+    "area": "444505",
+    "latitude": 20.110026899999998,
+    "longitude": 77.1266802,
+    "place_id": "ChIJn5_-WwDj0DsRCTf8CKzGpvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn5_-WwDj0DsRCTf8CKzGpvk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:19:14"
+  }
+]

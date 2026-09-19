@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Loksewa Chicken Trader",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "444503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hingoli Road, near Maharashtra Chicken Center, Sofi Nagar, Washim, Maharashtra 444505",
+    "area": "Sofi Nagar",
+    "latitude": 20.09537,
+    "longitude": 77.1423538,
+    "place_id": "ChIJj_0HXlDj0DsRJ6ci0M70Dwk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj_0HXlDj0DsRJ6ci0M70Dwk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:15:34"
+  },
+  {
+    "business_name": "Amana, Maharashtra 444503",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "444503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Amana, Maharashtra",
+    "area": "444503",
+    "latitude": 20.294078799999998,
+    "longitude": 76.9873477,
+    "place_id": "ChIJuVA6vQzD0DsRDQht01T3948",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuVA6vQzD0DsRDQht01T3948",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:15:34"
+  }
+]

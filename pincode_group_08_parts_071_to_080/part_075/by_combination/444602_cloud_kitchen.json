@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aaswad Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "444602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "WQ49+GX7, Vanashri Colony, Kanwar Nagar, Guruchhaya Colony, Dastur Nagar, Amravati, Maharashtra 444606",
+    "area": "Vanashri Colony, Kanwar Nagar, Guruchhaya Colony, Dastur Nagar",
+    "latitude": 20.9063335,
+    "longitude": 77.7699131,
+    "place_id": "ChIJWb-lcwCl1jsR9YC6wvTbcvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWb-lcwCl1jsR9YC6wvTbcvk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:29:41"
+  },
+  {
+    "business_name": "Saaatvik foods cloud kitchen & cafe",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "444602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gajanan Twp Rd, Kathora, Maharashtra 444604",
+    "area": "444602",
+    "latitude": 20.9883947,
+    "longitude": 77.75604779999999,
+    "place_id": "ChIJPxSjQACj1jsRR7CSg77-p6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPxSjQACj1jsRR7CSg77-p6M",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:29:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ORCHID HOSPITAL",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444604",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "New Cotton Market Rd, opp. APMC, Sahakar Nagar, Rampuri Camp, Amravati, Maharashtra 444601",
+    "area": "Sahakar Nagar, Rampuri Camp",
+    "latitude": 20.947142,
+    "longitude": 77.75911409999999,
+    "place_id": "ChIJp5Wcem6j1jsRRraBeM2Z9uE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp5Wcem6j1jsRRraBeM2Z9uE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:33:42"
+  },
+  {
+    "business_name": "Yadgire Super Specialty Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital",
+    "pincode": "444604",
+    "phone_number": "+91 98225 74174",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 29,
+    "address": "WQG8+VXC, Vijay Colony, Congress Nagar Road, Amravati, Maharashtra 444606",
+    "area": "Vivekanand Colony",
+    "latitude": 20.9271818,
+    "longitude": 77.7673784,
+    "place_id": "ChIJFcjzkaKk1jsRuBkrV58HNf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFcjzkaKk1jsRuBkrV58HNf8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:33:43"
+  }
+]

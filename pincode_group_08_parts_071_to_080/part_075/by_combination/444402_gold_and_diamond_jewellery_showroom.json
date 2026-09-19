@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "444402",
+    "phone_number": "N/A",
+    "website": "https://www.facebook.com/shreejewellersmangrul/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Subhash Chowk, 444403, Mangrulpir, Maharashtra 444403",
+    "area": "444402",
+    "latitude": 20.3126434,
+    "longitude": 77.3480405,
+    "place_id": "ChIJsW6yGREj0TsRZaDCrpKL-70",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsW6yGREj0TsRZaDCrpKL-70",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:02:03"
+  },
+  {
+    "business_name": "Bajranglal Chhotelal Varma Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jewelry Exporter, Store",
+    "pincode": "444402",
+    "phone_number": "+91 76509 76999",
+    "website": "http://www.bcvjewellers.com/",
+    "rating": 4.9,
+    "reviews_count": 1105,
+    "address": "Agrasen Bhavan, Varma Heights, Oppo, Rallies Plot, Amrawati Tahsil, Amravati, Maharashtra 444601",
+    "area": "Amrawati Tahsil",
+    "latitude": 20.929835999999998,
+    "longitude": 77.75587,
+    "place_id": "ChIJWyu0Ot6l1jsRgAdyr1TqBSc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWyu0Ot6l1jsRgAdyr1TqBSc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:02:03"
+  }
+]

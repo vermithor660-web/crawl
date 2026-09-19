@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Five Candles Family Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "444706",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Amravati Road, Daryapur, Maharashtra 444803",
+    "area": "444706",
+    "latitude": 20.9249059,
+    "longitude": 77.3429014,
+    "place_id": "ChIJZb9Pynvd1jsRrG4-CtdxEB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZb9Pynvd1jsRrG4-CtdxEB4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:47:54"
+  },
+  {
+    "business_name": "Mejwani Veg N Non Veg Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Non Vegetarian Restaurant, Vegetarian restaurant",
+    "pincode": "444706",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "212 Highway Near Kalpana Poultry Farm, Tamaswadi, Maharashtra 444803",
+    "area": "444706",
+    "latitude": 21.029437899999998,
+    "longitude": 77.3167646,
+    "place_id": "ChIJDZMMHxHn1jsRbrk3XI-02IE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZMMHxHn1jsRbrk3XI-02IE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:47:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sevenmentor",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Training center",
+    "all_categories": "Training center, Service establishment",
+    "pincode": "444604",
+    "phone_number": "N/A",
+    "website": "https://www.sevenmentor.com/python-classes-in-amravati",
+    "rating": null,
+    "reviews_count": null,
+    "address": "sevenmentor, 444604, India",
+    "area": "444604",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJv8q0Isekbm4Rlti88Ijuzsk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv8q0Isekbm4Rlti88Ijuzsk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:34:46"
+  },
+  {
+    "business_name": "ankit jagtap (Accountant)",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant, Service establishment",
+    "pincode": "444604",
+    "phone_number": "+91 74996 43277",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ankit jagtap (Accountant), 444604, India",
+    "area": "444604",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJo56NfFblhYERvSeX1S1J45E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo56NfFblhYERvSeX1S1J45E",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:34:48"
+  }
+]

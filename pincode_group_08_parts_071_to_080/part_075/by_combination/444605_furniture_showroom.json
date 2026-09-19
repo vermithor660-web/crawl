@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Ambience",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture accessories",
+    "all_categories": "Furniture accessories",
+    "pincode": "444605",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Shankar Nagar, Gopal Nagar, Amravati, Maharashtra 444607",
+    "area": "Shankar Nagar, Gopal Nagar",
+    "latitude": 20.9122094,
+    "longitude": 77.7543288,
+    "place_id": "ChIJvxLAycmk1jsRGC0Qsj7lF4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvxLAycmk1jsRGC0Qsj7lF4Y",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:36:00"
+  },
+  {
+    "business_name": "Mahaveer Industries",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture Manufacturer",
+    "all_categories": "Furniture Manufacturer",
+    "pincode": "444605",
+    "phone_number": "+91 76200 44818",
+    "website": "http://https.mahaveerindustries.com/",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "C- 67/68, Badnera Rd, near deshmukh gas godown, New Sturna Nagar, MIDC, Saturna, Amravati, Maharashtra 444607",
+    "area": "New Sturna Nagar, MIDC, Saturna",
+    "latitude": 20.9057867,
+    "longitude": 77.7459066,
+    "place_id": "ChIJC0fsjoGl1jsRFiFf2aOeXJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC0fsjoGl1jsRFiFf2aOeXJo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:36:03"
+  }
+]

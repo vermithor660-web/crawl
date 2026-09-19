@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HDFC Bank",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank",
+    "pincode": "444403",
+    "phone_number": "+91 1800 1601",
+    "website": "https://www.hdfc.bank.in/branch-locator/maharashtra/washim/hdfcbank-branch-washim",
+    "rating": 3.5,
+    "reviews_count": 21,
+    "address": "Shop No 2 to 9, UGF, Paras Plaza, Risod - Washim Rd, Washim, Maharashtra 444505",
+    "area": "444403",
+    "latitude": 20.112390599999998,
+    "longitude": 77.137254,
+    "place_id": "ChIJt0LJVLfj0DsRcf4ZvRlutB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt0LJVLfj0DsRcf4ZvRlutB4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:04:50"
+  },
+  {
+    "business_name": "ESAF Small Finance Bank - Washim",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Bank",
+    "all_categories": "Bank, ATM, Investment service, Loan agency",
+    "pincode": "444403",
+    "phone_number": "+91 92880 13122",
+    "website": "https://branches.esafbank.com/esaf/banks-in-washim/banks-in-washim/esaf-small-finance-bank-in-washim-washim--4ddcf4ed-5ea4-4653-8024-79389ca4eedd/home",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 2,3,4, Patni Commercial Complex, Wing B, Risod - Washim Rd, Washim, Maharashtra 444505",
+    "area": "444403",
+    "latitude": 20.1103867,
+    "longitude": 77.1270176,
+    "place_id": "ChIJkYR6fgPj0DsRnZj_0nidq2I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkYR6fgPj0DsRnZj_0nidq2I",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:04:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Samartha Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "444501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "46-B, Balapur Road, near Paramhans Raju Baba Ashram, Sukapur, Bhirad Layout, Old City, Akola, Maharashtra 444002",
+    "area": "Sukapur, Bhirad Layout, Old City",
+    "latitude": 20.7025897,
+    "longitude": 76.9746203,
+    "place_id": "ChIJb9_jlw4x1zsRNafipTX-4Co",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb9_jlw4x1zsRNafipTX-4Co",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:13:01"
+  },
+  {
+    "business_name": "Vaibhavlaxmi caterers and services",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "444501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Balapur, road, Killa chowk, Old City, Akola, Maharashtra 444002",
+    "area": "Killa chowk, Old City",
+    "latitude": 20.7061015,
+    "longitude": 76.9888397,
+    "place_id": "ChIJQdlVL-8x1zsRA1HUiMtqhkk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdlVL-8x1zsRA1HUiMtqhkk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:13:03"
+  }
+]

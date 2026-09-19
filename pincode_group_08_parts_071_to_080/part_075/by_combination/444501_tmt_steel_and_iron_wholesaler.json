@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prince Steel Mart",
+    "search_category": "TMT Steel and Iron Wholesaler",
+    "primary_category": "Steel distributor",
+    "all_categories": "Steel distributor",
+    "pincode": "444501",
+    "phone_number": "+91 98500 92258",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 7,
+    "address": "Front of Collector House, Barshi Rd, MIDC, Khadgaon, Maharashtra 413531",
+    "area": "MIDC",
+    "latitude": 18.4078488,
+    "longitude": 76.5378731,
+    "place_id": "ChIJRQva7EeBzzsRHB4RwEtn8l0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQva7EeBzzsRHB4RwEtn8l0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:12:46"
+  },
+  {
+    "business_name": "Maharashtra Steel Factory",
+    "search_category": "TMT Steel and Iron Wholesaler",
+    "primary_category": "Steel distributor",
+    "all_categories": "Steel distributor",
+    "pincode": "444501",
+    "phone_number": "+91 93563 98971",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "CG39+M59, Barshi Rd, Pakharsangvi, Harangul Bk., Latur, Maharashtra 413531",
+    "area": "Pakharsangvi",
+    "latitude": 18.404159999999997,
+    "longitude": 76.51799369999999,
+    "place_id": "ChIJGXnNwSSBzzsReV9i9dm67z8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGXnNwSSBzzsReV9i9dm67z8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:12:47"
+  }
+]

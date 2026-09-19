@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Poonam Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "444701",
+    "phone_number": "+91 99701 75351",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "Shilangan Rd, opp. Asmita Sschool, Patvipura, Amravati, Maharashtra 444605",
+    "area": "Patvipura",
+    "latitude": 20.921789699999998,
+    "longitude": 77.7481217,
+    "place_id": "ChIJZ42hYrKk1jsRU5VwURmBlnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ42hYrKk1jsRU5VwURmBlnE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:40:58"
+  },
+  {
+    "business_name": "Duratkar Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "444701",
+    "phone_number": "+91 72187 27087",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chawdi chowk, near Icchapurti Hanuman Mandir, old Town, Badnera, Amravati, Maharashtra 444701",
+    "area": "old Town, Badnera",
+    "latitude": 20.8638054,
+    "longitude": 77.7346374,
+    "place_id": "ChIJVWypxgG71jsRFz1qB9PrWAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVWypxgG71jsRFz1qB9PrWAw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:40:58"
+  }
+]

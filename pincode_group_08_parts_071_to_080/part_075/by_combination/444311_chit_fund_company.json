@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajesh Chitlange",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant, Insurance agency",
+    "pincode": "444311",
+    "phone_number": "+91 98233 70023",
+    "website": "https://rajeshchitlangefinserv.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "FLAT NO.G-1,GULMOHAR VILAGAURKASHAN RAOD, behind SHUBHMANGAL KARYALAY, Akola, Maharashtra 444004",
+    "area": "Kapila Nagar",
+    "latitude": 20.6886917,
+    "longitude": 77.01663359999999,
+    "place_id": "ChIJ0dndcWkt1zsRjZo03VkmWTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0dndcWkt1zsRjZo03VkmWTk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 05:57:47"
+  },
+  {
+    "business_name": "Rathi Trading Company",
+    "search_category": "Chit Fund Company",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "444311",
+    "phone_number": "+91 73871 60075",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "New Wholesale Kirana Market, A - 18, Dahigaon Gawande, Akola, Maharashtra 444007",
+    "area": "Dahigaon Gawande",
+    "latitude": 20.694940499999998,
+    "longitude": 76.9772194,
+    "place_id": "ChIJebNbAWYx1zsRKBJRgKPPJFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJebNbAWYx1zsRKBJRgKPPJFc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 05:57:49"
+  }
+]

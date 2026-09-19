@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "hostel no 2, Karahe hostel",
+    "search_category": "Guesthouse",
+    "primary_category": "Guesthouse",
+    "all_categories": "Guesthouse",
+    "pincode": "444604",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Karahe hostel, Aadivasi hostel no 2 ( pote, near Amravati, Kathora, Maharashtra 444604",
+    "area": "444604",
+    "latitude": 20.9848502,
+    "longitude": 77.76296789999999,
+    "place_id": "ChIJe27UOY2j1jsRs9rFxbsxLik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe27UOY2j1jsRs9rFxbsxLik",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:34:23"
+  },
+  {
+    "business_name": "Hotel Ramji Palace",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Restaurant",
+    "pincode": "444604",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 130,
+    "address": "Suresh cafe, Jaistambh chowk, Paratwada, Civil Lines, Achalpur, Maharashtra 444805",
+    "area": "Paratwada, Civil Lines",
+    "latitude": 21.2945034,
+    "longitude": 77.5153517,
+    "place_id": "ChIJc28mFg3z1jsR-fKeCRBIas8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc28mFg3z1jsR-fKeCRBIas8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:34:24"
+  }
+]

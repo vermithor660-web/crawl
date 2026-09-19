@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cakesnkraft",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "444607",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 25,
+    "address": "Ashish Building, Madhuban Layout, Chhatri Talao Rd, New Colony, Dastur Nagar, Amravati, Maharashtra 444606",
+    "area": "New Colony, Dastur Nagar",
+    "latitude": 20.9063247,
+    "longitude": 77.7686703,
+    "place_id": "ChIJuS2_Kval1jsRtff43Hli3DU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuS2_Kval1jsRtff43Hli3DU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:38:56"
+  },
+  {
+    "business_name": "Blissful bites",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "444607",
+    "phone_number": "+91 94054 30380",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Santaji nagar, near, Shankar Nagar Rd, Amravati, Maharashtra 444607",
+    "area": "Gopal Nagar",
+    "latitude": 20.9106085,
+    "longitude": 77.7579885,
+    "place_id": "ChIJkdivDeKl1jsRsYIwp9zU0o0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkdivDeKl1jsRsYIwp9zU0o0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:38:56"
+  }
+]

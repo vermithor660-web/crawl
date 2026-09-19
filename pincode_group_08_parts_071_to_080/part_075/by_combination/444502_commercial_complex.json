@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRATIK GARMENTS",
+    "search_category": "Commercial Complex",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Clothing store",
+    "pincode": "444502",
+    "phone_number": "+91 78754 14147",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Chatrapati Shivaji Maharaj Pravesh Dwar, Wadegaon, Maharashtra 444502",
+    "area": "444502",
+    "latitude": 20.5789404,
+    "longitude": 76.8518819,
+    "place_id": "ChIJ5RiAosfK0DsRWfHaMRE-KRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5RiAosfK0DsRWfHaMRE-KRc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:15:27"
+  },
+  {
+    "business_name": "Aayush Pith Girni",
+    "search_category": "Commercial Complex",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "444502",
+    "phone_number": "+91 99604 06082",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.1 Wadegaon, near by Indira Nagar, Akola, Maharashtra 444502",
+    "area": "444502",
+    "latitude": 20.585511399999998,
+    "longitude": 76.8651963,
+    "place_id": "ChIJxbT1BGTL0DsRPijjgNIrnsA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxbT1BGTL0DsRPijjgNIrnsA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:15:28"
+  }
+]

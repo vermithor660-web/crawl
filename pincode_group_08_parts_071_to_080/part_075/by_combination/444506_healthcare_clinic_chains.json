@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yash Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "444506",
+    "phone_number": "+91 96198 19858",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 71,
+    "address": "Shop No. 1, Sawant Niwas, Nalpada Road, Tulsidham Nalpada Rd, near Tulsidham Complex, near Harkrushna High School, Kapurbawdi, Thane West, Thane, Maharashtra 400601",
+    "area": "Nalpada, Kapurbawdi, Thane West",
+    "latitude": 19.2206938,
+    "longitude": 72.97345109999999,
+    "place_id": "ChIJKyBmzVy55zsRYDI7676B7gE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKyBmzVy55zsRYDI7676B7gE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:21:17"
+  },
+  {
+    "business_name": "Health Care Medical",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "444506",
+    "phone_number": "+91 89833 63749",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gaikwad complex, Pandavdand Rd, kadam wakwasti, Kadamwak Wasti, Maharashtra 412201",
+    "area": "kadam wakwasti",
+    "latitude": 18.4877917,
+    "longitude": 74.00681999999999,
+    "place_id": "ChIJGwvb_CPpwjsRpww7XYlIkZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGwvb_CPpwjsRpww7XYlIkZc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:21:17"
+  }
+]

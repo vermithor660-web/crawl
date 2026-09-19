@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DHARTI DHAN",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service",
+    "pincode": "444306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 9,
+    "address": "Jay sthambh chowk, Main Rd, Chaitanyawadi, Buldhana, Maharashtra 443001",
+    "area": "Chaitanyawadi",
+    "latitude": 20.5374239,
+    "longitude": 76.1806775,
+    "place_id": "ChIJRxUXVwD22TsR_LkFRLq529Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxUXVwD22TsR_LkFRLq529Y",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 05:54:45"
+  },
+  {
+    "business_name": "Pimpalgaon Raja, Maharashtra 444306",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "444306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pimpalgaon Raja, Maharashtra",
+    "area": "444306",
+    "latitude": 20.7184211,
+    "longitude": 76.4331698,
+    "place_id": "ChIJYcOJB8D92TsR0T0ThjV7tp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYcOJB8D92TsR0T0ThjV7tp8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 05:54:46"
+  }
+]

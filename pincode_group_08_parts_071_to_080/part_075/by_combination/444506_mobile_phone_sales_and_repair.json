@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ram Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store, Computer service, Computer software store, Mobile home supply store, Phone repair service",
+    "pincode": "444506",
+    "phone_number": "+91 90111 70577",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 148,
+    "address": "Front of shri Shivaji Highschool, Jijau Chowk Bus Stand, Road, Mehkar, Maharashtra 443301",
+    "area": "Rahemat Nagar",
+    "latitude": 20.1506691,
+    "longitude": 76.5752335,
+    "place_id": "ChIJwekfB5GZ0DsR-eB5GWMGZEE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwekfB5GZ0DsR-eB5GWMGZEE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:21:58"
+  },
+  {
+    "business_name": "MAHASHAKTI AGENCIES",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "444506",
+    "phone_number": "+91 90965 44296",
+    "website": "https://connectitapp.in/mahashakti_mobiles",
+    "rating": 4.9,
+    "reviews_count": 16,
+    "address": "tea point, chatrapati shivaji maharaj chock, Risod - Sengaon Rd, Sengaon, Maharashtra 431542",
+    "area": "444506",
+    "latitude": 19.7909631,
+    "longitude": 76.8847698,
+    "place_id": "ChIJVY6XXt1f0DsRbW3UJBNS2hk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVY6XXt1f0DsRbW3UJBNS2hk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:21:58"
+  }
+]

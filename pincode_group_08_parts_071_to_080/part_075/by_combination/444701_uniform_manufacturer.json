@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govind Industrial Park",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing manufacturer",
+    "all_categories": "Clothing manufacturer",
+    "pincode": "444701",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "VQF3+2M5, Wadad, Maharashtra 444701",
+    "area": "444701",
+    "latitude": 20.872523599999997,
+    "longitude": 77.75423409999999,
+    "place_id": "ChIJr9m42zCl1jsRNvTQBX5bHuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr9m42zCl1jsRNvTQBX5bHuU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:41:00"
+  },
+  {
+    "business_name": "SWANKYSS",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing manufacturer",
+    "all_categories": "Clothing manufacturer, Service establishment",
+    "pincode": "444701",
+    "phone_number": "+91 97666 31079",
+    "website": "https://swankyss.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SWANKYSS, 444701, India",
+    "area": "444701",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJMYqWOO7_omkRlqe2LkSis3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMYqWOO7_omkRlqe2LkSis3I",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:41:00"
+  }
+]

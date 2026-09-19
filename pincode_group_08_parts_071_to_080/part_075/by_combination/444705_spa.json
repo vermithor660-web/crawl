@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krutika Beauty Parlour",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "444705",
+    "phone_number": "+91 74996 17945",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop Number 1, Randhe Nagar, Aiwajpur, Maharashtra 444705",
+    "area": "Randhe Nagar",
+    "latitude": 21.1673734,
+    "longitude": 77.3127983,
+    "place_id": "ChIJWRSID2zl1jsRfiZgYI6NUkw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWRSID2zl1jsRfiZgYI6NUkw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:46:52"
+  },
+  {
+    "business_name": "Styam Clinic",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "444705",
+    "phone_number": "+91 95037 25717",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop Number 1, near Relway Station, Anjangaon Surji, Anjangaon, Maharashtra 444705",
+    "area": "Anjangaon Surji",
+    "latitude": 21.161922699999998,
+    "longitude": 77.3105223,
+    "place_id": "ChIJu5Wyhnbl1jsRl9v91C1OBYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu5Wyhnbl1jsRl9v91C1OBYU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:46:54"
+  }
+]

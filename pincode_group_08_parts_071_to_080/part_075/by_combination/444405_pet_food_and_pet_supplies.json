@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHUBHAM GOAT FARM",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "444405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "pinjar, Mahan, Maharashtra 444405",
+    "area": "pinjar",
+    "latitude": 20.4893771,
+    "longitude": 77.16505269999999,
+    "place_id": "ChIJo3pXzCHX0DsR8-ch_EGXw0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo3pXzCHX0DsR8-ch_EGXw0c",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:07:00"
+  },
+  {
+    "business_name": "Yash Shopee Aquarium & Pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "444405",
+    "phone_number": "+91 92847 06515",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 11,
+    "address": "Paregaon Rd, near Datta Mandir, Bajirao Nagar, Raje Sambhji Nagar, Yeola, Maharashtra 423401",
+    "area": "Bajirao Nagar, Raje Sambhji Nagar",
+    "latitude": 20.036978299999998,
+    "longitude": 74.4818277,
+    "place_id": "ChIJzUxSNIc53DsRtYBtGudo03w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzUxSNIc53DsRtYBtGudo03w",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:07:02"
+  }
+]

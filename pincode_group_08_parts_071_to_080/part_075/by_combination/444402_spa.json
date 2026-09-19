@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditya Gent Parale",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "444402",
+    "phone_number": "+91 96895 65621",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "76, Shelu Kh., Maharashtra 444402",
+    "area": "444402",
+    "latitude": 20.3713811,
+    "longitude": 77.2513685,
+    "place_id": "ChIJ0yrM3oMn0TsRYo20LsJ8_64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0yrM3oMn0TsRYo20LsJ8_64",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:02:38"
+  },
+  {
+    "business_name": "Aboli beauty parlar",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "444402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Shelu Kh., Maharashtra 444402",
+    "area": "444402",
+    "latitude": 20.3716194,
+    "longitude": 77.2487386,
+    "place_id": "ChIJ1fMeLDgn0TsROPIjrUgcAWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1fMeLDgn0TsROPIjrUgcAWY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:02:38"
+  }
+]

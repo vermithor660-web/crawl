@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "शेतकरी ढाबा",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "444702",
+    "phone_number": "+91 72629 47239",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "69FF+3M, Pathrot, Maharashtra 444808",
+    "area": "444702",
+    "latitude": 21.2227084,
+    "longitude": 77.37424089999999,
+    "place_id": "ChIJXTCD66r71jsRlD9RngCHicM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXTCD66r71jsRlD9RngCHicM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:42:40"
+  },
+  {
+    "business_name": "Aashirwad dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "444702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "GVC7+VP5, SH202, Narwati, Maharashtra 444702",
+    "area": "444702",
+    "latitude": 21.5221384,
+    "longitude": 76.8643728,
+    "place_id": "ChIJwdHlqgij1zsRDW7m8fmCgZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwdHlqgij1zsRDW7m8fmCgZ0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:42:40"
+  }
+]

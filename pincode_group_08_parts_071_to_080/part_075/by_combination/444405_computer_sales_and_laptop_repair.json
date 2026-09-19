@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC Coman Center Titwan",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "444405",
+    "phone_number": "+91 76200 93780",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 11, Main Road Titwa, Near, Washim - Akola Rd, near Mauli Kirana Store, behind Mahadev Temple, Titwa, Akola, Maharashtra 444401",
+    "area": "444405",
+    "latitude": 20.5018204,
+    "longitude": 77.1301969,
+    "place_id": "ChIJ2R_mRS_X0DsRtxGDGD15XPA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2R_mRS_X0DsRtxGDGD15XPA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:08:08"
+  },
+  {
+    "business_name": "Riyansh Online Services",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "444405",
+    "phone_number": "+91 70300 85622",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "1206, near by Grampanchayat, Kanadi, Maharashtra 444107",
+    "area": "444405",
+    "latitude": 20.601475699999998,
+    "longitude": 77.3258177,
+    "place_id": "ChIJ1xN6h8Qt0TsRx3ZERFXuVrQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1xN6h8Qt0TsRx3ZERFXuVrQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:08:10"
+  }
+]

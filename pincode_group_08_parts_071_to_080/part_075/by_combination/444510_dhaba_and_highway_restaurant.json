@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ड्राइवर ढाबा",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "444510",
+    "phone_number": "+91 88579 29193",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "6P35+MC, Karhadwadi, Dongaon, Maharashtra 443303",
+    "area": "444510",
+    "latitude": 20.2042121,
+    "longitude": 76.7085613,
+    "place_id": "ChIJ8UMfDQC90DsR8mM1mlxBaB8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8UMfDQC90DsR8mM1mlxBaB8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:24:18"
+  },
+  {
+    "business_name": "Baba Da Daba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "444510",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Near shevani, Chikhali Vaidya, Nandgaon, Maharashtra 444708",
+    "area": "444510",
+    "latitude": 20.6256411,
+    "longitude": 77.8721539,
+    "place_id": "ChIJV4o4GgBV0TsRMUJepPQG3SM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV4o4GgBV0TsRMUJepPQG3SM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:24:18"
+  }
+]

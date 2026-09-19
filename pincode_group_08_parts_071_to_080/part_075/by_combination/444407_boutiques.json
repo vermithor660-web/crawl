@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rashmi BOUTIQUE",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "444407",
+    "phone_number": "+91 98509 10505",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Old RTO Rd, near Power Plant, MSEB Colony, Sindhi Colony, Akola, Maharashtra 444004",
+    "area": "MSEB Colony, Sindhi Colony",
+    "latitude": 20.697763,
+    "longitude": 77.0108882,
+    "place_id": "ChIJZZDnUQkv1zsRXIo9P4K2CI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZZDnUQkv1zsRXIo9P4K2CI0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:08:59"
+  },
+  {
+    "business_name": "Mangesh Ladies Tailors",
+    "search_category": "Boutiques",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "444407",
+    "phone_number": "+91 99234 20551",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1 Borgaon, Road, Kanshiwani, Maharashtra 444102",
+    "area": "444407",
+    "latitude": 20.6216701,
+    "longitude": 77.19910519999999,
+    "place_id": "ChIJyV-GPvvV1jsRu-vsJ5xHwyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyV-GPvvV1jsRu-vsJ5xHwyw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:09:01"
+  }
+]

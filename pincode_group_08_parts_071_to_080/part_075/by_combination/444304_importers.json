@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sushree Traders",
+    "search_category": "Importers",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service, Farm equipment supplier",
+    "pincode": "444304",
+    "phone_number": "+91 94228 83547",
+    "website": "http://www.sushreetraders.in/",
+    "rating": 4.5,
+    "reviews_count": 12,
+    "address": "PH3F+JFQ APMC Market, MH MSH 24, Sudarshan Nagar, Khamgaon, Maharashtra 444303",
+    "area": "Sudarshan Nagar",
+    "latitude": 20.7039631,
+    "longitude": 76.574525,
+    "place_id": "ChIJP9P0pB9R1zsR-VXA1yhlp0I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP9P0pB9R1zsR-VXA1yhlp0I",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 05:54:31"
+  },
+  {
+    "business_name": "Bhongaon",
+    "search_category": "Importers",
+    "primary_category": "Egg supplier",
+    "all_categories": "Egg supplier",
+    "pincode": "444304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WJ7H+Q55, Bhongaon, Maharashtra 444203",
+    "area": "444304",
+    "latitude": 20.9143835,
+    "longitude": 76.6279848,
+    "place_id": "ChIJu5EKCABd1zsR6osu-dS7QqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu5EKCABd1zsR6osu-dS7QqA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 05:54:32"
+  }
+]

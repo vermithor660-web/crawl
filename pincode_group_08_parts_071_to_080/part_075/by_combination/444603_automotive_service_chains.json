@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Seva motors",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "444603",
+    "phone_number": "+91 87933 35663",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "ashiyad cowk, near Shegaon - Rahatgaon Road, Padam Saurabh Colony, Amravati, Maharashtra 444604",
+    "area": "Padam Saurabh Colony, Om Shivniketan Colony, Sanmati Colony",
+    "latitude": 20.9569588,
+    "longitude": 77.7655659,
+    "place_id": "ChIJtRJRUvmj1jsRF-CWZxQGkDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtRJRUvmj1jsRF-CWZxQGkDI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:32:12"
+  },
+  {
+    "business_name": "ASHTVINAYAK GARAGE",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "444603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "MIDC Rd, behind Kamal plaza, near Fulbagh school, Kaloti Nagar, Dastur Nagar, Amravati, Maharashtra 444606",
+    "area": "Kaloti Nagar, Dastur Nagar",
+    "latitude": 20.909717399999998,
+    "longitude": 77.768776,
+    "place_id": "ChIJnzgT_7ul1jsRBOCKft-j2K4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnzgT_7ul1jsRBOCKft-j2K4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:32:12"
+  }
+]

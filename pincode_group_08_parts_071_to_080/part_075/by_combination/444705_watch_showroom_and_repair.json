@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "IK Times",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Clock repair service, Clock and watch maker, Watch repair service",
+    "pincode": "444705",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "New Nawab Market, Shaniwara Peth, Anjangaon Surji, Anjangaon, Maharashtra 444705",
+    "area": "Anjangaon Surji",
+    "latitude": 21.1639993,
+    "longitude": 77.309752,
+    "place_id": "ChIJ7YD7LPfl1jsRD1oLY2FU-lk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7YD7LPfl1jsRD1oLY2FU-lk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:46:20"
+  },
+  {
+    "business_name": "Sangai Variety Traders",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Air conditioning store, Cell phone store, Computer store, Electronics wholesaler, Furniture store, Home theater store, Refrigerator store, Home audio store, Washer & dryer store",
+    "pincode": "444705",
+    "phone_number": "+91 98508 51260",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 55,
+    "address": "5876+GR3, Barganpura, Anjangaon Surji, Anjangaon, Maharashtra 444705",
+    "area": "Barganpura, Anjangaon Surji",
+    "latitude": 21.1639055,
+    "longitude": 77.3128922,
+    "place_id": "ChIJFWHmqcHk1jsRfqDcVfAypXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFWHmqcHk1jsRfqDcVfAypXM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:46:23"
+  }
+]

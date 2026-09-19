@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Auto service",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Service establishment",
+    "pincode": "444403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Auto service, 444403, India",
+    "area": "444403",
+    "latitude": 20.705968,
+    "longitude": 77.013164,
+    "place_id": "ChIJ19ShuIIv1zsRqN_sHtB7WSA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ19ShuIIv1zsRqN_sHtB7WSA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:04:14"
+  },
+  {
+    "business_name": "ADCC INGOLE SERVICING CENTRE",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "444403",
+    "phone_number": "+91 99220 49590",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "No 1, Hingole Road, near Ingale Mansik Arogya Kendra, Washim, Maharashtra 444505",
+    "area": "444403",
+    "latitude": 20.1099337,
+    "longitude": 77.13802489999999,
+    "place_id": "ChIJRS-cQIbj0DsRnJwhFTnyw3M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRS-cQIbj0DsRnJwhFTnyw3M",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:04:14"
+  }
+]

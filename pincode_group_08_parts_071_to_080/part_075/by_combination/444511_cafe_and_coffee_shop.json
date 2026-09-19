@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cold Brew",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "444511",
+    "phone_number": "+91 88057 54568",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 13,
+    "address": "gmc road, in front of mungilalji bajuriya school, Bhandaraj BK, Akola, Maharashtra 444001",
+    "area": "Bhandaraj BK",
+    "latitude": 20.702906199999997,
+    "longitude": 77.0014656,
+    "place_id": "ChIJBaO4mfMx1zsRDorxChtJWb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBaO4mfMx1zsRDorxChtJWb8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:26:02"
+  },
+  {
+    "business_name": "t3 cafe akola",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "444511",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "M2V5+R84, Radhaswami appartment, church road ,sindhi camp, Akola, Maharashtra 444004",
+    "area": "Aadarsh Colony",
+    "latitude": 20.6945077,
+    "longitude": 77.0083223,
+    "place_id": "ChIJNb3qem4x1zsRcdZxxs69QlU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNb3qem4x1zsRcdZxxs69QlU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:26:02"
+  }
+]

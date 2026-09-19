@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Akshay Pustakalay (Book Shop)",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "444507",
+    "phone_number": "+91 253 230 7010",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Late Kavivarya, 8, Rabindranath Tagore Marg, Maneksha Nagar, Burani Nagar Colony, Shankar Nagar, Dwarka, Nashik, Maharashtra 422011",
+    "area": "Maneksha Nagar, Burani Nagar Colony, Shankar Nagar, Dwarka",
+    "latitude": 19.9935783,
+    "longitude": 73.8006651,
+    "place_id": "ChIJuYPUf_zq3TsRRCIoB6ktN3w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuYPUf_zq3TsRRCIoB6ktN3w",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:23:36"
+  },
+  {
+    "business_name": "Sankalp Print Washim",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, Book store, Stationery wholesaler",
+    "pincode": "444507",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kata Rd, Washim, Maharashtra 444505",
+    "area": "444507",
+    "latitude": 20.1258485,
+    "longitude": 77.1294807,
+    "place_id": "ChIJ4Q0ITGXj0DsRp_5UlA9LlQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Q0ITGXj0DsRp_5UlA9LlQw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:23:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MEHER ENTERPRISES",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier, Cement Supplier",
+    "pincode": "444607",
+    "phone_number": "+91 82371 07103",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Saibaba gajanan baba mandir, road, Hariom colony, Sai Nagar, Amravati, Maharashtra 444701",
+    "area": "Hariom colony, Sai Nagar",
+    "latitude": 20.8759211,
+    "longitude": 77.7337628,
+    "place_id": "ChIJvxL0LGW71jsRKtbE-cmt_ok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvxL0LGW71jsRKtbE-cmt_ok",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:39:38"
+  },
+  {
+    "business_name": "BirlaNu Construction Chemicals Retailer - Anand Narbels",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "444607",
+    "phone_number": "+91 94229 17167",
+    "website": "https://birlanu.com/tools/store-locator/anand-marbles-in-amravati-maharashtra",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Amravati MIDC, Amravati, Maharashtra 444607",
+    "area": "Amravati MIDC",
+    "latitude": 20.886699999999998,
+    "longitude": 77.7567,
+    "place_id": "ChIJ9a6zmoil1jsRSQ1A68VW_w4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9a6zmoil1jsRSQ1A68VW_w4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:39:38"
+  }
+]

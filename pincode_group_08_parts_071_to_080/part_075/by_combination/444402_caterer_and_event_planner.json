@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kulkarni Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "444402",
+    "phone_number": "+91 98220 85073",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "Khivansara Park Ridhi Sidhi Hall Building, Tilak Nagar, Basant Bahar, Ulkanagari, Chhatrapati Sambhajinagar, Maharashtra 431009",
+    "area": "Tilak Nagar, Basant Bahar, Ulkanagari",
+    "latitude": 19.862905599999998,
+    "longitude": 75.34058019999999,
+    "place_id": "ChIJ3eBP1H6Z2zsRXWSii_2MCv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3eBP1H6Z2zsRXWSii_2MCv8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:02:48"
+  },
+  {
+    "business_name": "Sisodiya Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "444402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MXWV+7WC, Geeta Nagar, Dahigaon Gawande, Akola, Maharashtra 444002",
+    "area": "Geeta Nagar, Dahigaon Gawande",
+    "latitude": 20.695676799999998,
+    "longitude": 76.9947696,
+    "place_id": "ChIJUZKZAmkx1zsRl_UxFeZY-p8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUZKZAmkx1zsRl_UxFeZY-p8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:02:48"
+  }
+]

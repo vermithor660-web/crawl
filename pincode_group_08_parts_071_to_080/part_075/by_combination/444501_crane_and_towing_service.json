@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ansari Crane Services",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Crane service",
+    "all_categories": "Crane service",
+    "pincode": "444501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Washim Naka, Dist, Akola, Maharashtra 444001",
+    "area": "Bhandaraj BK",
+    "latitude": 20.7002159,
+    "longitude": 77.0081678,
+    "place_id": "ChIJf_qqjBox1zsR3lWFERVVuJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf_qqjBox1zsR3lWFERVVuJA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:12:40"
+  },
+  {
+    "business_name": "sayyed crane service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "444501",
+    "phone_number": "+91 98235 28632",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "9GVW+XQW, Khadgaon, Maharashtra 413531",
+    "area": "444501",
+    "latitude": 18.3952942,
+    "longitude": 76.5464714,
+    "place_id": "ChIJC7yxAwCBzzsRGk0OBD836ts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC7yxAwCBzzsRGk0OBD836ts",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:12:41"
+  }
+]

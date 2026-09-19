@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taloja FISH MARKET",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "444502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "34CR+X3W, Devichapada, Taloja, Panvel, Maharashtra 410208",
+    "area": "Devichapada, Taloja",
+    "latitude": 19.072492,
+    "longitude": 73.14018949999999,
+    "place_id": "ChIJe0zQhejr5zsRr2hcg6qWyjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe0zQhejr5zsRr2hcg6qWyjI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:13:53"
+  },
+  {
+    "business_name": "Ekveera Aai Fish Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market, Fresh food market, Hotel supply store, Wholesale market",
+    "pincode": "444502",
+    "phone_number": "+91 70394 04949",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Manpada, Ghodbunder Rd, behind Petrol Pump, Thane, Maharashtra 400607",
+    "area": "Thane West",
+    "latitude": 19.234831,
+    "longitude": 72.976677,
+    "place_id": "ChIJk-IlIAq75zsRtQrBwgqhEXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-IlIAq75zsRtQrBwgqhEXY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:13:54"
+  }
+]

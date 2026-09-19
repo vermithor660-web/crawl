@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bahurani Handloom House",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Mattress store",
+    "all_categories": "Mattress store, Curtain store",
+    "pincode": "444705",
+    "phone_number": "+91 91728 44737",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Randhe Nagar, Amravati, Aiwajpur, Maharashtra 444705",
+    "area": "Randhe Nagar",
+    "latitude": 21.169477999999998,
+    "longitude": 77.3145807,
+    "place_id": "ChIJ8X3oWOjl1jsR_3f81NnjSpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8X3oWOjl1jsR_3f81NnjSpQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:46:15"
+  },
+  {
+    "business_name": "Cloth",
+    "search_category": "Textile Wholesaler and Fabric Merchant",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "444705",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sufiyan nager, no. 2, Taj Nagar, Amravati, Maharashtra 444601",
+    "area": "Taj Nagar",
+    "latitude": 20.9380463,
+    "longitude": 77.7370828,
+    "place_id": "ChIJdeBOv-m91jsRnB7vLZbTndQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdeBOv-m91jsRnB7vLZbTndQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:46:15"
+  }
+]

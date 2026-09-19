@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prakash Hyundai",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Hyundai dealer",
+    "all_categories": "Hyundai dealer, Car dealer",
+    "pincode": "444504",
+    "phone_number": "+91 90521 16511",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 2714,
+    "address": "Plot No 1-7, Hyderabad Rd, Pangra B, Madhavanagar, Nizamabad, Telangana 503003",
+    "area": "Pangra B, Madhavanagar",
+    "latitude": 18.6569494,
+    "longitude": 78.12342199999999,
+    "place_id": "ChIJQ1t-cyXFzTsRCxVipPhNlbI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ1t-cyXFzTsRCxVipPhNlbI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:17:54"
+  },
+  {
+    "business_name": "Shree AppaSwami Service Centre",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto bodywork mechanic",
+    "all_categories": "Auto bodywork mechanic",
+    "pincode": "444504",
+    "phone_number": "+91 94051 50520",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Malegaon Road, Risod, Maharashtra 444506",
+    "area": "444504",
+    "latitude": 19.981872199999998,
+    "longitude": 76.77874539999999,
+    "place_id": "ChIJNcLQa1WN0DsReANAmuhC9yo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNcLQa1WN0DsReANAmuhC9yo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:17:54"
+  }
+]

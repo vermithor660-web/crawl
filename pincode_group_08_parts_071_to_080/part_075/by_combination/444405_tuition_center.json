@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Genius Abacus Centre Pinjar",
+    "search_category": "Tuition Center",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "444405",
+    "phone_number": "N/A",
+    "website": "https://geniusabacustraining.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward no. 2, Tq, Barshitaklai, Pinjar, Maharashtra 444407",
+    "area": "Barshitaklai",
+    "latitude": 20.5475836,
+    "longitude": 77.2607347,
+    "place_id": "ChIJ1VmQ5GMr0TsR9hjz1g7phN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1VmQ5GMr0TsR9hjz1g7phN0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:08:03"
+  },
+  {
+    "business_name": "Zep learning centre (Wadala)",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "444405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "G66M+5PG, Barshi, Wadala, Maharashtra 444405",
+    "area": "444405",
+    "latitude": 20.5104264,
+    "longitude": 77.2343427,
+    "place_id": "ChIJRfmwfAAp0TsRl5PGHrUqG9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRfmwfAAp0TsRl5PGHrUqG9g",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:08:03"
+  }
+]

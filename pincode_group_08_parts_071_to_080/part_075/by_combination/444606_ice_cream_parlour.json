@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajlaxmi Ice Cream & cold drink",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "444606",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "WQ37+FR8, MIDC Rd, Jawad Nagar, Dastur Nagar, Amravati, Maharashtra 444606",
+    "area": "Jawad Nagar, Dastur Nagar",
+    "latitude": 20.9036662,
+    "longitude": 77.7645885,
+    "place_id": "ChIJmfBLeT6l1jsRMOOqxLl1KhI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmfBLeT6l1jsRMOOqxLl1KhI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:37:09"
+  },
+  {
+    "business_name": "Nandini Dudh Dairy",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "444606",
+    "phone_number": "+91 91121 59921",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "368/4, Mahadev Khori Rd, Yashoda Nagar, Dastur Nagar, Amravati, Maharashtra 444606",
+    "area": "Yashoda Nagar, Dastur Nagar",
+    "latitude": 20.9149756,
+    "longitude": 77.774412,
+    "place_id": "ChIJI4XkWpOk1jsR44eAi5SwUsI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI4XkWpOk1jsR44eAi5SwUsI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:37:11"
+  }
+]

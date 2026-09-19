@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tribal boys hostel no 2 ( Jaybhau kote )",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "444603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "5, Gajanan Twp Rd, Kathora, Maharashtra 444604",
+    "area": "444603",
+    "latitude": 20.984888599999998,
+    "longitude": 77.7630595,
+    "place_id": "ChIJ-d3rY-Oj1jsRYp9BFl8G85U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-d3rY-Oj1jsRYp9BFl8G85U",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:32:31"
+  },
+  {
+    "business_name": "Sadguru girls hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "444603",
+    "phone_number": "+91 98908 91385",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 14,
+    "address": "P.R pote college, Maharashtra 444604",
+    "area": "444603",
+    "latitude": 20.991959599999998,
+    "longitude": 77.7601717,
+    "place_id": "ChIJY_faaGij1jsRwK6ga080bCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY_faaGij1jsRwK6ga080bCM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:32:32"
+  }
+]

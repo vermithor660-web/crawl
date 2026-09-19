@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Magic finger unisex salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser",
+    "pincode": "444506",
+    "phone_number": "+91 87671 83085",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "rahate complex, Dongav rd, Teachers Colony, Mehkar, Maharashtra 443301",
+    "area": "Teachers Colony",
+    "latitude": 20.154163699999998,
+    "longitude": 76.5808119,
+    "place_id": "ChIJKTYNPYOZ0DsRyySZnFt8Yyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKTYNPYOZ0DsRyySZnFt8Yyw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:21:36"
+  },
+  {
+    "business_name": "VS Men's saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "444506",
+    "phone_number": "+91 77750 83769",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Shivaji Chauk Rd, Bamani Bk, Maharashtra 431510",
+    "area": "444506",
+    "latitude": 19.751262399999998,
+    "longitude": 76.6421761,
+    "place_id": "ChIJLw6dfT9j0DsR-CFbqyp6LVQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLw6dfT9j0DsR-CFbqyp6LVQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:21:37"
+  }
+]

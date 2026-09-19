@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BUSINESS DTDC COURIER SERVICE",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "444510",
+    "phone_number": "+91 90752 99678",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road, Navargaon, Sindewahi, Maharashtra 441222",
+    "area": "444510",
+    "latitude": 20.292720499999998,
+    "longitude": 79.6525149,
+    "place_id": "ChIJl3_ZwjDDLDoRzMGNSEwwkfI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl3_ZwjDDLDoRzMGNSEwwkfI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:25:29"
+  },
+  {
+    "business_name": "DTDC COURIER WASHI",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "444510",
+    "phone_number": "+91 94218 65858",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Para Chowk, near Washi Police Station, Washi, Maharashtra 413503",
+    "area": "444510",
+    "latitude": 18.5457356,
+    "longitude": 75.78040419999999,
+    "place_id": "ChIJQ5IjpgMdxTsRqASE8qjYMsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ5IjpgMdxTsRqASE8qjYMsY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:25:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fitness Planet Unisex Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "444701",
+    "phone_number": "+91 82376 45304",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 6,
+    "address": "Badnera, Amravati, Maharashtra 444701",
+    "area": "Badnera",
+    "latitude": 20.847498299999998,
+    "longitude": 77.7343125,
+    "place_id": "ChIJ5ymIdO271jsR4IYguTcjB8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5ymIdO271jsR4IYguTcjB8Y",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:41:14"
+  },
+  {
+    "business_name": "One On One Fitness Amravati",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "444701",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Badnera Rd, opp. D'mart, Guruchhaya Colony, Sai Nagar, Amravati, Maharashtra 444607",
+    "area": "Guruchhaya Colony, Sai Nagar",
+    "latitude": 20.898398099999998,
+    "longitude": 77.7483812,
+    "place_id": "ChIJYzj4yzGl1jsR2QebYX4pjws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYzj4yzGl1jsR2QebYX4pjws",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:41:14"
+  }
+]

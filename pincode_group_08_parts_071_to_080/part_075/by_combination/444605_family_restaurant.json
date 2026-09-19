@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gajanan Dham Chaupati & Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "444605",
+    "phone_number": "+91 98605 77488",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "VPWX+V4R, Guruchhaya Colony, Sai Nagar, Amravati, Maharashtra 444607",
+    "area": "Guruchhaya Colony, Sai Nagar",
+    "latitude": 20.8972457,
+    "longitude": 77.7477609,
+    "place_id": "ChIJAQtWGGql1jsRXxpVUEK7UUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQtWGGql1jsRXxpVUEK7UUU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:35:19"
+  },
+  {
+    "business_name": "Mauli Bhojanalay Official",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "444605",
+    "phone_number": "+91 90210 79312",
+    "website": "https://www.instagram.com/_maulibhojanalay?igsh=MWt2Mm56MW9rY3FqNg==",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Desai Layout, Amravati, Maharashtra 444605",
+    "area": "Desai Layout",
+    "latitude": 20.9205117,
+    "longitude": 77.7420661,
+    "place_id": "ChIJT7pxbAC71jsRYCrgn_C_7cU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT7pxbAC71jsRYCrgn_C_7cU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:35:19"
+  }
+]

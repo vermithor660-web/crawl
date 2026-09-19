@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Home Maintenance Agency",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Home health care service",
+    "all_categories": "Home health care service, Home help service agency",
+    "pincode": "444704",
+    "phone_number": "+91 87933 31883",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "27, sumit nagar, Jaitala Rd, mangalmurti, Nagpur, Maharashtra 440022",
+    "area": "Parsodi, mangalmurti",
+    "latitude": 21.1183653,
+    "longitude": 79.03492589999999,
+    "place_id": "ChIJ8WLyvtHB1DsR_RwawTfOiUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8WLyvtHB1DsR_RwawTfOiUU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:45:38"
+  },
+  {
+    "business_name": "Qlorax cleaning products",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "444704",
+    "phone_number": "N/A",
+    "website": "https://qlorax-cleaning-products.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Saur, bhatkuli, Maharashtra 444801",
+    "area": "444704",
+    "latitude": 21.130654699999997,
+    "longitude": 77.6682155,
+    "place_id": "ChIJz_jdnYWR1jsRd3XTmBmvI1k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz_jdnYWR1jsRd3XTmBmvI1k",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:45:38"
+  }
+]

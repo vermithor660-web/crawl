@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Raj Dhaba And Family Restaurant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "444706",
+    "phone_number": "+91 70203 51874",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 140,
+    "address": "Dahegaon Rd, Dahegaon (Rangari), Maharashtra 441113",
+    "area": "444706",
+    "latitude": 21.283293699999998,
+    "longitude": 79.083244,
+    "place_id": "ChIJ6Yfi5bDD1DsRgsas6aGv_Q4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6Yfi5bDD1DsRgsas6aGv_Q4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:47:53"
+  },
+  {
+    "business_name": "Hotel Shrihari food junction",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "444706",
+    "phone_number": "+91 98235 83039",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Near venoos factory, opp. Divya Marathi Press Borgavmanju, Borgaon Manju, Maharashtra 444102",
+    "area": "Borgaon Manju",
+    "latitude": 20.716435399999998,
+    "longitude": 77.17785169999999,
+    "place_id": "ChIJiwzM9PEp1zsRNRoqeDDG99w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiwzM9PEp1zsRNRoqeDDG99w",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:47:54"
+  }
+]

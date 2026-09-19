@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SWAMI ENTERPRISES",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "444605",
+    "phone_number": "+91 99604 11148",
+    "website": "https://swami-enterprises-dastur-nagar-amravati.grexa.site/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "shop No 4, Raj Plaza, Dastur Nagar Rd, Gokul Market, Dastur Nagar, Amravati, Maharashtra 444606",
+    "area": "Gokul Market, Dastur Nagar",
+    "latitude": 20.9157302,
+    "longitude": 77.7616347,
+    "place_id": "ChIJUdYXeh2l1jsRsk_zyqReNNM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUdYXeh2l1jsRsk_zyqReNNM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:36:25"
+  },
+  {
+    "business_name": "Eternity Enterprises",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer consultant, Computer service, Computer store",
+    "pincode": "444605",
+    "phone_number": "+91 90491 87590",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 28,
+    "address": "Mudliyar nagar, near vikrant gym, in front of ashirwad decoration, Amaravati, Maharashtra 444606",
+    "area": "LIC Colony, Moti Nagar",
+    "latitude": 20.919335,
+    "longitude": 77.7658196,
+    "place_id": "ChIJQ4_P172k1jsR-uB-snEzWwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4_P172k1jsR-uB-snEzWwo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:36:26"
+  }
+]

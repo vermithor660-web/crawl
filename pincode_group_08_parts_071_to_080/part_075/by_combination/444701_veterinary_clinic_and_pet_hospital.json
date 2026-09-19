@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonia Pet Shop",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "444701",
+    "phone_number": "+91 98421 34811",
+    "website": "https://soniapetshop.online/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Income Tax Rd, Krishnapuram Colony, Madurai, Tamil Nadu 625002",
+    "area": "444701",
+    "latitude": 9.9436318,
+    "longitude": 78.1295112,
+    "place_id": "ChIJY0BO4OjFADsRHd6LZFEe8Nk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY0BO4OjFADsRHd6LZFEe8Nk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:41:14"
+  },
+  {
+    "business_name": "Sonia Petstore & Vaccination Center",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet store",
+    "pincode": "444701",
+    "phone_number": "+91 98421 34811",
+    "website": "https://www.soniapetshop.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Junction, opposite to ESI Hospital, Palangantham, Madurai, Tamil Nadu 625003",
+    "area": "444701",
+    "latitude": 9.9040653,
+    "longitude": 78.0973743,
+    "place_id": "ChIJIXut6SDPADsRjuSEzrKoW7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIXut6SDPADsRjuSEzrKoW7w",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:41:14"
+  }
+]

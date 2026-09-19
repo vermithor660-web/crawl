@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahan fish shop",
+    "search_category": "Fish Market",
+    "primary_category": "Fishing store",
+    "all_categories": "Fishing store",
+    "pincode": "444405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Katepurna Reservoir and Spillway, Wai, Maharashtra 444405",
+    "area": "444405",
+    "latitude": 20.4749619,
+    "longitude": 77.1657187,
+    "place_id": "ChIJB0FHf3LX0DsRu-ps7oj0xyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB0FHf3LX0DsRu-ps7oj0xyE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:06:58"
+  },
+  {
+    "business_name": "Kewat Fish Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "444405",
+    "phone_number": "+91 99227 47958",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Bus Stand, Mahan, Maharashtra 444405",
+    "area": "444405",
+    "latitude": 20.4908844,
+    "longitude": 77.1645036,
+    "place_id": "ChIJ_RLuFo_X0DsRbgB42oArMvM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_RLuFo_X0DsRbgB42oArMvM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:06:58"
+  }
+]

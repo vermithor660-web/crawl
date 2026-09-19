@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taxi service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "444504",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Adoli, Maharashtra 444505",
+    "area": "444504",
+    "latitude": 20.037129699999998,
+    "longitude": 77.05534779999999,
+    "place_id": "ChIJl_775hb70DsRz3Rwm569pQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_775hb70DsRz3Rwm569pQs",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:17:54"
+  },
+  {
+    "business_name": "Saibaba Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Bus charter, Bus tour agency, Car rental agency, Taxi service, Tour agency, Tour operator, Tourist information center, Van rental agency",
+    "pincode": "444504",
+    "phone_number": "+91 240 235 1612",
+    "website": "http://www.saibabatravels.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Shop No.88, Jalna Rd, Sindhi Colony, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "New Balaji Nagar, Sindhi Colony",
+    "latitude": 19.875189199999998,
+    "longitude": 75.3373703,
+    "place_id": "ChIJtYnnLnaY2zsRTOsmIPdKT-A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtYnnLnaY2zsRTOsmIPdKT-A",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:17:55"
+  }
+]

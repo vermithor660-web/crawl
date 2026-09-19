@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prem Anand Bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "444605",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Pawan Nagar no.1, Gopal Nagar, Amravati, Maharashtra 444607",
+    "area": "Gopal Nagar",
+    "latitude": 20.899881399999998,
+    "longitude": 77.7526943,
+    "place_id": "ChIJQa-1GNil1jsRcofTHD12-IE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQa-1GNil1jsRcofTHD12-IE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:35:14"
+  },
+  {
+    "business_name": "Haldiram bakery dealer Amravati",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery equipment",
+    "all_categories": "Bakery equipment",
+    "pincode": "444605",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Katole House, ravi nagar road Amba vihar near Aim Classes, Amravati, Maharashtra 444605",
+    "area": "Sharda Vihar",
+    "latitude": 20.9158327,
+    "longitude": 77.7436877,
+    "place_id": "ChIJzbs1R_W71jsRhHbTQHc5D-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzbs1R_W71jsRhHbTQHc5D-M",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:35:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Varad polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "444705",
+    "phone_number": "+91 70283 72351",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main road, Sawara Sapkal, Maharashtra 444101",
+    "area": "444705",
+    "latitude": 21.083717,
+    "longitude": 77.142764,
+    "place_id": "ChIJ-0b7QP4d1zsRDXTKd1YVWTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-0b7QP4d1zsRDXTKd1YVWTU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:46:28"
+  },
+  {
+    "business_name": "Dr Sushant Gawande’sVatsalya Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "444705",
+    "phone_number": "+91 72180 90977",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Main Rd, near Post Office, Zenda Chowk, Wadner Gangai, Maharashtra 444706",
+    "area": "Zenda Chowk",
+    "latitude": 21.052406299999998,
+    "longitude": 77.17974439999999,
+    "place_id": "ChIJja0tF3kf1zsRXVjlObW6BfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJja0tF3kf1zsRXVjlObW6BfE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:46:28"
+  }
+]

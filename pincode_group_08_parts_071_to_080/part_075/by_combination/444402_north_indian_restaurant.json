@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel New Malwa Punjabi Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant, Dhaba",
+    "pincode": "444402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 76,
+    "address": "Aurangabad-Nagpur Rd, Kinhiraja, Malegaon Jahangir, Maharashtra 444503",
+    "area": "444402",
+    "latitude": 20.2948164,
+    "longitude": 77.1352667,
+    "place_id": "ChIJO_Qk1u_e0DsREaCiJHRJAP0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO_Qk1u_e0DsREaCiJHRJAP0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:01:56"
+  },
+  {
+    "business_name": "Hotel Venkatesh",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "444402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 419,
+    "address": "885H+3QM, Manoli road, behind sanskrutik bhavan, Mangrulpir - Washim Rd, MIG-19, Pimpalkhuta (Sangam), Mangrulpir, Maharashtra 444403",
+    "area": "MIG-19, Pimpalkhuta (Sangam)",
+    "latitude": 20.3077173,
+    "longitude": 77.3321734,
+    "place_id": "ChIJA07ourkj0TsRKt46ToiPh3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA07ourkj0TsRKt46ToiPh3I",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:01:57"
+  }
+]

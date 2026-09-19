@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "World Trade Park",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Business center",
+    "pincode": "444701",
+    "phone_number": "+91 141 272 8044",
+    "website": "http://www.wtpjaipur.com/",
+    "rating": 4.6,
+    "reviews_count": 88239,
+    "address": "Jawahar Lal Nehru Marg, D-Block, Malviya Nagar, Jaipur, Rajasthan 302017",
+    "area": "D-Block, Malviya Nagar",
+    "latitude": 26.8529889,
+    "longitude": 75.80486909999999,
+    "place_id": "ChIJz2S0q9C1bTkRr_3JFqQKREM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz2S0q9C1bTkRr_3JFqQKREM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:42:28"
+  },
+  {
+    "business_name": "Nexa Service (Aspa Bandsons)",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "444701",
+    "phone_number": "+91 80 3715 0121",
+    "website": "https://www.nexaofbadneraroad.com/nexa-service",
+    "rating": 4.3,
+    "reviews_count": 534,
+    "address": "Aspa Bandsons Auto Pvt Ltd F 32/4, Akola Nagpur Bypass Road, Vir Tanaji Nagar, near Bajaj Furniture, MIDC, Amravati, Maharashtra 444607",
+    "area": "MIDC, Amravati MIDC",
+    "latitude": 20.8853287,
+    "longitude": 77.7638632,
+    "place_id": "ChIJk2Hcqg6l1jsRZ9mejavl2kY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk2Hcqg6l1jsRZ9mejavl2kY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:42:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samaee Elaichi Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "444505",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "6XRR+52M, Malegaon Jahangir, Maharashtra 444503",
+    "area": "444505",
+    "latitude": 20.240472399999998,
+    "longitude": 76.9900585,
+    "place_id": "ChIJ9YEJy73C0DsR1RiUbayWj-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9YEJy73C0DsR1RiUbayWj-c",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:19:02"
+  },
+  {
+    "business_name": "Washim, Maharashtra 444505",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "444505",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Washim, Maharashtra",
+    "area": "444505",
+    "latitude": 20.1891832,
+    "longitude": 77.1485163,
+    "place_id": "ChIJl-Yn_jDi0DsRMQIBufLIXNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-Yn_jDi0DsRMQIBufLIXNc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:19:03"
+  }
+]

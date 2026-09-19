@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Datt Automoblie Shop",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "444507",
+    "phone_number": "+91 88504 36419",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Shop No 8, Fata, Shelu Kh., Maharashtra 444507",
+    "area": "Fata",
+    "latitude": 20.0312295,
+    "longitude": 77.30111959999999,
+    "place_id": "ChIJWaJbh2EF0TsRBIIFPKnZ6EQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWaJbh2EF0TsRBIIFPKnZ6EQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:22:59"
+  },
+  {
+    "business_name": "Shanti Honda",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Honda dealer",
+    "all_categories": "Honda dealer",
+    "pincode": "444507",
+    "phone_number": "+91 94228 77034",
+    "website": "https://dealers.honda2wheelersindia.com/honda-in-maharashtra-hingoli-tirupati-nagar-93626",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "P5M5+J2X, Akola Rd, Tirupati Nagar, Hingoli, Maharashtra 431513",
+    "area": "Tirupati Nagar",
+    "latitude": 19.7347103,
+    "longitude": 77.1550261,
+    "place_id": "ChIJCWFs4QVT0DsRgXAE303OsOY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCWFs4QVT0DsRgXAE303OsOY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:23:01"
+  }
+]

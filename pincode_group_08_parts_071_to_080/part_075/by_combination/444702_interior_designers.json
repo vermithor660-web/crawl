@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lindsey Leo Interior Design",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Service establishment",
+    "pincode": "444702",
+    "phone_number": "07970 384746",
+    "website": "https://lindseyleointeriors.co.uk/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Lindsey Leo Interior Design, 444702, India",
+    "area": "444702",
+    "latitude": 47.73855,
+    "longitude": 12.508827499999999,
+    "place_id": "ChIJwQZrQSPzd0gRjsZNzsGhrOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwQZrQSPzd0gRjsZNzsGhrOg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:43:23"
+  },
+  {
+    "business_name": "ManGeet Constructions",
+    "search_category": "Interior Designers",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company, Civil engineering company",
+    "pincode": "444702",
+    "phone_number": "+91 75177 76667",
+    "website": "http://www.mangeetconstructions.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 3 Balaji Mandir, Line, Itwara Market, Amravati, Maharashtra 444601",
+    "area": "444702",
+    "latitude": 20.9348223,
+    "longitude": 77.75152899999999,
+    "place_id": "ChIJlRUossWl1jsR_rReZKNPLX0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlRUossWl1jsR_rReZKNPLX0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:43:23"
+  }
+]

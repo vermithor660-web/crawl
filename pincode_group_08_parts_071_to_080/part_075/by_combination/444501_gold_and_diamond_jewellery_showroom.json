@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "444501",
+    "phone_number": "+91 94055 18111",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Bhirad complex, Mahatma Gandhi Rd, near Agrasen Bank, Nimwadi, Akola, Maharashtra 444001",
+    "area": "Nimwadi",
+    "latitude": 20.708225499999998,
+    "longitude": 76.9966494,
+    "place_id": "ChIJnxgTGwkx1zsRTDKqznXTVNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnxgTGwkx1zsRTDKqznXTVNc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:12:15"
+  },
+  {
+    "business_name": "Bhagat Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "444501",
+    "phone_number": "+91 98502 62651",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 77,
+    "address": "Saraf Bazar, Tajnapeth, Nimwadi, Akola, Maharashtra 444006",
+    "area": "Tajnapeth, Nimwadi",
+    "latitude": 20.7095216,
+    "longitude": 76.9972243,
+    "place_id": "ChIJndWDNu8x1zsRoUfwlYeLQlI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJndWDNu8x1zsRoUfwlYeLQlI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:12:16"
+  }
+]

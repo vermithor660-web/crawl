@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Adarsh South Indian & Chinese",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "444704",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shivaji chauk, Pralhadpur, Maharashtra 444704",
+    "area": "444704",
+    "latitude": 21.233716299999998,
+    "longitude": 77.7457843,
+    "place_id": "ChIJzSIvV3uF1jsRbUC9x0CzHbM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzSIvV3uF1jsRbUC9x0CzHbM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:44:24"
+  },
+  {
+    "business_name": "Anna South Indian",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "444704",
+    "phone_number": "+91 97653 33613",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Main Road, Bus Road, near by Oop, Chandur Bazar, Maharashtra 444704",
+    "area": "444704",
+    "latitude": 21.2371658,
+    "longitude": 77.74589019999999,
+    "place_id": "ChIJsZjLvLyF1jsRnjGgc5FtF3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsZjLvLyF1jsRnjGgc5FtF3U",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:44:26"
+  }
+]

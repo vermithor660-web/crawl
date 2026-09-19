@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cut & curls unisex salon",
+    "search_category": "Salon",
+    "primary_category": "Hair replacement service",
+    "all_categories": "Hair replacement service",
+    "pincode": "444604",
+    "phone_number": "+91 95791 87394",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Horizon Heights, Kathora Rd, Amravati, Maharashtra 444604",
+    "area": "444604",
+    "latitude": 20.976132,
+    "longitude": 77.7558154,
+    "place_id": "ChIJBVWbwU2j1jsRY53x_Tcxtbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBVWbwU2j1jsRY53x_Tcxtbg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:34:12"
+  },
+  {
+    "business_name": "MK Hair & Make Up Studio",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "444604",
+    "phone_number": "+91 90285 19660",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "GST bhavan, Near, Mahatama fule nagar, Navsaari, Amravati, Maharashtra 444604",
+    "area": "Navsaari",
+    "latitude": 20.9655018,
+    "longitude": 77.7452907,
+    "place_id": "ChIJjZdjRXij1jsRMh0M-BGfxuw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjZdjRXij1jsRMh0M-BGfxuw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:34:15"
+  }
+]

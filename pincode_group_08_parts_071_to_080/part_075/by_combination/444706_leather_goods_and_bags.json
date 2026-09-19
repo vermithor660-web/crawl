@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LRC Leather",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather Products Manufacturer",
+    "all_categories": "Leather Products Manufacturer",
+    "pincode": "444706",
+    "phone_number": "+91 77569 52442",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "236 Shivar Bk Daryapur Banosa, Dist, Amravati, Maharashtra 444803",
+    "area": "444706",
+    "latitude": 20.9042703,
+    "longitude": 77.2989163,
+    "place_id": "ChIJmQfU8Mjd1jsRJGjv7FwDF4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmQfU8Mjd1jsRJGjv7FwDF4I",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:48:03"
+  },
+  {
+    "business_name": "Yogeshwari Bag House",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "444706",
+    "phone_number": "+91 97630 34585",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Ganj Golai, Latur, Maharashtra 413512",
+    "area": "Ganj Golai",
+    "latitude": 18.3994556,
+    "longitude": 76.58268249999999,
+    "place_id": "ChIJ0U83-JeDzzsR76r_Vobzdy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0U83-JeDzzsR76r_Vobzdy0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:48:05"
+  }
+]

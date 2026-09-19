@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Raut Dental clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "444407",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Rajurkar complex, Civil Line Rd, in front of dehankar hospital, New Radhakisan Plots, Akola, Maharashtra 444001",
+    "area": "New Radhakisan Plots",
+    "latitude": 20.7055181,
+    "longitude": 77.00528,
+    "place_id": "ChIJQ0cB1nMx1zsRskBeSTiWj9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ0cB1nMx1zsRskBeSTiWj9o",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:09:03"
+  },
+  {
+    "business_name": "KADU Dental Care",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "444407",
+    "phone_number": "+91 96999 16906",
+    "website": "https://softspectra.co/webapp/kadu-dental-care",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1,2 Gore Appartment no 3 Satav Chowk, Station Road, Maharashtra 444005",
+    "area": "Tapadia Nagar",
+    "latitude": 20.7181092,
+    "longitude": 77.0151023,
+    "place_id": "ChIJYT2eKagv1zsRnnJG9rXwR4o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYT2eKagv1zsRnnJG9rXwR4o",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:09:03"
+  }
+]

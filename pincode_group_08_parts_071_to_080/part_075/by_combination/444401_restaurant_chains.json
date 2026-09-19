@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mauj Hotel",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "444401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 990,
+    "address": "P265+4Q3, Necklace Rd, Ambedkar Nagar, Ranpise Nagar, Akola, Maharashtra 444001",
+    "area": "Ambedkar Nagar, Ranpise Nagar",
+    "latitude": 20.7102668,
+    "longitude": 77.0094119,
+    "place_id": "ChIJ8Yb_GuIx1zsR-QJIkV2JoKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Yb_GuIx1zsR-QJIkV2JoKw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:00:08"
+  },
+  {
+    "business_name": "AKANKSHA MISAL PAV",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "444401",
+    "phone_number": "+91 86687 44809",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 187,
+    "address": "Ratanlal Plot, Necklace Rd, opposite LRT College of Commerce, Akola, Maharashtra 444001",
+    "area": "New Radhakisan Plots",
+    "latitude": 20.7075347,
+    "longitude": 77.00975869999999,
+    "place_id": "ChIJ_Yh3sDcx1zsR7RYd9QY6NVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_Yh3sDcx1zsR7RYd9QY6NVE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:00:10"
+  }
+]

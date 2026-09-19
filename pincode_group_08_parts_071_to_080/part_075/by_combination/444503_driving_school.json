@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Green City motar driving school",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "444503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Malegaon, Ekamba, Maharashtra 444504",
+    "area": "444503",
+    "latitude": 20.203967,
+    "longitude": 76.9592194,
+    "place_id": "ChIJPVCD3EPp0DsR9OKdsasz870",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPVCD3EPp0DsR9OKdsasz870",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:16:12"
+  },
+  {
+    "business_name": "RR house",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "444503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Dongaon, Maharashtra 443303",
+    "area": "444503",
+    "latitude": 20.1827181,
+    "longitude": 76.7183782,
+    "place_id": "ChIJ3WrlAgCX0DsR2pOsYYDwXGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3WrlAgCX0DsR2pOsYYDwXGI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:16:12"
+  }
+]

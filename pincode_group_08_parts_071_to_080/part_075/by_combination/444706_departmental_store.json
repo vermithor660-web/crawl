@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandak Stores, Kirana Shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Grocery delivery service",
+    "pincode": "444706",
+    "phone_number": "+91 94229 16265",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 14,
+    "address": "MHSH 201, Civil Line, Daryapur Banosa, Maharashtra 444803",
+    "area": "Civil Line",
+    "latitude": 20.9242514,
+    "longitude": 77.3260019,
+    "place_id": "ChIJxYHmz2bc1jsRk-10IMIL4no",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxYHmz2bc1jsRk-10IMIL4no",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:47:44"
+  },
+  {
+    "business_name": "Rajdhani Gift And Mobile Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "444706",
+    "phone_number": "+91 70570 96628",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 17,
+    "address": "Gandhinagar, Daryapur Banosa, Maharashtra 444803",
+    "area": "Gandhinagar",
+    "latitude": 20.925122899999998,
+    "longitude": 77.3215333,
+    "place_id": "ChIJEyHN0Wfc1jsR5tURZJuyrz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyHN0Wfc1jsR5tURZJuyrz8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:47:44"
+  }
+]

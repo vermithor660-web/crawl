@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Enterprises",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Business to business service, Marketing consultant",
+    "pincode": "444602",
+    "phone_number": "+91 80877 30197",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MIDC Rd, Gopal Nagar, Amravati, Maharashtra 444607",
+    "area": "Gopal Nagar",
+    "latitude": 20.8993574,
+    "longitude": 77.7561158,
+    "place_id": "ChIJ1f_9ctCk1jsRAAAAMGF5ClA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1f_9ctCk1jsRAAAAMGF5ClA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:31:17"
+  },
+  {
+    "business_name": "RK Signage Solution",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Sign shop",
+    "all_categories": "Sign shop, Advertising agency, Outdoor activity organiser",
+    "pincode": "444602",
+    "phone_number": "+91 86056 46366",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "forest colony square, MIDC Rd, in front of Hanuman temple, Juni Kotwali, Amravati, Maharashtra 444606",
+    "area": "Juni Kotwali",
+    "latitude": 20.9189599,
+    "longitude": 77.7743397,
+    "place_id": "ChIJd52FwA-l1jsRJgQppvjZz1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd52FwA-l1jsRJgQppvjZz1E",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:31:17"
+  }
+]

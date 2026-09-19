@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Amrapali",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bar, Lodge, Restaurant",
+    "pincode": "444603",
+    "phone_number": "+91 88066 69010",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "D.Sawarkar Shopping Complex, Saroj Chowk, Jawahar Rd, Amrawati Tahsil, Amravati, Maharashtra 444601",
+    "area": "Amrawati Tahsil",
+    "latitude": 20.931269999999998,
+    "longitude": 77.753267,
+    "place_id": "ChIJb3efI6mk1jsR5rVPKWh3nWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb3efI6mk1jsR5rVPKWh3nWU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:32:32"
+  },
+  {
+    "business_name": "Funland Water Park",
+    "search_category": "Resort",
+    "primary_category": "Water park",
+    "all_categories": "Water park, Amusement park, Amusement park ride, Event venue, Food court, Park, Wedding venue",
+    "pincode": "444603",
+    "phone_number": "+91 70572 90287",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 696,
+    "address": "Near, University Mardi Road, Yogiraj Nagar, Amravati, Maharashtra 444602",
+    "area": "Yogiraj Nagar",
+    "latitude": 20.9428692,
+    "longitude": 77.7967426,
+    "place_id": "ChIJI2zEyoaj1jsRZBl-DozoRmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI2zEyoaj1jsRZBl-DozoRmM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:32:33"
+  }
+]

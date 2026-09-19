@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nagarjun Hospital",
+    "search_category": "Therapy Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "HVMH+RGF, Nakashi, Maharashtra 444502",
+    "area": "444502",
+    "latitude": 20.584550099999998,
+    "longitude": 76.8787868,
+    "place_id": "ChIJ21lqn4fL0DsR7pxU3TjCPQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ21lqn4fL0DsR7pxU3TjCPQ4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:14:44"
+  },
+  {
+    "business_name": "Aanand Yoga Therapy Center",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "444502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "GFWV+3XH, Pune, Mandavgan Pharata, Maharashtra 412211",
+    "area": "444502",
+    "latitude": 18.5451999,
+    "longitude": 74.49497579999999,
+    "place_id": "ChIJkfyUFfw9wzsRi_3PZ7naP68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkfyUFfw9wzsRi_3PZ7naP68",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:14:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mehta Lodge",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "444505",
+    "phone_number": "+91 78418 86740",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "443J+W8F, Subhash Chowk - Balu Chowk Rd, Deopeth, Shukrawar Peth, Washim, Maharashtra 444505",
+    "area": "Deopeth, Shukrawar Peth",
+    "latitude": 20.1048205,
+    "longitude": 77.1308054,
+    "place_id": "ChIJb9xOXKPj0DsR9bXsEIYmAxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb9xOXKPj0DsR9bXsEIYmAxk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:20:00"
+  },
+  {
+    "business_name": "Poonam Trading | Hotel Amenities Manufacturer and Supplier",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel supply store",
+    "all_categories": "Hotel supply store",
+    "pincode": "444505",
+    "phone_number": "+91 91672 44555",
+    "website": "http://poonamtradings.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "205/6, Rashmi Complex 6,7,8, Near, GCC Club Rd, Rashmi Mangal Nagar, Mira Road East, Maharashtra 401107",
+    "area": "Rashmi Mangal Nagar, Gaurav Sankalp, Mira Road East",
+    "latitude": 19.2837678,
+    "longitude": 72.8798597,
+    "place_id": "ChIJ7dnuIGmw5zsRJUm0EEQVv7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7dnuIGmw5zsRJUm0EEQVv7s",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:20:02"
+  }
+]

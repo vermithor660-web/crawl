@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sandip Bhagat",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "444405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhendgaon, Maharashtra 444407",
+    "area": "444405",
+    "latitude": 20.532474399999998,
+    "longitude": 77.2351887,
+    "place_id": "ChIJ1Rp5VsMr0TsRBV7-MEUMTT0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Rp5VsMr0TsRBV7-MEUMTT0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:07:56"
+  },
+  {
+    "business_name": "सुशीला विहार",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "444405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Wanoja - Pinjar Rd, Malshelu, Maharashtra 444405",
+    "area": "444405",
+    "latitude": 20.4432085,
+    "longitude": 77.2430699,
+    "place_id": "ChIJ1QdikXMp0TsRax6wq9DkC18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1QdikXMp0TsRax6wq9DkC18",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:07:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amazing Tailer",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "444511",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Alegaon, Maharashtra 444511",
+    "area": "444511",
+    "latitude": 20.4033296,
+    "longitude": 76.8450663,
+    "place_id": "ChIJoUqVNArJ0DsR73nKIvNy80E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoUqVNArJ0DsR73nKIvNy80E",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:26:12"
+  },
+  {
+    "business_name": "FATEH ALI CHOWK",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "444511",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "CV42+R3H, Alegaon, Maharashtra 444511",
+    "area": "444511",
+    "latitude": 20.4070707,
+    "longitude": 76.8502329,
+    "place_id": "ChIJlybuMADJ0DsRe9M8rGrI4f8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlybuMADJ0DsRe9M8rGrI4f8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:26:13"
+  }
+]

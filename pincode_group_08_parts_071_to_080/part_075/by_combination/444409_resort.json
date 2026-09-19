@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Avani Tiger Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "444409",
+    "phone_number": "+91 96768 71777",
+    "website": "https://avanitigerresorts.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sunna, Gate, Tipeshwar, Pandharkawada, Maharashtra 445305",
+    "area": "444409",
+    "latitude": 19.9168092,
+    "longitude": 78.5212069,
+    "place_id": "ChIJmQ-WF3NT0jsR-DnRsKVSyRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmQ-WF3NT0jsR-DnRsKVSyRY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:11:18"
+  },
+  {
+    "business_name": "Green Valley Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "444409",
+    "phone_number": "+91 90219 22409",
+    "website": "https://greenvalleyresort.info/",
+    "rating": 3.3,
+    "reviews_count": 383,
+    "address": "Amravati Rd, Ringanabodi, Maharashtra 441103",
+    "area": "444409",
+    "latitude": 21.1285523,
+    "longitude": 78.70960649999999,
+    "place_id": "ChIJddIxpEj11DsRzvNES2LYnV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJddIxpEj11DsRzvNES2LYnV4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:11:20"
+  }
+]

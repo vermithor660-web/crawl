@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nilesh Electronics Washim",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "444510",
+    "phone_number": "+91 98502 02301",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Patni Chowk, Shivaji Chowk to Patni Chowk Rd, Naalsaheb Pura, Ravivar Bazar, Washim, Maharashtra 444505",
+    "area": "Naalsaheb Pura, Ravivar Bazar",
+    "latitude": 20.1105215,
+    "longitude": 77.1300819,
+    "place_id": "ChIJG9O6brzj0DsRP55gwTFLTVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9O6brzj0DsRP55gwTFLTVc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:25:21"
+  },
+  {
+    "business_name": "LS Computers Sales & Service",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Used computer store",
+    "all_categories": "Used computer store, Computer accessories store, Computer repair service, Computer store",
+    "pincode": "444510",
+    "phone_number": "+91 80803 82451",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Vishal Nagar, Pimpalgaon Rd, Waghapur, Bangar Nagar, Yavatmal, Maharashtra 445001",
+    "area": "Waghapur, Bangar Nagar",
+    "latitude": 20.404103799999998,
+    "longitude": 78.1210124,
+    "place_id": "ChIJp1q_nirv0zsRH-uUNNtjszU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp1q_nirv0zsRH-uUNNtjszU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:25:24"
+  }
+]

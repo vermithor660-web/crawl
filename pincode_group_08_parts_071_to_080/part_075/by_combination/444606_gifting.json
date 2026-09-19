@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radhika Arts & Gift Center",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, General store",
+    "pincode": "444606",
+    "phone_number": "+91 82376 94022",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bar, Nanda Market, 01 In front Raj Plaza, Rajapeth, Amravati, Maharashtra 444606",
+    "area": "Rajapeth, Vivekanand Colony",
+    "latitude": 20.919511099999998,
+    "longitude": 77.7586611,
+    "place_id": "ChIJ8ZCxF9ql1jsR-AuLxTMYaW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ZCxF9ql1jsR-AuLxTMYaW8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:38:09"
+  },
+  {
+    "business_name": "Mahadev Rakhi",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "444606",
+    "phone_number": "+91 99217 33436",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "road, Kanwar Nagar, Bapu Colony, Amravati, Maharashtra 444606",
+    "area": "Kanwar Nagar, Bapu Colony",
+    "latitude": 20.9164001,
+    "longitude": 77.7599438,
+    "place_id": "ChIJXTcrIo-l1jsRZYfl979AKrA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXTcrIo-l1jsRZYfl979AKrA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:38:09"
+  }
+]

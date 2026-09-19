@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Sai Properties",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "444504",
+    "phone_number": "+91 99212 23188",
+    "website": "https://shreesaiproperties.framer.website/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Iratkar Commercial Complex, Loni road, Risod, Maharashtra 444506",
+    "area": "444504",
+    "latitude": 19.976313299999997,
+    "longitude": 76.78230169999999,
+    "place_id": "ChIJmZB8ZgCN0DsRNA3K5Fn2HlY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmZB8ZgCN0DsRNA3K5Fn2HlY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:18:36"
+  },
+  {
+    "business_name": "Shrutsagar Computers, Online Registration And Vender",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Computer accessories store",
+    "all_categories": "Computer accessories store, Intellectual property registry",
+    "pincode": "444504",
+    "phone_number": "+91 93268 70148",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Near Police Station, Pande Complex, First Floor Risod Dist, Maharashtra 444506",
+    "area": "444504",
+    "latitude": 19.975075099999998,
+    "longitude": 76.78796419999999,
+    "place_id": "ChIJj-e1JWON0DsRwGuvZSvV3aE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj-e1JWON0DsRwGuvZSvV3aE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:18:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Showbizz Entertainment",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "444607",
+    "phone_number": "+91 98230 29808",
+    "website": "https://www.showbizz98.com/",
+    "rating": 4.8,
+    "reviews_count": 285,
+    "address": "C 31 Shewalkar Garden, S Ambazari Rd, Gopal Nagar, Nagpur, Maharashtra 440022",
+    "area": "Gopal Nagar, Gayatri Nagar, Pratap Nagar",
+    "latitude": 21.1211111,
+    "longitude": 79.05302739999999,
+    "place_id": "ChIJjxz9iXfA1DsR0VNs0eg6CI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjxz9iXfA1DsR0VNs0eg6CI0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:40:30"
+  },
+  {
+    "business_name": "Classic event and decoration Amravati",
+    "search_category": "Tradeshows",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "444607",
+    "phone_number": "+91 83292 46965",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "shimla vihar snjivani, Hanuman Mandir, Mangaldham Colony, Dastur Nagar, Amravati, Maharashtra 444606",
+    "area": "Mangaldham Colony, Dastur Nagar",
+    "latitude": 20.9061391,
+    "longitude": 77.7815574,
+    "place_id": "ChIJDYTdn-il1jsR5GARPU1a0DU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDYTdn-il1jsR5GARPU1a0DU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:40:31"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fix At Home",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Appliance repair service",
+    "all_categories": "Appliance repair service, Service establishment, Refrigerator repair service, Repair service, Washer & dryer repair service",
+    "pincode": "444510",
+    "phone_number": "+91 91726 46471",
+    "website": "https://fixtathome.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Fix At Home, 444510, India",
+    "area": "444510",
+    "latitude": 18.5035801,
+    "longitude": 73.8746239,
+    "place_id": "ChIJF52rUT9tcG0RcnnRy5bzb7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF52rUT9tcG0RcnnRy5bzb7E",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:24:54"
+  },
+  {
+    "business_name": "AC and Refrigerator Repairing Service",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Repair service",
+    "all_categories": "Repair service, Service establishment",
+    "pincode": "444510",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "AC and Refrigerator Repairing Service, 444510, India",
+    "area": "444510",
+    "latitude": 18.553112799999997,
+    "longitude": 73.8645074,
+    "place_id": "ChIJ_bO_uWKxwjsRREI3-oJkr2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_bO_uWKxwjsRREI3-oJkr2A",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:24:55"
+  }
+]

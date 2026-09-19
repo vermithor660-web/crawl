@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RIBHUNI unisex salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hairdresser",
+    "all_categories": "Hairdresser, Skin care clinic, Make-up artist",
+    "pincode": "444602",
+    "phone_number": "+91 97656 57194",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 32,
+    "address": "upper floor, 12 shop, Dastur Nagar Rd, near Ayur mall, Dastur Nagar, Amravati, Maharashtra 444606",
+    "area": "Dastur Nagar",
+    "latitude": 20.9094166,
+    "longitude": 77.7663776,
+    "place_id": "ChIJr7yHYbKl1jsRi8tCcbgUAZk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr7yHYbKl1jsRi8tCcbgUAZk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:30:30"
+  },
+  {
+    "business_name": "MODEERA SALON",
+    "search_category": "Unisex Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "444602",
+    "phone_number": "+91 77209 08252",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 33,
+    "address": "Badnera Rd, Saturna, Amravati, Maharashtra 444607",
+    "area": "Saturna",
+    "latitude": 20.9002814,
+    "longitude": 77.7484873,
+    "place_id": "ChIJnUsasMOl1jsR_177ZgTNRVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnUsasMOl1jsR_177ZgTNRVw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:30:32"
+  }
+]

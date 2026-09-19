@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MR Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store, Cell phone store, Mobile phone repair shop",
+    "pincode": "444705",
+    "phone_number": "+91 75071 11313",
+    "website": "https://mr-mobile-shop.grexa.site/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop No.3, Vyankatesh Plaza, Anjangaon Surji, Anjangaon, Maharashtra 444705",
+    "area": "Anjangaon Surji",
+    "latitude": 21.162913,
+    "longitude": 77.3101597,
+    "place_id": "ChIJxb7rb8Dk1jsRNM1ECu6ovKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxb7rb8Dk1jsRNM1ECu6ovKI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:47:14"
+  },
+  {
+    "business_name": "Pranav Sales",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store, Telecommunications service provider",
+    "pincode": "444705",
+    "phone_number": "+91 94210 15743",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Sawkarpura Rd, near Buldhana Bank, Anjangaon Surji, Anjangaon, Maharashtra 444705",
+    "area": "Anjangaon Surji",
+    "latitude": 21.163684399999998,
+    "longitude": 77.3126166,
+    "place_id": "ChIJoc1mqcHk1jsRdoz-k3m4pjc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoc1mqcHk1jsRdoz-k3m4pjc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:47:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "kailash electronics and furniture",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Bedroom furniture store, Children's furniture store, Electronics wholesaler, Furniture Manufacturer, Furniture store, Furniture wholesaler, Office furniture store, Outdoor furniture store, Refrigerator store",
+    "pincode": "444306",
+    "phone_number": "+91 98227 24346",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 60,
+    "address": "Rayli Jin, DP Rd, Gandhi Nagar, Chikhli, Maharashtra 443201",
+    "area": "Gandhi Nagar",
+    "latitude": 20.3483919,
+    "longitude": 76.25908129999999,
+    "place_id": "ChIJOe-ExUgR2jsRDsGpAs23tuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOe-ExUgR2jsRDsGpAs23tuU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 05:55:23"
+  },
+  {
+    "business_name": "Light House",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "444306",
+    "phone_number": "+91 91469 20074",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "2, near Bus Stand, Nizampur, Maharashtra 402120",
+    "area": "444306",
+    "latitude": 18.3208931,
+    "longitude": 73.3034835,
+    "place_id": "ChIJv_F08bUl6DsRpD9FietQgFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv_F08bUl6DsRpD9FietQgFo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 05:55:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mobile Solution",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "444706",
+    "phone_number": "+91 78419 77019",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "LG -22 Ground, Madhu Madhav Towers, Laxmi Bhavan Sq, Dharampeth Extension, Dharampeth, Nagpur, Maharashtra 440010",
+    "area": "Dharampeth Extension, Dharampeth",
+    "latitude": 21.1401509,
+    "longitude": 79.0601401,
+    "place_id": "ChIJYycZ2WDA1DsRDlnKPBOq9Wc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYycZ2WDA1DsRDlnKPBOq9Wc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:49:03"
+  },
+  {
+    "business_name": "New Pearls Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store, Mobile phone repair shop",
+    "pincode": "444706",
+    "phone_number": "+91 93716 77716",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Dharampeth, Nagpur, Maharashtra 440010",
+    "area": "Dharampeth",
+    "latitude": 21.141267199999998,
+    "longitude": 79.0621833,
+    "place_id": "ChIJL773WmDA1DsR1EubEh-RgQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL773WmDA1DsR1EubEh-RgQU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:49:03"
+  }
+]

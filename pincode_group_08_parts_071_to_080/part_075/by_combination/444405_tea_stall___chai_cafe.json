@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Chai Wala",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe, Tea house",
+    "pincode": "444405",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Sivaganga Colony, L. B. Nagar, Hyderabad, Telangana 500074",
+    "area": "Sivaganga Colony, L. B. Nagar",
+    "latitude": 17.3529713,
+    "longitude": 78.554925,
+    "place_id": "ChIJyTXje7CYyzsRLOGilKrQFBY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyTXje7CYyzsRLOGilKrQFBY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:07:04"
+  },
+  {
+    "business_name": "Singh Tea Suppliers",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea Wholesaler",
+    "all_categories": "Tea Wholesaler",
+    "pincode": "444405",
+    "phone_number": "+91 257 223 3192",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "282, Ground Floor, Golani Market, Jalgaon, Maharashtra 425001",
+    "area": "Navi Peth, Jaikisan Wadi",
+    "latitude": 21.013145899999998,
+    "longitude": 75.5648399,
+    "place_id": "ChIJuZbZhKQP2TsRy3zWj4rkVRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuZbZhKQP2TsRy3zWj4rkVRY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:07:04"
+  }
+]

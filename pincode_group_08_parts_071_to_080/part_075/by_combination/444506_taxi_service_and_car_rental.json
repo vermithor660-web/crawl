@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAULI CAR RENTAL MEHKAR",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Car rental agency, Taxi service",
+    "pincode": "444506",
+    "phone_number": "+91 91716 01010",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 17,
+    "address": "Janephal Chwok, Shivaji Nagar, Mehkar, Maharashtra 443301",
+    "area": "Shivaji Nagar",
+    "latitude": 20.151912,
+    "longitude": 76.57775769999999,
+    "place_id": "ChIJHaPwawCZ0DsRlgzlcDhTp40",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHaPwawCZ0DsRlgzlcDhTp40",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:21:21"
+  },
+  {
+    "business_name": "Aurangabad Taxi Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service",
+    "pincode": "444506",
+    "phone_number": "+91 88888 37771",
+    "website": "https://ajantaelloracabservice.com/",
+    "rating": 4.7,
+    "reviews_count": 23,
+    "address": "H no, 19, near Roxi Cinema, Sillikhana, Sanmitra Colony, Nirala Bazar, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Sillikhana, Sanmitra Colony, Nirala Bazar",
+    "latitude": 19.8795428,
+    "longitude": 75.32745249999999,
+    "place_id": "ChIJk0uIXlWZ2zsR6hYh3ICYQxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk0uIXlWZ2zsR6hYh3ICYQxs",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:21:23"
+  }
+]

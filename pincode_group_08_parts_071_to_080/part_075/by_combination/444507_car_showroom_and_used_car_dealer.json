@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CarMaxx",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Auto body shop, Auto bodywork mechanic, Auto painting, Auto repair shop, Auto restoration service, Auto tune up service, Car repair and maintenance service, Carpet cleaning service, Motor vehicle dealer",
+    "pincode": "444507",
+    "phone_number": "+91 99227 74999",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "C Wing, KPCT Complex, KPCT MALL, Shop No, 5, Vitthal Rao Shivarkar Rd, Fatima Nagar, Wanowrie, Pune, Maharashtra 411013",
+    "area": "Fatima Nagar, Wanowrie",
+    "latitude": 18.503590499999998,
+    "longitude": 73.9005253,
+    "place_id": "ChIJD3w6X8_BwjsR8I80GqRelUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD3w6X8_BwjsR8I80GqRelUs",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:23:01"
+  },
+  {
+    "business_name": "X Drive Pre Owned Cars LLP",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Car dealer",
+    "pincode": "444507",
+    "phone_number": "+91 96569 55588",
+    "website": "https://www.xdrivecars.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "between Technopark and Lulu mall, Bypass road, opposite UST global & infosys, Kulathoor, Kazhakkoottam, Keralam 695583",
+    "area": "Kulathoor",
+    "latitude": 8.5344831,
+    "longitude": 76.8812327,
+    "place_id": "ChIJBVINp6G_BTsRBLEHKNnRzrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBVINp6G_BTsRBLEHKNnRzrc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:23:01"
+  }
+]

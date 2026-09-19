@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Queen's Cake",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "444603",
+    "phone_number": "+91 70207 98118",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "WQ9C+H9V, Wadali Naka, Amravati, Maharashtra 444606",
+    "area": "Wadali Naka",
+    "latitude": 20.9189768,
+    "longitude": 77.770905,
+    "place_id": "ChIJpelYfyml1jsRum8yxyEW5H0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpelYfyml1jsRum8yxyEW5H0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:31:31"
+  },
+  {
+    "business_name": "Manbhari Cakes & Food Mart",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Bakery and Cake Shop, Cupcake shop, Wedding bakery, Wholesale bakery",
+    "pincode": "444603",
+    "phone_number": "+91 89565 40492",
+    "website": "https://www.manbhari.co.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shilpi Complex, Rajapeth - Irwin Square Flyover, near Kushal Auto, Deorankar Nagar, Amravati, Maharashtra 444605",
+    "area": "Deorankar Nagar",
+    "latitude": 20.9186554,
+    "longitude": 77.7535314,
+    "place_id": "ChIJNaIWVqel1jsRHaTHItepYiU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNaIWVqel1jsRHaTHItepYiU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:31:33"
+  }
+]

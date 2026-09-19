@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satwik Global Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Food products supplier",
+    "pincode": "444409",
+    "phone_number": "+91 93998 10779",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "3/3 Satyam Gas Road, Scheme 54 Rd, Vijay Nagar, Indore, Madhya Pradesh 452010",
+    "area": "Vijay Nagar",
+    "latitude": 22.753794799999998,
+    "longitude": 75.8946598,
+    "place_id": "ChIJfcA__I4DYzkRaizd9JFqd_k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfcA__I4DYzkRaizd9JFqd_k",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:10:26"
+  },
+  {
+    "business_name": "THE FROZEN POINT",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food store",
+    "all_categories": "Frozen food store",
+    "pincode": "444409",
+    "phone_number": "+91 70284 39806",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "shankar nagar, near shankar nagar, Dwarka, Nashik, Maharashtra 422011",
+    "area": "Dwarka",
+    "latitude": 19.9948497,
+    "longitude": 73.8038645,
+    "place_id": "ChIJuwwRpEbr3TsRn-Zvqo0cnJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuwwRpEbr3TsRn-Zvqo0cnJY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:10:26"
+  }
+]

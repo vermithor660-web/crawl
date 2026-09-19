@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K C Light House",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store",
+    "pincode": "444605",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Building, Prashant, K C, Square Rd, Rukhmini Nagar, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "area": "Rukhmini Nagar, Vivekanand Colony",
+    "latitude": 20.924542799999998,
+    "longitude": 77.7669894,
+    "place_id": "ChIJO9OzSL2k1jsRj3wI6cMQs50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO9OzSL2k1jsRj3wI6cMQs50",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:35:51"
+  },
+  {
+    "business_name": "BlackT ElectroTech",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Home automation company",
+    "all_categories": "Home automation company",
+    "pincode": "444605",
+    "phone_number": "+91 96577 07702",
+    "website": "https://www.blackt.in/",
+    "rating": 4.7,
+    "reviews_count": 138,
+    "address": "Pl no 57, near Delhi Public school, behind Gajanan Maharaj temple, Kranti Colony, Amravati, Maharashtra 444607",
+    "area": "Kranti Colony",
+    "latitude": 20.908477599999998,
+    "longitude": 77.7396989,
+    "place_id": "ChIJbVVVlcyk1jsRdbsWHHotW4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbVVVlcyk1jsRdbsWHHotW4w",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:35:52"
+  }
+]

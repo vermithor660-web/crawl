@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Legalhand Services",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services, Service establishment",
+    "pincode": "444604",
+    "phone_number": "+91 91569 22147",
+    "website": "https://legalhandservices.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Legalhand Services, 444604, India",
+    "area": "444604",
+    "latitude": 19.8080726,
+    "longitude": 75.9771852,
+    "place_id": "ChIJXcpoe-PnBmsRS47ZcW9GJ4g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXcpoe-PnBmsRS47ZcW9GJ4g",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:34:42"
+  },
+  {
+    "business_name": "Electronova System Pvt Ltd",
+    "search_category": "Company Registration Consultant",
+    "primary_category": "Electronics Company",
+    "all_categories": "Electronics Company",
+    "pincode": "444604",
+    "phone_number": "+91 83298 44927",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Kathora Rd, Kathora, Maharashtra 444604",
+    "area": "444604",
+    "latitude": 20.9898149,
+    "longitude": 77.76075469999999,
+    "place_id": "ChIJ14UidwCj1jsRaLkHD2ykQtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ14UidwCj1jsRaLkHD2ykQtQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:34:42"
+  }
+]

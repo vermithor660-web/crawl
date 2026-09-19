@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Care Consultancy",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "444502",
+    "phone_number": "N/A",
+    "website": "http://www.carefinstocks.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "P263+8G9, Dagripul Road, near Masumsha Chowk, New Radhakisan Plots, Akola, Maharashtra 444001",
+    "area": "New Radhakisan Plots",
+    "latitude": 20.7107821,
+    "longitude": 77.00384989999999,
+    "place_id": "ChIJEwlTTAAx1zsRDungIa0S-zE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEwlTTAAx1zsRDungIa0S-zE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:14:53"
+  },
+  {
+    "business_name": "HCS : Hospitality Consultancy Services",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "444502",
+    "phone_number": "N/A",
+    "website": "http://hcs.globeventures.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HCS : Hospitality Consultancy Services, 444502, India",
+    "area": "444502",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJTS1-LeRN4DsRTw7hOv4zgnI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTS1-LeRN4DsRTw7hOv4zgnI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:14:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rj family restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "444511",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "6XM8+WC, Kalambeshwar, Vadap, Maharashtra 444503",
+    "area": "444511",
+    "latitude": 20.2347769,
+    "longitude": 76.9661003,
+    "place_id": "ChIJBaaoBADD0DsRmDW41lLm2h8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBaaoBADD0DsRmDW41lLm2h8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:26:05"
+  },
+  {
+    "business_name": "HOTEL JATRA ( Veg-Nonveg Restaurant )",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family Restaurant",
+    "all_categories": "Family Restaurant",
+    "pincode": "444511",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 38,
+    "address": "8X95+QF, Bramhanwada Najik Marsul, Maharashtra 444503",
+    "area": "444511",
+    "latitude": 20.319426699999998,
+    "longitude": 76.95873,
+    "place_id": "ChIJ77osVgDF0DsR7NqYNMQ2j8k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ77osVgDF0DsR7NqYNMQ2j8k",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:26:05"
+  }
+]
