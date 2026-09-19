@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Distributors",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler",
+    "pincode": "450051",
+    "phone_number": "+91 76519 32651",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 17,
+    "address": "Gala no.11, Ground floor, Asian chemical compound, Subhash Rd, near Pioneer Indusries, Subhash Nagar, Jogeshwari East, Mumbai, Maharashtra 400060",
+    "area": "Subhash Nagar, Jogeshwari East",
+    "latitude": 19.138579399999998,
+    "longitude": 72.8504414,
+    "place_id": "ChIJGWAO1gi35zsRAwLL3-bITj0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGWAO1gi35zsRAwLL3-bITj0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:42:58"
+  },
+  {
+    "business_name": "Frumar Agri Foods Private Limited",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Exporter",
+    "all_categories": "Exporter, FMCG Manufacturer",
+    "pincode": "450051",
+    "phone_number": "+91 87609 69999",
+    "website": "https://www.swethatelugufoods.com/",
+    "rating": 4,
+    "reviews_count": 32,
+    "address": "5th Floor, ARYANKA TOWERS, Plot No.3&4, Venkateshwara Nagar, Madeenaguda, Kondapur, Telangana 500084",
+    "area": "Venkateshwara Nagar",
+    "latitude": 17.4807822,
+    "longitude": 78.34803149999999,
+    "place_id": "ChIJ___vDcuTyzsRc2uzfybMgCY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ___vDcuTyzsRc2uzfybMgCY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:42:58"
+  }
+]

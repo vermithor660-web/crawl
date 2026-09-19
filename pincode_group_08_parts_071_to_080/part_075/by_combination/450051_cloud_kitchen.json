@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CLOUD KITCHEN RISHIKESH",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "450051",
+    "phone_number": "+91 70605 99705",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "B-3, beside Water Tank, Mansa Devi Visthapit Colony, Gumaniwala, Rishikesh, Barkot Range, Uttarakhand 249204",
+    "area": "Mansa Devi Visthapit Colony, Gumaniwala",
+    "latitude": 30.086353799999998,
+    "longitude": 78.25898959999999,
+    "place_id": "ChIJZVaqhf4_CTkRW23BfgGLE4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZVaqhf4_CTkRW23BfgGLE4s",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:43:05"
+  },
+  {
+    "business_name": "Vaani Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "450051",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/vaanikitchen2025?igsh=MW9uNmp1ZWM5MmRteA==",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Medtiya Raviraj, Ramdev Park, Mira Road East, Mira Bhayandar, Maharashtra 401105",
+    "area": "Ramdev Park, Mira Road East",
+    "latitude": 19.297638,
+    "longitude": 72.8673068,
+    "place_id": "ChIJV5K0aACx5zsRb3CQ4yDgVvQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5K0aACx5zsRb3CQ4yDgVvQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:43:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Keynote Realty",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "450051",
+    "phone_number": "N/A",
+    "website": "http://www.keynoterealtors.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "134 N Breiel Blvd, Middletown, OH 45042, United States",
+    "area": "450051",
+    "latitude": 39.513127,
+    "longitude": -84.3551277,
+    "place_id": "ChIJNbCHg-ZdQIgRAzZCXNU9bvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNbCHg-ZdQIgRAzZCXNU9bvI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:44:22"
+  },
+  {
+    "business_name": "Pamela Smart, Key Realty.",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent, Service establishment",
+    "pincode": "450051",
+    "phone_number": "N/A",
+    "website": "https://pamelasmart.ikeyrealty.com/?chome=1&odoor=",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Pamela Smart, Key Realty., 450051, India",
+    "area": "450051",
+    "latitude": 39.5729075,
+    "longitude": -84.197868,
+    "place_id": "ChIJ-WeBwHFhQIgRPZbfZ313FSc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-WeBwHFhQIgRPZbfZ313FSc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:44:22"
+  }
+]

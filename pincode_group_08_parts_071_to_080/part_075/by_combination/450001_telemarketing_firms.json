@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navneet Marketing Company",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier",
+    "pincode": "450001",
+    "phone_number": "+91 96376 31573",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "10, Bhagwan Mahavir Marg, behind Town Hall, Padam Nagar, Khandwa, Madhya Pradesh 450001",
+    "area": "Padam Nagar",
+    "latitude": 21.8227561,
+    "longitude": 76.3451255,
+    "place_id": "ChIJAa8sLTwb2DsRPPYaqoT2kso",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAa8sLTwb2DsRPPYaqoT2kso",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:42:46"
+  },
+  {
+    "business_name": "Appenius Private Limited",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "450001",
+    "phone_number": "+91 77176 75715",
+    "website": "http://appeniusprivatelimited.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "L.I.G. Colony, Vidhya Nagar, Lal Chowki, Khandwa, Madhya Pradesh 450001",
+    "area": "L.I.G. Colony, Vidhya Nagar, Lal Chowki",
+    "latitude": 21.8364248,
+    "longitude": 76.3417341,
+    "place_id": "ChIJPepBLlwb2DsRQGkfkExNQUI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPepBLlwb2DsRQGkfkExNQUI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:42:47"
+  }
+]
