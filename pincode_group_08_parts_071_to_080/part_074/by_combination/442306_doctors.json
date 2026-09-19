@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Tushar A. Nagtode",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "442306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bachelor Rd, pawade chawk, Dhantoli, Wardha, Maharashtra 442001",
+    "area": "pawade chawk, Dhantoli",
+    "latitude": 20.7452985,
+    "longitude": 78.5978674,
+    "place_id": "ChIJ0RnDmfh_1DsRNJSMNMaE7rU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0RnDmfh_1DsRNJSMNMaE7rU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:12:53"
+  },
+  {
+    "business_name": "Babhale Eh Clinic",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Skin care clinic",
+    "pincode": "442306",
+    "phone_number": "+91 93704 81346",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1 Ward No 2, Vitthal Mandir, Road Main Road, Inzala, Maharashtra 442306",
+    "area": "442306",
+    "latitude": 20.6187963,
+    "longitude": 78.328925,
+    "place_id": "ChIJz8pcyvyL0zsRNvww1DvdJIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz8pcyvyL0zsRNvww1DvdJIY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:12:55"
+  }
+]

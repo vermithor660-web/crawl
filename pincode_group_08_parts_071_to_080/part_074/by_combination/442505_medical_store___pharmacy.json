@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Snehal generic medical store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "442505",
+    "phone_number": "+91 93730 26453",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mhatardevi Rd, Chandni Nagar, Ghugus, Mhatardevi, Maharashtra 442505",
+    "area": "Chandni Nagar",
+    "latitude": 19.9527805,
+    "longitude": 79.12151109999999,
+    "place_id": "ChIJlyM3IETZ0jsRd4MoB3Ep4bs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlyM3IETZ0jsRd4MoB3Ep4bs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:32:56"
+  },
+  {
+    "business_name": "Delta Medical",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "442505",
+    "phone_number": "+91 91722 80811",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Main Road, WCL Colony, Chandrapur, Ghugus, Maharashtra 442505",
+    "area": "WCL Colony",
+    "latitude": 19.9476826,
+    "longitude": 79.10773619999999,
+    "place_id": "ChIJiewkA1_f0jsRbpsYKrxG7qk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiewkA1_f0jsRbpsYKrxG7qk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:32:56"
+  }
+]

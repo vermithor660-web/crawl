@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R.K. Restaurants & Biryani Centres Babupeth",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Chicken restaurant",
+    "all_categories": "Chicken restaurant",
+    "pincode": "442403",
+    "phone_number": "+91 98341 04745",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 26,
+    "address": "Ballarshah Rd, near Sharda chowk, Babupeth, Chandrapur, Maharashtra 442403",
+    "area": "Babupeth",
+    "latitude": 19.9338286,
+    "longitude": 79.3192607,
+    "place_id": "ChIJDZoRHqrV0jsRNcjww13zSqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZoRHqrV0jsRNcjww13zSqI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:20:01"
+  },
+  {
+    "business_name": "BHAu cHI BIRYANI",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "442403",
+    "phone_number": "+91 70580 38926",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 28,
+    "address": "NAKKA NO 3, Rajura, Maharashtra 442905",
+    "area": "442403",
+    "latitude": 19.7796163,
+    "longitude": 79.3601959,
+    "place_id": "ChIJ3Zjvli3N0jsR8UvcVhnhrZQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Zjvli3N0jsR8UvcVhnhrZQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:20:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Makeupstudio",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "442501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nagsen Nagar, Surya mandir ward, Bhadravati, Maharashtra 442902",
+    "area": "Surya mandir ward, Ekta Nagar",
+    "latitude": 20.1056065,
+    "longitude": 79.1126915,
+    "place_id": "ChIJ8y7Y4jgl0zsRFcb5rl6Qt8Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8y7Y4jgl0zsRFcb5rl6Qt8Q",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:26:19"
+  },
+  {
+    "business_name": "Shilpa nibrad",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "442501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Snehal nagar, near tajane hospital, Gautam Nagar, Bhadravati, Maharashtra 442902",
+    "area": "Gautam Nagar",
+    "latitude": 20.113713699999998,
+    "longitude": 79.1221825,
+    "place_id": "ChIJNbM-JhUl0zsRSRq8sYdW-YM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNbM-JhUl0zsRSRq8sYdW-YM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:26:19"
+  }
+]

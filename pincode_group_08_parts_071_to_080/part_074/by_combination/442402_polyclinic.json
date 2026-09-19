@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Darshan Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "442402",
+    "phone_number": "+91 91681 99001",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ward No. 15, H. No. 169, beside subhash Lawn, Balaji Ward, Maharana Pratap Nagar Ward, Ballarpur, Maharashtra 442701",
+    "area": "Balaji Ward, Maharana Pratap Nagar Ward",
+    "latitude": 19.8575221,
+    "longitude": 79.3480653,
+    "place_id": "ChIJe8CEiv_T0jsRxQiyHHG8Xp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe8CEiv_T0jsRxQiyHHG8Xp4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:18:30"
+  },
+  {
+    "business_name": "District General Hospital, Chandrapur",
+    "search_category": "Polyclinic",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "442402",
+    "phone_number": "+91 7172 252 103",
+    "website": "http://gmcchandrapur.org/",
+    "rating": 3.1,
+    "reviews_count": 71,
+    "address": "X73W+HFJ, Jatpura Gate Rd, Hospital Ward, Chandrapur, Maharashtra 442402",
+    "area": "Hospital Ward",
+    "latitude": 19.9539683,
+    "longitude": 79.29614629999999,
+    "place_id": "ChIJR22sdCzU0jsRK6wEatqwlQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR22sdCzU0jsRK6wEatqwlQA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:18:30"
+  }
+]

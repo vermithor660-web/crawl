@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lux Smoke Shop (KHAMLA)",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Smoke shop",
+    "all_categories": "Smoke shop",
+    "pincode": "442404",
+    "phone_number": "+91 97679 77362",
+    "website": "https://www.instagram.com/lux_smokeshop_khamla",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Khamla Rd, Khamla, Nagpur, Maharashtra 440025",
+    "area": "Khamla",
+    "latitude": 21.110386,
+    "longitude": 79.0631654,
+    "place_id": "ChIJpcjHSUK_1DsRhHFxCFc-wQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpcjHSUK_1DsRhHFxCFc-wQg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:21:49"
+  },
+  {
+    "business_name": "SURAT PAAN WALA",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop, Delivery service, Dessert shop, Event planner, Event venue, Restaurant supply store, Wedding service",
+    "pincode": "442404",
+    "phone_number": "+91 80079 79222",
+    "website": "http://suratpaanwala.com/",
+    "rating": 4.1,
+    "reviews_count": 16,
+    "address": "Shop No. 5, near Bus Stand, Nashirabad, Maharashtra 425309",
+    "area": "442404",
+    "latitude": 21.002278,
+    "longitude": 75.6543928,
+    "place_id": "ChIJU7ccPh0J2TsRtWP-QJOrF1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU7ccPh0J2TsRtWP-QJOrF1A",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:21:50"
+  }
+]

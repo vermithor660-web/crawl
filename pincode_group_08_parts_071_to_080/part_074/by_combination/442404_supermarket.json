@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxman Kirana Stores",
+    "search_category": "Supermarket",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "442404",
+    "phone_number": "+91 94200 04272",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Main Rd, near R.K. Chowk, Bhiwapur ward, Neri, Maharashtra 442404",
+    "area": "Bhiwapur ward",
+    "latitude": 20.0038925,
+    "longitude": 79.2822638,
+    "place_id": "ChIJPWsUcT7U0jsRlW3kSJa6-fQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPWsUcT7U0jsRlW3kSJa6-fQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:21:43"
+  },
+  {
+    "business_name": "MALEKAR KIRANA",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "442404",
+    "phone_number": "+91 75079 34311",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "MAIN ROAD, Tukum, Urjanagar, Maharashtra 442401",
+    "area": "Tukum",
+    "latitude": 19.993727399999997,
+    "longitude": 79.3033974,
+    "place_id": "ChIJRc27zhXV0jsRxTTdY_f1hYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRc27zhXV0jsRxTTdY_f1hYo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:21:43"
+  }
+]

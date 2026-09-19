@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Nikhil Anna's Idli Special",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "442501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "4469+47Q, Panchashil Nagar, Bhadravati, Maharashtra 442902",
+    "area": "Panchashil Nagar",
+    "latitude": 20.1103253,
+    "longitude": 79.11822939999999,
+    "place_id": "ChIJ_2rKYgAl0zsRFnmZ5yIDuno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_2rKYgAl0zsRFnmZ5yIDuno",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:25:34"
+  },
+  {
+    "business_name": "Shree Agrawal Bhojnalaya",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Southwestern restaurant (US)",
+    "all_categories": "Southwestern restaurant (US)",
+    "pincode": "442501",
+    "phone_number": "+91 95884 21621",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Front Of BSNL office, Railway Station Road, Ravindra Nagar Vard, Chandrapur, Ballarpur, Maharashtra 442701",
+    "area": "Ravindra Nagar Vard",
+    "latitude": 19.849990899999998,
+    "longitude": 79.34728559999999,
+    "place_id": "ChIJZRpoGV7T0jsRNnfqpW_G9xI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZRpoGV7T0jsRNnfqpW_G9xI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:25:37"
+  }
+]

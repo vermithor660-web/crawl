@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Finest Properties",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate developer",
+    "all_categories": "Real estate developer, Real Estate Builders & Construction Company",
+    "pincode": "442502",
+    "phone_number": "+91 98459 54170",
+    "website": "https://finestpropertiesbengaluru.com/",
+    "rating": 4.8,
+    "reviews_count": 19,
+    "address": "522, 20th Main Rd, T Block, 4th T Block East, Pattabhirama Nagar, Jayanagar, Bengaluru, Karnataka 560041",
+    "area": "T Block, 4th T Block East, Pattabhirama Nagar, Jayanagar",
+    "latitude": 12.9248815,
+    "longitude": 77.59055599999999,
+    "place_id": "ChIJRcI-taAVrjsRNEGLSUuVkg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRcI-taAVrjsRNEGLSUuVkg0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:28:40"
+  },
+  {
+    "business_name": "Luxury Real Estate",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent",
+    "pincode": "442502",
+    "phone_number": "N/A",
+    "website": "https://luxury-real-estate.ueniweb.com/?utm_campaign=gmb",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Maheshwori Udyan, Matunga East, Mumbai, Maharashtra 400019",
+    "area": "Matunga East",
+    "latitude": 19.026724599999998,
+    "longitude": 72.85546939999999,
+    "place_id": "ChIJocEbp9PP5zsR6ISEBPySwnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJocEbp9PP5zsR6ISEBPySwnE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:28:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramdev Dairy & Chat Center",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop, Dairy Products Supplier",
+    "pincode": "442301",
+    "phone_number": "+91 91727 60612",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Ishwar Niwas, Central Bazar Road, Lokmat Square, Ramdaspeth, Nagpur, Maharashtra 440012",
+    "area": "Lokmat Square, Ramdaspeth",
+    "latitude": 21.1348178,
+    "longitude": 79.0779285,
+    "place_id": "ChIJkaL0T5DA1DsRfAlF5a6sOaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkaL0T5DA1DsRfAlF5a6sOaM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:03:10"
+  },
+  {
+    "business_name": "Shivshakti Naisargik Dudh Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Dairy, Milk delivery service, Dairy Products Supplier",
+    "pincode": "442301",
+    "phone_number": "+91 93597 54116",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ramnagar Chowk, beside Hotel Celebration, Chandrapur, Maharashtra 442401",
+    "area": "Civil Lines",
+    "latitude": 19.963127699999998,
+    "longitude": 79.2908388,
+    "place_id": "ChIJTTn-NADV0jsRV5C6tlI4Muw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTTn-NADV0jsRV5C6tlI4Muw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:03:10"
+  }
+]

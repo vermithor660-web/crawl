@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Speed Car Wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "442305",
+    "phone_number": "+91 96423 66699",
+    "website": "http://www.speedcarwash.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "D.NO, 19-8/4, NH16, Industrial Estate, Dhavaleswaram, Dowlaiswaram, Andhra Pradesh 533125",
+    "area": "Industrial Estate, Dhavaleswaram",
+    "latitude": 16.944302,
+    "longitude": 81.7932271,
+    "place_id": "ChIJMct1KhdDOToREzSiH6B_Kjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMct1KhdDOToREzSiH6B_Kjg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:11:14"
+  },
+  {
+    "business_name": "WIT Car Wash & Detailing Services Rekurthi",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "442305",
+    "phone_number": "+91 88864 99902",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "WIT Car Wash, opp. Varun Motors, Rekurthi, Telangana 505451",
+    "area": "442305",
+    "latitude": 18.4713894,
+    "longitude": 79.1091833,
+    "place_id": "ChIJiWoHDq3ZzDsRQ5f0-JOZBec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiWoHDq3ZzDsRQ5f0-JOZBec",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:11:14"
+  }
+]

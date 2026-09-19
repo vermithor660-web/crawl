@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kent Homeopathy Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath, Doctor",
+    "pincode": "442604",
+    "phone_number": "+91 82914 92566",
+    "website": "http://www.kenthomeopathy.com/",
+    "rating": 4.8,
+    "reviews_count": 349,
+    "address": "Shop No. 52 ( Ground Floor, Galleria Shopping Mall, Central Ave, Hiranandani Gardens, Panchkutir Ganesh Nagar, Powai, Mumbai, Maharashtra 400076",
+    "area": "Hiranandani Gardens, Panchkutir Ganesh Nagar, Powai",
+    "latitude": 19.1193,
+    "longitude": 72.9116354,
+    "place_id": "ChIJZU32b-_H5zsRWHG4FwQqH6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZU32b-_H5zsRWHG4FwQqH6o",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:38:22"
+  },
+  {
+    "business_name": "Dr. Bharti Saigal Homoeopathic Clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "442604",
+    "phone_number": "+91 98734 56808",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 143,
+    "address": "B-41, Street Number 15, Madhu Vihar Rd, opp. Sugam Public School, I.P.Extension, Delhi, 110092",
+    "area": "Madhu Vihar, I.P.Extension, Patparganj",
+    "latitude": 28.6358452,
+    "longitude": 77.3032985,
+    "place_id": "ChIJvzb3DEz7DDkRe_rgAgXoCjI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvzb3DEz7DDkRe_rgAgXoCjI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:38:22"
+  }
+]

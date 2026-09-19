@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ruby eye care Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Ophthalmologist",
+    "all_categories": "Ophthalmologist",
+    "pincode": "442604",
+    "phone_number": "+91 73043 09715",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "109,first floor, laxmi shopping centre, below ghatkopar metro station, Kapol wadi, Ghatkopar West, Mumbai, Maharashtra 400086",
+    "area": "Kapol wadi, Ghatkopar West",
+    "latitude": 19.0867395,
+    "longitude": 72.9082292,
+    "place_id": "ChIJzWlHIi3G5zsRd5BKFDkJUFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzWlHIi3G5zsRd5BKFDkJUFI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:38:26"
+  },
+  {
+    "business_name": "More Eyes Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "442604",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "94X4+CM9, Ramchandra Nagar, Udgir, Maharashtra 413517",
+    "area": "Ramchandra Nagar",
+    "latitude": 18.398534299999998,
+    "longitude": 77.1067415,
+    "place_id": "ChIJzTEmsDSrzzsRMRlW2-W6roY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzTEmsDSrzzsRMRlW2-W6roY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:38:26"
+  }
+]

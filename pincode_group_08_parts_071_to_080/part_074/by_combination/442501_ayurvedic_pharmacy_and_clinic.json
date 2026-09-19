@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Dhanorkar",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "442501",
+    "phone_number": "+91 98909 08092",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 7,
+    "address": "X7FX+7FV, Opposite Zilla Parishad, near State Bank, Chandrapur, Maharashtra 442401",
+    "area": "Sharda Nagar, Nirman Nagar",
+    "latitude": 19.973227899999998,
+    "longitude": 79.29866679999999,
+    "place_id": "ChIJLb_zIcvV0jsRKjBl1Lxu9kc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLb_zIcvV0jsRKjBl1Lxu9kc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:25:47"
+  },
+  {
+    "business_name": "आयुर्वेदीक दवाखाना",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "442501",
+    "phone_number": "+91 98239 89695",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Madanwadi, Maharashtra 413130",
+    "area": "442501",
+    "latitude": 18.2902703,
+    "longitude": 74.752434,
+    "place_id": "ChIJe2tBI8lwwzsR2F7rf7auLCc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe2tBI8lwwzsR2F7rf7auLCc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:25:49"
+  }
+]

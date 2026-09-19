@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "APMC Hinganghat",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "442301",
+    "phone_number": "N/A",
+    "website": "https://apmchinganghat.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "GRPM+78H, NH 44, Sayaji Nagar, Nandgaon, Maharashtra 442301",
+    "area": "Sayaji Nagar",
+    "latitude": 20.5356827,
+    "longitude": 78.83335269999999,
+    "place_id": "ChIJNTgCVQFw0zsROMN9QqTK1H0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNTgCVQFw0zsROMN9QqTK1H0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:04:57"
+  },
+  {
+    "business_name": "Akshay girde",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "442301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HRMM+6WG, Borkhedi, Maharashtra 442301",
+    "area": "442301",
+    "latitude": 20.5828937,
+    "longitude": 78.83460319999999,
+    "place_id": "ChIJOXkCfQB70zsR9qllxLEkr-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOXkCfQB70zsR9qllxLEkr-M",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:05:00"
+  }
+]

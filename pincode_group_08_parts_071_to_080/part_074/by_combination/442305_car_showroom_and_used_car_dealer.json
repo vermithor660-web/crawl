@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ace motors",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Motor vehicle dealer",
+    "all_categories": "Motor vehicle dealer",
+    "pincode": "442305",
+    "phone_number": "+91 98231 20093",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "plot no 4, Amravati Rd, Kamala Nagar, Kachimet, Nagpur, Maharashtra 440016",
+    "area": "Kamala Nagar, Kachimet",
+    "latitude": 21.152939,
+    "longitude": 79.0168344,
+    "place_id": "ChIJVVVVBV7A1DsR0Bgz8GSBHVk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVBV7A1DsR0Bgz8GSBHVk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:11:16"
+  },
+  {
+    "business_name": "Maharashtra Automobile",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "DS Automobiles dealer",
+    "all_categories": "DS Automobiles dealer",
+    "pincode": "442305",
+    "phone_number": "+91 90286 84901",
+    "website": "https://instagram.com/maharashtraautomobile2023?igshid=ZDdkNTZiNTM=",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Plot no. 6 Shop no. 1,2,3, Taj plaza, Umred Rd, Bada, Taj Bagh, Nagpur, Maharashtra 440024",
+    "area": "Bada, Taj Bagh",
+    "latitude": 21.118551999999998,
+    "longitude": 79.12514279999999,
+    "place_id": "ChIJx6vqrrK51DsRNaqT_jSh-ZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx6vqrrK51DsRNaqT_jSh-ZM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:11:16"
+  }
+]

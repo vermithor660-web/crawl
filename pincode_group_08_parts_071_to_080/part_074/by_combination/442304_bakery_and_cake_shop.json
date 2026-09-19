@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Celebration's The Cake Shop 2.0",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "442304",
+    "phone_number": "+91 73856 06820",
+    "website": "https://bakers1.odoo.com/",
+    "rating": 4.8,
+    "reviews_count": 10,
+    "address": "Thakre market, Wardha Rd, opp. Lokmat Office, Mahadevpura, Wardha, Maharashtra 442001",
+    "area": "Mahadevpura",
+    "latitude": 20.742936699999998,
+    "longitude": 78.60145829999999,
+    "place_id": "ChIJpdmJ175_1DsR9xwpFvEMiqs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpdmJ175_1DsR9xwpFvEMiqs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:08:50"
+  },
+  {
+    "business_name": "CAKE HOUSE",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "442304",
+    "phone_number": "+91 90963 46767",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 53,
+    "address": "Sheree Ganesh provision, Rashtrabhasha Rd, Sindi Meghe, Sindi Medhe, Maharashtra 442003",
+    "area": "Sindi Meghe",
+    "latitude": 20.737966099999998,
+    "longitude": 78.588742,
+    "place_id": "ChIJPYbp70d_1DsRryTRC3iRC1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPYbp70d_1DsRryTRC3iRC1U",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:08:50"
+  }
+]

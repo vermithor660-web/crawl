@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maheshwari Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "442203",
+    "phone_number": "+91 94221 17400",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Sadoday Pride, Chhaoni Rd, opposite Achraj Towers 1, Koradi Colony, Nagpur, Maharashtra 440013",
+    "area": "Koradi Colony",
+    "latitude": 21.1677,
+    "longitude": 79.07913599999999,
+    "place_id": "ChIJ4elueeLA1DsRfMlXUkuvPXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4elueeLA1DsRfMlXUkuvPXE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:01:38"
+  },
+  {
+    "business_name": "Batukbhai Sons Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Jewelry designer",
+    "pincode": "442203",
+    "phone_number": "+91 91688 36888",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 4937,
+    "address": "W High Ct Rd, Dharampeth, Nagpur, Maharashtra 440010",
+    "area": "Dharampeth",
+    "latitude": 21.1392451,
+    "longitude": 79.0605219,
+    "place_id": "ChIJMzdLHmHA1DsR8dBAdFkJ24o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMzdLHmHA1DsR8dBAdFkJ24o",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:01:39"
+  }
+]

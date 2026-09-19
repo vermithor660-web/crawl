@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rani boutique and cloth center",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique, Beauty Parlour, Clothing store, Sewing shop",
+    "pincode": "442406",
+    "phone_number": "+91 79726 53851",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Padoli, Bazar Ward, Khutala, Maharashtra 442406",
+    "area": "Padoli, Bazar Ward",
+    "latitude": 19.997602399999998,
+    "longitude": 79.2473742,
+    "place_id": "ChIJw7EX1rfX0jsR8UpPRJMOAjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw7EX1rfX0jsR8UpPRJMOAjQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:23:51"
+  },
+  {
+    "business_name": "Ghotekar Cloth Store",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "442406",
+    "phone_number": "+91 91757 20935",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Thhakkar Colony, Ramnagar, Chandrapur, Maharashtra 442402",
+    "area": "Thhakkar Colony, Ramnagar",
+    "latitude": 19.9555999,
+    "longitude": 79.2831393,
+    "place_id": "ChIJ575MdgjX0jsR0_7ULZWxye0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ575MdgjX0jsR0_7ULZWxye0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:23:51"
+  }
+]

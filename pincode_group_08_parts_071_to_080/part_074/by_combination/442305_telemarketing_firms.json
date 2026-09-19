@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Relax deal",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Service establishment",
+    "pincode": "442305",
+    "phone_number": "N/A",
+    "website": "https://www.relaxdeal.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Relax deal, 442305, India",
+    "area": "442305",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJZcST2lUjpwYRW5ku8Jcy6zU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZcST2lUjpwYRW5ku8Jcy6zU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:12:21"
+  },
+  {
+    "business_name": "Anubhav Tiwari (Web Developer)",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Service establishment",
+    "pincode": "442305",
+    "phone_number": "N/A",
+    "website": "http://anubhavtiwari.dev/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Anubhav Tiwari (Web Developer), 442305, India",
+    "area": "442305",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJlRv7NX1BnDkRVlJgAUpKV7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlRv7NX1BnDkRVlJgAUpKV7g",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:12:21"
+  }
+]

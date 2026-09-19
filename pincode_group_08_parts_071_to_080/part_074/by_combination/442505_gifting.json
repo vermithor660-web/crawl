@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rushi General And Gift",
+    "search_category": "Gifting",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "442505",
+    "phone_number": "+91 70576 82335",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Kailash Nagar, Ghugus, Matholi, Maharashtra 445307",
+    "area": "Kailash Nagar",
+    "latitude": 19.890491,
+    "longitude": 79.12832379999999,
+    "place_id": "ChIJcQkEcgrb0jsRKhExjqQIsCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQkEcgrb0jsRKhExjqQIsCk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:33:43"
+  },
+  {
+    "business_name": "Om Full Mandir",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "442505",
+    "phone_number": "+91 89995 84312",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chandni Nagar, Ghugus, Maharashtra 442505",
+    "area": "Chandni Nagar",
+    "latitude": 19.945400799999998,
+    "longitude": 79.1217003,
+    "place_id": "ChIJa_0VOPfZ0jsR-99b6WjzY-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa_0VOPfZ0jsR-99b6WjzY-U",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:33:43"
+  }
+]

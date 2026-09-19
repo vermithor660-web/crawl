@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SK Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "442403",
+    "phone_number": "+91 96570 01799",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gaurala, Bhadravati, Maharashtra 442902",
+    "area": "Gaurala",
+    "latitude": 20.1003298,
+    "longitude": 79.11456749999999,
+    "place_id": "ChIJ4SInzJol0zsRa71FX5_udmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4SInzJol0zsRa71FX5_udmg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:20:04"
+  },
+  {
+    "business_name": "Matka The Pot Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "442403",
+    "phone_number": "+91 92093 12503",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 68,
+    "address": "Gaj Tower, Bapat Nagar, Postman Colony, Wadgaon, Chandrapur, Maharashtra 442401",
+    "area": "Bapat Nagar, Postman Colony, Wadgaon",
+    "latitude": 19.9801118,
+    "longitude": 79.2796894,
+    "place_id": "ChIJQcPM73zX0jsRUVd6quTsyfg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQcPM73zX0jsRUVd6quTsyfg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:20:06"
+  }
+]

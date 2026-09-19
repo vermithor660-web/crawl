@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "service apartment",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "442304",
+    "phone_number": "+91 83296 52793",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "QJ25+VXM, Aurangabad - Nagpur Rd, behind gm motors bank of india, Essaji Layout, Nalwadi, Maharashtra 442001",
+    "area": "Essaji Layout",
+    "latitude": 20.752213599999997,
+    "longitude": 78.6099242,
+    "place_id": "ChIJizQLTEl_1DsRyRSiplyTmM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJizQLTEl_1DsRyRSiplyTmM4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:09:53"
+  },
+  {
+    "business_name": "Shree Krishna Hind Hotel",
+    "search_category": "Hotel",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "442304",
+    "phone_number": "+91 96040 56565",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "1, Fata, Dhotra, Maharashtra 442304",
+    "area": "Fata",
+    "latitude": 20.6110892,
+    "longitude": 78.7123676,
+    "place_id": "ChIJs8yp-Zh50zsRy5Ro7SA8jkI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs8yp-Zh50zsRy5Ro7SA8jkI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:09:53"
+  }
+]

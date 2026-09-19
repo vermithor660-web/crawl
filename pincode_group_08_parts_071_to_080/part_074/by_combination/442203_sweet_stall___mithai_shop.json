@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sweet Corn Center",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "442203",
+    "phone_number": "+91 86053 39873",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mastar Colony, Road, Samta Nagar, Sawangi, Wardha, Maharashtra 442001",
+    "area": "Samta Nagar",
+    "latitude": 20.7256003,
+    "longitude": 78.5833358,
+    "place_id": "ChIJFwYhdeJ_1DsR1xejEiMNYos",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFwYhdeJ_1DsR1xejEiMNYos",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:01:29"
+  },
+  {
+    "business_name": "Bikaner mishthan bhandhar",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "442203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Main Rd, near BOI , ATM, Vikas Nagar, Kondhali, Maharashtra 441103",
+    "area": "Vikas Nagar",
+    "latitude": 21.1369087,
+    "longitude": 78.63930979999999,
+    "place_id": "ChIJCYpt8atf1DsRrLLCcPlq63A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCYpt8atf1DsRrLLCcPlq63A",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:01:30"
+  }
+]

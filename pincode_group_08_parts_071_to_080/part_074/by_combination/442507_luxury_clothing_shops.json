@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neha's Designer Studio",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "442507",
+    "phone_number": "+91 98790 08089",
+    "website": "https://nehadesignerstudio.com/",
+    "rating": 4.5,
+    "reviews_count": 52,
+    "address": "First floor, Shivalik Shilp 2, 107, opp. Itc Narmada, Ahmedabad, Gujarat 380015",
+    "area": "Suryapooja Block B, Satellite",
+    "latitude": 23.0288419,
+    "longitude": 72.5292637,
+    "place_id": "ChIJ9xUzn7mFXjkRLrbc0GAASvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9xUzn7mFXjkRLrbc0GAASvA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:34:46"
+  },
+  {
+    "business_name": "AJX Collection Menswear",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing Accessories Store",
+    "all_categories": "Clothing Accessories Store",
+    "pincode": "442507",
+    "phone_number": "+91 77580 09841",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 10,
+    "address": "Azad chowk, near Jamir Cycle store, Rajura, Maharashtra 442905",
+    "area": "442507",
+    "latitude": 19.781033,
+    "longitude": 79.3621117,
+    "place_id": "ChIJRed_HbvN0jsRMROkgiK71no",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRed_HbvN0jsRMROkgiK71no",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:34:47"
+  }
+]

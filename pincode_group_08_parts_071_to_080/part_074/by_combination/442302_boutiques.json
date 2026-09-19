@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanskruti Clothing Shop",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "442302",
+    "phone_number": "+91 87666 68522",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 11,
+    "address": "Sant tukdoji chowk, Pulgaon, Maharashtra 442302",
+    "area": "442302",
+    "latitude": 20.7237577,
+    "longitude": 78.3216329,
+    "place_id": "ChIJW2jBrD911DsRRQNl7J8v5dM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW2jBrD911DsRRQNl7J8v5dM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:05:24"
+  },
+  {
+    "business_name": "Anokha Fashion & Rental Studio",
+    "search_category": "Boutiques",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer, Nail salon",
+    "pincode": "442302",
+    "phone_number": "+91 74478 78061",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Gandhi Chowk, in front of Jai Bhavani Mobile Shop, Sawant Wada, Pulgaon, Maharashtra 442302",
+    "area": "Sawant Wada",
+    "latitude": 20.724164899999998,
+    "longitude": 78.3197098,
+    "place_id": "ChIJlwJc27111DsRC0kpclI9zeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlwJc27111DsRC0kpclI9zeE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:05:27"
+  }
+]

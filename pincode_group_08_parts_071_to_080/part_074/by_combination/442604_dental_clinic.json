@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "442604",
+    "phone_number": "+91 94217 30855",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Clinic Rd, Highschool, Chandrapur, Vivekanandpur, Maharashtra 442919",
+    "area": "Highschool",
+    "latitude": 19.676164,
+    "longitude": 80.0085955,
+    "place_id": "ChIJgTLNIhkNLToRdvv8b3wIpI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgTLNIhkNLToRdvv8b3wIpI0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:38:23"
+  },
+  {
+    "business_name": "Smile Care Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Dentist",
+    "pincode": "442604",
+    "phone_number": "+91 99601 48934",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no 11, Hill View Towers, Lal Bahadur Shastri Marg, Surya Nagar, Chandan Nagar, Vikhroli West, Mumbai, Maharashtra 400083",
+    "area": "Surya Nagar, Chandan Nagar, Vikhroli West",
+    "latitude": 19.1171215,
+    "longitude": 72.9255706,
+    "place_id": "ChIJv3zbuGbH5zsRl8Ey2k6vAuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv3zbuGbH5zsRl8Ey2k6vAuc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:38:25"
+  }
+]

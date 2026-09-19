@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishwakarma Cafe & Restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "442507",
+    "phone_number": "+91 86688 94973",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Bajaj Vidya Bhawan School, SH-264, Ballarshah Rd, Babupeth, Chandrapur, Maharashtra 442403",
+    "area": "Babupeth",
+    "latitude": 19.9253546,
+    "longitude": 79.3166154,
+    "place_id": "ChIJMd_kjW3U0jsRXAAK5dYHTyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMd_kjW3U0jsRXAAK5dYHTyk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:34:35"
+  },
+  {
+    "business_name": "Satvik Coffee Roaster",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee store",
+    "all_categories": "Coffee store",
+    "pincode": "442507",
+    "phone_number": "+91 83089 18866",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 25,
+    "address": "Gate No-2, Durga Mata Mandir Chowk, Plot No-10 House No-663 Front of Valli Apartment, Vijay Nagar, Nagpur, Maharashtra 440013",
+    "area": "Vijay Nagar, Rajnagar",
+    "latitude": 21.1709304,
+    "longitude": 79.07675359999999,
+    "place_id": "ChIJxYm4iMPB1DsRjD4cEXaBJjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxYm4iMPB1DsRjD4cEXaBJjQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:34:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahipal Dholis",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "442305",
+    "phone_number": "+91 99718 73062",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mahipal Dholis, 442305, India",
+    "area": "442305",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJq6qqlvwCDTkRZNZUWlAD1Zs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqlvwCDTkRZNZUWlAD1Zs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:11:45"
+  },
+  {
+    "business_name": "V2 EVENT",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "442305",
+    "phone_number": "N/A",
+    "website": "http://v2event.in.net/",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "V2 EVENT, 442305, India",
+    "area": "442305",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJXzBpdnJY7TkRxhcLmHOK1Ys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXzBpdnJY7TkRxhcLmHOK1Ys",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:11:46"
+  }
+]

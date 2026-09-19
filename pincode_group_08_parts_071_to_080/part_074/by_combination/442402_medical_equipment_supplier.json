@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandak Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Drug store",
+    "all_categories": "Drug store",
+    "pincode": "442402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "X7VH+2HW, Sarai Ward, Chandrapur, Maharashtra 442401",
+    "area": "Sarai Ward",
+    "latitude": 19.9926031,
+    "longitude": 79.27894069999999,
+    "place_id": "ChIJY7_-qwTX0jsRhV8W_MKQjtA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY7_-qwTX0jsRhV8W_MKQjtA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:18:34"
+  },
+  {
+    "business_name": "Shree radhe medical",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "442402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Panchashil chowk, near by aai chilled water, Ramnagar, Chandrapur, Maharashtra 442402",
+    "area": "Ramnagar",
+    "latitude": 19.9563474,
+    "longitude": 79.2811368,
+    "place_id": "ChIJ_TeOeQDX0jsRKdBaRf38RbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_TeOeQDX0jsRKdBaRf38RbU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:18:36"
+  }
+]

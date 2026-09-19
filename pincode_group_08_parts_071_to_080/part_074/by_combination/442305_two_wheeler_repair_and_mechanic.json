@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AD Honda service centre",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Two Wheeler Repair Shop",
+    "all_categories": "Two Wheeler Repair Shop",
+    "pincode": "442305",
+    "phone_number": "+91 95610 14659",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bus stand, road, beside grampanchayat, Bela, Maharashtra 441108",
+    "area": "442305",
+    "latitude": 20.7770349,
+    "longitude": 79.0176056,
+    "place_id": "ChIJvV5-DnOf1DsRu-lAjIPxgSc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvV5-DnOf1DsRu-lAjIPxgSc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:11:10"
+  },
+  {
+    "business_name": "Bike mechanic",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Motorcycle parts store",
+    "all_categories": "Motorcycle parts store",
+    "pincode": "442305",
+    "phone_number": "+91 96234 24785",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Purti sakar, karkhana road, Bela, Maharashtra 441108",
+    "area": "442305",
+    "latitude": 20.777868299999998,
+    "longitude": 79.0263645,
+    "place_id": "ChIJAxvGmSeh1DsRWiCn-xnNlgU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAxvGmSeh1DsRWiCn-xnNlgU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:11:10"
+  }
+]

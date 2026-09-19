@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NITIN MINI SHOPEE",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "442307",
+    "phone_number": "+91 99701 39020",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ram Nagar Ward, Sindhi Colony, Hinganghat, Maharashtra 442301",
+    "area": "Ram Nagar Ward, Sindhi Colony",
+    "latitude": 20.5468419,
+    "longitude": 78.8431131,
+    "place_id": "ChIJEZlemUJl0zsRQlCzDmKAQA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEZlemUJl0zsRQlCzDmKAQA0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:14:15"
+  },
+  {
+    "business_name": "Shri Kirana & General Stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "442307",
+    "phone_number": "+91 90282 91131",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "HR2V+75G, Nishanpura Ward, Sindhi Colony, Hinganghat, Maharashtra 442301",
+    "area": "Nishanpura Ward, Sindhi Colony",
+    "latitude": 20.55068,
+    "longitude": 78.8429427,
+    "place_id": "ChIJ-zlXLgBl0zsRDjyLQL3hJ24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-zlXLgBl0zsRDjyLQL3hJ24",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:14:15"
+  }
+]

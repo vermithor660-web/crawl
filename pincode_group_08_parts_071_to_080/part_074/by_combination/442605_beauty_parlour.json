@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MANISHA BEAUTY PARLOUR",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "442605",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Govt Ashram School, Anandanagar, Gadchiroli, Maharashtra 442605",
+    "area": "Anandanagar",
+    "latitude": 20.1640062,
+    "longitude": 79.9896855,
+    "place_id": "ChIJ72D1IXT7LDoRHYmiSlMwatE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ72D1IXT7LDoRHYmiSlMwatE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:40:36"
+  },
+  {
+    "business_name": "LAXMI COSMETIC WORLD",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "442605",
+    "phone_number": "+91 82086 83309",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "MASID, SAWARKAR CHOUK, Main Rd, behind CHANDRANATH SWEET MART, Civil Line, Churhe Bada, Brahmapuri, Maharashtra 441206",
+    "area": "Civil Line, Churhe Bada",
+    "latitude": 20.6098549,
+    "longitude": 79.85768279999999,
+    "place_id": "ChIJK_KaWhCbLDoRVH9AGl60BuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK_KaWhCbLDoRVH9AGl60BuU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:40:37"
+  }
+]

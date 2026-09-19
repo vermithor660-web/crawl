@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "janki Krupa Traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "442303",
+    "phone_number": "+91 91586 00061",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 4,
+    "address": "RPM6+R8V, Seloo, Maharashtra 442104",
+    "area": "442303",
+    "latitude": 20.8346022,
+    "longitude": 78.71078949999999,
+    "place_id": "ChIJpytdV7SH1DsRvzkNs9zDw34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpytdV7SH1DsRvzkNs9zDw34",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:07:37"
+  },
+  {
+    "business_name": "Dev Hardware and Traders",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "442303",
+    "phone_number": "+91 90496 68901",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chicholi (CT), Maharashtra 441102",
+    "area": "442303",
+    "latitude": 21.2752022,
+    "longitude": 79.1094371,
+    "place_id": "ChIJHdUUV33D1DsRHoz9Hgz41Dg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHdUUV33D1DsRHoz9Hgz41Dg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:07:39"
+  }
+]

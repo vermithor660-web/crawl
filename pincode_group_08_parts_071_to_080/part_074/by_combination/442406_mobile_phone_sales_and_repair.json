@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meera Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "442406",
+    "phone_number": "+91 98231 97426",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 20,
+    "address": "MH SH 236, Korpana, Maharashtra 442916",
+    "area": "442406",
+    "latitude": 19.745227399999997,
+    "longitude": 78.9875019,
+    "place_id": "ChIJx5HYrrLp0jsRmLVY1k0_yC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx5HYrrLp0jsRmLVY1k0_yC0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:24:56"
+  },
+  {
+    "business_name": "Shree Sai Mobile Shoppe",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store, Mobile phone repair shop",
+    "pincode": "442406",
+    "phone_number": "+91 98229 46619",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Ramnagar Road, Jatpura Gate, A/4/982, Ramnagar Rd, near Ganpati Mandir, Ramnagar, Chandrapur, Maharashtra 442401",
+    "area": "Ramnagar",
+    "latitude": 19.9585489,
+    "longitude": 79.29492929999999,
+    "place_id": "ChIJ9Yyws9TV0jsRMXPn_-ol3b4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Yyws9TV0jsRMXPn_-ol3b4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:24:58"
+  }
+]

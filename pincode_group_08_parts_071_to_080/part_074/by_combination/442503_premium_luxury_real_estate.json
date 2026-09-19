@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Groworth Royal Estate",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "442503",
+    "phone_number": "+91 82082 31922",
+    "website": "http://groworthroyalestate.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1st Floor, Sai Krupa House, Hanuman Nagar, Tukum, Chandrapur, Maharashtra 442401",
+    "area": "Hanuman Nagar, Tukum",
+    "latitude": 19.970697899999998,
+    "longitude": 79.2973002,
+    "place_id": "ChIJP4Qwc9rV0jsRPHXnh-rPcPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP4Qwc9rV0jsRPHXnh-rPcPk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:30:34"
+  },
+  {
+    "business_name": "RAIPUR PREMIUM PROPERTIES - The Best Real Estate Agents , Investors Guide & Consultants in Raipur",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Commercial real estate agency, Property investment company, Property management company, Real estate rental agency",
+    "pincode": "442503",
+    "phone_number": "+91 79877 27008",
+    "website": "https://www.facebook.com/groups/232888504115099/",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "MIG 56, near Durga Ground, Sector 2, Shankar Nagar, Raipur, Chhattisgarh 492004",
+    "area": "Sector 2, Shankar Nagar",
+    "latitude": 21.2573437,
+    "longitude": 81.6599643,
+    "place_id": "ChIJbwT-XibdKDoR9n1yPXSHM3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbwT-XibdKDoR9n1yPXSHM3I",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:30:34"
+  }
+]

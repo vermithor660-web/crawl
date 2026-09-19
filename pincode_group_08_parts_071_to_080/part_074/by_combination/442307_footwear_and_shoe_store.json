@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jigar Boot House",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "442307",
+    "phone_number": "+91 93259 35213",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hingna Road, Hingana Rajiv Nagar, Nagpur, Hinganghat, Maharashtra 442301",
+    "area": "Hingana Rajiv Nagar",
+    "latitude": 20.5517069,
+    "longitude": 78.834554,
+    "place_id": "ChIJI2hNNVJ70zsRWUF7_ZNM3H4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI2hNNVJ70zsRWUF7_ZNM3H4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:14:35"
+  },
+  {
+    "business_name": "Jigar shoe palace",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "442307",
+    "phone_number": "+91 87673 07894",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Central ward, back side of sabji mandi, Dag Borkhedi, Hinganghat, Maharashtra 442301",
+    "area": "Dag Borkhedi",
+    "latitude": 20.5551408,
+    "longitude": 78.8360652,
+    "place_id": "ChIJM3SNQdl70zsRfq5YYSsIEYw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM3SNQdl70zsRfq5YYSsIEYw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:14:35"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE HILLTOP FAMILY RESTAURANT",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Hotel, Lodge",
+    "pincode": "442402",
+    "phone_number": "+91 85300 86974",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "sana petrol pump, Besides, Gadchandur, Maharashtra 442908",
+    "area": "442402",
+    "latitude": 19.736216199999998,
+    "longitude": 79.186824,
+    "place_id": "ChIJA3_vHwDF0jsRwtxnjqLQbV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA3_vHwDF0jsRwtxnjqLQbV0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:18:08"
+  },
+  {
+    "business_name": "Vihaan’s Banquet & Family restro",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "442402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "rajura, Bamanwada, Maharashtra 442905",
+    "area": "442402",
+    "latitude": 19.7868984,
+    "longitude": 79.38663369999999,
+    "place_id": "ChIJ3fe8keIzLToRPxEeL8Ollt0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3fe8keIzLToRPxEeL8Ollt0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:18:08"
+  }
+]

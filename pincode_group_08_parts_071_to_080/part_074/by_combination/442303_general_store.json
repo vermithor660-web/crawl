@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taufik General Stores",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "442303",
+    "phone_number": "+91 97301 82277",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1 Vaidya Pura, Deoli, Maharashtra 442101",
+    "area": "442303",
+    "latitude": 20.647119999999997,
+    "longitude": 78.4812208,
+    "place_id": "ChIJc0QIDiyH0zsRrLNa3WD7tfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc0QIDiyH0zsRrLNa3WD7tfE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:06:55"
+  },
+  {
+    "business_name": "Shri Vijayshri General Store Anb Daily Neebs",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "442303",
+    "phone_number": "+91 96238 64768",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ward no 15, hinganghat fail, Subhash Nagar, Pulgaon, Maharashtra 442302",
+    "area": "Subhash Nagar",
+    "latitude": 20.7222412,
+    "longitude": 78.32429259999999,
+    "place_id": "ChIJ0-drWEF11DsR_8jgtmzRE-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-drWEF11DsR_8jgtmzRE-s",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:06:56"
+  }
+]

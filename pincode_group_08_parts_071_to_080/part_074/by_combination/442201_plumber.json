@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Plumbing",
+    "search_category": "Plumber",
+    "primary_category": "Plumbing supply store",
+    "all_categories": "Plumbing supply store",
+    "pincode": "442201",
+    "phone_number": "+91 82085 29184",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pulgaon Road, near Model High School, Isakpur, Arvi, Maharashtra 442201",
+    "area": "Isakpur",
+    "latitude": 20.9900575,
+    "longitude": 78.22785499999999,
+    "place_id": "ChIJg5EfvR8V1DsRULZXVfkX4qY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg5EfvR8V1DsRULZXVfkX4qY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 05:58:12"
+  },
+  {
+    "business_name": "Harsh Ghagre",
+    "search_category": "Plumber",
+    "primary_category": "Electrical installation service",
+    "all_categories": "Electrical installation service",
+    "pincode": "442201",
+    "phone_number": "+91 77209 39594",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gawandi, Maharashtra 442203",
+    "area": "442201",
+    "latitude": 21.1314794,
+    "longitude": 78.4310062,
+    "place_id": "ChIJU4a2lpxD1DsRzAlYf74FHsk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU4a2lpxD1DsRzAlYf74FHsk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 05:58:15"
+  }
+]

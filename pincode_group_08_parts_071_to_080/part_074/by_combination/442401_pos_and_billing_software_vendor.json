@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Applied Systems",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "442401",
+    "phone_number": "+91 98502 05544",
+    "website": "http://www.yadavsoftware.com/",
+    "rating": 4.6,
+    "reviews_count": 17,
+    "address": "Chhatrapati Nagar, Tukum, Chandrapur, Maharashtra 442401",
+    "area": "Chhatrapati Nagar, Tukum",
+    "latitude": 19.978234999999998,
+    "longitude": 79.308528,
+    "place_id": "ChIJMZY4RM_V0jsRMljdANKBPqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMZY4RM_V0jsRMljdANKBPqo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:17:29"
+  },
+  {
+    "business_name": "Intellosoft Technologies",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "442401",
+    "phone_number": "+91 77678 87861",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 8,
+    "address": "Hakimi Mansion, Kasturba Rd, behind Banglore Bakery, Bazar Ward, Chandrapur, Maharashtra 442402",
+    "area": "Bazar Ward",
+    "latitude": 19.956167999999998,
+    "longitude": 79.29639019999999,
+    "place_id": "ChIJjZoUG3TV0jsRssmfgM_wf-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjZoUG3TV0jsRssmfgM_wf-U",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:17:29"
+  }
+]

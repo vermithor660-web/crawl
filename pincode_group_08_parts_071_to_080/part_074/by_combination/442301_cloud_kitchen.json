@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Spoontype",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Service establishment",
+    "pincode": "442301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Spoontype, 442301, India",
+    "area": "442301",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ7e_TKnAZDTkRvcvv3btXysY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7e_TKnAZDTkRvcvv3btXysY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:03:19"
+  },
+  {
+    "business_name": "Pangat Restaurant",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "442301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 29,
+    "address": "PHQW+QF9, Bachelor Rd, near State Bank Of India, Sangrahaya, Megan, Wardha, Maharashtra 442001",
+    "area": "Sangrahaya, Megan",
+    "latitude": 20.7394005,
+    "longitude": 78.5962344,
+    "place_id": "ChIJTyplOQB_1DsRv3i1haIp7dA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTyplOQB_1DsRv3i1haIp7dA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:03:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Highway Car Rentals",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "442203",
+    "phone_number": "+91 88888 39804",
+    "website": "https://bhaleraolaxmidas.wixsite.com/bookacar",
+    "rating": 4.8,
+    "reviews_count": 28,
+    "address": "Sarode Layout, IUDP Nagpur Rd, near Railway Overbrigde, At Post, Katol, Maharashtra 441302",
+    "area": "At Post",
+    "latitude": 21.264268899999998,
+    "longitude": 78.596722,
+    "place_id": "ChIJLxXGRP5Z1DsR4JyjZriZ6uw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLxXGRP5Z1DsR4JyjZriZ6uw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:02:03"
+  },
+  {
+    "business_name": "TaxiYatri Car Rentals",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Service establishment",
+    "pincode": "442203",
+    "phone_number": "N/A",
+    "website": "http://www.taxiyatri.com/",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "TaxiYatri Car Rentals, 442203, India",
+    "area": "442203",
+    "latitude": 25.892757999999997,
+    "longitude": 74.4692633,
+    "place_id": "ChIJCXyI_0_LbTkRB3hgeRmeWj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCXyI_0_LbTkRB3hgeRmeWj4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:02:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baheti Auto Spares",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "442306",
+    "phone_number": "+91 99608 99980",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Baheti Auto Spares, Shani Mandir, square, Pangari, Yavatmal, Maharashtra 445001",
+    "area": "square, Pangari",
+    "latitude": 20.389456199999998,
+    "longitude": 78.13744249999999,
+    "place_id": "ChIJabQLl8jo0zsRrIMIlqiFkc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJabQLl8jo0zsRrIMIlqiFkc8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:13:04"
+  },
+  {
+    "business_name": "Kakani Spares",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "442306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "94RJ+CV4 Town Hall, Pangari, Yavatmal, Maharashtra 445001",
+    "area": "Pangari",
+    "latitude": 20.391012399999997,
+    "longitude": 78.1322095,
+    "place_id": "ChIJt-0j8WDp0zsRpV8CeNhYR7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt-0j8WDp0zsRpV8CeNhYR7Y",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:13:04"
+  }
+]

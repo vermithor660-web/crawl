@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.N. Enterprises",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "442402",
+    "phone_number": "+91 98225 67330",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 54,
+    "address": "Sunrise electronics and computer, chip level repair laptop & desktop c/o, Ramnagar Rd, Civil Lines, Chandrapur, Maharashtra 442401",
+    "area": "Civil Lines",
+    "latitude": 19.9636408,
+    "longitude": 79.29049119999999,
+    "place_id": "ChIJwUPt_tXV0jsRWkMy1XpAywM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwUPt_tXV0jsRWkMy1XpAywM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:19:21"
+  },
+  {
+    "business_name": "Computers Laptops & CCTV Sales & service",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Camera repair shop, Computer store",
+    "pincode": "442402",
+    "phone_number": "+91 96046 47742",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 9,
+    "address": "Sharda Nagar, Nirman Nagar, Chandrapur, Maharashtra 442401",
+    "area": "Sharda Nagar, Nirman Nagar",
+    "latitude": 19.9731408,
+    "longitude": 79.2992534,
+    "place_id": "ChIJsxER_drV0jsRc3vJG-K28xE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxER_drV0jsRc3vJG-K28xE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:19:21"
+  }
+]

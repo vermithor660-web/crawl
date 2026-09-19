@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pradnya Beauty Parlour",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer",
+    "pincode": "442503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shanti Park, 4/1/A/70, near AWS swimming Pool and Gym, Phase 2, Indra Nagari, Borda, Maharashtra 442914",
+    "area": "Phase 2, Indra Nagari",
+    "latitude": 20.237675199999998,
+    "longitude": 79.0187851,
+    "place_id": "ChIJWZoiNhoX0zsRYJDbWC2kWHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWZoiNhoX0zsRYJDbWC2kWHA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:29:15"
+  },
+  {
+    "business_name": "TAILORING WORKS",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "442503",
+    "phone_number": "+91 99235 60229",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 02, Bus Stand, Road, Civil Line, Churhe Bada, Brahmapuri, Maharashtra 441206",
+    "area": "Civil Line, Churhe Bada",
+    "latitude": 20.612927199999998,
+    "longitude": 79.85761959999999,
+    "place_id": "ChIJk4FWkdabLDoR21HddY-dmNI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk4FWkdabLDoR21HddY-dmNI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:29:18"
+  }
+]

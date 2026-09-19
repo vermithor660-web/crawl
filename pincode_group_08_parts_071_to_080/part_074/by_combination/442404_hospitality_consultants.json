@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anviyaa hospitality",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "442404",
+    "phone_number": "+91 98199 52811",
+    "website": "https://www.anviyaahospitality.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2062,gr, RUSTOMJEE EAZE ZONE MALL, Eaze Zone Mall, Malad, Sunder Nagar, Malad West, Mumbai, Maharashtra 400064",
+    "area": "Malad, Sunder Nagar, Malad West",
+    "latitude": 19.1743553,
+    "longitude": 72.8413538,
+    "place_id": "ChIJDcRouyu35zsRHoFy8Ao5j6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDcRouyu35zsRHoFy8Ao5j6E",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:22:58"
+  },
+  {
+    "business_name": "Hospitality Consulting Solutions",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "442404",
+    "phone_number": "N/A",
+    "website": "https://www.hospitalityconsultingsolutions.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Hospitality Consulting Solutions, 442404, India",
+    "area": "442404",
+    "latitude": 38.9979464,
+    "longitude": -105.55086299999999,
+    "place_id": "ChIJY3w4SrVRkyERAUQaflSa_wA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY3w4SrVRkyERAUQaflSa_wA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:22:59"
+  }
+]

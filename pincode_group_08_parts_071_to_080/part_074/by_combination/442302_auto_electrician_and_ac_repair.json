@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Snehal servicing center and washing",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "442302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Snehal servicing center, near arvi naka, Shivaji Colony, Pulgaon, Maharashtra 442302",
+    "area": "Shivaji Colony",
+    "latitude": 20.7303702,
+    "longitude": 78.3157283,
+    "place_id": "ChIJCdS3rt911DsRxDXM3RWhWq8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCdS3rt911DsRxDXM3RWhWq8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:05:42"
+  },
+  {
+    "business_name": "Tyre Puncture Shop",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "442302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "arvi road, Pulgaon, Sorta, Maharashtra 442302",
+    "area": "442302",
+    "latitude": 20.7690289,
+    "longitude": 78.3383703,
+    "place_id": "ChIJR1QaNgZ11DsRTUZhBluXSpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR1QaNgZ11DsRTUZhBluXSpE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:05:42"
+  }
+]

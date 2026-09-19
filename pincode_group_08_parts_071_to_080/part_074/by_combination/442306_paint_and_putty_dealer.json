@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MP Sons Enterprises",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Paint Manufacturer, Wholesaler",
+    "pincode": "442306",
+    "phone_number": "+91 91686 64646",
+    "website": "http://www.mpsonsenterprises.com/",
+    "rating": 4.9,
+    "reviews_count": 181,
+    "address": "Kalewadi Main Rd, opp. Sonai Mangal Karyalaya, Pawar Nagar-1, Samarth Colony, Thergaon, Pimpri-Chinchwad, Maharashtra 411033",
+    "area": "Pawar Nagar-1, Samarth Colony, Thergaon",
+    "latitude": 18.606425899999998,
+    "longitude": 73.7742351,
+    "place_id": "ChIJS1pPS-C5wjsRRvCLm9xyo-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS1pPS-C5wjsRRvCLm9xyo-M",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:13:14"
+  },
+  {
+    "business_name": "Paint Wholesalers In Pune - Raj Paints & Hardware",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "442306",
+    "phone_number": "+91 85520 79312",
+    "website": "https://rajpaints.com/",
+    "rating": 5,
+    "reviews_count": 95,
+    "address": "Flat No - 2 , Hathi Mehal, next to Jama Masjid, Raviwar Peth, Pune, Maharashtra 411002",
+    "area": "Kapad Ganj, Rameshwar Chouk, Raviwar Peth",
+    "latitude": 18.5139683,
+    "longitude": 73.8593796,
+    "place_id": "ChIJIzdC_bbBwjsRg6u-JaqTC1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIzdC_bbBwjsRg6u-JaqTC1g",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:13:14"
+  }
+]

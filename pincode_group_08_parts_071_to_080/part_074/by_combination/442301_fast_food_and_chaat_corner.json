@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raskunj, Chaat Cafe",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "442301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 20,
+    "address": "seloo, Wardha, Maharashtra 442104",
+    "area": "442301",
+    "latitude": 20.836203599999997,
+    "longitude": 78.7058911,
+    "place_id": "ChIJ-_8Rje2H1DsR5Aham6Mq1DM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-_8Rje2H1DsR5Aham6Mq1DM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:03:20"
+  },
+  {
+    "business_name": "Cluckers",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Chicken restaurant, Hamburger restaurant",
+    "pincode": "442301",
+    "phone_number": "+91 712 660 5566",
+    "website": "https://www.swiggy.com/direct/brand/4842?source=swiggy-direct&subSource=whatsapp",
+    "rating": 4.3,
+    "reviews_count": 1961,
+    "address": "2, S Ambazari Rd, Madhav Nagar, Nagpur, Maharashtra 440010",
+    "area": "Madhav Nagar",
+    "latitude": 21.1222221,
+    "longitude": 79.0566365,
+    "place_id": "ChIJ0Ro4_XjA1DsRSV7S9bPF_lc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0Ro4_XjA1DsRSV7S9bPF_lc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:03:21"
+  }
+]

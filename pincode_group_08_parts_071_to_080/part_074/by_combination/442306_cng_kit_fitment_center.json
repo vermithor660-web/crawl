@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The CNG Store",
+    "search_category": "CNG Kit Fitment Center",
+    "primary_category": "CNG Fitment Center",
+    "all_categories": "CNG Fitment Center, Auto repair shop",
+    "pincode": "442306",
+    "phone_number": "+91 94055 20573",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 33,
+    "address": "Shop No. 1 & 2, Vadhwal Garden, Mumbai - Goa Hwy, near Hotel Reddy's Pureveg, Bypass, Mangaon, Kalamje, Maharashtra 402120",
+    "area": "Bypass",
+    "latitude": 18.2528732,
+    "longitude": 73.2666847,
+    "place_id": "ChIJaykEAlc76DsR1cNonF2hl84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaykEAlc76DsR1cNonF2hl84",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:13:07"
+  },
+  {
+    "business_name": "Viraj auto gas",
+    "search_category": "CNG Kit Fitment Center",
+    "primary_category": "CNG Fitment Center",
+    "all_categories": "CNG Fitment Center",
+    "pincode": "442306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "Buldhana Road, near Mauli Petroleum, Chikhli, Chikhli Rural, Maharashtra 443201",
+    "area": "442306",
+    "latitude": 20.3651193,
+    "longitude": 76.2531863,
+    "place_id": "ChIJT4pNXfEb2jsR3lxZLMkNIr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT4pNXfEb2jsR3lxZLMkNIr8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:13:08"
+  }
+]

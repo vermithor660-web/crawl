@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manohar Chiken center",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "442604",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "R374+J6H, Palaspur, Maharashtra 442604",
+    "area": "442604",
+    "latitude": 19.8140638,
+    "longitude": 80.0556232,
+    "place_id": "ChIJ4cThZQAJLToRW26qX-fly7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4cThZQAJLToRW26qX-fly7M",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:39:22"
+  },
+  {
+    "business_name": "Shri ram lakhan singh (news paper agent)",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Housing society",
+    "all_categories": "Housing society",
+    "pincode": "442604",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "house no 66, 1, Premnagar Rd, Warur, Maharashtra 442604",
+    "area": "442604",
+    "latitude": 19.8086427,
+    "longitude": 80.0215664,
+    "place_id": "ChIJp_IDCQAJLToRAAcUHHmgqB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_IDCQAJLToRAAcUHHmgqB4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:39:24"
+  }
+]

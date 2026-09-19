@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul's footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "442402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gol bazar, Bazar Ward, Chandrapur, Maharashtra 442402",
+    "area": "Bazar Ward",
+    "latitude": 19.9422085,
+    "longitude": 79.2954267,
+    "place_id": "ChIJ5QmyxtnV0jsRqHXtYXvjQaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5QmyxtnV0jsRqHXtYXvjQaI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:18:19"
+  },
+  {
+    "business_name": "SHOES STATION",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "442402",
+    "phone_number": "+91 75593 34876",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sharda Nagar, Nirman Nagar, Chandrapur, Maharashtra 442401",
+    "area": "Sharda Nagar, Nirman Nagar",
+    "latitude": 19.9716129,
+    "longitude": 79.2989138,
+    "place_id": "ChIJmQNyi9rV0jsRb_n45OqvnG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmQNyi9rV0jsRb_n45OqvnG8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:18:20"
+  }
+]

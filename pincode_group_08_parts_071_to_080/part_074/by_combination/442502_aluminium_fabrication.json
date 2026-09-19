@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Aluminium And Fabricator",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Aluminum window",
+    "all_categories": "Aluminum window",
+    "pincode": "442502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "413801, Ayesha Masjid Road, opposite Pokharnar Hospital, Sahakar Chowk, Daund, Maharashtra 413801",
+    "area": "Sahakar Chowk",
+    "latitude": 18.4585384,
+    "longitude": 74.5845671,
+    "place_id": "ChIJ1_mrKakUwzsRZv5cYnrjAbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1_mrKakUwzsRZv5cYnrjAbk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:28:42"
+  },
+  {
+    "business_name": "Agarwal Metals (Office)",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Metal fabricator",
+    "all_categories": "Metal fabricator",
+    "pincode": "442502",
+    "phone_number": "+91 98230 17413",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Pimple Gurav, Pune, Maharashtra 411061",
+    "area": "Shivramnagar, Pimple Gurav",
+    "latitude": 18.583508,
+    "longitude": 73.82375139999999,
+    "place_id": "ChIJMwTSTre4wjsRS4Q9ZkCHu7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMwTSTre4wjsRS4Q9ZkCHu7o",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:28:43"
+  }
+]

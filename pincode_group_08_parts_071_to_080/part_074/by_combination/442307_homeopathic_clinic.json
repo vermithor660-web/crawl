@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rational Homeopathy",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "442307",
+    "phone_number": "+91 76205 20148",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dnyaneshwar ward, Sindhi Colony, Hinganghat, Maharashtra 442301",
+    "area": "Dnyaneshwar ward, Sindhi Colony",
+    "latitude": 20.5453229,
+    "longitude": 78.83683289999999,
+    "place_id": "ChIJ56lsF0Nl0zsR5jYDYQmScGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ56lsF0Nl0zsR5jYDYQmScGw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:14:39"
+  },
+  {
+    "business_name": "Dhanshree Ayurvedic Herbal",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "442307",
+    "phone_number": "+91 80078 18592",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 5, nr. Government Hospital, Sirud, Kangaon, Maharashtra 442101",
+    "area": "442307",
+    "latitude": 20.512275,
+    "longitude": 78.61415749999999,
+    "place_id": "ChIJS1LoVhSd0zsRO5DZ6XaFDmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS1LoVhSd0zsRO5DZ6XaFDmM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:14:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jr brand menswear clothing store",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "442404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X839+P4C, Babupeth, Chandrapur, Maharashtra 442402",
+    "area": "Babupeth",
+    "latitude": 19.954330799999997,
+    "longitude": 79.3177489,
+    "place_id": "ChIJybzvewDV0jsRgU_lCC5hCYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJybzvewDV0jsRgU_lCC5hCYs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:22:01"
+  },
+  {
+    "business_name": "Klub Fox | Jatpura Gate Road | Chandrapur",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store, Jeans shop, T-shirt store, Youth clothing store",
+    "pincode": "442404",
+    "phone_number": "+91 22 4540 1700",
+    "website": "https://www.klubfox.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Jatpura Gate Rd, Chota Bazar Square, Bazar Ward, Chandrapur, Maharashtra 442402",
+    "area": "Chota Bazar Square, Bazar Ward",
+    "latitude": 19.955161,
+    "longitude": 79.29555309999999,
+    "place_id": "ChIJMeP4ufLV0jsR59SDtkdT13U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMeP4ufLV0jsR59SDtkdT13U",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:22:02"
+  }
+]

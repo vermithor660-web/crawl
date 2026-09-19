@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mangesh Paan Shop",
+    "search_category": "Shops",
+    "primary_category": "Tobacco shop",
+    "all_categories": "Tobacco shop",
+    "pincode": "442306",
+    "phone_number": "+91 87889 07913",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 2, Kolona, Ghodegaon, Maharashtra 442306",
+    "area": "442306",
+    "latitude": 20.648547,
+    "longitude": 78.31126739999999,
+    "place_id": "ChIJlSxy2kWL0zsRLsabrp50Kls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlSxy2kWL0zsRLsabrp50Kls",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:14:15"
+  },
+  {
+    "business_name": "YASH PAN SHOP",
+    "search_category": "Shops",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop",
+    "pincode": "442306",
+    "phone_number": "+91 94054 17667",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Vijaygopal, Maharashtra 442306",
+    "area": "442306",
+    "latitude": 20.5732799,
+    "longitude": 78.33254509999999,
+    "place_id": "ChIJk-iqIq-N0zsRcCn16LOJRJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-iqIq-N0zsRcCn16LOJRJw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:14:15"
+  }
+]

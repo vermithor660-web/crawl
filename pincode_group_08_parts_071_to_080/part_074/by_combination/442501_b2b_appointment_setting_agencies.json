@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Global services",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business to business service",
+    "all_categories": "Business to business service, Service establishment",
+    "pincode": "442501",
+    "phone_number": "+91 99494 13771",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Global services, 442501, India",
+    "area": "442501",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJW6EWT0CXyzsR6eU4-SXxBbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW6EWT0CXyzsR6eU4-SXxBbg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:27:06"
+  },
+  {
+    "business_name": "Globalagencyservices",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "442501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Globalagencyservices, 442501, India",
+    "area": "442501",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJu4--dHlPtokRjBIBMHDymnA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu4--dHlPtokRjBIBMHDymnA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:27:06"
+  }
+]

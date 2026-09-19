@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Orange City Properties",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "442303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Income Tax Layout, Plot No 67, Cement Rd, opposite Bank Of India, Gittikhadan Layout, Kotwal Nagar, Pratap Nagar, Nagpur, Maharashtra 440022",
+    "area": "Gittikhadan Layout, Kotwal Nagar, Pratap Nagar",
+    "latitude": 21.1179219,
+    "longitude": 79.0571145,
+    "place_id": "ChIJcwH4DYe_1DsRlbdZbg1qa24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcwH4DYe_1DsRlbdZbg1qa24",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:08:25"
+  },
+  {
+    "business_name": "Kindred Group, Realtors®",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Service establishment",
+    "pincode": "442303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kindred Group, Realtors®, 442303, India",
+    "area": "442303",
+    "latitude": 32.8116988,
+    "longitude": -102.0093809,
+    "place_id": "ChIJO1G2DpDf-4YRicpQLAibr3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO1G2DpDf-4YRicpQLAibr3s",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:08:26"
+  }
+]

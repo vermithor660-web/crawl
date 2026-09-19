@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Protect sale",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Beauty product supplier",
+    "all_categories": "Beauty product supplier",
+    "pincode": "442406",
+    "phone_number": "+91 87669 46249",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Devada, 5, Chandrapur, Maharashtra 442401",
+    "area": "442406",
+    "latitude": 19.941129099999998,
+    "longitude": 79.2506009,
+    "place_id": "ChIJ1xVGuPrX0jsR8BmcxdyLr2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1xVGuPrX0jsR8BmcxdyLr2U",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:24:33"
+  },
+  {
+    "business_name": "Madani attar & perfume",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Perfume store",
+    "all_categories": "Perfume store",
+    "pincode": "442406",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 16,
+    "address": "Raza Chowk, In front of KGN Masjid, Hazrat Zahir, Sister Colony Rd, Chandrapur, Maharashtra 442402",
+    "area": "Ramnagar",
+    "latitude": 19.9514796,
+    "longitude": 79.2863466,
+    "place_id": "ChIJCThWNgDX0jsRM0j2u5e8i38",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCThWNgDX0jsRM0j2u5e8i38",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:24:33"
+  }
+]

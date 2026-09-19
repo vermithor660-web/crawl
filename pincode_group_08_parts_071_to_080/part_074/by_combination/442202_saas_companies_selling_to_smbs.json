@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Geekschip",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Advertising agency, Business development service, Internet marketing service, Marketing consultant",
+    "pincode": "442202",
+    "phone_number": "+91 91000 68885",
+    "website": "https://www.geekschip.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "2nd Floor, C9VW+3W S.S.Arcade, Plot No 97 and 98, Kakatiya Hills, Guttala_Begumpet, Kavuri Hills, Madhapur, Hyderabad, Telangana 500081",
+    "area": "Kakatiya Hills, Guttala_Begumpet, Kavuri Hills, Madhapur",
+    "latitude": 17.442687499999998,
+    "longitude": 78.3973125,
+    "place_id": "ChIJoyMwkUORyzsRTkmn8sJOmFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoyMwkUORyzsRTkmn8sJOmFI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:01:16"
+  },
+  {
+    "business_name": "SBM STARCH",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "442202",
+    "phone_number": "+91 75593 28221",
+    "website": "http://sbmstarch.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "S.No. 32/1A/1/30 to 38 & 54, Pan Card Club Rd, Baner, Pune, Maharashtra 411069",
+    "area": "Baner",
+    "latitude": 18.5586317,
+    "longitude": 73.77765409999999,
+    "place_id": "ChIJjb_T-_u_wjsRAWEA8UxtHPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjb_T-_u_wjsRAWEA8UxtHPc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:01:17"
+  }
+]

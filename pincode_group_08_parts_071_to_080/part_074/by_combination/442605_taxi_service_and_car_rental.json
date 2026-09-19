@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chalpe Car Rental",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency, Motoring club",
+    "pincode": "442605",
+    "phone_number": "+91 87888 80219",
+    "website": "https://www.chalpecarrentalnagpur.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Plot no. 231, opposite chatrapati hall, near peshwe tution classes, Ring Road, Chatrapati Nagar, Nagpur, Maharashtra 440015",
+    "area": "Ring Road, Chatrapati Nagar",
+    "latitude": 21.1111664,
+    "longitude": 79.074112,
+    "place_id": "ChIJMVoHfQq_1DsReRHbLet61To",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMVoHfQq_1DsReRHbLet61To",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:40:20"
+  },
+  {
+    "business_name": "Jai Appaji Travels and Taxi Tours",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport Shuttle Service Provider, Car leasing service, Car rental agency, Chauffeur service, Tour agency, Travel agency",
+    "pincode": "442605",
+    "phone_number": "+91 93268 20036",
+    "website": "https://pcards.org/kailash.asati-17827941",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Verma complex, near bj hospital, Ganesh Nagar, Gondia, Maharashtra 441601",
+    "area": "Ganesh Nagar",
+    "latitude": 21.4518067,
+    "longitude": 80.1969596,
+    "place_id": "ChIJw-qZrySvKzoRVqvhsoYSAFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw-qZrySvKzoRVqvhsoYSAFk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:40:20"
+  }
+]

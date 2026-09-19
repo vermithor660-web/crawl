@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gurumauli Patanjali Store",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "442501",
+    "phone_number": "+91 94059 84666",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sheet No-124/1, Four Square Complex, Reliance Trends, Main Rd, Bhadravati, Maharashtra 442902",
+    "area": "Panchashil Nagar",
+    "latitude": 20.1099522,
+    "longitude": 79.1172035,
+    "place_id": "ChIJwS_8KgAl0zsRWpJPndimHag",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwS_8KgAl0zsRWpJPndimHag",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:25:26"
+  },
+  {
+    "business_name": "Vijay General Store And Mobile Recharge",
+    "search_category": "Provision Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "442501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "444F+C46, Panchashil Nagar, Bhadravati, Maharashtra 442902",
+    "area": "Panchashil Nagar",
+    "latitude": 20.106037099999998,
+    "longitude": 79.1227732,
+    "place_id": "ChIJqeb3ixEk0zsRX64Lpra46I0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqeb3ixEk0zsRX64Lpra46I0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:25:27"
+  }
+]

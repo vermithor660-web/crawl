@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hygien",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Cleaning products supplier",
+    "all_categories": "Cleaning products supplier, Chemical Manufacturer, FMCG Manufacturer",
+    "pincode": "442304",
+    "phone_number": "N/A",
+    "website": "https://www.hygien.in/",
+    "rating": 4.9,
+    "reviews_count": 11,
+    "address": "35, Snehalnagar, Nalwadi, Wardha, Chichala, Maharashtra 442001",
+    "area": "Snehalnagar, Nalwadi",
+    "latitude": 20.7438137,
+    "longitude": 78.62202769999999,
+    "place_id": "ChIJn4lRREV_1DsRoDqhbYRbwTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn4lRREV_1DsRoDqhbYRbwTk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:08:48"
+  },
+  {
+    "business_name": "Rupa agencies",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler, Beauty product supplier",
+    "pincode": "442304",
+    "phone_number": "+91 70830 82533",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhamtipura, Maganwadi, Wardha, Maharashtra 442001",
+    "area": "Bhamtipura, Maganwadi",
+    "latitude": 20.7377288,
+    "longitude": 78.5984725,
+    "place_id": "ChIJS0AS1CB_1DsRjojCswe2dB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS0AS1CB_1DsRjojCswe2dB0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:08:48"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "रामेश्वरम Rameshwaram Cafe South Indian Delight",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "442203",
+    "phone_number": "+91 91195 76488",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Arvi Rd, near Tandoor Hotel, Pipri, Maharashtra 442001",
+    "area": "Pipri",
+    "latitude": 20.761622199999998,
+    "longitude": 78.5998627,
+    "place_id": "ChIJXcEofP1_1DsR8Sq19UBMCLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXcEofP1_1DsR8Sq19UBMCLw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:01:30"
+  },
+  {
+    "business_name": "NIRMALVRINDAVAN RESTAURANT",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Soup kitchen",
+    "all_categories": "Soup kitchen",
+    "pincode": "442203",
+    "phone_number": "N/A",
+    "website": "https://anujsarode1.github.io/haldiram-/menu.html",
+    "rating": 4.4,
+    "reviews_count": 8,
+    "address": "Kondhali, Salai Kh, Maharashtra 441103",
+    "area": "442203",
+    "latitude": 21.1525328,
+    "longitude": 78.6034287,
+    "place_id": "ChIJwxqrFaFf1DsReNwh4OMxTFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwxqrFaFf1DsReNwh4OMxTFo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:01:33"
+  }
+]

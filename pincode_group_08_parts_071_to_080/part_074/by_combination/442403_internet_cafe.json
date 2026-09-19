@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R R Computers",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "442403",
+    "phone_number": "+91 77986 17770",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "X848+GQC, State Highway 1, Babupeth, Chandrapur, Maharashtra 442402",
+    "area": "Babupeth",
+    "latitude": 19.956313299999998,
+    "longitude": 79.3168919,
+    "place_id": "ChIJ1wEwokvU0jsRlzNYhFYgW78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1wEwokvU0jsRlzNYhFYgW78",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:21:12"
+  },
+  {
+    "business_name": "Online Works",
+    "search_category": "Internet Cafe",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Consultant, Information & Referral Services Agency, General store",
+    "pincode": "442403",
+    "phone_number": "+91 90218 96112",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "W8PC+V2P, Ambetkar Chowk, Babupeth, Chandrapur, Maharashtra 442403",
+    "area": "Babupeth",
+    "latitude": 19.9372132,
+    "longitude": 79.32007569999999,
+    "place_id": "ChIJiy55bkLU0jsR2Xgusu5Mp2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiy55bkLU0jsR2Xgusu5Mp2Y",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:21:13"
+  }
+]

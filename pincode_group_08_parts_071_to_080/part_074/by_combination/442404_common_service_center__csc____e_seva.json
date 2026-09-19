@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Common Service Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "442404",
+    "phone_number": "+91 81785 80380",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Block C, Jamrudpur, 103, New, Zamrudpur Village, Greater Kailash, New Delhi, Delhi 110048",
+    "area": "Block C, Zamrudpur Village, Greater Kailash",
+    "latitude": 28.5578586,
+    "longitude": 77.23694569999999,
+    "place_id": "ChIJ___7Z0riDDkRIpELWlbywOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ___7Z0riDDkRIpELWlbywOM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:23:05"
+  },
+  {
+    "business_name": "csc centre",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "442404",
+    "phone_number": "+91 99803 44005",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "XJQ5+4QF, AM Road, Bharati Nagar, Shivaji Nagar, Bengaluru, Karnataka 560001",
+    "area": "Bharati Nagar, Shivaji Nagar",
+    "latitude": 12.987811899999999,
+    "longitude": 77.6094294,
+    "place_id": "ChIJKVht9YoWrjsRmjFuRkT7Rp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKVht9YoWrjsRmjFuRkT7Rp4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:23:06"
+  }
+]

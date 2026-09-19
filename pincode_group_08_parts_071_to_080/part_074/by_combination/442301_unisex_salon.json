@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lavish Lux",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Service establishment",
+    "pincode": "442301",
+    "phone_number": "+91 86991 96649",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Lavish Lux, 442301, India",
+    "area": "442301",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJlxdI35PDGzkRgYV3UczNyjU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlxdI35PDGzkRgYV3UczNyjU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:04:05"
+  },
+  {
+    "business_name": "Parmatma Ek JCB Traders",
+    "search_category": "Unisex Salon",
+    "primary_category": "Equipment rental agency",
+    "all_categories": "Equipment rental agency",
+    "pincode": "442301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "QXR4+HXM, near Vicky Hair Salon, Sonegaon lodhi, Sonegaon, Maharashtra 441108",
+    "area": "Sonegaon lodhi",
+    "latitude": 20.791466099999997,
+    "longitude": 78.9574274,
+    "place_id": "ChIJi19eJwCf1DsRqYZumFWWfiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi19eJwCf1DsRqYZumFWWfiw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:04:06"
+  }
+]

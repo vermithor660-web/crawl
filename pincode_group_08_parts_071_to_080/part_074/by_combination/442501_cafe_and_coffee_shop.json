@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tadoba Bar And Restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "442501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "443G+CX6, Nagpur - Chandrapur Rd, Ramnagar, Bhadravati, Maharashtra 442902",
+    "area": "Ramnagar",
+    "latitude": 20.1035444,
+    "longitude": 79.1273921,
+    "place_id": "ChIJCe_63BQl0zsR13DZPv6_ISA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCe_63BQl0zsR13DZPv6_ISA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:25:37"
+  },
+  {
+    "business_name": "Panchshil Canteen",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "442501",
+    "phone_number": "+91 90114 30188",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Baranj, Chandrapur, Barang Mokasa, Maharashtra 442902",
+    "area": "Baranj",
+    "latitude": 20.1338428,
+    "longitude": 79.1052297,
+    "place_id": "ChIJV_rZf8Mj0zsRpkkpSTyO0lE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV_rZf8Mj0zsRpkkpSTyO0lE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:25:39"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pyramid Fitness",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Fitness Equipment Wholesaler",
+    "all_categories": "Fitness Equipment Wholesaler, Exercise equipment store",
+    "pincode": "442301",
+    "phone_number": "+91 87930 59779",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "11, Wardha Rd, opp. The Hitavada, Lokmat Square, Ramdaspeth, Nagpur, Maharashtra 440012",
+    "area": "Lokmat Square, Ramdaspeth",
+    "latitude": 21.1339187,
+    "longitude": 79.077548,
+    "place_id": "ChIJ8ZlXQpDA1DsRTM5cv6jpG9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ZlXQpDA1DsRTM5cv6jpG9I",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:04:06"
+  },
+  {
+    "business_name": "CORE & PURE",
+    "search_category": "Spa Equipment Suppliers",
+    "primary_category": "Health and beauty shop",
+    "all_categories": "Health and beauty shop, Service establishment",
+    "pincode": "442301",
+    "phone_number": "+91 93158 03102",
+    "website": "https://coreandpure.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CORE & PURE, 442301, India",
+    "area": "442301",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJEX9_NinrDzkRoOYc6-YqMAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEX9_NinrDzkRoOYc6-YqMAQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:04:07"
+  }
+]

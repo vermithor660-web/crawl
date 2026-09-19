@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Balaji Courier And Services",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "442403",
+    "phone_number": "+91 98810 60789",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gol Bazar, Tilak Maidan, W7XW JWF, Gandhi Chowk Rd, Bazar Ward, Chandrapur, Maharashtra 442402",
+    "area": "Bazar Ward",
+    "latitude": 19.9479561,
+    "longitude": 79.29658049999999,
+    "place_id": "ChIJXcz8EY7V0jsR35c-nEW-w9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXcz8EY7V0jsR35c-nEW-w9g",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:21:21"
+  },
+  {
+    "business_name": "DTDC",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "442403",
+    "phone_number": "+91 94217 83107",
+    "website": "http://dtdc.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "near Bus Stop, Ravindra Nagar Vard, Ballarpur, Maharashtra 442701",
+    "area": "Ravindra Nagar Vard",
+    "latitude": 19.854412999999997,
+    "longitude": 79.3471653,
+    "place_id": "ChIJTWpI5u_S0jsRo8uDqxD7VXI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTWpI5u_S0jsRo8uDqxD7VXI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:21:21"
+  }
+]

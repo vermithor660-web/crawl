@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Skyburst Dev Tech Solutions Pvt Ltd",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Motel",
+    "all_categories": "Motel, Computer support and services, E-commerce service, Software company, Web hosting company",
+    "pincode": "442501",
+    "phone_number": "+91 66005 42820",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "behind Malhari Baba Temple, Sumthana, Bhadravati, Maharashtra 442902",
+    "area": "Sumthana",
+    "latitude": 20.1020082,
+    "longitude": 79.1380784,
+    "place_id": "ChIJYT7ybUwl0zsRRSj7ccx2Vfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYT7ybUwl0zsRRSj7ccx2Vfs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:26:53"
+  },
+  {
+    "business_name": "Dashmesh Bioenergies",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "442501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Unnamed Road, Tadali, Maharashtra 442406",
+    "area": "442501",
+    "latitude": 20.0119023,
+    "longitude": 79.1903454,
+    "place_id": "ChIJJ70hX9cn0zsRXOg0I-fDF4Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ70hX9cn0zsRXOg0I-fDF4Y",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:26:53"
+  }
+]

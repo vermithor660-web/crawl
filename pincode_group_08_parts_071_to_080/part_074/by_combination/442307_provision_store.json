@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dolas dhanya bhandar",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "442307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sant chokoba ward, Adarsh Nagar, Shahalangadi, Maharashtra 442301",
+    "area": "Adarsh Nagar",
+    "latitude": 20.552328,
+    "longitude": 78.84653709999999,
+    "place_id": "ChIJ23FCn75l0zsRAhQgyZ0ZVkk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ23FCn75l0zsRAhQgyZ0ZVkk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:14:15"
+  },
+  {
+    "business_name": "Jai Bhole - Kirana and General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "442307",
+    "phone_number": "+91 84219 11270",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sant Tukdoji Ward, Hinganghat-Pimpalgaon Rd, Shahalangadi, Hinganghat, Pimpalgaon, Maharashtra 442301",
+    "area": "Shahalangadi",
+    "latitude": 20.536039,
+    "longitude": 78.8480833,
+    "place_id": "ChIJtbwe4WVv0zsRHLkXXo3mAtc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtbwe4WVv0zsRHLkXXo3mAtc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:14:16"
+  }
+]

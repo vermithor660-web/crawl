@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radhamangal Colors Inn",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Banquet hall, Bar, Food court, Restaurant",
+    "pincode": "442306",
+    "phone_number": "+91 91456 04440",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Cotton Market Square, Near, Dhamangaon Rd, Pangari, Yavatmal, Maharashtra 445001",
+    "area": "Pangari",
+    "latitude": 20.4045006,
+    "longitude": 78.13528339999999,
+    "place_id": "ChIJoUs8mc3v0zsRwWkQkixWhjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoUs8mc3v0zsRwWkQkixWhjY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:13:31"
+  },
+  {
+    "business_name": "Jasraj Palace Yavatmal Hotel, a member of Radisson Individuals",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "442306",
+    "phone_number": "+91 86000 12104",
+    "website": "https://www.radissonhotels.com/en-us/hotels/radisson-individuals-jasraj-palace-yavatmal?cid=a:se+b:gmb+c:apac+i:local+e:ri+d:ind+h:INMHYAVAAA",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Dhamangaon Rd, near ITI College, Pimpalgaon, Yavatmal, Maharashtra 445001",
+    "area": "Pimpalgaon",
+    "latitude": 20.410280999999998,
+    "longitude": 78.1355749,
+    "place_id": "ChIJl4OsOcHv0zsRKjmKUjn-cHQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl4OsOcHv0zsRKjmKUjn-cHQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:13:31"
+  }
+]

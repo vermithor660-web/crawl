@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A Digital Blogger",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "442604",
+    "phone_number": "N/A",
+    "website": "https://aseemjuneja.in/",
+    "rating": 4.7,
+    "reviews_count": 498,
+    "address": "Sebiz Infotech, Sector 67, Sahibzada Ajit Singh Nagar, Punjab 160062",
+    "area": "Sector 67",
+    "latitude": 30.6803475,
+    "longitude": 76.7263203,
+    "place_id": "ChIJLS4V7qvvDzkRvejqDuh6Jpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLS4V7qvvDzkRvejqDuh6Jpo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:39:22"
+  },
+  {
+    "business_name": "DealDepot",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker, Investment company",
+    "pincode": "442604",
+    "phone_number": "+91 22 6917 5200",
+    "website": "http://dealdepot.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "904, Phiroze Jeejeebhoy Towers, Dalal St, Kala Ghoda, Fort, Mumbai, Maharashtra 400001",
+    "area": "Kala Ghoda, Fort",
+    "latitude": 18.9299891,
+    "longitude": 72.83340799999999,
+    "place_id": "ChIJ__9PZ8PR5zsR3s7nTtkAzZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__9PZ8PR5zsR3s7nTtkAzZg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:39:22"
+  }
+]

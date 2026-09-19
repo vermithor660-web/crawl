@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cure And Care",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Hospital equipment and supplies, Medical supply store, Wheelchair rental service, Wheelchair store",
+    "pincode": "442504",
+    "phone_number": "+91 75075 04353",
+    "website": "http://www.cureandcare.co.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "C/26, Fatima Nagar, Wanowrie, Pune, Maharashtra 411013",
+    "area": "Fatima Nagar, Wanowrie",
+    "latitude": 18.5040898,
+    "longitude": 73.9008095,
+    "place_id": "ChIJAQAA0MXBwjsRVHVU0DsFPYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAA0MXBwjsRVHVU0DsFPYU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:31:22"
+  },
+  {
+    "business_name": "Narayan Surgical",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Surgical supply store",
+    "pincode": "442504",
+    "phone_number": "+91 97662 99784",
+    "website": "https://narayansurgical.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ofc No.207, Building No.2, near Tata Housing Road, Sector-1, Boisar, Mumbai, Maharashtra 401501",
+    "area": "Sector-1",
+    "latitude": 19.7830032,
+    "longitude": 72.7809279,
+    "place_id": "ChIJJZcrpTMf5zsRToK1APFKbwA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJZcrpTMf5zsRToK1APFKbwA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:31:22"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zade Telecom Center",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Mobile phone repair shop",
+    "pincode": "442507",
+    "phone_number": "+91 98903 53607",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "W7XV+5P6, Shree Talkies Chowk, near Mid-Town Hotel, Maharashtra 442402",
+    "area": "442507",
+    "latitude": 19.9479123,
+    "longitude": 79.2942805,
+    "place_id": "ChIJd8omlSjU0jsRDMWOIPRddO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd8omlSjU0jsRDMWOIPRddO0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:35:45"
+  },
+  {
+    "business_name": "Sagar Enterprises",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Security system supplier",
+    "all_categories": "Security system supplier, Electronics store",
+    "pincode": "442507",
+    "phone_number": "+91 98906 66308",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X824+54X, Near Old Power House Road, Chandrapur, Maharashtra 442402",
+    "area": "Bazar Ward",
+    "latitude": 19.950495999999998,
+    "longitude": 79.3053462,
+    "place_id": "ChIJh0b5GzHU0jsRPWfW-X-ugG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh0b5GzHU0jsRPWfW-X-ugG0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:35:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Legal Next",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant, Service establishment",
+    "pincode": "442302",
+    "phone_number": "N/A",
+    "website": "http://www.legalnext.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Legal Next, 442302, India",
+    "area": "442302",
+    "latitude": 17.4123487,
+    "longitude": 78.4080456,
+    "place_id": "ChIJm4E1pZX_iCURXLqnxlbp9dE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm4E1pZX_iCURXLqnxlbp9dE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:06:30"
+  },
+  {
+    "business_name": "Legal Filing Service",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Tax preparation service",
+    "all_categories": "Tax preparation service, Service establishment",
+    "pincode": "442302",
+    "phone_number": "+91 94330 51688",
+    "website": "https://legalfilingservice.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Legal Filing Service, 442302, India",
+    "area": "442302",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJvwB3jauBjKARrVu4cXng4T0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvwB3jauBjKARrVu4cXng4T0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:06:32"
+  }
+]

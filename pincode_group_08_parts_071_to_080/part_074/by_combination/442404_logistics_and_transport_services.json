@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SIDDHIVINAYAK LOGISTICS",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "442404",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Padoli, Maharashtra 442406",
+    "area": "442404",
+    "latitude": 19.997340899999998,
+    "longitude": 79.2519232,
+    "place_id": "ChIJ5cgJSSnW0jsRFY7TLvQhakA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5cgJSSnW0jsRFY7TLvQhakA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:22:28"
+  },
+  {
+    "business_name": "Om Logistics",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "442404",
+    "phone_number": "N/A",
+    "website": "https://omlogistics.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Arora Complex Plot no. 121/4/1, House no. 60, Ashirwad Nagar, Toll tax, square, NH 6, Post Girola, Bhandra, Bhandra, Maharashtra 442401",
+    "area": "Sharda Nagar, Nirman Nagar",
+    "latitude": 19.973228,
+    "longitude": 79.298667,
+    "place_id": "ChIJAwAAANvV0jsR0ly3nHgtMlk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAwAAANvV0jsR0ly3nHgtMlk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:22:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajendra Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "442503",
+    "phone_number": "+91 98225 66889",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gandhi Chowk Rd, near City Police Station, Bazar Ward, Chandrapur, Maharashtra 442402",
+    "area": "Bazar Ward",
+    "latitude": 19.946336799999997,
+    "longitude": 79.2972904,
+    "place_id": "ChIJD1VWiyXU0jsRyMokMDR0VhY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD1VWiyXU0jsRyMokMDR0VhY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:29:18"
+  },
+  {
+    "business_name": "Sumit Jewellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "442503",
+    "phone_number": "+91 98225 64550",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Kasturba Rd, Bazar Ward, Chandrapur, Maharashtra 442402",
+    "area": "Bazar Ward",
+    "latitude": 19.947257399999998,
+    "longitude": 79.2982449,
+    "place_id": "ChIJKw00ei_U0jsR2pQyTH3lLNc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKw00ei_U0jsR2pQyTH3lLNc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:29:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cizer's The Unisex Saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hair salon, Hairdresser",
+    "pincode": "442404",
+    "phone_number": "+91 95886 96002",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Second Floor, Mul Rd, beside State Bank Of India, Cement Nagar, Chandrapur, Maharashtra 442401",
+    "area": "Cement Nagar",
+    "latitude": 19.9675755,
+    "longitude": 79.3044243,
+    "place_id": "ChIJ9026_87V0jsRiqiLVU-wpAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9026_87V0jsRiqiLVU-wpAo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:22:41"
+  },
+  {
+    "business_name": "Hair Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "442404",
+    "phone_number": "+91 98500 20990",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No 1, police Station, near Padoli Square, CRC Colony, Padoli, Maharashtra 442406",
+    "area": "CRC Colony",
+    "latitude": 19.999114499999997,
+    "longitude": 79.2477519,
+    "place_id": "ChIJa1bNe8rX0jsRBAr9ULsBA20",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1bNe8rX0jsRBAr9ULsBA20",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:22:44"
+  }
+]

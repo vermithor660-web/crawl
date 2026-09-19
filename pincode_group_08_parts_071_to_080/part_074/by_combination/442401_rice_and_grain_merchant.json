@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRABHAKAR AND COMPANY",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Rice mill",
+    "pincode": "442401",
+    "phone_number": "+91 94231 16108",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "553/2B, PRABHAKAR MUL NAGPUR MAIN ROAD, near OLD BUS STAND, Chandrapur, Talodhi, Maharashtra 441221",
+    "area": "442401",
+    "latitude": 20.440260199999997,
+    "longitude": 79.6642731,
+    "place_id": "ChIJMcrRXLy_LDoRhRqyJpBkMrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMcrRXLy_LDoRhRqyJpBkMrg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:16:10"
+  },
+  {
+    "business_name": "GB RICETECH",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "442401",
+    "phone_number": "+91 83194 06667",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Mansaiya khurd, Sakti, Masniya Kalan, Chhattisgarh 495689",
+    "area": "Mansaiya khurd",
+    "latitude": 22.0697865,
+    "longitude": 82.990848,
+    "place_id": "ChIJa8jZRAALJzoReh9TBgrxBGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8jZRAALJzoReh9TBgrxBGs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:16:11"
+  }
+]

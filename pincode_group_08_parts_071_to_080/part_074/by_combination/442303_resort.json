@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAI RESORT",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "442303",
+    "phone_number": "+91 79725 66718",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 292,
+    "address": "264P+M7G, Dongargaon, Hetameti, Maharashtra 441202",
+    "area": "442303",
+    "latitude": 21.0066787,
+    "longitude": 79.2356966,
+    "place_id": "ChIJR8g7xeWw1DsRVr0uaPyQnKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR8g7xeWw1DsRVr0uaPyQnKY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:07:57"
+  },
+  {
+    "business_name": "Love Inn Nagzira Resorts",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel, Wellness hotel",
+    "pincode": "442303",
+    "phone_number": "+91 72799 97000",
+    "website": "http://www.loveinnresorts.com/",
+    "rating": 4.4,
+    "reviews_count": 789,
+    "address": "Gate, Nagzira, Tiger Reserve, At, Chorkhamara, Kamakazari, Maharashtra 441911",
+    "area": "At",
+    "latitude": 21.2685212,
+    "longitude": 79.95041479999999,
+    "place_id": "ChIJu8y-npgNKzoRnG7eO488n-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu8y-npgNKzoRnG7eO488n-w",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:07:59"
+  }
+]

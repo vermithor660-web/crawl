@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhavesh Mess Service",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider",
+    "pincode": "442301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Prasad colony, Bori, Maharashtra 441108",
+    "area": "442301",
+    "latitude": 20.922426599999998,
+    "longitude": 79.0036612,
+    "place_id": "ChIJbaxocwCZ1DsRNRub656fbyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbaxocwCZ1DsRNRub656fbyk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:03:17"
+  },
+  {
+    "business_name": "Paliwal Mess",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Vegetarian restaurant",
+    "pincode": "442301",
+    "phone_number": "+91 89830 42650",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "43R5+P7F, Near Gokulpeth Post office, Gokulpeth, Nagpur, Maharashtra 440010",
+    "area": "Gokulpeth",
+    "latitude": 21.1418228,
+    "longitude": 79.0581608,
+    "place_id": "ChIJq0GwvorA1DsRxIHcosf__yE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq0GwvorA1DsRxIHcosf__yE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:03:18"
+  }
+]

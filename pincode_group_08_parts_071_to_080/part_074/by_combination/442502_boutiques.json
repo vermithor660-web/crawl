@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonal Boutique",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "442502",
+    "phone_number": "+91 90675 80395",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ACC Cement, Shop No 1 Burad Complex Snehprabha Mangal Karyalay, Road, Ghugus, Maharashtra 442502",
+    "area": "Ghugus Basti",
+    "latitude": 19.9383966,
+    "longitude": 79.1136935,
+    "place_id": "ChIJO3QwXmDZ0jsRHpAmDRpJ2b8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3QwXmDZ0jsRHpAmDRpJ2b8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:27:33"
+  },
+  {
+    "business_name": "stylefest shivani collections",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "442502",
+    "phone_number": "N/A",
+    "website": "https://stylefestz.netlify.app/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "ward no 6, Shalikram Nagar, WCL Colony, Ghugus, Maharashtra 442505",
+    "area": "Shalikram Nagar, WCL Colony",
+    "latitude": 19.9445194,
+    "longitude": 79.1114383,
+    "place_id": "ChIJ6z_4WJvZ0jsR18llAL1D1wQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6z_4WJvZ0jsR18llAL1D1wQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:27:34"
+  }
+]

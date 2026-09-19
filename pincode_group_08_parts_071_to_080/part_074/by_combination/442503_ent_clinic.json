@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Jajoo Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "442503",
+    "phone_number": "+91 7176 282 161",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Snehnagar, Warora, Maharashtra 442907",
+    "area": "Snehnagar",
+    "latitude": 20.237187199999997,
+    "longitude": 79.0044506,
+    "place_id": "ChIJQyqpsjsW0zsRLrxLc9PzgRc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQyqpsjsW0zsRLrxLc9PzgRc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:29:29"
+  },
+  {
+    "business_name": "Dr. Tugnayat ENT and Dental",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "442503",
+    "phone_number": "+91 97306 46533",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Maharashtra Bank Square, Old State Bank road, behind shrikrishna bhavan complex, Wani, Maharashtra 445304",
+    "area": "442503",
+    "latitude": 20.0528744,
+    "longitude": 78.9529414,
+    "place_id": "ChIJARlHvkIf0zsRmudUEU-vkmU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJARlHvkIf0zsRmudUEU-vkmU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:29:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Desi dhaaga",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "442603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gokul Nagar, Gadchiroli, Maharashtra 442605",
+    "area": "Gokul Nagar",
+    "latitude": 20.184870999999998,
+    "longitude": 79.9947956,
+    "place_id": "ChIJsXEfdKP7LDoRE8o2ZWXTCJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsXEfdKP7LDoRE8o2ZWXTCJs",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:36:34"
+  },
+  {
+    "business_name": "Darshana Boutique ( दर्शना बुटीक)",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer",
+    "pincode": "442603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ambedhanora Pombhura, Dist, Maharashtra 442918",
+    "area": "442603",
+    "latitude": 19.8848698,
+    "longitude": 79.57287989999999,
+    "place_id": "ChIJ37Rx7mklLToROwUPSOLL0Qc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ37Rx7mklLToROwUPSOLL0Qc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:36:36"
+  }
+]

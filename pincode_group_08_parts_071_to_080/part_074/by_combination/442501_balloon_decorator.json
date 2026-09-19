@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Petalloons Luxury Event Decor",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Service establishment",
+    "pincode": "442501",
+    "phone_number": "N/A",
+    "website": "http://www.petalloons.com/",
+    "rating": 5,
+    "reviews_count": 59,
+    "address": "Petalloons Luxury Event Decor, 442501, India",
+    "area": "442501",
+    "latitude": 37.7369895,
+    "longitude": -122.1467412,
+    "place_id": "ChIJpzrYZQbzqYkRVMDHHust1wY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpzrYZQbzqYkRVMDHHust1wY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:26:27"
+  },
+  {
+    "business_name": "Mint Sprig Balloons & Decor",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Service establishment, Party planner, Party store",
+    "pincode": "442501",
+    "phone_number": "N/A",
+    "website": "https://mintsprigdecor.com/",
+    "rating": 5,
+    "reviews_count": 44,
+    "address": "Mint Sprig Balloons & Decor, 442501, India",
+    "area": "442501",
+    "latitude": 40.451356,
+    "longitude": -74.3414705,
+    "place_id": "ChIJq_vOs4m1w4kRsegYekBCo1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq_vOs4m1w4kRsegYekBCo1Q",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:26:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAWAJI CHAT CORNER",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "442304",
+    "phone_number": "+91 91684 81781",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "Shop No 01, Police Station, Main Road, near by Ram Nagar, Sindi Meghe, Sindi Medhe, Maharashtra 442001",
+    "area": "Sindi Meghe",
+    "latitude": 20.7421081,
+    "longitude": 78.5935532,
+    "place_id": "ChIJM5iN2o5_1DsRZmPNWbAqscg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5iN2o5_1DsRZmPNWbAqscg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:08:55"
+  },
+  {
+    "business_name": "Chat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "442304",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PJR2+2C2, Kapada Line, Mahadevpura, Wardha, Maharashtra 442001",
+    "area": "Kapada Line, Mahadevpura",
+    "latitude": 20.739967,
+    "longitude": 78.6010989,
+    "place_id": "ChIJe6fUGJp_1DsRIdABTd8fa_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe6fUGJp_1DsRIdABTd8fa_8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:08:55"
+  }
+]

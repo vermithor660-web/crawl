@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radhika Medical",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical supply store",
+    "pincode": "442501",
+    "phone_number": "+91 79727 09210",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Gandhi chowk, Main Rd, Bhadravati, Maharashtra 442902",
+    "area": "Pandav Ward",
+    "latitude": 20.1020435,
+    "longitude": 79.1110872,
+    "place_id": "ChIJmwOutOgl0zsRELMfIAHzebI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwOutOgl0zsRELMfIAHzebI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:25:57"
+  },
+  {
+    "business_name": "Balaji medicos, Bhadravati",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "442501",
+    "phone_number": "+91 82758 50599",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nagar parishad road, Gaurala, Bhadravati, Maharashtra 442902",
+    "area": "Gaurala",
+    "latitude": 20.0984977,
+    "longitude": 79.1115346,
+    "place_id": "ChIJXwLMJjYl0zsRaq_mD8KsJEA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXwLMJjYl0zsRaq_mD8KsJEA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:25:57"
+  }
+]

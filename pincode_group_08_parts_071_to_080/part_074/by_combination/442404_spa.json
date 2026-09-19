@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Koraput Royal spa",
+    "search_category": "Spa",
+    "primary_category": "Spa and health club",
+    "all_categories": "Spa and health club",
+    "pincode": "442404",
+    "phone_number": "+91 63810 14202",
+    "website": "https://koraputroyalspa.in/",
+    "rating": 4.8,
+    "reviews_count": 12,
+    "address": "Adarsh Vidyalaya, square, Machhara-I, Odisha 764021",
+    "area": "442404",
+    "latitude": 18.8203256,
+    "longitude": 82.6809543,
+    "place_id": "ChIJpcX5CgzxOjoRVIlBhTqc5-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpcX5CgzxOjoRVIlBhTqc5-Y",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:22:41"
+  },
+  {
+    "business_name": "Lee Bella Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "442404",
+    "phone_number": "+91 77739 64097",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 111,
+    "address": "beside DHOMNE JWELLERS, Pratap Nagar Square, Khamla, Nagpur, Maharashtra 440022",
+    "area": "Pratap Nagar Square, Khamla",
+    "latitude": 21.1126982,
+    "longitude": 79.0568631,
+    "place_id": "ChIJm5TnVTW_1DsRw-eOOMv_0cc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm5TnVTW_1DsRw-eOOMv_0cc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:22:41"
+  }
+]

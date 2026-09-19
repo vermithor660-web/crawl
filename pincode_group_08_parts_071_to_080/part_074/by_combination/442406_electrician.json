@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dinesh Electrician Services",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "442406",
+    "phone_number": "+91 76209 46376",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1 At Ghonad Post Sakharwahi, near Mahamta Gandhi Statue, Chandrapur, Maharashtra 442406",
+    "area": "442406",
+    "latitude": 20.013918999999998,
+    "longitude": 79.197464,
+    "place_id": "ChIJWTPpNKwn0zsRcC5mbAGeAi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWTPpNKwn0zsRcC5mbAGeAi8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:24:25"
+  },
+  {
+    "business_name": "Pappu ELECTRICALS",
+    "search_category": "Electrician",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "442406",
+    "phone_number": "+91 89999 08811",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Datala Rd, Midc Road, Datala, Maharashtra 442401",
+    "area": "Midc Road",
+    "latitude": 19.9625084,
+    "longitude": 79.2707298,
+    "place_id": "ChIJc50i3CXX0jsRmyipKKiftA8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc50i3CXX0jsRmyipKKiftA8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:24:26"
+  }
+]

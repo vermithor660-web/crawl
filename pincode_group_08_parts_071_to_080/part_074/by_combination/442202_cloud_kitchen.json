@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Randhni (रांधणी) - Cloud Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "442202",
+    "phone_number": "+91 84592 65396",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "back side of bajar samiti, Hanuman Nagar, Yerla, Maharashtra 444905",
+    "area": "Hanuman Nagar",
+    "latitude": 21.3263198,
+    "longitude": 78.0007619,
+    "place_id": "ChIJV3w2SnAp1DsRR3PrTCA7ZIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV3w2SnAp1DsRR3PrTCA7ZIA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 05:59:33"
+  },
+  {
+    "business_name": "BANYAN KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "442202",
+    "phone_number": "+91 96079 99612",
+    "website": "http://banyankitchen.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Balkrishna Sakharam Dhole Patil Rd, Sangamvadi, Pune, Maharashtra 411001",
+    "area": "Sangamvadi",
+    "latitude": 18.5319634,
+    "longitude": 73.8764091,
+    "place_id": "ChIJ2ycwV0DDwjsRECEZeZvw73U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ycwV0DDwjsRECEZeZvw73U",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 05:59:33"
+  }
+]

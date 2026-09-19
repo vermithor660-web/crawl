@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gajanan Auto",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "442605",
+    "phone_number": "+91 94227 28775",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 100, Gadachiroli, Ramnagar, Gadchiroli, Maharashtra 442605",
+    "area": "Gadachiroli, Ramnagar",
+    "latitude": 20.185324599999998,
+    "longitude": 80.01284419999999,
+    "place_id": "ChIJM--0rZj5LDoRT-hRf1v9DHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM--0rZj5LDoRT-hRf1v9DHk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:39:55"
+  },
+  {
+    "business_name": "Pratiksh Saree Center",
+    "search_category": "Saree Showroom",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor, Store",
+    "pincode": "442605",
+    "phone_number": "+91 82650 00208",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kotgal, Maharashtra 442605",
+    "area": "442605",
+    "latitude": 20.1798456,
+    "longitude": 79.9584398,
+    "place_id": "ChIJDffwGhP7LDoR1c2VOQonELg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDffwGhP7LDoR1c2VOQonELg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:39:57"
+  }
+]

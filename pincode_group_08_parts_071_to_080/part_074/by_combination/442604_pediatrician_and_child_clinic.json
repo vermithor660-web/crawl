@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anurag Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "442604",
+    "phone_number": "+91 422 434 1486",
+    "website": "https://www.anurag-hospital.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "52P3+WM3, Rampuri, Gadchiroli, Maharashtra 442605",
+    "area": "Rampuri",
+    "latitude": 20.1872591,
+    "longitude": 80.0041581,
+    "place_id": "ChIJgxrAu9T7LDoR_h0WUC_IYmo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgxrAu9T7LDoR_h0WUC_IYmo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:38:25"
+  },
+  {
+    "business_name": "Dr. Deep Parekh's Mom & Me Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "442604",
+    "phone_number": "+91 98199 75927",
+    "website": "https://sage-cuchufli-26bd0f.netlify.app/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Railway Station, Jawahar Rd, above Kalyan Jewellers, near BMC office, Saibaba Nagar, Pant Nagar, Ghatkopar East, Mumbai, Maharashtra 400077",
+    "area": "Saibaba Nagar, Pant Nagar, Ghatkopar East",
+    "latitude": 19.0837587,
+    "longitude": 72.90615799999999,
+    "place_id": "ChIJST1iQCzG5zsRW9DmaJ1TuDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJST1iQCzG5zsRW9DmaJ1TuDg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:38:26"
+  }
+]

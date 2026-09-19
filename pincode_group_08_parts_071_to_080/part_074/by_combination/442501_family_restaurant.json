@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manbhar Family Restaurant, Bhadrawati",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "442501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "Railway station Road, in front of Aditya bar, Gaurala, Bhadravati, Maharashtra 442902",
+    "area": "Gaurala",
+    "latitude": 20.0932429,
+    "longitude": 79.1120418,
+    "place_id": "ChIJ6dOXQgAl0zsRLevq0cWwAjE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6dOXQgAl0zsRLevq0cWwAjE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:25:37"
+  },
+  {
+    "business_name": "SASKRUTI FAMILY GARDEN RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "442501",
+    "phone_number": "+91 89833 06676",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 3,
+    "address": "CHANDRAUR NAGPUR HIGHWAY, opp. of NEW BUS STAND, Panchashil Nagar, Bhadravati, Maharashtra 442902",
+    "area": "Panchashil Nagar",
+    "latitude": 20.1100599,
+    "longitude": 79.1206146,
+    "place_id": "ChIJee3EpgYl0zsR5yGz60M5fSU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJee3EpgYl0zsR5yGz60M5fSU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:25:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cotton Market,Pulgaon",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "442302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "P8G6+R79, Gandhi Nagar, Pulgaon, Maharashtra 442302",
+    "area": "Gandhi Nagar",
+    "latitude": 20.7270353,
+    "longitude": 78.3107366,
+    "place_id": "ChIJg84ckTx11DsRhF5h4T-ERHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg84ckTx11DsRhF5h4T-ERHw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:06:47"
+  },
+  {
+    "business_name": "Aathwadi Bazar",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "442302",
+    "phone_number": "+91 7153 247 325",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 5,
+    "address": "FPW7+5P8, Kachangaon, Maharashtra 442307",
+    "area": "442302",
+    "latitude": 20.4954026,
+    "longitude": 78.71431319999999,
+    "place_id": "ChIJM4b-zxp30zsR333_H1pfggc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM4b-zxp30zsR333_H1pfggc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:06:49"
+  }
+]

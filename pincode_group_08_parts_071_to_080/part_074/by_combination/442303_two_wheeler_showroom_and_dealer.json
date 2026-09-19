@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Empire Motors",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "442303",
+    "phone_number": "+91 70204 27751",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Umred Rd, opposite SBI Bank, Harpur Nagar, Taj Bagh, Nagpur, Maharashtra 440024",
+    "area": "Harpur Nagar, Taj Bagh",
+    "latitude": 21.1189912,
+    "longitude": 79.1251812,
+    "place_id": "ChIJ51UxT2i51DsR27xvlsHDYNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ51UxT2i51DsR27xvlsHDYNo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:07:29"
+  },
+  {
+    "business_name": "Sounak Auto Centre Baranagar",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "442303",
+    "phone_number": "+91 75950 95591",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "98/F/2A, Deshbandhu Rd, Bonhoogly, EAST, Baranagar, Kolkata, West Bengal 700036",
+    "area": "Bonhoogly, EAST, Baranagar",
+    "latitude": 22.6458938,
+    "longitude": 88.3731352,
+    "place_id": "ChIJlWPR8aid-DkRTezdse4cPx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlWPR8aid-DkRTezdse4cPx8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:07:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Oneness Fashion Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "442401",
+    "phone_number": "+91 98224 71958",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Near, Chandrapur - Mahakali Mandir Rd, behind R G Enterprises ( Paint Shop, Gautam Nagar, Mahakali Ward, Chandrapur, Maharashtra 442403",
+    "area": "Gautam Nagar, Mahakali Ward",
+    "latitude": 19.9437423,
+    "longitude": 79.30411959999999,
+    "place_id": "ChIJU-xq6PzV0jsRs_VehMQmuwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU-xq6PzV0jsRs_VehMQmuwE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:16:31"
+  },
+  {
+    "business_name": "kaash",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "442401",
+    "phone_number": "+91 70588 77844",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Kasturba Rd, beside SBI Bank Main Branch, Bazar Ward, Chandrapur, Maharashtra 442402",
+    "area": "Bazar Ward",
+    "latitude": 19.9497124,
+    "longitude": 79.297597,
+    "place_id": "ChIJQ__IfwDV0jsRYHGVelfB4y0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ__IfwDV0jsRYHGVelfB4y0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:16:32"
+  }
+]

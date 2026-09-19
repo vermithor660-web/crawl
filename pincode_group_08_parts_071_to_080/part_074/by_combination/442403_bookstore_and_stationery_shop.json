@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lohani Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "442403",
+    "phone_number": "+91 96733 11683",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Ward No.2, Tashil Rd, Ghugus Basti, Ghugus, Maharashtra 442505",
+    "area": "Ghugus Basti",
+    "latitude": 19.9398238,
+    "longitude": 79.1117557,
+    "place_id": "ChIJdZx8myzZ0jsR1yAMylzxMUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZx8myzZ0jsR1yAMylzxMUE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:21:10"
+  },
+  {
+    "business_name": "Trinity Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Stationery store",
+    "pincode": "442403",
+    "phone_number": "+91 712 252 5212",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "behind St. Joseph's Convent School, Mohan Nagar, Nagpur, Maharashtra 440001",
+    "area": "Mohan Nagar",
+    "latitude": 21.1564439,
+    "longitude": 79.08485139999999,
+    "place_id": "ChIJGX__eOjA1DsRHnfI_yigMqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGX__eOjA1DsRHnfI_yigMqA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:21:10"
+  }
+]

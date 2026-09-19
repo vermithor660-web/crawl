@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vineeth Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer, Chemical plant",
+    "pincode": "442404",
+    "phone_number": "+91 81490 95778",
+    "website": "http://www.vineethchemicals.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Unit No. 9 &10, Agarwals Industrial Estate, Sativali Rd, Vasai East, Vasai-Virar, Maharashtra 401208",
+    "area": "Dewan And Shah Udyog Nagar, Golani Naka, Vasai East",
+    "latitude": 19.4094886,
+    "longitude": 72.85829799999999,
+    "place_id": "ChIJ_____y-v5zsR5rwQz33uSFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____y-v5zsR5rwQz33uSFk",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:23:21"
+  },
+  {
+    "business_name": "Jain Acid & Chemicals",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "442404",
+    "phone_number": "+91 95033 20326",
+    "website": "https://jainacid.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Gandhibag, 19/A, Central Ave, Gandhibagh, Nagpur, Maharashtra 440032",
+    "area": "Chitnis Park, Gandhibagh",
+    "latitude": 21.1499816,
+    "longitude": 79.10599309999999,
+    "place_id": "ChIJj6XbbzbH1DsRKQijdPCp-YE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj6XbbzbH1DsRKQijdPCp-YE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:23:22"
+  }
+]

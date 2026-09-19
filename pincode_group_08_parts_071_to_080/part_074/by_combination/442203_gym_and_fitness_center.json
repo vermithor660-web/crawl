@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "R.B. Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "442203",
+    "phone_number": "+91 80879 00305",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "fitness centre, R.B, Kondhali - Katol Rd, near bus stand, Kondhali, Maharashtra 441103",
+    "area": "442203",
+    "latitude": 21.1422815,
+    "longitude": 78.636389,
+    "place_id": "ChIJcZdG3PZf1DsRAcTXEpbI3zM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcZdG3PZf1DsRAcTXEpbI3zM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:01:54"
+  },
+  {
+    "business_name": "Gt fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "442203",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gt fitness club, near by SBI Road, Karanja (Ghadge), Maharashtra 442203",
+    "area": "442203",
+    "latitude": 21.1619116,
+    "longitude": 78.4091904,
+    "place_id": "ChIJV3wi3D1D1DsRl7J1GT6fDWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV3wi3D1D1DsRl7J1GT6fDWQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:01:56"
+  }
+]

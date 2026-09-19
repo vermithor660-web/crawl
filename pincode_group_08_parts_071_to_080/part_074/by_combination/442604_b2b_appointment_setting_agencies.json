@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AM Overseas",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Recruiter",
+    "pincode": "442604",
+    "phone_number": "+91 22 4545 2525",
+    "website": "http://www.amoverseas.net/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "102, 115, 116, Raikar Chambers, A-101, Govandi Station Rd, East, Chembur, Mumbai, Maharashtra 400088",
+    "area": "East, Chembur",
+    "latitude": 19.0527984,
+    "longitude": 72.9153997,
+    "place_id": "ChIJc8AMLw7G5zsRs3RoTDiCeX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc8AMLw7G5zsRs3RoTDiCeX4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:39:37"
+  },
+  {
+    "business_name": "Global Placements",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter",
+    "pincode": "442604",
+    "phone_number": "+91 91212 20666",
+    "website": "http://www.globalplacements.ind.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Adhitya Hill crescent, Plot no 88, First floor, Nandagiri Hills, Jubilee Hills, Hyderabad, Telangana 500033",
+    "area": "Nandagiri Hills, Jubilee Hills",
+    "latitude": 17.422700799999998,
+    "longitude": 78.40897819999999,
+    "place_id": "ChIJvwWaYkyXyzsR6FfjUh13vpw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvwWaYkyXyzsR6FfjUh13vpw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:39:37"
+  }
+]

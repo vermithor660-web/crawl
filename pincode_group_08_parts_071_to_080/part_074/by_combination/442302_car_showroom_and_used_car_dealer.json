@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Computer",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "442302",
+    "phone_number": "+91 87932 49038",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 3, Sawant Wada, Pulgaon, Maharashtra 442302",
+    "area": "Sawant Wada",
+    "latitude": 20.7239631,
+    "longitude": 78.3195576,
+    "place_id": "ChIJy-GoRg111DsRxlUl46nb8j8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy-GoRg111DsRxlUl46nb8j8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:05:37"
+  },
+  {
+    "business_name": "Aryodaya Honda",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer, Auto Dent Removal Service Station, Auto repair shop, Auto Accessories Store, Honda dealer",
+    "pincode": "442302",
+    "phone_number": "+91 86575 88430",
+    "website": "https://dealer.hondacarindia.com/aryodaya-honda-aryodaya-nexmove-pvt-ltd-car-dealer-kachimet-nagpur-67105/Home",
+    "rating": 4.1,
+    "reviews_count": 1519,
+    "address": "Central Road, C 102, MIDC Rd, Hingna, Wadi, Maharashtra 440016",
+    "area": "Hingna",
+    "latitude": 21.147362599999997,
+    "longitude": 79.0034848,
+    "place_id": "ChIJ03EwdijA1DsRbZGKfVAhgjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ03EwdijA1DsRbZGKfVAhgjQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:05:39"
+  }
+]

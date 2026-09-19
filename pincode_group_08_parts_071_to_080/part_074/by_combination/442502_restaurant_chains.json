@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishnum Food Plaza",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant, Catering food and drink supplier, Caterer, Fast food restaurant, Lunch restaurant, Meal delivery, Railway services, South Indian restaurant, Vegetarian restaurant",
+    "pincode": "442502",
+    "phone_number": "+91 712 255 6213",
+    "website": "https://krishnum.in/",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Krishnum Food Plaza, Mount Rd, opp. Saraf Chambers, near Fidvi Tower, Sadar, Nagpur, Maharashtra 440001",
+    "area": "Sadar",
+    "latitude": 21.1596637,
+    "longitude": 79.0777995,
+    "place_id": "ChIJc43T5OTA1DsRfYXkh5X_8k8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc43T5OTA1DsRfYXkh5X_8k8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:27:24"
+  },
+  {
+    "business_name": "Variety Foods",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Maharashtrian Restaurant",
+    "all_categories": "Maharashtrian Restaurant",
+    "pincode": "442502",
+    "phone_number": "+91 91455 38691",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1557,
+    "address": "37, Devashish Apartment, 37, RPTS Rd, West High Court Road, Opp. IndianOil, Surendra Nagar, Vivekanand Nagar, Nagpur, Maharashtra 440015",
+    "area": "Surendra Nagar, Vivekanand Nagar",
+    "latitude": 21.1172018,
+    "longitude": 79.0649911,
+    "place_id": "ChIJM04yen-_1DsR4psmxnUoSK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM04yen-_1DsR4psmxnUoSK0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:27:25"
+  }
+]

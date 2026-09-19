@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Floral Story",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "442404",
+    "phone_number": "+91 82400 46216",
+    "website": "http://www.instagram.com/,%7Bthefloralstory_%7D",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Cj 30, Salt Lake Bypass, opposite 9 no tank, CJ Block, Sector 2, Bidhannagar, Kolkata, West Bengal 700091",
+    "area": "CJ Block, Sector 2, Bidhannagar",
+    "latitude": 22.5870437,
+    "longitude": 88.4246244,
+    "place_id": "ChIJX1QzBNV1AjoR8yYKHdQdTJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX1QzBNV1AjoR8yYKHdQdTJU",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:22:48"
+  },
+  {
+    "business_name": "Baisakhi's",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer, Boutique",
+    "pincode": "442404",
+    "phone_number": "+91 96740 59605",
+    "website": "https://baisakhiflowers.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "414, Gariahat Rd, Jodhpur Park, Kolkata, West Bengal 700068",
+    "area": "Jodhpur Park",
+    "latitude": 22.506339099999998,
+    "longitude": 88.3666897,
+    "place_id": "ChIJz1JHxChxAjoRz6uwb3mixu4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz1JHxChxAjoRz6uwb3mixu4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:22:48"
+  }
+]

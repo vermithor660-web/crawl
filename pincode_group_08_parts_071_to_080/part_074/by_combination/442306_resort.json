@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sterling Tipeshwar",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Holiday home, Hotel, Restaurant, Spa",
+    "pincode": "442306",
+    "phone_number": "+91 79 6979 2057",
+    "website": "https://www.sterlingholidays.com/resorts-hotels/tipeshwar",
+    "rating": 4.7,
+    "reviews_count": 242,
+    "address": "NH 44, Srinagar – Kanyakumari National Highway, Pathanbhori Road, Sunna, Maharashtra 445305",
+    "area": "442306",
+    "latitude": 19.9122253,
+    "longitude": 78.5361449,
+    "place_id": "ChIJ6RdQeD5T0jsRmSczE5TEGG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6RdQeD5T0jsRmSczE5TEGG4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:13:31"
+  },
+  {
+    "business_name": "POP 81677J Sbs Resort",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "442306",
+    "phone_number": "+91 124 620 1126",
+    "website": "https://www.oyorooms.com/218031/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward no 9, Arvi Naka, 22, Arvi road, Pulgaon, Maharashtra 442302",
+    "area": "442306",
+    "latitude": 20.7237577,
+    "longitude": 78.3216329,
+    "place_id": "ChIJr5GLeih11DsRvmmucGzq1bY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr5GLeih11DsRvmmucGzq1bY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:13:33"
+  }
+]

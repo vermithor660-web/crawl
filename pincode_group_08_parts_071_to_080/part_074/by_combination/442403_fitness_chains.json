@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AB Bold Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Doctor",
+    "pincode": "442403",
+    "phone_number": "+91 92269 77267",
+    "website": "https://ab-bold-gym.grexa.site/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Gautam Nagar, Bazar Ward, Chandrapur, Maharashtra 442402",
+    "area": "Gautam Nagar, Bazar Ward",
+    "latitude": 19.9448439,
+    "longitude": 79.30364209999999,
+    "place_id": "ChIJyyK5-jrU0jsR1rUW1aTG-e8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyyK5-jrU0jsR1rUW1aTG-e8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:20:26"
+  },
+  {
+    "business_name": "M-Square Nutrition",
+    "search_category": "Fitness Chains",
+    "primary_category": "Sports nutrition store",
+    "all_categories": "Sports nutrition store, Vitamin & supplements store",
+    "pincode": "442403",
+    "phone_number": "+91 99231 87003",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Tadoba Road, Chandrapur, Maharashtra 442401",
+    "area": "Shivaji Nagar, D.G.Tukum, Jairaj Nagar, Tukum",
+    "latitude": 19.972320699999997,
+    "longitude": 79.29939809999999,
+    "place_id": "ChIJXzvT79rV0jsRQ9gomBXWp1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXzvT79rV0jsRQ9gomBXWp1c",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:20:28"
+  }
+]

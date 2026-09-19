@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PAEDUTECH",
+    "search_category": "Educational Consultant",
+    "primary_category": "Counselor",
+    "all_categories": "Counselor",
+    "pincode": "442605",
+    "phone_number": "+91 78238 99285",
+    "website": "http://paedutech.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pramod Enterprises, Dhanora Rd, behind Shivaji Mahavidyalay, Ramnagar, Gadchiroli, Maharashtra 442605",
+    "area": "Ramnagar",
+    "latitude": 20.1830356,
+    "longitude": 80.0113782,
+    "place_id": "ChIJK3AHOXT5LDoR5Re1cMkYuaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK3AHOXT5LDoR5Re1cMkYuaw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:40:56"
+  },
+  {
+    "business_name": "MITCON Consultant And Engineering Services Ltd Gadchiroli",
+    "search_category": "Educational Consultant",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "442605",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "5XCH+62H, Police Quarters, Gadchiroli, Maharashtra 442605",
+    "area": "Police Quarters",
+    "latitude": 20.1705023,
+    "longitude": 79.97764169999999,
+    "place_id": "ChIJHa0bCQD7LDoRZJULNV72ZeA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHa0bCQD7LDoRZJULNV72ZeA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:40:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manidhari Industries",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Paving materials supplier",
+    "all_categories": "Paving materials supplier",
+    "pincode": "442505",
+    "phone_number": "+91 94221 35622",
+    "website": "http://manidhariindustries.co.in/",
+    "rating": 3.8,
+    "reviews_count": 9,
+    "address": "PLOT NO. C-2, MIDC, MH MSH 6, Chichala, Maharashtra 442406",
+    "area": "442505",
+    "latitude": 19.9800869,
+    "longitude": 79.23330829999999,
+    "place_id": "ChIJh1p7xMfX0jsRK5PUCeQixxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh1p7xMfX0jsRK5PUCeQixxA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:33:20"
+  },
+  {
+    "business_name": "Chandrapur HP",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Service establishment",
+    "pincode": "442505",
+    "phone_number": "+91 96896 95328",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chandrapur HP, 442505, India",
+    "area": "442505",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJybH4LlsP2TsRM1yIC5DyJjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJybH4LlsP2TsRM1yIC5DyJjw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:33:22"
+  }
+]

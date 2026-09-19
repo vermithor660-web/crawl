@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saurashtra Chawana & Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Indian sweets shop",
+    "all_categories": "Indian sweets shop, Sweets and dessert buffet",
+    "pincode": "442507",
+    "phone_number": "+91 98250 56202",
+    "website": "https://tejasshethfafdajalebi.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Akshardhara Complex, G-13/14, opp. Sachin Tower, near 100 Feet Anand Nagar Road, Satellite, Shyamal, Ahmedabad, Gujarat 380015",
+    "area": "Satellite, Shyamal",
+    "latitude": 23.013422499999997,
+    "longitude": 72.52433409999999,
+    "place_id": "ChIJuz7XsdWEXjkRN9ESC14PZ-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuz7XsdWEXjkRN9ESC14PZ-w",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:34:28"
+  },
+  {
+    "business_name": "Gauttam Sweets",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop, Dessert shop, Indian sweets shop, Snack bar, Store, Wholesaler",
+    "pincode": "442507",
+    "phone_number": "+91 94271 51809",
+    "website": "https://gauttamsweets.in/",
+    "rating": 4.4,
+    "reviews_count": 324,
+    "address": "Gauttam sweets, 3, Station Rd, New Dhoraji, Dhoraji, Gujarat 360410",
+    "area": "New Dhoraji",
+    "latitude": 21.729688799999998,
+    "longitude": 70.4472741,
+    "place_id": "ChIJKwQ8F8QfWDkRzsi1je87kew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKwQ8F8QfWDkRzsi1je87kew",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:34:29"
+  }
+]

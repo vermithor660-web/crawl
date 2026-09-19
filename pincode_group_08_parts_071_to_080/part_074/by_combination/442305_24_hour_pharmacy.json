@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Avantika Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "442305",
+    "phone_number": "+91 94200 62385",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "72bustop Square, Hinghanghat Umred Road, Girad, Maharashtra 442305",
+    "area": "442305",
+    "latitude": 20.6567124,
+    "longitude": 79.1116285,
+    "place_id": "ChIJ7crdmlNZ0zsR_kRxBcsxn5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7crdmlNZ0zsR_kRxBcsxn5M",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:11:00"
+  },
+  {
+    "business_name": "Shree Siddhivinayak Medical Store",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "442305",
+    "phone_number": "+91 76203 37107",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F66C X47, near Bus Stop, Bothali, Maharashtra 442906",
+    "area": "442305",
+    "latitude": 20.4622012,
+    "longitude": 79.2197587,
+    "place_id": "ChIJdwV0beVJ0zsRnVRXumZznxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdwV0beVJ0zsRnVRXumZznxc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:11:00"
+  }
+]

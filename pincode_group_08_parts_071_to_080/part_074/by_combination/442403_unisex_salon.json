@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Hair Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hairdresser",
+    "pincode": "442403",
+    "phone_number": "+91 99702 44950",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 568,
+    "address": "Datta Madir Road, Balaji Ward, Maharana Pratap Nagar Ward, Ballarpur, Maharashtra 442701",
+    "area": "Balaji Ward, Maharana Pratap Nagar Ward",
+    "latitude": 19.8577647,
+    "longitude": 79.3484296,
+    "place_id": "ChIJ8ZzREOXS0jsRm8d1e4g7pwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ZzREOXS0jsRm8d1e4g7pwM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:20:50"
+  },
+  {
+    "business_name": "CHOUDHARY BEAUTY PALACE",
+    "search_category": "Unisex Salon",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler",
+    "pincode": "442403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "TILAK MAIDAN BAZAR WARD, in front of AAPULKI PAINTS, Chandrapur, Maharashtra 442401",
+    "area": "Sharda Nagar, Nirman Nagar",
+    "latitude": 19.973227899999998,
+    "longitude": 79.29866679999999,
+    "place_id": "ChIJR3t5pfDV0jsRhxbsYrFtfio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR3t5pfDV0jsRhxbsYrFtfio",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:20:51"
+  }
+]

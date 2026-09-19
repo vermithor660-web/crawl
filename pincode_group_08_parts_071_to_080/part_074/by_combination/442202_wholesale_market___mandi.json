@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mauli Fruits Suppliers",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Fruit wholesaler",
+    "all_categories": "Fruit wholesaler",
+    "pincode": "442202",
+    "phone_number": "+91 96374 76488",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No. 1689, NH 6, Karanja (Ghadge), Maharashtra 442203",
+    "area": "442202",
+    "latitude": 21.1597801,
+    "longitude": 78.4093935,
+    "place_id": "ChIJy3hMc41D1DsRkoBU3oEKX9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy3hMc41D1DsRkoBU3oEKX9w",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:01:19"
+  },
+  {
+    "business_name": "Krishna marketing",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler",
+    "pincode": "442202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Anaj line, ambika chowk, Maharashtra 442001",
+    "area": "Mahadevpura",
+    "latitude": 20.738722499999998,
+    "longitude": 78.6014946,
+    "place_id": "ChIJhdSpB5V_1DsRvMmgUqY9dI4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhdSpB5V_1DsRvMmgUqY9dI4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:01:19"
+  }
+]

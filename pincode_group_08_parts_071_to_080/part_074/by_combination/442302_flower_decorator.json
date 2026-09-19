@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shantanu Flower Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "442302",
+    "phone_number": "+91 73850 94901",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "519,chitnis nagar, near chitnis garden, Nagpur, Maharashtra 440024",
+    "area": "Chitnis Nagar",
+    "latitude": 21.1185644,
+    "longitude": 79.12942559999999,
+    "place_id": "ChIJe9jGSYm51DsRgbFDyJ4N9VY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe9jGSYm51DsRgbFDyJ4N9VY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:06:02"
+  },
+  {
+    "business_name": "Ms flower decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer, Wedding service",
+    "pincode": "442302",
+    "phone_number": "N/A",
+    "website": "https://ms-flower-decorations1.vercel.app/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "North South Road Number 5 Juhu, JVPD Scheme, Vile Parle West, Mumbai, Maharashtra 400056",
+    "area": "JVPD Scheme, Vile Parle West",
+    "latitude": 19.107139,
+    "longitude": 72.833788,
+    "place_id": "ChIJyTrRf7jJ5zsR3P6BzxUgJcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyTrRf7jJ5zsR3P6BzxUgJcE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:06:04"
+  }
+]

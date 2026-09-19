@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Ambika Hotel",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "442503",
+    "phone_number": "+91 99759 54797",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus Stop, Shop No 12 In Front, Lalguda, Maharashtra 445304",
+    "area": "442503",
+    "latitude": 20.0554935,
+    "longitude": 78.9565894,
+    "place_id": "ChIJD8dxccIf0zsR1tZEo2Fl_bQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD8dxccIf0zsR1tZEo2Fl_bQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:30:10"
+  },
+  {
+    "business_name": "Praveen Consultancy",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Accountant",
+    "pincode": "442503",
+    "phone_number": "+91 98221 68776",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Q4CQ+X53, near GADCHANDUR, near DAWAS COMPLEX, Shivaji Nagar, Nanda Fata, Maharashtra 442917",
+    "area": "Shivaji Nagar",
+    "latitude": 19.7723759,
+    "longitude": 79.1379247,
+    "place_id": "ChIJMbGsZtfF0jsRRq3taldsEqE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMbGsZtfF0jsRRq3taldsEqE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:30:12"
+  }
+]

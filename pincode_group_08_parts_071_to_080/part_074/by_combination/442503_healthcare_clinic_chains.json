@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VCare Clinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "442503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "X896+H5X, Mul Rd, Sarkar Nagar, Tukum, Chamorshi, Chandrapur, Maharashtra 442401",
+    "area": "Sarkar Nagar, Tukum",
+    "latitude": 19.9689871,
+    "longitude": 79.3104985,
+    "place_id": "ChIJSxgopcDV0jsRKDoROV-pZyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSxgopcDV0jsRKDoROV-pZyQ",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:29:34"
+  },
+  {
+    "business_name": "NAVCHAITANYA HEALTH CARE",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "442503",
+    "phone_number": "+91 82750 94082",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X8F8+F27, Bagali Camp Nehru nagar,Wcl Raod, near Hanuman Mandir, Chandrapur, Maharashtra 442401",
+    "area": "Shastri Nagar, Tukum",
+    "latitude": 19.9736699,
+    "longitude": 79.3150419,
+    "place_id": "ChIJx8G06H3V0jsRAzWgecyIer4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx8G06H3V0jsRAzWgecyIer4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:29:34"
+  }
+]

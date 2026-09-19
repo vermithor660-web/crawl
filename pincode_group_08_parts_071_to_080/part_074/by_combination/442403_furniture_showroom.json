@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.K Furniture Mart",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "442403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "X839+3GP, near Ashtbhuja Temple, Ashtabhuja Ward, Babupeth, Chandrapur, Maharashtra 442403",
+    "area": "Ashtabhuja Ward, Babupeth",
+    "latitude": 19.952719899999998,
+    "longitude": 79.3188373,
+    "place_id": "ChIJ-dahEKLV0jsR0qX_alxd4zM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-dahEKLV0jsR0qX_alxd4zM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:20:48"
+  },
+  {
+    "business_name": "Quality 1 Furniture Mart Chandrapur",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture maker",
+    "all_categories": "Furniture maker",
+    "pincode": "442403",
+    "phone_number": "+91 95117 60364",
+    "website": "https://quality1furnituremart.justdial.com/",
+    "rating": 4.9,
+    "reviews_count": 64,
+    "address": "near KGN convent, Babupeth, Chandrapur, Maharashtra 442403",
+    "area": "Babupeth",
+    "latitude": 19.9314566,
+    "longitude": 79.32143409999999,
+    "place_id": "ChIJN3tdw4_V0jsRuEBvFQa02IE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN3tdw4_V0jsRuEBvFQa02IE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:20:50"
+  }
+]

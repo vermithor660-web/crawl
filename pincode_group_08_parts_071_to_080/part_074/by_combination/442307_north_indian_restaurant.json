@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mumbai special Vada pav & pav bhaji",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant",
+    "pincode": "442307",
+    "phone_number": "+91 88067 55557",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 24,
+    "address": "Jhansi rani square, Sindhi Colony, Hinganghat, Maharashtra 442301",
+    "area": "Sindhi Colony",
+    "latitude": 20.5450824,
+    "longitude": 78.84045789999999,
+    "place_id": "ChIJj9StIIxl0zsROqNmxhwqOgo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9StIIxl0zsROqNmxhwqOgo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:14:26"
+  },
+  {
+    "business_name": "Karmore Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "442307",
+    "phone_number": "+91 94033 40241",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 31,
+    "address": "Adarsh Nagar, Hinganghat, Maharashtra 442301",
+    "area": "Adarsh Nagar",
+    "latitude": 20.551796799999998,
+    "longitude": 78.8418339,
+    "place_id": "ChIJ8_XGZVJl0zsRDdadA3WWv_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8_XGZVJl0zsRDdadA3WWv_A",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:14:28"
+  }
+]

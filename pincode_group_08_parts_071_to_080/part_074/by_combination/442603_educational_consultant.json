@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shahare Education Consultancy",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "442603",
+    "phone_number": "+91 94236 06048",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gandhewar Complex, Chamorshi Rd, near Ola Showroom, Kannamwar Nagar, Gadchiroli, Maharashtra 442605",
+    "area": "Kannamwar Nagar",
+    "latitude": 20.1627553,
+    "longitude": 80.0006559,
+    "place_id": "ChIJu_UWXyz7LDoRjuVlsBUnhfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu_UWXyz7LDoRjuVlsBUnhfA",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:37:25"
+  },
+  {
+    "business_name": "Association Family",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "442603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chamorshi, Maharashtra 442603",
+    "area": "442603",
+    "latitude": 19.9404137,
+    "longitude": 79.89256879999999,
+    "place_id": "ChIJE0as9C37LDoR_g4qwOlyNAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE0as9C37LDoR_g4qwOlyNAw",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:37:25"
+  }
+]

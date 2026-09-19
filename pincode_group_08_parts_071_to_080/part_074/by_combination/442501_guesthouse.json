@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kishor lodge",
+    "search_category": "Guesthouse",
+    "primary_category": "Extended stay hotel",
+    "all_categories": "Extended stay hotel",
+    "pincode": "442501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Kishor complex, Nagpur - Chandrapur Rd, Nirmani Vasahat, Gautam Nagar, Bhadravati, Chandrapur, Maharashtra 442902",
+    "area": "Nirmani Vasahat, Gautam Nagar",
+    "latitude": 20.1110988,
+    "longitude": 79.1208693,
+    "place_id": "ChIJNSL2ILkl0zsR9fb6XohZ5aM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNSL2ILkl0zsR9fb6XohZ5aM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:26:30"
+  },
+  {
+    "business_name": "Star Point Lodge",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "442501",
+    "phone_number": "+91 96894 31488",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "beside New Bus stand, Nirmani Vasahat, Gautam Nagar, Bhadravati, Maharashtra 442902",
+    "area": "Nirmani Vasahat, Gautam Nagar",
+    "latitude": 20.1109697,
+    "longitude": 79.1206696,
+    "place_id": "ChIJO88Aw00l0zsRuEvVUXqUwvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO88Aw00l0zsRuEvVUXqUwvI",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:26:30"
+  }
+]

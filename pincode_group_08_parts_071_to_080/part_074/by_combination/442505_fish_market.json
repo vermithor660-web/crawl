@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Himmat Fish Merchant",
+    "search_category": "Fish Market",
+    "primary_category": "Fishery",
+    "all_categories": "Fishery",
+    "pincode": "442505",
+    "phone_number": "+91 98224 71792",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Weekly market, Yavatmal, Maharashtra 445001",
+    "area": "Choti Gujri, Chapman Wadi",
+    "latitude": 20.3882764,
+    "longitude": 78.1369714,
+    "place_id": "ChIJifqlKcbo0zsREsI5uHdHF78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJifqlKcbo0zsREsI5uHdHF78",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:32:39"
+  },
+  {
+    "business_name": "Prasanjeet J Biswas Fish Center",
+    "search_category": "Fish Market",
+    "primary_category": "Pond fish supplier",
+    "all_categories": "Pond fish supplier",
+    "pincode": "442505",
+    "phone_number": "+91 89993 38014",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "fish market, Bengali Camp, Urja Nagar, Chandrapur, Maharashtra 442401",
+    "area": "Bengali Camp, Urja Nagar",
+    "latitude": 19.9672242,
+    "longitude": 79.3102656,
+    "place_id": "ChIJETJ9YnbV0jsRvpx9d2zRLHg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJETJ9YnbV0jsRvpx9d2zRLHg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:32:40"
+  }
+]

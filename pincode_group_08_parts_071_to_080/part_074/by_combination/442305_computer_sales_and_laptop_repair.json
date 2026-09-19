@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Computer",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Service establishment",
+    "pincode": "442305",
+    "phone_number": "+91 81159 97417",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vijay Computer, 442305, India",
+    "area": "442305",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ7wkBWjEXkjkRSU1DIChKxyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7wkBWjEXkjkRSU1DIChKxyo",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:11:58"
+  },
+  {
+    "business_name": "Yash Infotech",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Computer service, Service establishment",
+    "pincode": "442305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Yash Infotech, 442305, India",
+    "area": "442305",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJpTbDvqBv0DsRdnZFCATwqao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpTbDvqBv0DsRdnZFCATwqao",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:11:58"
+  }
+]

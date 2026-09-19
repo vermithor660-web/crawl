@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Home Cab Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "442604",
+    "phone_number": "+91 95032 17249",
+    "website": "https://www.homecabservice.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "671 Bidi kargar nagar, Amrutdham Rd, Panchavati, Nashik, Maharashtra 422003",
+    "area": "Panchavati",
+    "latitude": 20.011087099999997,
+    "longitude": 73.8285934,
+    "place_id": "ChIJJ6siYFrr3TsR5wVuQAV4qKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ6siYFrr3TsR5wVuQAV4qKg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:38:37"
+  },
+  {
+    "business_name": "SHALINI CABS",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Auto repair shop, Taxi service, Tour agency, Transportation service",
+    "pincode": "442604",
+    "phone_number": "+91 93230 00111",
+    "website": "https://shalinicabs.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Office:- 5/1, New Vaibav Chs, Uttam Angre Marg, opp. Shivsena Surya office, behind TJSB Bank Joshi wada, Charai, Thane West, Thane, Maharashtra 400601",
+    "area": "Charai, Thane West",
+    "latitude": 19.196172999999998,
+    "longitude": 72.9763224,
+    "place_id": "ChIJ8Qy8kCS55zsREIB-mAnzSvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Qy8kCS55zsREIB-mAnzSvY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:38:37"
+  }
+]

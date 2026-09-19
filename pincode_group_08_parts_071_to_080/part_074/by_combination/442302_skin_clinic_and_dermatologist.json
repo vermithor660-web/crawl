@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Renge's",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Dietitian, Homeopath, Laser hair removal service, Nutritionist, Dermatologist, Tattoo removal service, Weight loss service",
+    "pincode": "442302",
+    "phone_number": "+91 93737 55619",
+    "website": "http://www.drrengestotal.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Nava Prabhat Chambers, 27, Central Bazar Road, opp. Nagpur Scan, near Centre Point hotel, Ramdaspeth, Nagpur, Maharashtra 440010",
+    "area": "Ramdaspeth",
+    "latitude": 21.134230499999997,
+    "longitude": 79.0760348,
+    "place_id": "ChIJ0d08IZDA1DsRNJAAqhYtahM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0d08IZDA1DsRNJAAqhYtahM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:05:30"
+  },
+  {
+    "business_name": "Dr.Manjiri Oake",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic",
+    "pincode": "442302",
+    "phone_number": "+91 712 224 4845",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "4375+FPR, South East Railway colony - 1, Kotwal Nagar, RPTS, Nagpur, Maharashtra 440022",
+    "area": "South East Railway colony - 1, Kotwal Nagar, RPTS",
+    "latitude": 21.1137432,
+    "longitude": 79.05926749999999,
+    "place_id": "ChIJj8vn_YO_1DsRhna_lMrwPoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj8vn_YO_1DsRhna_lMrwPoc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:05:30"
+  }
+]

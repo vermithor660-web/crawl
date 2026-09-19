@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A.y. Shop",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Shopping mall",
+    "pincode": "442201",
+    "phone_number": "+91 83904 87740",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "wanjari chowk, Wardha, Maharashtra 442001",
+    "area": "wanjari chowk",
+    "latitude": 20.741429,
+    "longitude": 78.5967764,
+    "place_id": "ChIJ2bqjIkh_1DsRrEP15_grvj0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2bqjIkh_1DsRrEP15_grvj0",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 05:58:33"
+  },
+  {
+    "business_name": "Royal Rock Cleaners",
+    "search_category": "Cleaning and Hotel Supplier shops/ wholesalers",
+    "primary_category": "Cleaning products supplier",
+    "all_categories": "Cleaning products supplier",
+    "pincode": "442201",
+    "phone_number": "N/A",
+    "website": "https://royalrockcleaners.wordpress.com/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "4, Wardha Rd, behind panchadeep Nagar, near hotel Radisson Blu, Meher Colony, Narendra Nagar, Somalwada, Nagpur, Maharashtra 440025",
+    "area": "Meher Colony, Narendra Nagar, Somalwada",
+    "latitude": 21.1043801,
+    "longitude": 79.0724133,
+    "place_id": "ChIJ3bDV_f6_1DsRZ_yDB1W1Qi8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3bDV_f6_1DsRZ_yDB1W1Qi8",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 05:58:35"
+  }
+]

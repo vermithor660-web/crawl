@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Marit Decor",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "442304",
+    "phone_number": "N/A",
+    "website": "https://www.maritdecor.com/",
+    "rating": 4.7,
+    "reviews_count": 55,
+    "address": "83a, Girija Devi Marg, Block A, Kamla Nagar, Delhi, 110007",
+    "area": "Block A, Kamla Nagar",
+    "latitude": 28.681913899999998,
+    "longitude": 77.2001834,
+    "place_id": "ChIJj5o51Yj9DDkRug2yJ7tbhZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj5o51Yj9DDkRug2yJ7tbhZ4",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:09:52"
+  },
+  {
+    "business_name": "Anvi Rukhwat Event",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Wedding service",
+    "all_categories": "Wedding service, Service establishment",
+    "pincode": "442304",
+    "phone_number": "+91 97304 97694",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Anvi Rukhwat Event, 442304, India",
+    "area": "442304",
+    "latitude": 18.4019002,
+    "longitude": 73.7022506,
+    "place_id": "ChIJzwXkzdhROAkRMLqib1CrodY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzwXkzdhROAkRMLqib1CrodY",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:09:53"
+  }
+]

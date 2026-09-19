@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Organic Virasat",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop",
+    "pincode": "442604",
+    "phone_number": "+91 831 420 4454",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Hindwadi, Belagavi, Karnataka 590011",
+    "area": "Hindwadi",
+    "latitude": 15.8364602,
+    "longitude": 74.5120484,
+    "place_id": "ChIJhT6pfI9mvzsRXKWG8l9gNwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhT6pfI9mvzsRXKWG8l9gNwE",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:38:00"
+  },
+  {
+    "business_name": "Origin Organic Shop",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Organic shop",
+    "pincode": "442604",
+    "phone_number": "+91 98241 92383",
+    "website": "https://www.facebook.com/OriginOrganicShop",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Basement - 10 Abhishek complex, Nr. Takhteshwar Tample Road, Waghawadi Rd., Bhavnagar, Gujarat 364001",
+    "area": "Nanbhawadi, Takhteshwar Plots",
+    "latitude": 21.765693499999998,
+    "longitude": 72.1473274,
+    "place_id": "ChIJ1YpkYrdbXzkRXbEc4qHeRvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1YpkYrdbXzkRXbEc4qHeRvc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:38:00"
+  }
+]

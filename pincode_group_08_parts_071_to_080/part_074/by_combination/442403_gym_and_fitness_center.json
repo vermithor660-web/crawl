@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anera Women's Fitness Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "442403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near st workshop, above canera bank, D.G.Tukum, Jairaj Nagar, Tukum, Chandrapur, Maharashtra 442401",
+    "area": "D.G.Tukum, Jairaj Nagar, Tukum",
+    "latitude": 19.970354,
+    "longitude": 79.3034036,
+    "place_id": "ChIJ0S31swPV0jsR10D8aStHEEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0S31swPV0jsR10D8aStHEEM",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:20:26"
+  },
+  {
+    "business_name": "Squat Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "442403",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Hakimi Fatemi Manzil, Ravindra Nagar Vard, Ballarpur, Maharashtra 442701",
+    "area": "Ravindra Nagar Vard",
+    "latitude": 19.855266399999998,
+    "longitude": 79.3445539,
+    "place_id": "ChIJV5c282HT0jsRrF67K44cGqc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5c282HT0jsRrF67K44cGqc",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:20:27"
+  }
+]

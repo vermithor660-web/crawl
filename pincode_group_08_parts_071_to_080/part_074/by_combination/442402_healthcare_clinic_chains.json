@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mehra Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Neurologist",
+    "pincode": "442402",
+    "phone_number": "+91 85540 59450",
+    "website": "https://www.mehrahospital.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "X7FP+F95, Nagpur Rd, near Janata College, Civil Lines, Chandrapur, Maharashtra 442401",
+    "area": "Civil Lines",
+    "latitude": 19.973688199999998,
+    "longitude": 79.28592979999999,
+    "place_id": "ChIJmej8wXbW0jsROQjxp7g6gRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmej8wXbW0jsROQjxp7g6gRg",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:18:34"
+  },
+  {
+    "business_name": "Shubham Healthcare Welness and chiropractic center",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Chiropractor",
+    "all_categories": "Chiropractor",
+    "pincode": "442402",
+    "phone_number": "+91 84464 05811",
+    "website": "https://youtube.com/channel/UC-pMbN4Wd57aQGxBb513j-Q",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Radhika Sabhagruha, Sarkar Nagar, Tukum, Chandrapur, Maharashtra 442401",
+    "area": "Sarkar Nagar, Tukum",
+    "latitude": 19.971707199999997,
+    "longitude": 79.3091244,
+    "place_id": "ChIJ1xrigkDV0jsRqNTmXPrbZ_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1xrigkDV0jsRqNTmXPrbZ_M",
+    "part_id": "part_074",
+    "crawled_at": "2026-09-19 06:18:37"
+  }
+]
