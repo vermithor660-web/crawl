@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tamanna jenral store and beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "473662",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pichhore - Shivpuri Rd, New basti, Bhonti, Madhya Pradesh 473670",
+    "area": "New basti",
+    "latitude": 25.3207409,
+    "longitude": 78.09797689999999,
+    "place_id": "ChIJ-XV16DBRdzkR9e5mWivq15A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-XV16DBRdzkR9e5mWivq15A",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:28:43"
+  },
+  {
+    "business_name": "beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "473662",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vivekanand Colony, Shivpuri, Madhya Pradesh 473638",
+    "area": "Vivekanand Colony",
+    "latitude": 25.4357293,
+    "longitude": 77.656131,
+    "place_id": "ChIJC5pSgpm5cDkRuJgsq5Jlozo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC5pSgpm5cDkRuJgsq5Jlozo",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:28:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suruchi Enterprises",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler, Food products supplier",
+    "pincode": "473226",
+    "phone_number": "+91 88395 52535",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "A2, opp. Shweta Mandir Gulmohar, Venketesh Nagar, Door Sanchar Colony, Gulmohar Colony, Bhopal, Madhya Pradesh 462039",
+    "area": "Venketesh Nagar, Door Sanchar Colony, Gulmohar Colony",
+    "latitude": 23.194836799999997,
+    "longitude": 77.4341859,
+    "place_id": "ChIJDbh3mzzhYjkRWC1JIxVUYLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDbh3mzzhYjkRWC1JIxVUYLo",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:59:46"
+  },
+  {
+    "business_name": "Shanta G Foods Corporate Office",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Manufacturer",
+    "all_categories": "FMCG Manufacturer, Service establishment",
+    "pincode": "473226",
+    "phone_number": "N/A",
+    "website": "http://www.shantag.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shanta G Foods Corporate Office, 473226, India",
+    "area": "473226",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJQ8JFrr694QIRsuKM16UvwxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ8JFrr694QIRsuKM16UvwxE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:59:46"
+  }
+]

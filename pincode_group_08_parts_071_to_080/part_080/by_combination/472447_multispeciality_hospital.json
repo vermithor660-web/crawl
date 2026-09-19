@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Super Speciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "472447",
+    "phone_number": "+91 94525 59494",
+    "website": "https://vssh.in/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Gandhinagar Colony, Laxirampur, Azamgarh, Uttar Pradesh 276125",
+    "area": "Gandhinagar Colony, Laxirampur",
+    "latitude": 26.0893202,
+    "longitude": 83.1880256,
+    "place_id": "ChIJKzmmFj-jkTkRQlIFv3rvUZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKzmmFj-jkTkRQlIFv3rvUZE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:40:44"
+  },
+  {
+    "business_name": "MAHASHREE MULTISPECIALITY AND ADVANCE LAPAROSCOPY HOSPITAL",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "472447",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Tiwaripur, Mau Rd, Sidhari, Azamgarh, Jamin Sidhari, Uttar Pradesh 276128",
+    "area": "Sidhari",
+    "latitude": 26.0466984,
+    "longitude": 83.19751959999999,
+    "place_id": "ChIJCQnIV469kTkR92ruNfZZ0q4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCQnIV469kTkR92ruNfZZ0q4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:40:44"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DELHI CAR WORKSHOP",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "473446",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Parasi, Uttar Pradesh 231224",
+    "area": "473446",
+    "latitude": 24.189638,
+    "longitude": 82.77161869999999,
+    "place_id": "ChIJS21gYgwljzkRArdOmEcNgRE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS21gYgwljzkRArdOmEcNgRE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:19:37"
+  },
+  {
+    "business_name": "GoMechanic - Automobile Car Repair Workshop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "473446",
+    "phone_number": "+91 83989 70970",
+    "website": "https://srd1.onelink.me/7EYj/GMB",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Residency Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560025",
+    "area": "Shanthala Nagar, Ashok Nagar",
+    "latitude": 12.9668985,
+    "longitude": 77.5992352,
+    "place_id": "ChIJOdSdnSEVrjsRNeAfuM6mMec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOdSdnSEVrjsRNeAfuM6mMec",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:19:39"
+  }
+]

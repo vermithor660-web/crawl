@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manish Sahu Cycle Store and Tyre service",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "473660",
+    "phone_number": "+91 78040 00219",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F532+X5V, Karera, Madhya Pradesh 473660",
+    "area": "473660",
+    "latitude": 25.4549751,
+    "longitude": 78.1504068,
+    "place_id": "ChIJbSRHHgBFdzkR13S2cId0sMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbSRHHgBFdzkR13S2cId0sMk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:26:47"
+  },
+  {
+    "business_name": "Dineshk Kushwah",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Auction house",
+    "pincode": "473660",
+    "phone_number": "+91 78275 29909",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Dineshk Kushwah, Narwar, Madhya Pradesh 473880",
+    "area": "473660",
+    "latitude": 25.6454475,
+    "longitude": 77.9416215,
+    "place_id": "ChIJj6lp_pszdzkROhpNS6Zi_Lo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj6lp_pszdzkROhpNS6Zi_Lo",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:26:49"
+  }
+]

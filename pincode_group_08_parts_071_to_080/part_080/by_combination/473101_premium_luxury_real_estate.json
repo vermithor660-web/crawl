@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DCNPL Hills Vistaa Bhawrasla",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Apartment building, Apartment complex, Home builder, Real Estate Builders & Construction Company, Real estate consultant, Real estate developer",
+    "pincode": "473101",
+    "phone_number": "+91 77229 90999",
+    "website": "https://www.dhillvistaindore.com/",
+    "rating": 4,
+    "reviews_count": 50,
+    "address": "MP SH 27, Bhawrasla, Indore, Madhya Pradesh 453555",
+    "area": "Bhawrasla",
+    "latitude": 22.800316799999997,
+    "longitude": 75.8446503,
+    "place_id": "ChIJo6S8z64DYzkR8JDR-d8sjhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo6S8z64DYzkR8JDR-d8sjhE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:45:17"
+  },
+  {
+    "business_name": "Prime Properties",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "473101",
+    "phone_number": "+91 90500 99989",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "road, Kissan Basti, Nilokheri, Haryana 132117",
+    "area": "Kissan Basti",
+    "latitude": 29.841737199999997,
+    "longitude": 76.9297488,
+    "place_id": "ChIJOzfc3GFpDjkR7CEWebbq9j0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOzfc3GFpDjkR7CEWebbq9j0",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:45:19"
+  }
+]

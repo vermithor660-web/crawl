@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Magical Memories Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "473118",
+    "phone_number": "+91 89628 00176",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shindipura Road, near Sindhipura, gate, Burhanpur, Madhya Pradesh 450331",
+    "area": "gate",
+    "latitude": 21.319051599999998,
+    "longitude": 76.2347549,
+    "place_id": "ChIJDZ4Otdwz2DsRgzQlTRkV_vc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZ4Otdwz2DsRgzQlTRkV_vc",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:57:18"
+  },
+  {
+    "business_name": "Abhinandan Events",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company, Event planner, Wedding planner",
+    "pincode": "473118",
+    "phone_number": "+91 90286 33126",
+    "website": "https://abhinandanevents.in/",
+    "rating": 5,
+    "reviews_count": 114,
+    "address": "Near, Shree, Mangalya, Dastur Nagar, Amravati, Maharashtra 444607",
+    "area": "Mangalya, Dastur Nagar",
+    "latitude": 20.912987599999997,
+    "longitude": 77.7874361,
+    "place_id": "ChIJL6_EeKSl1jsRrZKxYBa7KqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL6_EeKSl1jsRrZKxYBa7KqU",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:57:20"
+  }
+]

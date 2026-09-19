@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tirupati Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "473335",
+    "phone_number": "+91 94244 93332",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "2293, Sudama Nagar Service Rd, beside Jaroliya market, Sector D, Sudama Nagar, Indore, Madhya Pradesh 452009",
+    "area": "Sector D, Sudama Nagar",
+    "latitude": 22.6865976,
+    "longitude": 75.8291919,
+    "place_id": "ChIJswZz1dn9YjkRYKX5f3NQ8OU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJswZz1dn9YjkRYKX5f3NQ8OU",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:10:28"
+  },
+  {
+    "business_name": "South & North Indian Foods, Party orders and Catering (Mr. George)",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Vegan restaurant",
+    "all_categories": "Vegan restaurant",
+    "pincode": "473335",
+    "phone_number": "+91 98273 37113",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "E6/156, 12 No. Slum Area, Arera Colony, Bhopal, Madhya Pradesh 462016",
+    "area": "12 No. Slum Area, Arera Colony",
+    "latitude": 23.2050646,
+    "longitude": 77.4420703,
+    "place_id": "ChIJtxRFNNhDfDkRV4fIjLeDq10",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtxRFNNhDfDkRV4fIjLeDq10",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:10:28"
+  }
+]

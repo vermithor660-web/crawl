@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganga Restorent",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "473287",
+    "phone_number": "+91 77229 04634",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Reliance Petrol Pump Ke Pass, NH 3, Raod, Biaora, Madhya Pradesh 465674",
+    "area": "473287",
+    "latitude": 23.9129643,
+    "longitude": 76.89149909999999,
+    "place_id": "ChIJ31FE1rRrezkRefKYmupKBaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ31FE1rRrezkRefKYmupKBaY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:03:18"
+  },
+  {
+    "business_name": "Pure dough Pizza",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant",
+    "pincode": "473287",
+    "phone_number": "+91 62669 78357",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "GTB plaza ,old ab road,near reliance Jio mart,biora, Madhya Pradesh,465676, Biaora, Madhya Pradesh 465674",
+    "area": "krishna Puram Colony",
+    "latitude": 23.9271593,
+    "longitude": 76.91392479999999,
+    "place_id": "ChIJC1catkZrezkRBjEwVp1hgNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC1catkZrezkRBjEwVp1hgNQ",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:03:18"
+  }
+]

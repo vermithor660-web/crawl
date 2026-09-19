@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DataQuantum S.L.",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Business development service, Drafting Service Center, Service establishment, Research and product development, Computer consultant, Training center, Website designer",
+    "pincode": "473110",
+    "phone_number": "N/A",
+    "website": "https://dataquantum.es/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "DataQuantum S.L., 473110, India",
+    "area": "473110",
+    "latitude": 30.6959409,
+    "longitude": -54.494900099999995,
+    "place_id": "ChIJ0T-VZlbFyCsRnE_0a1z8FVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0T-VZlbFyCsRnE_0a1z8FVU",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:49:12"
+  },
+  {
+    "business_name": "Data Sync",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Service establishment",
+    "pincode": "473110",
+    "phone_number": "N/A",
+    "website": "https://datasyncitsolutions.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Data Sync, 473110, India",
+    "area": "473110",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJkSytQISL_44RZn7tY3_pRfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkSytQISL_44RZn7tY3_pRfk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:49:13"
+  }
+]

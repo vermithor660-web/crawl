@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Riddhi Siddhi Jewellery",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "473443",
+    "phone_number": "+91 88891 15123",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "New Market, Mungaoli, Madhya Pradesh 473443",
+    "area": "473443",
+    "latitude": 24.4092095,
+    "longitude": 78.0964758,
+    "place_id": "ChIJy0QBqkl5eTkRgcXd0MBU0Q0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy0QBqkl5eTkRgcXd0MBU0Q0",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:14:02"
+  },
+  {
+    "business_name": "Shri shyam jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "473443",
+    "phone_number": "+91 75808 06900",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C35W+FJW, 01, Purana Bazaar, Mungaoli, Madhya Pradesh 473443",
+    "area": "Purana Bazaar",
+    "latitude": 24.408704099999998,
+    "longitude": 78.09651459999999,
+    "place_id": "ChIJ_VdeDwB5eTkR01Z5n7rPUts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_VdeDwB5eTkR01Z5n7rPUts",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:14:02"
+  }
+]

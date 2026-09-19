@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishi Seva",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Pest control service",
+    "all_categories": "Pest control service",
+    "pincode": "473330",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lake City Colony, Tulsi Sarovar Colony, Ashoknagar, Madhya Pradesh 473331",
+    "area": "Lake City Colony, Tulsi Sarovar Colony",
+    "latitude": 24.5788331,
+    "longitude": 77.7406673,
+    "place_id": "ChIJIU72n7QxejkRGeoAHPxjVDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIU72n7QxejkRGeoAHPxjVDs",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:06:27"
+  },
+  {
+    "business_name": "Varsha Bioscience And Technology India",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Biotechnology company",
+    "all_categories": "Biotechnology company",
+    "pincode": "473330",
+    "phone_number": "+91 82856 84222",
+    "website": "https://www.varshabioscience.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "3rd Floor, 17-1-383, 36, 1/2, 2nd Main Rd, Vinay Nagar Colony, Saidabad, Hyderabad, Telangana 500059",
+    "area": "Vinay Nagar Colony, Vinayak Nagar Colony, Saroor Nagar West, Saidabad",
+    "latitude": 17.3514659,
+    "longitude": 78.511217,
+    "place_id": "ChIJjRtrpWWYyzsR5vdgM-XtFTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjRtrpWWYyzsR5vdgM-XtFTo",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:06:28"
+  }
+]

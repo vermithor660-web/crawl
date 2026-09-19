@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PC Gym",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "473551",
+    "phone_number": "+91 62632 48911",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "jhansi thiraha, commando gun house ke uper third floor, Shivpuri, Madhya Pradesh 473638",
+    "area": "Raghvendra Nagar",
+    "latitude": 25.4166571,
+    "longitude": 77.6547776,
+    "place_id": "ChIJt9j0_qK7cDkRHUWwTmXE07k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt9j0_qK7cDkRHUWwTmXE07k",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:21:20"
+  },
+  {
+    "business_name": "ATHLETE Sports",
+    "search_category": "Fitness Chains",
+    "primary_category": "Sporting goods store",
+    "all_categories": "Sporting goods store",
+    "pincode": "473551",
+    "phone_number": "+91 87709 19221",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Infront Head Post Office, Kotwali Rd, Shri Ram Colony, Saraswati Nagar, Shivpuri, Madhya Pradesh 473638",
+    "area": "Shri Ram Colony, Saraswati Nagar",
+    "latitude": 25.427185299999998,
+    "longitude": 77.6524709,
+    "place_id": "ChIJXXqTPqu-cDkRPFqKfqaetHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXXqTPqu-cDkRPFqKfqaetHk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:21:22"
+  }
+]

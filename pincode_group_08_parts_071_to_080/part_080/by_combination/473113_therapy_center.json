@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swastik Medical System",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy equipment supplier",
+    "all_categories": "Physiotherapy equipment supplier",
+    "pincode": "473113",
+    "phone_number": "+91 91791 17541",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "#371, 1st Floor, Dawa Bazar, 13, 14, Rabindranath Tagore Marg, Indore, Madhya Pradesh 452001",
+    "area": "Harijan Mohalla",
+    "latitude": 22.7088663,
+    "longitude": 75.86687859999999,
+    "place_id": "ChIJax-I0Pj9YjkRse4TxCbp-eY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJax-I0Pj9YjkRse4TxCbp-eY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:53:45"
+  },
+  {
+    "business_name": "Rose spa therapy center",
+    "search_category": "Therapy Center",
+    "primary_category": "Day spa",
+    "all_categories": "Day spa",
+    "pincode": "473113",
+    "phone_number": "+91 86027 76058",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "sanjay sagar colony Road, Sanjay Sagar Colony, Raghogarh, Chilkheda, Madhya Pradesh 473001",
+    "area": "Sanjay Sagar Colony",
+    "latitude": 24.6743375,
+    "longitude": 77.31317349999999,
+    "place_id": "ChIJQYhbbmVbejkRa9YkpsITDNI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQYhbbmVbejkRa9YkpsITDNI",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:53:46"
+  }
+]

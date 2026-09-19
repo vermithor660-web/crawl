@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amit rajput",
+    "search_category": "Housekeeping Services",
+    "primary_category": "House cleaning service",
+    "all_categories": "House cleaning service",
+    "pincode": "473446",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R8GJ+89G, Satgata, Uttar Pradesh 284124",
+    "area": "473446",
+    "latitude": 24.825778,
+    "longitude": 78.330956,
+    "place_id": "ChIJyxWCOwDBeTkRJ1UaH8oZ-mU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyxWCOwDBeTkRJ1UaH8oZ-mU",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:20:26"
+  },
+  {
+    "business_name": "Latif laundry service",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Laundry service",
+    "all_categories": "Laundry service",
+    "pincode": "473446",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "ward no. 08, Dhubyana mohalla, Chanderi, Madhya Pradesh 473446",
+    "area": "473446",
+    "latitude": 24.711292999999998,
+    "longitude": 78.137598,
+    "place_id": "ChIJ8xm5exKReTkRuSyGiLuPWeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8xm5exKReTkRuSyGiLuPWeE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:20:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay Traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "473331",
+    "phone_number": "+91 91795 09799",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "GX86+2Q3, Chanderi-Piraigaon Rd, Sihora, Pipraigaon, Madhya Pradesh 473440",
+    "area": "473331",
+    "latitude": 24.5150026,
+    "longitude": 77.9619338,
+    "place_id": "ChIJkdSSo1qHeTkR6li4VSQaWbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkdSSo1qHeTkR6li4VSQaWbk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:06:45"
+  },
+  {
+    "business_name": "Girnar traders",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "473331",
+    "phone_number": "+91 88394 42253",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "732a, 732a, Ashoka Garden Rd, Gautam Nagar, New Ashoka Garden, Ashoka Garden, Bhopal, Madhya Pradesh 462023",
+    "area": "Gautam Nagar, New Ashoka Garden, Ashoka Garden",
+    "latitude": 23.2573839,
+    "longitude": 77.4319623,
+    "place_id": "ChIJ____L2lCfDkRMTsT6kraBeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____L2lCfDkRMTsT6kraBeE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:06:45"
+  }
+]

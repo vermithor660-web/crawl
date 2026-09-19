@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vidhi Architects",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect",
+    "pincode": "473335",
+    "phone_number": "+91 94799 37377",
+    "website": "http://vidhiarchitects.in/",
+    "rating": 4.7,
+    "reviews_count": 59,
+    "address": "Smart city Office, First Floor, G.incube, Moti Mahal Rd, Gwalior, Madhya Pradesh 474007",
+    "area": "Lashkar",
+    "latitude": 26.2084802,
+    "longitude": 78.172733,
+    "place_id": "ChIJSWS3_I_FdjkRzw88qE9A4H4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSWS3_I_FdjkRzw88qE9A4H4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:11:03"
+  },
+  {
+    "business_name": "Neev Architect & Interior Designer",
+    "search_category": "Architects",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "473335",
+    "phone_number": "+91 88006 47787",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "New Market, 606/2, Civil Lines, Jhokan Bagh, Jhansi, Uttar Pradesh 284001",
+    "area": "Civil Lines, Jhokan Bagh",
+    "latitude": 25.4455924,
+    "longitude": 78.5761361,
+    "place_id": "ChIJTy__W0R3dzkRDxmJkPidyes",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTy__W0R3dzkRDxmJkPidyes",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:11:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paint House",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Adhesives & Glue Supplier, Home improvement store, Interior Decorator, Paint Manufacturer",
+    "pincode": "473226",
+    "phone_number": "+91 80199 88787",
+    "website": "https://painthouse.co.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "5-1-459, Jambagh Rd, Wakil Wadi, Troop Bazaar, Koti, Hyderabad, Telangana 500001",
+    "area": "Wakil Wadi, Troop Bazaar, Koti",
+    "latitude": 17.3829481,
+    "longitude": 78.47882849999999,
+    "place_id": "ChIJn8-x5NSZyzsRmKo9RICiVKk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn8-x5NSZyzsRmKo9RICiVKk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:00:25"
+  },
+  {
+    "business_name": "Shree Mangalam Traders",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Door shop, Furniture wholesaler, Granite supplier, Hardware store, Marble supplier, Tile store, Plywood supplier, Woodworker",
+    "pincode": "473226",
+    "phone_number": "+91 89895 23390",
+    "website": "http://shreemangalam.in/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Baba Turf Ke Samne, Kukshi Byp Rd, near Madhuban Collage, Barwani, Madhya Pradesh 451551",
+    "area": "473226",
+    "latitude": 22.048614099999998,
+    "longitude": 74.9193076,
+    "place_id": "ChIJtQ9Ab-X5YTkRfZcxoRqtQpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQ9Ab-X5YTkRfZcxoRqtQpE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:00:25"
+  }
+]

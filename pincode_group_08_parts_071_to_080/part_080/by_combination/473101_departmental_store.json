@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "UTSAV DEPARTMENTAL STORE",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "473101",
+    "phone_number": "+91 88397 95259",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Bus Stand, Old, Jawahar Marg, near SBI Bank, Aron, Madhya Pradesh 473101",
+    "area": "473101",
+    "latitude": 24.3829472,
+    "longitude": 77.41744369999999,
+    "place_id": "ChIJAWG6uy5NejkRII7QuPqyyXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAWG6uy5NejkRII7QuPqyyXQ",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:43:49"
+  },
+  {
+    "business_name": "shahrukh khan",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "473101",
+    "phone_number": "+91 86024 94823",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "01, gulabganj, Aron, Madhya Pradesh 473101",
+    "area": "473101",
+    "latitude": 24.3822056,
+    "longitude": 77.41773239999999,
+    "place_id": "ChIJ7bWih_JNejkRtclb76mhsOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7bWih_JNejkRtclb76mhsOs",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:43:50"
+  }
+]

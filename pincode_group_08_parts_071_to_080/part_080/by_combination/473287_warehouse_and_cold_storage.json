@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand cold store",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "473287",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5RJR+587, Karondiya, Madhya Pradesh 456006",
+    "area": "473287",
+    "latitude": 23.180403,
+    "longitude": 75.8407836,
+    "place_id": "ChIJK72QYABzYzkRXujHe8O-mPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK72QYABzYzkRXujHe8O-mPc",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:04:41"
+  },
+  {
+    "business_name": "Maa Nihal Devi Ice & Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "473287",
+    "phone_number": "+91 94257 48856",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 12,
+    "address": "NH 3, Keel Kheda, Mahuwa Kheda, Madhya Pradesh 465674",
+    "area": "473287",
+    "latitude": 23.982699,
+    "longitude": 76.932369,
+    "place_id": "ChIJpzlCYUITezkRcpjvN8vAb5Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpzlCYUITezkRcpjvN8vAb5Y",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:04:43"
+  }
+]

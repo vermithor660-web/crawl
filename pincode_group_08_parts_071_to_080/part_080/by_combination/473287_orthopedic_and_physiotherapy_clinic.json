@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Medex orthocare",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Orthopedic clinic",
+    "all_categories": "Orthopedic clinic, Orthopedic surgeon, Spine surgeon, Sports medicine clinic, Sports medicine physician",
+    "pincode": "473287",
+    "phone_number": "+91 93034 04555",
+    "website": "https://medexorthocare.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Block B4, behind Nalanda school, next to D decor, E-3, Arera Colony, Bhopal, Madhya Pradesh 462016",
+    "area": "E-3, Arera Colony",
+    "latitude": 23.2135657,
+    "longitude": 77.4383495,
+    "place_id": "ChIJUTnr-lBCfDkRawhqTqm3w9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUTnr-lBCfDkRawhqTqm3w9U",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:03:37"
+  },
+  {
+    "business_name": "Orthocare physiotherapy clinic",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "473287",
+    "phone_number": "+91 86908 16763",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "B, 26, near Sai baba printing press, behind top & town icecream center, New Indira Colony, Burhanpur, Mohammadpura, Madhya Pradesh 450331",
+    "area": "New Indira Colony",
+    "latitude": 21.311627599999998,
+    "longitude": 76.21211029999999,
+    "place_id": "ChIJj7qsrx0z2DsRnr3jORMAaLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj7qsrx0z2DsRnr3jORMAaLA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:03:37"
+  }
+]

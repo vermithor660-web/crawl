@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Plumbing contractors",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "473118",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Danish Kunj Kolar Rd, Danish Kunj, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "area": "Danish Kunj, Kolar Rd",
+    "latitude": 23.1715771,
+    "longitude": 77.4282952,
+    "place_id": "ChIJu73KaNtDfDkRKW0Ip9VCGnE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu73KaNtDfDkRKW0Ip9VCGnE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:57:00"
+  },
+  {
+    "business_name": "Shreeji Pipes & Fittings",
+    "search_category": "Plumber",
+    "primary_category": "Pipe supplier",
+    "all_categories": "Pipe supplier",
+    "pincode": "473118",
+    "phone_number": "+91 95799 26557",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No. 8, ShankarShri Complex, Burhanpur - Shahpur Rd, opp. Ankita Theatre, Balaji Nagar, Burhanpur, Madhya Pradesh 450331",
+    "area": "Balaji Nagar",
+    "latitude": 21.3030689,
+    "longitude": 76.2231892,
+    "place_id": "ChIJ3_tfvTQz2DsRO7VmqPdtlk0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3_tfvTQz2DsRO7VmqPdtlk0",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:57:02"
+  }
+]

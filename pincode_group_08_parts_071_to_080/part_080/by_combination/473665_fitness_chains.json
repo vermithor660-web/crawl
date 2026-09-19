@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Prime fitness hub",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "473665",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 28,
+    "address": "MGHC+MX3, Hapur Rd, Dasna, Ghaziabad, Uttar Pradesh 201015",
+    "area": "473665",
+    "latitude": 28.6791321,
+    "longitude": 77.5224097,
+    "place_id": "ChIJMafS-KrzDDkRGp5I0Uq4kkQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMafS-KrzDDkRGp5I0Uq4kkQ",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:30:09"
+  },
+  {
+    "business_name": "Fit Planet",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "473665",
+    "phone_number": "+91 70793 24812",
+    "website": "http://fitplanetindia.com/",
+    "rating": 4.7,
+    "reviews_count": 768,
+    "address": "3rd Floor, Legend Plaza, Ashiyana Branch, Ashiana - Digha Rd, opp. Passport Office, Patna, Bihar 800014",
+    "area": "Samanpura, Raja Bazar, Indrapuri",
+    "latitude": 25.6084541,
+    "longitude": 85.0813977,
+    "place_id": "ChIJsZnHMr9X7TkRZJX-z0wVP6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsZnHMr9X7TkRZJX-z0wVP6o",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:30:09"
+  }
+]

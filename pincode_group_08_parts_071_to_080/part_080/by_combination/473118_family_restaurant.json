@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Shourya Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "473118",
+    "phone_number": "+91 62670 57138",
+    "website": "https://sites.google.com/view/the-shourya-family-restaurant/menu",
+    "rating": 4.6,
+    "reviews_count": 18,
+    "address": "Road, Cantt, Patkui, Bararu, Madhya Pradesh 470001",
+    "area": "Cantt",
+    "latitude": 23.8753401,
+    "longitude": 78.77538179999999,
+    "place_id": "ChIJw_jrlHnReDkRQzCd0nqnK64",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw_jrlHnReDkRQzCd0nqnK64",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:56:27"
+  },
+  {
+    "business_name": "Raaj Bhog Food",
+    "search_category": "Family Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Restaurant",
+    "pincode": "473118",
+    "phone_number": "+91 90092 25566",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "5HHQ+RV3, Mandleshwar Road, near Bridge, opp. New Court Building, Maheshwar, Madhya Pradesh 451224",
+    "area": "473118",
+    "latitude": 22.1795334,
+    "longitude": 75.58955859999999,
+    "place_id": "ChIJnY-HV8BlYjkRTw9QOHRJAD4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnY-HV8BlYjkRTw9QOHRJAD4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:56:27"
+  }
+]

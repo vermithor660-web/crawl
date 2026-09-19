@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rice Seller",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "473111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "5WH8+HG2, Damli, Haryana 136135",
+    "area": "473111",
+    "latitude": 30.178894099999997,
+    "longitude": 76.9162632,
+    "place_id": "ChIJT1QucYhLDjkR1BZhnrsiwx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT1QucYhLDjkR1BZhnrsiwx0",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:49:21"
+  },
+  {
+    "business_name": "STC INDIAN RICE MILLS®",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Exporter",
+    "all_categories": "Exporter, Service establishment",
+    "pincode": "473111",
+    "phone_number": "+91 74040 40168",
+    "website": "http://stcindianrice.com/",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "STC INDIAN RICE MILLS®, 473111, India",
+    "area": "473111",
+    "latitude": 13.4222866,
+    "longitude": 0,
+    "place_id": "ChIJATSwL09KDjkRWzzoogY0B1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJATSwL09KDjkRWzzoogY0B1w",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:49:22"
+  }
+]

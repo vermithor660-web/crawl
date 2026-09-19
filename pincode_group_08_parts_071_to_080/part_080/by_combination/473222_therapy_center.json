@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Clinic",
+    "search_category": "Therapy Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "473222",
+    "phone_number": "+91 77729 02754",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chandpura Kasba, Rajasthan 326037",
+    "area": "473222",
+    "latitude": 24.2275976,
+    "longitude": 76.801754,
+    "place_id": "ChIJUQLkfqsjezkRSFRj9tLRQKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUQLkfqsjezkRSFRj9tLRQKw",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:58:54"
+  },
+  {
+    "business_name": "Talk-Cure Counseling & Psychotherapy Center.",
+    "search_category": "Therapy Center",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Psychologist",
+    "pincode": "473222",
+    "phone_number": "+91 94236 48637",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "5878+RMJ, Near Co- Operative Bank,Sangai Plot, Anjangaon Surji, Maharashtra 444705",
+    "area": "Anjangaon Surji",
+    "latitude": 21.1645799,
+    "longitude": 77.3166506,
+    "place_id": "ChIJy2P-ourl1jsR_7kJDuY0IyY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy2P-ourl1jsR_7kJDuY0IyY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:58:56"
+  }
+]

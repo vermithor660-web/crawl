@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LEGAL CONSULTANTS",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "473443",
+    "phone_number": "+91 97383 36384",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "3RD FLOOR, SRINIVASAM AKSHAYA, FLAT 201, 6th A Cross Rd, 11TH A, MAIN, Akshayanagar, Bengaluru, Karnataka 560114",
+    "area": "11TH A, MAIN, Akshayanagar",
+    "latitude": 12.8705416,
+    "longitude": 77.6118309,
+    "place_id": "ChIJcUTCn1NrrjsR5-e-rTfejOg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcUTCn1NrrjsR5-e-rTfejOg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:15:10"
+  },
+  {
+    "business_name": "Consult With Lawyer .Com",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant",
+    "pincode": "473443",
+    "phone_number": "+91 70207 77965",
+    "website": "http://www.consultwithlawyer.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Indira, Nagar, Akot Fail, Jafrabad, Akola, Maharashtra 444003",
+    "area": "Indira, Nagar, Akot Fail, Jafrabad",
+    "latitude": 20.7317476,
+    "longitude": 77.0017117,
+    "place_id": "ChIJCYDrce8x1zsRvaWodJfboy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCYDrce8x1zsRvaWodJfboy8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:15:10"
+  }
+]

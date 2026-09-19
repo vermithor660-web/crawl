@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC COMMON SERVICE CENTRE",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Common Service Center (CSC) / E-Seva",
+    "all_categories": "Common Service Center (CSC) / E-Seva",
+    "pincode": "473445",
+    "phone_number": "+91 96665 16416",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "New Gaddiannaram Colony, Sahithi Nagar, Dilsukhnagar, Hyderabad, Telangana 500060",
+    "area": "New Gaddiannaram Colony, Sahithi Nagar, Dilsukhnagar",
+    "latitude": 17.3622156,
+    "longitude": 78.52218359999999,
+    "place_id": "ChIJIdE8dPWYyzsRwCYmdQwD-SY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIdE8dPWYyzsRwCYmdQwD-SY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:18:34"
+  },
+  {
+    "business_name": "CSC E-Governance Services India Limited & Aadhar Kendra Vidisha Madhya Pradesh 464001",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Aadhaar center",
+    "all_categories": "Aadhaar center",
+    "pincode": "473445",
+    "phone_number": "N/A",
+    "website": "https://digitalseva.csc.gov.in/",
+    "rating": 3.3,
+    "reviews_count": 4,
+    "address": "Durga Nagar Main Rd, Rajeev Nagar, Durga Nagar, Vidisha, Madhya Pradesh 464001",
+    "area": "Rajeev Nagar, Durga Nagar",
+    "latitude": 23.517308999999997,
+    "longitude": 77.8134472,
+    "place_id": "ChIJi6noahYFfDkRtupN0a-hjrs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi6noahYFfDkRtupN0a-hjrs",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:18:34"
+  }
+]

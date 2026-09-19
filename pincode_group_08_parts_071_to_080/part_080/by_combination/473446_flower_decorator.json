@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashok flower decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop, Florist",
+    "pincode": "473446",
+    "phone_number": "+91 95664 15288",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hariharan Bazaar St, NGO Nagar Extension, Ponneri, Chennai, Tamil Nadu 601204",
+    "area": "NGO Nagar Extension",
+    "latitude": 13.335528,
+    "longitude": 80.19042999999999,
+    "place_id": "ChIJOZetf7R4UjoR61aTg6-8G3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOZetf7R4UjoR61aTg6-8G3I",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:20:02"
+  },
+  {
+    "business_name": "SANTHOSH FLOWER DECORATION",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer, Event venue, Wedding venue",
+    "pincode": "473446",
+    "phone_number": "+91 95911 57583",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 38,
+    "address": "33, Pipeline Rd, behind RTO Complex, KAMALANEHARU EXTENSION, Yeswanthpur, Bengaluru, Karnataka 560022",
+    "area": "KAMALANEHARU EXTENSION, Yeswanthpur",
+    "latitude": 13.0206865,
+    "longitude": 77.55651019999999,
+    "place_id": "ChIJgW80kNI9rjsRuEj8zbYkSIk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgW80kNI9rjsRuEj8zbYkSIk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:20:04"
+  }
+]

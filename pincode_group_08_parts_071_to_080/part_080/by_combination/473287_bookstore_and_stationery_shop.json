@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nivi Stationery",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "473287",
+    "phone_number": "+91 81094 37511",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shope No 05, Ward 08, Chachoda, Chachaura, Maheshpura, Madhya Pradesh 473118",
+    "area": "Chachoda, Chachaura",
+    "latitude": 24.182793399999998,
+    "longitude": 77.0070939,
+    "place_id": "ChIJ27y7I5kbezkRk7oqi7eatec",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ27y7I5kbezkRk7oqi7eatec",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:04:21"
+  },
+  {
+    "business_name": "SHRI STATIONERY STORE",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store, Bookbinder, Cell phone accessory store, Lamination service, Passport photo processor, Print shop, School supply store, Pen store, Toy store",
+    "pincode": "473287",
+    "phone_number": "+91 90397 73151",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 404,
+    "address": "FRONT OF MADHAV BAL UDHYAN, MIG/223, 2A, Saket Nagar, Bhopal, Madhya Pradesh 462024",
+    "area": "Saket Nagar, Habib Ganj",
+    "latitude": 23.2141155,
+    "longitude": 77.4574468,
+    "place_id": "ChIJNWUz-AZDfDkRnUxZWrNURyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNWUz-AZDfDkRnUxZWrNURyI",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:04:23"
+  }
+]

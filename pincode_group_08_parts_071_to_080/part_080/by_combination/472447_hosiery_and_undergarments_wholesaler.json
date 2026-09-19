@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaram Hosiery",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Underwear store",
+    "all_categories": "Underwear store, Clothing store, Lingerie store",
+    "pincode": "472447",
+    "phone_number": "+91 98300 81009",
+    "website": "https://balaramhosiery.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "156, 1, CIT Rd, CIT Scheme VII M, Ultadanga, Kolkata, West Bengal 700054",
+    "area": "CIT Scheme VII M, Ultadanga",
+    "latitude": 22.590416899999997,
+    "longitude": 88.3930645,
+    "place_id": "ChIJ2zSSA3B2AjoRPHAtorsEf8I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2zSSA3B2AjoRPHAtorsEf8I",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:40:39"
+  },
+  {
+    "business_name": "Hosiery centre",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "472447",
+    "phone_number": "+91 78924 74181",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Belli Basavangudi St, Ragipet, Kumbarpet, Mamulpet, Chickpet, Bengaluru, Karnataka 560053",
+    "area": "Ragipet, Kumbarpet, Mamulpet, Chickpet",
+    "latitude": 12.967573999999999,
+    "longitude": 77.5778869,
+    "place_id": "ChIJlX_xdQAXrjsR2WOgiEVqw_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlX_xdQAXrjsR2WOgiEVqw_Y",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:40:39"
+  }
+]

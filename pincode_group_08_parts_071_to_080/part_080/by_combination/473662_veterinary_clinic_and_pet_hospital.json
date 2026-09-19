@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pets & Vets Animal Care",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian, Animal hospital",
+    "pincode": "473662",
+    "phone_number": "+91 94241 80430",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 24,
+    "address": "Near Dashara Maidan Niharika, LIG 1, 1, R P Nagar 2, Korba, Chhattisgarh 495677",
+    "area": "R P Nagar 2",
+    "latitude": 22.3602341,
+    "longitude": 82.7278121,
+    "place_id": "ChIJyTITtuyPJzoRQ1nYaGTuFB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyTITtuyPJzoRQ1nYaGTuFB4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:28:22"
+  },
+  {
+    "business_name": "Government Veterinary Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "473662",
+    "phone_number": "+91 88608 38625",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Lukvasa, Shivpuri, NH-3, Mumbai Agra Highway, AB Road, Shivpuri, Shivpuri, Madhya Pradesh 473885",
+    "area": "473662",
+    "latitude": 25.1024,
+    "longitude": 77.6004,
+    "place_id": "ChIJX_Z3avoKejkRYDje5nusPWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX_Z3avoKejkRYDje5nusPWY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:28:23"
+  }
+]

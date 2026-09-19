@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Muhana Mandi",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "473444",
+    "phone_number": "N/A",
+    "website": "https://www.muhanamandi.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "RP4X+FMF, Kankha Ki Dhani, Jaipur, Rajasthan 302029",
+    "area": "Kankha Ki Dhani",
+    "latitude": 26.806178799999998,
+    "longitude": 75.7491573,
+    "place_id": "ChIJha1eKaXLbTkRnLfpiFAAeBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJha1eKaXLbTkRnLfpiFAAeBE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:17:15"
+  },
+  {
+    "business_name": "Bengaluru Mandi",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Fruits & Vegetable Wholesaler",
+    "all_categories": "Fruits & Vegetable Wholesaler",
+    "pincode": "473444",
+    "phone_number": "+91 99807 60659",
+    "website": "https://bengalurumandi.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Varthur, Devasthanagalu, Bengaluru, Karnataka 560087",
+    "area": "Varthur, Devasthanagalu",
+    "latitude": 12.9401371,
+    "longitude": 77.737415,
+    "place_id": "ChIJkxA9dSATrjsRpnLm-virDtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkxA9dSATrjsRpnLm-virDtQ",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:17:15"
+  }
+]

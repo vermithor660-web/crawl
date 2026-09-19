@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agrawal Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, General store",
+    "pincode": "473287",
+    "phone_number": "+91 82697 98074",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Suthalia St, Maksudangarh, Madhya Pradesh 473287",
+    "area": "473287",
+    "latitude": 24.060581199999998,
+    "longitude": 77.2539061,
+    "place_id": "ChIJ0fz_ED2hezkRskDFLptWQtI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0fz_ED2hezkRskDFLptWQtI",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:03:09"
+  },
+  {
+    "business_name": "Muskan grocery store",
+    "search_category": "Departmental Store",
+    "primary_category": "Convenience store",
+    "all_categories": "Convenience store",
+    "pincode": "473287",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4638+W95, Godiya, Madhya Pradesh 473287",
+    "area": "473287",
+    "latitude": 24.103848,
+    "longitude": 77.215474,
+    "place_id": "ChIJRfAcMwCnezkRSFJP1DB_ruQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRfAcMwCnezkRSFJP1DB_ruQ",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:03:09"
+  }
+]

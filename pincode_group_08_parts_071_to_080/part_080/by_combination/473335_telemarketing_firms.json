@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kirana Store",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "473335",
+    "phone_number": "+91 78796 19524",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "30983, Baheriya Alias Roopna, Madhya Pradesh 473335",
+    "area": "473335",
+    "latitude": 24.8383666,
+    "longitude": 77.8661034,
+    "place_id": "ChIJCxrnwuMeejkRAAAA0B2c2WE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCxrnwuMeejkRAAAA0B2c2WE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:11:53"
+  },
+  {
+    "business_name": "Xtrim Global Solutions Pvt.Ltd",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Call center",
+    "all_categories": "Call center",
+    "pincode": "473335",
+    "phone_number": "+91 88788 78694",
+    "website": "http://www.xtrimglobalsolutions.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Princes Business Skypark, Agra Bombay Road, LIG Colony, Indore, Madhya Pradesh 452010",
+    "area": "LIG Colony",
+    "latitude": 22.7458361,
+    "longitude": 75.89308559999999,
+    "place_id": "ChIJY1VlAasCYzkRRaga_6XXKwk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY1VlAasCYzkRRaga_6XXKwk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:11:54"
+  }
+]

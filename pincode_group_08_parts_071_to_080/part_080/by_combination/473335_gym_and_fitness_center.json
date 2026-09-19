@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SK fitness center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "473335",
+    "phone_number": "+91 90090 34452",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "D4 d5, 80 Feet Rd, near nice restaurant, Mayur Vihar Colony, Ashoka Garden, Bhopal, Madhya Pradesh 462023",
+    "area": "Mayur Vihar Colony, Ashoka Garden",
+    "latitude": 23.2617707,
+    "longitude": 77.4279208,
+    "place_id": "ChIJW1gWoOZpfDkRV3uU-bN3280",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1gWoOZpfDkRV3uU-bN3280",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:10:49"
+  },
+  {
+    "business_name": "Figure & Fitness Health Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "473335",
+    "phone_number": "+91 11 3574 1543",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "B2-9, Prakashvir Shastri Marg, Ashok Vihar II, Pocket B 2, Phase 2, Ashok Vihar, Delhi, 110052",
+    "area": "Ashok Vihar II, Pocket B 2, Phase 2, Ashok Vihar",
+    "latitude": 28.6922301,
+    "longitude": 77.1771164,
+    "place_id": "ChIJcWcrdhQCDTkRMRFl3ctV0TY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcWcrdhQCDTkRMRFl3ctV0TY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:10:49"
+  }
+]

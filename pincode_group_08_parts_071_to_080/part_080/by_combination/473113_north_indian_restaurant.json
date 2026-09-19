@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Haryana Punjab Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Dhaba, Non Vegetarian Restaurant, Vegetarian restaurant",
+    "pincode": "473113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 47,
+    "address": "Amkheda, Madhya Pradesh 473113",
+    "area": "473113",
+    "latitude": 24.876715899999997,
+    "longitude": 77.4852871,
+    "place_id": "ChIJj7mqvDxsejkRMfhpGIpBvlY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj7mqvDxsejkRMfhpGIpBvlY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:52:56"
+  },
+  {
+    "business_name": "Dhakad hotal",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "473113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "NH46, Miana, Madhya Pradesh 473113",
+    "area": "473113",
+    "latitude": 24.8782462,
+    "longitude": 77.4837342,
+    "place_id": "ChIJydwmEABtejkR7eMt6U4QtkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJydwmEABtejkR7eMt6U4QtkE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:52:56"
+  }
+]

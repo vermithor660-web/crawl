@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay Jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Costume jewelry shop, Fashion designer, Jewelry designer, Jewelry manufacturer, Make-up artist, Silversmith, Wedding photographer, Wedding store, Wholesale jeweler",
+    "pincode": "473226",
+    "phone_number": "+91 80 4122 9048",
+    "website": "https://sanjayjewellers.in/",
+    "rating": 4.7,
+    "reviews_count": 1562,
+    "address": "240/26, 9th Main Rd, Jaya Nagar 1st Block, Jayanagar 3rd Block East, Jayanagar, Bengaluru, Karnataka 560011",
+    "area": "Jaya Nagar 1st Block, Jayanagar 3rd Block East, Jayanagar",
+    "latitude": 12.9313709,
+    "longitude": 77.5840917,
+    "place_id": "ChIJLzBMbZgVrjsRbE5zETD1Z-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLzBMbZgVrjsRbE5zETD1Z-U",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:00:00"
+  },
+  {
+    "business_name": "Sanjay Jewellers",
+    "search_category": "Artificial Jewellery and Accessories",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store, Costume jewelry shop, Silversmith",
+    "pincode": "473226",
+    "phone_number": "+91 88676 76486",
+    "website": "http://www.sanjayjewellers.in/",
+    "rating": 4.8,
+    "reviews_count": 480,
+    "address": "233/1, Rangaswamy Temple St, Anchepet, Chickpet, Bengaluru, Karnataka 560053",
+    "area": "Anchepet, Chickpet",
+    "latitude": 12.9707396,
+    "longitude": 77.5784228,
+    "place_id": "ChIJn9vkQgkWrjsRmM6Ay7gjj4Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn9vkQgkWrjsRmM6Ay7gjj4Q",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:00:00"
+  }
+]

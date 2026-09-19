@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mishra Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "473446",
+    "phone_number": "+91 81096 45123",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "I front of Tahseeldar Nivas, Dehli Darwaja Rajghat Road, Chanderi, Madhya Pradesh 473446",
+    "area": "473446",
+    "latitude": 24.716651199999998,
+    "longitude": 78.1378144,
+    "place_id": "ChIJ_7QpAQCTeTkRX7ef9no3aDA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_7QpAQCTeTkRX7ef9no3aDA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:19:26"
+  },
+  {
+    "business_name": "ChemCos pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "473446",
+    "phone_number": "+91 72788 38383",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "B-35, Block B, Vijay Nagar, Sinngle story, Delhi, 110033",
+    "area": "Block B, Vijay Nagar",
+    "latitude": 28.6910097,
+    "longitude": 77.20143159999999,
+    "place_id": "ChIJB3fliDT9DDkRtHh1TjWAVSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB3fliDT9DDkRtHh1TjWAVSs",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:19:28"
+  }
+]

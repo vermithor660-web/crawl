@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Purnima Stationery And Online Solution (6AM to 10 PM)",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "473662",
+    "phone_number": "+91 92037 36224",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hospital road, Pichhore, Madhya Pradesh 473995",
+    "area": "473662",
+    "latitude": 25.1769307,
+    "longitude": 78.1917343,
+    "place_id": "ChIJZUx43rfjeTkRhkaDXb-6JjY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZUx43rfjeTkRhkaDXb-6JjY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:29:03"
+  },
+  {
+    "business_name": "Singhal Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "473662",
+    "phone_number": "+91 94145 21352",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Shop no 23, Bus Stop, Sheopur Rd, Sector 6, Sanganer, Pratap Nagar, Jaipur, Rajasthan 302033",
+    "area": "Sector 6, Sanganer, Pratap Nagar",
+    "latitude": 26.808387999999997,
+    "longitude": 75.8142949,
+    "place_id": "ChIJ9XVHQ_TJbTkRqu8U8ddcs50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9XVHQ_TJbTkRqu8U8ddcs50",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:29:03"
+  }
+]

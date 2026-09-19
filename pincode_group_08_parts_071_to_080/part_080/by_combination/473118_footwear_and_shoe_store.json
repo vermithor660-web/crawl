@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harshal Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "473118",
+    "phone_number": "+91 72409 16245",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Harshal Footwear, Chachoda Wear House Chouraha, Binaganj Rd, Binaganj, Chhan, Madhya Pradesh 473118",
+    "area": "473118",
+    "latitude": 24.177866299999998,
+    "longitude": 77.0120003,
+    "place_id": "ChIJz8rK5-8FezkR_5TlQJN70dw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz8rK5-8FezkR_5TlQJN70dw",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:56:32"
+  },
+  {
+    "business_name": "GOLIYA'S FOOTWEAR BHOPAL",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "473118",
+    "phone_number": "+91 62654 83105",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 8,
+    "address": "Cholla Rd, opposite of GANESH MANDIR, Chola Naka, JP Nagar, Bhopal, Madhya Pradesh 462001",
+    "area": "Chola Naka, JP Nagar",
+    "latitude": 23.2756425,
+    "longitude": 77.414754,
+    "place_id": "ChIJVe71H29pfDkR9oAFl0Q0qF8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVe71H29pfDkR9oAFl0Q0qF8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:56:34"
+  }
+]

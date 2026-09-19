@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Thakur Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "473445",
+    "phone_number": "+91 731 405 5694",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "160-A, Nemawar Rd, Jaganath Colony, Navlakha, Indore, Madhya Pradesh 452001",
+    "area": "Jaganath Colony, Navlakha",
+    "latitude": 22.695501699999998,
+    "longitude": 75.87979949999999,
+    "place_id": "ChIJt9bwRtz8YjkR7IiOMKP9jxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt9bwRtz8YjkR7IiOMKP9jxo",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:17:47"
+  },
+  {
+    "business_name": "Ashok Polyclinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "473445",
+    "phone_number": "+91 76030 81355",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 17,
+    "address": "1/368, Jodhpur Park Rd, Dhakuria, Selimpur, Jodhpur Park, Kolkata, West Bengal 700068",
+    "area": "Selimpur, Jodhpur Park",
+    "latitude": 22.5034402,
+    "longitude": 88.365933,
+    "place_id": "ChIJVyJ7HQBxAjoRF_uWd-nKDjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVyJ7HQBxAjoRF_uWd-nKDjo",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:17:47"
+  }
+]

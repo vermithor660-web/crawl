@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "World Choice Gift Shop",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "473113",
+    "phone_number": "+91 93034 88212",
+    "website": "http://thegiftsmith.in/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Civil Line, Indira Colony, Gopal Ganj, Sagar, Madhya Pradesh 470001",
+    "area": "Civil Line, Indira Colony, Gopal Ganj",
+    "latitude": 23.8388235,
+    "longitude": 78.7626453,
+    "place_id": "ChIJe2XKz0TReDkRHhQR1jIStxU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe2XKz0TReDkRHhQR1jIStxU",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:53:51"
+  },
+  {
+    "business_name": "Wonderland Gifts and Toys",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "473113",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Atal Park, Oppo, Tilli Rd, Vaishali Nagar, Sagar, Madhya Pradesh 470001",
+    "area": "Vaishali Nagar",
+    "latitude": 23.824794999999998,
+    "longitude": 78.75254029999999,
+    "place_id": "ChIJcZRiBjTTeDkRSbxZ8hYpsO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcZRiBjTTeDkRSbxZ8hYpsO0",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:53:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nant Automible",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, RV repair shop",
+    "pincode": "472447",
+    "phone_number": "+91 98759 83001",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 367,
+    "address": "Kansal Rd, Chandigarh, 160103",
+    "area": "472447",
+    "latitude": 30.7709631,
+    "longitude": 76.7991601,
+    "place_id": "ChIJex_QeFXzDzkReCdzbbQ-XRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJex_QeFXzDzkReCdzbbQ-XRo",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:41:02"
+  },
+  {
+    "business_name": "Efficient Towing Services",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "472447",
+    "phone_number": "N/A",
+    "website": "http://www.efficienttowing.sg/",
+    "rating": 3.8,
+    "reviews_count": 29,
+    "address": "Efficient Towing Services, 472447, India",
+    "area": "472447",
+    "latitude": 1.3139999999999998,
+    "longitude": 103.84425,
+    "place_id": "ChIJZwgkDGUX2jERh6_HBdAuAcw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZwgkDGUX2jERh6_HBdAuAcw",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:41:02"
+  }
+]

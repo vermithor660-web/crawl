@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anita Diagnostic Centre",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "473105",
+    "phone_number": "+91 98293 69017",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hospital Rd, Chhabra, Rajasthan 325220",
+    "area": "473105",
+    "latitude": 24.666458199999997,
+    "longitude": 76.8442736,
+    "place_id": "ChIJrc_PxMnrejkRZqgQg_4Ir6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrc_PxMnrejkRZqgQg_4Ir6E",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:46:06"
+  },
+  {
+    "business_name": "MAITRI PATHOLOGY COLLECTION CENTER KUMBHRAJ",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "473105",
+    "phone_number": "N/A",
+    "website": "https://wa.me/qr/57OBMABPTMA7G1",
+    "rating": null,
+    "reviews_count": null,
+    "address": "13 airtel tower, near Jain Temple, Kumbhraj, Madhya Pradesh 473222",
+    "area": "Khatkiya",
+    "latitude": 24.3732693,
+    "longitude": 77.05500719999999,
+    "place_id": "ChIJo5uDD7P9ejkRvDSIBt_uciw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo5uDD7P9ejkRvDSIBt_uciw",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:46:08"
+  }
+]

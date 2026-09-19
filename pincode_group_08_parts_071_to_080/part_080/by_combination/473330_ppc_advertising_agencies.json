@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Point S",
+    "search_category": "PPC Advertising Agencies",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency",
+    "pincode": "473330",
+    "phone_number": "+91 44 4352 3282",
+    "website": "https://point-s.in/",
+    "rating": 4.8,
+    "reviews_count": 66,
+    "address": "Old No.56, new no.11, 1st floor, 1st Link St, Ashok Nagar, Chennai, Tamil Nadu 600083",
+    "area": "Ragavan Colony, Mettuppalayam, Ashok Nagar",
+    "latitude": 13.0291547,
+    "longitude": 80.215183,
+    "place_id": "ChIJLz4e9SZnUjoRyOB-m4Bjpc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLz4e9SZnUjoRyOB-m4Bjpc8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:06:32"
+  },
+  {
+    "business_name": "Spoorthi Ads",
+    "search_category": "PPC Advertising Agencies",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Advertising service, Event management company, Event planner, Media company, Media house, Outdoor activity organiser, Radio broadcaster",
+    "pincode": "473330",
+    "phone_number": "+91 99455 97155",
+    "website": "http://www.spoorthiads.com/",
+    "rating": 4.8,
+    "reviews_count": 18,
+    "address": "111B/1,1 Floor, 39Cross, 10th Main Rd, Opp: MedPlus, 2nd Block, Rajajinagar, Bengaluru, Karnataka 560010",
+    "area": "Opp: MedPlus, 2nd Block, Rajajinagar",
+    "latitude": 12.9905712,
+    "longitude": 77.5559722,
+    "place_id": "ChIJ8cB1QY49rjsRaZFfOo6PJ6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8cB1QY49rjsRaZFfOo6PJ6M",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:06:34"
+  }
+]

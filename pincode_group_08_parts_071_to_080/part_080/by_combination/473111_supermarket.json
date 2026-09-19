@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samim Chicken Shop",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Electronics store",
+    "pincode": "473111",
+    "phone_number": "+91 95897 26547",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 12,
+    "address": "F545+PCJ, Gail Vijaipur, Vijaipur, Madhya Pradesh 473112",
+    "area": "Gail Vijaipur",
+    "latitude": 24.456766,
+    "longitude": 77.1585089,
+    "place_id": "ChIJhfXWcfX5ejkRbWYRLbIRYaA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhfXWcfX5ejkRbWYRLbIRYaA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:49:16"
+  },
+  {
+    "business_name": "HS Utility Services",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "473111",
+    "phone_number": "+91 80856 80961",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 12, Gail Vijaipur, Vijaipur, Raghogarh -Vijaypur, Madhya Pradesh 473112",
+    "area": "Gail Vijaipur",
+    "latitude": 24.4592419,
+    "longitude": 77.15888269999999,
+    "place_id": "ChIJR-Pf-Mj5ejkRy_er9iP90V4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR-Pf-Mj5ejkRy_er9iP90V4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:49:18"
+  }
+]

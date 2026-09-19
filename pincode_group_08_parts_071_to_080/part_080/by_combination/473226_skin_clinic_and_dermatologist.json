@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic",
+    "pincode": "473226",
+    "phone_number": "+91 91112 18725",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Raghogarh, Road, Ramnagar, Ram Nagar, Madhya Pradesh 473226",
+    "area": "Ramnagar",
+    "latitude": 24.4439176,
+    "longitude": 77.1963244,
+    "place_id": "ChIJw9HfKHdVejkR3eJkzLkLc4c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw9HfKHdVejkR3eJkzLkLc4c",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:00:07"
+  },
+  {
+    "business_name": "Dr. Kamal Bhadoria",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Dermatologist",
+    "all_categories": "Dermatologist",
+    "pincode": "473226",
+    "phone_number": "+91 84610 73004",
+    "website": "https://jpmdermatechclinic.com/",
+    "rating": 4.8,
+    "reviews_count": 274,
+    "address": "2nd floor, Fortmax Skin Clinic, Parimal Complex, opposite Indian Oil petrol pump, Shriram Colony, Chetakpuri, Chouraha, Gwalior, Madhya Pradesh 474002",
+    "area": "Shriram Colony, Chetakpuri, Chouraha",
+    "latitude": 26.1993166,
+    "longitude": 78.1743532,
+    "place_id": "ChIJqSrVq6bFdjkRrkRoBKBBpb8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqSrVq6bFdjkRrkRoBKBBpb8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:00:08"
+  }
+]

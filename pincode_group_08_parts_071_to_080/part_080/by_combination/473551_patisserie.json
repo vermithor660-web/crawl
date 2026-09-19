@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kavita confectionery",
+    "search_category": "Patisserie",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier",
+    "pincode": "473551",
+    "phone_number": "+91 88394 11094",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Old bustand, Shivpuri, Madhya Pradesh 473638",
+    "area": "Tarkeshwari Colony",
+    "latitude": 25.423323099999998,
+    "longitude": 77.6590354,
+    "place_id": "ChIJ7alPy-W7cDkRR6aWQKPQXEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7alPy-W7cDkRR6aWQKPQXEs",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:20:57"
+  },
+  {
+    "business_name": "Happiness bakery",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "473551",
+    "phone_number": "+91 97556 30220",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rajeshwari Rd, Mahal Colony, Shivpuri, Madhya Pradesh 473638",
+    "area": "Mahal Colony",
+    "latitude": 25.422382199999998,
+    "longitude": 77.6556885,
+    "place_id": "ChIJkV7ILzS_cDkRq-tfdFWGzgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkV7ILzS_cDkRq-tfdFWGzgM",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:20:57"
+  }
+]

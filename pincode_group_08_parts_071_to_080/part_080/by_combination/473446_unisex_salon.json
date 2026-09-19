@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Bright Unisex Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "473446",
+    "phone_number": "+91 98998 96372",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no. 3, Building no. 13, Deep Market, Ashok Vihar Phase 1 Rd, Wazirpur Village, Ashok Vihar, New Delhi, Delhi, 110052",
+    "area": "Wazirpur Village, Ashok Vihar",
+    "latitude": 28.6935593,
+    "longitude": 77.17193429999999,
+    "place_id": "ChIJhwtBM4oDDTkRilaE6W3WRGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhwtBM4oDDTkRilaE6W3WRGo",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:19:56"
+  },
+  {
+    "business_name": "Shree Hari Enterprises",
+    "search_category": "Unisex Salon",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler",
+    "pincode": "473446",
+    "phone_number": "+91 94374 28167",
+    "website": "http://www.saloonbazaar.com/",
+    "rating": 4.5,
+    "reviews_count": 10,
+    "address": "sub plot--6, Plot no-3218/5505, Kedar Gouri Vihar, Gouri Nagar, Old Town, Bhubaneswar, Odisha 751002",
+    "area": "Kedar Gouri Vihar, Gouri Nagar, Old Town",
+    "latitude": 20.241338499999998,
+    "longitude": 85.839961,
+    "place_id": "ChIJkacc0B2nGToRw9DvPkHQehI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkacc0B2nGToRw9DvPkHQehI",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:19:58"
+  }
+]

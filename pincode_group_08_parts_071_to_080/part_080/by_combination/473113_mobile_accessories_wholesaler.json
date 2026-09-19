@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Mobile Accessories",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "473113",
+    "phone_number": "+91 84628 55530",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "55, Sugan Chauraha, Chodhran Colony, Guna, Madhya Pradesh 473001",
+    "area": "Sugan Chauraha, Chodhran Colony",
+    "latitude": 24.6492021,
+    "longitude": 77.3076079,
+    "place_id": "ChIJO4y4wNhdejkRge3RKspYs8c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO4y4wNhdejkRge3RKspYs8c",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:54:04"
+  },
+  {
+    "business_name": "Simran Mobile",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "473113",
+    "phone_number": "+91 97556 06646",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 11,
+    "address": "Jal Mandir Rd, Pragati Bazar, Bank Colony, Shivpuri, Madhya Pradesh 473638",
+    "area": "Pragati Bazar, Bank Colony",
+    "latitude": 25.4303368,
+    "longitude": 77.65761979999999,
+    "place_id": "ChIJYWjX7FO5cDkRBIPTsg4cwJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYWjX7FO5cDkRBIPTsg4cwJg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:54:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Ambey Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "472447",
+    "phone_number": "+91 510 247 2422",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 5,
+    "address": "346, Sadar Bazar, Jhansi, Uttar Pradesh 284001",
+    "area": "Sadar Bazar",
+    "latitude": 25.439382799999997,
+    "longitude": 78.58257239999999,
+    "place_id": "ChIJ86j5XDt3dzkR0XCP5PeL2Ms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ86j5XDt3dzkR0XCP5PeL2Ms",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:40:34"
+  },
+  {
+    "business_name": "Rajat Jewellery home",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "472447",
+    "phone_number": "+91 98979 02074",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Katera, Muzaffarnagar, Uttar Pradesh 284205",
+    "area": "472447",
+    "latitude": 25.2352979,
+    "longitude": 78.9146798,
+    "place_id": "ChIJ5d1t0BMneDkRIywKiIH77aI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5d1t0BMneDkRIywKiIH77aI",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:40:37"
+  }
+]

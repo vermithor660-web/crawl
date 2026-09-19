@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sidus Realty Pvt Ltd",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "473443",
+    "phone_number": "+91 82402 22529",
+    "website": "https://www.sidusrealty.com/",
+    "rating": 4.9,
+    "reviews_count": 78,
+    "address": "2nd Floor, Room 211, 64 A, Hemanta Basu Sarani, Kolkata, West Bengal 700001",
+    "area": "Lal Bazar",
+    "latitude": 22.572347399999998,
+    "longitude": 88.3509036,
+    "place_id": "ChIJk-zAWRx3AjoRy-6iafVWoHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk-zAWRx3AjoRy-6iafVWoHE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:15:11"
+  },
+  {
+    "business_name": "Navin's",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Real Estate Builders & Construction Company, Home builder, Property management company, Real estate developer",
+    "pincode": "473443",
+    "phone_number": "+91 88700 65065",
+    "website": "https://www.navins.in/",
+    "rating": 4.2,
+    "reviews_count": 210,
+    "address": "Ground Annex, Navin's Triumph, 802 & 804, Anna Salai, opposite to Cosmopolitan Golf, CIT Nagar West, Nandanam, Chennai, Tamil Nadu 600035",
+    "area": "CIT Nagar West, Nandanam",
+    "latitude": 13.0267473,
+    "longitude": 80.2327905,
+    "place_id": "ChIJPzryNG1nUjoR1FQwjNCjAIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPzryNG1nUjoR1FQwjNCjAIg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:15:11"
+  }
+]

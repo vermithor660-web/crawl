@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.R Oil Industries",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "473249",
+    "phone_number": "+91 96366 66067",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 36,
+    "address": "Ranjeet Nagar, Road, New Mandi, Bharatpur, Rajasthan 321001",
+    "area": "New Mandi",
+    "latitude": 27.2315476,
+    "longitude": 77.49049889999999,
+    "place_id": "ChIJwxjm0m2jczkRsbMq3Q8SCa0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwxjm0m2jczkRsbMq3Q8SCa0",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:01:27"
+  },
+  {
+    "business_name": "Raj Oil Trading",
+    "search_category": "Edible Oil Wholesaler",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "473249",
+    "phone_number": "+91 22 2612 3736",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Vanmali Chawl, 240, Nehru Rd, Navpada, Vile Parle East, Vile Parle, Mumbai, Maharashtra 400057",
+    "area": "Navpada, Vile Parle East, Vile Parle",
+    "latitude": 19.0984749,
+    "longitude": 72.84461739999999,
+    "place_id": "ChIJqV1DT7HJ5zsRN6exbaUPWdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqV1DT7HJ5zsRN6exbaUPWdA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:01:28"
+  }
+]

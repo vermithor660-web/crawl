@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Peehu Palace",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "473118",
+    "phone_number": "+91 94256 26561",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Head Gover Colony, Rasoolpura, Madhya Pradesh 465661",
+    "area": "473118",
+    "latitude": 24.0162428,
+    "longitude": 76.7567368,
+    "place_id": "ChIJUVh7YJk5ezkRuNo_9X3CYd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUVh7YJk5ezkRuNo_9X3CYd4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:57:15"
+  },
+  {
+    "business_name": "Hotel Karishma",
+    "search_category": "Hotel",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "473118",
+    "phone_number": "+91 72476 94651",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "76, Manohar Thana Rd, nearby Jai, Chachaura-Binaganj, Guna, Madhya Pradesh 473118",
+    "area": "473118",
+    "latitude": 24.1869573,
+    "longitude": 77.0163874,
+    "place_id": "ChIJ2aUbmZMFezkResFxdtJZV7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2aUbmZMFezkResFxdtJZV7Y",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:57:17"
+  }
+]

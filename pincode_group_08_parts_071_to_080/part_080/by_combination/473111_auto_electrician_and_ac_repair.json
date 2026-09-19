@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lakshya Auto Sales",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Electric motor vehicle dealer",
+    "all_categories": "Electric motor vehicle dealer",
+    "pincode": "473111",
+    "phone_number": "+91 93003 68861",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 8,
+    "address": "267, City Center, Tulsi Vihar Colony, Gwalior, Madhya Pradesh 474011",
+    "area": "City Center, Tulsi Vihar Colony",
+    "latitude": 26.2060122,
+    "longitude": 78.1947296,
+    "place_id": "ChIJ_du_QVjFdjkRnvzsAVIerqA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_du_QVjFdjkRnvzsAVIerqA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:49:55"
+  },
+  {
+    "business_name": "TATA.CARS Showroom - Prahlad Abhikaran, Bistan Road",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer, Auto Accessories Store, Electric motor vehicle dealer",
+    "pincode": "473111",
+    "phone_number": "+91 75060 11905",
+    "website": "https://dealer-locator.cars.tatamotors.com/tata-motors-cars-showroom-prahlad-abhikaran-bistan-road-car-dealer-bistan-road-khargone-91774/Map",
+    "rating": 4.6,
+    "reviews_count": 537,
+    "address": "Ground Floor, Bistan Rd, opposite Maharishi Vidya mandir, Khargone, Madhya Pradesh 451001",
+    "area": "473111",
+    "latitude": 21.7963798,
+    "longitude": 75.6159881,
+    "place_id": "ChIJzyzapyOF2DsRAdd61h40Cuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzyzapyOF2DsRAdd61h40Cuc",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:49:55"
+  }
+]

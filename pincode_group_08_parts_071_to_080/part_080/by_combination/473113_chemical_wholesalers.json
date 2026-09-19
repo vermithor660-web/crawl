@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahesh chemical industries",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Chemical wholesaler",
+    "all_categories": "Chemical wholesaler",
+    "pincode": "473113",
+    "phone_number": "+91 98270 13159",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bomari renguya infront of petrol pump, Madhya Pradesh 470001",
+    "area": "473113",
+    "latitude": 23.837931899999997,
+    "longitude": 78.7046829,
+    "place_id": "ChIJ7TmFpVPXeDkRuo7Iajb0kjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7TmFpVPXeDkRuo7Iajb0kjM",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:54:15"
+  },
+  {
+    "business_name": "suraj chemical",
+    "search_category": "Chemical Wholesalers",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "473113",
+    "phone_number": "+91 93401 98764",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Post Office Road Pratap Chhatras Ke Samne, Madhya Pradesh 473001",
+    "area": "Karnal Ganj",
+    "latitude": 24.650682999999997,
+    "longitude": 77.3150323,
+    "place_id": "ChIJeW-cOVBdejkRRLCLcdyOEr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeW-cOVBdejkRRLCLcdyOEr0",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:54:15"
+  }
+]

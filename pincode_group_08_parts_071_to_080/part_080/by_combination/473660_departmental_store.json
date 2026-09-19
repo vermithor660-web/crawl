@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SR Departmental Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Convenience store",
+    "all_categories": "Convenience store, School",
+    "pincode": "473660",
+    "phone_number": "+91 90742 61749",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "City centre, near Ideal Cambridge School, Karera, Madhya Pradesh 473660",
+    "area": "473660",
+    "latitude": 25.4541295,
+    "longitude": 78.13604839999999,
+    "place_id": "ChIJ5x8D5txFdzkRL2tFLVkTmig",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5x8D5txFdzkRL2tFLVkTmig",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:26:09"
+  },
+  {
+    "business_name": "Shivansh Enterprises",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "473660",
+    "phone_number": "+91 92448 43920",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Colony No 2, Naya Amola, Shivpuri - Jhansi Rd, near Ved Kirana And General Store, Shivpuri, Sirsod, Madhya Pradesh 473662",
+    "area": "473660",
+    "latitude": 25.4315055,
+    "longitude": 78.0767607,
+    "place_id": "ChIJOx0bOWJPdzkR26s_fQK1OEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOx0bOWJPdzkR26s_fQK1OEM",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:26:09"
+  }
+]

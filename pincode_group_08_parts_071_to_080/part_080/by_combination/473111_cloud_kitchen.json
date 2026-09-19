@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KABIRA'S KITCHEN",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Cafe",
+    "pincode": "473111",
+    "phone_number": "+91 63570 00262",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "A-10, 7, Kisan Samosa Ln, L B Avenue, Akshar Twp, Nadiad, Gujarat 387003",
+    "area": "L B Avenue, Akshar Township",
+    "latitude": 22.6843,
+    "longitude": 72.88069999999999,
+    "place_id": "ChIJ42rQEwBbXjkR2QSCPhJpp4E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ42rQEwBbXjkR2QSCPhJpp4E",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:49:28"
+  },
+  {
+    "business_name": "Second Kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Restaurant",
+    "pincode": "473111",
+    "phone_number": "+91 90091 19339",
+    "website": "https://secondkitchen.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Rooftop, Space Tower, Airport Rd, above Croma & Cine Square Cinema, Ganga Colony, Tirupati Nagar, Indore, Madhya Pradesh 452005",
+    "area": "Ganga Colony, Tirupati Nagar",
+    "latitude": 22.723031199999998,
+    "longitude": 75.8301295,
+    "place_id": "ChIJA5r3OHv9YjkRSYDM212tVH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA5r3OHv9YjkRSYDM212tVH0",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:49:28"
+  }
+]

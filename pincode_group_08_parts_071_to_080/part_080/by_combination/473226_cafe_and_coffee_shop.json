@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bittu Restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "473226",
+    "phone_number": "+91 83490 85417",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 22,
+    "address": "Sada Colony, Vijaipur, Madhya Pradesh 473226",
+    "area": "Sada Colony",
+    "latitude": 24.454880199999998,
+    "longitude": 77.16608599999999,
+    "place_id": "ChIJ-z7UU8n4ejkRecss-CG5-K8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-z7UU8n4ejkRecss-CG5-K8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:59:54"
+  },
+  {
+    "business_name": "Shivam Hotel",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "473226",
+    "phone_number": "+91 74896 81970",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Toll Plaza, Pagaara Toll Plaza Pagaara, Guna, Madhya Pradesh 473110",
+    "area": "473226",
+    "latitude": 24.5079899,
+    "longitude": 77.1861146,
+    "place_id": "ChIJnwkbOIL5ejkRC8kIluwziEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnwkbOIL5ejkRC8kIluwziEs",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:59:56"
+  }
+]

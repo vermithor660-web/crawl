@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Singhai Market",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "473443",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "C35W+HGV, Mungaoli, Madhya Pradesh 473443",
+    "area": "473443",
+    "latitude": 24.4089985,
+    "longitude": 78.0963014,
+    "place_id": "ChIJtQnKLRZ4eTkR0UdKuKTxerI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtQnKLRZ4eTkR0UdKuKTxerI",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:15:28"
+  },
+  {
+    "business_name": "Sabzi Fruit Mandi",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "473443",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 19,
+    "address": "CF7P+438, Lower Tank Bund, Kavadiguda, Hyderabad, Telangana 500080",
+    "area": "Lower Tank Bund, Kavadiguda",
+    "latitude": 17.4127828,
+    "longitude": 78.48521869999999,
+    "place_id": "ChIJq3m6TviZyzsR-sP7gzyPyJo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq3m6TviZyzsR-sP7gzyPyJo",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:15:30"
+  }
+]

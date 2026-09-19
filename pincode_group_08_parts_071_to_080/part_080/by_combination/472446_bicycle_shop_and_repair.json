@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bike Engineering and all services",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop, Service establishment",
+    "pincode": "472446",
+    "phone_number": "+91 93407 70413",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bike Engineering and all services, 472446, India",
+    "area": "472446",
+    "latitude": 21.8305679,
+    "longitude": 76.352415,
+    "place_id": "ChIJqRvbhCIZ2DsRVbI4zw7KAsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqRvbhCIZ2DsRVbI4zw7KAsQ",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:39:09"
+  },
+  {
+    "business_name": "Akshita cycle world",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "472446",
+    "phone_number": "+91 93512 12400",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 16,
+    "address": "in front of Axis Bank - Sri Madhopur, Shrimadhopur, Srimadhopur, Rajasthan 332715",
+    "area": "472446",
+    "latitude": 27.4618467,
+    "longitude": 75.5984017,
+    "place_id": "ChIJs80j8JznbDkR0XW6h-jBDB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs80j8JznbDkR0XW6h-jBDB4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:39:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navya electrical and mobile shop",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "473335",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HP9H+2G7, Mohari Rd, Purana Bazar, Ashoknagar, Madhya Pradesh 473331",
+    "area": "Purana Bazar",
+    "latitude": 24.5675343,
+    "longitude": 77.7287861,
+    "place_id": "ChIJnaGojI4xejkRrsoatKVNpUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnaGojI4xejkRrsoatKVNpUQ",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:10:57"
+  },
+  {
+    "business_name": "Shri ram electricals श्री राम इलेक्ट्रिकल्स",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Farm",
+    "all_categories": "Farm",
+    "pincode": "473335",
+    "phone_number": "+91 88899 93000",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Yadav Colony, Ashoknagar, Madhya Pradesh 473331",
+    "area": "Yadav Colony",
+    "latitude": 24.583928999999998,
+    "longitude": 77.732621,
+    "place_id": "ChIJVXS-LAAxejkRoYa45GUC4J4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVXS-LAAxejkRoYa45GUC4J4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:10:58"
+  }
+]

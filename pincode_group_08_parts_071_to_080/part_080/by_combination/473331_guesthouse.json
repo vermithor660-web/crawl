@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Government Rest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Indoor lodging",
+    "all_categories": "Indoor lodging",
+    "pincode": "473331",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "HPGJ+93J, Station Rd, Subhash Gunj, Ashoknagar, Madhya Pradesh 473331",
+    "area": "Subhash Gunj",
+    "latitude": 24.5759512,
+    "longitude": 77.7301262,
+    "place_id": "ChIJkx3PuREwejkRHVqpJ4rYIJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkx3PuREwejkRHVqpJ4rYIJc",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:07:44"
+  },
+  {
+    "business_name": "PWD guest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, District government office",
+    "pincode": "473331",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Near old bus stand, Chanderi, Madhya Pradesh 473446",
+    "area": "473331",
+    "latitude": 24.7244295,
+    "longitude": 78.1382975,
+    "place_id": "ChIJ56XrAyiReTkRE4V69Oole-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ56XrAyiReTkRE4V69Oole-I",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:07:47"
+  }
+]

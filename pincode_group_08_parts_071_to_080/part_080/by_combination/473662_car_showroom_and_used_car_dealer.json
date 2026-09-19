@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gupta car bazar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "473662",
+    "phone_number": "+91 81093 04544",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 64,
+    "address": "5542+HXV, Gwalior, Madhya Pradesh 474001",
+    "area": "473662",
+    "latitude": 26.156487499999997,
+    "longitude": 78.1524219,
+    "place_id": "ChIJg82HNADFdjkRQo6GdNqQaDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg82HNADFdjkRQo6GdNqQaDw",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:28:26"
+  },
+  {
+    "business_name": "Anant Toyota showroom",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "473662",
+    "phone_number": "+91 70499 21519",
+    "website": "https://www.ananttoyota.com/contact-ys01a.html",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "9JWW+96R, 27, National Highway, Shivpuri, Madhya Pradesh 473638",
+    "area": "473662",
+    "latitude": 25.395926199999998,
+    "longitude": 77.64571509999999,
+    "place_id": "ChIJOXW1XZ29cDkR1sV4v-QVRYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOXW1XZ29cDkR1sV4v-QVRYA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:28:28"
+  }
+]

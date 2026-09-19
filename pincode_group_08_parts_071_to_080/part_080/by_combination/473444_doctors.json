@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Swati Chauhan Clinic",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor, Medical clinic, General practitioner, Hospital",
+    "pincode": "473444",
+    "phone_number": "+91 98115 75803",
+    "website": "http://www.book-appointment.healthplix.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "No -7 House No- B, Gate, 77, near Water Tank, Sector 53, Noida, Uttar Pradesh 201301",
+    "area": "Sector 53",
+    "latitude": 28.5912193,
+    "longitude": 77.3671289,
+    "place_id": "ChIJJSs8UJ3lDDkRKfmoc05rWK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJSs8UJ3lDDkRKfmoc05rWK0",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:15:57"
+  },
+  {
+    "business_name": "महाराज सिंह का मकान",
+    "search_category": "Doctors",
+    "primary_category": "Family practice physician",
+    "all_categories": "Family practice physician",
+    "pincode": "473444",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G52R+FRC, Dongargaon, Dongra, Madhya Pradesh 473444",
+    "area": "473444",
+    "latitude": 24.5011869,
+    "longitude": 78.19201869999999,
+    "place_id": "ChIJ2y97EgCdeTkRZ99StEJ156M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2y97EgCdeTkRZ99StEJ156M",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:15:57"
+  }
+]

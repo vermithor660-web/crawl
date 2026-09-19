@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Geeta Machinery Stores",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Agricultural Seed Store",
+    "all_categories": "Agricultural Seed Store, Store",
+    "pincode": "473113",
+    "phone_number": "+91 90393 97718",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "infront of sbi bank, chouraha, Miana, Madhya Pradesh 473113",
+    "area": "chouraha",
+    "latitude": 24.8575998,
+    "longitude": 77.4648472,
+    "place_id": "ChIJiaCbkHpvejkR4ncrp0Qj9mw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiaCbkHpvejkR4ncrp0Qj9mw",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:54:18"
+  },
+  {
+    "business_name": "Maha Shakti Welding Workshop",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Agricultural machinery manufacturer",
+    "all_categories": "Agricultural machinery manufacturer",
+    "pincode": "473113",
+    "phone_number": "+91 89598 07280",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Umri Road, Nana Khedi, Guna, Sakatpur, Madhya Pradesh 473001",
+    "area": "Nana Khedi",
+    "latitude": 24.6672986,
+    "longitude": 77.3244644,
+    "place_id": "ChIJ-RL0zkldejkRtM-n3OsuMds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-RL0zkldejkRtM-n3OsuMds",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:54:18"
+  }
+]

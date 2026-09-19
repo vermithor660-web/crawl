@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cat Towing and transportation",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "473444",
+    "phone_number": "N/A",
+    "website": "https://www.cat-towing.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Cat Towing and transportation, 473444, India",
+    "area": "473444",
+    "latitude": 41.703293599999995,
+    "longitude": -87.9357745,
+    "place_id": "ChIJxxiHAHCjD4gRDZwc5Y00Bf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxxiHAHCjD4gRDZwc5Y00Bf4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:16:12"
+  },
+  {
+    "business_name": "Rahul Towing Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service",
+    "pincode": "473444",
+    "phone_number": "+91 84838 70104",
+    "website": "https://id.vyaparify.com/rahul-towing-services",
+    "rating": 4.9,
+    "reviews_count": 51,
+    "address": "Lane No.1, Samrat Ashok Rd, Mahindra Society, Kalyani Nagar, Pune, Maharashtra 411006",
+    "area": "Mahindra Society, Kalyani Nagar",
+    "latitude": 18.5516474,
+    "longitude": 73.89533949999999,
+    "place_id": "ChIJKVoXDajBwjsRv15mdTLyyLE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKVoXDajBwjsRv15mdTLyyLE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:16:14"
+  }
+]

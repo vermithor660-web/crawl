@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srs Digital",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "473670",
+    "phone_number": "+91 93011 70455",
+    "website": "http://www.nic.in/",
+    "rating": 3.5,
+    "reviews_count": 4,
+    "address": "55JR+96J, Pichhore, Madhya Pradesh 473995",
+    "area": "473670",
+    "latitude": 25.1809533,
+    "longitude": 78.1905173,
+    "place_id": "ChIJCdtGWA_ieTkRVvYw9WvSHxM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCdtGWA_ieTkRVvYw9WvSHxM",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:32:02"
+  },
+  {
+    "business_name": "Vijay Electronics",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "473670",
+    "phone_number": "+91 70498 77210",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "Khaniyadhana Market Rd, Khaniyadhana, Madhya Pradesh 473990",
+    "area": "473670",
+    "latitude": 25.0272157,
+    "longitude": 78.1286657,
+    "place_id": "ChIJ8Tyrd7PleTkRptHv7CKlq-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Tyrd7PleTkRptHv7CKlq-Y",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:32:02"
+  }
+]

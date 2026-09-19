@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hari Om Cycle Mart",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "473332",
+    "phone_number": "+91 98984 18344",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 12,
+    "address": "Shop No-8, Samta Rd, Laxmipura, Subhanpura, Vadodara, Gujarat 390023",
+    "area": "Laxmipura, Subhanpura",
+    "latitude": 22.3262683,
+    "longitude": 73.1481859,
+    "place_id": "ChIJN5_eUuzIXzkRhf6K-OnOuQY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN5_eUuzIXzkRhf6K-OnOuQY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:09:07"
+  },
+  {
+    "business_name": "Vijay Cycle Repair",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "473332",
+    "phone_number": "+91 99982 06242",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "74XR+437, Vasna - Bhayli Main Rd, Ashwamegh Nagar, Saiyed Vasna, Vadodara, Gujarat 390007",
+    "area": "Ashwamegh Nagar, Saiyed Vasna",
+    "latitude": 22.2977942,
+    "longitude": 73.140186,
+    "place_id": "ChIJ4WHbVbPJXzkRnSBKGJVmWM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4WHbVbPJXzkRnSBKGJVmWM0",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:09:10"
+  }
+]

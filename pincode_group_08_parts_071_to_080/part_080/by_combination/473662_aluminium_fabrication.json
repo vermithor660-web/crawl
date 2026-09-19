@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shine WinDoors",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Door manufacturer",
+    "all_categories": "Door manufacturer, Window installation service",
+    "pincode": "473662",
+    "phone_number": "+91 77038 74757",
+    "website": "https://www.shinewindoors.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Gate No. 2, Rice Mill Compound, Khasra no. 904, Rithala, Delhi, 110085",
+    "area": "Rithala Extension, Rithala, Rohini",
+    "latitude": 28.7191822,
+    "longitude": 77.1007082,
+    "place_id": "ChIJAU1ZrysHDTkRkQUX3EqaEdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAU1ZrysHDTkRkQUX3EqaEdI",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:29:20"
+  },
+  {
+    "business_name": "Bharat Aluminium Fabricator",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Metal fabricator",
+    "all_categories": "Metal fabricator",
+    "pincode": "473662",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5QGC+4MM, Haripatak Railway Over Brg, Kot Mohalla, Bagambag Colony, Ujjain, Madhya Pradesh 456006",
+    "area": "Kot Mohalla, Bagambag Colony",
+    "latitude": 23.1753358,
+    "longitude": 75.7716746,
+    "place_id": "ChIJsd0yV090YzkR3gWAejDXLpI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsd0yV090YzkR3gWAejDXLpI",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:29:21"
+  }
+]

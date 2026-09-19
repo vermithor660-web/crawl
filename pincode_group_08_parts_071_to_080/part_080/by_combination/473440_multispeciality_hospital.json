@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madhava Multi Speciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "473440",
+    "phone_number": "+91 40 2770 0955",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 77,
+    "address": "Plot No. 43, Sarojini Devi Rd, near Sangeet Theatre, Regimental Bazaar, Shivaji Nagar, Secunderabad, Telangana 500003",
+    "area": "Regimental Bazaar, Shivaji Nagar",
+    "latitude": 17.440960399999998,
+    "longitude": 78.5020785,
+    "place_id": "ChIJb7oPXxCayzsRi4XnL-niCuY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb7oPXxCayzsRi4XnL-niCuY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:12:25"
+  },
+  {
+    "business_name": "Manipal Hospital Ghaziabad",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital",
+    "pincode": "473440",
+    "phone_number": "+91 120 353 5353",
+    "website": "https://www.manipalhospitals.com/ghaziabad/",
+    "rating": 4.7,
+    "reviews_count": 12456,
+    "address": "NH-24, Hapur Rd, near Landcraft Golflinks, Pandav Nagar, Ghaziabad, Uttar Pradesh 201002",
+    "area": "Pandav Nagar",
+    "latitude": 28.655143,
+    "longitude": 77.4724488,
+    "place_id": "ChIJnQQY5ALyDDkRVvUacQdObkk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnQQY5ALyDDkRVvUacQdObkk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:12:25"
+  }
+]

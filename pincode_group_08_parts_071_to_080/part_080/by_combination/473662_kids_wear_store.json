@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sourabh Collection",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Men's clothing store, Women's clothing store",
+    "pincode": "473662",
+    "phone_number": "+91 99777 80888",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Narsingh Mandir ke Samne, Sadar Bazar, Shivpuri, Madhya Pradesh 473638",
+    "area": "Sadar Bazar",
+    "latitude": 25.427532799999998,
+    "longitude": 77.6457245,
+    "place_id": "ChIJhfiyqVW5cDkRHKp36nKKE-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhfiyqVW5cDkRHKp36nKKE-I",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:28:09"
+  },
+  {
+    "business_name": "Krlshan Kant Gupta",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "473662",
+    "phone_number": "+91 91799 20125",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "New Basti, Pichhore - Shivpuri Rd, Bhonti, Madhya Pradesh 473670",
+    "area": "473662",
+    "latitude": 25.321909899999998,
+    "longitude": 78.0992428,
+    "place_id": "ChIJ1w6dYU5RdzkRe0pcQdl9duM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1w6dYU5RdzkRe0pcQdl9duM",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:28:09"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pari clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "473222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Infront krishna garden, Khatkiya, Kumbhraj, Madhya Pradesh 473222",
+    "area": "Khatkiya",
+    "latitude": 24.3732693,
+    "longitude": 77.05500719999999,
+    "place_id": "ChIJfdvBSgD9ejkRwHWPhCoZV5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfdvBSgD9ejkRwHWPhCoZV5E",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:58:23"
+  },
+  {
+    "business_name": "Ayurved Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "473222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "C44Q+V39, Awan, Madhya Pradesh 473226",
+    "area": "473222",
+    "latitude": 24.4071742,
+    "longitude": 77.1377227,
+    "place_id": "ChIJy5tWLlH_ejkR2Cv6ZUi-MsY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy5tWLlH_ejkR2Cv6ZUi-MsY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:58:26"
+  }
+]

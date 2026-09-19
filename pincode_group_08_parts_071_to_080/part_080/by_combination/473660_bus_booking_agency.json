@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ankur Computers & Online Service Centre",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Airline ticket agency, Business banking service, Computer support and services, Insurance agency, Money transfer service, Passport Agent, Photographer, Railway Ticket Agent, Internet cafe",
+    "pincode": "473660",
+    "phone_number": "+91 99773 15293",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "ward no 9 behind Block office Near Sita Central School new Colony Karera, Karera, Madhya Pradesh 473660",
+    "area": "473660",
+    "latitude": 25.4560148,
+    "longitude": 78.13255099999999,
+    "place_id": "ChIJK69XQedFdzkRbatGO1r_PpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK69XQedFdzkRbatGO1r_PpE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:26:48"
+  },
+  {
+    "business_name": "Shivam Ads Services Agency",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Service establishment",
+    "pincode": "473660",
+    "phone_number": "N/A",
+    "website": "https://shivamads.systeme.io/fdd1e95d",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shivam Ads Services Agency, 473660, India",
+    "area": "473660",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJTxzuzDcVYqYRmZJ1gK4ilDs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTxzuzDcVYqYRmZJ1gK4ilDs",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:26:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Minutes Agency",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Advertising agency, Service establishment, Video production service",
+    "pincode": "472446",
+    "phone_number": "N/A",
+    "website": "http://www.minutes.agency/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Minutes Agency, 472446, India",
+    "area": "472446",
+    "latitude": 53.5064506,
+    "longitude": -2.3200198,
+    "place_id": "ChIJOfk6OKtdvAQRQcYMHn1Kkho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOfk6OKtdvAQRQcYMHn1Kkho",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:40:13"
+  },
+  {
+    "business_name": "businessapp",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "472446",
+    "phone_number": "+91 98994 26411",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "businessapp, 472446, India",
+    "area": "472446",
+    "latitude": 9.374110199999999,
+    "longitude": -74.9524576,
+    "place_id": "ChIJPer_XbrvDDkRvbuxV0BWtmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPer_XbrvDDkRvbuxV0BWtmw",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:40:14"
+  }
+]

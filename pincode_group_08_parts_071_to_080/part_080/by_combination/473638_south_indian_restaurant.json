@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mutuswami Cafe Pune",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant",
+    "pincode": "473638",
+    "phone_number": "+91 83088 17605",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Ramee Grand Hotel and Spa 3, Plot no 587, Apte Rd, Shivajinagar, Pune, Maharashtra 411004",
+    "area": "Shivajinagar",
+    "latitude": 18.5204012,
+    "longitude": 73.843553,
+    "place_id": "ChIJF70PXafBwjsRSWWc_DHTV6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF70PXafBwjsRSWWc_DHTV6A",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:24:31"
+  },
+  {
+    "business_name": "Tamil Nadu South Indian Dosa",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "473638",
+    "phone_number": "+91 94885 67560",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "near Mata Mandir, Chiriya Tola, Line Par, Moradabad, Uttar Pradesh 244001",
+    "area": "Chiriya Tola, Line Par",
+    "latitude": 28.8334539,
+    "longitude": 78.7547577,
+    "place_id": "ChIJLXCWmfP7CjkRAAAAMH1_4Uo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLXCWmfP7CjkRAAAAMH1_4Uo",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:24:32"
+  }
+]

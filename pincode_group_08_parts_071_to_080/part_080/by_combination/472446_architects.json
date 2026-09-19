@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jankinarayan Architect",
+    "search_category": "Architects",
+    "primary_category": "Architect",
+    "all_categories": "Architect, Building consultant, Interior designer, Landscape architect, Vastu consultant",
+    "pincode": "472446",
+    "phone_number": "+91 85178 64022",
+    "website": "http://www.jnarchitect.in/",
+    "rating": 4.8,
+    "reviews_count": 45,
+    "address": "MIG16B SECTOR 2B, DRM Rd, Saket Nagar, Habib Ganj, Bhopal, Madhya Pradesh 462024",
+    "area": "Saket Nagar, Habib Ganj",
+    "latitude": 23.2164285,
+    "longitude": 77.4608829,
+    "place_id": "ChIJeTDGa4hDfDkRfmBiqs904eg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeTDGa4hDfDkRfmBiqs904eg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:39:20"
+  },
+  {
+    "business_name": "YV Architects(Formerly Vishwannath Associates)",
+    "search_category": "Architects",
+    "primary_category": "Architectural designer",
+    "all_categories": "Architectural designer",
+    "pincode": "472446",
+    "phone_number": "+91 80 2228 4277",
+    "website": "http://www.yvarchitects.com/",
+    "rating": 4.3,
+    "reviews_count": 85,
+    "address": "31, 2nd Cross, off Palace Road, 8th Main, Vasanth Nagar, Bengaluru, Karnataka 560001",
+    "area": "8th Main, Vasanth Nagar",
+    "latitude": 12.994048,
+    "longitude": 77.5904576,
+    "place_id": "ChIJoyqmuEMWrjsRk8o4WDF5QSE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoyqmuEMWrjsRk8o4WDF5QSE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:39:21"
+  }
+]

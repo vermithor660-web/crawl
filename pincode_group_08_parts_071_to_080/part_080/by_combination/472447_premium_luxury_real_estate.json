@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "25 South",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building, Condominium complex",
+    "pincode": "472447",
+    "phone_number": "N/A",
+    "website": "https://25residences.com/location/25-south/",
+    "rating": 4.5,
+    "reviews_count": 145,
+    "address": "Hindustan Mills, compound, Yadav Patil Ln, off Swatantryaveer Savarkar Road, Dadar, Mumbai, Maharashtra 400025",
+    "area": "Dadar",
+    "latitude": 19.018593499999998,
+    "longitude": 72.8292421,
+    "place_id": "ChIJq6qq6sDO5zsRqqOk-hcBLC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq6sDO5zsRqqOk-hcBLC4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:41:46"
+  },
+  {
+    "business_name": "Prestige Daffodils",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Condominium complex",
+    "all_categories": "Condominium complex",
+    "pincode": "472447",
+    "phone_number": "+91 81473 75811",
+    "website": "https://www.prestigeconstructions.com/",
+    "rating": 4.6,
+    "reviews_count": 38,
+    "address": "99-27, Nargis Dutt Rd, Pali Hill, Bandra West, Mumbai, Maharashtra 400050",
+    "area": "Pali Hill, Bandra West",
+    "latitude": 19.0673003,
+    "longitude": 72.8284777,
+    "place_id": "ChIJNREmNW3J5zsRfSqlphrRKl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNREmNW3J5zsRfSqlphrRKl8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:41:46"
+  }
+]

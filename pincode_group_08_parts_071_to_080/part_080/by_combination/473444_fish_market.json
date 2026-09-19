@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sholinganallur Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market, Market",
+    "pincode": "473444",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "V6VH+24M, Rajiv Gandhi Salai, Sholinganallur, Chennai, Tamil Nadu 600119",
+    "area": "Sholinganallur",
+    "latitude": 12.8925983,
+    "longitude": 80.22779659999999,
+    "place_id": "ChIJ0SOeWIFbUjoRBA5VXRudV5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0SOeWIFbUjoRBA5VXRudV5M",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:15:34"
+  },
+  {
+    "business_name": "Meenu- Fresh fish market",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "473444",
+    "phone_number": "+91 90191 25901",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "80ft Road, 2nd Block, Maruthi Nagar, Chandra Layout, Nagarbhavi, Bengaluru, Karnataka 560072",
+    "area": "2nd Block, Maruthi Nagar, Chandra Layout, Nagarbhavi",
+    "latitude": 12.959358,
+    "longitude": 77.5222521,
+    "place_id": "ChIJsRmXd8k_rjsRttRmN0htUfs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsRmXd8k_rjsRttRmN0htUfs",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:15:34"
+  }
+]

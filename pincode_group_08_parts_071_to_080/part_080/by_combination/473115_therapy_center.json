@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr Lalit Bhilala (physiotherapist)",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "473115",
+    "phone_number": "+91 82695 01049",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Khandi, Suthaliya, Madhya Pradesh 465677",
+    "area": "Khandi",
+    "latitude": 23.9913614,
+    "longitude": 77.118723,
+    "place_id": "ChIJrzTjIX8LezkR-VyeMuWdyBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrzTjIX8LezkR-VyeMuWdyBs",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:55:29"
+  },
+  {
+    "business_name": "Shri Ram Dawakhana",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapist",
+    "all_categories": "Physiotherapist",
+    "pincode": "473115",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 4,
+    "address": "2W7W+PQG, Agra - Mumbai Rd, Palabey, Madhya Pradesh 465674",
+    "area": "473115",
+    "latitude": 24.014312699999998,
+    "longitude": 76.9469429,
+    "place_id": "ChIJ7wwE9sMTezkR9ksXYQyMKiU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7wwE9sMTezkR9ksXYQyMKiU",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:55:31"
+  }
+]

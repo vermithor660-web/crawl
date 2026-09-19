@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vandana event planner and tent decoration",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "473115",
+    "phone_number": "+91 99815 46030",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "gayatri mandir k pass, chachouda, Chachaura-Binaganj, Madhya Pradesh 473118",
+    "area": "473115",
+    "latitude": 24.178179,
+    "longitude": 77.0038702,
+    "place_id": "ChIJb6MMLjYbezkRG3MaQghkgV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb6MMLjYbezkRG3MaQghkgV0",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:55:37"
+  },
+  {
+    "business_name": "Eventa Solutions",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "473115",
+    "phone_number": "+91 84473 00532",
+    "website": "https://eventasolutions.com/",
+    "rating": 4.6,
+    "reviews_count": 48,
+    "address": "2nd Floor, Property No. J-4, A-24/9, Mathura Rd, Mohan Cooperative Industrial Estate, Sarita Vihar, New Delhi, Delhi 110044",
+    "area": "Mohan Cooperative Industrial Estate, Sarita Vihar",
+    "latitude": 28.5260355,
+    "longitude": 77.28972689999999,
+    "place_id": "ChIJCweR65jjDDkRMYo2goJ6Nqo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCweR65jjDDkRMYo2goJ6Nqo",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:55:39"
+  }
+]

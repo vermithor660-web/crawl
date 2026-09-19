@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Shyam Battery",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service, Car battery store",
+    "pincode": "472445",
+    "phone_number": "+91 94141 86471",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Rod, Chomu, Chandwaji, Rajasthan 303104",
+    "area": "472445",
+    "latitude": 27.221576799999998,
+    "longitude": 75.9443336,
+    "place_id": "ChIJSUPBeAAJbTkRpMte2WUbGf8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSUPBeAAJbTkRpMte2WUbGf8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:37:23"
+  },
+  {
+    "business_name": "BHARAT BATTERY SERVICE",
+    "search_category": "Car and Bike Battery Dealer",
+    "primary_category": "Car and Bike Battery Dealer",
+    "all_categories": "Car and Bike Battery Dealer",
+    "pincode": "472445",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Pachore, Madhya Pradesh 465683",
+    "area": "472445",
+    "latitude": 23.721342099999998,
+    "longitude": 76.7381061,
+    "place_id": "ChIJo16QaoNcezkRYOvHyGJsQRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo16QaoNcezkRYOvHyGJsQRM",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:37:23"
+  }
+]

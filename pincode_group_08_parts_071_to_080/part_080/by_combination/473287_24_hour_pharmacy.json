@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amazing Medicine",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "473287",
+    "phone_number": "N/A",
+    "website": "https://amazing-medicine.ueniweb.com/?utm_campaign=gmb",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhopal, Road, Sagar, Madhya Pradesh 473287",
+    "area": "473287",
+    "latitude": 23.9701095,
+    "longitude": 77.2534656,
+    "place_id": "ChIJ1cSRC3OfezkRTBJx9ggClII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1cSRC3OfezkRTBJx9ggClII",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:03:32"
+  },
+  {
+    "business_name": "SONAL CHEMISTS & DRUGIST",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "473287",
+    "phone_number": "+91 75685 88788",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 10,
+    "address": "Goverdhan Villas, Sector 14, Hiran Magri, Udaipur, Gordhan Vilas Rural, Rajasthan 313001",
+    "area": "Goverdhan Villas, Sector 14, Hiran Magri",
+    "latitude": 24.5408656,
+    "longitude": 73.69190689999999,
+    "place_id": "ChIJmzF9VCbvZzkRmqjQ4VwmpvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmzF9VCbvZzkRmqjQ4VwmpvU",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:03:32"
+  }
+]

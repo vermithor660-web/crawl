@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAG HANDICRAFTS",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Handicraft",
+    "all_categories": "Handicraft",
+    "pincode": "473222",
+    "phone_number": "+91 94265 92061",
+    "website": "http://www.raghandicrafts.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mohan Cinema, 2889,BHUPATSINH NI CHALI, B/H. JAIN TEMPLE OPP. UTTAR GUJRAT PATEL SOCIETY - 2, BADIYA LIMBADI, Char Rasta, Jhangirpura, Asarwa, Ahmedabad, Gujarat 380016",
+    "area": "Jhangirpura, Asarwa",
+    "latitude": 23.047205899999998,
+    "longitude": 72.6025729,
+    "place_id": "ChIJsRR77BiEXjkRW0Pay2KF0fg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsRR77BiEXjkRW0Pay2KF0fg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:59:02"
+  },
+  {
+    "business_name": "Toran Vatika",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Wedding venue",
+    "all_categories": "Wedding venue",
+    "pincode": "473222",
+    "phone_number": "+91 98270 67788",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Near Chetak Puri Gate, Maharana Pratap Nagar, Lashkar, Gwalior, Madhya Pradesh 474009",
+    "area": "Maharana Pratap Nagar, Lashkar",
+    "latitude": 26.1997917,
+    "longitude": 78.1699632,
+    "place_id": "ChIJ6emTKDvEdjkRnr3nWU0HpGM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6emTKDvEdjkRnr3nWU0HpGM",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:59:02"
+  }
+]

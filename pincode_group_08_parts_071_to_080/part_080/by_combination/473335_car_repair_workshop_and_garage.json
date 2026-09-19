@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GoMechanic - Car Care Workshop, Ashok Nagar",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "473335",
+    "phone_number": "+91 83989 70970",
+    "website": "https://srd1.onelink.me/7EYj/GMB",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "1, 81st St, Sector 10, Sector 13, Ashok Nagar, Chennai, Tamil Nadu 600083",
+    "area": "Sector 10, Sector 13, Ashok Nagar",
+    "latitude": 13.0389967,
+    "longitude": 80.2105483,
+    "place_id": "ChIJd23G7ihnUjoRQZxANuu7bOc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd23G7ihnUjoRQZxANuu7bOc",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:10:50"
+  },
+  {
+    "business_name": "Mobil India - Mobil Car care, AUTO SHOP",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Oil change service",
+    "all_categories": "Oil change service",
+    "pincode": "473335",
+    "phone_number": "+91 88899 96666",
+    "website": "https://www.mobil.co.in/en-in",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Guna - Ashoknagar Rd, Durga Colony, Ashoknagar, Pachhari, Madhya Pradesh 473331",
+    "area": "Durga Colony",
+    "latitude": 24.5865376,
+    "longitude": 77.7206791,
+    "place_id": "ChIJU7OqKi0xejkRCFoeF3sf9pk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU7OqKi0xejkRCFoeF3sf9pk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:10:50"
+  }
+]

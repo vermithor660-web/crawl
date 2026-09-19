@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinay Ganral Store",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics wholesaler",
+    "all_categories": "Cosmetics wholesaler",
+    "pincode": "473335",
+    "phone_number": "+91 97547 50964",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "RVVH+553, Main Rd, Baheriya Alias Roopna, Madhya Pradesh 473335",
+    "area": "473335",
+    "latitude": 24.842893099999998,
+    "longitude": 77.8779249,
+    "place_id": "ChIJIZOrbfkeejkR7QEbX8RNkbE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIZOrbfkeejkR7QEbX8RNkbE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:11:09"
+  },
+  {
+    "business_name": "Beauty Mart",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store, Beauty Products Wholesaler",
+    "pincode": "473335",
+    "phone_number": "+91 88789 09990",
+    "website": "https://beautymartindia.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop No. G - 9, Veda Building, Square, near Apple Hospital, Bhanwar Kuwa, Indore, Madhya Pradesh 452001",
+    "area": "Bhanwar Kuwa",
+    "latitude": 22.6933211,
+    "longitude": 75.8669341,
+    "place_id": "ChIJPeZd6-T8YjkRjANJJDWIN68",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPeZd6-T8YjkRjANJJDWIN68",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:11:11"
+  }
+]

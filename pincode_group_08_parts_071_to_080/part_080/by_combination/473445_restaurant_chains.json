@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bistro Cameo",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "473445",
+    "phone_number": "+91 74113 99943",
+    "website": "https://dineo.in/book/cameo-bistro",
+    "rating": 4.7,
+    "reviews_count": 64,
+    "address": "5th Floor, 22, Kasturba Rd, Shanthala Nagar, Ashok Nagar, Bengaluru, Karnataka 560001",
+    "area": "Shanthala Nagar, Ashok Nagar",
+    "latitude": 12.9744003,
+    "longitude": 77.596875,
+    "place_id": "ChIJr2nwdJQXrjsReWXnI2_koUA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr2nwdJQXrjsReWXnI2_koUA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:17:29"
+  },
+  {
+    "business_name": "Baa Bistro",
+    "search_category": "Restaurant Chains",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "473445",
+    "phone_number": "+91 99112 14567",
+    "website": "https://www.zomato.com/ncr/baa-bistro-mayur-vihar-new-delhi",
+    "rating": 3.9,
+    "reviews_count": 443,
+    "address": "DDA Market, adjacent to Nagarjuna Apartments, Chilla, Mayur Kunj, Mayur Vihar, Delhi, 110096",
+    "area": "Chilla, Mayur Kunj, Mayur Vihar",
+    "latitude": 28.5851161,
+    "longitude": 77.3022258,
+    "place_id": "ChIJV3qjGdblDDkRt8KKPLd_69s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV3qjGdblDDkRt8KKPLd_69s",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:17:30"
+  }
+]

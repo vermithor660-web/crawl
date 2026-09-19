@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishwakarma hospital and poly clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "472447",
+    "phone_number": "+91 83038 29695",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "masir pur Palhna rode Lalganj, Uttar Pradesh 276202",
+    "area": "472447",
+    "latitude": 25.815479399999997,
+    "longitude": 83.0026342,
+    "place_id": "ChIJmc96hTzJkTkRHDU6nsWpQBE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmc96hTzJkTkRHDU6nsWpQBE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:40:46"
+  },
+  {
+    "business_name": "Jai Maa Sarveshwari Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "472447",
+    "phone_number": "+91 94500 27728",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Rani Ki Sarai, Uttar Pradesh 276207",
+    "area": "472447",
+    "latitude": 26.0032596,
+    "longitude": 83.1122407,
+    "place_id": "ChIJIzOJkia7kTkRdub9Qkcfmew",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIzOJkia7kTkRdub9Qkcfmew",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:40:47"
+  }
+]

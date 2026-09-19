@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree B R Homeopathic clinic",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "473249",
+    "phone_number": "+91 98873 03693",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Railway station rood, Palsana, Rajasthan 332402",
+    "area": "473249",
+    "latitude": 27.4836496,
+    "longitude": 75.378478,
+    "place_id": "ChIJjSlskSjrbDkRu3oFwlugyXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjSlskSjrbDkRu3oFwlugyXo",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:01:50"
+  },
+  {
+    "business_name": "Dr.Antim Somani Homoeopathy",
+    "search_category": "Homeopathic Clinic",
+    "primary_category": "Homeopath",
+    "all_categories": "Homeopath",
+    "pincode": "473249",
+    "phone_number": "+91 257 223 3306",
+    "website": "https://drsomanihomoeopathy.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "JMP Market, Chitra Chowk, Polan Peth, Shahunagar, Jalgaon, Maharashtra 425001",
+    "area": "Polan Peth, Shahunagar",
+    "latitude": 21.0129809,
+    "longitude": 75.56774949999999,
+    "place_id": "ChIJZTZ5GqQP2TsRHTu6uvEL4KA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZTZ5GqQP2TsRHTu6uvEL4KA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:01:50"
+  }
+]

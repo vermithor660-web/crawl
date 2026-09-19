@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Style Villa",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Handbags shop, Shoe store",
+    "pincode": "473249",
+    "phone_number": "+91 99911 11861",
+    "website": "https://www.instagram.com/stylevillaofficial",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "4F/11,MITC Colony, Next to Padma City Mall, Kaithal, Haryana 136027",
+    "area": "Rishi Nagar",
+    "latitude": 29.800749999999997,
+    "longitude": 76.41530809999999,
+    "place_id": "ChIJ47v-zmDgETkRDV8MrqIZYvU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ47v-zmDgETkRDV8MrqIZYvU",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:01:48"
+  },
+  {
+    "business_name": "Laxmi collaction cloths shope",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "473249",
+    "phone_number": "+91 90098 11525",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "Bajrangarh, Madhya Pradesh 473249",
+    "area": "473249",
+    "latitude": 24.5823255,
+    "longitude": 77.28705169999999,
+    "place_id": "ChIJG-Ga5UBbejkR63RXEKWqo4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG-Ga5UBbejkR63RXEKWqo4M",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:01:50"
+  }
+]

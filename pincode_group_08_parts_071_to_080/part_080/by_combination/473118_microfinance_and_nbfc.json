@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fusion Microfinance Pvt Ltd",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution",
+    "pincode": "473118",
+    "phone_number": "+91 11 4664 6600",
+    "website": "https://fusionmicrofinance.com/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Fusion Microfinance Pvt Lt ,H.N-5/6 First floor Shriram Vatika Shastripuram, near by Pachimpuri Police chowki, Shastripuram, Agra, Uttar Pradesh 282007",
+    "area": "Mohammadpur, Shastripuram",
+    "latitude": 27.2039118,
+    "longitude": 77.925299,
+    "place_id": "ChIJ02D6w4GJczkRMJaupwyXBl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02D6w4GJczkRMJaupwyXBl4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:57:33"
+  },
+  {
+    "business_name": "Asmitha Microfin Limited",
+    "search_category": "Microfinance and NBFC",
+    "primary_category": "Financial consultant",
+    "all_categories": "Financial consultant",
+    "pincode": "473118",
+    "phone_number": "+91 40 2717 4369",
+    "website": "http://www.asmithamicrofin.com/",
+    "rating": 2.9,
+    "reviews_count": 15,
+    "address": "1-2-58, Plot, No 1-4, N Block, Street No : 1, Kakateeya Nagar, Habsiguda, Hyderabad, Telangana 500007",
+    "area": "Kakateeya Nagar, Habsiguda",
+    "latitude": 17.414061999999998,
+    "longitude": 78.54001509999999,
+    "place_id": "ChIJq6qq-uOWyzsRo9YlRGB-bG8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qq-uOWyzsRo9YlRGB-bG8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:57:35"
+  }
+]

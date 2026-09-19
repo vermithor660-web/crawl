@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devanshi restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "473226",
+    "phone_number": "+91 78986 72323",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bus stand, Bharsoola Rd, Sada, Raghogarh -Vijaypur, Gadarwara, Madhya Pradesh 473226",
+    "area": "Sada",
+    "latitude": 24.4476661,
+    "longitude": 77.18989909999999,
+    "place_id": "ChIJxVIGF2__ejkRlz96O0nSWtA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxVIGF2__ejkRlz96O0nSWtA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:59:53"
+  },
+  {
+    "business_name": "New RS sarpanch Gurjar dhabha and restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "473226",
+    "phone_number": "+91 62638 64258",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 41,
+    "address": "94FF+CFJ, Raghogarh -Vijaypur, Madhya Pradesh 473222",
+    "area": "473226",
+    "latitude": 24.3735878,
+    "longitude": 77.1236546,
+    "place_id": "ChIJT74rDwD_ejkRL8Eymk5Z6FU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT74rDwD_ejkRL8Eymk5Z6FU",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:59:56"
+  }
+]

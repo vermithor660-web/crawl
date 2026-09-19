@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akarshan hosiery",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothing wholesaler",
+    "all_categories": "Clothing wholesaler",
+    "pincode": "473001",
+    "phone_number": "+91 87707 83199",
+    "website": "https://www.akarshanhosiery.in/",
+    "rating": 4.4,
+    "reviews_count": 19,
+    "address": "73, near omkar school, Soni Colony, Guna, Madhya Pradesh 473001",
+    "area": "Soni Colony",
+    "latitude": 24.6423186,
+    "longitude": 77.3051267,
+    "place_id": "ChIJbwxka_RbejkRTmp2r54Bbp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbwxka_RbejkRTmp2r54Bbp4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:42:23"
+  },
+  {
+    "business_name": "Madia Hosiery",
+    "search_category": "Hosiery and Undergarments Wholesaler",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Underwear store",
+    "pincode": "473001",
+    "phone_number": "+91 97540 16995",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "C-Block, 23/2, University Rd, Govindpuri, Gwalior, Madhya Pradesh 474011",
+    "area": "Govindpuri",
+    "latitude": 26.2057152,
+    "longitude": 78.19990489999999,
+    "place_id": "ChIJ9VDqBwfEdjkRLrmAaVKM208",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9VDqBwfEdjkRLrmAaVKM208",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:42:25"
+  }
+]

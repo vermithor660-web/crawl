@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vyanjan Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "473101",
+    "phone_number": "+91 87190 32023",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Guna - Ashoknagar Rd, Durga Colony, Ashoknagar, Madhya Pradesh 473331",
+    "area": "Durga Colony",
+    "latitude": 24.586292699999998,
+    "longitude": 77.7216813,
+    "place_id": "ChIJBZl8s6UxejkR2k4Ml0rn7dc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBZl8s6UxejkR2k4Ml0rn7dc",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:43:59"
+  },
+  {
+    "business_name": "Shri Ramkuti Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "473101",
+    "phone_number": "+91 77719 99444",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Pachadi Kheda Road, near Shani Mandir, Soni Colony, Yadav Colony, Ashoknagar, Madhya Pradesh 473331",
+    "area": "Soni Colony, Yadav Colony",
+    "latitude": 24.5797599,
+    "longitude": 77.7363077,
+    "place_id": "ChIJW437HAAxejkRB-ziPFRlO6k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW437HAAxejkRB-ziPFRlO6k",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:44:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhania Mandi",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "473222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 95,
+    "address": "93F4+295, Khatkiya, Kumbhraj, Madhya Pradesh 473222",
+    "area": "Khatkiya",
+    "latitude": 24.374079,
+    "longitude": 77.0549825,
+    "place_id": "ChIJ1c28Igr9ejkR7kY24uDWtHQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1c28Igr9ejkR7kY24uDWtHQ",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:59:40"
+  },
+  {
+    "business_name": "Krishi Upaj Mandi",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "473222",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F5M6+52J, Raghogarh -Vijaypur, Vijaipur, Madhya Pradesh 473226",
+    "area": "473222",
+    "latitude": 24.4829658,
+    "longitude": 77.1600201,
+    "place_id": "ChIJwfvmYAD5ejkRL4hZGP3Gl-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwfvmYAD5ejkRL4hZGP3Gl-Y",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:59:41"
+  }
+]

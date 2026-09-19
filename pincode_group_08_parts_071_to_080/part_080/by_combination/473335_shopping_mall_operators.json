@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Unity One Mall-CBD Shahdara",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "473335",
+    "phone_number": "+91 11 2230 2111",
+    "website": "https://unityone.in/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "M76X+83W, Maharshi Valmiki Marg, Vishwas Nagar Extension, Vishwas Nagar, Shahdara, Delhi, 110032",
+    "area": "Vishwas Nagar Extension, Vishwas Nagar, Shahdara",
+    "latitude": 28.6608663,
+    "longitude": 77.2977178,
+    "place_id": "ChIJMwWM9WX7DDkRMGdxt9jIZBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMwWM9WX7DDkRMGdxt9jIZBo",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:11:57"
+  },
+  {
+    "business_name": "Pacific Mall NSP Pitampura",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "473335",
+    "phone_number": "+91 11 6901 9400",
+    "website": "https://www.pacificmalls.in/nsp",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Pitampura, New Delhi, Delhi, 110034",
+    "area": "Pitampura",
+    "latitude": 28.6946047,
+    "longitude": 77.1542493,
+    "place_id": "ChIJgS0GZggDDTkR5RMbDPQJLZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgS0GZggDDTkR5RMbDPQJLZ8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:11:57"
+  }
+]

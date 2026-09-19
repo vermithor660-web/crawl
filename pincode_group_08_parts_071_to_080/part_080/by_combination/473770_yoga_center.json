@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yoga instructor",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga Retreat Center",
+    "all_categories": "Yoga Retreat Center",
+    "pincode": "473770",
+    "phone_number": "+91 87705 76033",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Agra - Mumbai Hwy, in front of state bank of India, Kolaras, Madhya Pradesh 473770",
+    "area": "473770",
+    "latitude": 25.2276348,
+    "longitude": 77.6197045,
+    "place_id": "ChIJJ8mQJnihcDkR13lebxTvjCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ8mQJnihcDkR13lebxTvjCA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:33:35"
+  },
+  {
+    "business_name": "Anant Yog Kendra | Yoga class in kolar | Vedic Yoga | Ayurvedic Diet | Bhopal",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Dance club, Dance hall, Medical diagnostic imaging center, Yoga instructor, Yoga Retreat Center, Youth organization",
+    "pincode": "473770",
+    "phone_number": "+91 98933 39206",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 11,
+    "address": "junior galaxy foundation schoolSarvdharm, C/268, C Sector, Shirdipuram, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "area": "C Sector, Shirdipuram, Kolar Rd",
+    "latitude": 23.180354599999998,
+    "longitude": 77.4198274,
+    "place_id": "ChIJX5dJwuFDfDkRIUM3wnuX48A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX5dJwuFDfDkRIUM3wnuX48A",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:33:37"
+  }
+]

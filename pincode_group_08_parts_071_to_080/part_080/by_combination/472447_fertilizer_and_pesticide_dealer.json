@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "pesticide india",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "472447",
+    "phone_number": "+91 120 256 7000",
+    "website": "https://www.mgorganics.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "H-26, 11th Cross St, Pocket H, Block H, Sector Alpha II, Greater Noida, Brahmpur Rajraula Urf Nawada, Uttar Pradesh 201310",
+    "area": "Pocket H, Block H, Sector Alpha II",
+    "latitude": 28.4811385,
+    "longitude": 77.51864669999999,
+    "place_id": "ChIJuYZraojqDDkR4dU22D02jTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuYZraojqDDkR4dU22D02jTA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:41:51"
+  },
+  {
+    "business_name": "Agro Bio Chemical",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural Product Wholesaler",
+    "all_categories": "Agricultural Product Wholesaler, Agricultural production",
+    "pincode": "472447",
+    "phone_number": "+91 95845 70913",
+    "website": "http://www.agrobiochemicals.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "284, Bypass, Manglaya Sadak, Indore, Madhya Pradesh 453771",
+    "area": "Manglaya Sadak",
+    "latitude": 22.8181822,
+    "longitude": 75.9374972,
+    "place_id": "ChIJFSlOlZ3iYjkRcmd-2KR7C7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFSlOlZ3iYjkRcmd-2KR7C7I",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:41:52"
+  }
+]

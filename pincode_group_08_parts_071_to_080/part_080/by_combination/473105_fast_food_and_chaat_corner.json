@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Shree Chaat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "473105",
+    "phone_number": "+91 98262 07942",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Mahatma Gandhi Rd, Raghogarh, Madhya Pradesh 473226",
+    "area": "473105",
+    "latitude": 24.445612999999998,
+    "longitude": 77.192087,
+    "place_id": "ChIJi_4ezlX_ejkRmCWU-24QjZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi_4ezlX_ejkRmCWU-24QjZg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:45:47"
+  },
+  {
+    "business_name": "Gokul chaat",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "473105",
+    "phone_number": "+91 89891 18479",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "306, Shagun Residency, Kanadia Main Rd, Sanchar Nagar Ext, Sanchar Nagar Main, Indore, Madhya Pradesh 452016",
+    "area": "Sanchar Nagar Ext, Sanchar Nagar Main",
+    "latitude": 22.7219663,
+    "longitude": 75.9157591,
+    "place_id": "ChIJ0WFnRj_jYjkRE_pqlhmdq9E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0WFnRj_jYjkRE_pqlhmdq9E",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:45:49"
+  }
+]

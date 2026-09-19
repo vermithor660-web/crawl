@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tax Factory",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant, Service establishment",
+    "pincode": "473670",
+    "phone_number": "+91 96503 46006",
+    "website": "https://www.taxfactory.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Tax Factory, 473670, India",
+    "area": "473670",
+    "latitude": 23.8884525,
+    "longitude": 75.1410662,
+    "place_id": "ChIJN-h7VC2Fiy8Rinwe5VW9qE4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN-h7VC2Fiy8Rinwe5VW9qE4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:32:40"
+  },
+  {
+    "business_name": "Shree Shyam Tax Advisor",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant",
+    "pincode": "473670",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Khatu Shyamji, Khatoo, Rajasthan 332602",
+    "area": "473670",
+    "latitude": 27.368862,
+    "longitude": 75.406821,
+    "place_id": "ChIJ67kuFbntbDkRNZRklysqkcE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ67kuFbntbDkRNZRklysqkcE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:32:40"
+  }
+]

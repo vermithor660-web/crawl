@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vacation Ideas",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Airline ticket agency, Tour agency, Tour operator, Tourist information center, Visa Agent",
+    "pincode": "473118",
+    "phone_number": "+91 62643 24845",
+    "website": "https://vacationideas.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 12, First Floor, Olive Complex, near Berchha Mawa Bhandar, Phase 1, Tilak Nagar, Bawadiya Kalan, Gulmohar Colony, Bhopal, Madhya Pradesh 462026",
+    "area": "Phase 1, Tilak Nagar, Bawadiya Kalan, Gulmohar Colony",
+    "latitude": 23.1865754,
+    "longitude": 77.43703,
+    "place_id": "ChIJ0fjegQ1DfDkRRHRyM45vXSw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0fjegQ1DfDkRRHRyM45vXSw",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:56:53"
+  },
+  {
+    "business_name": "State Express",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator, Car rental agency, Tour agency, Travel agency",
+    "pincode": "473118",
+    "phone_number": "+91 11 4767 4000",
+    "website": "https://www.stateexpressindia.com/",
+    "rating": 4.8,
+    "reviews_count": 264,
+    "address": "102, Bhanot House, 17, Community Center, Gulmohar Enclave, Extn, New Delhi, Delhi 110049",
+    "area": "Gulmohar Enclave, Extn",
+    "latitude": 28.558053899999997,
+    "longitude": 77.20818659999999,
+    "place_id": "ChIJqzaBR2ziDDkRLhbYPozc5FU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqzaBR2ziDDkRLhbYPozc5FU",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:56:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jeeja Car care and washing center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "473111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 12,
+    "address": "Khujner road, in front of shivdham colony, Bhanwar Colony, Rajgarh, Bedekapura, Madhya Pradesh 465661",
+    "area": "Bhanwar Colony",
+    "latitude": 24.0006682,
+    "longitude": 76.7143892,
+    "place_id": "ChIJI4BR60E5ezkRCAoj6hWGw4I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI4BR60E5ezkRCAoj6hWGw4I",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:49:51"
+  },
+  {
+    "business_name": "Exppress Car Wash - Indore",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "473111",
+    "phone_number": "+91 92894 44440",
+    "website": "http://www.exppresscarwash.com/",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "The Advika Automobiles, 1/3, Jawahar Marg, behind Shani Mandir, Siyaganj, Indore, Madhya Pradesh 452002",
+    "area": "Siyaganj",
+    "latitude": 22.7159257,
+    "longitude": 75.8521069,
+    "place_id": "ChIJl6EbH6T9YjkRNH3wN3LNcPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl6EbH6T9YjkRNH3wN3LNcPk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:49:53"
+  }
+]

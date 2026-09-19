@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dev Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Hotel",
+    "pincode": "473222",
+    "phone_number": "+91 75686 75588",
+    "website": "https://www.instagram.com/dev_guest_house_aklera?utm_source=qr&igsh=MTQzaWFrdXJvYTFveA==",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "By Pass, Bhopal Road, Nai Basti, Aklera, Rajasthan 326033",
+    "area": "Nai Basti",
+    "latitude": 24.4121956,
+    "longitude": 76.5655278,
+    "place_id": "ChIJNdxV2jXRejkRFnxdstVXM4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNdxV2jXRejkRFnxdstVXM4s",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:59:03"
+  },
+  {
+    "business_name": "hotel pratishtha",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "473222",
+    "phone_number": "+91 75422 52165",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Gurudwara, Laxmi Ganj, Guna, Madhya Pradesh 473001",
+    "area": "Punjabi Colony, Laxmi Ganj",
+    "latitude": 24.644302999999997,
+    "longitude": 77.308452,
+    "place_id": "ChIJjQF9IPVbejkR40oCnysYdUQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjQF9IPVbejkR40oCnysYdUQ",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:59:03"
+  }
+]

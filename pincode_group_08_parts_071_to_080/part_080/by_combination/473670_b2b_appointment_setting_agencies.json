@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Smart plus consultancy services",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "473670",
+    "phone_number": "N/A",
+    "website": "https://smartplus.vercel.app/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Smart plus consultancy services, 473670, India",
+    "area": "473670",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJL3zvit8JGToRxAdkXOeuOdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL3zvit8JGToRxAdkXOeuOdM",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:32:59"
+  },
+  {
+    "business_name": "CV upwards management agency",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Service establishment",
+    "pincode": "473670",
+    "phone_number": "N/A",
+    "website": "http://cvupwards.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CV upwards management agency, 473670, India",
+    "area": "473670",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJRc3riJOlNScRbh4MZaesop4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRc3riJOlNScRbh4MZaesop4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:32:59"
+  }
+]

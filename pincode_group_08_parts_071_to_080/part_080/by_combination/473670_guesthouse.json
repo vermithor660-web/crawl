@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Advocate veekesh lodhi rest house",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "473670",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "63CG+457, Manikpur, Badera Bhonrika, Madhya Pradesh 473670",
+    "area": "473670",
+    "latitude": 25.220287499999998,
+    "longitude": 78.0754219,
+    "place_id": "ChIJX3WPcgBXdzkRgEbmHlobQRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX3WPcgBXdzkRgEbmHlobQRU",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:32:22"
+  },
+  {
+    "business_name": "Rajput hotal",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "473670",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 17,
+    "address": "C2C5+5WG, Salaiya Karera, Madhya Pradesh 473662",
+    "area": "473670",
+    "latitude": 25.420428899999997,
+    "longitude": 78.009821,
+    "place_id": "ChIJ2Xa7ktRNdzkRzmMjTvpUB74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2Xa7ktRNdzkRzmMjTvpUB74",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:32:24"
+  }
+]

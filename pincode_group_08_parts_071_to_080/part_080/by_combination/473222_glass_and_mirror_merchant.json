@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Famous glass works",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop",
+    "pincode": "473222",
+    "phone_number": "+91 98263 62529",
+    "website": "https://famousglassworks.com/homepage",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "6, Ashok Nagar, Nigam complex, Desai Nagar, Ujjain, Madhya Pradesh 456010",
+    "area": "Ashok Nagar, Nigam complex, Desai Nagar",
+    "latitude": 23.179042,
+    "longitude": 75.796618,
+    "place_id": "ChIJ-x-WF3J0YzkRrCLL6QgGuBg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-x-WF3J0YzkRrCLL6QgGuBg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:58:44"
+  },
+  {
+    "business_name": "Satguru Glass",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop, Glass manufacturer, Marble supplier, Mirror shop",
+    "pincode": "473222",
+    "phone_number": "+91 98960 51086",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "Lala Charan Pass Marg, near Royal Enfield Agencie, Model Town, Kaithal, Haryana 136027",
+    "area": "Model Town",
+    "latitude": 29.8125307,
+    "longitude": 76.4126224,
+    "place_id": "ChIJPbBlSmPgETkR6YH7nnNtUhw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPbBlSmPgETkR6YH7nnNtUhw",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:58:44"
+  }
+]

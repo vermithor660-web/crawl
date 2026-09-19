@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manish boot house",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "473113",
+    "phone_number": "+91 70006 17455",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Miana, Madhya Pradesh 473113",
+    "area": "473113",
+    "latitude": 24.8610625,
+    "longitude": 77.4626875,
+    "place_id": "ChIJxVc4TtVvejkR4SDAZbYNYUw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxVc4TtVvejkR4SDAZbYNYUw",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:53:04"
+  },
+  {
+    "business_name": "mr.rajkumar",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "473113",
+    "phone_number": "+91 95227 28493",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sanvariya Seth Myana, Sadar Bazar, Poonam Khedi, Madhya Pradesh 473113",
+    "area": "Sadar Bazar",
+    "latitude": 24.7793788,
+    "longitude": 77.484055,
+    "place_id": "ChIJod69i8JrejkRPXKdr4wja9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJod69i8JrejkRPXKdr4wja9A",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:53:04"
+  }
+]

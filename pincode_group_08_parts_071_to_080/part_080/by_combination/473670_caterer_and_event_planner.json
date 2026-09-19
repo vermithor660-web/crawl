@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samrat Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Event management company, Event planner, Wedding planner",
+    "pincode": "473670",
+    "phone_number": "+91 98279 50342",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 190,
+    "address": "Tikrapara Main Rd, Opposite career point, Dayalband, Chhattisgarh 495001",
+    "area": "473670",
+    "latitude": 22.0745862,
+    "longitude": 82.1703374,
+    "place_id": "ChIJCxAtHCALKDoRDzqeuu_Kfmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCxAtHCALKDoRDzqeuu_Kfmg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:32:22"
+  },
+  {
+    "business_name": "SHUBH CATERING SERVICES",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Catering equipment rental service, Catering food and drink supplier, Food manufacturer, Restaurant, Restaurant supply store, Tent House Supplier, Wedding buffet, Wedding planner, Wedding service",
+    "pincode": "473670",
+    "phone_number": "+91 88780 52341",
+    "website": "https://shubhcatrers.in/",
+    "rating": 4.8,
+    "reviews_count": 101,
+    "address": "1st floor, Vrindavan parisar, Telipara Rd, Bharti Nagar, Bilaspur, Telipara, Chhattisgarh 495001",
+    "area": "Bharti Nagar",
+    "latitude": 22.0793665,
+    "longitude": 82.1581865,
+    "place_id": "ChIJmajhrxcLKDoRKVvvl8M4-PM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmajhrxcLKDoRKVvvl8M4-PM",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:32:22"
+  }
+]

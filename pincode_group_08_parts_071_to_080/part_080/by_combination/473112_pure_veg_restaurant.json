@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "krishna hotel & restaurants",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "473112",
+    "phone_number": "+91 74770 77805",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "03, Berkhedi, Guna, Madhya Pradesh 473105",
+    "area": "473112",
+    "latitude": 24.6279249,
+    "longitude": 77.1826404,
+    "place_id": "ChIJBWF2j8X3ejkRuweYox6wOFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBWF2j8X3ejkRuweYox6wOFU",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:51:10"
+  },
+  {
+    "business_name": "Pure Veg Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "473112",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Napier Town, Jabalpur, Madhya Pradesh 482001",
+    "area": "Napier Town",
+    "latitude": 23.163895399999998,
+    "longitude": 79.9366424,
+    "place_id": "ChIJRzkk0g2ugTkRigd9MxAG5gU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRzkk0g2ugTkRigd9MxAG5gU",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:51:11"
+  }
+]

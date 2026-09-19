@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SADGURU KIRANA & PROVISION STORES",
+    "search_category": "Kirana Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "473112",
+    "phone_number": "+91 98937 89797",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Sindhi Camp, Satna, Madhya Pradesh 485005",
+    "area": "Sindhi Camp",
+    "latitude": 24.5762198,
+    "longitude": 80.85264769999999,
+    "place_id": "ChIJdcqERgB_hDkRh8aTCl0_L1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdcqERgB_hDkRh8aTCl0_L1w",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:51:02"
+  },
+  {
+    "business_name": "Kirana Shop",
+    "search_category": "Kirana Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "473112",
+    "phone_number": "+91 82694 03549",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "AB Rd, Khiyavda Colony, Guna, Madhya Pradesh 473001",
+    "area": "Khiyavda Colony",
+    "latitude": 24.6519138,
+    "longitude": 77.3202575,
+    "place_id": "ChIJQZMie7NdejkRrr0sJxyDpHs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZMie7NdejkRrr0sJxyDpHs",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:51:03"
+  }
+]

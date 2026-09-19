@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arnav Frozen Foods",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "473101",
+    "phone_number": "+91 93039 95292",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Depalpur Rd, Indore, Madhya Pradesh 452005",
+    "area": "473101",
+    "latitude": 22.7280399,
+    "longitude": 75.8108653,
+    "place_id": "ChIJlURkf1P9YjkRuw-8uN8G580",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlURkf1P9YjkRuw-8uN8G580",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:43:54"
+  },
+  {
+    "business_name": "Shree Uttam Food Products India Pvt. Ltd.",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer",
+    "pincode": "473101",
+    "phone_number": "+91 98260 16160",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Bamnia Rd, Sater, Madhya Pradesh 457770",
+    "area": "473101",
+    "latitude": 23.096390799999998,
+    "longitude": 74.77087519999999,
+    "place_id": "ChIJy0vURUdDYTkRWbM9DASbm-w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy0vURUdDYTkRWbM9DASbm-w",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:43:57"
+  }
+]

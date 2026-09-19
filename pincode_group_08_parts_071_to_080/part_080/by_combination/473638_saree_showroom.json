@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaibhav Lakshmi Sarees",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "473638",
+    "phone_number": "+91 94795 32361",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Vaibhav Lakshmi Sarees, Lahoti Complex, Tekri Rd, Bank Colony, Shivpuri, Madhya Pradesh 473638",
+    "area": "Bank Colony",
+    "latitude": 25.426649899999997,
+    "longitude": 77.65510739999999,
+    "place_id": "ChIJnV1UUam5cDkRSZcqb2QcCN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnV1UUam5cDkRSZcqb2QcCN0",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:24:34"
+  },
+  {
+    "business_name": "Ladlee",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Bridal shop, Saree Shop",
+    "pincode": "473638",
+    "phone_number": "+91 70791 90832",
+    "website": "http://ladlee.qrwala.org/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No- UG 6, Upper Ground Floor SURYA CRISTAL TOWER, Boring Rd, crossing, Patna, Bihar 800001",
+    "area": "crossing, Anandpuri",
+    "latitude": 25.613444599999998,
+    "longitude": 85.1180718,
+    "place_id": "ChIJ2xkhLyVY7TkRQmLbG34om60",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2xkhLyVY7TkRQmLbG34om60",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:24:34"
+  }
+]

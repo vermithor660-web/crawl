@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ciramed Healthcare Solutions Pvt Ltd",
+    "search_category": "Polyclinic",
+    "primary_category": "Surgical Products Wholesaler",
+    "all_categories": "Surgical Products Wholesaler, Household chemicals supplier",
+    "pincode": "473330",
+    "phone_number": "+91 98408 68241",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "B-3 LIG flats ,56th street,, 7th Avenue, Ashok Nagar, Chennai, Tamil Nadu 600083",
+    "area": "Ashok Nagar",
+    "latitude": 13.0321269,
+    "longitude": 80.215684,
+    "place_id": "ChIJwUDp1h1nUjoR91-zsTHxfaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwUDp1h1nUjoR91-zsTHxfaM",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:05:25"
+  },
+  {
+    "business_name": "PS Medical Systems Private Limited",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "473330",
+    "phone_number": "+91 44 4203 3143",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Sarvamangala Colony, Ashoka Colony, Ashok Nagar, Chennai, Tamil Nadu 600083",
+    "area": "Sarvamangala Colony, Ashoka Colony, Ashok Nagar",
+    "latitude": 13.0438633,
+    "longitude": 80.2132362,
+    "place_id": "ChIJPxt0dNNmUjoR_D0JU1SWHyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPxt0dNNmUjoR_D0JU1SWHyI",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:05:25"
+  }
+]

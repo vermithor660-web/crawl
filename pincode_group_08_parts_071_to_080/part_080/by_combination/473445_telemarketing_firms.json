@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cimmons Call Center Pvt Ltd",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Call center",
+    "all_categories": "Call center, BPO Company",
+    "pincode": "473445",
+    "phone_number": "+91 80 6926 1999",
+    "website": "http://www.cimmons.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "86/3, GOKUL TOWERS, MS Ramaiah Rd, HMR Layout, Gokula Extension, Mathikere, Bengaluru, Karnataka 560054",
+    "area": "HMR Layout, Gokula Extension, Mathikere",
+    "latitude": 13.0397269,
+    "longitude": 77.5558693,
+    "place_id": "ChIJHYNpuQA9rjsRnZ5fztU8Rbw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHYNpuQA9rjsRnZ5fztU8Rbw",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:18:58"
+  },
+  {
+    "business_name": "LeadNXT",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Call center",
+    "all_categories": "Call center, Telecommunications service provider",
+    "pincode": "473445",
+    "phone_number": "+91 80100 03355",
+    "website": "https://www.leadnxt.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "D-67, 4th Floor, D Block, Sector 2, Noida, Uttar Pradesh 201301",
+    "area": "D Block, Sector 2",
+    "latitude": 28.583275999999998,
+    "longitude": 77.3172182,
+    "place_id": "ChIJ5VuNFVnkDDkRRD0qdE9qtm8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5VuNFVnkDDkRRD0qdE9qtm8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:18:58"
+  }
+]

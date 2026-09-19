@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ProtonLedger Technologies LLP",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "473001",
+    "phone_number": "+91 98472 15077",
+    "website": "https://www.protonledger.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ProtonLedger Technologies LLP, 473001, India",
+    "area": "473001",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJn5e4Y1LdPS8RwyWnFdzX5l0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn5e4Y1LdPS8RwyWnFdzX5l0",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:43:21"
+  },
+  {
+    "business_name": "METABILL",
+    "search_category": "POS and Billing Software Vendor",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "473001",
+    "phone_number": "+91 93760 89288",
+    "website": "https://metabill.in/",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "Silver Chamber, 319, Rajkot, Gujarat 360002",
+    "area": "Kalyan Society, Bhaktinagar Station Plot, Bhakti Nagar",
+    "latitude": 22.2841108,
+    "longitude": 70.79438189999999,
+    "place_id": "ChIJVVVVVQW0WTkR_IkhrjIjruk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVQW0WTkR_IkhrjIjruk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:43:22"
+  }
+]

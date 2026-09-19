@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arya Cleaning Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services, Air conditioning contractor, House cleaning service, Pest control service",
+    "pincode": "473444",
+    "phone_number": "+91 87409 32269",
+    "website": "https://aryacompany.in/",
+    "rating": 4.8,
+    "reviews_count": 27,
+    "address": "70, Subhash Marg, behind Hotel Royal Orchid, Shreeji Nagar, Arjun Nagar, Vasundhara Colony, Durgapura, Jaipur, Rajasthan 302018",
+    "area": "Shreeji Nagar, Arjun Nagar, Vasundhara Colony, Durgapura",
+    "latitude": 26.8453593,
+    "longitude": 75.7908669,
+    "place_id": "ChIJET6q8mK1bTkRWm2i7tyCyps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJET6q8mK1bTkRWm2i7tyCyps",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:16:55"
+  },
+  {
+    "business_name": "Safsafaiwala",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "473444",
+    "phone_number": "+91 77094 61616",
+    "website": "https://safsafaiwala.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "JijaMata Colony, Kalyan, Maharashtra 421301",
+    "area": "JijaMata Colony",
+    "latitude": 19.2403305,
+    "longitude": 73.1305395,
+    "place_id": "ChIJb8yydlKV5zsRPZ8NYZRBQR8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb8yydlKV5zsRPZ8NYZRBQR8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:16:56"
+  }
+]

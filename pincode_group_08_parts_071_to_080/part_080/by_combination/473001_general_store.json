@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHREE RAM MINI MART",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "473001",
+    "phone_number": "+91 90746 04837",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Royal city colony, Guna, Madhya Pradesh 473001",
+    "area": "473001",
+    "latitude": 24.657166099999998,
+    "longitude": 77.328828,
+    "place_id": "ChIJKev_qz9bejkRvTc0jFcgSO4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKev_qz9bejkRvTc0jFcgSO4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:42:08"
+  },
+  {
+    "business_name": "Aadhya kangan & cosmetic general store",
+    "search_category": "General Store",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "473001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "vandana nagar, 10, behind vandana convent school, Guna, Madhya Pradesh 473001",
+    "area": "Vindhyachal Colony, Model Town Colony",
+    "latitude": 24.6368609,
+    "longitude": 77.3002082,
+    "place_id": "ChIJL2ip-h1bejkRwF06U9fs-mY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL2ip-h1bejkRwF06U9fs-mY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:42:08"
+  }
+]

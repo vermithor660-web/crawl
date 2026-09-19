@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jockey showroom (Aditya enterprises)",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "473770",
+    "phone_number": "+91 78048 08045",
+    "website": "https://www.jockey.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Luxmi niwas road, Bank Colony, Shivpuri, Madhya Pradesh 473638",
+    "area": "Bank Colony",
+    "latitude": 25.4279899,
+    "longitude": 77.6587193,
+    "place_id": "ChIJDX2AmvW5cDkR79G-irf52NA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDX2AmvW5cDkR79G-irf52NA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:33:20"
+  },
+  {
+    "business_name": "Peter England Menswear Exclusive Showroom",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Clothing store, Tuxedo shop",
+    "pincode": "473770",
+    "phone_number": "+91 74923 57897",
+    "website": "https://shivpuri.peterengland.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "AB Rd, opp. Panchayati Bageecha, Fatehpur, Shivpuri, Madhya Pradesh 473638",
+    "area": "Fatehpur",
+    "latitude": 25.4015979,
+    "longitude": 77.6487523,
+    "place_id": "ChIJP9L2vIe9cDkRULFWsGH3AN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP9L2vIe9cDkRULFWsGH3AN4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:33:21"
+  }
+]

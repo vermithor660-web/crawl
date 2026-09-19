@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Group Sale",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "473440",
+    "phone_number": "+91 98182 74201",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 541,
+    "address": "20A/1, 110091, Block B, Acharya Niketan, Mayur Vihar, New Delhi, Delhi 110091",
+    "area": "Block B, Acharya Niketan, Mayur Vihar",
+    "latitude": 28.608150199999997,
+    "longitude": 77.29484459999999,
+    "place_id": "ChIJuXAgfKLkDDkRJ8ZNG-4JNHE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuXAgfKLkDDkRJ8ZNG-4JNHE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:13:42"
+  },
+  {
+    "business_name": "Delhi Profit Bazar",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, ATM, Supermarket",
+    "pincode": "473440",
+    "phone_number": "+91 97180 76622",
+    "website": "http://www.delhiprofitbazaar.com/",
+    "rating": 3.9,
+    "reviews_count": 826,
+    "address": "Block A, 437, New Ashok Nagar Rd, Block B, Ashok Nagar Extension, New Ashok Nagar, New Delhi, Delhi, 110096",
+    "area": "Block B, Ashok Nagar Extension, New Ashok Nagar",
+    "latitude": 28.5891877,
+    "longitude": 77.3028211,
+    "place_id": "ChIJAzB4VYnkDDkRykEM2nosY3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAzB4VYnkDDkRykEM2nosY3E",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:13:42"
+  }
+]

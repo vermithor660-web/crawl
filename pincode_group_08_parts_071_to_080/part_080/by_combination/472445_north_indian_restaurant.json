@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel kanha",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "472445",
+    "phone_number": "+91 87702 08578",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 6,
+    "address": "meter Ange, se 100, Bhopal Rd, near IPS school, Sagar, Lahdara, Madhya Pradesh 470001",
+    "area": "472445",
+    "latitude": 23.827659399999998,
+    "longitude": 78.69138,
+    "place_id": "ChIJW4INXgDXeDkRtWFwPNCmcOc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW4INXgDXeDkRtWFwPNCmcOc",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:36:56"
+  },
+  {
+    "business_name": "Yamuna hills daba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "472445",
+    "phone_number": "+91 93698 47967",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 191,
+    "address": "Vidhyawati College Bus Stop, NH 25, Karguwan, Uttar Pradesh 284121",
+    "area": "472445",
+    "latitude": 25.4694456,
+    "longitude": 78.66530449999999,
+    "place_id": "ChIJ3-vPs2OddzkRAws1qYrMhGA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-vPs2OddzkRAws1qYrMhGA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:36:57"
+  }
+]

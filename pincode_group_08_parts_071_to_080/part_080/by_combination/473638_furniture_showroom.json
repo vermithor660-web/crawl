@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanha Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Antique furniture store",
+    "all_categories": "Antique furniture store",
+    "pincode": "473638",
+    "phone_number": "+91 99813 42011",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Court Rd, Govt Hospital Shivpuri, Mahal Colony, Shivpuri, Madhya Pradesh 473638",
+    "area": "Govt Hospital Shivpuri, Mahal Colony",
+    "latitude": 25.4264703,
+    "longitude": 77.6511932,
+    "place_id": "ChIJN0gTsLO_cDkRPX3y72KH0cs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN0gTsLO_cDkRPX3y72KH0cs",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:25:13"
+  },
+  {
+    "business_name": "Grace Furniture",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "473638",
+    "phone_number": "N/A",
+    "website": "https://www.gracefurniture.online/",
+    "rating": 4.6,
+    "reviews_count": 255,
+    "address": "industrial estate, D-37, opp. PVR Cinema, Harthala, Moradabad, Uttar Pradesh 244001",
+    "area": "Harthala",
+    "latitude": 28.8794021,
+    "longitude": 78.7387652,
+    "place_id": "ChIJqfBX2cj-CjkRfy6_XySLoQg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqfBX2cj-CjkRfy6_XySLoQg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:25:14"
+  }
+]

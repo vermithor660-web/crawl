@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MANAV BOOKS AND STATIONERY",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Stationery store",
+    "pincode": "472446",
+    "phone_number": "+91 90688 81696",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 54,
+    "address": "Hari Market, Sikandra-Bodla Rd, Sector 1, Bodla, Chauraha, Agra, Uttar Pradesh 282007",
+    "area": "Sector 1, Bodla, Chauraha",
+    "latitude": 27.1892136,
+    "longitude": 77.9616728,
+    "place_id": "ChIJTQKit513dDkRs7lTwM6rtCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQKit513dDkRs7lTwM6rtCw",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:39:44"
+  },
+  {
+    "business_name": "Sharda Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "472446",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 27,
+    "address": "Unnamed Road, Kohandaur, Gauri Patti, Uttar Pradesh 230401",
+    "area": "472446",
+    "latitude": 26.0426359,
+    "longitude": 82.0217938,
+    "place_id": "ChIJCa4PAZePmjkRTq_O_Lj6nHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCa4PAZePmjkRTq_O_Lj6nHM",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:39:44"
+  }
+]

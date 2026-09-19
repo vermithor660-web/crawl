@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JV TRADERS",
+    "search_category": "Tradeshows",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier, Service establishment, Hardware store",
+    "pincode": "473226",
+    "phone_number": "+91 99777 13443",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "JV TRADERS, 473226, India",
+    "area": "473226",
+    "latitude": 22.723972699999997,
+    "longitude": 75.86384989999999,
+    "place_id": "ChIJIfEPH1QbYzkRcKSc3CwNJ6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIfEPH1QbYzkRcKSc3CwNJ6c",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:01:15"
+  },
+  {
+    "business_name": "Venkatesh traders and suppliers LLP",
+    "search_category": "Tradeshows",
+    "primary_category": "Industrial equipment supplier",
+    "all_categories": "Industrial equipment supplier, Service establishment",
+    "pincode": "473226",
+    "phone_number": "+91 96919 82313",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Venkatesh traders and suppliers LLP, 473226, India",
+    "area": "473226",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJH9fP_cSygmcRZVlnjAY0K7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH9fP_cSygmcRZVlnjAY0K7M",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:01:15"
+  }
+]

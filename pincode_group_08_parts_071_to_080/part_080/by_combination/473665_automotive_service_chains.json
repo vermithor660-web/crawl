@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jay Mahakal Auto Parts",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "473665",
+    "phone_number": "+91 91796 87157",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jay Mahakal Auto Parts, Bhadouta Road, Kolaras, Madhya Pradesh 473770",
+    "area": "473665",
+    "latitude": 25.2173762,
+    "longitude": 77.61829449999999,
+    "place_id": "ChIJvS9VA26hcDkRuxm48zdbNY4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvS9VA26hcDkRuxm48zdbNY4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:30:18"
+  },
+  {
+    "business_name": "Juber Khan auto parts",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "473665",
+    "phone_number": "+91 62623 01626",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Zubair auto parts, Jail Road, Kolaras, Madhya Pradesh 473770",
+    "area": "473665",
+    "latitude": 25.2264771,
+    "longitude": 77.59679299999999,
+    "place_id": "ChIJvTgdScyhcDkRuH3eiyRNuQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvTgdScyhcDkRuH3eiyRNuQ8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:30:18"
+  }
+]

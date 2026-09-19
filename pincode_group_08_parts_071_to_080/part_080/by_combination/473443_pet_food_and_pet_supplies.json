@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maya Fish House & Pet House",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "473443",
+    "phone_number": "+91 98895 38560",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 31,
+    "address": "Karim nagar road, near bahubali gym, Talabpura, Lakshmipura, Lalitpur, Uttar Pradesh 284403",
+    "area": "Talabpura, Lakshmipura",
+    "latitude": 24.6841623,
+    "longitude": 78.4166748,
+    "place_id": "ChIJ5xUr9Cu7eTkRZhInzZ9bByI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5xUr9Cu7eTkRZhInzZ9bByI",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:13:50"
+  },
+  {
+    "business_name": "Vikash Hdtvyar",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "473443",
+    "phone_number": "+91 96850 23174",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hadveyr, Mungaoli, Madhya Pradesh 473443",
+    "area": "Hadveyr",
+    "latitude": 24.409211199999998,
+    "longitude": 78.09677359999999,
+    "place_id": "ChIJmyplaId5eTkRFFLE-rEnz54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmyplaId5eTkRFFLE-rEnz54",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:13:50"
+  }
+]

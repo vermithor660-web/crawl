@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Shyam Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "472445",
+    "phone_number": "+91 95690 67061",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Main Rd, Chirgaon, Uttar Pradesh 284301",
+    "area": "472445",
+    "latitude": 25.574418899999998,
+    "longitude": 78.8180517,
+    "place_id": "ChIJAa-XaBGZdzkRlK_PZNdcavQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAa-XaBGZdzkRlK_PZNdcavQ",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:36:55"
+  },
+  {
+    "business_name": "Geeta dhaba",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "472445",
+    "phone_number": "+91 85450 81764",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 19,
+    "address": "GQWR+VQ, Itora, Uttar Pradesh 284121",
+    "area": "472445",
+    "latitude": 25.547197999999998,
+    "longitude": 78.791882,
+    "place_id": "ChIJC8taawCZdzkRVM6uLpNA7Sg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC8taawCZdzkRVM6uLpNA7Sg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:36:57"
+  }
+]

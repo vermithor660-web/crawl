@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Health Care Centre",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Doctor, Hospital, Pediatrician",
+    "pincode": "473335",
+    "phone_number": "+91 96340 32195",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 14,
+    "address": "D61 D Block, Block D, New Ashok Nagar, Delhi, 110096",
+    "area": "Block D, New Ashok Nagar",
+    "latitude": 28.5924281,
+    "longitude": 77.3087488,
+    "place_id": "ChIJN6CjaADlDDkRBK0h2ScBY58",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN6CjaADlDDkRBK0h2ScBY58",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:10:49"
+  },
+  {
+    "business_name": "Health Care Center",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "473335",
+    "phone_number": "+91 99909 83262",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "291, Bharat Nagar, Ashok Vihar IV, Ashok Vihar, New Delhi, Delhi, 110052",
+    "area": "Bharat Nagar, Ashok Vihar IV, Ashok Vihar",
+    "latitude": 28.680538199999997,
+    "longitude": 77.18331289999999,
+    "place_id": "ChIJfQp51HECDTkR1yIJDEdEBVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfQp51HECDTkR1yIJDEdEBVc",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:10:49"
+  }
+]

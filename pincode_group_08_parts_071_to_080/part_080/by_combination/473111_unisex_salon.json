@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonu Hair Dresser",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "473111",
+    "phone_number": "+91 78988 90336",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Dharnawda Ruthiya, Ruthiya Dharnawda, Guna, Madhya Pradesh 473110",
+    "area": "473111",
+    "latitude": 24.5908342,
+    "longitude": 77.0987339,
+    "place_id": "ChIJcS-s0szxejkR1QCiFnqnZNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcS-s0szxejkR1QCiFnqnZNk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:50:10"
+  },
+  {
+    "business_name": "Ravi kirana & hair saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "473111",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Unnamed Road, Am Kheda, Madhya Pradesh 473110",
+    "area": "473111",
+    "latitude": 24.588794999999998,
+    "longitude": 77.123477,
+    "place_id": "ChIJP3OZ8Tn3ejkRyCVk6dlxr8E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP3OZ8Tn3ejkRyCVk6dlxr8E",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:50:12"
+  }
+]

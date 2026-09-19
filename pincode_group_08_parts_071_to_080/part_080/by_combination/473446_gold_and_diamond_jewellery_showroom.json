@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajput Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "473446",
+    "phone_number": "+91 72777 00000",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 120,
+    "address": "Police Station, 35/8, Main Road, behind Tilak Nagar, Block 35, Ashok Nagar, New Delhi, Delhi, 110018",
+    "area": "Block 35, Ashok Nagar",
+    "latitude": 28.6372589,
+    "longitude": 77.10107479999999,
+    "place_id": "ChIJVVVVFZL7DDkRSULb2uHKAKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVFZL7DDkRSULb2uHKAKs",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:19:20"
+  },
+  {
+    "business_name": "Malabar Gold and Diamonds - Ambedkar Road - Ghaziabad",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "473446",
+    "phone_number": "+91 120 298 5916",
+    "website": "https://www.malabargoldanddiamonds.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "No 59, Building, Ambedkar Rd, New Gandhi Nagar, Turab Nagar, Naya Ganj, Ghaziabad, Uttar Pradesh 201001",
+    "area": "New Gandhi Nagar, Turab Nagar, Naya Ganj",
+    "latitude": 28.6592529,
+    "longitude": 77.4354125,
+    "place_id": "ChIJI_Ham9_xDDkRc3sj-YPelOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI_Ham9_xDDkRc3sj-YPelOM",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:19:22"
+  }
+]

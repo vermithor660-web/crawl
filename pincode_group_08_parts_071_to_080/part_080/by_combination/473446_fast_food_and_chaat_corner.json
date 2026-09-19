@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FRIENDS FAST FOOD CORNER",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "473446",
+    "phone_number": "+91 88719 05399",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "L139, 2A, Saket Nagar Main Rd, near jain temple, Saket Nagar, Habib Ganj, Bhopal, Madhya Pradesh 462024",
+    "area": "Saket Nagar, Habib Ganj",
+    "latitude": 23.2152124,
+    "longitude": 77.4560888,
+    "place_id": "ChIJrf6ybtxDfDkRzaS4y2cHD0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrf6ybtxDfDkRzaS4y2cHD0U",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:19:15"
+  },
+  {
+    "business_name": "Kishan Chaat Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Panipuri shop",
+    "pincode": "473446",
+    "phone_number": "+91 70712 20873",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Harhwa Fatak Rd, Krishna Nagar Private Colony, Ashok Nagar, Gorakhpur, Uttar Pradesh 273004",
+    "area": "Krishna Nagar Private Colony, Ashok Nagar",
+    "latitude": 26.7765438,
+    "longitude": 83.37299879999999,
+    "place_id": "ChIJ0YhvTlFEkTkRrO-RepRuI-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0YhvTlFEkTkRrO-RepRuI-U",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:19:15"
+  }
+]

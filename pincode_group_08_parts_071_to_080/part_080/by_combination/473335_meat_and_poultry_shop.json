@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Bangalore Ham Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat wholesaler",
+    "all_categories": "Meat wholesaler",
+    "pincode": "473335",
+    "phone_number": "+91 80 4217 8055",
+    "website": "https://newhamshop.com/",
+    "rating": 4.2,
+    "reviews_count": 122,
+    "address": "Chinmaya Mission Hospital Road, 2, 17th E Cross Rd, laksmipuram, Indiranagar, Bengaluru, Karnataka 560008",
+    "area": "laksmipuram, Indiranagar",
+    "latitude": 12.977951599999999,
+    "longitude": 77.6329317,
+    "place_id": "ChIJUeQ2-qIWrjsRN75XCnq_Dtg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUeQ2-qIWrjsRN75XCnq_Dtg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:10:21"
+  },
+  {
+    "business_name": "Murga Market",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Market",
+    "all_categories": "Market, Non Vegetarian Restaurant",
+    "pincode": "473335",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 4300,
+    "address": "Wazirpur, Phase 1, Ashok Vihar, New Delhi, Delhi, 110052",
+    "area": "Wazirpur, Phase 1, Ashok Vihar",
+    "latitude": 28.687103999999998,
+    "longitude": 77.1728799,
+    "place_id": "ChIJRdXSx2oCDTkRLh-rNZ_MjDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRdXSx2oCDTkRLh-rNZ_MjDQ",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:10:21"
+  }
+]

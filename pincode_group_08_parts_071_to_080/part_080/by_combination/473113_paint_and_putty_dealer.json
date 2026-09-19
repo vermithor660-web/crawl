@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Walltek Paint",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Building materials supplier, Paint Manufacturer, Wholesaler",
+    "pincode": "473113",
+    "phone_number": "+91 78801 00913",
+    "website": "https://walltekpaint.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Misrod, Bhopal, Madhya Pradesh 462047",
+    "area": "Misrod",
+    "latitude": 23.163302599999998,
+    "longitude": 77.4661622,
+    "place_id": "ChIJ01jhDQBFfDkRPIsYLsPjdkA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01jhDQBFfDkRPIsYLsPjdkA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:53:29"
+  },
+  {
+    "business_name": "Chandni Hardware",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "473113",
+    "phone_number": "+91 81032 01437",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Namak Mandi,, Sagar, Madhya Pradesh 470002",
+    "area": "Katra Bazaar",
+    "latitude": 23.8401619,
+    "longitude": 78.74232889999999,
+    "place_id": "ChIJ-Uji07PWeDkRgi8Ndw49yiM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-Uji07PWeDkRgi8Ndw49yiM",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:53:29"
+  }
+]

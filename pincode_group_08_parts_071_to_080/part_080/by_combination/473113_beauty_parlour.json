@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Shakti Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "473113",
+    "phone_number": "+91 95753 53848",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 6,
+    "address": "om bhavan, Laxmi Ganj, Guna, Madhya Pradesh 473001",
+    "area": "Laxmi Ganj",
+    "latitude": 24.6456745,
+    "longitude": 77.3093705,
+    "place_id": "ChIJzxLljYNbejkR1LJ73bqu9UY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzxLljYNbejkR1LJ73bqu9UY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:53:40"
+  },
+  {
+    "business_name": "Maa Pitambara Beauty Shop (Guna)",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "473113",
+    "phone_number": "+91 97138 39266",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Haat Rd, Jagdish Colony, Karnal Ganj, Guna, Piproda Khurd, Madhya Pradesh 473001",
+    "area": "Jagdish Colony, Karnal Ganj",
+    "latitude": 24.648676299999998,
+    "longitude": 77.31563609999999,
+    "place_id": "ChIJEeI0dgBdejkRoBAWIUiNsO0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEeI0dgBdejkRoBAWIUiNsO0",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:53:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maa Harsiddhi Restaurant",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "473105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "C46V+CXW, Awan, Ismailpur, Madhya Pradesh 473226",
+    "area": "473105",
+    "latitude": 24.4116246,
+    "longitude": 77.14444139999999,
+    "place_id": "ChIJe_hRLQD_ejkRy6-OgpP6INw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe_hRLQD_ejkRy6-OgpP6INw",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:45:49"
+  },
+  {
+    "business_name": "The Beanster Company",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee roastery",
+    "all_categories": "Coffee roastery, Coffee store, Coffee wholesaler, Vending machine supplier",
+    "pincode": "473105",
+    "phone_number": "+91 95287 25549",
+    "website": "https://thebeanstercompany.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "911, Block No.04, Ward No.05 C.G, Mana Camp, Raipur, Chhattisgarh 492015",
+    "area": "Mana Camp",
+    "latitude": 21.194955699999998,
+    "longitude": 81.7138638,
+    "place_id": "ChIJVVVVlW7DKDoRLyn5ZqFzwus",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlW7DKDoRLyn5ZqFzwus",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:45:51"
+  }
+]

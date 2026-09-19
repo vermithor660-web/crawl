@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Traders",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Agricultural Product Wholesaler",
+    "all_categories": "Agricultural Product Wholesaler, Agrochemicals Supplier, Irrigation equipment supplier, Agricultural Seed Store",
+    "pincode": "473638",
+    "phone_number": "+91 84588 27554",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Fatehpur tongra road, near Kapil tvs agency, to, Fatehpur, Shivpuri, Madhya Pradesh 473638",
+    "area": "to, Fatehpur",
+    "latitude": 25.4115799,
+    "longitude": 77.63534829999999,
+    "place_id": "ChIJSRO9yEq9cDkRehvtbnHGKaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSRO9yEq9cDkRehvtbnHGKaw",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:25:58"
+  },
+  {
+    "business_name": "MMT ENTERPRISES",
+    "search_category": "Industrial Equipment Suppliers",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store, Earth works company",
+    "pincode": "473638",
+    "phone_number": "+91 93015 41520",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Old Bypass, AB Rd, near Siya Hotel, Fatehpur, Shivpuri, Madhya Pradesh 473638",
+    "area": "Fatehpur",
+    "latitude": 25.4156157,
+    "longitude": 77.6449215,
+    "place_id": "ChIJN_DeSOu9cDkRo8vgyL7GwJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN_DeSOu9cDkRo8vgyL7GwJw",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:25:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Divine Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beautician",
+    "all_categories": "Beautician",
+    "pincode": "473551",
+    "phone_number": "+91 62605 37332",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 19,
+    "address": "Nawab Sahab Rd, behind MM hospital, Krishnapuram Colony, Shivpuri, Madhya Pradesh 473551",
+    "area": "Krishnapuram Colony",
+    "latitude": 25.4207379,
+    "longitude": 77.6456848,
+    "place_id": "ChIJ0UF55GC9cDkRBYzKRveatSY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0UF55GC9cDkRBYzKRveatSY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:21:41"
+  },
+  {
+    "business_name": "Natural Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "473551",
+    "phone_number": "+91 78986 37277",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 26,
+    "address": "A348/2, Krishnapuram Colony, Shivpuri, Madhya Pradesh 473638",
+    "area": "Krishnapuram Colony",
+    "latitude": 25.4166365,
+    "longitude": 77.65239869999999,
+    "place_id": "ChIJJXVTWSy9cDkRMY53NVWoxfM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJXVTWSy9cDkRMY53NVWoxfM",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:21:41"
+  }
+]

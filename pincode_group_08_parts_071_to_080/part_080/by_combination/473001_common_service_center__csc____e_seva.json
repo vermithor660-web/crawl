@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC Centre",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "473001",
+    "phone_number": "+91 95754 62558",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hatt Road Hatt Road, Guna, Madhya Pradesh 473001",
+    "area": "Karnal Ganj",
+    "latitude": 24.648195599999998,
+    "longitude": 77.3178858,
+    "place_id": "ChIJxVeqgUpdejkRr65neO883eg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxVeqgUpdejkRr65neO883eg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:43:18"
+  },
+  {
+    "business_name": "CSC COMMON SERVICE CENTER",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Common Service Center (CSC) / E-Seva",
+    "all_categories": "Common Service Center (CSC) / E-Seva",
+    "pincode": "473001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kanau, Uttar Pradesh 204212",
+    "area": "473001",
+    "latitude": 27.5722287,
+    "longitude": 78.3060864,
+    "place_id": "ChIJPfLtStjydDkRMKE6_IBS4fo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPfLtStjydDkRMKE6_IBS4fo",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:43:20"
+  }
+]

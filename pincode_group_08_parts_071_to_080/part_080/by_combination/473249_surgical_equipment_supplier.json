@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Surgical Emporium",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical Products Wholesaler",
+    "all_categories": "Surgical Products Wholesaler",
+    "pincode": "473249",
+    "phone_number": "+91 85878 87099",
+    "website": "http://www.surgicalequipments.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "B-4/237 B/4, Pocket 4, Sector 7, Rohini, Delhi, 110085",
+    "area": "Pocket 4, Sector 7, Rohini",
+    "latitude": 28.7046505,
+    "longitude": 77.1210701,
+    "place_id": "ChIJPZVl6uEDDTkRMam4-L5MFIA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPZVl6uEDDTkRMam4-L5MFIA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:01:57"
+  },
+  {
+    "business_name": "Lovely Surgical & Medical",
+    "search_category": "Surgical Equipment Supplier",
+    "primary_category": "Surgical Products Wholesaler",
+    "all_categories": "Surgical Products Wholesaler",
+    "pincode": "473249",
+    "phone_number": "+91 98120 24449",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jawahar Market, near Koel complex, Amar Garh Colony, Kaithal, Haryana 136027",
+    "area": "Amar Garh Colony",
+    "latitude": 29.802258499999997,
+    "longitude": 76.4038182,
+    "place_id": "ChIJLwfA-XzhETkRhr1CsM3Gl7A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLwfA-XzhETkRhr1CsM3Gl7A",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:01:57"
+  }
+]

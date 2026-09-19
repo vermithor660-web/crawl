@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khare Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home",
+    "pincode": "473113",
+    "phone_number": "+91 94794 06040",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "47, NH 3, Todi Mohalla, Gomti Nagar, Dewas, Madhya Pradesh 455001",
+    "area": "Todi Mohalla, Gomti Nagar",
+    "latitude": 22.9610563,
+    "longitude": 76.050073,
+    "place_id": "ChIJpcWyXIUXYzkR6hEkj_D8IOo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpcWyXIUXYzkR6hEkj_D8IOo",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:53:11"
+  },
+  {
+    "business_name": "Suyash Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home",
+    "pincode": "473113",
+    "phone_number": "+91 217 260 1253",
+    "website": "https://suyashnursinghome.com/",
+    "rating": 4.3,
+    "reviews_count": 86,
+    "address": "40, Hotagi Rd, Vikas Nagar, Ratandeep Housing Society, Solapur, Maharashtra 413003",
+    "area": "Vikas Nagar, Ratandeep Housing Society",
+    "latitude": 17.650589099999998,
+    "longitude": 75.9109321,
+    "place_id": "ChIJQQQ5HuTbxTsRulC0r2-Mr4M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQQQ5HuTbxTsRulC0r2-Mr4M",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:53:13"
+  }
+]

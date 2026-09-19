@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Iconic beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "473660",
+    "phone_number": "+91 97704 43597",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "in front of Sharma education point, Hathi Khana, Dakhar Mohalla, Shivpuri, Madhya Pradesh 473638",
+    "area": "Hathi Khana, Dakhar Mohalla",
+    "latitude": 25.423428899999998,
+    "longitude": 77.6477093,
+    "place_id": "ChIJRwa7Kay_cDkRs9PM5uA-VPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRwa7Kay_cDkRs9PM5uA-VPk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:27:01"
+  },
+  {
+    "business_name": "Modern Family Beauty Parlour S K",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "473660",
+    "phone_number": "+91 97706 41756",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "College Road, Police Line, Karera, Jabalpur, Madhya Pradesh 473660",
+    "area": "Police Line",
+    "latitude": 25.4538637,
+    "longitude": 78.14156539999999,
+    "place_id": "ChIJOzixQ55FdzkReJ4-DmI-oC8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOzixQ55FdzkReJ4-DmI-oC8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:27:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SK Kirana store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "473662",
+    "phone_number": "+91 62628 83575",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "NH27HIGHWAY, Shivpuri - Jhansi Rd, Madhya Pradesh 473660",
+    "area": "473662",
+    "latitude": 25.413294099999998,
+    "longitude": 77.9554493,
+    "place_id": "ChIJT0Q0SxpNdzkRCnVsUEyy_JM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT0Q0SxpNdzkRCnVsUEyy_JM",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:27:54"
+  },
+  {
+    "business_name": "Jay kishan online",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "473662",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "C232+G62, Salaiya Karera, Madhya Pradesh 473660",
+    "area": "473662",
+    "latitude": 25.404123199999997,
+    "longitude": 78.00048079999999,
+    "place_id": "ChIJBUvUGQBNdzkRElghLb3sQH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUvUGQBNdzkRElghLb3sQH8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:27:54"
+  }
+]

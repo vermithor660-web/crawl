@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hair cafe unisex salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hairdresser, Make-up artist",
+    "pincode": "473665",
+    "phone_number": "+91 87555 27130",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "28 FUTA, Hospital Rd, near Samsung smart cafe, Punjabi Colony, Vikasnagar, Uttarakhand 248198",
+    "area": "Punjabi Colony",
+    "latitude": 30.469464799999997,
+    "longitude": 77.7750614,
+    "place_id": "ChIJX5DCuQYvDzkRY18mHhS9VkU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX5DCuQYvDzkRY18mHhS9VkU",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:30:31"
+  },
+  {
+    "business_name": "NS man salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "473665",
+    "phone_number": "+91 88175 19710",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhadoriya ki khidaki, Ring Rd, Datia, Madhya Pradesh 475661",
+    "area": "473665",
+    "latitude": 25.6710198,
+    "longitude": 78.4614952,
+    "place_id": "ChIJ0-dI7qUTdzkRJL43tvnxYy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-dI7qUTdzkRJL43tvnxYy0",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:30:32"
+  }
+]

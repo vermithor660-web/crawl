@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Jagjit Bhatia",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist, Otolaryngology clinic",
+    "pincode": "473446",
+    "phone_number": "N/A",
+    "website": "http://www.drbhatia.in/",
+    "rating": 4.4,
+    "reviews_count": 57,
+    "address": "C-1/100, Ashok Vihar II, Pocket C 1, Phase 2, Ashok Vihar, Delhi, 110052",
+    "area": "Ashok Vihar II, Pocket C 1, Phase 2, Ashok Vihar",
+    "latitude": 28.695853699999997,
+    "longitude": 77.1751632,
+    "place_id": "ChIJIeS07xYCDTkRdNV1hDwlUVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIeS07xYCDTkRdNV1hDwlUVs",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:19:34"
+  },
+  {
+    "business_name": "Pradeep ENT Health care",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic, Wholesale drugstore",
+    "pincode": "473446",
+    "phone_number": "+91 91986 85500",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 12,
+    "address": "Mukeriganj, Azamgarh, Uttar Pradesh 276001",
+    "area": "Mukeriganj",
+    "latitude": 26.0771783,
+    "longitude": 83.1863003,
+    "place_id": "ChIJNVZI9vajkTkRkR7rQHrIapI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNVZI9vajkTkRkR7rQHrIapI",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:19:35"
+  }
+]

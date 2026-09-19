@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indian tea house",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "473118",
+    "phone_number": "+91 74156 95046",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "DB City Mall, Zone-I, Maharana Pratap Nagar, Bhopal, Madhya Pradesh 462011",
+    "area": "DB City Mall, Zone-I, Maharana Pratap Nagar",
+    "latitude": 23.2332571,
+    "longitude": 77.4303036,
+    "place_id": "ChIJLd7HlPxDfDkRrAg2j0A7WpY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLd7HlPxDfDkRrAg2j0A7WpY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:56:21"
+  },
+  {
+    "business_name": "BEWAFA CAFE",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house, Cafe",
+    "pincode": "473118",
+    "phone_number": "+91 72908 64996",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Saharpura Main Market Rd, Sindri, Jharkhand 828122",
+    "area": "473118",
+    "latitude": 23.676166,
+    "longitude": 86.48984899999999,
+    "place_id": "ChIJX2YvY_-X9jkR3VmrttdJXOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX2YvY_-X9jkR3VmrttdJXOk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:56:23"
+  }
+]

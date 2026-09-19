@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Raghavendra Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "473445",
+    "phone_number": "+91 82322 26223",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Ashok Nagar, Mandya, Karnataka 571401",
+    "area": "Ashok Nagar",
+    "latitude": 12.5261009,
+    "longitude": 76.89880169999999,
+    "place_id": "ChIJewGBEt-grzsRUIsXDcUofNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJewGBEt-grzsRUIsXDcUofNY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:17:43"
+  },
+  {
+    "business_name": "Primary Health Sub Center Gilaropa New",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "473445",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8XC3+R57, Jasan Khedi, Mungaoli, Madhya Pradesh 473445",
+    "area": "473445",
+    "latitude": 24.322035,
+    "longitude": 77.95292529999999,
+    "place_id": "ChIJ9VrMbt59eTkRO192XCCGrZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9VrMbt59eTkRO192XCCGrZg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:17:46"
+  }
+]

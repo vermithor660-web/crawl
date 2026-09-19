@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Gold Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "473105",
+    "phone_number": "+91 92358 74715",
+    "website": "https://thegoldspa.in/",
+    "rating": 4.9,
+    "reviews_count": 38,
+    "address": "Dam Rd, Azadpura, Lalitpur, Uttar Pradesh 284403",
+    "area": "Azadpura",
+    "latitude": 24.684625399999998,
+    "longitude": 78.4104361,
+    "place_id": "ChIJgd99YEW7eTkRnqJBkQK05nc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgd99YEW7eTkRnqJBkQK05nc",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:46:32"
+  },
+  {
+    "business_name": "Body Care Spa",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "473105",
+    "phone_number": "+91 78038 22430",
+    "website": "https://www.bodycarespa.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "2nd Floor, Gurubakshish Arcade Infront of Priyadarshani Adhishthan, Danapani Rd, Bawadiya Kalan, Pallavi Nagar, Bhopal, Madhya Pradesh 462039",
+    "area": "Bawadiya Kalan, Pallavi Nagar",
+    "latitude": 23.185921699999998,
+    "longitude": 77.4442158,
+    "place_id": "ChIJH2-suMVDfDkR2VdsbvGdHFI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH2-suMVDfDkR2VdsbvGdHFI",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:46:33"
+  }
+]

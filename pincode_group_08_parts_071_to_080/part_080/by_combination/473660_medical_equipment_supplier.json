@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rai Medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "473660",
+    "phone_number": "+91 88893 00920",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Collage road, Shivpuri - Jhansi Rd, Police Line, Karera, Madhya Pradesh 473660",
+    "area": "Police Line",
+    "latitude": 25.4541491,
+    "longitude": 78.1414582,
+    "place_id": "ChIJt0mmAfpFdzkRR8cTIIxjh8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt0mmAfpFdzkRR8cTIIxjh8U",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:26:40"
+  },
+  {
+    "business_name": "Sultan medical Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "473660",
+    "phone_number": "+91 91712 57478",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Karera, Madhya Pradesh 473660",
+    "area": "473660",
+    "latitude": 25.460205499999997,
+    "longitude": 78.1364708,
+    "place_id": "ChIJG9LJJABFdzkRmhvKRUXHneY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9LJJABFdzkRmhvKRUXHneY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:26:40"
+  }
+]

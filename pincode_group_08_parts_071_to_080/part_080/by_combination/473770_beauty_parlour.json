@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivam Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "473770",
+    "phone_number": "+91 96916 63414",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shivam Beauty Parlour, Tawar Ke Pass, Gram, Sesai Sadak, Madhya Pradesh 473551",
+    "area": "Gram",
+    "latitude": 25.31,
+    "longitude": 77.624973,
+    "place_id": "ChIJ1wdpXw2jcDkRWLXaxGPlsp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1wdpXw2jcDkRWLXaxGPlsp4",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:33:56"
+  },
+  {
+    "business_name": "Ankesh Kushwah",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "473770",
+    "phone_number": "+91 62631 38223",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3G2P+8FP, Sesai Khurd, Madhya Pradesh 473885",
+    "area": "473770",
+    "latitude": 25.050840299999997,
+    "longitude": 77.5361992,
+    "place_id": "ChIJ5fmBQAB1ejkR4doL8FC5FmA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5fmBQAB1ejkR4doL8FC5FmA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:33:56"
+  }
+]

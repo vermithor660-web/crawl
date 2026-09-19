@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baba Optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "473287",
+    "phone_number": "+91 94250 38996",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Rajgarh road, near PG COLLEGE, Biaora, Madhya Pradesh 465674",
+    "area": "473287",
+    "latitude": 23.9220412,
+    "longitude": 76.9059998,
+    "place_id": "ChIJq9kQN9lrezkRcQe1opZaYOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq9kQN9lrezkRcQe1opZaYOk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:03:31"
+  },
+  {
+    "business_name": "Top Con Optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "473287",
+    "phone_number": "+91 755 242 2469",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 10,
+    "address": "E-6/168, 11 No. Stop, E-7, Arera Colony, Bhopal, Madhya Pradesh 462016",
+    "area": "E-7, Arera Colony",
+    "latitude": 23.210176699999998,
+    "longitude": 77.4364106,
+    "place_id": "ChIJq6qqqlNCfDkRXS2GydBbrpk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqlNCfDkRXS2GydBbrpk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:03:33"
+  }
+]

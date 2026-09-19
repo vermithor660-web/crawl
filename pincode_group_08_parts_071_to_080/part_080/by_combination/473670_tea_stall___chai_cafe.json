@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shahi's tea",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea Wholesaler",
+    "all_categories": "Tea Wholesaler",
+    "pincode": "473670",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nibahra, Fatehpur, Uttar Pradesh 212601",
+    "area": "Nibahra",
+    "latitude": 25.9355646,
+    "longitude": 80.8281378,
+    "place_id": "ChIJyaZMZ9t9mzkRCoNxAujIaWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyaZMZ9t9mzkRCoNxAujIaWU",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:31:30"
+  },
+  {
+    "business_name": "Badshahi Gold Chai I Best Chai In Satna",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea house",
+    "all_categories": "Tea house",
+    "pincode": "473670",
+    "phone_number": "+91 89624 37727",
+    "website": "https://badshahigoldchai.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "No. 2/32, Indra Market, Station Rd, Satna, Madhya Pradesh 485001",
+    "area": "Railway Colony",
+    "latitude": 24.566133999999998,
+    "longitude": 80.8302728,
+    "place_id": "ChIJ-8mLm3J_hDkRJxq2WgFOD0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-8mLm3J_hDkRJxq2WgFOD0U",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:31:30"
+  }
+]

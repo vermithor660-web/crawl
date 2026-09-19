@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Green Chick Chop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Chicken shop, Meat products store",
+    "pincode": "473443",
+    "phone_number": "+91 78348 24004",
+    "website": "https://www.greenchickchop.in/",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Block G G, 9, Model Town 3rd Main Rd, Block G, Phase 3, Azadpur, New Delhi, Delhi, 110033",
+    "area": "Block G, Phase 3, Azadpur",
+    "latitude": 28.7070413,
+    "longitude": 77.1843043,
+    "place_id": "ChIJWSQeaAMCDTkRk9WuNiK_M1M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWSQeaAMCDTkRk9WuNiK_M1M",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:13:50"
+  },
+  {
+    "business_name": "Makkah Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop, Store",
+    "pincode": "473443",
+    "phone_number": "+91 99595 43012",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "4-62,14, Colony, Nizam Colony, Toli Chowki, Hyderabad, Telangana 500008",
+    "area": "Nizam Colony, Toli Chowki",
+    "latitude": 17.3986913,
+    "longitude": 78.420282,
+    "place_id": "ChIJY3y-uueWyzsRALKpcMkedyo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY3y-uueWyzsRALKpcMkedyo",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:13:50"
+  }
+]

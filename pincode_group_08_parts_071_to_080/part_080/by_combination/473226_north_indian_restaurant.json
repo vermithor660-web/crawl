@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ashok Kitchen",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "473226",
+    "phone_number": "+91 98262 51919",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 35,
+    "address": "New Shopping Complex, Nigahi, Madhya Pradesh 486884",
+    "area": "473226",
+    "latitude": 24.109299399999998,
+    "longitude": 82.6298978,
+    "place_id": "ChIJc0aiT2w3jzkRe6RxAily7Lw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc0aiT2w3jzkRe6RxAily7Lw",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:59:52"
+  },
+  {
+    "business_name": "Hari Om Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant, Buffet restaurant, Vegetarian restaurant",
+    "pincode": "473226",
+    "phone_number": "+91 76103 65103",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 1018,
+    "address": "Choupati chouraha, Indore - Bhopal Rd, Indore, Ashta, Madhya Pradesh 466116",
+    "area": "473226",
+    "latitude": 23.036592499999998,
+    "longitude": 76.7157225,
+    "place_id": "ChIJz_DTMVDbfDkRzvSJD77V1Rs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz_DTMVDbfDkRzvSJD77V1Rs",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:59:54"
+  }
+]

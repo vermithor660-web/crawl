@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivoham yogshala",
+    "search_category": "Yoga Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "473638",
+    "phone_number": "+91 79835 80299",
+    "website": "https://shivohamyogshala.in/",
+    "rating": 4.9,
+    "reviews_count": 49,
+    "address": "near kundans Sweets, Arya Nagar, Budh Bazaar, Moradabad, Uttar Pradesh 244001",
+    "area": "Arya Nagar, Budh Bazaar",
+    "latitude": 28.833380299999998,
+    "longitude": 78.7694041,
+    "place_id": "ChIJt3xAcf77CjkRbZd_6iwtTRY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt3xAcf77CjkRbZd_6iwtTRY",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:24:53"
+  },
+  {
+    "business_name": "Guruji's Yoga Studio",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio",
+    "pincode": "473638",
+    "phone_number": "+91 94674 04088",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 69,
+    "address": "624, Sector 14, Sonipat, Haryana 131001",
+    "area": "Sector 14",
+    "latitude": 28.999316999999998,
+    "longitude": 77.0322614,
+    "place_id": "ChIJCWPqUv-xDTkR75HFLIrGLNk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCWPqUv-xDTkR75HFLIrGLNk",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:24:53"
+  }
+]

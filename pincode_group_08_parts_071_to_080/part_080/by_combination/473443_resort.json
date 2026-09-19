@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel vardhman mungaoli",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "473443",
+    "phone_number": "+91 81095 93397",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 11,
+    "address": "Station Rd, Mungaoli, Madhya Pradesh 473443",
+    "area": "473443",
+    "latitude": 24.4041998,
+    "longitude": 78.1069009,
+    "place_id": "ChIJmwewIFR5eTkRePSdbk7owk8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwewIFR5eTkRePSdbk7owk8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:14:47"
+  },
+  {
+    "business_name": "Shahnaai garden",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "473443",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "C33W+VXJ भुजरिया तालाब, पार्क, Mungaoli, Madhya Pradesh 473443",
+    "area": "पार्क",
+    "latitude": 24.404996399999998,
+    "longitude": 78.0973652,
+    "place_id": "ChIJRQpOcwB5eTkRbcjxtm_mXmg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQpOcwB5eTkRbcjxtm_mXmg",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:14:47"
+  }
+]

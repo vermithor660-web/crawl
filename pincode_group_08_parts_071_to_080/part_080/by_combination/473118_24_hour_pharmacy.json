@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pharma Shopee",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmaceutical Products Wholesaler",
+    "all_categories": "Pharmaceutical Products Wholesaler",
+    "pincode": "473118",
+    "phone_number": "+91 86570 01201",
+    "website": "http://pharmashopee.in/",
+    "rating": 4.8,
+    "reviews_count": 66,
+    "address": "A-8, Shreyas Industrial Estate, off Western Express Highway, opp. Lotus corporate park, NESCO, Goregaon East, Mumbai, Maharashtra 400063",
+    "area": "NESCO, Goregaon East",
+    "latitude": 19.1459017,
+    "longitude": 72.85431729999999,
+    "place_id": "ChIJEX2qzAW35zsRDs-ZTgzKXWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEX2qzAW35zsRDs-ZTgzKXWU",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:56:39"
+  },
+  {
+    "business_name": "Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "473118",
+    "phone_number": "+91 73030 38427",
+    "website": "N/A",
+    "rating": 2.6,
+    "reviews_count": 8,
+    "address": "H667+PVG, New, South Extension II, Block K, New Delhi, Delhi 110049",
+    "area": "South Extension II, Block K",
+    "latitude": 28.5618083,
+    "longitude": 77.2147051,
+    "place_id": "ChIJZ1Bt3mniDDkRRysxETDWvfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ1Bt3mniDDkRRysxETDWvfA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:56:39"
+  }
+]

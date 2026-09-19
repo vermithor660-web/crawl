@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Neha Khandel",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "473660",
+    "phone_number": "+91 97708 91669",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "05 Kirana Store, Road, Teela, Karera, Madhya Pradesh 473660",
+    "area": "473660",
+    "latitude": 25.4503795,
+    "longitude": 78.1403225,
+    "place_id": "ChIJD1n5eZ1FdzkRziX1o1c5uJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD1n5eZ1FdzkRziX1o1c5uJc",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:26:16"
+  },
+  {
+    "business_name": "Bijnes",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "473660",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Son Rajput Haibe, Toda Kareree, Madhya Pradesh 473660",
+    "area": "473660",
+    "latitude": 25.446866399999998,
+    "longitude": 78.190866,
+    "place_id": "ChIJuzDSMjRFdzkRP8Kv1GnFFx8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuzDSMjRFdzkRP8Kv1GnFFx8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:26:16"
+  }
+]

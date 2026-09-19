@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswal Breakdown Service",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Crane service",
+    "pincode": "473662",
+    "phone_number": "+91 99777 65817",
+    "website": "https://jaiswalbreakdownservice.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Bilaspur Rd, beside Hotel Federation, Tifra, Bilaspur, Chhattisgarh 495004",
+    "area": "Tifra",
+    "latitude": 22.0523134,
+    "longitude": 82.1250452,
+    "place_id": "ChIJqahPXk0NKDoR5bx8leVCZ2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqahPXk0NKDoR5bx8leVCZ2U",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:28:33"
+  },
+  {
+    "business_name": "Knox's Recovery LLC",
+    "search_category": "Crane and Towing Service",
+    "primary_category": "Towing service",
+    "all_categories": "Towing service, Service establishment",
+    "pincode": "473662",
+    "phone_number": "N/A",
+    "website": "https://knoxsrecoveryllc.com/?utm_source=omg-gbp&utm_medium=webclick",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Knox's Recovery LLC, 473662, India",
+    "area": "473662",
+    "latitude": 39.525839399999995,
+    "longitude": -97.35711099999999,
+    "place_id": "ChIJz4Vhbarf-yMRo9xYO2ittgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4Vhbarf-yMRo9xYO2ittgA",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:28:35"
+  }
+]

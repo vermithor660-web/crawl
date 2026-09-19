@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Lens Studio",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio, Photographer, Wedding photographer",
+    "pincode": "473111",
+    "phone_number": "+91 88272 44309",
+    "website": "https://www.instagram.com/the_lens_studio_rinku/",
+    "rating": 4.1,
+    "reviews_count": 13,
+    "address": "Napier Town, Jabalpur, Madhya Pradesh 482001",
+    "area": "Napier Town",
+    "latitude": 23.159921699999998,
+    "longitude": 79.9300962,
+    "place_id": "ChIJ6TCGfPyvgTkRZcHsEVbKpy8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6TCGfPyvgTkRZcHsEVbKpy8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:50:20"
+  },
+  {
+    "business_name": "DJI Drone shop",
+    "search_category": "Videographer and Drone Rental",
+    "primary_category": "Drone shop",
+    "all_categories": "Drone shop, Aerial photographer, Drone service, Hobby store, Importer",
+    "pincode": "473111",
+    "phone_number": "+91 96672 51959",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 55,
+    "address": "Nitin Apartments, Prema Kunj, Civil Lines, Delhi, 110054",
+    "area": "Prema Kunj, Civil Lines",
+    "latitude": 28.6746019,
+    "longitude": 77.2296255,
+    "place_id": "ChIJyama6bn9DDkRREkvc8VroLE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyama6bn9DDkRREkvc8VroLE",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 06:50:21"
+  }
+]

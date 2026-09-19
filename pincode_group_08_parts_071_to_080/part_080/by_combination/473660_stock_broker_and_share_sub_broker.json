@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubh Nivesh",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service, Financial consultant, Insurance agency, Financial planner, Real estate consultant",
+    "pincode": "473660",
+    "phone_number": "N/A",
+    "website": "http://www.shubhnivesh.co.in/",
+    "rating": 5,
+    "reviews_count": 18,
+    "address": "FF-47, Aakriti Business Centre, Rohit Nagar Phase 1, Aakriti Ecocity, Salaiya, Bhopal, Madhya Pradesh 462039",
+    "area": "Rohit Nagar Phase 1, Aakriti Ecocity, Salaiya",
+    "latitude": 23.1700798,
+    "longitude": 77.4421145,
+    "place_id": "ChIJ56UcSlhDfDkRfeAijJnHR9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ56UcSlhDfDkRfeAijJnHR9Y",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:27:30"
+  },
+  {
+    "business_name": "PTIC Corporate Services Pvt. Ltd",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Financial planner",
+    "all_categories": "Financial planner",
+    "pincode": "473660",
+    "phone_number": "+91 97091 07555",
+    "website": "http://pticindia.com/",
+    "rating": 4.9,
+    "reviews_count": 352,
+    "address": "C-345, Block C, Defence Colony, Delhi, New Delhi, Delhi 110024",
+    "area": "Block C, Defence Colony",
+    "latitude": 28.5688626,
+    "longitude": 77.23170979999999,
+    "place_id": "ChIJPWRiSlDiDDkRGpWLvSLXag8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPWRiSlDiDDkRGpWLvSLXag8",
+    "part_id": "part_080",
+    "crawled_at": "2026-09-19 07:27:30"
+  }
+]
