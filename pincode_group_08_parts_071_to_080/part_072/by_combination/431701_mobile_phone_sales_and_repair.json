@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishal Mobile Shopee",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "431701",
+    "phone_number": "+91 98239 28737",
+    "website": "http://www.vishalenterprises.com/",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "Akhara Balapur, Maharashtra 431701",
+    "area": "431701",
+    "latitude": 19.5320203,
+    "longitude": 77.4158424,
+    "place_id": "ChIJ2cBRoF240TsRCUQ2hQjrioU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2cBRoF240TsRCUQ2hQjrioU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:01:18"
+  },
+  {
+    "business_name": "Krishna Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "431701",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "P48Q+9M2, Mangalwara, Hingoli, Maharashtra 431513",
+    "area": "Mangalwara",
+    "latitude": 19.7158117,
+    "longitude": 77.139515,
+    "place_id": "ChIJ49_zCQBT0DsRbNrfcwkriic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ49_zCQBT0DsRbNrfcwkriic",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:01:22"
+  }
+]

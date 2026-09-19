@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BAGH KOTHI WILDLIFE RESORT",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "431804",
+    "phone_number": "+91 97649 28924",
+    "website": "http://www.baghkothi.in/",
+    "rating": 4.3,
+    "reviews_count": 188,
+    "address": "Tadoba, Kolara gate, Chimur, Maharashtra 442903",
+    "area": "431804",
+    "latitude": 20.3878429,
+    "longitude": 79.35544639999999,
+    "place_id": "ChIJPdxjgxxL0zsR3O9n24CB8Nw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPdxjgxxL0zsR3O9n24CB8Nw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:03:58"
+  },
+  {
+    "business_name": "Hotel Aditya Ac Inns",
+    "search_category": "Resort",
+    "primary_category": "Bed & breakfast",
+    "all_categories": "Bed & breakfast, Bar",
+    "pincode": "431804",
+    "phone_number": "+91 96033 03380",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "near collectorate office, road, Gokunda, Kinwat, Maharashtra 431804",
+    "area": "road",
+    "latitude": 19.6144848,
+    "longitude": 78.2002109,
+    "place_id": "ChIJqVMkWig80jsRASYOKSOIofQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqVMkWig80jsRASYOKSOIofQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:04:00"
+  }
+]

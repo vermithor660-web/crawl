@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blouse Queen",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431745",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Raj Shopping Complex, Hanuman Peth Rd, near Anjali matching, opposite Janpriya Hotel, Shivaji Putala, Vazirabad, Nanded, Maharashtra 431601",
+    "area": "Shivaji Putala, Vazirabad",
+    "latitude": 19.153794299999998,
+    "longitude": 77.3109648,
+    "place_id": "ChIJAWJbUDbX0TsR73dh0ftiXzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAWJbUDbX0TsR73dh0ftiXzc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:51:39"
+  },
+  {
+    "business_name": "Sk Rafiq Flowers Shop",
+    "search_category": "Boutiques",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer",
+    "pincode": "431745",
+    "phone_number": "+91 99236 31370",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 6,
+    "address": "6FF7+FP2, NH 61, Barad, Maharashtra 431745",
+    "area": "431745",
+    "latitude": 19.223646,
+    "longitude": 77.46426149999999,
+    "place_id": "ChIJO6afVlHZ0TsRT7dWmxPybZo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO6afVlHZ0TsRT7dWmxPybZo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:51:41"
+  }
+]

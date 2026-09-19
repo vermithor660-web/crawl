@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SPA PALACE",
+    "search_category": "Spa Consultants",
+    "primary_category": "Spa",
+    "all_categories": "Spa",
+    "pincode": "431536",
+    "phone_number": "+91 93038 54894",
+    "website": "https://spapalaceindia.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1st Floor, seeta vallabh market, front of bajaj finance, old, rajbhog Hotel, near reliance petrol pump, Vallabh Nagar Colony, Gouridham Extension Colony, Khargone, Madhya Pradesh 451001",
+    "area": "Vallabh Nagar Colony, Gouridham Extension Colony",
+    "latitude": 21.8313179,
+    "longitude": 75.6118264,
+    "place_id": "ChIJ8ZW4SIGF2DsRxDPVRpT81MY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8ZW4SIGF2DsRxDPVRpT81MY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:41:46"
+  },
+  {
+    "business_name": "RUPASAUDRYA BEAUTY PARLOR",
+    "search_category": "Spa Consultants",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "431536",
+    "phone_number": "+91 94218 62741",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Shop No 2 Karegao Road, near Ughada Mahadev, Parisar, Parbhani, Maharashtra 431401",
+    "area": "Prakash Nagar, Parisar",
+    "latitude": 19.2562711,
+    "longitude": 76.7981666,
+    "place_id": "ChIJ47-GhPkZ0DsRzQPa1JaxJEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ47-GhPkZ0DsRzQPa1JaxJEU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:41:46"
+  }
+]

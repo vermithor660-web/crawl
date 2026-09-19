@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chandan Nagar Mutton Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "431703",
+    "phone_number": "+91 98506 88880",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 61,
+    "address": "Chandan Nagar Sr No 49/2 Bhaji Market, waje Chal, Chandan Nagar, Pune, Maharashtra 411014",
+    "area": "Chandan Nagar",
+    "latitude": 18.562144999999997,
+    "longitude": 73.93253279999999,
+    "place_id": "ChIJpUj6Vl7BwjsRK4bmB1KhAkc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpUj6Vl7BwjsRK4bmB1KhAkc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:03:31"
+  },
+  {
+    "business_name": "Deva Bhai chicken centre",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken shop",
+    "all_categories": "Chicken shop",
+    "pincode": "431703",
+    "phone_number": "+91 92730 31154",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "Kharoshi, Maharashtra 402107",
+    "area": "431703",
+    "latitude": 18.809444199999998,
+    "longitude": 73.1024607,
+    "place_id": "ChIJ8akXtPjh5zsRA7AYcuHKLQQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8akXtPjh5zsRA7AYcuHKLQQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:03:31"
+  }
+]

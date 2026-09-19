@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Dwarka Mama Chaku umri",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431807",
+    "phone_number": "+91 77760 83754",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Mama Chauk, umri, Peth Umri, Maharashtra 431807",
+    "area": "umri",
+    "latitude": 19.03326,
+    "longitude": 77.6399689,
+    "place_id": "ChIJZyCqn6YZzjsRo0gG6XUhJwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZyCqn6YZzjsRo0gG6XUhJwI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:10:17"
+  },
+  {
+    "business_name": "Hotel Dostana & Juice",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431807",
+    "phone_number": "+91 93254 91624",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XHGW+38R, umri, Balegaon, Maharashtra 431807",
+    "area": "umri",
+    "latitude": 18.9710497,
+    "longitude": 77.5984872,
+    "place_id": "ChIJOQ22HwAZzjsRDYKyWKDmflw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOQ22HwAZzjsRDYKyWKDmflw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:10:18"
+  }
+]

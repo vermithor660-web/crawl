@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SLNS cold storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "431721",
+    "phone_number": "+91 95500 49999",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "H no: 5-83/72, Nizamabad - Koratla Rd, Ankapur, Telangana 503223",
+    "area": "431721",
+    "latitude": 18.767186,
+    "longitude": 78.235773,
+    "place_id": "ChIJw3PkmafBzTsRvp1Heoxf7BI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw3PkmafBzTsRvp1Heoxf7BI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:36:40"
+  },
+  {
+    "business_name": "Dattakrupa Cold Drinks and Daily Needs",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "431721",
+    "phone_number": "+91 86981 87200",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "V5CG+627, Chinchkhed, Maharashtra 431805",
+    "area": "431721",
+    "latitude": 19.8705289,
+    "longitude": 78.17505179999999,
+    "place_id": "ChIJlYEtPrwz0jsRlmMEDg2rxuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlYEtPrwz0jsRlmMEDg2rxuA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:36:41"
+  }
+]

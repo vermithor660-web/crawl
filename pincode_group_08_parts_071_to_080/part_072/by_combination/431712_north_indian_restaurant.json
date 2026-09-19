@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Punjabi dhaba sev bhaji special",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant",
+    "pincode": "431712",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 76,
+    "address": "NH 361,Nandgavhan, Bijora, Maharashtra 445205",
+    "area": "431712",
+    "latitude": 19.6935857,
+    "longitude": 77.72041279999999,
+    "place_id": "ChIJJ9evoraR0TsRQfOAWwgtjhM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ9evoraR0TsRQfOAWwgtjhM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:17:29"
+  },
+  {
+    "business_name": "5 Start Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "431712",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 30,
+    "address": "5 Start Dhaba, road, Narwat, Maharashtra 431801",
+    "area": "431712",
+    "latitude": 19.2293654,
+    "longitude": 77.6442737,
+    "place_id": "ChIJS5A6z17h0TsRN36_93svnDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS5A6z17h0TsRN36_93svnDM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:17:29"
+  }
+]

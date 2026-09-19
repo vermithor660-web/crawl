@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Diamond Optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "431809",
+    "phone_number": "+91 94236 26294",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.1 Pansare Chowk, Main Road, Dharmabad, Maharashtra 431809",
+    "area": "431809",
+    "latitude": 18.8904869,
+    "longitude": 77.84727269999999,
+    "place_id": "ChIJe3j8R2AJzjsRgvb-_KEEYRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe3j8R2AJzjsRgvb-_KEEYRM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:13:38"
+  },
+  {
+    "business_name": "Gouri Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Optometrist, Sunglasses store",
+    "pincode": "431809",
+    "phone_number": "+91 94405 95660",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Dr. JP Sharma complex, Khaleelwadi, Nizamabad, Telangana 503003",
+    "area": "Tilak Gardens, Khaleelwadi",
+    "latitude": 18.6733331,
+    "longitude": 78.10105999999999,
+    "place_id": "ChIJcznMCy_bzTsRQTZC0SuxWh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcznMCy_bzTsRQTZC0SuxWh8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:13:41"
+  }
+]

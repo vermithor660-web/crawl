@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Borule Niwas",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "431719",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Udgir - Degloor Rd, Halni, Maharashtra 431719",
+    "area": "431719",
+    "latitude": 18.4563843,
+    "longitude": 77.3047689,
+    "place_id": "ChIJg95BF5hXzjsRJWNjqP4Xr1U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg95BF5hXzjsRJWNjqP4Xr1U",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:32:05"
+  },
+  {
+    "business_name": "Jadhav Farm house",
+    "search_category": "Guesthouse",
+    "primary_category": "Farmstay",
+    "all_categories": "Farmstay",
+    "pincode": "431719",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "F8QV+2H, Bamni, Maharashtra 431719",
+    "area": "431719",
+    "latitude": 18.4875144,
+    "longitude": 77.34397799999999,
+    "place_id": "ChIJczYoPPVRzjsR54etkwl6qMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJczYoPPVRzjsR54etkwl6qMo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:32:07"
+  }
+]

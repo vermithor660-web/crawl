@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Computer Sales & Services Umarkhed",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "431712",
+    "phone_number": "+91 98605 41179",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "Bhagatsingh Ward, Umarkhed, Maharashtra 445206",
+    "area": "Bhagatsingh Ward",
+    "latitude": 19.6027368,
+    "longitude": 77.6871049,
+    "place_id": "ChIJv6qj78WT0TsR8thUTEog9zM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv6qj78WT0TsR8thUTEog9zM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:18:34"
+  },
+  {
+    "business_name": "Shree Sai Computer",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service, Computer support and services, Printer repair service",
+    "pincode": "431712",
+    "phone_number": "+91 99751 51748",
+    "website": "https://sscukd.blogspot.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Umarkhed - Pusad Rd, near SBI Bank, Bhagatsingh Ward, Umarkhed, Maharashtra 445206",
+    "area": "Bhagatsingh Ward",
+    "latitude": 19.6034206,
+    "longitude": 77.6860492,
+    "place_id": "ChIJu42StRCT0TsRYejmySWh0Hg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu42StRCT0TsRYejmySWh0Hg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:18:36"
+  }
+]

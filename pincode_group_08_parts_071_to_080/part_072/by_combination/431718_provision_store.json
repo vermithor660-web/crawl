@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai General & Bookstores",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, General store",
+    "pincode": "431718",
+    "phone_number": "+91 70288 91777",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Karadkhed Dam, Shop No 1, Main Road, Maharashtra 431718",
+    "area": "431718",
+    "latitude": 18.4758024,
+    "longitude": 77.4952084,
+    "place_id": "ChIJMYcVmIFfzjsRKQoeEjxjOH8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMYcVmIFfzjsRKQoeEjxjOH8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:28:46"
+  },
+  {
+    "business_name": "Anuja General Stores",
+    "search_category": "Provision Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "431718",
+    "phone_number": "+91 97396 79452",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Savrgaon - Hangrga Rd, Hangarga, Hangerga, Karnataka 585448",
+    "area": "431718",
+    "latitude": 18.3896952,
+    "longitude": 77.3924661,
+    "place_id": "ChIJUVYSu_lZzjsRu7w4cxcvP9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUVYSu_lZzjsRu7w4cxcvP9w",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:28:47"
+  }
+]

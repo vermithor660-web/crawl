@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tasty Bekers",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "431603",
+    "phone_number": "+91 98238 90930",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No, 1, Purna Rd, near Bullet Showroom, Taroda Kh., Waman Nagar, Nanded, Maharashtra 431605",
+    "area": "Taroda Kh., Waman Nagar",
+    "latitude": 19.18595,
+    "longitude": 77.2967718,
+    "place_id": "ChIJcQ0hLynX0TsRxi9H0A_1-hU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQ0hLynX0TsRxi9H0A_1-hU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:53:06"
+  },
+  {
+    "business_name": "CHOICE CONFECTIONERY AND DAILY NEEDS",
+    "search_category": "Patisserie",
+    "primary_category": "Wholesale bakery",
+    "all_categories": "Wholesale bakery",
+    "pincode": "431603",
+    "phone_number": "+91 78880 72477",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Shop No 1, Deglour Naka, Nanded, Maharashtra 431604",
+    "area": "Deglour Naka",
+    "latitude": 19.153567199999998,
+    "longitude": 77.3383961,
+    "place_id": "ChIJS9Anf9LX0TsR6dfMMyxLQDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS9Anf9LX0TsR6dfMMyxLQDQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:53:07"
+  }
+]

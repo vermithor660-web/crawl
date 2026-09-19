@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Famous Fruit Godown",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Fruits Wholesaler",
+    "all_categories": "Fruits Wholesaler",
+    "pincode": "431745",
+    "phone_number": "+91 98222 31911",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 5, New Kisan Market, Maltekri Road, Kamtha, Nanded, Maharashtra 431605",
+    "area": "Deglour Naka",
+    "latitude": 19.1776753,
+    "longitude": 77.34473009999999,
+    "place_id": "ChIJldjuYgjX0TsR5UDL30KvLDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJldjuYgjX0TsR5UDL30KvLDg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:53:12"
+  },
+  {
+    "business_name": "MOC Kanda Co.",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "431745",
+    "phone_number": "+91 96651 10310",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gadegao Road, road Gadegao road, Gadegaon, Nanded, Maharashtra 431603",
+    "area": "431745",
+    "latitude": 19.1784449,
+    "longitude": 77.3630065,
+    "place_id": "ChIJbwvJwJjX0TsRbd260rax39s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbwvJwJjX0TsRbd260rax39s",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:53:14"
+  }
+]

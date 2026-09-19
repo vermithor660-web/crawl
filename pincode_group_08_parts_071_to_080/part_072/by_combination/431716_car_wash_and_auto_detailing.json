@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Miracle Car",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto insurance agency, Auto machine shop, Auto tune up service, Car repair and maintenance service, Motor vehicle dealer",
+    "pincode": "431716",
+    "phone_number": "+91 99234 64677",
+    "website": "https://miraclecaramravati.com/",
+    "rating": 4.1,
+    "reviews_count": 127,
+    "address": "Samarthwadi - Yogiraj Govind Maharaj Temple, Badnera Rd, Shashi Nagar, Guruchhaya Colony, Sai Nagar, Amravati, Maharashtra 444607",
+    "area": "Shashi Nagar, Guruchhaya Colony, Sai Nagar",
+    "latitude": 20.8890796,
+    "longitude": 77.7472731,
+    "place_id": "ChIJZZ1YfdWk1jsRJXyz2J9Rd8s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZZ1YfdWk1jsRJXyz2J9Rd8s",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:25:24"
+  },
+  {
+    "business_name": "jai Hanuman sarvising center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "431716",
+    "phone_number": "+91 85300 29881",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "MH SH 225, Jamb Bk., Maharashtra 431716",
+    "area": "431716",
+    "latitude": 18.654311699999997,
+    "longitude": 77.1678917,
+    "place_id": "ChIJe_AoxZ60zzsRXZNkkMql888",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe_AoxZ60zzsRXZNkkMql888",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:25:26"
+  }
+]

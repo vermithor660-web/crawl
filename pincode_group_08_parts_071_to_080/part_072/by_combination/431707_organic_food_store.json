@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Umer Vegatables Shop",
+    "search_category": "Organic Food Store",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "431707",
+    "phone_number": "+91 99706 67735",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop, No 1Degloor, Naka, Deglour Naka, Nanded, Maharashtra 431604",
+    "area": "Naka, Deglour Naka",
+    "latitude": 19.1525124,
+    "longitude": 77.33555989999999,
+    "place_id": "ChIJ4x_iIKnX0TsRVSAmxFmOGb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4x_iIKnX0TsRVSAmxFmOGb0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:08:34"
+  },
+  {
+    "business_name": "The Mushroom Hub",
+    "search_category": "Organic Food Store",
+    "primary_category": "Food products supplier",
+    "all_categories": "Food products supplier, Farm shop, Vegetable wholesale market",
+    "pincode": "431707",
+    "phone_number": "+91 73787 33739",
+    "website": "http://themushroomhub.weebly.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "beside busband bhokar, Bhokar, Maharashtra 431801",
+    "area": "431707",
+    "latitude": 19.2155339,
+    "longitude": 77.6703727,
+    "place_id": "ChIJPV_3mGPj0TsRBgJTFAbm858",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPV_3mGPj0TsRBgJTFAbm858",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:08:36"
+  }
+]

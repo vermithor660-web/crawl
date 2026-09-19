@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "431705",
+    "phone_number": "+91 94228 77104",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bazar Road, Aundha Nagnath, Maharashtra 431705",
+    "area": "431705",
+    "latitude": 19.5387176,
+    "longitude": 77.041293,
+    "place_id": "ChIJHf70Ju5I0DsRjyN25mu-CGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHf70Ju5I0DsRjyN25mu-CGs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:07:07"
+  },
+  {
+    "business_name": "ADITYA jeweller's",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Goldsmith",
+    "all_categories": "Goldsmith",
+    "pincode": "431705",
+    "phone_number": "+91 84838 88175",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jintur - Aundha Nagnath Rd, Aundha Nagnath, Maharashtra 431705",
+    "area": "431705",
+    "latitude": 19.5386219,
+    "longitude": 77.0413391,
+    "place_id": "ChIJbQBNAFlJ0DsRkYn2CrF1Um8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbQBNAFlJ0DsRkYn2CrF1Um8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:07:10"
+  }
+]

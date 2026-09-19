@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ST Boys Hostel Kalmanuri",
+    "search_category": "Hostels",
+    "primary_category": "Indoor lodging",
+    "all_categories": "Indoor lodging",
+    "pincode": "431702",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "M8G5+25X, Kalamnuri, Maharashtra 431702",
+    "area": "431702",
+    "latitude": 19.6751188,
+    "longitude": 77.3079806,
+    "place_id": "ChIJcWxGL0ux0TsRwgV4JLSTpSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcWxGL0ux0TsRwgV4JLSTpSs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:02:46"
+  },
+  {
+    "business_name": "Jijau Hostel Hingoli",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "431702",
+    "phone_number": "+91 97643 09915",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near Gajanan Maharaj Mandir, Antule Nagar, Surwadi, Maharashtra 431705",
+    "area": "Antule Nagar",
+    "latitude": 19.5781428,
+    "longitude": 77.10249019999999,
+    "place_id": "ChIJr7iT7W1N0DsRHLJV0Ro7EoM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr7iT7W1N0DsRHLJV0Ro7EoM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:02:47"
+  }
+]

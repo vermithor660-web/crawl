@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tasty Venue Catering",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Catering food and drink supplier",
+    "all_categories": "Catering food and drink supplier",
+    "pincode": "431718",
+    "phone_number": "+91 73868 28883",
+    "website": "https://www.tastyvenue.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9/8-3 Madhavi Nagar, Hydershakote, Bandlaguda Jagir, Hyderabad, Telangana 500091",
+    "area": "Madhavi Nagar, Hydershakote",
+    "latitude": 17.368050099999998,
+    "longitude": 78.38947929999999,
+    "place_id": "ChIJr11yZamXyzsRl1fQZW4iOMg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr11yZamXyzsRl1fQZW4iOMg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:30:03"
+  },
+  {
+    "business_name": "Shahu Catering Service",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer, Catering food and drink supplier, Restaurant supply store",
+    "pincode": "431718",
+    "phone_number": "+91 89995 43925",
+    "website": "https://shahu-catering-service.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Netaji Society, Gorewada Rd, Nagpur, Maharashtra 440013",
+    "area": "431718",
+    "latitude": 21.1943753,
+    "longitude": 79.0487131,
+    "place_id": "ChIJT0DC9trB1DsR-V5Wd6gvqpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT0DC9trB1DsR-V5Wd6gvqpQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:30:03"
+  }
+]

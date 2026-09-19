@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Santosh Auto Sarvice",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "431540",
+    "phone_number": "+91 79903 96770",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Amey Nagar, Parbhani, Maharashtra 431401",
+    "area": "Amey Nagar",
+    "latitude": 19.2744101,
+    "longitude": 76.7747754,
+    "place_id": "ChIJKfA8qMgX0DsRMqfBD5q4LAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKfA8qMgX0DsRMqfBD5q4LAQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:44:54"
+  },
+  {
+    "business_name": "Shiv Sahyadri fire& Safety College parbhani",
+    "search_category": "Driving School",
+    "primary_category": "Education center",
+    "all_categories": "Education center, Educational institution",
+    "pincode": "431540",
+    "phone_number": "+91 83905 12236",
+    "website": "https://firesafetyparbhani.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "2nd floor, Amdar complex, Jintur Rd, Datta Nagar, Trimurti Nagar, Parbhani, Maharashtra 431401",
+    "area": "Datta Nagar, Trimurti Nagar",
+    "latitude": 19.277653,
+    "longitude": 76.76152189999999,
+    "place_id": "ChIJUYpO048X0DsRZI_dX-cJjow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUYpO048X0DsRZI_dX-cJjow",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:44:55"
+  }
+]

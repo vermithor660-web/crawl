@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saheli Beauty Parlour (Ladies Only)",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Beautician, Facial spa, Hair removal service, Health and beauty shop, Make-up artist, Spa, Hairdresser, Waxing hair removal service",
+    "pincode": "431606",
+    "phone_number": "+91 98902 81226",
+    "website": "https://saheli.beauty/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "NDA Rd, beside Vaibhav Sweets Mehta Complex, Gate, Shivane, Ahire, Pune, Maharashtra 411023",
+    "area": "Gate, Shivane",
+    "latitude": 18.4637916,
+    "longitude": 73.77373949999999,
+    "place_id": "ChIJP67YGgGVwjsRR6MWfQVu6pY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP67YGgGVwjsRR6MWfQVu6pY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:59:14"
+  },
+  {
+    "business_name": "Beautifly Parlour and Training Institute",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Training center",
+    "pincode": "431606",
+    "phone_number": "+91 97625 35755",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Beautifly Parlour Shop No. 1, Krupa-Sindhu Building Survey No. 76/87, Plot No. 73 Behind Pavasha Ganapati Mandir, Ganapati Matha New Aahire, Gaon, Pune, Maharashtra 411023",
+    "area": "Warje",
+    "latitude": 18.474977,
+    "longitude": 73.79576,
+    "place_id": "ChIJD6d10ieVwjsRv2J6MOqAyv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD6d10ieVwjsRv2J6MOqAyv0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:59:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shideshwar Automobile",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "431803",
+    "phone_number": "+91 93568 82071",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop Number 01, Bhokar - Kinwat Rd, near by Bus Stop, Sawargaon, Nanded, Maharashtra 431810",
+    "area": "431803",
+    "latitude": 19.427751,
+    "longitude": 78.1051098,
+    "place_id": "ChIJ28bzASQb0jsRliwjbwWqyGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ28bzASQb0jsRliwjbwWqyGY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:01:31"
+  },
+  {
+    "business_name": "Gangadhar Automobile",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "431803",
+    "phone_number": "+91 91462 24499",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No1, Road, near Bhaisa, Shivani, Maharashtra 431803",
+    "area": "431803",
+    "latitude": 19.328074,
+    "longitude": 78.1066037,
+    "place_id": "ChIJk48FgkwF0jsRxXUKnBwQuKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk48FgkwF0jsRxXUKnBwQuKw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:01:31"
+  }
+]

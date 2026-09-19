@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samarth Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, General store",
+    "pincode": "431810",
+    "phone_number": "+91 97642 43455",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Railway Station Rd, Kinwat, Bodhadi, Bodhadi Bk., Maharashtra 431810",
+    "area": "Kinwat, Bodhadi",
+    "latitude": 19.497995,
+    "longitude": 78.194189,
+    "place_id": "ChIJ2XAEWdkX0jsRb307yypJf-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2XAEWdkX0jsRb307yypJf-o",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:15:40"
+  },
+  {
+    "business_name": "MAITRI SHOE STORE",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "431810",
+    "phone_number": "+91 77418 82566",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Dhanki, Maharashtra 445207",
+    "area": "431810",
+    "latitude": 19.565853099999998,
+    "longitude": 77.8466373,
+    "place_id": "ChIJb1xm3cyL0TsRGNvEylaO0d4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb1xm3cyL0TsRGNvEylaO0d4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:15:43"
+  }
+]

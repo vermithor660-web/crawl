@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Hear Salun",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431541",
+    "phone_number": "+91 97646 90443",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 01, Gajanan Nager, Karegaon Rd, Gajanan Nagar, Mamta colony, Parbhani, Maharashtra 431401",
+    "area": "Gajanan Nagar, Mamta colony",
+    "latitude": 19.2585992,
+    "longitude": 76.79598969999999,
+    "place_id": "ChIJf3oq7hcZ0DsR0xRXvvIUfPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf3oq7hcZ0DsR0xRXvvIUfPc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:46:51"
+  },
+  {
+    "business_name": "Om Men's Parlour",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431541",
+    "phone_number": "+91 94057 66265",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "01 Ughada Mahadev, Karegaon Rd, Parbhani, Maharashtra 431401",
+    "area": "Vijayshree Nagar, Mangal Murti Nagar",
+    "latitude": 19.2586269,
+    "longitude": 76.79625109999999,
+    "place_id": "ChIJ6ZxJxxYZ0DsRWE5DS7XDrvw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6ZxJxxYZ0DsRWE5DS7XDrvw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:46:51"
+  }
+]

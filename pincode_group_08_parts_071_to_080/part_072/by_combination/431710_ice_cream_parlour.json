@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "बिलोली महाराष्ट्र",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "431710",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "QPH9+PC9, Biloli, Maharashtra 431710",
+    "area": "431710",
+    "latitude": 18.7792782,
+    "longitude": 77.7186165,
+    "place_id": "ChIJ0fIWWQBtzjsR-RGXK3PZvYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0fIWWQBtzjsR-RGXK3PZvYs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:14:05"
+  },
+  {
+    "business_name": "Hemant Kirana & ice cream parlor",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "ATM",
+    "all_categories": "ATM",
+    "pincode": "431710",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "At post kinala, TQ, Biloli, Maharashtra 431736",
+    "area": "431710",
+    "latitude": 18.7745967,
+    "longitude": 77.56152829999999,
+    "place_id": "ChIJb9I7nw4_zjsRC2a6IgYVmBw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb9I7nw4_zjsRC2a6IgYVmBw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:14:05"
+  }
+]

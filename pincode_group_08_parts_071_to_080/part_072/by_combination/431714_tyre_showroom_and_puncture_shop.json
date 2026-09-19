@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ansar Tyres & Puncture Shop",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "431714",
+    "phone_number": "+91 83087 41379",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 12,
+    "address": "Bori, Maharashtra 445305",
+    "area": "431714",
+    "latitude": 19.8683965,
+    "longitude": 78.5707012,
+    "place_id": "ChIJI7UUmQFU0jsRInicAA-K2MQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI7UUmQFU0jsRInicAA-K2MQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:21:31"
+  },
+  {
+    "business_name": "Munde Service Centre",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "431714",
+    "phone_number": "+91 98902 41420",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1, Mukhed, Maharashtra 431715",
+    "area": "431714",
+    "latitude": 18.7061442,
+    "longitude": 77.3734659,
+    "place_id": "ChIJu2YC6LdJzjsRRsr_91l6FS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu2YC6LdJzjsRRsr_91l6FS0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:21:32"
+  }
+]

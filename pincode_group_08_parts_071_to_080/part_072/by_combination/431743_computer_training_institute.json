@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prayag Computers",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution, Photography studio",
+    "pincode": "431743",
+    "phone_number": "+91 77458 70074",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. F42, To F45, Wankhede Market, Umarkhed - Pusad Rd, off SBI, Bhagatsingh Ward, Umarkhed, Maharashtra 445206",
+    "area": "Bhagatsingh Ward",
+    "latitude": 19.6028716,
+    "longitude": 77.6870484,
+    "place_id": "ChIJXbOaJwCT0TsRrgsgWQl0TVs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXbOaJwCT0TsRrgsgWQl0TVs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:50:34"
+  },
+  {
+    "business_name": "DNYANJYOT COMPUTER INSTITUTE",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "431743",
+    "phone_number": "+91 98607 27980",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "near State Bank Of India, Shambal Pimpri, Maharashtra 445209",
+    "area": "431743",
+    "latitude": 19.7105466,
+    "longitude": 77.470854,
+    "place_id": "ChIJY41BBoCj0TsRGbbzrAA5X5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY41BBoCj0TsRGbbzrAA5X5I",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:50:34"
+  }
+]

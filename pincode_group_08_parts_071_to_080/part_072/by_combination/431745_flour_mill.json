@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shitala Devi Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "431745",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "6FG7+245, Barad, Maharashtra 431745",
+    "area": "431745",
+    "latitude": 19.2250153,
+    "longitude": 77.4628572,
+    "place_id": "ChIJaWvUwFbZ0TsRVK8Sr8gwDAc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaWvUwFbZ0TsRVK8Sr8gwDAc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:51:16"
+  },
+  {
+    "business_name": "Sadashiv sable flour mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Lodging",
+    "all_categories": "Lodging",
+    "pincode": "431745",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7F7X+4R8, Tirkaswadi, Maharashtra 431745",
+    "area": "431745",
+    "latitude": 19.2627818,
+    "longitude": 77.49959369999999,
+    "place_id": "ChIJN5Rzdz3d0TsRR426MxsIoNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN5Rzdz3d0TsRR426MxsIoNw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:51:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RV FACILITIES",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "431708",
+    "phone_number": "+91 99230 00397",
+    "website": "http://www.rvfacilities.biz/",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "S-74, Destination Center 1, Sinhgad Rd, Nanded City, Nanded, Pune, Maharashtra 411068",
+    "area": "Nanded City, Nanded",
+    "latitude": 18.4598777,
+    "longitude": 73.78562769999999,
+    "place_id": "ChIJKUpoiAuVwjsR9SW1vazwVtc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKUpoiAuVwjsR9SW1vazwVtc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:11:33"
+  },
+  {
+    "business_name": "OYO Hotel Devi Pride",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431708",
+    "phone_number": "+91 124 620 1126",
+    "website": "https://www.oyorooms.com/78924/",
+    "rating": 3.5,
+    "reviews_count": 197,
+    "address": "A, Arani, SH3, Road, Mahurgad, Maharashtra 431721",
+    "area": "431708",
+    "latitude": 19.851240999999998,
+    "longitude": 77.923574,
+    "place_id": "ChIJn0RgasKB0TsRQkR4-MOPzWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn0RgasKB0TsRQkR4-MOPzWs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:11:33"
+  }
+]

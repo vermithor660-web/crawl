@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nizamabad Tiffin Centre",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Food court",
+    "all_categories": "Food court, South Indian restaurant",
+    "pincode": "431709",
+    "phone_number": "+91 98484 55400",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Jawari Line, behind Maniyar Galli, Itwara Bazar, Hyder Bagh, Dashmesh Nagar, Harsh Nagar, Nanded, Maharashtra 431604",
+    "area": "Itwara Bazar, Hyder Bagh, Dashmesh Nagar, Harsh Nagar",
+    "latitude": 19.1476452,
+    "longitude": 77.3262805,
+    "place_id": "ChIJYRBOfgDX0TsR9upb5MobWns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYRBOfgDX0TsR9upb5MobWns",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:12:21"
+  },
+  {
+    "business_name": "Shri Gopal Bhojnalay",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "431709",
+    "phone_number": "+91 98607 47673",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 5,
+    "address": "58G3+MF2, Vivek Nagar Rd, Vivek Nagar, Sneh Nagar, Nanded, Maharashtra 431605",
+    "area": "Vivek Nagar, Sneh Nagar",
+    "latitude": 19.1766367,
+    "longitude": 77.3036454,
+    "place_id": "ChIJNSKGuovX0TsRIpUH4z2uhLY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNSKGuovX0TsRIpUH4z2uhLY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:12:21"
+  }
+]

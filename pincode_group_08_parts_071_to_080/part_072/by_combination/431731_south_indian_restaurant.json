@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Naadbramha Idli - Sinhgad Road,",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Breakfast restaurant, Food court, Hotel, Restaurant, South Indian restaurant",
+    "pincode": "431731",
+    "phone_number": "+91 90670 09822",
+    "website": "https://naadbramha.com/",
+    "rating": 4.2,
+    "reviews_count": 566,
+    "address": "Shop no -5, Apartment, Sinhgad Rd, Wadgaon Budruk, Narhe, Pune, Maharashtra 411068",
+    "area": "Wadgaon Budruk, Narhe",
+    "latitude": 18.4643597,
+    "longitude": 73.8153016,
+    "place_id": "ChIJL9MOgFeVwjsROO8JMVoj7nc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL9MOgFeVwjsROO8JMVoj7nc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:41:17"
+  },
+  {
+    "business_name": "Kwality Garden Restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant, Restaurant",
+    "pincode": "431731",
+    "phone_number": "+91 84672 22647",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 544,
+    "address": "Hyderabad - Bodhan Rd, opp. Andhra Bank, Venkateshwara Colony, Bellal Tarafa (Bodhan Rural), Bodhan, Telangana 503185",
+    "area": "Venkateshwara Colony",
+    "latitude": 18.6576895,
+    "longitude": 77.8961044,
+    "place_id": "ChIJ8wS7e052zjsRFbOB2kI8VpI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8wS7e052zjsRFbOB2kI8VpI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:41:17"
+  }
+]

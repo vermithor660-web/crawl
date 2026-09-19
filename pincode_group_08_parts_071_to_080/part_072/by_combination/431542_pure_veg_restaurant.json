@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Resto Cafe & Pure Veg",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431542",
+    "phone_number": "+91 77986 83787",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "XQHX+3J2, Risod - Washim Rd, opposite MSEB OFFICE, Risod, Maharashtra 444506",
+    "area": "431542",
+    "latitude": 19.9777417,
+    "longitude": 76.79902249999999,
+    "place_id": "ChIJOVqmIGON0DsRpPXEWwolnzo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOVqmIGON0DsRpPXEWwolnzo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:47:47"
+  },
+  {
+    "business_name": "Hotel Suruchi Pure Veg & Family Restaurant & Lodging",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431542",
+    "phone_number": "+91 84088 68955",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Sengaon, Maharashtra 431542",
+    "area": "431542",
+    "latitude": 19.794921499999997,
+    "longitude": 76.8854466,
+    "place_id": "ChIJWSMjl-Je0DsR7VPiWpee5TI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWSMjl-Je0DsR7VPiWpee5TI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:47:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lavish Looks Hair Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431603",
+    "phone_number": "+91 89565 91592",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "48WH+MCP, Jain Galli, Hyder Bagh, Dashmesh Nagar, Harsh Nagar, Nanded, Maharashtra 431604",
+    "area": "Hyder Bagh, Dashmesh Nagar, Harsh Nagar",
+    "latitude": 19.1467088,
+    "longitude": 77.3285926,
+    "place_id": "ChIJBXmCiyzX0TsRfnvO0ArKtEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBXmCiyzX0TsRfnvO0ArKtEc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:53:56"
+  },
+  {
+    "business_name": "DK's Professional Hair Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "near Lios Hospital, Kohinor City, Jangamwadi, Nanded, Maharashtra 431605",
+    "area": "Kohinor City, Jangamwadi",
+    "latitude": 19.1798987,
+    "longitude": 77.3029452,
+    "place_id": "ChIJX9AVLxzX0TsR7L2etThLns0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX9AVLxzX0TsR7L2etThLns0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:53:58"
+  }
+]

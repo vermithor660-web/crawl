@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanch Mall",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop",
+    "pincode": "431705",
+    "phone_number": "+91 98673 26928",
+    "website": "https://wa.me/919867326928",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Shop No. 2 & 3, Billeshwar Tower, Panch Rasta, MG Road, Mulund, Mulund West, Mumbai, Maharashtra 400080",
+    "area": "Mulund, Mulund West",
+    "latitude": 19.1762779,
+    "longitude": 72.9521698,
+    "place_id": "ChIJC4yg2v-45zsR6rDES_LWsYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC4yg2v-45zsR6rDES_LWsYo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:07:35"
+  },
+  {
+    "business_name": "M H Glass House",
+    "search_category": "Glass and Mirror Merchant",
+    "primary_category": "Glass & mirror shop",
+    "all_categories": "Glass & mirror shop",
+    "pincode": "431705",
+    "phone_number": "+91 98452 16509",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Ekveera Estate, Kolshet Rd, Thane West, Thane, Maharashtra 400607",
+    "area": "Manpada, Thane West",
+    "latitude": 19.236753999999998,
+    "longitude": 72.9762812,
+    "place_id": "ChIJ37ZBa1q55zsRSrslqvtAERI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ37ZBa1q55zsRSrslqvtAERI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:07:35"
+  }
+]

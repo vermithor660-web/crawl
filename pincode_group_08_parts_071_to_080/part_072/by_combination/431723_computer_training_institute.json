@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sukanya Computer Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "431723",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MJ89+7XG, Adampur, Maharashtra 431736",
+    "area": "431723",
+    "latitude": 18.6656889,
+    "longitude": 77.61992959999999,
+    "place_id": "ChIJOwaveWBpzjsR3yyeEkxXY00",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOwaveWBpzjsR3yyeEkxXY00",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:40:23"
+  },
+  {
+    "business_name": "Top Computer Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "431723",
+    "phone_number": "+91 95118 02247",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Sana Colony, Parvana Nagar, Canel Road, Nanded, Maharashtra 431605",
+    "area": "Taroda Kh., Ashtvinayak Nagar",
+    "latitude": 19.1865716,
+    "longitude": 77.2957995,
+    "place_id": "ChIJRRuyWprW0TsRmBUZX7as0-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRRuyWprW0TsRmBUZX7as0-o",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:40:24"
+  }
+]

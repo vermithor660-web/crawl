@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharada Hospital",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431731",
+    "phone_number": "+91 97657 99959",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1-9-120, Vivek Nagar,, Nanded, Maharashtra 431605",
+    "area": "Vidya Nagar, Sneh Nagar",
+    "latitude": 19.1757395,
+    "longitude": 77.30411289999999,
+    "place_id": "ChIJk6uf0IvW0TsRjllyTAxGdi0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk6uf0IvW0TsRjllyTAxGdi0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:41:36"
+  },
+  {
+    "business_name": "Nandhini Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital, Hospital",
+    "pincode": "431731",
+    "phone_number": "+91 452 267 2876",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "36, Ramaiah Main St, Madurai, Tamil Nadu 625011",
+    "area": "431731",
+    "latitude": 9.9063036,
+    "longitude": 78.10779649999999,
+    "place_id": "ChIJ96nc2YbPADsRk6GeeNN4LAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ96nc2YbPADsRk6GeeNN4LAk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:41:38"
+  }
+]

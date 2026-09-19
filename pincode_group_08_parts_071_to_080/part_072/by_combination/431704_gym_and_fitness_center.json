@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fitness Gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "431704",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "79JF+9C6, Ardhapur, Maharashtra 431704",
+    "area": "431704",
+    "latitude": 19.2809109,
+    "longitude": 77.37351819999999,
+    "place_id": "ChIJi0zRDyTR0TsRdtDqtV7FBw0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi0zRDyTR0TsRdtDqtV7FBw0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:05:42"
+  },
+  {
+    "business_name": "Nitin Kamble | Weight Loss or Gain | Personal trainer | NK",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Personal trainer",
+    "all_categories": "Personal trainer",
+    "pincode": "431704",
+    "phone_number": "+91 99219 67570",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Third floor, The Hind Plaza, opp. Ambika Mangal Karyalay, Kabra Nagar, Waman Nagar, Nanded, Maharashtra 431605",
+    "area": "Kabra Nagar, Waman Nagar",
+    "latitude": 19.1832387,
+    "longitude": 77.2922655,
+    "place_id": "ChIJh6OQPO7X0TsRLhJW5CqsFY0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh6OQPO7X0TsRLhJW5CqsFY0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:05:42"
+  }
+]

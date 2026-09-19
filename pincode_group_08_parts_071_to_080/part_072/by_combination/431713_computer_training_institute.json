@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Computer training school",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "431713",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1ST FLOOR, beside DR. INAMDAR HOSPITAL, near UTTARWAR GIRANI, Bhokar, Maharashtra 431801",
+    "area": "431713",
+    "latitude": 19.221198599999997,
+    "longitude": 77.6677535,
+    "place_id": "ChIJ2YsZ1jfj0TsRVsTJrqvLeKY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2YsZ1jfj0TsRVsTJrqvLeKY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:20:14"
+  },
+  {
+    "business_name": "Yogeshwari Computer Typing Institute",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution",
+    "pincode": "431713",
+    "phone_number": "+91 95116 24861",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "opposite Hotel Shalimar shrinagr, Nizam Colony, Kohinor City, Shri Nagar, Nanded, Maharashtra 431605",
+    "area": "Nizam Colony, Kohinor City, Shri Nagar",
+    "latitude": 19.177405399999998,
+    "longitude": 77.3042794,
+    "place_id": "ChIJ6_-lj43X0TsRdwAlRzd8Jy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6_-lj43X0TsRdwAlRzd8Jy0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:20:16"
+  }
+]

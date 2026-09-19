@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A K Auto Electrical Works",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "431722",
+    "phone_number": "+91 99163 10623",
+    "website": "http://www.akautoelectrical.com/",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "near Dakshin Honda Showroom, Srinivasa Nagar, AECS Layout, Singasandra, Bengaluru, Karnataka 560068",
+    "area": "Srinivasa Nagar, AECS Layout, Singasandra",
+    "latitude": 12.8839448,
+    "longitude": 77.6443678,
+    "place_id": "ChIJbYoPXH0VrjsRSntsPtMNe3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbYoPXH0VrjsRSntsPtMNe3o",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:37:42"
+  },
+  {
+    "business_name": "AEC Power Systems",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "431722",
+    "phone_number": "+91 99496 75600",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Kavadi Guda Number 10th St, New Nallakunta, Hyderabad, Telangana 500044",
+    "area": "New Nallakunta",
+    "latitude": 17.3999302,
+    "longitude": 78.50745359999999,
+    "place_id": "ChIJ94cdY7uZyzsRAoGiPG-bc2s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ94cdY7uZyzsRAoGiPG-bc2s",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:37:42"
+  }
+]

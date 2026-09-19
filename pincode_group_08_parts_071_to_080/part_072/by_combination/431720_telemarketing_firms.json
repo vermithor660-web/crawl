@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaibhav Marketing",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "431720",
+    "phone_number": "+91 80808 48408",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shingare Pratishthan Main Road, Tq, Peth Shivani, Palam, Maharashtra 431720",
+    "area": "431720",
+    "latitude": 19.008236999999998,
+    "longitude": 77.0197365,
+    "place_id": "ChIJ-3JWMH_RzzsR_7QW4soc_hE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-3JWMH_RzzsR_7QW4soc_hE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:34:43"
+  },
+  {
+    "business_name": "YAMOO",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency",
+    "pincode": "431720",
+    "phone_number": "N/A",
+    "website": "https://www.youtube.com/channel/UCyEytUu7Lysg8Ry3elJAEJw",
+    "rating": null,
+    "reviews_count": null,
+    "address": "dist, Palam, Maharashtra 431720",
+    "area": "431720",
+    "latitude": 19.0149254,
+    "longitude": 76.9476297,
+    "place_id": "ChIJCZklWvzZzzsRCjPeVqdhNuI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZklWvzZzzsRCjPeVqdhNuI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:34:44"
+  }
+]

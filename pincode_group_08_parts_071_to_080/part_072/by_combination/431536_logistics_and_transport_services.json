@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lucky transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "431536",
+    "phone_number": "+91 94221 70219",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "69C2+H7M, NH 361, Babapur, Maharashtra 431605",
+    "area": "431536",
+    "latitude": 19.2214589,
+    "longitude": 77.3506822,
+    "place_id": "ChIJPS0osGnX0TsR4YZ2tn1rGwY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPS0osGnX0TsR4YZ2tn1rGwY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:41:29"
+  },
+  {
+    "business_name": "SHRI OM SAI TRANSPORT SERVICES",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "431536",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "BAPU TWO WHEELER GARAGE, MIDC Rd, behind C-220, CHH, Waluj, Pandharpur, Maharashtra 431136",
+    "area": "CHH, Waluj",
+    "latitude": 19.8310815,
+    "longitude": 75.2486461,
+    "place_id": "ChIJR9u4ZDWb2zsRc-d375qN5M8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR9u4ZDWb2zsRc-d375qN5M8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:41:29"
+  }
+]

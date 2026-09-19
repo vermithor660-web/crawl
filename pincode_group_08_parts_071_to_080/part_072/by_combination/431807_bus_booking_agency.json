@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shelgaon Bus Stand",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Taxi stand",
+    "all_categories": "Taxi stand",
+    "pincode": "431807",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "3H9P+V23, Mudkhed - Umri Rd, Shelgaon, Maharashtra 431807",
+    "area": "431807",
+    "latitude": 19.0696448,
+    "longitude": 77.5850402,
+    "place_id": "ChIJGSsyWD8fzjsRk1wP5KhApug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGSsyWD8fzjsRk1wP5KhApug",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:09:52"
+  },
+  {
+    "business_name": "TELANGANA ONLINE SERVICES CENTER",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe, Airline ticket agency, Belt shop, Gift shop, Men's clothing store, Sports complex, Toy store, Railway Ticket Agent, Watch store",
+    "pincode": "431807",
+    "phone_number": "+91 88851 42850",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 16,
+    "address": "A.K Complex, Bus stand, near New, Mudhole, Telangana 504102",
+    "area": "431807",
+    "latitude": 18.977103,
+    "longitude": 77.9156855,
+    "place_id": "ChIJC5n0YQgIzjsRK0HXBEQIXU8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC5n0YQgIzjsRK0HXBEQIXU8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:09:53"
+  }
+]

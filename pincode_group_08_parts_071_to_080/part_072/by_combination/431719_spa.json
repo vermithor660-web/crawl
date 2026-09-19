@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Samarth Parlor",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "431719",
+    "phone_number": "+91 99753 21017",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Mukramabad Mukramabad, near by College Road, Mukarmabad, Maharashtra 431719",
+    "area": "431719",
+    "latitude": 18.4756507,
+    "longitude": 77.3725238,
+    "place_id": "ChIJSWypWJpXzjsRKSF584I0jpQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSWypWJpXzjsRKSF584I0jpQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:31:53"
+  },
+  {
+    "business_name": "Tirupati Gents Parlar",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "431719",
+    "phone_number": "+91 96237 92507",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 2, Hanegaon, Maharashtra 431741",
+    "area": "431719",
+    "latitude": 18.3436068,
+    "longitude": 77.4413288,
+    "place_id": "ChIJP0m9k1X3zjsRa_ExUHzhsd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0m9k1X3zjsRa_ExUHzhsd0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:31:56"
+  }
+]

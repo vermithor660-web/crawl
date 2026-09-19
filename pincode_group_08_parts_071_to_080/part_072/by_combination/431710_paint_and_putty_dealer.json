@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Ravi Traders",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "431710",
+    "phone_number": "+91 70207 97390",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Main Market Rd, Chowk, Kundalwadi, Maharashtra 431711",
+    "area": "Chowk",
+    "latitude": 18.8078701,
+    "longitude": 77.7703667,
+    "place_id": "ChIJV89qxmINzjsRQ9O83lkwf0M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV89qxmINzjsRQ9O83lkwf0M",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:14:35"
+  },
+  {
+    "business_name": "BALAJI TRADERS",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "431710",
+    "phone_number": "+91 97659 63680",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Nanded Bypass Rd, Ashirwad Nagar, Balaji Nagar, Nanded, Maharashtra 431605",
+    "area": "Ashirwad Nagar, Balaji Nagar",
+    "latitude": 19.1878595,
+    "longitude": 77.3094593,
+    "place_id": "ChIJ4SHHTujX0TsRa1EvlGp41Nc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4SHHTujX0TsRa1EvlGp41Nc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:14:38"
+  }
+]

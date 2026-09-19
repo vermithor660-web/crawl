@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Primary Health Centre Asegaon",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431540",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "FRCV+VV4, Asegaon, Maharashtra 431509",
+    "area": "431540",
+    "latitude": 19.4721398,
+    "longitude": 76.8446905,
+    "place_id": "ChIJq-qidAxA0DsRJc1c96zor-M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq-qidAxA0DsRJc1c96zor-M",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:45:08"
+  },
+  {
+    "business_name": "Health & Fitness ,Wellness Coach",
+    "search_category": "Wellness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "431540",
+    "phone_number": "+91 70201 95155",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no 3, Yashoda nagari, Pathri road, in front of dental College, Parbhani, Maharashtra 431402",
+    "area": "431540",
+    "latitude": 19.2884097,
+    "longitude": 76.73686839999999,
+    "place_id": "ChIJh554olQX0DsRkagb8t2l4xc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh554olQX0DsRkagb8t2l4xc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:45:10"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vedika Trading Company",
+    "search_category": "FMCG Distributor",
+    "primary_category": "FMCG Goods Wholesaler",
+    "all_categories": "FMCG Goods Wholesaler, Food products supplier",
+    "pincode": "431601",
+    "phone_number": "+91 96731 67778",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "48X9+JHH, Old Mondha, Hyder Bagh, Dashmesh Nagar, Harsh Nagar, Nanded, Maharashtra 431604",
+    "area": "Old Mondha, Hyder Bagh, Dashmesh Nagar, Harsh Nagar",
+    "latitude": 19.149055399999998,
+    "longitude": 77.3189702,
+    "place_id": "ChIJGXjVbzjW0TsRwiiHMgCUOOI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGXjVbzjW0TsRwiiHMgCUOOI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:49:25"
+  },
+  {
+    "business_name": "M/S. Dwarka Distributors",
+    "search_category": "FMCG Distributor",
+    "primary_category": "Pharmaceutical Products Wholesaler",
+    "all_categories": "Pharmaceutical Products Wholesaler",
+    "pincode": "431601",
+    "phone_number": "+91 2462 240 840",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Doctor Lane Borban, Vazirabad, Nanded, Maharashtra 431601",
+    "area": "Doctor Lane Borban, Vazirabad",
+    "latitude": 19.150702799999998,
+    "longitude": 77.3082012,
+    "place_id": "ChIJZR33_GnW0TsRcmxkfI-xGvs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZR33_GnW0TsRcmxkfI-xGvs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:49:29"
+  }
+]

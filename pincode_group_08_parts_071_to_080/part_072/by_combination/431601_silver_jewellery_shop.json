@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aarti Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "431601",
+    "phone_number": "+91 94217 66391",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "shop no.5, 4/90, 4/90, Sarafa Bazaar Rd, near murli mandir, Narhari Colony, Hyder Bagh, Dashmesh Nagar, Harsh Nagar, Nanded, Maharashtra 431604",
+    "area": "Narhari Colony, Hyder Bagh, Dashmesh Nagar, Harsh Nagar",
+    "latitude": 19.1453707,
+    "longitude": 77.3255269,
+    "place_id": "ChIJ7yChuDbW0TsRSvZPF4JukdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7yChuDbW0TsRSvZPF4JukdU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:49:38"
+  },
+  {
+    "business_name": "Sarang Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "431601",
+    "phone_number": "N/A",
+    "website": "https://printdizit.com/SARANG-JEWELLERS-",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Sarafa Bazar, Marwad Galli, Near Murlidhar Temple, Nanded, Maharashtra 431604",
+    "area": "Narhari Colony, Hyder Bagh, Dashmesh Nagar, Harsh Nagar",
+    "latitude": 19.145113,
+    "longitude": 77.325676,
+    "place_id": "ChIJV-yyqaHX0TsRuWqp1qjxxVU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV-yyqaHX0TsRuWqp1qjxxVU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:49:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai construction",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Brick Manufacturer",
+    "all_categories": "Brick Manufacturer",
+    "pincode": "431808",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "VMR9+RV Sai building material suppliers, Raher, Maharashtra 431809",
+    "area": "431808",
+    "latitude": 18.8937276,
+    "longitude": 77.66306929999999,
+    "place_id": "ChIJN0LzMAARzjsRD99-zPiYVBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN0LzMAARzjsRD99-zPiYVBU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:12:04"
+  },
+  {
+    "business_name": "Shree Dattkrupa Building material suppliers",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "431808",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VPM2+37, Kolgaon, Maharashtra 431809",
+    "area": "431808",
+    "latitude": 18.8813426,
+    "longitude": 77.70112019999999,
+    "place_id": "ChIJdSLzTyQRzjsRcZ6bTMrQmOY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdSLzTyQRzjsRcZ6bTMrQmOY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:12:04"
+  }
+]

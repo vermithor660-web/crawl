@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Accounting Services",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant, Service establishment",
+    "pincode": "431537",
+    "phone_number": "N/A",
+    "website": "https://www.ksa.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Accounting Services, 431537, India",
+    "area": "431537",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJubMxmuznMIgRCRU3b-Nk4F0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJubMxmuznMIgRCRU3b-Nk4F0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:43:56"
+  },
+  {
+    "business_name": "ZAWAR ASSOCIATES",
+    "search_category": "Business and Audit Services",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant, City tax office, Tax assessor, Tax collector's office",
+    "pincode": "431537",
+    "phone_number": "+91 94234 56220",
+    "website": "http://www.zawarassociates.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "41, Rajwada, 42, Bhanudas Sabhahgrah Railway Station Rd, Gandhi Nagar, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "Gandhi Nagar, Padampura",
+    "latitude": 19.8660633,
+    "longitude": 75.3151156,
+    "place_id": "ChIJsc-G912Y2zsRjXqBfBdB3Mk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsc-G912Y2zsRjXqBfBdB3Mk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:43:57"
+  }
+]

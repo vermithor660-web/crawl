@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BHARAT SAREE CENTER",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431741",
+    "phone_number": "+91 94820 89170",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Aurad, Karnataka 585326",
+    "area": "431741",
+    "latitude": 18.251588599999998,
+    "longitude": 77.4188422,
+    "place_id": "ChIJDa52sv7wzjsRzydH0NpOYDE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDa52sv7wzjsRzydH0NpOYDE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:45:30"
+  },
+  {
+    "business_name": "AVINASH PANDRE",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "431741",
+    "phone_number": "+91 94489 81089",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Ganesh Market, near Uppe Hospital, Ganesh Nagar, Aurad, Nanded, Maharashtra 585326",
+    "area": "Ganesh Nagar",
+    "latitude": 18.2532328,
+    "longitude": 77.4148711,
+    "place_id": "ChIJqbzmC87xzjsRPbEMKR2w-Ws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqbzmC87xzjsRPbEMKR2w-Ws",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:45:31"
+  }
+]

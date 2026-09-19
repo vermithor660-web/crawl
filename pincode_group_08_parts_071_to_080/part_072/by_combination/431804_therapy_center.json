@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayurvedic hospital",
+    "search_category": "Therapy Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431804",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "J6C2+MMC, Bus Stand Rd, Sai Nagar, Kinwat, Maharashtra 431804",
+    "area": "Sai Nagar",
+    "latitude": 19.6215618,
+    "longitude": 78.2013897,
+    "place_id": "ChIJp13qVgA90jsRJoGjcEw8S4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp13qVgA90jsRJoGjcEw8S4s",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:03:53"
+  },
+  {
+    "business_name": "Shri Sadguru Rugnalaya Dr Surve",
+    "search_category": "Therapy Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431804",
+    "phone_number": "+91 90119 91855",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 17,
+    "address": "infront of swami samarth kendra, Nanded road, near honda showroom, near mukhare vidyalaya, Kinwat, Maharashtra 431804",
+    "area": "431804",
+    "latitude": 19.6194175,
+    "longitude": 78.1989214,
+    "place_id": "ChIJgUW9QiE80jsRwsJ1Bho4B9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgUW9QiE80jsRwsJ1Bho4B9I",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:03:54"
+  }
+]

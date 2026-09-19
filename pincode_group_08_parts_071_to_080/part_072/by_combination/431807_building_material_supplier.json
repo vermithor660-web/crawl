@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om Sarveshwar T Company",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "431807",
+    "phone_number": "+91 97651 71700",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, near Mondha, Umri, Nanded, Maharashtra 431807",
+    "area": "Umri, Nanded",
+    "latitude": 19.0382697,
+    "longitude": 77.6413297,
+    "place_id": "ChIJHYhkYvUZzjsRxIdKBKMFQKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHYhkYvUZzjsRxIdKBKMFQKQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:09:58"
+  },
+  {
+    "business_name": "Maharashtra Steel Furniture Works",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Iron & Steel Store",
+    "all_categories": "Iron & Steel Store",
+    "pincode": "431807",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "Eidgah road, Peth Umri, Maharashtra 431807",
+    "area": "431807",
+    "latitude": 19.0380362,
+    "longitude": 77.6590252,
+    "place_id": "ChIJBXNg5l4ZzjsRHwlC5YbWwTw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBXNg5l4ZzjsRHwlC5YbWwTw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:09:58"
+  }
+]

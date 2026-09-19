@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjana Medical And General Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "431742",
+    "phone_number": "+91 99759 68381",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jalkot Chatrapati Shivaji Maharaj Chowk, Wanjarwada, Maharashtra 413514",
+    "area": "431742",
+    "latitude": 18.6535202,
+    "longitude": 77.13184439999999,
+    "place_id": "ChIJjWdtqcK1zzsROARZFm--TaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjWdtqcK1zzsROARZFm--TaI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:47:45"
+  },
+  {
+    "business_name": "Vithu Mauli Medical And General Store",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, Medical Center",
+    "pincode": "431742",
+    "phone_number": "+91 83081 07988",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Medical, 01, ShivanKhed, Maharashtra 413514",
+    "area": "431742",
+    "latitude": 18.5742187,
+    "longitude": 77.0664414,
+    "place_id": "ChIJIYTaeQCxzzsRUcpOHEbfCpo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIYTaeQCxzzsRUcpOHEbfCpo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:47:48"
+  }
+]

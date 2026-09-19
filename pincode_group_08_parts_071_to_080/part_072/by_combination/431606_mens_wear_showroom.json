@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjay Fashion Hub",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431606",
+    "phone_number": "+91 83298 37504",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 11,
+    "address": "Tiranga chowk road, near Bajaj Hospital, Vazirabad, Nanded, Maharashtra 431601",
+    "area": "Vazirabad",
+    "latitude": 19.152778299999998,
+    "longitude": 77.3101751,
+    "place_id": "ChIJMbL5m8XX0TsR5GsHeIA7uAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMbL5m8XX0TsR5GsHeIA7uAo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:58:35"
+  },
+  {
+    "business_name": "Swarajya Mens Wear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431606",
+    "phone_number": "+91 87885 88488",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mahakal Building, Kaleshwar Kaman, Vishnupuri, Maharashtra 431606",
+    "area": "Vishnupuri",
+    "latitude": 19.1122229,
+    "longitude": 77.28983989999999,
+    "place_id": "ChIJ6VegBgApzjsRFOIT575hDMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6VegBgApzjsRFOIT575hDMU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:58:37"
+  }
+]

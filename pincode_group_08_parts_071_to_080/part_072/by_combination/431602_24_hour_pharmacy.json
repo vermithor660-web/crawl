@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MedPlus Anand Nagar Nanded",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy, General store, Medical supply store, Sports nutrition store, Vitamin & supplements store",
+    "pincode": "431602",
+    "phone_number": "+91 91759 25885",
+    "website": "https://www.medplusmart.com/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "D no 1-14-868 Ward no 1 Plot No 28 Survey No 39 Situated at, Anand Nagar, Nanded, Maharashtra 431605",
+    "area": "Anand Nagar",
+    "latitude": 19.1746363,
+    "longitude": 77.31951959999999,
+    "place_id": "ChIJiRkf1qLX0TsRoRf9jpbLtSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiRkf1qLX0TsRoRf9jpbLtSQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:51:33"
+  },
+  {
+    "business_name": "Pharma Life",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "431602",
+    "phone_number": "+91 84327 17720",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Maltekri Rd, beside Akbar Function Hall, opp. Masjid-e-Faran, Deglour Naka, Nanded, Maharashtra 431604",
+    "area": "Deglour Naka",
+    "latitude": 19.1580709,
+    "longitude": 77.3350572,
+    "place_id": "ChIJ3TdfSyDX0TsRLuA517HNZXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3TdfSyDX0TsRLuA517HNZXY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:51:36"
+  }
+]

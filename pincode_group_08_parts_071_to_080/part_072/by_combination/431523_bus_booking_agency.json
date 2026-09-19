@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "aman travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "431523",
+    "phone_number": "+91 70838 11199",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "P379+GQV, Kaij, Maharashtra 431123",
+    "area": "431523",
+    "latitude": 18.7138599,
+    "longitude": 76.0694302,
+    "place_id": "ChIJo26ZOhg_xTsRbMwq9GN-hYs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo26ZOhg_xTsRbMwq9GN-hYs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:38:02"
+  },
+  {
+    "business_name": "R.R Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "431523",
+    "phone_number": "N/A",
+    "website": "https://rrtravelslines.in/index.aspx",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "1, Dhule - Solapur Hwy, Shriram Nagar, Swaraj Nagar, Beed, Maharashtra 431122",
+    "area": "Shriram Nagar, Swaraj Nagar",
+    "latitude": 18.991169199999998,
+    "longitude": 75.7534471,
+    "place_id": "ChIJRZwatJwrxTsRkdMlKjMr5fU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRZwatJwrxTsRkdMlKjMr5fU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:38:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahakali Fish Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "431714",
+    "phone_number": "+91 90116 21444",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q8JC 28V, Pethwadaj, Maharashtra 431714",
+    "area": "431714",
+    "latitude": 18.779615,
+    "longitude": 77.321135,
+    "place_id": "ChIJf_wx1Ck3zjsRiS-A1NPZo88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf_wx1Ck3zjsRiS-A1NPZo88",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:20:55"
+  },
+  {
+    "business_name": "Sree Sant Bhima Bhoi Fish Net Centre",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "431714",
+    "phone_number": "+91 86007 76584",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop 3, near by Old Maroti Mandir, Fule Nagar, Mukhed, Maharashtra 431715",
+    "area": "Fule Nagar",
+    "latitude": 18.7100273,
+    "longitude": 77.3677826,
+    "place_id": "ChIJf0_RHA5JzjsRsAlaQ_ssz9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf0_RHA5JzjsRsAlaQ_ssz9Y",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:20:57"
+  }
+]

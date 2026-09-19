@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Facelook Hair Style",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431745",
+    "phone_number": "+91 97675 29573",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "Shop No 10,vimantal Road, Sangvi Kh., Maharashtra 431605",
+    "area": "Kamtha Village",
+    "latitude": 19.1862159,
+    "longitude": 77.3336259,
+    "place_id": "ChIJJ63OYTTX0TsRCYVCNgM57m8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ63OYTTX0TsRCYVCNgM57m8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:52:17"
+  },
+  {
+    "business_name": "Star Hair Art",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431745",
+    "phone_number": "+91 93097 88331",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1 Samta Nagar Men, Rod, Nanded, Maharashtra 431602",
+    "area": "Pushpa Nagar, Nagsen Nagar",
+    "latitude": 19.173273599999998,
+    "longitude": 77.2925971,
+    "place_id": "ChIJsU8i7OTX0TsRJN_sxWierTU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsU8i7OTX0TsRJN_sxWierTU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:52:20"
+  }
+]

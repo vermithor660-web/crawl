@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ketan Pure Veg Family Restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Breakfast restaurant, Vegetarian restaurant",
+    "pincode": "431722",
+    "phone_number": "+91 98814 15298",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 42,
+    "address": "P96J+MQR, MH SH 225, Berli Kh., Maharashtra 431715",
+    "area": "431722",
+    "latitude": 18.7117363,
+    "longitude": 77.3819054,
+    "place_id": "ChIJvZVe29RHzjsRFjF9Fs0jEh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvZVe29RHzjsRFjF9Fs0jEh8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:37:06"
+  },
+  {
+    "business_name": "Mai Bhojnalaya",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "431722",
+    "phone_number": "+91 73858 53567",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "1, Wadgaon Road, Laxmi Nagar, Yavatmal, Maharashtra 445002",
+    "area": "Wadgaon Road, Laxmi Nagar",
+    "latitude": 20.3765096,
+    "longitude": 78.1194455,
+    "place_id": "ChIJg1ZHtLDp0zsRpOCcQqA9vxo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg1ZHtLDp0zsRpOCcQqA9vxo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:37:07"
+  }
+]

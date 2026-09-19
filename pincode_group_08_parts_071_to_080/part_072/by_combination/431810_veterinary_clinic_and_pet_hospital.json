@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Petaegis Veterinary Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Emergency veterinarian service",
+    "all_categories": "Emergency veterinarian service, Veterinarian",
+    "pincode": "431810",
+    "phone_number": "+91 98901 24393",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Mayur Colony, Kothrud, Pune, Maharashtra 411038, India, Pune, Maharashtra 411038",
+    "area": "Mayur Colony, Kothrud",
+    "latitude": 18.50557,
+    "longitude": 73.815322,
+    "place_id": "ChIJ4SULB7-_wjsRl0dFrw8T9C8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4SULB7-_wjsRl0dFrw8T9C8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:15:54"
+  },
+  {
+    "business_name": "Happy Paws NX Pet Clinic, Store & Spa",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "431810",
+    "phone_number": "+91 98900 59155",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 139,
+    "address": "VARDHMAN NAGAR, MK Tailors, MIDC Rd, opposite MNS office, near Kher, Ambernath East, Kher, Maharashtra 421501",
+    "area": "Ambernath East, Kher",
+    "latitude": 19.200943199999998,
+    "longitude": 73.1869844,
+    "place_id": "ChIJ0-DxFNiT5zsRW8pBom3cHfI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-DxFNiT5zsRW8pBom3cHfI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:15:55"
+  }
+]

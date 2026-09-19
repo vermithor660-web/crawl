@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chouhan Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "431715",
+    "phone_number": "+91 99706 93898",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "431717, Sarafa Bazaar Rd, Hyder Bagh, Dashmesh Nagar, Deglour Naka, Nanded, Maharashtra 431717",
+    "area": "Hyder Bagh, Dashmesh Nagar, Deglour Naka",
+    "latitude": 18.5494397,
+    "longitude": 77.57515099999999,
+    "place_id": "ChIJA6h2cpBnzjsRa22frRyQsFE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA6h2cpBnzjsRa22frRyQsFE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:23:03"
+  },
+  {
+    "business_name": "Rukmini Alankar Gruh Barahali",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "431715",
+    "phone_number": "+91 94210 94963",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "main road,barahali, Mukhed, Maharashtra 431715",
+    "area": "431715",
+    "latitude": 18.5657998,
+    "longitude": 77.3316444,
+    "place_id": "ChIJvSNyONVRzjsRt4yVRqm7JKc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvSNyONVRzjsRt4yVRqm7JKc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:23:03"
+  }
+]

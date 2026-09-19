@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Varad Mobiles",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Cell phone accessory store, Loan agency, Mobile phone repair shop",
+    "pincode": "431537",
+    "phone_number": "+91 88300 18300",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 402,
+    "address": "Mahaveer Marg, opp. Sunil Xerox, Mangire Mala, Barshi, Maharashtra 413401",
+    "area": "Mangire Mala",
+    "latitude": 18.2344796,
+    "longitude": 75.6928684,
+    "place_id": "ChIJK6XX2T1VxDsRItuJpZpwXBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK6XX2T1VxDsRItuJpZpwXBk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:43:46"
+  },
+  {
+    "business_name": "Mobile Shop",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "431537",
+    "phone_number": "+91 70306 11656",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1 Sarang Nagar, Khanapur Fata, Parbhani, Maharashtra 431402",
+    "area": "Khanapur Fata",
+    "latitude": 19.251944599999998,
+    "longitude": 76.8024916,
+    "place_id": "ChIJaVvUbXUZ0DsRf4ZcIVtiu0k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaVvUbXUZ0DsRf4ZcIVtiu0k",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:43:47"
+  }
+]

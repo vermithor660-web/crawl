@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sama Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "431702",
+    "phone_number": "+91 96374 91146",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Hallali, Maharashtra 413522",
+    "area": "431702",
+    "latitude": 17.910470399999998,
+    "longitude": 76.85905199999999,
+    "place_id": "ChIJva74SAA_zzsRoAObx1oC45c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJva74SAA_zzsRoAObx1oC45c",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:02:04"
+  },
+  {
+    "business_name": "sayyed tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "431702",
+    "phone_number": "+91 78228 63969",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "opp. mujib bakery, Mastanshah Nagar, Bangar Nagar, Hingoli, Maharashtra 431513",
+    "area": "Mastanshah Nagar, Bangar Nagar",
+    "latitude": 19.7105018,
+    "longitude": 77.1413937,
+    "place_id": "ChIJwyiPIetT0DsRg54f7ilZY4w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwyiPIetT0DsRg54f7ilZY4w",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:02:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lokhande Pan Shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Tobacco shop",
+    "all_categories": "Tobacco shop, Paan shop",
+    "pincode": "431702",
+    "phone_number": "+91 78881 04565",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 01, Post Office Rd, opp. Bank Of India, Bhatt Colony, Siddharth Nagar, Hingoli, Maharashtra 431513",
+    "area": "Bhatt Colony, Siddharth Nagar",
+    "latitude": 19.7195803,
+    "longitude": 77.14569949999999,
+    "place_id": "ChIJj1K4qcZT0DsRQEdjKDuRfFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj1K4qcZT0DsRQEdjKDuRfFU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:01:52"
+  },
+  {
+    "business_name": "Shankar Paan Shop",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431702",
+    "phone_number": "+91 88883 23711",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jawahar Rd, Bangar Nagar, Hingoli, Maharashtra 431513",
+    "area": "Bangar Nagar",
+    "latitude": 19.7160633,
+    "longitude": 77.1411328,
+    "place_id": "ChIJM-wN_LdT0DsRE-_TCsCn4zI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM-wN_LdT0DsRE-_TCsCn4zI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:01:52"
+  }
+]

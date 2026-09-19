@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soni Saree Center",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431708",
+    "phone_number": "+91 90961 39059",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Shivaji Chowk, Loha, Maharashtra 431708",
+    "area": "431708",
+    "latitude": 18.954936,
+    "longitude": 77.1242415,
+    "place_id": "ChIJpSmQbHbTzzsRvAH8_x8w4IE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpSmQbHbTzzsRvAH8_x8w4IE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:10:36"
+  },
+  {
+    "business_name": "Bidwai Readymade and Saree Center",
+    "search_category": "Saree Showroom",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431708",
+    "phone_number": "+91 89838 02283",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 10,
+    "address": "Old Loha Rd, Shivkalyan Nagar, Loha, Maharashtra 431708",
+    "area": "Shivkalyan Nagar",
+    "latitude": 18.9448258,
+    "longitude": 77.11461489999999,
+    "place_id": "ChIJSS_DZRfSzzsRxTnz4mz8yGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSS_DZRfSzzsRxTnz4mz8yGI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:10:37"
+  }
+]

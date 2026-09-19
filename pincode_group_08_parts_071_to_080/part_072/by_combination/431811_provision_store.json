@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sachin bhau general store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431811",
+    "phone_number": "+91 86377 23709",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "J4F7+F7Q, Shivaji Nagar, Darati, Maharashtra 445207",
+    "area": "431811",
+    "latitude": 19.6245376,
+    "longitude": 78.1129235,
+    "place_id": "ChIJAabUHnc90jsR7TqLNgWTHMk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAabUHnc90jsR7TqLNgWTHMk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:17:22"
+  },
+  {
+    "business_name": "Bombay Electrical And General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431811",
+    "phone_number": "+91 90756 00533",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Main Road Gokunda Near Tur Mazid Complex Gokunda, Kinwat, Maharashtra 431811",
+    "area": "431811",
+    "latitude": 19.606910199999998,
+    "longitude": 78.2014504,
+    "place_id": "ChIJgdpu7Io90jsRkxGm-Pr3hMc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgdpu7Io90jsRkxGm-Pr3hMc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:17:22"
+  }
+]

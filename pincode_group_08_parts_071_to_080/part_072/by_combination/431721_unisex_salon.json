@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAI HAIR SALONS",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431721",
+    "phone_number": "+91 88052 14687",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SHOP NO.1, MAHUR ROAD, VILLAGE, Lonbehal, Maharashtra 445103",
+    "area": "431721",
+    "latitude": 19.9714893,
+    "longitude": 77.9287884,
+    "place_id": "ChIJ6arudKzV0zsRutIehxKLZkc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6arudKzV0zsRutIehxKLZkc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:35:52"
+  },
+  {
+    "business_name": "Om Sai Hair Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431721",
+    "phone_number": "+91 94057 77128",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "Shop No 5 Degloor Naka Aziz Palza, Maltekadi Road, opp. Madina Pan Shop, Nanded, Maharashtra 431604",
+    "area": "Deglour Naka",
+    "latitude": 19.152224399999998,
+    "longitude": 77.33199789999999,
+    "place_id": "ChIJtYhfUI7X0TsRSY-7oTkeuuI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtYhfUI7X0TsRSY-7oTkeuuI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:35:53"
+  }
+]

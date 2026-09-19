@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Gold Jewellery",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "431604",
+    "phone_number": "+91 80870 06111",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "133/1-6-4, Sarafa Bazar, Hyder Bagh, Dashmesh Nagar, Harsh Nagar, Nanded, Maharashtra 431604",
+    "area": "Sarafa Bazar, Hyder Bagh, Dashmesh Nagar, Harsh Nagar",
+    "latitude": 19.1447789,
+    "longitude": 77.32562229999999,
+    "place_id": "ChIJre8uG0vX0TsRPEdoqcOyCZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJre8uG0vX0TsRPEdoqcOyCZw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:55:08"
+  },
+  {
+    "business_name": "Shri Sai Jewelers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "431604",
+    "phone_number": "+91 94237 64728",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No.3, near by Vishnupuri, Vishnupuri, Maharashtra 431606",
+    "area": "Vishnupuri",
+    "latitude": 19.1125221,
+    "longitude": 77.2868312,
+    "place_id": "ChIJdcMKeF4pzjsRgn_hUm81xGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdcMKeF4pzjsRgn_hUm81xGY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:55:08"
+  }
+]

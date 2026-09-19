@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "INDIA Auto Electricals Works",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "431731",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Jamrun, Maharashtra 431704",
+    "area": "431731",
+    "latitude": 19.2581956,
+    "longitude": 77.365036,
+    "place_id": "ChIJjzPH2I_Q0TsRcJB7VBZKM2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjzPH2I_Q0TsRcJB7VBZKM2U",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:41:52"
+  },
+  {
+    "business_name": "Indian Motors",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "431731",
+    "phone_number": "+91 86397 74350",
+    "website": "http://www.indianmotor.org/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 4, Main Road, beside Sanjeevani Hospital, Kotgiri, Telangana 503207",
+    "area": "431731",
+    "latitude": 18.575644999999998,
+    "longitude": 77.8235093,
+    "place_id": "ChIJBett_Dt7zjsRcJUaKjXRrNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBett_Dt7zjsRcJUaKjXRrNw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:41:53"
+  }
+]

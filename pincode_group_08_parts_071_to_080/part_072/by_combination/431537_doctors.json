@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Gore Hospital",
+    "search_category": "Doctors",
+    "primary_category": "Private hospital",
+    "all_categories": "Private hospital",
+    "pincode": "431537",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "8P58+63W, Gorakshan Road, near M.T.Jadhav Hospital, Kalabawar, Parbhani, Dharmapuri, Maharashtra 431401",
+    "area": "Kalabawar",
+    "latitude": 19.3081004,
+    "longitude": 76.7152045,
+    "place_id": "ChIJWS5l6dkZ0DsRxy_iA_dkSOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWS5l6dkZ0DsRxy_iA_dkSOk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:42:57"
+  },
+  {
+    "business_name": "Shree sai hospital mandakhali",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431537",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6JVR+CJ9, Main road, Mandakhali, Maharashtra 431537",
+    "area": "431537",
+    "latitude": 19.2435252,
+    "longitude": 76.64159839999999,
+    "place_id": "ChIJ9W08Oqgb0DsREFleFye7EKw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9W08Oqgb0DsREFleFye7EKw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:42:57"
+  }
+]

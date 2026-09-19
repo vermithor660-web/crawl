@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cool View Refrigeration",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "431604",
+    "phone_number": "N/A",
+    "website": "https://jsdl.in/DT-992A2YMIIQ2",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "opposite police chowki, Hyder Bagh, Dashmesh Nagar, Deglour Naka, Nanded, Maharashtra 431604",
+    "area": "Hyder Bagh, Dashmesh Nagar, Deglour Naka",
+    "latitude": 19.151919799999998,
+    "longitude": 77.3310715,
+    "place_id": "ChIJ2ffSIBzX0TsRHEV659W9xWU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ffSIBzX0TsRHEV659W9xWU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:56:18"
+  },
+  {
+    "business_name": "COOL WORLD",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "431604",
+    "phone_number": "+91 88885 46321",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Naer Tajul Masjid, Shop No 2 Khusro Nagar Chunna Bhatti, Khusro Nagar, Nanded, Maharashtra 431604",
+    "area": "Khusro Nagar",
+    "latitude": 19.154091599999997,
+    "longitude": 77.3342035,
+    "place_id": "ChIJn6oDJP_X0TsRDDq2kWctqRo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn6oDJP_X0TsRDDq2kWctqRo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:56:18"
+  }
+]

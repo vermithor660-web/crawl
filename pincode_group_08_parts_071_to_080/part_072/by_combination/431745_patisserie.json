@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khushi Bakery Barad",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "431745",
+    "phone_number": "+91 80809 51210",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road, near Kawle Market, Nanded, Barad, Maharashtra 431745",
+    "area": "431745",
+    "latitude": 19.223646799999997,
+    "longitude": 77.4619538,
+    "place_id": "ChIJPW51SN_Z0TsRdTGByH7td-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPW51SN_Z0TsRdTGByH7td-Q",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:51:21"
+  },
+  {
+    "business_name": "Anand hotel",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "431745",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "58FV+W39, Maltekri Rd, Hyder Bagh, Dashmesh Nagar, Deglour Naka, Nanded, Maharashtra 431605",
+    "area": "Hyder Bagh, Dashmesh Nagar, Deglour Naka",
+    "latitude": 19.1747971,
+    "longitude": 77.3427385,
+    "place_id": "ChIJ5fmtJ-zX0TsR4JNky5pXsrs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5fmtJ-zX0TsR4JNky5pXsrs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:51:21"
+  }
+]

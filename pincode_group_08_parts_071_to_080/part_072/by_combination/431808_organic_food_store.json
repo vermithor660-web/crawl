@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Arogya Rahasya",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "431808",
+    "phone_number": "+91 98490 15638",
+    "website": "http://arogyarahasya.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "6-3-3/2/A, Near Gandhi Hospital Metro Station, New Bhoiguda, Secunderabad, Telangana 500080",
+    "area": "M.I.G.H colony, New Bhoiguda, Bhoiguda",
+    "latitude": 17.4256308,
+    "longitude": 78.5017465,
+    "place_id": "ChIJ3afbo4mZyzsRbRpnRb_EvXs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3afbo4mZyzsRbRpnRb_EvXs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:11:08"
+  },
+  {
+    "business_name": "Mauli Medical Karkheli6",
+    "search_category": "Organic Food Store",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "431808",
+    "phone_number": "+91 96737 66471",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, Post Office, Near, Main Road, Karkheli, Maharashtra 431808",
+    "area": "431808",
+    "latitude": 18.957156299999998,
+    "longitude": 77.7444297,
+    "place_id": "ChIJuTp6KgMRzjsR61nOWI2R1jE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuTp6KgMRzjsR61nOWI2R1jE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:11:08"
+  }
+]

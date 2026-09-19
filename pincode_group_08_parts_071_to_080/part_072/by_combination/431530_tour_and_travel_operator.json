@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHIFA TRAVELS",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Tourist attraction",
+    "pincode": "431530",
+    "phone_number": "+91 88889 39886",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Jalna - Beed Rd, near Bus Stand, Shriram Nagar, Beed, Maharashtra 431122",
+    "area": "Shriram Nagar",
+    "latitude": 18.991141499999998,
+    "longitude": 75.75344199999999,
+    "place_id": "ChIJY8tuPNwqxTsR3bWoD2q8p8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY8tuPNwqxTsR3bWoD2q8p8U",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:39:46"
+  },
+  {
+    "business_name": "Om Gurudev Tours and Travels Company, Tourism Holiday Packages",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator, Bus tour agency, Sightseeing Tour Operator, Tour agency, Tourist information center, Travel agency",
+    "pincode": "431530",
+    "phone_number": "+91 95358 82386",
+    "website": "http://omgurudevtours.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Royal 09 tourist bussiness hub, Kolhapur Station Rd, near wateshwar mahadev temple, below png jewelers, Tarabai Park, Kolhapur, Maharashtra 416001",
+    "area": "Tarabai Park",
+    "latitude": 16.7054692,
+    "longitude": 74.2446353,
+    "place_id": "ChIJc1eMAvvjwDsRsm1cIxCctPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc1eMAvvjwDsRsm1cIxCctPY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:39:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Faisal Mobiles",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "431709",
+    "phone_number": "+91 99231 68090",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "New Bus Stand, Bodhan - Nanded Rd, Biloli, Nanded, Maharashtra 431710",
+    "area": "431709",
+    "latitude": 18.7808599,
+    "longitude": 77.7177641,
+    "place_id": "ChIJJfMMn8wSzjsREszeolNqez0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJfMMn8wSzjsREszeolNqez0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:13:24"
+  },
+  {
+    "business_name": "Smart Point Wholesale",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "431709",
+    "phone_number": "+91 89995 17575",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kaylan Complex, Shop No 1 Kaylan Complex, Naigaon, Maharashtra 431709",
+    "area": "Venkatesh Nagar",
+    "latitude": 18.8477596,
+    "longitude": 77.5327594,
+    "place_id": "ChIJGYaHDgM_zjsRm21KhcXdv2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGYaHDgM_zjsRm21KhcXdv2g",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:13:25"
+  }
+]

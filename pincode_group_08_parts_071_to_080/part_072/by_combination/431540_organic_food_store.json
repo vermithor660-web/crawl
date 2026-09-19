@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parth Agro Organic Product",
+    "search_category": "Organic Food Store",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "431540",
+    "phone_number": "+91 93095 05912",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop.No 1, Ganpati chowk, Near, Jintur Rd, Datta Nagar, Trimurti Nagar, Parbhani, Maharashtra 431401",
+    "area": "Datta Nagar, Trimurti Nagar",
+    "latitude": 19.2776009,
+    "longitude": 76.7612697,
+    "place_id": "ChIJ53PzinEX0DsRcyAA_feTosg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ53PzinEX0DsRcyAA_feTosg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:44:14"
+  },
+  {
+    "business_name": "Anusaras Organic Dragon fruit",
+    "search_category": "Organic Food Store",
+    "primary_category": "Farm",
+    "all_categories": "Farm",
+    "pincode": "431540",
+    "phone_number": "+91 86688 23712",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 5,
+    "address": "Pimpla bhatya, Purna, Pimpala Bhatya, Maharashtra 431511",
+    "area": "431540",
+    "latitude": 19.178779,
+    "longitude": 77.1608251,
+    "place_id": "ChIJCW8sm3or0DsRupdUvJrBwoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCW8sm3or0DsRupdUvJrBwoA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:44:16"
+  }
+]

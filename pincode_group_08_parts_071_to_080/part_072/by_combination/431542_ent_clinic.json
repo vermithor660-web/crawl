@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KHADSE ENT CLINIC",
+    "search_category": "ENT Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "431542",
+    "phone_number": "+91 79728 66151",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nagar Parishad, Shop No 1 Near Loni Road, Road, Risod, Maharashtra 444506",
+    "area": "431542",
+    "latitude": 19.977636699999998,
+    "longitude": 76.78742869999999,
+    "place_id": "ChIJSY7YF0WN0DsRZH1STZYR6Vw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSY7YF0WN0DsRZH1STZYR6Vw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:48:09"
+  },
+  {
+    "business_name": "Shwas ENT Hospital",
+    "search_category": "ENT Clinic",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "431542",
+    "phone_number": "+91 70575 60552",
+    "website": "http://www.shwasenthospital.com/",
+    "rating": 4.8,
+    "reviews_count": 495,
+    "address": "D 4/1 Sai Darshan Park, Om Sai Market Chikhali Akurdi Road, off spine Road. Behind Vakratunda Hotel Krishna Nagar, Pradhikaran, Chikhali, Pimpri-Chinchwad, Maharashtra 411019",
+    "area": "Krishna Nagar, Pradhikaran, Chikhali",
+    "latitude": 18.6686957,
+    "longitude": 73.7967462,
+    "place_id": "ChIJBVzBjoG3wjsRO7cAkxrsZB0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBVzBjoG3wjsRO7cAkxrsZB0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:48:10"
+  }
+]

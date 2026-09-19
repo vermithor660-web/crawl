@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxman Rao Shoes Maker",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "431808",
+    "phone_number": "+91 70583 23331",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1, near Nagar Palika, Dharmabad, Maharashtra 431809",
+    "area": "431808",
+    "latitude": 18.8905074,
+    "longitude": 77.8464844,
+    "place_id": "ChIJpwp6kYUJzjsRAsv9_4koTT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpwp6kYUJzjsRAsv9_4koTT4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:11:31"
+  },
+  {
+    "business_name": "Kwality Shoe",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "431808",
+    "phone_number": "+91 88886 05360",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No, 1, Guru Gobind Singh Ji Rd, behind Sbi Bank, Shivaji Putala, Shivaji Nagar, Nanded, Maharashtra 431602",
+    "area": "Shivaji Putala, Shivaji Nagar",
+    "latitude": 19.1634068,
+    "longitude": 77.30568989999999,
+    "place_id": "ChIJbeS9zyvX0TsRqJH3oN00THs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbeS9zyvX0TsRqJH3oN00THs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:11:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NAMO PAAN SHOP",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Tobacco shop",
+    "all_categories": "Tobacco shop, Farm",
+    "pincode": "431722",
+    "phone_number": "+91 99215 80807",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Namo Pan Shop, Ganpati Mandir, Kalyani Nagar, Pune, Maharashtra 411006",
+    "area": "Kalyani Nagar",
+    "latitude": 18.5465932,
+    "longitude": 73.90210429999999,
+    "place_id": "ChIJyV5R713BwjsRpwiBgY0t8bM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyV5R713BwjsRpwiBgY0t8bM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:37:01"
+  },
+  {
+    "business_name": "Famous Pan Bhandar",
+    "search_category": "Paan and FMCG Stall",
+    "primary_category": "Paan shop",
+    "all_categories": "Paan shop",
+    "pincode": "431722",
+    "phone_number": "+91 91798 43765",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "J3J7+W4J, Gariaband-Deobhog Rd, Gariyaband, Chhattisgarh 493889",
+    "area": "431722",
+    "latitude": 20.6323443,
+    "longitude": 82.0627514,
+    "place_id": "ChIJR0e7X2dbLzoRUHvm6zuFDE8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR0e7X2dbLzoRUHvm6zuFDE8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:37:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul Chavan photography",
+    "search_category": "Photographers",
+    "primary_category": "Photo shop",
+    "all_categories": "Photo shop",
+    "pincode": "431541",
+    "phone_number": "+91 90754 87444",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bus stand, near Gitte Hospital, near Parli, Samor, Parli Vaijnath, Maharashtra 431515",
+    "area": "Samor",
+    "latitude": 18.8499113,
+    "longitude": 76.5243146,
+    "place_id": "ChIJb2kLE773zzsRRVaEV5HQ9wE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb2kLE773zzsRRVaEV5HQ9wE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:47:00"
+  },
+  {
+    "business_name": "Gayatri Digital Photo Shop",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "431541",
+    "phone_number": "+91 99215 61957",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop.No 1, Gangakhed Rd, Shanti Niketan Colony, Indira Gandhi Nagar, Parbhani, Maharashtra 431401",
+    "area": "Shanti Niketan Colony, Indira Gandhi Nagar",
+    "latitude": 19.2561674,
+    "longitude": 76.7588086,
+    "place_id": "ChIJm3JKevsZ0DsRQZQkbwNMXko",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm3JKevsZ0DsRQZQkbwNMXko",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:47:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SK Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "431811",
+    "phone_number": "+91 95270 05006",
+    "website": "http://skcoldstorage.in/",
+    "rating": 5,
+    "reviews_count": 16,
+    "address": "Gate No.3, Taluka - Shirur, E1 Plot, Pune - Nagar Highway, opposite ITC Limited (Foods Division), Ranjangaon MIDC, Maharashtra 412220",
+    "area": "Ranjangaon MIDC",
+    "latitude": 18.7874306,
+    "longitude": 74.2894362,
+    "place_id": "ChIJBaf5Ce8pwzsRrxi3upa3Ato",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBaf5Ce8pwzsRrxi3upa3Ato",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:19:11"
+  },
+  {
+    "business_name": "Vedant Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Frozen food manufacturer",
+    "all_categories": "Frozen food manufacturer",
+    "pincode": "431811",
+    "phone_number": "+91 98220 53409",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near B H chate Jr College, Gaud Dara, Maharashtra 412205",
+    "area": "431811",
+    "latitude": 18.3565059,
+    "longitude": 73.8390415,
+    "place_id": "ChIJFZ8hy5aTwjsR5QIeUL-ZPs0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFZ8hy5aTwjsR5QIeUL-ZPs0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:19:11"
+  }
+]

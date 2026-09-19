@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "431742",
+    "phone_number": "+91 94205 54144",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BALIRAM GANGADHAR CHIWADE71, SAVTA MANDIR PARISARKURLAKURLANandedMAHARASHTRA, Kurula, Maharashtra 431742",
+    "area": "431742",
+    "latitude": 18.755402,
+    "longitude": 77.131658,
+    "place_id": "ChIJ29PFpxPLzzsRQAv7ZW0Lxps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29PFpxPLzzsRQAv7ZW0Lxps",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:48:49"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "431742",
+    "phone_number": "+91 94200 94218",
+    "website": "https://bsnl.co.in/",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "s/o Balaji jadhav,Shivankhed kh, Bu, ahmedpur, Kumatha Bk, Maharashtra 413514",
+    "area": "Bu, ahmedpur",
+    "latitude": 18.575212,
+    "longitude": 77.06686599999999,
+    "place_id": "ChIJ8Wl12RSxzzsR8kuPLy2PHFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8Wl12RSxzzsR8kuPLy2PHFc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:48:49"
+  }
+]

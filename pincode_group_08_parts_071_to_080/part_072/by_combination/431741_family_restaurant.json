@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Anushka Garden",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431741",
+    "phone_number": "+91 94052 09001",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 47,
+    "address": "Main Road, near Bhagat Singh Chowk, Asarjan, Nanded, Maharashtra 431606",
+    "area": "Asarjan",
+    "latitude": 19.1245247,
+    "longitude": 77.2962081,
+    "place_id": "ChIJ1R1_Ko0pzjsRKOuQAEPNImM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1R1_Ko0pzjsRKOuQAEPNImM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:45:30"
+  },
+  {
+    "business_name": "SAMARTH RESTAURANT",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431741",
+    "phone_number": "+91 82081 94303",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "Chandasingh Corner, Dhanegaon, Tuppa, Maharashtra 431603",
+    "area": "Dhanegaon",
+    "latitude": 19.1189724,
+    "longitude": 77.3436662,
+    "place_id": "ChIJB93rTCUpzjsRrK9nJKQokAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB93rTCUpzjsRrK9nJKQokAg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:45:32"
+  }
+]

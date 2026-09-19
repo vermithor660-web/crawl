@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AGHORI HOWS",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "431809",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "WH4C+H96, kuntur, Maharashtra 431709",
+    "area": "431809",
+    "latitude": 18.9064229,
+    "longitude": 77.5708978,
+    "place_id": "ChIJc_FwZs0XzjsRQyHi1rCKx2Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc_FwZs0XzjsRQyHi1rCKx2Q",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:14:53"
+  },
+  {
+    "business_name": "Indumati Nagar",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Apartment rental agency",
+    "all_categories": "Apartment rental agency",
+    "pincode": "431809",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WH59+FJ5, kuntur, Maharashtra 431709",
+    "area": "431809",
+    "latitude": 18.9086346,
+    "longitude": 77.5691064,
+    "place_id": "ChIJG5VjCQAXzjsRk3sF1T05ltg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG5VjCQAXzjsRk3sF1T05ltg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:14:54"
+  }
+]

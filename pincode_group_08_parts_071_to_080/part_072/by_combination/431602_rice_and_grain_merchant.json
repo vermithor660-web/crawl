@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Top India Organic",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Tea Manufacturer",
+    "all_categories": "Tea Manufacturer, Food & Beverage Exporter, Food products supplier",
+    "pincode": "431602",
+    "phone_number": "+91 99753 29777",
+    "website": "https://tiojaggerytea.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Wadgaon Rd, Wadgaon Road, Laxmi Nagar, Yavatmal, Maharashtra 445001",
+    "area": "Wadgaon Road, Laxmi Nagar",
+    "latitude": 20.3755609,
+    "longitude": 78.12046389999999,
+    "place_id": "ChIJp2bfAwbqmyERndFqlra8qfI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp2bfAwbqmyERndFqlra8qfI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:51:13"
+  },
+  {
+    "business_name": "Kadam Traders LOHA",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "431602",
+    "phone_number": "+91 96377 33553",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Loha Bypass Rd, Loha, Maharashtra 431708",
+    "area": "431602",
+    "latitude": 18.947326699999998,
+    "longitude": 77.1169797,
+    "place_id": "ChIJ90EbtYLTzzsR_Vu4pSONhDI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ90EbtYLTzzsR_Vu4pSONhDI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:51:14"
+  }
+]

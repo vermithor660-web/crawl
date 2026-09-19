@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Thai Spa",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "431731",
+    "phone_number": "+91 88060 06050",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop no 101, 1st th Floor, Mango Nest BldgSinhgad Rd, next to Lokmat Press, Wadgaon Budruk, BudrukPune, Maharashtra 411068",
+    "area": "Vadgaon Khurd, Nanded Fata, Wadgaon Budruk, Nanded",
+    "latitude": 18.4577708,
+    "longitude": 73.8052592,
+    "place_id": "ChIJjU_4JhWvwjsRrJ481qNBW6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjU_4JhWvwjsRrJ481qNBW6w",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:42:09"
+  },
+  {
+    "business_name": "Royal 19 Thai spa - Narhe Pune",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa, Massage therapist",
+    "pincode": "431731",
+    "phone_number": "+91 95033 91299",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 80,
+    "address": "sr. no. 56 / 14, Ranawade Patil Propety, near HDFC Bank, Narhe, Pune, Maharashtra 411041",
+    "area": "Narhe",
+    "latitude": 18.4533511,
+    "longitude": 73.8281542,
+    "place_id": "ChIJj9UJkTmVwjsRdVwmUiR306E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9UJkTmVwjsRdVwmUiR306E",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:42:10"
+  }
+]

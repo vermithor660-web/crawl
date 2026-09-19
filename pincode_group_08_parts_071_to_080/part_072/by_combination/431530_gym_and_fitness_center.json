@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Lash Health Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "431530",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2FHG+6J6, Sonpeth - Parli Rd, Sonpeth, Maharashtra 431516",
+    "area": "431530",
+    "latitude": 19.028043,
+    "longitude": 76.4765292,
+    "place_id": "ChIJVVVVVZj_zzsReCeBzpkOLZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVVZj_zzsReCeBzpkOLZ4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:39:38"
+  },
+  {
+    "business_name": "TradeFit Fitness",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Exercise equipment store",
+    "all_categories": "Exercise equipment store, Fitness Equipment Wholesaler, Outdoor sports store, Sporting goods store, Sports Accessories Wholesaler, Sports Equipment Rental Agency",
+    "pincode": "431530",
+    "phone_number": "+91 94226 94321",
+    "website": "https://tradefit-fitness.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": 31,
+    "address": "Police Headquarter, 533 Tower, Guruwar Peth, Road, Satara, Maharashtra 415002",
+    "area": "Shete Chowk",
+    "latitude": 17.6865918,
+    "longitude": 73.995888,
+    "place_id": "ChIJXTtn5iY5wjsRlzZ2xcsm0xY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXTtn5iY5wjsRlzZ2xcsm0xY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:39:39"
+  }
+]

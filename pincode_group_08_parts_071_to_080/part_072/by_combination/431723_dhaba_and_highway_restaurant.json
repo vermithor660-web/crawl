@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "36 Family Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Family restaurant",
+    "pincode": "431723",
+    "phone_number": "+91 98669 86102",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "SH 13, Chinna Takkadpalle, Telangana 503306",
+    "area": "431723",
+    "latitude": 18.342862399999998,
+    "longitude": 77.7128965,
+    "place_id": "ChIJr06bbWKJzjsROb2nfLbhUh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr06bbWKJzjsROb2nfLbhUh8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:39:11"
+  },
+  {
+    "business_name": "36 The Family Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "431723",
+    "phone_number": "+91 99486 71525",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "SNA road, NH 161, Fathlapur village, Bichkunda, Telangana 503306",
+    "area": "431723",
+    "latitude": 18.3904876,
+    "longitude": 77.6751096,
+    "place_id": "ChIJZdsfTpmJzjsRE0KA8aC3TM4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZdsfTpmJzjsRE0KA8aC3TM4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:39:11"
+  }
+]

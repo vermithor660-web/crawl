@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kirtika family dhaba and restaurant",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Andhra restaurant",
+    "all_categories": "Andhra restaurant",
+    "pincode": "431802",
+    "phone_number": "+91 98238 82369",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "rod, Islapur, Shivani, Maharashtra 431803",
+    "area": "431802",
+    "latitude": 19.3323131,
+    "longitude": 78.1041449,
+    "place_id": "ChIJD2PuN2AF0jsR5rZr62mNQWI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD2PuN2AF0jsR5rZr62mNQWI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:59:15"
+  },
+  {
+    "business_name": "ANNAPURNA RESTAURANT",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "South Indian restaurant",
+    "all_categories": "South Indian restaurant, North Indian restaurant",
+    "pincode": "431802",
+    "phone_number": "+91 91719 19163",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "NTR CHOWK, 7-1-33/4/1, Dwaraka Nagar, Ravindra Nagar Colony, Adilabad, Telangana 504001",
+    "area": "Dwaraka Nagar, Ravindra Nagar Colony",
+    "latitude": 19.666589899999998,
+    "longitude": 78.53091069999999,
+    "place_id": "ChIJe4BuAe5d0jsRy05hGiyGZ3w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe4BuAe5d0jsRy05hGiyGZ3w",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:59:18"
+  }
+]

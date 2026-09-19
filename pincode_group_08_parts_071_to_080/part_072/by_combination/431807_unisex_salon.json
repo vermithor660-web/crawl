@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Super Hair Gents Parlour",
+    "search_category": "Unisex Salon",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "431807",
+    "phone_number": "+91 99238 00828",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No, 20, Kranti Chowk Rd, Cidco, Nanded, Maharashtra 431603",
+    "area": "Cidco",
+    "latitude": 19.1150333,
+    "longitude": 77.32547989999999,
+    "place_id": "ChIJF2qzTS8pzjsROBqpIGzp-qs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF2qzTS8pzjsROBqpIGzp-qs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:10:10"
+  },
+  {
+    "business_name": "Shree Dasganu Men's Parlar",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431807",
+    "phone_number": "+91 96236 54573",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 3,
+    "address": "Shop No 1 Umar Near, Mudkhed - Umri Rd, Umri, Nanded, Maharashtra 431807",
+    "area": "Umri, Nanded",
+    "latitude": 19.0403748,
+    "longitude": 77.642596,
+    "place_id": "ChIJaf9bQxkZzjsRo_mfHOwfZ0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaf9bQxkZzjsRo_mfHOwfZ0Q",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:10:10"
+  }
+]

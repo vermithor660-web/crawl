@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MD Maniyar General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431741",
+    "phone_number": "+91 97634 09855",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1 Hanegaon Ta Degloor, Nanded, Maharashtra 431741",
+    "area": "431741",
+    "latitude": 18.3433662,
+    "longitude": 77.4420097,
+    "place_id": "ChIJ66L6-lX3zjsRaQFi9wDaUGc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ66L6-lX3zjsRaQFi9wDaUGc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:45:14"
+  },
+  {
+    "business_name": "Sangmeshwar Medical Stores Hanegaon",
+    "search_category": "Provision Store",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "431741",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8CRW+PPX, Hanegaon, Maharashtra 431741",
+    "area": "431741",
+    "latitude": 18.3418696,
+    "longitude": 77.4469149,
+    "place_id": "ChIJd2-UPwD3zjsRgEgFkiqMkuY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd2-UPwD3zjsRgEgFkiqMkuY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:45:17"
+  }
+]

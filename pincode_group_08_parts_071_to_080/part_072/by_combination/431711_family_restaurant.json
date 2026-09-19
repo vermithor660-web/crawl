@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Family Restaurants",
+    "search_category": "Family Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431711",
+    "phone_number": "+91 73502 08551",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No, Main Road, opp. Pimpalgaon, Kundalwadi, Maharashtra 431711",
+    "area": "431711",
+    "latitude": 18.8241071,
+    "longitude": 77.7587132,
+    "place_id": "ChIJk1DYD7MNzjsRFNhLVlOJ6rU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk1DYD7MNzjsRFNhLVlOJ6rU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:15:49"
+  },
+  {
+    "business_name": "Maratha hotel",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "431711",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RR39+G5M, Hungunda, Maharashtra 431711",
+    "area": "431711",
+    "latitude": 18.8038155,
+    "longitude": 77.8179036,
+    "place_id": "ChIJ_bMEOAANzjsRm-RZ7v3T_JY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_bMEOAANzjsRm-RZ7v3T_JY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:15:49"
+  }
+]

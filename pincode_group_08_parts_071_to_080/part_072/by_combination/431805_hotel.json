@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel GK Classic",
+    "search_category": "Hotel",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel, Lodge",
+    "pincode": "431805",
+    "phone_number": "+91 99511 13233",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 229,
+    "address": "NH 7, Main road, ram nagar, Ramnagar Colony, Adilabad, Telangana 504001",
+    "area": "ram nagar, Ramnagar Colony",
+    "latitude": 19.6517278,
+    "longitude": 78.5201036,
+    "place_id": "ChIJ2w3sn2td0jsRuGBUoKsbPwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2w3sn2td0jsRuGBUoKsbPwM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:05:59"
+  },
+  {
+    "business_name": "Tipeshwar wildlife sanctuary (Tipai) Resort & Home Stay",
+    "search_category": "Hotel",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Farmstay",
+    "pincode": "431805",
+    "phone_number": "+91 79726 46833",
+    "website": "https://www.tipeshwarswildlife.com/",
+    "rating": 4.6,
+    "reviews_count": 219,
+    "address": "Kaleshwar ,near Parwa , On Ghatangi Pandharkawada, road, Kaleshwar, Maharashtra 445306",
+    "area": "431805",
+    "latitude": 19.9750482,
+    "longitude": 78.37502169999999,
+    "place_id": "ChIJn3NuFy-10zsRXMSwA6Zp9oY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3NuFy-10zsRXMSwA6Zp9oY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:05:59"
+  }
+]

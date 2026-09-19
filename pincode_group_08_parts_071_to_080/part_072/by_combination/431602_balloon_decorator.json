@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A B Light Decoration",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist",
+    "pincode": "431602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "573V+F72, Waghi Rd, Dulleshah Raheman Nagar, Waghi, Nanded, Maharashtra 431602",
+    "area": "Dulleshah Raheman Nagar",
+    "latitude": 19.1536389,
+    "longitude": 77.2931306,
+    "place_id": "ChIJHwAA43PW0TsRHuzDrJv2BVA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHwAA43PW0TsRHuzDrJv2BVA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:52:11"
+  },
+  {
+    "business_name": "Denver Balloons and Events",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Service establishment, Event planner",
+    "pincode": "431602",
+    "phone_number": "N/A",
+    "website": "http://www.denverballoonsandevents.com/",
+    "rating": 4.9,
+    "reviews_count": 104,
+    "address": "Denver Balloons and Events, 431602, India",
+    "area": "431602",
+    "latitude": 38.9979464,
+    "longitude": -105.55086299999999,
+    "place_id": "ChIJGUf1pq2La4cRrK4JsTz3sf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUf1pq2La4cRrK4JsTz3sf4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:52:14"
+  }
+]

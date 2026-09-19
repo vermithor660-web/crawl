@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ROYAL DECORATION",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "431802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "Sai Baba temple, Bhainsa Rd, bhokar, Bhokar, Sonari, Maharashtra 504103",
+    "area": "bhokar",
+    "latitude": 19.207082099999997,
+    "longitude": 77.91146719999999,
+    "place_id": "ChIJaRXhlNH_0TsROqiACSHHZnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaRXhlNH_0TsROqiACSHHZnk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:00:00"
+  },
+  {
+    "business_name": "KY-ARCHITECT",
+    "search_category": "Interior Designers",
+    "primary_category": "Architectural designer",
+    "all_categories": "Architectural designer, Interior designer",
+    "pincode": "431802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Rd, Dhanki, Maharashtra 445207",
+    "area": "431802",
+    "latitude": 19.568908099999998,
+    "longitude": 77.8473556,
+    "place_id": "ChIJi5uojaGL0TsR5YTUhuFMDWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi5uojaGL0TsR5YTUhuFMDWc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:00:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radhika medical store",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "431702",
+    "phone_number": "+91 87883 97300",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Zilha parishad road, Devda Nagar, Mohalla Paltan, Siddharth Nagar, Hingoli, Maharashtra 431513",
+    "area": "Devda Nagar, Mohalla Paltan, Siddharth Nagar",
+    "latitude": 19.7142503,
+    "longitude": 77.14780689999999,
+    "place_id": "ChIJk6pu4vRT0DsRVa2rNa574wY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk6pu4vRT0DsRVa2rNa574wY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:02:16"
+  },
+  {
+    "business_name": "VITTHAL KRUPA MEDICAL",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "431702",
+    "phone_number": "+91 88881 18867",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "New Plot Line, Maharashtra 431513",
+    "area": "Siddharth Nagar",
+    "latitude": 19.7180076,
+    "longitude": 77.141702,
+    "place_id": "ChIJncISS4lT0DsRRe7FcM86eRg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJncISS4lT0DsRRe7FcM86eRg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:02:16"
+  }
+]

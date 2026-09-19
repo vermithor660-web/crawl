@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Parahant Online Center",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "431809",
+    "phone_number": "+91 88882 53331",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop Kj 1, opp. Sang ma bad, Dharmabad, Maharashtra 431809",
+    "area": "431809",
+    "latitude": 18.8929373,
+    "longitude": 77.8467769,
+    "place_id": "ChIJXaWG444JzjsRYSHtgCGtC8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXaWG444JzjsRYSHtgCGtC8Y",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:13:58"
+  },
+  {
+    "business_name": "बाभळी फाटा",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "431809",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "VRR5+JXH, Mangnali, Maharashtra 431809",
+    "area": "431809",
+    "latitude": 18.8915541,
+    "longitude": 77.8099807,
+    "place_id": "ChIJc9c5arIPzjsRwY85WK6ttfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc9c5arIPzjsRwY85WK6ttfY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:14:00"
+  }
+]

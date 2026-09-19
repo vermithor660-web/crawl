@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NaPanta",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service",
+    "pincode": "431719",
+    "phone_number": "+91 93461 99939",
+    "website": "http://www.napanta.com/",
+    "rating": 4.6,
+    "reviews_count": 24,
+    "address": "H.No: 6, G12, 3-652, Somajiguda, Hyderabad, Telangana 500082",
+    "area": "Somajiguda",
+    "latitude": 17.4185053,
+    "longitude": 78.4578511,
+    "place_id": "ChIJRQR4GkORyzsRBYyuxWQrkJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRQR4GkORyzsRBYyuxWQrkJE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:32:39"
+  },
+  {
+    "business_name": "India pesticides ltd",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Chemical Manufacturer",
+    "all_categories": "Chemical Manufacturer",
+    "pincode": "431719",
+    "phone_number": "+91 70241 38057",
+    "website": "http://indiapesticidealimited.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "110, opposite Parag tiles, Panchal Compound, Lasudia Mori, Indore, Madhya Pradesh 452010",
+    "area": "Panchal Compound, Lasudia Mori",
+    "latitude": 22.780566699999998,
+    "longitude": 75.9066193,
+    "place_id": "ChIJD-iDwbodYzkRbaI_pzKZAU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD-iDwbodYzkRbaI_pzKZAU4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:32:39"
+  }
+]

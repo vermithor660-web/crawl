@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KH Fitness Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "431602",
+    "phone_number": "+91 90966 70392",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near Punde Hospital, in front of BSNL Office, Ashoknagar, Mukhed, Maharashtra 431715",
+    "area": "Ashoknagar",
+    "latitude": 18.7079015,
+    "longitude": 77.373314,
+    "place_id": "ChIJ____z4BIzjsRR6wBHdBKDTM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ____z4BIzjsRR6wBHdBKDTM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:51:44"
+  },
+  {
+    "business_name": "A+ Gym And Unisex Fitness Center",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "431602",
+    "phone_number": "+91 99222 14213",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 48,
+    "address": "38XC+XJW, Gopalchawdi, Nanded, Maharashtra 431603",
+    "area": "Gopalchawdi",
+    "latitude": 19.0999859,
+    "longitude": 77.3215735,
+    "place_id": "ChIJwXwgercpzjsR_B0UzULdFkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwXwgercpzjsR_B0UzULdFkE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:51:46"
+  }
+]

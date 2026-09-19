@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Athithi Lodging and Boarding",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431741",
+    "phone_number": "+91 91875 40638",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 12,
+    "address": "Khoba complex, near APMC cross, Aurad, Karnataka 585326",
+    "area": "431741",
+    "latitude": 18.2507412,
+    "longitude": 77.4242369,
+    "place_id": "ChIJJZ7juwDxzjsRnu-JvSszFrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJZ7juwDxzjsRnu-JvSszFrE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:46:27"
+  },
+  {
+    "business_name": "Hotel Saptagiri lodge, Bar and restaurant",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431741",
+    "phone_number": "+91 97406 45718",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 300,
+    "address": "Plot No 1, Bidar-Nanded Rd, Aurad, Karnataka 585326",
+    "area": "431741",
+    "latitude": 18.254955,
+    "longitude": 77.4249488,
+    "place_id": "ChIJmR4VcgLxzjsRxKKh-bjVKmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmR4VcgLxzjsRxKKh-bjVKmk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:46:27"
+  }
+]

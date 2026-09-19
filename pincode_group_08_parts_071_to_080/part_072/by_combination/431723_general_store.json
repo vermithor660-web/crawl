@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Electricals And General Store",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431723",
+    "phone_number": "+91 70666 98879",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, Main Road, Tamlur, Maharashtra 431723",
+    "area": "431723",
+    "latitude": 18.5895702,
+    "longitude": 77.715431,
+    "place_id": "ChIJr8cGQOplzjsRzL9Jl8qSHqQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr8cGQOplzjsRzL9Jl8qSHqQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:39:04"
+  },
+  {
+    "business_name": "Chintalwar cake senter",
+    "search_category": "General Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431723",
+    "phone_number": "+91 97666 87166",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Bus Stand, Road, Tamlur, Nanded, Maharashtra 431723",
+    "area": "431723",
+    "latitude": 18.589241899999998,
+    "longitude": 77.715267,
+    "place_id": "ChIJRWQGRl9lzjsRV_2QCHyuWIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRWQGRl9lzjsRV_2QCHyuWIE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:39:04"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Footwear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "431723",
+    "phone_number": "+91 99483 33801",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gayathri Nagar Road Number 6 BODUPPAL 500092, Maharashtra 431723",
+    "area": "431723",
+    "latitude": 18.5932398,
+    "longitude": 77.59894589999999,
+    "place_id": "ChIJCVdOJkppzjsRRITXasqw5yE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCVdOJkppzjsRRITXasqw5yE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:39:21"
+  },
+  {
+    "business_name": "Novelty Foot Wear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "431723",
+    "phone_number": "+91 99757 86293",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Maniyar Galli, Hyder Bagh, Dashmesh Nagar, Harsh Nagar, Nanded, Maharashtra 431604",
+    "area": "Hyder Bagh, Dashmesh Nagar, Harsh Nagar",
+    "latitude": 19.1465592,
+    "longitude": 77.32590859999999,
+    "place_id": "ChIJFb4WkDbW0TsRGuJsHzEjxho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFb4WkDbW0TsRGuJsHzEjxho",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:39:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Royal Plastic Shop",
+    "search_category": "Plastic Molding Manufacturer",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431710",
+    "phone_number": "+91 72495 94352",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Lohar Galli, Old Mondha, Hyder Bagh, Dashmesh Nagar, Harsh Nagar, Nanded, Maharashtra 431604",
+    "area": "Old Mondha, Hyder Bagh, Dashmesh Nagar, Harsh Nagar",
+    "latitude": 19.1494428,
+    "longitude": 77.32211029999999,
+    "place_id": "ChIJg6xjPd_X0TsRiUMh4zBed-c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg6xjPd_X0TsRiUMh4zBed-c",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:15:22"
+  },
+  {
+    "business_name": "Jain Plastics",
+    "search_category": "Plastic Molding Manufacturer",
+    "primary_category": "Plastic Products Supplier",
+    "all_categories": "Plastic Products Supplier",
+    "pincode": "431710",
+    "phone_number": "+91 94236 93858",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "2, Dashmesh Market, Nanded, Maharashtra 431601",
+    "area": "Gadipura, Hyder Bagh, Dashmesh Nagar, Harsh Nagar",
+    "latitude": 19.1496989,
+    "longitude": 77.3164786,
+    "place_id": "ChIJq6GfX0fW0TsRPNQjIgx-tDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6GfX0fW0TsRPNQjIgx-tDU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:15:22"
+  }
+]

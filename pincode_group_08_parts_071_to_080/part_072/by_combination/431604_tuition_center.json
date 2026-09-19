@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gurumauli study point",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center, Studying center",
+    "pincode": "431604",
+    "phone_number": "+91 99751 48993",
+    "website": "https://gurumauli-study-hub.lovable.app/",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "नवीन मोंढा एसबीआय बँक च्या पाठीमागे, Hyder Bagh, Dashmesh Nagar, Harsh Nagar, Nanded, Maharashtra 431602",
+    "area": "Hyder Bagh, Dashmesh Nagar, Harsh Nagar",
+    "latitude": 19.167485,
+    "longitude": 77.31383079999999,
+    "place_id": "ChIJr_FEfQDX0TsRI2YzY8gBb6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr_FEfQDX0TsRI2YzY8gBb6o",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:55:57"
+  },
+  {
+    "business_name": "Shri Guru Gobind Singhji Institute of Engineering and Technology",
+    "search_category": "Tuition Center",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "431604",
+    "phone_number": "+91 2462 269 234",
+    "website": "http://sggs.ac.in/",
+    "rating": 4.5,
+    "reviews_count": 597,
+    "address": "476V+J6R, Guru Tegh Bahadurji Marg, Vishnupuri, Maharashtra 431606",
+    "area": "Vishnupuri",
+    "latitude": 19.1116086,
+    "longitude": 77.29302919999999,
+    "place_id": "ChIJPQU9kLkpzjsRA1y1Cqk4Uiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPQU9kLkpzjsRA1y1Cqk4Uiw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:55:58"
+  }
+]

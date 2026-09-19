@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "STUDIO11 Salon & Spa",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Barber shop, Beautician, Nail salon, Spa, Hairdresser, Waxing hair removal service",
+    "pincode": "431811",
+    "phone_number": "+91 74474 46977",
+    "website": "http://www.studio11.co/",
+    "rating": 4.2,
+    "reviews_count": 864,
+    "address": "G2, Destination Center 1, Nanded, Pune, Maharashtra 411068",
+    "area": "Nanded",
+    "latitude": 18.4598162,
+    "longitude": 73.7860544,
+    "place_id": "ChIJYUe-FgOVwjsRoEuo_npsxp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYUe-FgOVwjsRoEuo_npsxp4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:18:23"
+  },
+  {
+    "business_name": "Richclass Family Salon",
+    "search_category": "Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hairdresser",
+    "pincode": "431811",
+    "phone_number": "+91 99606 41834",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 410,
+    "address": "Apple residency, Sinhgad Rd, opp. Nanded City Road, Nanded Fata, Pandurang Industrial Area, Nanded, Pune, Maharashtra 411068",
+    "area": "Nanded Fata, Pandurang Industrial Area, Nanded",
+    "latitude": 18.4568787,
+    "longitude": 73.8022292,
+    "place_id": "ChIJgXZW8-SVwjsRX5O88vKQF9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgXZW8-SVwjsRX5O88vKQF9c",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:18:23"
+  }
+]

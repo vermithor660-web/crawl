@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Akash",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "431723",
+    "phone_number": "+91 91588 75088",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Shop No1 Holel Akash Tamloor Degloor Bodhan Road Tamloor Tq, Dist, Deglur, Nanded, Maharashtra 431723",
+    "area": "431723",
+    "latitude": 18.589564199999998,
+    "longitude": 77.7154887,
+    "place_id": "ChIJQz3D_kxlzjsROcx9iUBKjr0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQz3D_kxlzjsROcx9iUBKjr0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:39:12"
+  },
+  {
+    "business_name": "शिवकृपा हॉटेल, हिप्परगा थडी",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Breakfast restaurant",
+    "all_categories": "Breakfast restaurant",
+    "pincode": "431723",
+    "phone_number": "+91 96739 31214",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 58,
+    "address": "Hipparga Thadi, Maharashtra 431731",
+    "area": "431723",
+    "latitude": 18.6706053,
+    "longitude": 77.7088213,
+    "place_id": "ChIJd9IopWVuzjsRWsQOiHUEgM8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd9IopWVuzjsRWsQOiHUEgM8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:39:13"
+  }
+]

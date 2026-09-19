@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PDSK AGRO PRIVATE LIMITED",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill, Agricultural service, Corporate office, Exporter",
+    "pincode": "431540",
+    "phone_number": "+91 70656 06885",
+    "website": "https://www.pdskagro.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "B-5 DAYANAND COLONY LAJPAT NAGAR 4, near DAYANAND COLONY, CHOTTA GURUDWARA, New Delhi, Delhi 110024",
+    "area": "Block B, Lajpat Nagar 4, CHOTTA GURUDWARA",
+    "latitude": 28.563299999999998,
+    "longitude": 77.2457159,
+    "place_id": "ChIJVVVVxbbjDDkRYQv9vg5Gmaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVxbbjDDkRYQv9vg5Gmaw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:45:42"
+  },
+  {
+    "business_name": "Shri Rokadeshwar Agro Industries,Parbhani",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Agricultural production",
+    "all_categories": "Agricultural production",
+    "pincode": "431540",
+    "phone_number": "+91 2452 246 222",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": 8,
+    "address": "Parbhani Industrial Area, Parbhani, Maharashtra 431402",
+    "area": "Parbhani Industrial Area",
+    "latitude": 19.2646388,
+    "longitude": 76.80424529999999,
+    "place_id": "ChIJFysCHhgY0DsRYix3c_YLavs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFysCHhgY0DsRYix3c_YLavs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:45:43"
+  }
+]

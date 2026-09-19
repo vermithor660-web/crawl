@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "sai pan shop",
+    "search_category": "Shops",
+    "primary_category": "Tobacco shop",
+    "all_categories": "Tobacco shop",
+    "pincode": "431702",
+    "phone_number": "+91 96040 24701",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Shop No 4, Bus Stop, Hingoli Nanded Road, Kalamnuri, Maharashtra 431702",
+    "area": "431702",
+    "latitude": 19.674932899999998,
+    "longitude": 77.3154886,
+    "place_id": "ChIJtwDZuDmx0TsRJDP39V8gP_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtwDZuDmx0TsRJDP39V8gP_M",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:03:26"
+  },
+  {
+    "business_name": "Bharat Gas Service",
+    "search_category": "Shops",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop",
+    "pincode": "431702",
+    "phone_number": "+91 99702 50111",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, Gousiya Nagar, Kalamnuri, Hingoli, Maharashtra 431702",
+    "area": "Gousiya Nagar",
+    "latitude": 19.674961,
+    "longitude": 77.3133958,
+    "place_id": "ChIJsSQuagKx0TsRlSofkc-5jwM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsSQuagKx0TsRlSofkc-5jwM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:03:28"
+  }
+]

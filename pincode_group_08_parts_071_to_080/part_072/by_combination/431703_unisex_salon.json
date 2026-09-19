@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Iconic Unisex Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "431703",
+    "phone_number": "+91 77118 11818",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 108,
+    "address": "44G9+CR7, Patel Nagar, Bardoli, Gujarat 394601",
+    "area": "Patel Nagar",
+    "latitude": 21.1260375,
+    "longitude": 73.1195469,
+    "place_id": "ChIJP-4PItFn4DsRuvXo0WgwDd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP-4PItFn4DsRuvXo0WgwDd4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:04:21"
+  },
+  {
+    "business_name": "Shivkrupa Mans Parlour",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431703",
+    "phone_number": "+91 73507 98842",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 2 Main Road Goregaon, Sengaon - Goregaon Rd, Hingoli, Maharashtra 431703",
+    "area": "431703",
+    "latitude": 19.9151836,
+    "longitude": 77.035986,
+    "place_id": "ChIJH23D7XD50DsRZplOR4hdX_8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH23D7XD50DsRZplOR4hdX_8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:04:22"
+  }
+]

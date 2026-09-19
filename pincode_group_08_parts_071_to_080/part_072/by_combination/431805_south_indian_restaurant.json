@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SOUTH INDIAN RESTAURANT",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431805",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Wadgaon Road, Shre Krishna Nagar, Yavatmal, Maharashtra 445002",
+    "area": "Wadgaon Road, Shre Krishna Nagar",
+    "latitude": 20.3871303,
+    "longitude": 78.1122973,
+    "place_id": "ChIJ46hQc6jo0zsRvZvAuxcVLwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ46hQc6jo0zsRvZvAuxcVLwo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:05:01"
+  },
+  {
+    "business_name": "Tirumala south Indian hotel",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "431805",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "94MM+W7V, Godhani Rd, opposite subedar medicals, Chapman Wadi, Yavatmal, Maharashtra 445001",
+    "area": "Chapman Wadi",
+    "latitude": 20.384853,
+    "longitude": 78.1331828,
+    "place_id": "ChIJkW_QKgDp0zsRxRqIKKvDJzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkW_QKgDp0zsRxRqIKKvDJzU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:05:01"
+  }
+]

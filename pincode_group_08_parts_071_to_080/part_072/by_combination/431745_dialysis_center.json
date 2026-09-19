@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Devansh medical equipment",
+    "search_category": "Dialysis Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431745",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dhumravarna apartment flat no.202 2nd floor sharda nagar, Nanded, Maharashtra 431605",
+    "area": "Anand Nagar",
+    "latitude": 19.1719819,
+    "longitude": 77.3179609,
+    "place_id": "ChIJha82CIHX0TsRAzLOVcWcke8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJha82CIHX0TsRAzLOVcWcke8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:51:47"
+  },
+  {
+    "business_name": "SEVA MENDIAL",
+    "search_category": "Dialysis Center",
+    "primary_category": "General hospital",
+    "all_categories": "General hospital",
+    "pincode": "431745",
+    "phone_number": "+91 84213 28908",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Wajegaon, Maharashtra 431603",
+    "area": "Wajegaon",
+    "latitude": 19.1426507,
+    "longitude": 77.34612179999999,
+    "place_id": "ChIJTSvW2Q3X0TsRC86GTImSdDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTSvW2Q3X0TsRC86GTImSdDM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:51:50"
+  }
+]

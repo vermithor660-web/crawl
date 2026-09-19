@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aroma Amenities",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Hotel supply store",
+    "pincode": "431542",
+    "phone_number": "+91 87691 70044",
+    "website": "https://www.aromaamenities.com/",
+    "rating": 4.4,
+    "reviews_count": 28,
+    "address": "22-23, behind hyundai ardor show room, Durga Vihar, Sita Bari, Jaipur, Rajasthan 302029",
+    "area": "Durga Vihar, Sita Bari",
+    "latitude": 26.829698699999998,
+    "longitude": 75.79526129999999,
+    "place_id": "ChIJIfQABxW0bTkRKwd92YOD0iw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIfQABxW0bTkRKwd92YOD0iw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:48:43"
+  },
+  {
+    "business_name": "Hotel Toiletries / Mas Marketing",
+    "search_category": "Hotel Kit Suppliers",
+    "primary_category": "Toiletries Store",
+    "all_categories": "Toiletries Store, Exporter, Manufacturer",
+    "pincode": "431542",
+    "phone_number": "+91 96363 72150",
+    "website": "https://www.hoteltoiletries.co.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hotel Toiletries, Spine Rd, E-19-20, Industrial Estate, Ajmer, Rajasthan 305002",
+    "area": "E-19-20, Industrial Estate",
+    "latitude": 26.410159,
+    "longitude": 74.6565392,
+    "place_id": "ChIJ6dpsg3LhazkR8WAfZEMBl44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6dpsg3LhazkR8WAfZEMBl44",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:48:45"
+  }
+]

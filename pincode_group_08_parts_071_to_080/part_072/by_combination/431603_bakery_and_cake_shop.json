@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Frecious cake shop",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "431603",
+    "phone_number": "+91 84460 53220",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Cidco Cidco, CIDCO Colony, Nanded, Maharashtra 431603",
+    "area": "Cidco Cidco, CIDCO Colony",
+    "latitude": 19.1158616,
+    "longitude": 77.3257479,
+    "place_id": "ChIJodMTtLkpzjsRBQXB0F0YjkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJodMTtLkpzjsRBQXB0F0YjkM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:53:04"
+  },
+  {
+    "business_name": "Kwality Bakery",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "431603",
+    "phone_number": "+91 98220 53893",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 26,
+    "address": "48HV+G58, Nanded - Narsi - Bodhan Rd, Dhanegaon, Maharashtra 431603",
+    "area": "Dhanegaon",
+    "latitude": 19.1287856,
+    "longitude": 77.3429525,
+    "place_id": "ChIJRWfv5NfX0TsR4KX9TDc0WIM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRWfv5NfX0TsR4KX9TDc0WIM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:53:04"
+  }
+]

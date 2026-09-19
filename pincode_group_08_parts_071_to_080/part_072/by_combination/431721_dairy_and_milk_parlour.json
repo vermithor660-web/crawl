@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hindustan Milk House",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "431721",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Gali Number 12, hazrat, Peer Burhan Nagar, Nanded, Maharashtra 431605",
+    "area": "hazrat, Peer Burhan Nagar",
+    "latitude": 19.1804967,
+    "longitude": 77.3110002,
+    "place_id": "ChIJg6hl1B7X0TsRG4E1CqnuWdI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg6hl1B7X0TsRG4E1CqnuWdI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:34:51"
+  },
+  {
+    "business_name": "Hardap, Maharashtra 431721",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "431721",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hardap, Maharashtra",
+    "area": "431721",
+    "latitude": 19.8045245,
+    "longitude": 77.99670429999999,
+    "place_id": "ChIJS2EhS9Yo0jsRiQRXzEsUOgQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS2EhS9Yo0jsRiQRXzEsUOgQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:34:52"
+  }
+]

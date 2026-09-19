@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Venkateshwara Medical Agencies",
+    "search_category": "Doctors",
+    "primary_category": "Family practice physician",
+    "all_categories": "Family practice physician",
+    "pincode": "431811",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Kinwat, Maharashtra 431804",
+    "area": "431811",
+    "latitude": 19.6258274,
+    "longitude": 78.2001495,
+    "place_id": "ChIJA3yvSsM90jsRiLc8cK8W-eU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA3yvSsM90jsRiLc8cK8W-eU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:17:52"
+  },
+  {
+    "business_name": "उपजिल्हा रुग्णालय गोकुंदा किनवट",
+    "search_category": "Doctors",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "431811",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 20,
+    "address": "J635+V8M, Gokunda, Maharashtra 431811",
+    "area": "431811",
+    "latitude": 19.6047197,
+    "longitude": 78.2082909,
+    "place_id": "ChIJYxQiMnw-0jsRjviYLty0W_c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYxQiMnw-0jsRjviYLty0W_c",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:17:54"
+  }
+]

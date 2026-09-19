@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Securiace Technologies",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "431713",
+    "phone_number": "+91 88888 51999",
+    "website": "https://my.securiace.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "19-516, Nisarganjali, Property No 1, Plot No 31/1, Kishore Nagar Rd, Harsha Nagar, Vishnu Nagar, Nanded, Maharashtra 431602",
+    "area": "Harsha Nagar, Vishnu Nagar",
+    "latitude": 19.1754888,
+    "longitude": 77.3112907,
+    "place_id": "ChIJ3RmHHfXW0TsR6h7pem_2Wlg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3RmHHfXW0TsR6h7pem_2Wlg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:20:49"
+  },
+  {
+    "business_name": "Convolt System",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "431713",
+    "phone_number": "+91 97631 31349",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gayatri Building, opp. Peoples High School, Shivaji Nagar, Gokul Nagar, Nanded, Maharashtra 431602",
+    "area": "Shivaji Nagar, Gokul Nagar",
+    "latitude": 19.161877,
+    "longitude": 77.3078807,
+    "place_id": "ChIJeUw-E_rX0TsR3sZCOmMZ_8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeUw-E_rX0TsR3sZCOmMZ_8Y",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:20:49"
+  }
+]

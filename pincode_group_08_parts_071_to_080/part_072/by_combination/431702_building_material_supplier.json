@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Muhammed Ali complex",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "431702",
+    "phone_number": "+91 98229 99021",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shivraj Nagar, Azam Colony, Hingoli, Maharashtra 431513",
+    "area": "Shivraj Nagar, Azam Colony",
+    "latitude": 19.7031684,
+    "longitude": 77.1506809,
+    "place_id": "ChIJ49llTQBT0DsRAZkjUzzAQSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ49llTQBT0DsRAZkjUzzAQSo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:02:30"
+  },
+  {
+    "business_name": "Swaraj Hardware",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "431702",
+    "phone_number": "+91 93222 64582",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 01, Kalamnuri, Near, Main Road, Babhali, Maharashtra 431702",
+    "area": "431702",
+    "latitude": 19.6548065,
+    "longitude": 77.4382124,
+    "place_id": "ChIJNXl9utK70TsRE6KOGHs9wyI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNXl9utK70TsRE6KOGHs9wyI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:02:30"
+  }
+]

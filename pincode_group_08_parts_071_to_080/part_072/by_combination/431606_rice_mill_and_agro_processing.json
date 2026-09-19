@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Honey Makhija Corporation",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "431606",
+    "phone_number": "N/A",
+    "website": "http://honeymakhijarice.com/",
+    "rating": 4.7,
+    "reviews_count": 35,
+    "address": "Honey Makhija Chowk, Amkuhi Food Park, near Collectorate, Katni, Madhya Pradesh 483501",
+    "area": "431606",
+    "latitude": 23.8108148,
+    "longitude": 80.3644233,
+    "place_id": "ChIJQ6N5lFBhgTkR9rVqgX1XffM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ6N5lFBhgTkR9rVqgX1XffM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:59:52"
+  },
+  {
+    "business_name": "LT Foods Limited",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill, Agricultural service",
+    "pincode": "431606",
+    "phone_number": "N/A",
+    "website": "http://www.ltgroup.in/",
+    "rating": 4.3,
+    "reviews_count": 250,
+    "address": "KM Stone, 43, Grand Trunk Rd, Bahalgarh, Sonipat, Kishora, Haryana 131021",
+    "area": "Bahalgarh",
+    "latitude": 28.973605799999998,
+    "longitude": 77.0902502,
+    "place_id": "ChIJGcWEyByuDTkRwxoO7kAQecQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGcWEyByuDTkRwxoO7kAQecQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:59:52"
+  }
+]

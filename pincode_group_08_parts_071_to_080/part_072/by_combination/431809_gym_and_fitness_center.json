@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunrise Public Coaching Class",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Fitness center",
+    "all_categories": "Fitness center",
+    "pincode": "431809",
+    "phone_number": "+91 99706 70697",
+    "website": "http://www.sunrisepublic.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Kuntha, galli, Ice Factory, Dharmabad, Maharashtra 431809",
+    "area": "431809",
+    "latitude": 18.8914071,
+    "longitude": 77.8519306,
+    "place_id": "ChIJ1XPoP4gJzjsRDOoct83XXzI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1XPoP4gJzjsRDOoct83XXzI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:13:50"
+  },
+  {
+    "business_name": "Hulk gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "431809",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "VVR2+73C, Dharmabad, Maharashtra 431809",
+    "area": "431809",
+    "latitude": 18.89069,
+    "longitude": 77.8501196,
+    "place_id": "ChIJKYG55z0JzjsRDPgnxnMhsu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKYG55z0JzjsRDPgnxnMhsu8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:13:50"
+  }
+]

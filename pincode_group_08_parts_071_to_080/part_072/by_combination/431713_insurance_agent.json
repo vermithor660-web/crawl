@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shaikh Salman house",
+    "search_category": "Insurance Agent",
+    "primary_category": "Home insurance agency",
+    "all_categories": "Home insurance agency",
+    "pincode": "431713",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "6MGH+MVF, Bhokar, Maharashtra 431801",
+    "area": "431713",
+    "latitude": 19.2266875,
+    "longitude": 77.6796719,
+    "place_id": "ChIJ37u5SADj0TsR3orI8Xw47bI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ37u5SADj0TsR3orI8Xw47bI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:20:24"
+  },
+  {
+    "business_name": "Reliance General Insurance",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "431713",
+    "phone_number": "+91 98907 70768",
+    "website": "https://www.reliancegeneral.co.in/Insurance/Home.aspx",
+    "rating": 2.9,
+    "reviews_count": null,
+    "address": "583H+67G, opp. Samosa Apartment, Qudwai Nagar, Hyder Bagh, Dashmesh Nagar, Deglour Naka, Nanded, Maharashtra 431604",
+    "area": "Qudwai Nagar, Hyder Bagh, Dashmesh Nagar, Deglour Naka",
+    "latitude": 19.153067099999998,
+    "longitude": 77.32819119999999,
+    "place_id": "ChIJt1kmSkrW0TsRAXjmy5GGjtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt1kmSkrW0TsRAXjmy5GGjtQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:20:27"
+  }
+]

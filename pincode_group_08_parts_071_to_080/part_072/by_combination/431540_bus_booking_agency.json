@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KESHAVCHAYA TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "431540",
+    "phone_number": "+91 99226 44551",
+    "website": "N/A",
+    "rating": 1.9,
+    "reviews_count": null,
+    "address": "Shop No, 1, Bus Stand Rd, New Mondha, Parbhani, Maharashtra 431401",
+    "area": "New Mondha",
+    "latitude": 19.2593331,
+    "longitude": 76.7713411,
+    "place_id": "ChIJc8T-06AZ0DsR6rZ3hEBn9X4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc8T-06AZ0DsR6rZ3hEBn9X4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:44:52"
+  },
+  {
+    "business_name": "Patel Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "431540",
+    "phone_number": "+91 91758 49621",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "Shop No 1 Op Indian Reailway Station, Maharashtra 431401",
+    "area": "New Mondha",
+    "latitude": 19.258738299999997,
+    "longitude": 76.7735117,
+    "place_id": "ChIJm-QhSq8Z0DsRWv2FED-K4_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm-QhSq8Z0DsRWv2FED-K4_Y",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:44:52"
+  }
+]

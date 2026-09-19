@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Darpen Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "431713",
+    "phone_number": "+91 95521 35725",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shop No1, Near, Main Road, Bhokar, Maharashtra 431801",
+    "area": "431713",
+    "latitude": 19.2203612,
+    "longitude": 77.6705076,
+    "place_id": "ChIJZaZsiJPj0TsRQ6lH8l2QECc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZaZsiJPj0TsRQ6lH8l2QECc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:19:57"
+  },
+  {
+    "business_name": "Saburi Makeup studio",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "431713",
+    "phone_number": "+91 84217 22822",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "6MF9+CCP, Balaji Mandir Rd, Bhokar, Maharashtra 431801",
+    "area": "431713",
+    "latitude": 19.223903999999997,
+    "longitude": 77.6695627,
+    "place_id": "ChIJJUJ2QADj0TsRLefShDVNJNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJUJ2QADj0TsRLefShDVNJNs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:19:57"
+  }
+]

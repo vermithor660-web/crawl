@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AP Flower Merchant",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "431809",
+    "phone_number": "+91 87669 83279",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 9,
+    "address": "Shop No.1, near ZP Road, Subhash Nagar, Nizamabad, Telangana 503002",
+    "area": "Subhash Nagar",
+    "latitude": 18.6836606,
+    "longitude": 78.1114821,
+    "place_id": "ChIJ7zroyojbzTsRULDcu3ap_JM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7zroyojbzTsRULDcu3ap_JM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:14:24"
+  },
+  {
+    "business_name": "F K FLOWERS",
+    "search_category": "Flower Decorator",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler, Flower designer, Store",
+    "pincode": "431809",
+    "phone_number": "+91 97038 82777",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "SHOP NUMBER 08&09, Wholesale Flower Market, near Z P P COMPLEX, Kanteshwar, Nizamabad, Telangana 503002",
+    "area": "Kanteshwar",
+    "latitude": 18.6818128,
+    "longitude": 78.109419,
+    "place_id": "ChIJR78fCSHbzTsRSMz4st9RwGg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR78fCSHbzTsRSMz4st9RwGg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:14:24"
+  }
+]

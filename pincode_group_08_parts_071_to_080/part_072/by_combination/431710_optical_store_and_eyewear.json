@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Omkar Optical",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "431710",
+    "phone_number": "+91 77560 66907",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No 1, Deshmukh Complex, Rampur Rd, near Old Bus Stand, Ambedkar Nagar, Deglur, Maharashtra 431717",
+    "area": "Ambedkar Nagar",
+    "latitude": 18.545416,
+    "longitude": 77.57711189999999,
+    "place_id": "ChIJJ-ZoRcZnzjsRldQxaa5BApg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ-ZoRcZnzjsRldQxaa5BApg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:14:15"
+  },
+  {
+    "business_name": "SANJIVANI OPTICAL",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician, Optometrist",
+    "pincode": "431710",
+    "phone_number": "+91 91309 22640",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 1, Rukhmini Nagar, Nanded, Himayatnagar, Maharashtra 431802",
+    "area": "Rukhmini Nagar",
+    "latitude": 19.4243859,
+    "longitude": 77.8719213,
+    "place_id": "ChIJi_6-ONP30TsR-mZCrsZXHFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi_6-ONP30TsR-mZCrsZXHFc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:14:17"
+  }
+]

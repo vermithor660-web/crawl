@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Indraprastha Girls' Hostel",
+    "search_category": "Hostels",
+    "primary_category": "Girls' hostel",
+    "all_categories": "Girls' hostel",
+    "pincode": "431716",
+    "phone_number": "+91 77750 27815",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 20,
+    "address": "Indraprastha Girls Hostel, Barate heights, Warje Jakat Naka, Ingale Nagar, Karvenagar, Pune, Maharashtra 411052",
+    "area": "Warje Jakat Naka, Ingale Nagar, Karvenagar",
+    "latitude": 18.4826548,
+    "longitude": 73.8104962,
+    "place_id": "ChIJKbRFRgC_wjsRvD_ahr2k0Jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKbRFRgC_wjsRvD_ahr2k0Jo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:25:55"
+  },
+  {
+    "business_name": "The PM‘s Girls Hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "431716",
+    "phone_number": "+91 77760 27776",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 46,
+    "address": "The PM’s Girls Hostel Sargam colony, Lane No. 1, Saragam Society 1, Dudhane Nagar, Snehankit Colony, Karvenagar, Pune, Maharashtra 411052",
+    "area": "Saragam Society 1, Dudhane Nagar, Snehankit Colony, Karvenagar",
+    "latitude": 18.4832551,
+    "longitude": 73.8130515,
+    "place_id": "ChIJeVk-jJm_wjsRUqObmgD1ZtQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeVk-jJm_wjsRUqObmgD1ZtQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:25:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A-1 Pan Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Bait shop",
+    "all_categories": "Bait shop",
+    "pincode": "431719",
+    "phone_number": "+91 98906 78767",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "F9GC+7VR, Mukarmabad, Maharashtra 431719",
+    "area": "431719",
+    "latitude": 18.4758411,
+    "longitude": 77.3720792,
+    "place_id": "ChIJMTMbW1NXzjsRHbqwU2IaO-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMTMbW1NXzjsRHbqwU2IaO-0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:30:58"
+  },
+  {
+    "business_name": "Madhav Yalmate",
+    "search_category": "Fish Market",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "431719",
+    "phone_number": "+91 82084 89858",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hangraga, Mukarmabad, Hangarga Kh., Maharashtra 431741",
+    "area": "431719",
+    "latitude": 18.4096875,
+    "longitude": 77.4115625,
+    "place_id": "ChIJx4pu-ntZzjsRCXyMpc6QrPk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx4pu-ntZzjsRCXyMpc6QrPk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:30:58"
+  }
+]

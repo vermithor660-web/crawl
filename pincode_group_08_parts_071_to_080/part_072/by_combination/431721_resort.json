@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahyandri Resort Hotel",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431721",
+    "phone_number": "+91 94231 08733",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Kalamnuri - Pusad Rd, Mahurgad, Maharashtra 431721",
+    "area": "431721",
+    "latitude": 19.8465579,
+    "longitude": 77.91879949999999,
+    "place_id": "ChIJuVS3cJiA0TsRmabdnoneXY8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuVS3cJiA0TsRmabdnoneXY8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:36:07"
+  },
+  {
+    "business_name": "Sarvadhnya Palace",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431721",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "T Point, Shop No 1 Sarvdhnya Palace, Mahurgad, Maharashtra 431721",
+    "area": "431721",
+    "latitude": 19.8467469,
+    "longitude": 77.9192581,
+    "place_id": "ChIJBbsCe5iA0TsRE1FYKyuzW7U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBbsCe5iA0TsRE1FYKyuzW7U",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:36:07"
+  }
+]

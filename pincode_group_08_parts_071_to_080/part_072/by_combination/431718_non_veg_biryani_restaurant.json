@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Darbar Restaurant",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431718",
+    "phone_number": "+91 75175 01500",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "RAJ CORNER, Airport Rd, Manik Nagar, ASAD NAGAR, Balaji Nagar, Nanded, Maharashtra 431605",
+    "area": "Manik Nagar, ASAD NAGAR, Balaji Nagar",
+    "latitude": 19.184143,
+    "longitude": 77.306034,
+    "place_id": "ChIJ0zQfbgDX0TsRTV-KiPAbFDU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0zQfbgDX0TsRTV-KiPAbFDU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:28:58"
+  },
+  {
+    "business_name": "A - 1 Biryani House",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "431718",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No1 Chidgirifata Main Road, Mudkhed Bhokar Rd, Bhokar, Maharashtra 431745",
+    "area": "431718",
+    "latitude": 19.2359328,
+    "longitude": 77.5301032,
+    "place_id": "ChIJ8YBeBLHd0TsR6M2C4jIoOzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8YBeBLHd0TsR6M2C4jIoOzk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:28:58"
+  }
+]

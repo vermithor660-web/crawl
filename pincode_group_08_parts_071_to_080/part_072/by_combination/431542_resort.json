@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL B.G.JAISWAL WINE BAR",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431542",
+    "phone_number": "+91 98233 05940",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "QX26+H29, Pusegaon Main Rd, Pusegaon, Maharashtra 431513",
+    "area": "431542",
+    "latitude": 19.7514088,
+    "longitude": 76.9601248,
+    "place_id": "ChIJafsgTB1b0DsRn_gHTx8AbIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJafsgTB1b0DsRn_gHTx8AbIU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:48:40"
+  },
+  {
+    "business_name": "Shantai lawns and resort",
+    "search_category": "Resort",
+    "primary_category": "Villa",
+    "all_categories": "Villa",
+    "pincode": "431542",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XQHM+43P, Risod, Maharashtra 444506",
+    "area": "431542",
+    "latitude": 19.977839799999998,
+    "longitude": 76.782702,
+    "place_id": "ChIJtYQCOACN0DsRUAg1Vq1TwnU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtYQCOACN0DsRUAg1Vq1TwnU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:48:43"
+  }
+]

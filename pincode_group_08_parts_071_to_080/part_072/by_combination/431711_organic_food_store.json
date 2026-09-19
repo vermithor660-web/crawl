@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HR FRESH MILK DIARY",
+    "search_category": "Organic Food Store",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "431711",
+    "phone_number": "+91 81799 15972",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 125,
+    "address": "Hangara road, near Kopparga, Bodhan, Kopperga, Telangana 503235",
+    "area": "431711",
+    "latitude": 18.775018,
+    "longitude": 77.8665931,
+    "place_id": "ChIJgbwg8ZV1zjsRx_SSmfXHIfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgbwg8ZV1zjsRx_SSmfXHIfY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:15:38"
+  },
+  {
+    "business_name": "SunEdge Warangal",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic shop",
+    "all_categories": "Organic shop",
+    "pincode": "431711",
+    "phone_number": "+91 97011 58546",
+    "website": "http://www.mysunedge.co.in/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shiva Nagar, Warangal, Telangana 506002",
+    "area": "Shiva Nagar",
+    "latitude": 17.9720591,
+    "longitude": 79.6006388,
+    "place_id": "ChIJUcLd6bBFMzoRqsl4CMAwdxs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUcLd6bBFMzoRqsl4CMAwdxs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:15:38"
+  }
+]

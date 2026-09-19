@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOSPITAL",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "431746",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RAVINAGAR ROAD, NANDED, Halda, Maharashtra 431746",
+    "area": "431746",
+    "latitude": 18.8721922,
+    "longitude": 77.355413,
+    "place_id": "ChIJtTJrYBQxzjsRWF0lwPEOUms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtTJrYBQxzjsRWF0lwPEOUms",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:53:44"
+  },
+  {
+    "business_name": "Dr. Shankar Singarputale",
+    "search_category": "Doctors",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431746",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "V7XG+HVJ, Bamni P.k., Maharashtra 431746",
+    "area": "431746",
+    "latitude": 18.8984994,
+    "longitude": 77.2772057,
+    "place_id": "ChIJbxqSWAAzzjsRmBoazcVMi90",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbxqSWAAzzjsRmBoazcVMi90",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:53:44"
+  }
+]

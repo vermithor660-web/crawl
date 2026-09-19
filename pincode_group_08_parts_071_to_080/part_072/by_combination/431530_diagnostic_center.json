@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhruv Clinical laboratory",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "431530",
+    "phone_number": "+91 90966 32888",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Camp Gopinath Gad, Pangari, Parli V, Maharashtra 431530",
+    "area": "431530",
+    "latitude": 18.914450499999997,
+    "longitude": 76.4660418,
+    "place_id": "ChIJ6zs3YOD5zzsRxhNfWNHDF0U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6zs3YOD5zzsRxhNfWNHDF0U",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:39:35"
+  },
+  {
+    "business_name": "Sudagar Medical",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "431530",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Azad Nagar, Parli Vaijnath, Maharashtra 431515",
+    "area": "Azad Nagar",
+    "latitude": 18.852113499999998,
+    "longitude": 76.5287621,
+    "place_id": "ChIJuyyAUjz3zzsRdmqWs32hg2o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuyyAUjz3zzsRdmqWs32hg2o",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:39:36"
+  }
+]

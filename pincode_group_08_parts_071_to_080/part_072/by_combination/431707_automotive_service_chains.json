@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SD Raj Cushion Work",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "431707",
+    "phone_number": "+91 89999 36450",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Shop No 7, near Mama Gayrej, Hingoli Naka, Hyder Bagh, Dashmesh Nagar, Road, Nanded, Maharashtra 431605",
+    "area": "Hingoli Naka, Hyder Bagh, Dashmesh Nagar, Road",
+    "latitude": 19.1678098,
+    "longitude": 77.3225978,
+    "place_id": "ChIJ3ULFdObX0TsRYJuRb91jwwI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3ULFdObX0TsRYJuRb91jwwI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:09:19"
+  },
+  {
+    "business_name": "India Garage",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "431707",
+    "phone_number": "+91 98342 13613",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, near Pakiza Function Hall, Bilal Nagar, Deglour Naka, Nanded, Maharashtra 431604",
+    "area": "Bilal Nagar, Deglour Naka",
+    "latitude": 19.1493058,
+    "longitude": 77.336761,
+    "place_id": "ChIJuSzeKZfX0TsRIYPWHeD9lNs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuSzeKZfX0TsRIYPWHeD9lNs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:09:19"
+  }
+]

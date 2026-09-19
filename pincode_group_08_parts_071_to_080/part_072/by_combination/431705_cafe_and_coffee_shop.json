@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sainath T House",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Hotel",
+    "pincode": "431705",
+    "phone_number": "+91 87668 07026",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop No 1 Purjal Roaj Jawala Bazar, Aundha Nagnath, Maharashtra 431705",
+    "area": "431705",
+    "latitude": 19.4637395,
+    "longitude": 76.9866196,
+    "place_id": "ChIJ86FnRW040DsRqyu6ROLV8Sk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ86FnRW040DsRqyu6ROLV8Sk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:07:02"
+  },
+  {
+    "business_name": "मल्हारी मार्तंड चहा",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Self service restaurant",
+    "pincode": "431705",
+    "phone_number": "+91 84080 51408",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 2,
+    "address": "Jire galli, Aundha Nagnath, Maharashtra 431705",
+    "area": "431705",
+    "latitude": 19.5403001,
+    "longitude": 77.03851709999999,
+    "place_id": "ChIJE5KbXwBJ0DsRpSDswVmtyM0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE5KbXwBJ0DsRpSDswVmtyM0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:07:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bharat Londry",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "431743",
+    "phone_number": "+91 94228 67546",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Police Station, Dhanki Rd, Samor, Umarkhed, Maharashtra 445206",
+    "area": "Samor",
+    "latitude": 19.6007691,
+    "longitude": 77.6917252,
+    "place_id": "ChIJQU7shSqT0TsRQlSUDg_1sFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQU7shSqT0TsRQlSUDg_1sFU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:51:05"
+  },
+  {
+    "business_name": "Shinde Sambhaji Marutirao",
+    "search_category": "Advertisement Agency",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "431743",
+    "phone_number": "+91 94033 28077",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Umarkhed, Road, Karodi, Maharashtra 445206",
+    "area": "431743",
+    "latitude": 19.5849531,
+    "longitude": 77.6877906,
+    "place_id": "ChIJgwuIH0-T0TsRVxGOJBOkSD4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgwuIH0-T0TsRVxGOJBOkSD4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:51:05"
+  }
+]

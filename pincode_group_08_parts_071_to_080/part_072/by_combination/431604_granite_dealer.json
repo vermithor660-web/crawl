@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Tiles And Granite Center",
+    "search_category": "Granite Dealer",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431604",
+    "phone_number": "+91 80870 99968",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "57, Hyderabad Rd, Dhanegaon, Maharashtra 431603",
+    "area": "Dhanegaon",
+    "latitude": 19.1312912,
+    "longitude": 77.34364339999999,
+    "place_id": "ChIJgZsJYJbX0TsROrpMtwqcmJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgZsJYJbX0TsROrpMtwqcmJU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:55:31"
+  },
+  {
+    "business_name": "Sarda Tiles & Granite",
+    "search_category": "Granite Dealer",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "431604",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1-11-103/9, Hyder Bagh, Dashmesh Nagar, Harsh Nagar, Nanded, Maharashtra 431604",
+    "area": "Hyder Bagh, Dashmesh Nagar, Harsh Nagar",
+    "latitude": 19.157535499999998,
+    "longitude": 77.3314326,
+    "place_id": "ChIJAQDML1_W0TsRHGOO1kJVUdo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQDML1_W0TsRHGOO1kJVUdo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:55:33"
+  }
+]

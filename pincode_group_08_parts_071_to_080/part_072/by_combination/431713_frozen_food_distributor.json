@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Minerva Ice Cream",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "431713",
+    "phone_number": "+91 98484 58764",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 290,
+    "address": "Collector chowk, opposite 2 town police station, Satnala Quarters, Sapthagiri Colony, chaitanyapuri, Adilabad, Telangana 504001",
+    "area": "Satnala Quarters, Sapthagiri Colony, chaitanyapuri",
+    "latitude": 19.6634952,
+    "longitude": 78.5287357,
+    "place_id": "ChIJCZ4V0GRc0jsROE7inRgiIF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZ4V0GRc0jsROE7inRgiIF4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:19:09"
+  },
+  {
+    "business_name": "Tizola food delivery app - Best food delivery service",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Pizza delivery",
+    "all_categories": "Pizza delivery, Service establishment",
+    "pincode": "431713",
+    "phone_number": "+91 90632 66604",
+    "website": "https://www.tizola.in/",
+    "rating": 4.4,
+    "reviews_count": 7,
+    "address": "Tizola food delivery app - Best food delivery service, 431713, India",
+    "area": "431713",
+    "latitude": 17.0703522,
+    "longitude": 78.2085992,
+    "place_id": "ChIJJWyPajVhEmYRnv1nTTu3gJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJWyPajVhEmYRnv1nTTu3gJg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:19:09"
+  }
+]

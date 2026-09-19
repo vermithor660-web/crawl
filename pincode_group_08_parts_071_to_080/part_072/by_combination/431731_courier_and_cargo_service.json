@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Post office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Shipping and mailing service",
+    "all_categories": "Shipping and mailing service",
+    "pincode": "431731",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JQJR+6F6, Domaledgi, Telangana 503207",
+    "area": "431731",
+    "latitude": 18.6305303,
+    "longitude": 77.7911433,
+    "place_id": "ChIJewNEFABxzjsRuinGBDVJl3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJewNEFABxzjsRuinGBDVJl3g",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:42:43"
+  },
+  {
+    "business_name": "POST OFFICE HANGARGA FARM",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "431731",
+    "phone_number": "+91 70934 16584",
+    "website": "http://www.indiapost.gov.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "HQQH+5RP, Hangarga Farm, Telangana 503207",
+    "area": "431731",
+    "latitude": 18.5879645,
+    "longitude": 77.7795664,
+    "place_id": "ChIJD4X-unF7zjsR-oOTyTpnhbY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD4X-unF7zjsR-oOTyTpnhbY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:42:46"
+  }
+]

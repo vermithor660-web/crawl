@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalpataru Sanetary",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "431606",
+    "phone_number": "+91 80071 27098",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No 2 Bagatsingh Chowk Asarjan Vishnupuri, Bhagat Singh Rd, Maharashtra 431606",
+    "area": "431606",
+    "latitude": 19.1209073,
+    "longitude": 77.2970222,
+    "place_id": "ChIJwz9P718pzjsRTUMRTh60bpc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwz9P718pzjsRTUMRTh60bpc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:59:02"
+  },
+  {
+    "business_name": "ईश्वरी ठिबक एजन्सी& हार्डवेअर",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "431606",
+    "phone_number": "+91 99605 43913",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Dhangarwadi, Maharashtra 431606",
+    "area": "431606",
+    "latitude": 19.086280199999997,
+    "longitude": 77.2616543,
+    "place_id": "ChIJSwHFbkgqzjsRIqrF4IwVCns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSwHFbkgqzjsRIqrF4IwVCns",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:59:03"
+  }
+]

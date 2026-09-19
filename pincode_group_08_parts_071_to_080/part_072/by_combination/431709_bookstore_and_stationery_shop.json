@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nathani Books & Shopping Centre",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Stationery store",
+    "pincode": "431709",
+    "phone_number": "+91 2462 247 220",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "48WC+XXF, Mahatma Gandhi Rd, Hyder Bagh, Dashmesh Nagar, Harsh Nagar, Nanded, Maharashtra 431604",
+    "area": "Hyder Bagh, Dashmesh Nagar, Harsh Nagar",
+    "latitude": 19.1474483,
+    "longitude": 77.3224073,
+    "place_id": "ChIJFSP8oTfW0TsR-Y0i1ma_mS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFSP8oTfW0TsR-Y0i1ma_mS0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:13:20"
+  },
+  {
+    "business_name": "New Navneet Book Center",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "431709",
+    "phone_number": "+91 94233 05552",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 2 Hedgewar Chowk, Main Rd, Naigaon, Maharashtra 431709",
+    "area": "Hangarga",
+    "latitude": 18.8478861,
+    "longitude": 77.53233159999999,
+    "place_id": "ChIJKe5zCdQ_zjsRlaEw9a-8daY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKe5zCdQ_zjsRlaEw9a-8daY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:13:20"
+  }
+]

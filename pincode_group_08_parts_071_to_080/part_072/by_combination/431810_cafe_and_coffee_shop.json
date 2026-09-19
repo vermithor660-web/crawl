@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "shambhuraje tea shop",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "431810",
+    "phone_number": "+91 88065 23092",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "shop no 1, shambhuraje tea shop, Kinwat, Bodhadi, Bodhadi Bk., Maharashtra 431810",
+    "area": "Kinwat, Bodhadi",
+    "latitude": 19.4979978,
+    "longitude": 78.2003423,
+    "place_id": "ChIJfbdv4zYX0jsRUicynIcA7xM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfbdv4zYX0jsRUicynIcA7xM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:15:29"
+  },
+  {
+    "business_name": "Hotel Gondwana",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "431810",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kinwat, Thara, Maharashtra 431810",
+    "area": "Kinwat",
+    "latitude": 19.469516799999997,
+    "longitude": 78.1870805,
+    "place_id": "ChIJfWJDegAX0jsRSIpQyOGh2XU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfWJDegAX0jsRSIpQyOGh2XU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:15:29"
+  }
+]

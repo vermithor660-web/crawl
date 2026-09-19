@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akankshi Wine Bar",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "431736",
+    "phone_number": "+91 98907 46009",
+    "website": "http://akankshiwinebar.com/",
+    "rating": 4,
+    "reviews_count": 6,
+    "address": "Shop No 1main, Chauk, Narsi, Maharashtra 431709",
+    "area": "Chauk",
+    "latitude": 18.8117667,
+    "longitude": 77.5423385,
+    "place_id": "ChIJ10UZ4qU_zjsRrpK1jNYyyqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ10UZ4qU_zjsRrpK1jNYyyqw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:43:24"
+  },
+  {
+    "business_name": "Hotel Nandigram Payles Bar And Restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "431736",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Khanapur Fhata, Khanapur, Narsi, Maharashtra 431709",
+    "area": "Khanapur",
+    "latitude": 18.8113626,
+    "longitude": 77.5426118,
+    "place_id": "ChIJM9oZvoM_zjsRshBwE-bp2C4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM9oZvoM_zjsRshBwE-bp2C4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:43:24"
+  }
+]

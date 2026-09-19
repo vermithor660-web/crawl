@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel yuvraj family. Restorent",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar, Hotel",
+    "pincode": "431702",
+    "phone_number": "+91 96239 49518",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "M6WR+PX, Waspangara, Maharashtra 431702",
+    "area": "431702",
+    "latitude": 19.6968274,
+    "longitude": 77.2424808,
+    "place_id": "ChIJ2zvpY2St0TsRf7w_PDsW-pg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2zvpY2St0TsRf7w_PDsW-pg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:01:58"
+  },
+  {
+    "business_name": "Fauji Bar And Restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "431702",
+    "phone_number": "+91 76204 41123",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 11,
+    "address": "Shop No 1 Biloli Road Narsi Lohgavon Biloli Road, Narsi - Umri Rd, Lohogaon, Maharashtra 431710",
+    "area": "431702",
+    "latitude": 18.8084442,
+    "longitude": 77.5585457,
+    "place_id": "ChIJE7Aq2ac_zjsRBTZxdae5cuY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE7Aq2ac_zjsRBTZxdae5cuY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:02:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vasant Shankarao Aher",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Household goods wholesaler",
+    "all_categories": "Household goods wholesaler",
+    "pincode": "431602",
+    "phone_number": "+91 94037 45535",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G,G Road, santkrupa market, Khadakpura, Nanded, Maharashtra 431601",
+    "area": "Khadakpura",
+    "latitude": 19.1498787,
+    "longitude": 77.3153687,
+    "place_id": "ChIJXa1FCeTX0TsRt1Vw7eq5pHc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXa1FCeTX0TsRt1Vw7eq5pHc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:51:22"
+  },
+  {
+    "business_name": "Samarth Steel & Home Appliances",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Kitchen supply store",
+    "all_categories": "Kitchen supply store, Home goods store, Hotel supply store, Kitchen furniture store",
+    "pincode": "431602",
+    "phone_number": "+91 93732 35664",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Umri, Nanded, Peth Umri, Maharashtra 431807",
+    "area": "Umri, Nanded",
+    "latitude": 19.039225,
+    "longitude": 77.641966,
+    "place_id": "ChIJOTf0RegZzjsR19ROfeBQMmc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOTf0RegZzjsR19ROfeBQMmc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:51:22"
+  }
+]

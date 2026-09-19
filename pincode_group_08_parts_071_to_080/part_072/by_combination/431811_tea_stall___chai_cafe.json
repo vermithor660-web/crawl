@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chatrapati Tea And Paan Shop",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "431811",
+    "phone_number": "+91 99225 63294",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Workshop Rd, near Petrol Pump, Taroda Bk., Kohinor City, Shri Nagar, Nanded, Maharashtra 431605",
+    "area": "Taroda Bk., Kohinor City, Shri Nagar",
+    "latitude": 19.1809635,
+    "longitude": 77.3042329,
+    "place_id": "ChIJM5GL4DbX0TsRnS99rlWRsGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM5GL4DbX0TsRnS99rlWRsGo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:17:32"
+  },
+  {
+    "business_name": "OM SAI TEA STALL",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "431811",
+    "phone_number": "+91 77699 68947",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No1, Airport Rd, near Shiv Mandeer, Vital Nagar, Chaitanya Nagar, Nanded, Maharashtra 431605",
+    "area": "Vital Nagar, Chaitanya Nagar",
+    "latitude": 19.1845346,
+    "longitude": 77.3098572,
+    "place_id": "ChIJF521YUPX0TsROnBKq_F5Vv8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF521YUPX0TsROnBKq_F5Vv8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:17:33"
+  }
+]

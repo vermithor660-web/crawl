@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pratiksha Beauty Parlour",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "431701",
+    "phone_number": "+91 99757 80548",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No, 2, Hingoli - Kalamnuri - Nanded Rd, Akhara Balapur, Maharashtra 431701",
+    "area": "431701",
+    "latitude": 19.5319541,
+    "longitude": 77.4155377,
+    "place_id": "ChIJn7I9YHu50TsR6e66KJuvIx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn7I9YHu50TsR6e66KJuvIx0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:00:57"
+  },
+  {
+    "business_name": "SPA VILLA NAGPUR",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Aromatherapy service, Day spa, Facial spa, Foot massage parlor, Massage spa, Massage therapist, Spa and health club",
+    "pincode": "431701",
+    "phone_number": "+91 88060 84848",
+    "website": "https://www.spavillanagpur.com/",
+    "rating": 4.7,
+    "reviews_count": 1089,
+    "address": "Metro Pillar 145, Chhatrapati Square, Wardha Rd, opp. to Axis Bank, Near Sai Mandir, Sawarkar Nagar, Vivekanand Nagar, Nagpur, Maharashtra 440015",
+    "area": "Near Sai Mandir, Sawarkar Nagar, Vivekanand Nagar",
+    "latitude": 21.1141452,
+    "longitude": 79.0707451,
+    "place_id": "ChIJEXfH4PbA1DsRENVZL3uBfsE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEXfH4PbA1DsRENVZL3uBfsE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:00:58"
+  }
+]

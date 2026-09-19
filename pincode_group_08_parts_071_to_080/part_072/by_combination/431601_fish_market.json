@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samudrika Fish Mall",
+    "search_category": "Fish Market",
+    "primary_category": "Fish store",
+    "all_categories": "Fish store",
+    "pincode": "431601",
+    "phone_number": "+91 84465 13579",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Korde Food Mall / Plaza, near Korde Swimming Pool, near Nanded City Road, Ghule Patil Nagar, Pandurang Industrial Area, Nanded, Pune, Maharashtra 411068",
+    "area": "Ghule Patil Nagar, Pandurang Industrial Area, Nanded",
+    "latitude": 18.4567089,
+    "longitude": 73.78759459999999,
+    "place_id": "ChIJO5_3h26VwjsRuyqYFusckL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO5_3h26VwjsRuyqYFusckL8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:49:24"
+  },
+  {
+    "business_name": "Sahil Fish",
+    "search_category": "Fish Market",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431601",
+    "phone_number": "+91 73856 26219",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Barangani Rd, near Sinhgad Road, Ghule Patil Nagar, Pandurang Industrial Area, Nanded, Pune, Maharashtra 411068",
+    "area": "Ghule Patil Nagar, Pandurang Industrial Area, Nanded",
+    "latitude": 18.4548101,
+    "longitude": 73.79055269999999,
+    "place_id": "ChIJT2F-GQeVwjsRmOkqh0yS8iM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT2F-GQeVwjsRmOkqh0yS8iM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:49:26"
+  }
+]

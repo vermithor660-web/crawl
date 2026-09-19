@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "गोरक्षनाथ ऑटो",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "431703",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Chalisgaon road, Tongaon, Bhadgaon, Maharashtra 424105",
+    "area": "Tongaon",
+    "latitude": 20.6622675,
+    "longitude": 75.228909,
+    "place_id": "ChIJ-WflmCxF2TsR4QluBjkItwE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-WflmCxF2TsR4QluBjkItwE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:04:05"
+  },
+  {
+    "business_name": "SK Cycle Mart",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "431703",
+    "phone_number": "+91 82083 61818",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "मु. पो: सौंदणे, तालुका, Mohol, Maharashtra 413213",
+    "area": "431703",
+    "latitude": 17.7189367,
+    "longitude": 75.5744964,
+    "place_id": "ChIJiVpdd08xxDsRhasdwvqV9jo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiVpdd08xxDsRhasdwvqV9jo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:04:07"
+  }
+]

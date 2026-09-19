@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Santosh Madaswad",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "431805",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 2,
+    "address": "M56R+VVR, Kinwat Rd, Ghoti, Maharashtra 431804",
+    "area": "431805",
+    "latitude": 19.662229,
+    "longitude": 78.1921314,
+    "place_id": "ChIJ1XrXXfo70jsRAg8dFJhIF88",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1XrXXfo70jsRAg8dFJhIF88",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:06:00"
+  },
+  {
+    "business_name": "Nilgai Homestay Tipeshwar",
+    "search_category": "Guesthouse",
+    "primary_category": "Home Stay",
+    "all_categories": "Home Stay",
+    "pincode": "431805",
+    "phone_number": "+91 98456 90809",
+    "website": "https://nilgaitipeshwar.com/",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "T27, near BSNL Tower, Kaleshwar, Parva, Maharashtra 445306",
+    "area": "431805",
+    "latitude": 19.968072199999998,
+    "longitude": 78.38054699999999,
+    "place_id": "ChIJkaYOUAC10zsRwbyhl3w8geQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkaYOUAC10zsRwbyhl3w8geQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:06:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "INDIAN FAMILY DHABA",
+    "search_category": "Family Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "431805",
+    "phone_number": "+91 84468 02599",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 4,
+    "address": "KOTHARI ROAD, Kinwat, Kothari, Maharashtra 431804",
+    "area": "431805",
+    "latitude": 19.5846599,
+    "longitude": 78.2110071,
+    "place_id": "ChIJaZFDpWc_0jsRQ5RUbkUkVSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaZFDpWc_0jsRQ5RUbkUkVSo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:05:02"
+  },
+  {
+    "business_name": "DAYAVAN RESTAURANT AND FAMILY GARDEN MR PRALAY INDAL JADHAV",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431805",
+    "phone_number": "+91 86055 98459",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 3,
+    "address": "Shop No 09, near Mandavi Road, Tanda, Daheli, Dhawaji Tanda, Maharashtra 431724",
+    "area": "Tanda",
+    "latitude": 19.8238245,
+    "longitude": 78.1492627,
+    "place_id": "ChIJNeGTtVkx0jsRsp_LElTivCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNeGTtVkx0jsRsp_LElTivCo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:05:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Faroqi Medical & General Store",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store, Doctor",
+    "pincode": "431604",
+    "phone_number": "+91 99707 97973",
+    "website": "http://faroqimedical.evital.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Qudwai Nagar Chowrasta, Tyer Board, Deglour Naka, Nanded, Maharashtra 431604",
+    "area": "Deglour Naka",
+    "latitude": 19.1532399,
+    "longitude": 77.3368349,
+    "place_id": "ChIJhR7Vx7XX0TsRDgSevUVYjic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhR7Vx7XX0TsRDgSevUVYjic",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:55:19"
+  },
+  {
+    "business_name": "Mirza Traders",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Industrial gas supplier",
+    "all_categories": "Industrial gas supplier, Industrial equipment supplier, Oxygen equipment supplier",
+    "pincode": "431604",
+    "phone_number": "+91 97301 14045",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Qayyum Complex, Shop No: 7, Hyder Bagh, Dashmesh Nagar, Deglour Naka, Nanded, Maharashtra 431604",
+    "area": "Hyder Bagh, Dashmesh Nagar, Deglour Naka",
+    "latitude": 19.1522419,
+    "longitude": 77.330603,
+    "place_id": "ChIJV1N97ErW0TsR36a_9Urv4-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV1N97ErW0TsR36a_9Urv4-E",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:55:21"
+  }
+]

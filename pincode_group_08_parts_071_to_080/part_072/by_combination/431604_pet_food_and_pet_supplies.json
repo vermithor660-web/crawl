@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Deshmukh Dog Dealer",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Dog breeder",
+    "all_categories": "Dog breeder",
+    "pincode": "431604",
+    "phone_number": "+91 97307 14307",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vasant Nagar Road, near Rajshree Shahu, Vasant Nagar, Hyder Bagh, Vidyalaya, Vasant Nagar, Nanded, Maharashtra 431602",
+    "area": "Vasant Nagar, Hyder Bagh, Vidyalaya, Vasant Nagar",
+    "latitude": 19.1707824,
+    "longitude": 77.3169078,
+    "place_id": "ChIJuRSlqM7X0TsRl5GoPC5rUQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuRSlqM7X0TsRl5GoPC5rUQc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:54:55"
+  },
+  {
+    "business_name": "Prince Aquariums and Pets Store",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "431604",
+    "phone_number": "+91 82470 79991",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "beside Dolphin Hotel, Gouse Nagar, Sakarnagar, Venkateshwara Colony, Bodhan, Telangana 503180",
+    "area": "Gouse Nagar, Sakarnagar, Venkateshwara Colony",
+    "latitude": 18.656050999999998,
+    "longitude": 77.8970848,
+    "place_id": "ChIJ2QThgSd3zjsRI2mGgvv2pZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2QThgSd3zjsRI2mGgvv2pZE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:54:56"
+  }
+]

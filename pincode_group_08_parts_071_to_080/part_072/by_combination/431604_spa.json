@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lotus Thai Spa",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "431604",
+    "phone_number": "+91 96996 59930",
+    "website": "https://lotus-thai-spa.grexa.site/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "4th floor, Suyash lodge, near, d Mart road, new renapur naka, Latur, Maharashtra 413531",
+    "area": "new renapur naka",
+    "latitude": 18.4177374,
+    "longitude": 76.5724984,
+    "place_id": "ChIJs8A2vbiDzzsRm3mLOg2wfe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs8A2vbiDzzsRm3mLOg2wfe4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:55:41"
+  },
+  {
+    "business_name": "Nature's way beauty parlour and training centre",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "431604",
+    "phone_number": "+91 96231 81511",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "road, Ambekar Nagar, Nanded, Maharashtra 431605",
+    "area": "Ambekar Nagar",
+    "latitude": 19.1793285,
+    "longitude": 77.3115644,
+    "place_id": "ChIJe2CZWnPX0TsRoxMY37dgvYk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe2CZWnPX0TsRoxMY37dgvYk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:55:42"
+  }
+]

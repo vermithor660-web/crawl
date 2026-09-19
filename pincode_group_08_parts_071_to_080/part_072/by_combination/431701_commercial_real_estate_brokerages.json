@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Surbhi Real Estate",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Industrial real estate agency",
+    "all_categories": "Industrial real estate agency, Commercial real estate agency",
+    "pincode": "431701",
+    "phone_number": "+91 95185 46239",
+    "website": "https://surbhirealestate.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jain Mandir Ward, opp. Mahaveer Bhawan, Dag Borkhedi, Hinganghat, Maharashtra 442301",
+    "area": "Dag Borkhedi",
+    "latitude": 20.5482451,
+    "longitude": 78.8359656,
+    "place_id": "ChIJf2vlmWx70zsR4WDiQdp_SNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf2vlmWx70zsR4WDiQdp_SNY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:01:28"
+  },
+  {
+    "business_name": "Siddesh Realties",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "431701",
+    "phone_number": "+91 80077 00749",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 61,
+    "address": "Plot No 04, behind Hdfc Bank, Mayur Colony, Deopur, Dhule, Maharashtra 424001",
+    "area": "Mayur Colony, Deopur",
+    "latitude": 20.9140709,
+    "longitude": 74.7690231,
+    "place_id": "ChIJocXZgVDF3jsRoeylIZ4OMc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJocXZgVDF3jsRoeylIZ4OMc0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:01:28"
+  }
+]

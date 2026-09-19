@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dental Square Advance Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "431702",
+    "phone_number": "+91 96892 97919",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Shop no. 01, Main Road, Post Office Rd, Bhatt Colony, Siddharth Nagar, Hingoli, Maharashtra 431513",
+    "area": "Bhatt Colony, Siddharth Nagar",
+    "latitude": 19.7179988,
+    "longitude": 77.1434776,
+    "place_id": "ChIJQ6u_UkhT0DsRaZmEKUd6Po0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ6u_UkhT0DsRaZmEKUd6Po0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:02:13"
+  },
+  {
+    "business_name": "Ekdant Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "431702",
+    "phone_number": "+91 99226 55144",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 2 Manka Complex, Indira Chowk, Hingoli, Maharashtra 431513",
+    "area": "Indira Chowk",
+    "latitude": 19.714697899999997,
+    "longitude": 77.1413415,
+    "place_id": "ChIJnXYvzOJT0DsRqkTnQ1FA1Rw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnXYvzOJT0DsRqkTnQ1FA1Rw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:02:14"
+  }
+]

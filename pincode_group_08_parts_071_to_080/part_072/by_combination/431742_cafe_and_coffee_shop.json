@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AAPAL CAFE",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "431742",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "REDDY COMPLEX, MG COLLEGE ROAD, Irrigation Colony, Ahmedpur, Maharashtra 413515",
+    "area": "Irrigation Colony",
+    "latitude": 18.699824,
+    "longitude": 76.9413443,
+    "place_id": "ChIJF8eCg365zzsRH2DqmNEXLTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF8eCg365zzsRH2DqmNEXLTI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:47:31"
+  },
+  {
+    "business_name": "मुन्ना टी पॉईंट",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "431742",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W5RV+7QM, Panbhosi, Maharashtra 431714",
+    "area": "431742",
+    "latitude": 18.9407064,
+    "longitude": 77.1944297,
+    "place_id": "ChIJU_kpPQDTzzsR4AXXFsU4tAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU_kpPQDTzzsR4AXXFsU4tAw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:47:31"
+  }
+]

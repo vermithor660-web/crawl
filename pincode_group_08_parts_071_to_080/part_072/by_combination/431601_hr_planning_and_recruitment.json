@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Platinum HR Consulting Group",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "431601",
+    "phone_number": "N/A",
+    "website": "http://www.platinumhrcg.com/",
+    "rating": 5,
+    "reviews_count": 64,
+    "address": "Platinum HR Consulting Group, 431601, India",
+    "area": "431601",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJHVSn24nb3IARKxxHKvGh218",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHVSn24nb3IARKxxHKvGh218",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:50:48"
+  },
+  {
+    "business_name": "Aanko Group",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Employment agency",
+    "all_categories": "Employment agency",
+    "pincode": "431601",
+    "phone_number": "+91 86688 62551",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ghante Complex, Loha, Malakoli, Maharashtra 431708",
+    "area": "431601",
+    "latitude": 18.8722218,
+    "longitude": 77.0776719,
+    "place_id": "ChIJVVVV6fTOzzsRfdl5KUXtMp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVV6fTOzzsRfdl5KUXtMp4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:50:49"
+  }
+]

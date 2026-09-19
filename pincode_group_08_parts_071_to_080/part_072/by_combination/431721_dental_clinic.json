@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "431721",
+    "phone_number": "+91 74985 99853",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Telewar Complex, Kinwat Road, behind Jio Office, opp. to RH, Mahurgad, Maharashtra 431721",
+    "area": "431721",
+    "latitude": 19.8518682,
+    "longitude": 77.9260086,
+    "place_id": "ChIJI-6yVWLX0TsR9c1PrnhnySs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI-6yVWLX0TsR9c1PrnhnySs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:35:20"
+  },
+  {
+    "business_name": "Om Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "431721",
+    "phone_number": "+91 62613 28507",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 8 Near By Grampanchayat Kupti, Mahur Road, Fulsawangi, Kupti (Nahoor), Maharashtra 431804",
+    "area": "431721",
+    "latitude": 19.7361847,
+    "longitude": 77.9583054,
+    "place_id": "ChIJD0YsYsEp0jsRSsylpTdhgVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD0YsYsEp0jsRSsylpTdhgVM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:35:22"
+  }
+]

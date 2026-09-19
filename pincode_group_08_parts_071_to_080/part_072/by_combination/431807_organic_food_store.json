@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ambika Ladies Emporium",
+    "search_category": "Organic Food Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Bangle Shop, Cosmetics store, Gift shop, Handbags shop, Perfume store, Stationery store, Underwear store",
+    "pincode": "431807",
+    "phone_number": "+91 91721 31445",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Shop No 1, Sarafa Line, Dharmabad, Nanded, Dharmabad, Maharashtra 431809",
+    "area": "Dharmabad",
+    "latitude": 18.8913914,
+    "longitude": 77.8492365,
+    "place_id": "ChIJv17YsrUJzjsRTVDPWHFmgyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv17YsrUJzjsRTVDPWHFmgyg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:09:02"
+  },
+  {
+    "business_name": "शिवाई लेडिज एम्पोरियम & साडी सेंटर",
+    "search_category": "Organic Food Store",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "431807",
+    "phone_number": "+91 94217 63127",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Balaji Mandir Rd, near Peth Umri, Peth Umri, Maharashtra 431807",
+    "area": "431807",
+    "latitude": 19.0373664,
+    "longitude": 77.64283379999999,
+    "place_id": "ChIJcdqfDQAZzjsR2484kTXmVXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcdqfDQAZzjsR2484kTXmVXA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:09:05"
+  }
+]

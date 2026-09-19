@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gajanan Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "431540",
+    "phone_number": "+91 86689 74605",
+    "website": "N/A",
+    "rating": 2.4,
+    "reviews_count": null,
+    "address": "Gundale Bhavan, 1836, Subhash Rd, Shastri Nagar, Parbhani, Maharashtra 431401",
+    "area": "Shastri Nagar",
+    "latitude": 19.2707878,
+    "longitude": 76.7654282,
+    "place_id": "ChIJ37KMVdgZ0DsRUUi3YBCngCE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ37KMVdgZ0DsRUUi3YBCngCE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:44:35"
+  },
+  {
+    "business_name": "Bharat Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "431540",
+    "phone_number": "+91 92714 45556",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Gram panchayat complex, main road, Tamsa, Maharashtra 431713",
+    "area": "431540",
+    "latitude": 19.3769506,
+    "longitude": 77.6114803,
+    "place_id": "ChIJX4r48P7o0TsRlWl0kRRwXxg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX4r48P7o0TsRlWl0kRRwXxg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:44:36"
+  }
+]

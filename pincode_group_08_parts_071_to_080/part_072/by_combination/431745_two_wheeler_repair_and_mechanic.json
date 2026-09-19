@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M K Motor Service",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Two Wheeler Repair Shop",
+    "pincode": "431745",
+    "phone_number": "+91 98347 57081",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Chauphala - Degloor Naka Rd, Ganipura, Chuphla, Nanded, Maharashtra 431604",
+    "area": "Ganipura",
+    "latitude": 19.1470917,
+    "longitude": 77.3339187,
+    "place_id": "ChIJKe5wVgDX0TsRkKeiPHc5z_k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKe5wVgDX0TsRkKeiPHc5z_k",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:51:51"
+  },
+  {
+    "business_name": "Star Two Wheeler Garage",
+    "search_category": "Two Wheeler Repair and Mechanic",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "431745",
+    "phone_number": "+91 88305 95928",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "583H+7P8, Railway Station - Bafna Rd, Hyder Bagh, Dashmesh Nagar, Ali Nagar, Nanded, Maharashtra 431604",
+    "area": "Hyder Bagh, Dashmesh Nagar, Ali Nagar",
+    "latitude": 19.153157399999998,
+    "longitude": 77.32933,
+    "place_id": "ChIJAy0HukvW0TsRJqEe4IQA5ks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAy0HukvW0TsRJqEe4IQA5ks",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:51:52"
+  }
+]

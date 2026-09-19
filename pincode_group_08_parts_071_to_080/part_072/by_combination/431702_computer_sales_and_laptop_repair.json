@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K. Sons Computers & Printer | Sales & Services",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service",
+    "pincode": "431702",
+    "phone_number": "+91 98348 28634",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Nanduri Road, near Nikhade Sabhagruh, in front of Sai Mandir & Lawn, Shahalangadi, Maharashtra 442301",
+    "area": "Shahalangadi",
+    "latitude": 20.5504483,
+    "longitude": 78.8565218,
+    "place_id": "ChIJpVKXpR1l0zsRlCHHWIt5-B4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpVKXpR1l0zsRlCHHWIt5-B4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:02:59"
+  },
+  {
+    "business_name": "Sagar Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "431702",
+    "phone_number": "+91 84213 14123",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Post Office Rd, Bhatt Colony, Siddharth Nagar, Hingoli, Maharashtra 431513",
+    "area": "Bhatt Colony, Siddharth Nagar",
+    "latitude": 19.7182922,
+    "longitude": 77.1450586,
+    "place_id": "ChIJT_8HV1RS0DsR3Jewh1byPbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT_8HV1RS0DsR3Jewh1byPbo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:02:59"
+  }
+]

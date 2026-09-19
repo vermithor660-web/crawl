@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nutririte Foods Private Limited",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer",
+    "pincode": "431541",
+    "phone_number": "+91 80 4895 0077",
+    "website": "https://www.nutriritefoods.in/",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "J wing, Pune - Solapur Rd, behind Noble Hospital, JJC Colony, Keshav Nagar, Hadapsar, Pune, Maharashtra 411013",
+    "area": "JJC Colony, Keshav Nagar, Hadapsar",
+    "latitude": 18.505147,
+    "longitude": 73.91705259999999,
+    "place_id": "ChIJRetTGfDBwjsRp-c2VCjkNN4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRetTGfDBwjsRp-c2VCjkNN4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:46:00"
+  },
+  {
+    "business_name": "P2S Food Processes LLP (TQF - TheQuickFood)",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Food Processing Company",
+    "all_categories": "Food Processing Company, Fruit and vegetable processing",
+    "pincode": "431541",
+    "phone_number": "+91 82080 82479",
+    "website": "https://www.p2sfoods.com/",
+    "rating": 5,
+    "reviews_count": 33,
+    "address": "Plot No.C-98/2/10, Jejuri MIDC, Kolvihire, Tal - Purandar, Road, Pune, Maharashtra 412303",
+    "area": "Neighborhood of Gaurang Green Energy",
+    "latitude": 18.270678999999998,
+    "longitude": 74.17345,
+    "place_id": "ChIJT3vbYQD9wjsR1TMjpEImL0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT3vbYQD9wjsR1TMjpEImL0c",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:46:00"
+  }
+]

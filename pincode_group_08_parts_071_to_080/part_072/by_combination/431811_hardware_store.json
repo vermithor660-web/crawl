@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jay Sevalal Shop",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "431811",
+    "phone_number": "+91 95794 19521",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, Shivaji Maharaj Chowk, Bhokar - Kinwat Rd, Nanded, Kothari, Maharashtra 431811",
+    "area": "431811",
+    "latitude": 19.588800499999998,
+    "longitude": 78.2096123,
+    "place_id": "ChIJh-PNRMo_0jsRvecMwWD6fpI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh-PNRMo_0jsRvecMwWD6fpI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:18:12"
+  },
+  {
+    "business_name": "Ibrahim Hardware",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "431811",
+    "phone_number": "+91 73503 44500",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No1, Habib Colony, near Shivaji Nagar, Habib Colony, Gokunda, Maharashtra 431811",
+    "area": "Habib Colony",
+    "latitude": 19.6104324,
+    "longitude": 78.2065301,
+    "place_id": "ChIJQ7MXxVs_0jsRfAh7rF7xXMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ7MXxVs_0jsRfAh7rF7xXMo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:18:12"
+  }
+]

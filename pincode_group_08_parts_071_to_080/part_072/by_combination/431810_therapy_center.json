@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Therapy Spot",
+    "search_category": "Therapy Center",
+    "primary_category": "Speech & Hearing Specialist",
+    "all_categories": "Speech & Hearing Specialist",
+    "pincode": "431810",
+    "phone_number": "+91 91540 98868",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 51,
+    "address": "Plot 1,SF Colony Main Road, opposite Kotak Mahindra Bank, Vanasthalipuram, Telangana 500070",
+    "area": "Self Finance Colony",
+    "latitude": 17.3235576,
+    "longitude": 78.5652551,
+    "place_id": "ChIJZ6v4x1-jyzsRgiz7YSWtJdM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ6v4x1-jyzsRgiz7YSWtJdM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:16:26"
+  },
+  {
+    "business_name": "Healing Hands Physiotherapy and Rehabilitation",
+    "search_category": "Therapy Center",
+    "primary_category": "Physiotherapy Center",
+    "all_categories": "Physiotherapy Center, Counselor, Family counselor, Health counselor, Psychotherapist",
+    "pincode": "431810",
+    "phone_number": "+91 88000 09141",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "21, Raj Block, Navin Shahdara, Shahdara, Delhi, 110032",
+    "area": "Raj Block, Navin Shahdara, Shahdara",
+    "latitude": 28.675831499999997,
+    "longitude": 77.28730999999999,
+    "place_id": "ChIJhV3a93_7DDkRbYMKkgCe7Jk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhV3a93_7DDkRbYMKkgCe7Jk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:16:26"
+  }
+]

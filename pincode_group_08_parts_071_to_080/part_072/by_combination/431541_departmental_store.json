@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "संध्या किराणा स्टोअर्स",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "431541",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "6HCR+7R7, Mandewadgaon, Maharashtra 431541",
+    "area": "431541",
+    "latitude": 19.220660199999998,
+    "longitude": 76.5920424,
+    "place_id": "ChIJbXTZaCQF0DsRk32aLZq74ls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbXTZaCQF0DsRk32aLZq74ls",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:45:55"
+  },
+  {
+    "business_name": "Babasaheb Shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "431541",
+    "phone_number": "+91 93078 34206",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1 At Post, Rametakali, Maharashtra 431541",
+    "area": "431541",
+    "latitude": 19.1549245,
+    "longitude": 76.5178754,
+    "place_id": "ChIJwRouhnYB0DsR8QiZmQLMpxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwRouhnYB0DsR8QiZmQLMpxc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:45:55"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Waghmare Hair Salons",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431702",
+    "phone_number": "+91 93594 30902",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop No, 1, Hingoli - Kalamnuri - Nanded Rd, Khwaja Colony, Kalamnuri, Maharashtra 431702",
+    "area": "Khwaja Colony",
+    "latitude": 19.6757152,
+    "longitude": 77.3131732,
+    "place_id": "ChIJL36_F5Ox0TsR4ua8nOFPXNA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL36_F5Ox0TsR4ua8nOFPXNA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:02:37"
+  },
+  {
+    "business_name": "shrivastav hair salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431702",
+    "phone_number": "+91 96572 12110",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "choudary complex, Zp Rd, Choudhari Nagar, Mohalla Paltan, Siddharth Nagar, Hingoli, Maharashtra 431513",
+    "area": "Choudhari Nagar, Mohalla Paltan, Siddharth Nagar",
+    "latitude": 19.7128508,
+    "longitude": 77.1463954,
+    "place_id": "ChIJC1_M8vhT0DsRppCs0_DwnyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC1_M8vhT0DsRppCs0_DwnyQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:02:37"
+  }
+]

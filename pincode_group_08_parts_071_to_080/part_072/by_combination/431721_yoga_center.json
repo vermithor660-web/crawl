@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yoga Tuition Classes",
+    "search_category": "Yoga Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "431721",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MWQF+QHQ, Amdapur, Maharashtra 445230",
+    "area": "431721",
+    "latitude": 19.6894718,
+    "longitude": 77.92397009999999,
+    "place_id": "ChIJewEASAqJ0TsRu3L5Ft-145Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJewEASAqJ0TsRu3L5Ft-145Y",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:35:27"
+  },
+  {
+    "business_name": "Body Engineer's gym",
+    "search_category": "Yoga Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "431721",
+    "phone_number": "N/A",
+    "website": "http://www.getfitwithprakash.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Kinwat Road, near Bhavani HP Petrol Pump, Sarkhani, Maharashtra 431724",
+    "area": "431721",
+    "latitude": 19.7977503,
+    "longitude": 78.1145106,
+    "place_id": "ChIJxywsCe0x0jsRehCKa1Iu-D4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxywsCe0x0jsRehCKa1Iu-D4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:35:27"
+  }
+]

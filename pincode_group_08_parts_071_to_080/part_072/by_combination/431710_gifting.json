@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "a customized gift gallery",
+    "search_category": "Gifting",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop",
+    "pincode": "431710",
+    "phone_number": "+91 88011 70007",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Vinayak Nagar St, near kalikadevi temple, FCI Colony, Nizamabad, Telangana 503003",
+    "area": "FCI Colony",
+    "latitude": 18.6623067,
+    "longitude": 78.10744369999999,
+    "place_id": "ChIJ-ZKHqkvbzTsR3dREiroERFQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-ZKHqkvbzTsR3dREiroERFQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:14:57"
+  },
+  {
+    "business_name": "Gift Centre",
+    "search_category": "Gifting",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431710",
+    "phone_number": "+91 99604 12305",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gundegaonkar, Gundegaon, Nanded, Maharashtra 431606",
+    "area": "Gundegaonkar",
+    "latitude": 19.081171599999998,
+    "longitude": 77.3137644,
+    "place_id": "ChIJf9uMSFQpzjsRvlZt5FEVuII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf9uMSFQpzjsRvlZt5FEVuII",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:14:58"
+  }
+]

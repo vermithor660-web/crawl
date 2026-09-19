@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Palak Saree Centre",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop",
+    "pincode": "431705",
+    "phone_number": "+91 89991 31524",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 01, near Tahsil, Aundha Nagnath, Maharashtra 431705",
+    "area": "431705",
+    "latitude": 19.5342114,
+    "longitude": 77.0422265,
+    "place_id": "ChIJA-4_4ntJ0DsRRPbVVrSOZZg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA-4_4ntJ0DsRRPbVVrSOZZg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:07:04"
+  },
+  {
+    "business_name": "Pratiksha Saree Sentar",
+    "search_category": "Saree Showroom",
+    "primary_category": "Saree Shop",
+    "all_categories": "Saree Shop, Clothing store",
+    "pincode": "431705",
+    "phone_number": "+91 70203 02859",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Dr Babasaheb Ambedkar Road, Siddheshwar, Maharashtra 431705",
+    "area": "431705",
+    "latitude": 19.621898599999998,
+    "longitude": 76.98158769999999,
+    "place_id": "ChIJd2_AsvFF0DsRxI1Roi5GeIo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd2_AsvFF0DsRxI1Roi5GeIo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:07:04"
+  }
+]

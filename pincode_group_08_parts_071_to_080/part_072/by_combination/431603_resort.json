@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel silver oak",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bar, Lodge",
+    "pincode": "431603",
+    "phone_number": "+91 92847 63809",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 72,
+    "address": "National Highway 361, Bypass, beside girish gas & Fuel, Kamtha Village, Aasna, Nanded, Maharashtra 431605",
+    "area": "Kamtha Village",
+    "latitude": 19.1863515,
+    "longitude": 77.3435514,
+    "place_id": "ChIJQc1-ESnX0TsRDTZmICWmytQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQc1-ESnX0TsRDTZmICWmytQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:54:05"
+  },
+  {
+    "business_name": "Nirmal Palace",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Bar & grill",
+    "pincode": "431603",
+    "phone_number": "+91 88888 83571",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "opposite Kalamandir Road, Khadakpura, Nanded, Maharashtra 431601",
+    "area": "Khadakpura",
+    "latitude": 19.1579205,
+    "longitude": 77.30742289999999,
+    "place_id": "ChIJzSYTTGjW0TsRsp9_xrSRGQc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzSYTTGjW0TsRsp9_xrSRGQc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:54:07"
+  }
+]

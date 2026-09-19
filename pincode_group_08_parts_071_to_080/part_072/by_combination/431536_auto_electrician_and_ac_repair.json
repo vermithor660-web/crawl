@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KGN auto electrician",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Electronics repair shop",
+    "all_categories": "Electronics repair shop, Shopping mall",
+    "pincode": "431536",
+    "phone_number": "+91 80878 19818",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "Shivaji Chowk, Gangakhed Rd, Loha, Maharashtra 431708",
+    "area": "Gangakhed Road",
+    "latitude": 18.9547989,
+    "longitude": 77.1239085,
+    "place_id": "ChIJ0eoF2jjSzzsRK06YqMCRXQA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0eoF2jjSzzsRK06YqMCRXQA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:41:27"
+  },
+  {
+    "business_name": "WAJID ELECTRIC WORKS",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "431536",
+    "phone_number": "+91 97665 30491",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 8 Sambhaji Marg, Maharashtra 431401",
+    "area": "Gandhi Park",
+    "latitude": 19.2660333,
+    "longitude": 76.771097,
+    "place_id": "ChIJe5oCwRcZ0DsR5VhZXn0i598",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe5oCwRcZ0DsR5VhZXn0i598",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:41:27"
+  }
+]

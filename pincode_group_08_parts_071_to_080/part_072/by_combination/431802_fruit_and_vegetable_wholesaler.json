@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BHAWARE FRUIT AND VEGETABLE COMPANY",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Agricultural Product Wholesaler",
+    "all_categories": "Agricultural Product Wholesaler",
+    "pincode": "431802",
+    "phone_number": "+91 91303 03156",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Masjid E Rahim Rd, COLONY, Himayatnagar, Maharashtra 431802",
+    "area": "COLONY",
+    "latitude": 19.4266367,
+    "longitude": 77.8740225,
+    "place_id": "ChIJ9VegZtf30TsRNUq5kiDjtfg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9VegZtf30TsRNUq5kiDjtfg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:59:06"
+  },
+  {
+    "business_name": "Ramdhani Agencies",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "431802",
+    "phone_number": "+91 93590 96935",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 50,
+    "address": "Bus stand, Old, Dhanki, Maharashtra 445207",
+    "area": "431802",
+    "latitude": 19.566226099999998,
+    "longitude": 77.8467809,
+    "place_id": "ChIJbRvLho6L0TsRny-8sSyComk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbRvLho6L0TsRny-8sSyComk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:59:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nivrutti Automobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "DS Automobiles dealer",
+    "all_categories": "DS Automobiles dealer, Tractor parts store",
+    "pincode": "431745",
+    "phone_number": "+91 98222 99973",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhokar fata, Bhokar phata, Dabhad, Maharashtra 431745",
+    "area": "Bhokar phata",
+    "latitude": 19.2430584,
+    "longitude": 77.35948309999999,
+    "place_id": "ChIJBUOTFwDR0TsRJMZF5mCj8e8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBUOTFwDR0TsRJMZF5mCj8e8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:51:54"
+  },
+  {
+    "business_name": "BABA AUTOMOBILES AND SERVICES CENTER",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "431745",
+    "phone_number": "+91 96042 30554",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Mudkhed, Bypass Road, Umri Nanded Road, Wakad, Maharashtra 431806",
+    "area": "431745",
+    "latitude": 19.1478379,
+    "longitude": 77.4965394,
+    "place_id": "ChIJqcqmdvLf0TsR_MTWMMxLWiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqcqmdvLf0TsR_MTWMMxLWiw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:51:58"
+  }
+]

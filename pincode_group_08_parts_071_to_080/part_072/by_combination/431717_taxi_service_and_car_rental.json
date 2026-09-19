@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TaxiYatri Car Rentals",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Service establishment",
+    "pincode": "431717",
+    "phone_number": "N/A",
+    "website": "http://www.taxiyatri.com/",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "TaxiYatri Car Rentals, 431717, India",
+    "area": "431717",
+    "latitude": 25.892757999999997,
+    "longitude": 74.4692633,
+    "place_id": "ChIJCXyI_0_LbTkRB3hgeRmeWj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCXyI_0_LbTkRB3hgeRmeWj4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:27:31"
+  },
+  {
+    "business_name": "Tirumala Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Auto upholsterer, Taxi service",
+    "pincode": "431717",
+    "phone_number": "+91 96039 66966",
+    "website": "http://www.tirumalatravels.in/",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "H, 4-41-C/131, Road No. 8, Papi Reddy Nagar, Papi Reddy Colony, Kamalaprasad Nagar, Hyderabad, Telangana 500037",
+    "area": "Papi Reddy Nagar, Papi Reddy Colony, Kamalaprasad Nagar",
+    "latitude": 17.496057,
+    "longitude": 78.43021159999999,
+    "place_id": "ChIJKZ4lycqRyzsRjV8aBFOkTrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKZ4lycqRyzsRjV8aBFOkTrk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:27:31"
+  }
+]

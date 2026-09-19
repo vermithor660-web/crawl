@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taj Auto Electrical",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Battery Wholesaler, Electrical repair shop",
+    "pincode": "431712",
+    "phone_number": "+91 94228 72698",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "585C+C56, Bhagat Singh Road, Nanded, Maharashtra 431601",
+    "area": "Samrat Nagar, Hyder Bagh, Dashmesh Nagar, Harsh Nagar",
+    "latitude": 19.158537499999998,
+    "longitude": 77.3204033,
+    "place_id": "ChIJR0_0gkXW0TsRD2ipNiofq5o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR0_0gkXW0TsRD2ipNiofq5o",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:17:57"
+  },
+  {
+    "business_name": "Marathawada Automobiles Tamsa",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "431712",
+    "phone_number": "+91 88885 87814",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bandewar Complex, Tamsa, Maharashtra 431713",
+    "area": "431712",
+    "latitude": 19.376898,
+    "longitude": 77.60532769999999,
+    "place_id": "ChIJPSmzbwDp0TsRJcRikM2T5EI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPSmzbwDp0TsRJcRikM2T5EI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:17:57"
+  }
+]

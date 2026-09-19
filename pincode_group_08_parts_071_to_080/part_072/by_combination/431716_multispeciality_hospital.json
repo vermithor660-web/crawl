@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tamiz Surgical",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier",
+    "pincode": "431716",
+    "phone_number": "+91 94433 71020",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Adamsa Lane, Madurai Main, Madurai, Tamil Nadu 625001",
+    "area": "Madurai Main",
+    "latitude": 9.9192213,
+    "longitude": 78.1145854,
+    "place_id": "ChIJFSVgxIbFADsRfxzF9Aehm2Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFSVgxIbFADsRfxzF9Aehm2Y",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:25:15"
+  },
+  {
+    "business_name": "Meenachchi Medical Mart",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "431716",
+    "phone_number": "+91 452 262 8710",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "New No. 131, Old No. 16, North Perumal Mystri Street, Madurai Main, Madurai, Tamil Nadu 625001",
+    "area": "Madurai Main",
+    "latitude": 9.9236313,
+    "longitude": 78.1172811,
+    "place_id": "ChIJP9xE94XFADsRaB0hDuN_OZc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP9xE94XFADsRaB0hDuN_OZc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:25:15"
+  }
+]

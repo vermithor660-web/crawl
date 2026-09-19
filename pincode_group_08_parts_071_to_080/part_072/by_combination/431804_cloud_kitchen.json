@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CloudKitch Pvt Ltd",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, American restaurant, Awadhi Restaurant, Cake shop, Chinese restaurant, Continental restaurant, E-commerce service, Indian restaurant, Italian restaurant",
+    "pincode": "431804",
+    "phone_number": "+91 77109 99666",
+    "website": "https://cloudkitch.co.in/",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "G4-A, CloudKitch, Ground Floor, Trade Centre Bkc, Kolivery Village, MMRDA Area, Kalina, Bandra East, Mumbai, Maharashtra 400098",
+    "area": "Kolivery Village, MMRDA Area, Kalina, Bandra East",
+    "latitude": 19.0726637,
+    "longitude": 72.8708403,
+    "place_id": "ChIJB7ZgrBPJ5zsRP_gcAxS6yqU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB7ZgrBPJ5zsRP_gcAxS6yqU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:02:57"
+  },
+  {
+    "business_name": "Cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Food court",
+    "all_categories": "Food court",
+    "pincode": "431804",
+    "phone_number": "+91 80081 99421",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "House no:6, suryavamshi township, 413/692, Isnapur, Hyderabad, Telangana 502307",
+    "area": "Isnapur",
+    "latitude": 17.538124099999997,
+    "longitude": 78.2079909,
+    "place_id": "ChIJS8RskCfzyzsRKnBulti75Bg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS8RskCfzyzsRKnBulti75Bg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:02:58"
+  }
+]

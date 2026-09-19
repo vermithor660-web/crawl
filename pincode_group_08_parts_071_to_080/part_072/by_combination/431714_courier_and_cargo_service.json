@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Instacart. Service. Private. limited",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Shipping service",
+    "all_categories": "Shipping service",
+    "pincode": "431714",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P95G+2C, Ashoknagar, Mukhed, Maharashtra 431715",
+    "area": "Ashoknagar",
+    "latitude": 18.7076277,
+    "longitude": 77.3760918,
+    "place_id": "ChIJRUWZ2qNJzjsRGIXVu_lIyn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRUWZ2qNJzjsRGIXVu_lIyn8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:22:21"
+  },
+  {
+    "business_name": "Raj Online Services",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "431714",
+    "phone_number": "+91 84211 90181",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 3, Gaykwad Complex, near Narayani School, Golden City, Loha, Maharashtra 431708",
+    "area": "Golden City",
+    "latitude": 18.9498033,
+    "longitude": 77.1246376,
+    "place_id": "ChIJv-9Fzv7TzzsREhzdPHHHAdA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv-9Fzv7TzzsREhzdPHHHAdA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:22:21"
+  }
+]

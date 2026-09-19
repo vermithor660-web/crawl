@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jai Bhavani Fish Market Aurad",
+    "search_category": "Fish Market",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "431741",
+    "phone_number": "+91 93533 86122",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rahul, Aurad, Karnataka 585326",
+    "area": "431741",
+    "latitude": 18.252281399999998,
+    "longitude": 77.4137818,
+    "place_id": "ChIJy1yeoDvxzjsRkcleOJQqOJw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy1yeoDvxzjsRkcleOJQqOJw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:45:18"
+  },
+  {
+    "business_name": "Narshing Fish Shop",
+    "search_category": "Fish Market",
+    "primary_category": "Dessert shop",
+    "all_categories": "Dessert shop",
+    "pincode": "431741",
+    "phone_number": "+91 70908 72523",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 6, Aurad Main Rd, near Bus Stand, Aurad, Maharashtra 585326",
+    "area": "431741",
+    "latitude": 18.252370499999998,
+    "longitude": 77.41375099999999,
+    "place_id": "ChIJW6oy8SfxzjsREM2F5g-BAiw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW6oy8SfxzjsREM2F5g-BAiw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:45:20"
+  }
+]

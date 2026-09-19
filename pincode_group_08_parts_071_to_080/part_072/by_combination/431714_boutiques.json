@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FANCY MORDEN DRESSES",
+    "search_category": "Boutiques",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "431714",
+    "phone_number": "+91 77093 09975",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SHOP MO 1 MAIN ROAD MUKHED TQ MUKHED DIAT, NANDED, Maharashtra 431715",
+    "area": "431714",
+    "latitude": 18.7059252,
+    "longitude": 77.3659974,
+    "place_id": "ChIJR_74WdZJzjsRELVShDf5xuM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR_74WdZJzjsRELVShDf5xuM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:21:15"
+  },
+  {
+    "business_name": "paridhan garments jamb",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431714",
+    "phone_number": "+91 86682 20795",
+    "website": "http://paridhan-garments.vercel.app/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Jalkot Main Rd, Jamb Bk., Maharashtra 431716",
+    "area": "431714",
+    "latitude": 18.653553199999998,
+    "longitude": 77.18202459999999,
+    "place_id": "ChIJow8XPKqzzzsRx-GYXcJG6iM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJow8XPKqzzzsRx-GYXcJG6iM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:21:15"
+  }
+]

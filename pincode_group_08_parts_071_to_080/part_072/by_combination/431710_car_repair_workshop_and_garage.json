@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rishabh Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "431710",
+    "phone_number": "+91 93708 41973",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, SBI Bank, Biloli, Maharashtra 431710",
+    "area": "431710",
+    "latitude": 18.7790313,
+    "longitude": 77.71843679999999,
+    "place_id": "ChIJj73k6k1tzjsRpRezz1afe0s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj73k6k1tzjsRpRezz1afe0s",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:14:26"
+  },
+  {
+    "business_name": "Jay Shri Ram Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "431710",
+    "phone_number": "+91 97650 60421",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Indian Petrol Pump, Babhali, opposite Main Road, Sagroli, Maharashtra 431710",
+    "area": "431710",
+    "latitude": 18.753243599999998,
+    "longitude": 77.7435179,
+    "place_id": "ChIJP6NqGOttzjsRTVHlb4QdN80",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP6NqGOttzjsRTVHlb4QdN80",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:14:26"
+  }
+]

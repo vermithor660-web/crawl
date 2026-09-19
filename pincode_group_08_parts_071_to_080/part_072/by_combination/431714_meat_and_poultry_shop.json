@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Friends poultry farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "431714",
+    "phone_number": "+91 84839 12656",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Back side of MSEB office, behind light, Mukhed, Umardari, Maharashtra 431715",
+    "area": "431714",
+    "latitude": 18.7012551,
+    "longitude": 77.3748817,
+    "place_id": "ChIJfyhWa1lJzjsRsZ6wB84tJlc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfyhWa1lJzjsRsZ6wB84tJlc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:20:55"
+  },
+  {
+    "business_name": "Adiraj poultry farming",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "431714",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "QCQC+75M, Tembhurni, Maharashtra 431714",
+    "area": "431714",
+    "latitude": 18.7882221,
+    "longitude": 77.42041119999999,
+    "place_id": "ChIJTxjh1mE5zjsRw8RNqzXIeXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTxjh1mE5zjsRw8RNqzXIeXc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:20:55"
+  }
+]

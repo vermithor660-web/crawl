@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sachin Medical and distributores",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "431705",
+    "phone_number": "+91 83909 80805",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jawla bazer, Tq, Aundha Nagnath, Maharashtra 431705",
+    "area": "431705",
+    "latitude": 19.464835,
+    "longitude": 76.9870354,
+    "place_id": "ChIJ3Rqlrms50DsR5-oQ5d6XVsc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3Rqlrms50DsR5-oQ5d6XVsc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:07:13"
+  },
+  {
+    "business_name": "Sanika medical& General",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "431705",
+    "phone_number": "+91 98237 13626",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "FX7P+FQH, purjal, road, Jawala Bazar, Maharashtra 431705",
+    "area": "431705",
+    "latitude": 19.4636842,
+    "longitude": 76.9869878,
+    "place_id": "ChIJUcyYeW040DsRqTYf76ks-_U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUcyYeW040DsRqTYf76ks-_U",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:07:15"
+  }
+]

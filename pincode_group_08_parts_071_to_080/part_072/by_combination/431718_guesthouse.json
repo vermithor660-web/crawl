@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "हॉटेल शिवमुद्रा",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431718",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FFX3+V5X, Gojegaon, Maharashtra 431718",
+    "area": "431718",
+    "latitude": 18.499743499999997,
+    "longitude": 77.45298679999999,
+    "place_id": "ChIJDyueSwBbzjsRiu3jjAVvFWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDyueSwBbzjsRiu3jjAVvFWs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:30:07"
+  },
+  {
+    "business_name": "माऊली हॉटेल शेषकांत",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431718",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "FF95+H3W, Walag, Maharashtra 431718",
+    "area": "431718",
+    "latitude": 18.468391999999998,
+    "longitude": 77.45787589999999,
+    "place_id": "ChIJTzV1g0ZZzjsRKXOw-HxhTEs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTzV1g0ZZzjsRKXOw-HxhTEs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:30:07"
+  }
+]

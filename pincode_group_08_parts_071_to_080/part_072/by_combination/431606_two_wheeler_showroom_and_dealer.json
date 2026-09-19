@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Two Wheels World",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer",
+    "pincode": "431606",
+    "phone_number": "+91 97021 55677",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 132,
+    "address": "SHOP NUMBER 2 & 5, RAWLI CAPM, C 1 BUILDING BMC COLONY, 4, Mukundrao Ambedkar Rd, near SANATHAN DHARAM HIGH SCHOOL, Sion Koliwada, Sardar Nagar, Maharashtra 400037",
+    "area": "Sion Koliwada, Sardar Nagar, Sion",
+    "latitude": 19.034618599999998,
+    "longitude": 72.8668067,
+    "place_id": "ChIJSzIBbLvP5zsRVlAJ7Mg8_wI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSzIBbLvP5zsRVlAJ7Mg8_wI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:58:57"
+  },
+  {
+    "business_name": "Bajaj Auto (Ashok Agro Inputs, Buldhana, Malkapur Road)",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Dealer",
+    "all_categories": "Two Wheeler Dealer, Motor vehicle dealer, Motorcycle shop",
+    "pincode": "431606",
+    "phone_number": "+91 83800 26225",
+    "website": "https://www.bajajauto.com/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Near ARD Cinemall, Malkapur Road, Buldhana, Maharashtra 431603",
+    "area": "Kautha",
+    "latitude": 19.1382065,
+    "longitude": 77.32094959999999,
+    "place_id": "ChIJq6qqqjrW0TsR7YYE-PM4P3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqjrW0TsR7YYE-PM4P3s",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:58:57"
+  }
+]

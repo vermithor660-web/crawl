@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "all animal care hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinarian",
+    "all_categories": "Veterinarian",
+    "pincode": "431704",
+    "phone_number": "+91 63036 89077",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 82,
+    "address": "Krishnanagar, Jagtial, Telangana 505327",
+    "area": "Krishnanagar",
+    "latitude": 18.7900889,
+    "longitude": 78.9220868,
+    "place_id": "ChIJ_056-o8TzTsRIiuvmpr8tJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_056-o8TzTsRIiuvmpr8tJk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:05:38"
+  },
+  {
+    "business_name": "Happy Pet Clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary care",
+    "all_categories": "Veterinary care",
+    "pincode": "431704",
+    "phone_number": "+91 97041 31994",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 1200,
+    "address": "1-98/90, 15B, Rd Number 48, Megha Hills, Sri Sai Nagar, Madhapur, Hyderabad, Telangana 500081",
+    "area": "Megha Hills, Sri Sai Nagar, Madhapur",
+    "latitude": 17.4432556,
+    "longitude": 78.390873,
+    "place_id": "ChIJZ1wpzF2RyzsR9VgECAbH2pM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ1wpzF2RyzsR9VgECAbH2pM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:05:38"
+  }
+]

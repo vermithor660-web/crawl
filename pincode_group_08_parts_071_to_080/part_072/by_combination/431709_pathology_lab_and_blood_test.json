@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "shree mathoshree lab",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "431709",
+    "phone_number": "+91 90286 72524",
+    "website": "http://www.shreemathoshreelab.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop No,03/04, Naigaon - Juchandra Rd, near Devki Hotel, Juchandra, Naigaon East, Vasai-Virar, Maharashtra 401208",
+    "area": "Juchandra, Naigaon East",
+    "latitude": 19.3576595,
+    "longitude": 72.87063429999999,
+    "place_id": "ChIJT-QPbKiv5zsR9_sClEhR42c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT-QPbKiv5zsR9_sClEhR42c",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:12:39"
+  },
+  {
+    "business_name": "New Delhi Pathology Lab",
+    "search_category": "Pathology Lab and Blood Test",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "431709",
+    "phone_number": "+91 96503 00320",
+    "website": "https://newdelhipathlab.co.in/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "TA 8-B, Gali No. 6, near Garg Jewellers, Shukar Bazar, Uttam Nagar, New Delhi, Delhi 110059",
+    "area": "Shukar Bazar, Param Puri, Uttam Nagar",
+    "latitude": 28.6150743,
+    "longitude": 77.053545,
+    "place_id": "ChIJiekpzD4FDTkRgmPHU65XN5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiekpzD4FDTkRgmPHU65XN5s",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:12:41"
+  }
+]

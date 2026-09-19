@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aamantran Spa Beed",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa, Massage therapist",
+    "pincode": "431523",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 12,
+    "address": "Office No 2021, Jalna Road, Naugan plaza, Beed, Maharashtra 431122",
+    "area": "431523",
+    "latitude": 19.0093705,
+    "longitude": 75.7567609,
+    "place_id": "ChIJUThXudcrxTsR55GDbmQxDGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUThXudcrxTsR55GDbmQxDGI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:38:15"
+  },
+  {
+    "business_name": "Anjali Buety Parlor Leady Spa",
+    "search_category": "Spa",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "431523",
+    "phone_number": "+91 81808 96647",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1, Kabad Galli, near Malaves, Bir, Beed, Maharashtra 431122",
+    "area": "Bir",
+    "latitude": 18.9918194,
+    "longitude": 75.7602241,
+    "place_id": "ChIJEyyXFBArxTsR7hN2fGBQVNA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEyyXFBArxTsR7hN2fGBQVNA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:38:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hindavi Laundry Center",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431806",
+    "phone_number": "+91 96237 90611",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, near Shitaladevi Mandir, Barad, Maharashtra 431745",
+    "area": "431806",
+    "latitude": 19.2244064,
+    "longitude": 77.4638358,
+    "place_id": "ChIJS2l_LePZ0TsRnpCJ55j-ZPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS2l_LePZ0TsRnpCJ55j-ZPY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:07:16"
+  },
+  {
+    "business_name": "Mohamadia Traders",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "431806",
+    "phone_number": "+91 97303 97413",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Mahatma Gandhi Rd, Old Mondha, Khadakpura, Nanded, Maharashtra 431604",
+    "area": "Old Mondha, Khadakpura",
+    "latitude": 19.147733,
+    "longitude": 77.3195624,
+    "place_id": "ChIJ5yFAcQjX0TsRwPzyQc38eYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5yFAcQjX0TsRwPzyQc38eYU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:07:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajdhani lodge",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431523",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "XQR3+VPF, Bus Stand Road, Manglanath Colony, Majalgaon, Beed, Maharashtra 431122",
+    "area": "Bir",
+    "latitude": 18.9921859,
+    "longitude": 75.75430159999999,
+    "place_id": "ChIJ9Uv4G_8rxTsR0VUpIx4fUAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9Uv4G_8rxTsR0VUpIx4fUAA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:38:27"
+  },
+  {
+    "business_name": "Samarth Agro Tourism And Services",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Hotel",
+    "pincode": "431523",
+    "phone_number": "+91 90289 82498",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "samrtha Agro Tourism and services, Shri Swami Samrtha Mandir, Road, Sandve, Mandave, Sandave, Maharashtra 414201",
+    "area": "Sandve",
+    "latitude": 18.9956218,
+    "longitude": 74.8863688,
+    "place_id": "ChIJrXR9hrur3DsRMipxF9DdlFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrXR9hrur3DsRMipxF9DdlFo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:38:27"
+  }
+]

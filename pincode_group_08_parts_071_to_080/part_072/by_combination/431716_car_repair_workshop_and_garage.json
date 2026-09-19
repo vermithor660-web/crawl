@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bamne two wheeler garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "431716",
+    "phone_number": "+91 99600 05080",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Shop no 01, road Jalkot, Jamb Bk., Jalkot, Maharashtra 413532",
+    "area": "431716",
+    "latitude": 18.6320087,
+    "longitude": 77.17783779999999,
+    "place_id": "ChIJV-bFhgqzzzsRXchHQF2uZGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV-bFhgqzzzsRXchHQF2uZGY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:25:23"
+  },
+  {
+    "business_name": "Meg Malhar",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "431716",
+    "phone_number": "+91 98905 61069",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1 Mukhed To Mukhed Dust, Mukhed, Maharashtra 431715",
+    "area": "431716",
+    "latitude": 18.706657,
+    "longitude": 77.36984319999999,
+    "place_id": "ChIJYdiBH-ZJzjsRGqxt-0gEJI0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYdiBH-ZJzjsRGqxt-0gEJI0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:25:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LALA 999 DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "431746",
+    "phone_number": "+91 93712 60898",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Lala Petrol Pump, Asna Road, Kamtha Kh., Nanded, Maharashtra 431605",
+    "area": "431746",
+    "latitude": 19.18497,
+    "longitude": 77.3455405,
+    "place_id": "ChIJsQ1EmH3X0TsRLg-yCd0yeFc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsQ1EmH3X0TsRLg-yCd0yeFc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:53:28"
+  },
+  {
+    "business_name": "Kohinoor Family Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba, Restaurant",
+    "pincode": "431746",
+    "phone_number": "+91 79951 47999",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": 16823,
+    "address": "kohinoor family dhaba, zaheerabad, x road, Sathwar, Telangana 502221",
+    "area": "431746",
+    "latitude": 17.699455099999998,
+    "longitude": 77.52050419999999,
+    "place_id": "ChIJl13tAePLzjsRLuWtlu21Xng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl13tAePLzjsRLuWtlu21Xng",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:53:29"
+  }
+]

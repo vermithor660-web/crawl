@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganraj Palace",
+    "search_category": "Resort",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "431604",
+    "phone_number": "+91 2463 225 777",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "NAMSKAR CHOUK, near MGM COLLEGE, Ambekar Nagar, Nanded, Maharashtra 431605",
+    "area": "Ambekar Nagar",
+    "latitude": 19.1772143,
+    "longitude": 77.3253993,
+    "place_id": "ChIJ88lEyd7X0TsRxHFbZ1sxWno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ88lEyd7X0TsRxHFbZ1sxWno",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:55:52"
+  },
+  {
+    "business_name": "Hotel Amrit Residency",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Family restaurant, Lodge, Restaurant",
+    "pincode": "431604",
+    "phone_number": "+91 96043 48912",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Hingoli road, opp. LIC Office, near maharana Pratap chowk, Gandhinagar, Maharashtra 431605",
+    "area": "Anand Nagar",
+    "latitude": 19.1708294,
+    "longitude": 77.32124449999999,
+    "place_id": "ChIJe2hbmFfW0TsRv2AsFER1FBk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe2hbmFfW0TsRv2AsFER1FBk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:55:52"
+  }
+]

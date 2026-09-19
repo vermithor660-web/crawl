@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "krishna printers",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop, Digital printing service",
+    "pincode": "431712",
+    "phone_number": "+91 97674 83445",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 9,
+    "address": "Sadanand Ward, Front of ST, near Bank of Maharashtra, Umarkhed, Maharashtra 445206",
+    "area": "Umarkhed",
+    "latitude": 19.6002624,
+    "longitude": 77.68869049999999,
+    "place_id": "ChIJRfhal8iT0TsRmRHc9_7wzQw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRfhal8iT0TsRmRHc9_7wzQw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:18:31"
+  },
+  {
+    "business_name": "Shiv Offset",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop",
+    "pincode": "431712",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 2, Main Market, Hadgaon, Maharashtra 431712",
+    "area": "431712",
+    "latitude": 19.4970197,
+    "longitude": 77.65797719999999,
+    "place_id": "ChIJQUZiAADt0TsR2MPqAva_g84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQUZiAADt0TsR2MPqAva_g84",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:18:31"
+  }
+]

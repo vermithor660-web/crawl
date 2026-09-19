@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PARBHANI MEDICAL COLLEGE Girls Hostel",
+    "search_category": "Hostels",
+    "primary_category": "Girls' hostel",
+    "all_categories": "Girls' hostel",
+    "pincode": "431537",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7MWV+V6, Teacher's Colony, Pedgaon, Maharashtra 431537",
+    "area": "Teacher's Colony",
+    "latitude": 19.2971875,
+    "longitude": 76.6930625,
+    "place_id": "ChIJVUVwNAAR0DsRHVJWGF8NRg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVUVwNAAR0DsRHVJWGF8NRg8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:43:34"
+  },
+  {
+    "business_name": "PARBHANI MEDICAL COLLEGE Boys hostel",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "431537",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7MWV+HC, Teacher's Colony, Pedgaon, Maharashtra 431537",
+    "area": "Teacher's Colony",
+    "latitude": 19.2964605,
+    "longitude": 76.693542,
+    "place_id": "ChIJ6SopWgAR0DsRc9LnyfMqdUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6SopWgAR0DsRc9LnyfMqdUk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:43:34"
+  }
+]

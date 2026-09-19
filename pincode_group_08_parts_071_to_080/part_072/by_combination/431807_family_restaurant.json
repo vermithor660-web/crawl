@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jadhav family restorant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431807",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3HP5+43P, Sindhi, Umari, Maharashtra 431807",
+    "area": "431807",
+    "latitude": 19.0853339,
+    "longitude": 77.5577165,
+    "place_id": "ChIJU7-qDQAhzjsR6v1NIedyvUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU7-qDQAhzjsR6v1NIedyvUk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:09:17"
+  },
+  {
+    "business_name": "Daily Mart Dharmabad Food Service",
+    "search_category": "Family Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "431807",
+    "phone_number": "N/A",
+    "website": "https://play.google.com/store/apps/details?id=com.dailymart.customer",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "VRRW+9WF, Dharmabad, Maharashtra 431809",
+    "area": "431807",
+    "latitude": 18.89093,
+    "longitude": 77.8472874,
+    "place_id": "ChIJa1M4XgAJzjsR6Xp7EEN5cDM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa1M4XgAJzjsR6Xp7EEN5cDM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:09:21"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chidrawar Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "431746",
+    "phone_number": "+91 96237 60227",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Main Road, Katkalamba, Maharashtra 431746",
+    "area": "431746",
+    "latitude": 18.8523375,
+    "longitude": 77.362323,
+    "place_id": "ChIJMRWXxroxzjsRQrmZrrWAG9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMRWXxroxzjsRQrmZrrWAG9U",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:53:44"
+  },
+  {
+    "business_name": "Dhanashree Dental Clinic & Implant Center",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Dental implants periodontist",
+    "pincode": "431746",
+    "phone_number": "+91 99234 82782",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 9,
+    "address": "Pranav Plaza, near Dena Bank, Geeta Nagar, Anand Nagar, Nanded, Maharashtra 431605",
+    "area": "Geeta Nagar, Anand Nagar",
+    "latitude": 19.172327,
+    "longitude": 77.316841,
+    "place_id": "ChIJBXrMmVjW0TsRRi_EqY2vIWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBXrMmVjW0TsRRi_EqY2vIWY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:53:46"
+  }
+]

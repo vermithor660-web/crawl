@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RANAJI INSURANCE",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance broker",
+    "all_categories": "Insurance broker",
+    "pincode": "431805",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Subhash Nagar, Kinwat, Maharashtra 431804",
+    "area": "Subhash Nagar",
+    "latitude": 19.6137832,
+    "longitude": 78.2045643,
+    "place_id": "ChIJe_cfG0Y_0jsR0kuc0uym7Ac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe_cfG0Y_0jsR0kuc0uym7Ac",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:06:19"
+  },
+  {
+    "business_name": "LIC Agency - Nanded Region",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "431805",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "College Rd, opp. Tonge Hospital, Dharmabad, Maharashtra 431809",
+    "area": "431805",
+    "latitude": 18.8913759,
+    "longitude": 77.8471556,
+    "place_id": "ChIJ41qQ7rYJzjsRDjtrmITu1ZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ41qQ7rYJzjsRDjtrmITu1ZA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:06:21"
+  }
+]

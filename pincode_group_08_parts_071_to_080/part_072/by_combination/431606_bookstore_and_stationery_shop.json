@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nerlekar Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Religious Book Store",
+    "all_categories": "Religious Book Store",
+    "pincode": "431606",
+    "phone_number": "+91 77888 01802",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 391,
+    "address": "Appa Balvant Chowk, Saraswat Bank Building, Budhwar Peth, Pune, Maharashtra 411002",
+    "area": "Budhwar Peth",
+    "latitude": 18.5162446,
+    "longitude": 73.8538958,
+    "place_id": "ChIJVVVVJW_AwjsRYlZCgUenyAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVJW_AwjsRYlZCgUenyAA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:59:32"
+  },
+  {
+    "business_name": "Yogesh Book Depo",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Books Wholesaler",
+    "pincode": "431606",
+    "phone_number": "+91 98500 48264",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 95,
+    "address": "Shriram Colony, Bhosari, Pimpri-Chinchwad, Maharashtra 411039",
+    "area": "Shriram Colony, Bhosari",
+    "latitude": 18.622663199999998,
+    "longitude": 73.8515536,
+    "place_id": "ChIJATIakoLHwjsRR90ACYDh_7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJATIakoLHwjsRR90ACYDh_7s",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:59:33"
+  }
+]

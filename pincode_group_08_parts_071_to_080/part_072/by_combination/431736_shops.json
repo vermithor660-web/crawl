@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "बाळगुरू कृपा किराणा अँड जनरल स्टोअर्स",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "431736",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MHV7+RC2, Borgaon (Thadi), Maharashtra 431736",
+    "area": "431736",
+    "latitude": 18.694527,
+    "longitude": 77.56354499999999,
+    "place_id": "ChIJucREAgBrzjsRmNZYES9zNRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJucREAgBrzjsRmNZYES9zNRw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:45:11"
+  },
+  {
+    "business_name": "Anu trading Company",
+    "search_category": "Shops",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "431736",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shankarnagr, Dhuppa, Maharashtra 431736",
+    "area": "Shankarnagr",
+    "latitude": 18.7563072,
+    "longitude": 77.56365149999999,
+    "place_id": "ChIJR1wApxZrzjsRWjGb3zgVF_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR1wApxZrzjsRWjGb3zgVF_Y",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:45:12"
+  }
+]

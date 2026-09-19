@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Star Electrical",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store",
+    "pincode": "431710",
+    "phone_number": "+91 99756 12934",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Star Electrical, Kundalwadi, Maharashtra 431711",
+    "area": "431710",
+    "latitude": 18.807927,
+    "longitude": 77.7707389,
+    "place_id": "ChIJLVVPjZsNzjsRKtA1xl_LSWQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLVVPjZsNzjsRKtA1xl_LSWQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:14:35"
+  },
+  {
+    "business_name": "Luxmore Lighting",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting manufacturer",
+    "all_categories": "Lighting manufacturer",
+    "pincode": "431710",
+    "phone_number": "+91 98232 73598",
+    "website": "http://mydukaan.io/luxmore",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3,Tarasing Market TARASINGH MARKET G G ROAD, Nanded, Maharashtra 431601",
+    "area": "Khadakpura",
+    "latitude": 19.1503961,
+    "longitude": 77.3148945,
+    "place_id": "ChIJKZQ0skDW0TsRmRhYr9czHU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKZQ0skDW0TsRmRhYr9czHU4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:14:38"
+  }
+]

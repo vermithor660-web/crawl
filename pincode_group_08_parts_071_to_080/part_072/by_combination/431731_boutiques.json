@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhiram textile",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431731",
+    "phone_number": "+91 97641 21530",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Shop No 1, opp. Sagroli, Sagroli, Maharashtra 431731",
+    "area": "431731",
+    "latitude": 18.6914667,
+    "longitude": 77.7380953,
+    "place_id": "ChIJXfK_ApdtzjsRTfVQ2evZG9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXfK_ApdtzjsRTfVQ2evZG9o",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:41:32"
+  },
+  {
+    "business_name": "Swara collection and tailors",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "431731",
+    "phone_number": "+91 91453 01275",
+    "website": "http://swaratailors.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nanded, Pune, Maharashtra 411068",
+    "area": "Nanded",
+    "latitude": 18.4596061,
+    "longitude": 73.7852013,
+    "place_id": "ChIJjU5dB4CVwjsRVq7CN9iykwg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjU5dB4CVwjsRVq7CN9iykwg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:41:35"
+  }
+]

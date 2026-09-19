@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hello Chai",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Shawarma restaurant",
+    "all_categories": "Shawarma restaurant, Coffee shop",
+    "pincode": "431702",
+    "phone_number": "+91 98956 23098",
+    "website": "https://www.instagram.com/_hello.chai_/profilecard/?igsh=MXU2bmdsNnhjbWd1cg==",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "6FV2+FMC, Chingoli, Keralam 690532",
+    "area": "431702",
+    "latitude": 9.2435011,
+    "longitude": 76.45156879999999,
+    "place_id": "ChIJY-JTGgChCDsRKaim_KGKt2U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY-JTGgChCDsRKaim_KGKt2U",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:01:54"
+  },
+  {
+    "business_name": "कैफे चाय",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea Exporter",
+    "all_categories": "Tea Exporter",
+    "pincode": "431702",
+    "phone_number": "+91 93501 50308",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Bhagat singh chowk, Sisai Bola, Hansi, Haryana 125049",
+    "area": "431702",
+    "latitude": 29.1787207,
+    "longitude": 76.0123369,
+    "place_id": "ChIJgzJLqfc9EjkRwYqjOM2Rm6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgzJLqfc9EjkRwYqjOM2Rm6Y",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:01:56"
+  }
+]

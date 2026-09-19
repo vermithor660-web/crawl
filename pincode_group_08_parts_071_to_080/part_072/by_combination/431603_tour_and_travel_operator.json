@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Starry Nights Tours And Adventures",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "431603",
+    "phone_number": "+91 88477 55042",
+    "website": "https://starrynightsindia.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Hudco new, CIDCO Colony, Nanded, Maharashtra 431603",
+    "area": "CIDCO Colony",
+    "latitude": 19.1045019,
+    "longitude": 77.32001389999999,
+    "place_id": "ChIJrzWva0IpzjsROnC7TXHVNpU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrzWva0IpzjsROnC7TXHVNpU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:53:41"
+  },
+  {
+    "business_name": "Aaradhana tours and travels nanded",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "431603",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, Tuppa, Maharashtra 431603",
+    "area": "431603",
+    "latitude": 19.105622999999998,
+    "longitude": 77.355413,
+    "place_id": "ChIJmwKVt1UpzjsRwJZtkaB7XIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwKVt1UpzjsRwJZtkaB7XIE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:53:41"
+  }
+]

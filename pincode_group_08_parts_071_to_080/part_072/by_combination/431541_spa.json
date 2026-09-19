@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SAKSHI BEAUTY PARLOUR",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "431541",
+    "phone_number": "+91 78758 94177",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 01, near Bus Stand, Umari, Maharashtra 431521",
+    "area": "431541",
+    "latitude": 19.1899686,
+    "longitude": 76.6382331,
+    "place_id": "ChIJ_TEFB8YF0DsRDh-MICohLAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_TEFB8YF0DsRDh-MICohLAk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:46:50"
+  },
+  {
+    "business_name": "Akshara Beauty Parlour",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "431541",
+    "phone_number": "+91 95031 92316",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No3, Shanti Niketan Nagar, Dargha Road, near Sad Sayad, Indira Gandhi Nagar, Parbhani, Maharashtra 431401",
+    "area": "Indira Gandhi Nagar",
+    "latitude": 19.2563608,
+    "longitude": 76.7570349,
+    "place_id": "ChIJaYM6CY0Z0DsRA7nlKwFqW6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaYM6CY0Z0DsRA7nlKwFqW6o",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:46:52"
+  }
+]

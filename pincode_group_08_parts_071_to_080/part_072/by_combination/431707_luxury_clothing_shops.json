@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madhushree Fashion Designer",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431707",
+    "phone_number": "+91 84858 77792",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "485F+J7J, शिवाजी विद्यालय सामोर, सिडको, नांदेड, Nanded, Maharashtra 431603",
+    "area": "CIDCO Colony",
+    "latitude": 19.109097,
+    "longitude": 77.3231423,
+    "place_id": "ChIJXbSb0sgpzjsR2xvSbP82quE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXbSb0sgpzjsR2xvSbP82quE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:08:56"
+  },
+  {
+    "business_name": "LOOK AT ME",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "431707",
+    "phone_number": "+91 96991 14495",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "1, Nizam Colony Rd, Nizam Colony, Kohinor City, Shri Nagar, Nanded, Maharashtra 431605",
+    "area": "Nizam Colony, Kohinor City, Shri Nagar",
+    "latitude": 19.1783692,
+    "longitude": 77.3039628,
+    "place_id": "ChIJCy2XA4zW0TsRkiEEYPknCUE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCy2XA4zW0TsRkiEEYPknCUE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:08:59"
+  }
+]

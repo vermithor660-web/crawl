@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zaheer Beaf Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "431806",
+    "phone_number": "+91 87664 91220",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Ekbal Nagar, Bondar Road, Deglour Naka, Nanded, Maharashtra 431604",
+    "area": "Deglour Naka",
+    "latitude": 19.1550257,
+    "longitude": 77.3403567,
+    "place_id": "ChIJR9UQ7hLX0TsRcz8l_NxK-YY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR9UQ7hLX0TsRcz8l_NxK-YY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:06:55"
+  },
+  {
+    "business_name": "Mirza Enterprises",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store",
+    "pincode": "431806",
+    "phone_number": "+91 90284 00487",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Shop No 18, Latur Road, near Indian Petroleum, Dhanegaon, Maharashtra 431603",
+    "area": "Dhanegaon",
+    "latitude": 19.1343274,
+    "longitude": 77.3430224,
+    "place_id": "ChIJV-y3ykjX0TsRO7lmRYmdOfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV-y3ykjX0TsRO7lmRYmdOfQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:06:58"
+  }
+]

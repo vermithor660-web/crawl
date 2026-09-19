@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yogeshwar Kiirana Shop",
+    "search_category": "Shops",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "431717",
+    "phone_number": "+91 88869 89143",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, opp. Degloor, Deglur, Maharashtra 431717",
+    "area": "431717",
+    "latitude": 18.5536143,
+    "longitude": 77.56931709999999,
+    "place_id": "ChIJ_x0oYH9nzjsR3yzj-NK529Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_x0oYH9nzjsR3yzj-NK529Y",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:28:44"
+  },
+  {
+    "business_name": "Shrinivas Laundry Shop",
+    "search_category": "Shops",
+    "primary_category": "Laundry service",
+    "all_categories": "Laundry service",
+    "pincode": "431717",
+    "phone_number": "+91 99609 32057",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Ibitwar Complex, Hanuman Mandir Road, near Hanuman Mandir Market Line, Siddhart Nagar, Deglur, Maharashtra 431717",
+    "area": "Siddhart Nagar",
+    "latitude": 18.549717299999998,
+    "longitude": 77.5782445,
+    "place_id": "ChIJIWpV6jNnzjsRTju1dKh2YEM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIWpV6jNnzjsRTju1dKh2YEM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:28:48"
+  }
+]

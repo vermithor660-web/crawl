@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Real Estate Consultant",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "431705",
+    "phone_number": "+91 98606 31390",
+    "website": "http://jainrealestatebhiwandi.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "B-19/A, J.K. Warehouse, near Parshuram Tawre school, oppo Union bank of India, Kalher, Maharashtra 421302",
+    "area": "Kalher",
+    "latitude": 19.2524181,
+    "longitude": 73.02123399999999,
+    "place_id": "ChIJBVY_fO295zsRFHeA4keqG-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBVY_fO295zsRFHeA4keqG-Q",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:08:14"
+  },
+  {
+    "business_name": "Jain Real Estate Consultant 1",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agent",
+    "all_categories": "Real estate agent",
+    "pincode": "431705",
+    "phone_number": "+91 98516 42222",
+    "website": "https://jainrealestatebhiwandi.com/",
+    "rating": 5,
+    "reviews_count": 51,
+    "address": "Survey No 48, Hissa No 1P, NH 3, next to Arham Logic Park, Sonale Village, Walshind, Bhiwandi, Maharashtra 421302",
+    "area": "Sonale Village",
+    "latitude": 19.3030406,
+    "longitude": 73.1090718,
+    "place_id": "ChIJdYBPe5CX5zsRNAqEa5Trgr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdYBPe5CX5zsRNAqEa5Trgr4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:08:16"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Padmalaya Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "431723",
+    "phone_number": "+91 97644 47475",
+    "website": "http://padmalayabus.in/",
+    "rating": 3.3,
+    "reviews_count": 179,
+    "address": "Shop No 26,Stadium Complex, C-Wing, Jalgaon, Jalgaon, Maharashtra 425001",
+    "area": "Pratap Nagar",
+    "latitude": 21.009942499999998,
+    "longitude": 75.5611354,
+    "place_id": "ChIJDfBK3boP2TsRZ7-3szEpxwU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfBK3boP2TsRZ7-3szEpxwU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:39:48"
+  },
+  {
+    "business_name": "Shri Multiservices & Xerox Center",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Railway Ticket Agent",
+    "all_categories": "Railway Ticket Agent, Internet cafe, Passport Agent",
+    "pincode": "431723",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shri Multiservices & Zerox Center, Old Bus Stand, Rampur Rd, Sai Nagar, Nath Nagar, Deglur, Maharashtra 431717",
+    "area": "Sai Nagar, Nath Nagar",
+    "latitude": 18.545510399999998,
+    "longitude": 77.5774186,
+    "place_id": "ChIJj6oJZ11nzjsRELscblpnt_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj6oJZ11nzjsRELscblpnt_Q",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:39:49"
+  }
+]

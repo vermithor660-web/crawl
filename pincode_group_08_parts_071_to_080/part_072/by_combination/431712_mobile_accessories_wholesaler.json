@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Baldawa Enterprises",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Electrical appliance wholesaler",
+    "pincode": "431712",
+    "phone_number": "+91 98221 00733",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 5,
+    "address": "Main road, Hadgaon, Maharashtra 431712",
+    "area": "431712",
+    "latitude": 19.4985402,
+    "longitude": 77.6570033,
+    "place_id": "ChIJe0-Zwert0TsRhv2CQmHECzI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe0-Zwert0TsRhv2CQmHECzI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:18:34"
+  },
+  {
+    "business_name": "Dadaji mobile shoppy",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone accessory store",
+    "all_categories": "Cell phone accessory store",
+    "pincode": "431712",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "FMX4+JQC, Road, Hadgaon, Chuncha, Maharashtra 431712",
+    "area": "431712",
+    "latitude": 19.4990621,
+    "longitude": 77.6568946,
+    "place_id": "ChIJOY2TCADt0TsR29lvDEx0FPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOY2TCADt0TsR29lvDEx0FPY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:18:37"
+  }
+]

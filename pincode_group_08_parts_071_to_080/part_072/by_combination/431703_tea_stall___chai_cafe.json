@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Radhe Krushna Tea Point",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "431703",
+    "phone_number": "+91 93095 03740",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 01 Near Phalegaon Fata, Hingoli - Washim - Akola Rd, Hingoli, Maharashtra 431513",
+    "area": "431703",
+    "latitude": 19.9208295,
+    "longitude": 77.15478399999999,
+    "place_id": "ChIJDxYUJwf_0DsR3jBCDCmAr_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDxYUJwf_0DsR3jBCDCmAr_A",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:03:39"
+  },
+  {
+    "business_name": "Shalimar Tea",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "431703",
+    "phone_number": "+91 98505 62786",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1 Bastop Complex, Malware, near by Nanded Naka, Mastanshah Nagar, Bangar Nagar, Maharashtra 431513",
+    "area": "Mastanshah Nagar, Bangar Nagar",
+    "latitude": 19.7116685,
+    "longitude": 77.1444511,
+    "place_id": "ChIJFTyxAlJT0DsRZmoJJgSukII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFTyxAlJT0DsRZmoJJgSukII",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:03:39"
+  }
+]

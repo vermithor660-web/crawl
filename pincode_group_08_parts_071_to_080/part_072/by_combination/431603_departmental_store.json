@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PVK Kirana & General Stores",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store, Indian grocery store",
+    "pincode": "431603",
+    "phone_number": "+91 95520 92171",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": null,
+    "address": "Opp. Indira Gandhi College, Sambhaji Chowk, CIDCO, Nanded, Maharashtra 431603",
+    "area": "CIDCO Colony",
+    "latitude": 19.1134979,
+    "longitude": 77.3226329,
+    "place_id": "ChIJMcBuv88pzjsRcGVlfCRkkTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMcBuv88pzjsRcGVlfCRkkTc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:52:57"
+  },
+  {
+    "business_name": "Tejashwini Kadam",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "431603",
+    "phone_number": "+91 87909 28505",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Shivaji Maharaj Chowk, near Hadco, CIDCO Colony, Nanded, Maharashtra 431603",
+    "area": "CIDCO Colony",
+    "latitude": 19.1050664,
+    "longitude": 77.3176771,
+    "place_id": "ChIJVQHuHkspzjsR07oQ0DsyhW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVQHuHkspzjsR07oQ0DsyhW0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:52:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "COMMON SERVICE CENTRE",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Internet cafe",
+    "all_categories": "Internet cafe",
+    "pincode": "431701",
+    "phone_number": "+91 40 4567 6699",
+    "website": "N/A",
+    "rating": 3.2,
+    "reviews_count": null,
+    "address": "opp. COLLECTOR OFFICE, Subedari, Hanamkonda, Warangal, Telangana 506001",
+    "area": "Subedari",
+    "latitude": 17.9939808,
+    "longitude": 79.54234249999999,
+    "place_id": "ChIJEUu56qFPMzoRRA3GUOSD5DA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEUu56qFPMzoRRA3GUOSD5DA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:01:18"
+  },
+  {
+    "business_name": "CSC Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "431701",
+    "phone_number": "+91 98601 78257",
+    "website": "http://svkumarblog.wordpress.com/",
+    "rating": 1,
+    "reviews_count": 2,
+    "address": "Dongaon Bk., Maharashtra 431710",
+    "area": "431701",
+    "latitude": 18.7572761,
+    "longitude": 77.6223711,
+    "place_id": "ChIJg8zunjtrzjsR7h8mB1Y_Hps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg8zunjtrzjsR7h8mB1Y_Hps",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:01:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "cinebration",
+    "search_category": "Media and Event",
+    "primary_category": "Event venue",
+    "all_categories": "Event venue, Home theater store, Movie theater",
+    "pincode": "431601",
+    "phone_number": "+91 92703 03065",
+    "website": "https://www.cinebration.in/",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "parsewar corner, sathe chowk, near Hingoli Gate Flyover, near wallydeco, Samrat Nagar, Nanded, Maharashtra 431601",
+    "area": "Samrat Nagar",
+    "latitude": 19.1622959,
+    "longitude": 77.3167325,
+    "place_id": "ChIJ_S2Gn5LX0TsRxNEOpbl17p4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_S2Gn5LX0TsRxNEOpbl17p4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:50:32"
+  },
+  {
+    "business_name": "Pm Advertising & Flex printing",
+    "search_category": "Media and Event",
+    "primary_category": "Digital printing service",
+    "all_categories": "Digital printing service",
+    "pincode": "431601",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Bhokar phata, At, post dabhad tq, Bhokar phata, Nanded, Dabhad, Maharashtra 431704",
+    "area": "Bhokar phata",
+    "latitude": 19.2429869,
+    "longitude": 77.3588305,
+    "place_id": "ChIJ1enBhrfR0TsRUCmMG454jzM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1enBhrfR0TsRUCmMG454jzM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:50:32"
+  }
+]

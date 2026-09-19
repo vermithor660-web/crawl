@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Sai clinic",
+    "search_category": "Clinics",
+    "primary_category": "General practitioner",
+    "all_categories": "General practitioner",
+    "pincode": "431541",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5GHP+7M7, Rametakali, Maharashtra 431541",
+    "area": "431541",
+    "latitude": 19.178117699999998,
+    "longitude": 76.5366938,
+    "place_id": "ChIJb23yGQAH0DsRXF1J1T9E9NA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb23yGQAH0DsRXF1J1T9E9NA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:46:23"
+  },
+  {
+    "business_name": "MORE CLINIC AND DAY CARE",
+    "search_category": "Clinics",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic",
+    "pincode": "431541",
+    "phone_number": "+91 72630 41010",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No.1, Pathari - Pokharni Rd, Mangrul Bk, Maharashtra 431541",
+    "area": "431541",
+    "latitude": 19.170053199999998,
+    "longitude": 76.58063469999999,
+    "place_id": "ChIJdybJWMMF0DsRnXVjldf-lf4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdybJWMMF0DsRnXVjldf-lf4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:46:23"
+  }
+]

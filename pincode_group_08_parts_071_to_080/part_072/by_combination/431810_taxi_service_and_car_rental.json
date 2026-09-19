@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Cab Safar",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Service establishment",
+    "pincode": "431810",
+    "phone_number": "N/A",
+    "website": "https://saicabsafar.netlify.app/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Sai Cab Safar, 431810, India",
+    "area": "431810",
+    "latitude": 18.990226399999997,
+    "longitude": 74.1074158,
+    "place_id": "ChIJEUn4knZzTIARSF2decRGwbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEUn4knZzTIARSF2decRGwbo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:16:04"
+  },
+  {
+    "business_name": "Taxi Rental Service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport Shuttle Service Provider, Car leasing service, Car rental agency, Minibus taxi service",
+    "pincode": "431810",
+    "phone_number": "+91 80909 15556",
+    "website": "https://www.taxilucknow.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "kamta chauraha, Avadh bus stop, Plot number-9, Ismailganj, Gomti Nagar, Lucknow, Uttar Pradesh 226028",
+    "area": "Ismailganj, Gomti Nagar",
+    "latitude": 26.874919199999997,
+    "longitude": 81.0137252,
+    "place_id": "ChIJT51NDdvjmzkR-BWEBKavKkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT51NDdvjmzkR-BWEBKavKkY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:16:05"
+  }
+]

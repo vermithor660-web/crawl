@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Morris Hospitality Solutions",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Service establishment",
+    "pincode": "431711",
+    "phone_number": "+91 88264 66324",
+    "website": "https://www.mhsjobs.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Morris Hospitality Solutions, 431711, India",
+    "area": "431711",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJ7x6r3FUZZoERcqGXuZcUl3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7x6r3FUZZoERcqGXuZcUl3s",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:16:41"
+  },
+  {
+    "business_name": "Aradhya Hotel & RESTRO Consultant",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Restaurant",
+    "pincode": "431711",
+    "phone_number": "+91 99777 23600",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Scheme 97, Vip Paraspar Nagar, Indore, Madhya Pradesh 452012",
+    "area": "Scheme 97, Vip Paraspar Nagar",
+    "latitude": 22.6769009,
+    "longitude": 75.8265551,
+    "place_id": "ChIJlayLD8X9YjkRS83_UWWZGd8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlayLD8X9YjkRS83_UWWZGd8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:16:43"
+  }
+]

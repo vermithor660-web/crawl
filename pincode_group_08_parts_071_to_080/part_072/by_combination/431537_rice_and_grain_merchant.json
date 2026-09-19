@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kokni Masala & Kirana",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Spice store",
+    "pincode": "431537",
+    "phone_number": "+91 94231 76101",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Burud Galli, opp. Dr. Badiyani, Old Nashik, Multanpura, Nashik, Maharashtra 422001",
+    "area": "Old Nashik, Multanpura",
+    "latitude": 19.9969254,
+    "longitude": 73.7915135,
+    "place_id": "ChIJvS4NcwHr3TsRm6FnHvxjfw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvS4NcwHr3TsRm6FnHvxjfw4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:42:35"
+  },
+  {
+    "business_name": "Chhadwa Grains And Provision Store",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431537",
+    "phone_number": "+91 75060 25001",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 22,
+    "address": "Shop no 10, Rehmatbai Building, Sane Guruji Marg, opposite Mumbai Central, Station(W, Bane Compound, Tardeo, Mumbai, Maharashtra 400034",
+    "area": "Station(W, Bane Compound, Tardeo",
+    "latitude": 18.971254599999998,
+    "longitude": 72.8177826,
+    "place_id": "ChIJS4gVBf3P5zsRDD7VsWmTIAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS4gVBf3P5zsRDD7VsWmTIAo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:42:36"
+  }
+]

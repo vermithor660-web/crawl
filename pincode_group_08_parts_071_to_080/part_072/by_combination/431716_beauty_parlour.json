@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anjali Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431716",
+    "phone_number": "+91 99219 48897",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No1, Jalkot Main Rd, Latur, Jalkot, Maharashtra 413532",
+    "area": "431716",
+    "latitude": 18.6288665,
+    "longitude": 77.17785049999999,
+    "place_id": "ChIJFWIqY6qzzzsROLF7AMC6Mfo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFWIqY6qzzzsROLF7AMC6Mfo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:25:43"
+  },
+  {
+    "business_name": "VISHAKHA'S HAIR EXTENSION & BEAUTY SALON",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431716",
+    "phone_number": "+91 77982 25687",
+    "website": "https://vishakhasalon.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "2nd Floor, Dnyandeep Plaza, Dhayari Phata Rd, Garmal, Dhayari, Pune, Maharashtra 411041",
+    "area": "Garmal, Dhayari",
+    "latitude": 18.4566944,
+    "longitude": 73.8118739,
+    "place_id": "ChIJKzc0W3aVwjsRrDE1vuaKOTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKzc0W3aVwjsRrDE1vuaKOTI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:25:44"
+  }
+]

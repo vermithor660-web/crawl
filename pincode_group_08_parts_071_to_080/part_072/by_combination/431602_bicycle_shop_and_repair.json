@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cycle store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "431602",
+    "phone_number": "+91 75883 92401",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bhavsar Chowk, plot no 56, balareshvar marg, Z.P. Colony, Ashtvinayak Nagar, Nanded, Maharashtra 431601",
+    "area": "Z.P. Colony, Ashtvinayak Nagar",
+    "latitude": 19.187984699999998,
+    "longitude": 77.3002236,
+    "place_id": "ChIJJxaHqO3X0TsR_e3GrkMlIG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJxaHqO3X0TsR_e3GrkMlIG0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:51:52"
+  },
+  {
+    "business_name": "Mauli Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop, Bicycle repair shop, Motorcycle shop",
+    "pincode": "431602",
+    "phone_number": "+91 98811 92283",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 3,
+    "address": "Usmannagar Road Dnyaneshwar Nagar, Maharashtra 431603",
+    "area": "CIDCO Colony",
+    "latitude": 19.107261299999998,
+    "longitude": 77.3241962,
+    "place_id": "ChIJqXNl4cgpzjsRdp1XC012QDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqXNl4cgpzjsRdp1XC012QDo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:51:52"
+  }
+]

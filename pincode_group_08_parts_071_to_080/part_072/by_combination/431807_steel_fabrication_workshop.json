@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ARMAN STEEL",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "431807",
+    "phone_number": "+91 90217 07773",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No. 24 Bhangaar Line Shakti Nagar Kela Market, Maharashtra 431604",
+    "area": "Samrat Nagar, Hyder Bagh, Dashmesh Nagar, Harsh Nagar",
+    "latitude": 19.1513526,
+    "longitude": 77.3243189,
+    "place_id": "ChIJiRtTDiLX0TsRLCcmblkMfg8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiRtTDiLX0TsRLCcmblkMfg8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:10:47"
+  },
+  {
+    "business_name": "SHRI SAIBABA ENGINEERING WORKSHOP",
+    "search_category": "Steel Fabrication Workshop",
+    "primary_category": "Steel fabricator",
+    "all_categories": "Steel fabricator, Fabrication Engineer, Metal fabricator",
+    "pincode": "431807",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Devi Road, Taluk, Dharmabad, Maharashtra 431809",
+    "area": "Taluk",
+    "latitude": 18.8916379,
+    "longitude": 77.85125459999999,
+    "place_id": "ChIJAaS80hwJzjsR8yb7SozHRv4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAaS80hwJzjsR8yb7SozHRv4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:10:48"
+  }
+]

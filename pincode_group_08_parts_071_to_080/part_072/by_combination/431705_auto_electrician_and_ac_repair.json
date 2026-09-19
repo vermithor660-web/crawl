@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CAR AC works and ELECTRICIAN works",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "431705",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "F9PX+XW6, Rd Number 1, Kukatpally Housing Board Colony, K P H B Phase 1, Kukatpally, Hyderabad, Telangana 500072",
+    "area": "Kukatpally Housing Board Colony, K P H B Phase 1, Kukatpally",
+    "latitude": 17.4874136,
+    "longitude": 78.399776,
+    "place_id": "ChIJ06qTOgCRyzsRh0oM3_m20Ng",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ06qTOgCRyzsRh0oM3_m20Ng",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:07:27"
+  },
+  {
+    "business_name": "Maruti Suzuki Service (Shivam Auto Zone)",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "431705",
+    "phone_number": "+91 8071 648 390",
+    "website": "https://www.arenaofkandivali.com/maruti-suzuki-service",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Plot No. 64, EFGH, Kandivali, Industrial Estate, Charkop Gaon, Kandivali West, Mumbai, Maharashtra 400067",
+    "area": "Kandivali, Industrial Estate, Charkop Gaon, Kandivali West",
+    "latitude": 19.2069458,
+    "longitude": 72.8244425,
+    "place_id": "ChIJk1nHe7e25zsR0VQ4NYL3THk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk1nHe7e25zsR0VQ4NYL3THk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:07:27"
+  }
+]

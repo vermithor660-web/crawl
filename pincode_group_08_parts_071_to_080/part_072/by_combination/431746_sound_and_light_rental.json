@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Light Up The Sound",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "DJ service",
+    "all_categories": "DJ service, Service establishment",
+    "pincode": "431746",
+    "phone_number": "N/A",
+    "website": "http://www.lightupthesound.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Light Up The Sound, 431746, India",
+    "area": "431746",
+    "latitude": 42.6510074,
+    "longitude": -83.528311,
+    "place_id": "ChIJ0wBP-tYY7Q0RmUeCDr3X2eA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0wBP-tYY7Q0RmUeCDr3X2eA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:54:23"
+  },
+  {
+    "business_name": "Shashikant Cine Radio",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Electrical products wholesaler",
+    "all_categories": "Electrical products wholesaler",
+    "pincode": "431746",
+    "phone_number": "+91 94232 35678",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Mohammed Ali Rd, opp. Jain Mandir, Nimwadi, Akola, Maharashtra 444006",
+    "area": "Nimwadi",
+    "latitude": 20.7088094,
+    "longitude": 76.9972377,
+    "place_id": "ChIJkd0qOe8x1zsRxG4ZXD1lHEQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkd0qOe8x1zsRxG4ZXD1lHEQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:54:23"
+  }
+]

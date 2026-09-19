@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "That PPC Guy",
+    "search_category": "PPC Advertising Agencies",
+    "primary_category": "Advertising agency",
+    "all_categories": "Advertising agency, Service establishment, Marketing agency",
+    "pincode": "431542",
+    "phone_number": "N/A",
+    "website": "http://thatppcguy.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "That PPC Guy, 431542, India",
+    "area": "431542",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJOVwrczlcCU0RF7oOP8XXkhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOVwrczlcCU0RF7oOP8XXkhE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:49:13"
+  },
+  {
+    "business_name": "Scale Delight",
+    "search_category": "PPC Advertising Agencies",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Branding agency, Internet marketing service",
+    "pincode": "431542",
+    "phone_number": "+91 90821 98791",
+    "website": "https://scaledelight.com/",
+    "rating": 5,
+    "reviews_count": 37,
+    "address": "Ghanshyam Enclave, 312, New Link Rd, Kandivali, Gandhi Nagar, Shankar Pada, Kandivali West, Mumbai, Maharashtra 400067",
+    "area": "Kandivali, Gandhi Nagar, Shankar Pada, Kandivali West",
+    "latitude": 19.2031647,
+    "longitude": 72.8347581,
+    "place_id": "ChIJxduR7qe35zsRTgRoERpH7Dk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxduR7qe35zsRTgRoERpH7Dk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:49:14"
+  }
+]

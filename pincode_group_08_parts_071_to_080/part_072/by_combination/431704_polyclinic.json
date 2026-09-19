@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mauli Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431704",
+    "phone_number": "+91 75229 10400",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Mule Complex, Hanuman Mandir Road, near Police Station, Ardhapur, Maharashtra 431704",
+    "area": "Barkatpura",
+    "latitude": 19.286078099999997,
+    "longitude": 77.37976429999999,
+    "place_id": "ChIJAQAAAHfQ0TsRcRq7RHq8AX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAHfQ0TsRcRq7RHq8AX8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:05:37"
+  },
+  {
+    "business_name": "Jeevan Rekha Chest Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431704",
+    "phone_number": "+91 2462 241 800",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "5855+82X, Doctor's Lane, Doctor Lane, Khadakpura, Nanded, Maharashtra 431601",
+    "area": "Doctor Lane, Khadakpura",
+    "latitude": 19.1583732,
+    "longitude": 77.3076086,
+    "place_id": "ChIJxQG9Q2jW0TsRg4opqwWxi84",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxQG9Q2jW0TsRg4opqwWxi84",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:05:37"
+  }
+]

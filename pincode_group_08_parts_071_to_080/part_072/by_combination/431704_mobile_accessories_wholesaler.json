@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JD Mobiles",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "431704",
+    "phone_number": "+91 86240 03808",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "chowk, Railway Station Rd, opp. Jama Masjid, Dharmabad, Maharashtra 431809",
+    "area": "431704",
+    "latitude": 18.8900137,
+    "longitude": 77.8497658,
+    "place_id": "ChIJDbKAoKUJzjsRt6FunYgfkDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDbKAoKUJzjsRt6FunYgfkDQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:06:21"
+  },
+  {
+    "business_name": "Popular Mobile Shop",
+    "search_category": "Mobile Accessories Wholesaler",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "431704",
+    "phone_number": "+91 97667 11722",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 11,
+    "address": "Deglour Naka, Nanded, Maharashtra 431604",
+    "area": "Deglour Naka",
+    "latitude": 19.1520896,
+    "longitude": 77.3363364,
+    "place_id": "ChIJTYOslrXX0TsRqQL189AnUvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTYOslrXX0TsRqQL189AnUvo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:06:22"
+  }
+]

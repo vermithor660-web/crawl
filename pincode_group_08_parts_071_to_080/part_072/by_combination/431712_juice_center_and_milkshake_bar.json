@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KAIF DAILY NEEDS & KITE CENTRE",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop, Kite shop",
+    "pincode": "431712",
+    "phone_number": "+91 89569 24765",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "Uttarwar House, near TAJ Pura, Ward, Umarkhed, Maharashtra 445206",
+    "area": "Ward, Umarkhed",
+    "latitude": 19.5968893,
+    "longitude": 77.68883749999999,
+    "place_id": "ChIJ1c9EsbKT0TsRAuERpp3HOhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1c9EsbKT0TsRAuERpp3HOhE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:17:27"
+  },
+  {
+    "business_name": "Luckey Juice Centre",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "431712",
+    "phone_number": "+91 80804 38920",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 2, Galli 13, Main Road Pirbhuran, opp. Ambekar Nagar, Ambekar Nagar, Nanded, Maharashtra 431605",
+    "area": "Ambekar Nagar",
+    "latitude": 19.1804588,
+    "longitude": 77.3117934,
+    "place_id": "ChIJc-6yypfX0TsRfqBoqhcxGWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc-6yypfX0TsRfqBoqhcxGWA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:17:28"
+  }
+]

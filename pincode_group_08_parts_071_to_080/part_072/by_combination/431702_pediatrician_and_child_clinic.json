@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shiv Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "431702",
+    "phone_number": "+91 90284 57777",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 01 Khatkali Rani Sati Mandir Road, Khatkali Bypass, Karwadi, Maharashtra 431513",
+    "area": "Ganga Nagar",
+    "latitude": 19.7069738,
+    "longitude": 77.1654823,
+    "place_id": "ChIJte2axwNT0DsR5pJLxfZhu1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJte2axwNT0DsR5pJLxfZhu1w",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:02:13"
+  },
+  {
+    "business_name": "agrawal clinic,new mondha hingoli",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431702",
+    "phone_number": "+91 82752 32274",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 2,
+    "address": "P48V+JQF, Bhatt Colony, Siddharth Nagar, Hingoli, Maharashtra 431513",
+    "area": "Bhatt Colony, Siddharth Nagar",
+    "latitude": 19.7165617,
+    "longitude": 77.14442849999999,
+    "place_id": "ChIJl-TJPVRS0DsRWt0f_sj8ZGo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-TJPVRS0DsRWt0f_sj8ZGo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:02:13"
+  }
+]

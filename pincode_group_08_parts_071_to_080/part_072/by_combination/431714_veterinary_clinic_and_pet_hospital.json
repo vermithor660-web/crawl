@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Animal Medical Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterans hospital",
+    "all_categories": "Veterans hospital",
+    "pincode": "431714",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "M797+293, Sawargaon, Maharashtra 431716",
+    "area": "431714",
+    "latitude": 18.667509799999998,
+    "longitude": 77.2634071,
+    "place_id": "ChIJAUnjyRBLzjsRibzNMyJpfjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAUnjyRBLzjsRibzNMyJpfjQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:21:23"
+  },
+  {
+    "business_name": "Umra Animals Health Center",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "431714",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "X93Q+9Q4, Dhanji Tanda, Maharashtra 431707",
+    "area": "431714",
+    "latitude": 18.9533906,
+    "longitude": 77.3894399,
+    "place_id": "ChIJRd5S01ElzjsRgQNZ1BGAEIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRd5S01ElzjsRgQNZ1BGAEIE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:21:26"
+  }
+]

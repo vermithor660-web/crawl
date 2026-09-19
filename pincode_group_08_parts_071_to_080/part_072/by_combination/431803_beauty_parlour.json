@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shraddha Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "431803",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C265+9G4, Islapur, Maharashtra 431803",
+    "area": "431803",
+    "latitude": 19.4108967,
+    "longitude": 78.0088416,
+    "place_id": "ChIJacfJ-5od0jsRXr2hgYkS5kI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJacfJ-5od0jsRXr2hgYkS5kI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:01:49"
+  },
+  {
+    "business_name": "Shivprasad Jents Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431803",
+    "phone_number": "+91 70663 31628",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Birasa Munda Chowk, Main Road, Pangri, Bhisi, Maharashtra 431803",
+    "area": "431803",
+    "latitude": 19.388253199999998,
+    "longitude": 77.97220999999999,
+    "place_id": "ChIJhWVmuI4d0jsRy16tw8mSMhE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhWVmuI4d0jsRy16tw8mSMhE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:01:49"
+  }
+]

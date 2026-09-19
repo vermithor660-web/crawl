@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganaraj Medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "431723",
+    "phone_number": "+91 90210 34061",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Railway Station Rd, Dharmabad, Maharashtra 431809",
+    "area": "431723",
+    "latitude": 18.8897262,
+    "longitude": 77.849653,
+    "place_id": "ChIJnxK0vqMJzjsR2RPyerhH2mg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnxK0vqMJzjsR2RPyerhH2mg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:39:28"
+  },
+  {
+    "business_name": "LIFE LINE GENERIC& ETHICAL PHARMACY BANSWADA",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "431723",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "opp. govt hospital, beside Royal mobile shop, Banswada, Telangana 503187",
+    "area": "431723",
+    "latitude": 18.3803076,
+    "longitude": 77.8758665,
+    "place_id": "ChIJbdWfPTiBzjsRjiTlykj4EAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdWfPTiBzjsRjiTlykj4EAo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:39:28"
+  }
+]

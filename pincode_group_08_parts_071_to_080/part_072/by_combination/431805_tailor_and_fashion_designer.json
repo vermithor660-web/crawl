@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M.k. tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer",
+    "pincode": "431805",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ग्रामपंचायत रोड, Kavtha, Maharashtra 445306",
+    "area": "431805",
+    "latitude": 19.991262799999998,
+    "longitude": 78.29032389999999,
+    "place_id": "ChIJDaicYIXL0zsRAxwGwDtW2i8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDaicYIXL0zsRAxwGwDtW2i8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:05:06"
+  },
+  {
+    "business_name": "Kwality Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Gents Tailor",
+    "all_categories": "Gents Tailor",
+    "pincode": "431805",
+    "phone_number": "+91 98226 18836",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Avadhout Complex, Workshop Road, Shri Nagar, near Fashion Saree Center, Nanded, Maharashtra 431605",
+    "area": "Vishnu Nagar",
+    "latitude": 19.1795829,
+    "longitude": 77.3044724,
+    "place_id": "ChIJPS0pPYzW0TsRCDRWHkvtoik",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPS0pPYzW0TsRCDRWHkvtoik",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:05:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manore Rice Mill",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "431808",
+    "phone_number": "+91 98505 98682",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "C738+FGH, Mordev Nagar, Vasind, Maharashtra 421601",
+    "area": "Mordev Nagar",
+    "latitude": 19.4036883,
+    "longitude": 73.2663585,
+    "place_id": "ChIJzzZYyiib5zsRRbFtYkJ9z-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzzZYyiib5zsRRbFtYkJ9z-8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:12:57"
+  },
+  {
+    "business_name": "Sadanand Rice Mill, Kanchad",
+    "search_category": "Rice Mill and Agro Processing",
+    "primary_category": "Agricultural service",
+    "all_categories": "Agricultural service",
+    "pincode": "431808",
+    "phone_number": "+91 75077 86526",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "M2GC+GJG, Wada - Manor Rd, Kanchad, Maharashtra 421303",
+    "area": "431808",
+    "latitude": 19.676309,
+    "longitude": 73.0215673,
+    "place_id": "ChIJtW1PxpUN5zsRlHIICrEskdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtW1PxpUN5zsRlHIICrEskdc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:12:57"
+  }
+]

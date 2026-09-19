@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SWARAJ JEWELLERS",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry repair service",
+    "all_categories": "Jewelry repair service, Jewelry store",
+    "pincode": "431540",
+    "phone_number": "+91 94214 29094",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 02, Sonar Galli, opp. Masjid, Kumar Galli, Gandhi Park, Parbhani, Maharashtra 431401",
+    "area": "Kumar Galli, Gandhi Park",
+    "latitude": 19.2684464,
+    "longitude": 76.7718668,
+    "place_id": "ChIJqZCuyFYZ0DsRr4K93tYvHxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqZCuyFYZ0DsRr4K93tYvHxA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:44:31"
+  },
+  {
+    "business_name": "Hindavi Jwellers",
+    "search_category": "Goldsmith and Jewellery Repair",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "431540",
+    "phone_number": "+91 88889 19124",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no5 ahuja complex, near ashtbhuja devi mandir, Shivaji chwok, Parbhani, Maharashtra 431401",
+    "area": "Shivaji chwok",
+    "latitude": 19.266777899999997,
+    "longitude": 76.7708088,
+    "place_id": "ChIJiRnXrV4Z0DsRomtq8CrJgI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiRnXrV4Z0DsRomtq8CrJgI8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:44:31"
+  }
+]

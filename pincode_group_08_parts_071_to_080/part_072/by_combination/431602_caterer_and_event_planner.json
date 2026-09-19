@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Best Catering Services",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer and Event Planner",
+    "all_categories": "Caterer and Event Planner",
+    "pincode": "431602",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lalbadi, Shrawasti Nagar, Nanded, Maharashtra 431602",
+    "area": "Lalbadi, Shrawasti Nagar",
+    "latitude": 19.165094699999997,
+    "longitude": 77.29209279999999,
+    "place_id": "ChIJeV3QVXnW0TsRVdH6aEb7Apg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeV3QVXnW0TsRVdH6aEb7Apg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:52:12"
+  },
+  {
+    "business_name": "Swayamwar INN Mangal Karyalaya",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company",
+    "pincode": "431602",
+    "phone_number": "+91 96236 44999",
+    "website": "https://www.instagram.com/swayamwar.inn.mangal.karyalay?igsh=djJvcmN1ZDg3c2xm",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "beside Manju Palace Hotel, P-3, MIDC Nandad, Nanded, Balirampur, Maharashtra 431603",
+    "area": "P-3, MIDC Nandad",
+    "latitude": 19.1161529,
+    "longitude": 77.3347337,
+    "place_id": "ChIJl81Gei0ozjsRTaujw3pfTIs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl81Gei0ozjsRTaujw3pfTIs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:52:12"
+  }
+]

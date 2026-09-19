@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S.K.L JEWELLERS",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jeweler",
+    "all_categories": "Jeweler",
+    "pincode": "431807",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "STATION ROAD, Peth Umri, Maharashtra 431807",
+    "area": "431807",
+    "latitude": 19.0378828,
+    "longitude": 77.64230959999999,
+    "place_id": "ChIJWVsDXYIZzjsRPLH5pqVz0RA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWVsDXYIZzjsRPLH5pqVz0RA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:09:22"
+  },
+  {
+    "business_name": "SVU JEWELLERS",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "431807",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2JQV+M3, Peth Umri, Maharashtra 431807",
+    "area": "431807",
+    "latitude": 19.0391652,
+    "longitude": 77.6426682,
+    "place_id": "ChIJ4QYvBAAZzjsRbwGC4vTk_v0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4QYvBAAZzjsRbwGC4vTk_v0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:09:22"
+  }
+]

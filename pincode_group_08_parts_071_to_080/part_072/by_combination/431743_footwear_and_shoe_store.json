@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditya Shoes And Ports",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "431743",
+    "phone_number": "+91 84598 15193",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Aditya Shoes And Ports, Vasant Nagar, Umarkhed, Maharashtra 445206",
+    "area": "Vasant Nagar",
+    "latitude": 19.6063255,
+    "longitude": 77.6816509,
+    "place_id": "ChIJu3QZg-yT0TsRk4gYQgH-RYQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu3QZg-yT0TsRk4gYQgH-RYQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:49:38"
+  },
+  {
+    "business_name": "Raja Boot House",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store, Grocery store",
+    "pincode": "431743",
+    "phone_number": "+91 84213 41908",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Main.road shembal pimpri pusad, Maharashtra 445209",
+    "area": "431743",
+    "latitude": 19.7088894,
+    "longitude": 77.4708265,
+    "place_id": "ChIJsdAq5Vej0TsREGKrwiqHXWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsdAq5Vej0TsREGKrwiqHXWE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:49:38"
+  }
+]

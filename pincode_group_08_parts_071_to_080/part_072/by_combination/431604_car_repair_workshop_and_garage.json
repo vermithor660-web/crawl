@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aijaz Auto Mechanic",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Mechanic",
+    "pincode": "431604",
+    "phone_number": "+91 83902 06161",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "shop no. 1, near bill Nagar, Hilal Nagar, Deglour Naka, Nanded, Maharashtra 431604",
+    "area": "Hilal Nagar, Deglour Naka",
+    "latitude": 19.1500775,
+    "longitude": 77.3358542,
+    "place_id": "ChIJW8sWk3vX0TsR23suly7isTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW8sWk3vX0TsR23suly7isTY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:55:23"
+  },
+  {
+    "business_name": "KHAN MOTAR GARAGE",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "431604",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hydrabad road, Dhanegaon, Maharashtra 431603",
+    "area": "Dhanegaon",
+    "latitude": 19.1298113,
+    "longitude": 77.3430671,
+    "place_id": "ChIJQ0vSjHjX0TsR09tdysPpMJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ0vSjHjX0TsR09tdysPpMJY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:55:23"
+  }
+]

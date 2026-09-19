@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganesh Hair Salun",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431736",
+    "phone_number": "+91 99759 96011",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop 1 Shankar Nagar, Degloor - Nanded Rd, Shankar Nagar, Nanded, Maharashtra 431709",
+    "area": "Shankar Nagar",
+    "latitude": 18.8089624,
+    "longitude": 77.5440735,
+    "place_id": "ChIJcVpfzVI_zjsRk4JJhtSHqjw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcVpfzVI_zjsRk4JJhtSHqjw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:44:17"
+  },
+  {
+    "business_name": "Krushna Gents Parlour",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431736",
+    "phone_number": "+91 75077 27198",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Degloor - Nanded Rd, Narsi, Maharashtra 431709",
+    "area": "431736",
+    "latitude": 18.811566799999998,
+    "longitude": 77.5428738,
+    "place_id": "ChIJS7J1lnk_zjsRbIMcwjN_bXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS7J1lnk_zjsRbIMcwjN_bXo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:44:17"
+  }
+]

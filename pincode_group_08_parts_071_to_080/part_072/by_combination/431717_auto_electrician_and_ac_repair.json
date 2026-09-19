@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PATELS MOTORS",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service",
+    "pincode": "431717",
+    "phone_number": "+91 76608 48151",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Gut no.42, Nanded-Hyderabad Road, Proposed NH No.161, Dist, Deglur, Maharashtra 431717",
+    "area": "431717",
+    "latitude": 18.542486,
+    "longitude": 77.587352,
+    "place_id": "ChIJ3yVhyBJnzjsRAjyTut7_64Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3yVhyBJnzjsRAjyTut7_64Y",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:27:30"
+  },
+  {
+    "business_name": "Khushi",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "431717",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "123, Deglur, Maharashtra 431717",
+    "area": "Shahaji Nagar",
+    "latitude": 18.5494576,
+    "longitude": 77.5763039,
+    "place_id": "ChIJHzO6YuNnzjsRzgjtzG7l28g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHzO6YuNnzjsRzgjtzG7l28g",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:27:30"
+  }
+]

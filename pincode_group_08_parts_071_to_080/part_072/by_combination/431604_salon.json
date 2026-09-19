@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Bombay Hair Saloon And Mens Parlour",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "431604",
+    "phone_number": "+91 98810 65777",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, Siraj Road, opp. Ajanta Tiles Barkat Complex, near Mafco, Hyder Bagh, Dashmesh Nagar, Deglour Naka, Nanded, Maharashtra 431604",
+    "area": "Hyder Bagh, Dashmesh Nagar, Deglour Naka",
+    "latitude": 19.1530438,
+    "longitude": 77.32820009999999,
+    "place_id": "ChIJNQCtwJTX0TsR1CeOljTbzSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNQCtwJTX0TsR1CeOljTbzSs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:55:40"
+  },
+  {
+    "business_name": "Ravi Cutting Salon",
+    "search_category": "Salon",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "431604",
+    "phone_number": "+91 97660 26373",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 10,
+    "address": "Hydar Bagh No 1 Near Hydar Hall Degloor Naka Hydar Bagh No 1, Nanded, Maharashtra 431604",
+    "area": "Hyder Bagh, Dashmesh Nagar, Deglour Naka",
+    "latitude": 19.1563824,
+    "longitude": 77.33356669999999,
+    "place_id": "ChIJQaN17xLX0TsRvv7mry7hQ9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQaN17xLX0TsRvv7mry7hQ9U",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:55:42"
+  }
+]

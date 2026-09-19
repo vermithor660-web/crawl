@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Katraj Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "431712",
+    "phone_number": "+91 76666 90517",
+    "website": "https://katrajdairy.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Barangani Rd, Nanded Fata, Pandurang Industrial Area, Nanded, Pune, Maharashtra 411068",
+    "area": "Nanded Fata, Pandurang Industrial Area, Nanded",
+    "latitude": 18.4538787,
+    "longitude": 73.79863139999999,
+    "place_id": "ChIJE69d3_qVwjsRpyywz5s4l3E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE69d3_qVwjsRpyywz5s4l3E",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:17:22"
+  },
+  {
+    "business_name": "Wagh Dudh Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy",
+    "all_categories": "Dairy",
+    "pincode": "431712",
+    "phone_number": "+91 86992 31190",
+    "website": "https://wagh-dudh-dairy.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "57XV+9RV, Taroda Kh., Thodada khurd, Ayodya Nagri, Nanded, Maharashtra 431605",
+    "area": "Taroda Kh., Thodada khurd, Ayodya Nagri",
+    "latitude": 19.198577099999998,
+    "longitude": 77.2945938,
+    "place_id": "ChIJ9X5nEQDX0TsRFYBiaCz-l-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9X5nEQDX0TsRFYBiaCz-l-s",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:17:22"
+  }
+]

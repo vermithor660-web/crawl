@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Airport road Nanded",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "431704",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 4,
+    "address": "58MP+H28, Airport Rd, Ambekar Nagar, Nanded, Maharashtra 431605",
+    "area": "Ambekar Nagar",
+    "latitude": 19.1839171,
+    "longitude": 77.3350684,
+    "place_id": "ChIJMavIdADX0TsRKDmVcZ-eEyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMavIdADX0TsRKDmVcZ-eEyM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:05:46"
+  },
+  {
+    "business_name": "Clearcabsrental",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "431704",
+    "phone_number": "N/A",
+    "website": "https://clearcabsrental.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Gut.no 10/2, anandi park, po.no 71 & 72, Chhatrapati Sambhajinagar, Wadgaon Kolhati, Maharashtra 431136",
+    "area": "431704",
+    "latitude": 19.8639397,
+    "longitude": 75.24117609999999,
+    "place_id": "ChIJyXhMsD2b2zsRcP6BjMR5Sb4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXhMsD2b2zsRcP6BjMR5Sb4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:05:47"
+  }
+]

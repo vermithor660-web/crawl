@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anywhere Auto Repair",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic, Service establishment",
+    "pincode": "431722",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Anywhere Auto Repair, 431722, India",
+    "area": "431722",
+    "latitude": -36.832834399999996,
+    "longitude": 174.7265725,
+    "place_id": "ChIJ3fFJy4RGIqoR7sq7Lii2sOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3fFJy4RGIqoR7sq7Lii2sOs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:37:36"
+  },
+  {
+    "business_name": "Sri Vinayaka Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "431722",
+    "phone_number": "+91 99727 30712",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "1, Halasuru, Lingayana Palya, Bengaluru, Karnataka 560008",
+    "area": "Halasuru, Lingayana Palya",
+    "latitude": 12.9733796,
+    "longitude": 77.6290688,
+    "place_id": "ChIJATBFP58WrjsRrIlrouvW1Pk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJATBFP58WrjsRrIlrouvW1Pk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:37:39"
+  }
+]

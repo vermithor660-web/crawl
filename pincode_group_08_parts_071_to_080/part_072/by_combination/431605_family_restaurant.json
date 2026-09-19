@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Swarajya Family Restaurant & Lodging",
+    "search_category": "Family Restaurant",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Family restaurant, Garden, Lodge",
+    "pincode": "431605",
+    "phone_number": "+91 86059 91515",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 103,
+    "address": "Nagpur Highway, Hingoli Road, Nanded, Pimpalgaon Mahadeo, Maharashtra 431605",
+    "area": "431605",
+    "latitude": 19.2049493,
+    "longitude": 77.34507099999999,
+    "place_id": "ChIJz1dRLQDX0TsRCMDZBJ4Id1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz1dRLQDX0TsRCMDZBJ4Id1A",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:56:45"
+  },
+  {
+    "business_name": "Maharashtra Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Plywood supplier",
+    "all_categories": "Plywood supplier",
+    "pincode": "431605",
+    "phone_number": "+91 88816 66186",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Jai Bhavani Chowk, Canal Road, beside Machchi Market Lane, Taroda Bk., Ashtvinayak Nagar, Nanded, Maharashtra 431605",
+    "area": "Taroda Bk., Ashtvinayak Nagar",
+    "latitude": 19.1854756,
+    "longitude": 77.3023876,
+    "place_id": "ChIJsdUcDnXX0TsR99XBk4kElTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsdUcDnXX0TsR99XBk4kElTA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:56:48"
+  }
+]

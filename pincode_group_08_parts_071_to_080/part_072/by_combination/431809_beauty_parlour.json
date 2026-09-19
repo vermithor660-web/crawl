@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GAYATRI BEAUTY PARLOUR",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "431809",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VRRW+9WF, PHULE NAGAR, Dharmabad, Maharashtra 431809",
+    "area": "PHULE NAGAR",
+    "latitude": 18.89093,
+    "longitude": 77.8472874,
+    "place_id": "ChIJcxvEeQAJzjsRL14AxUSpGWI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcxvEeQAJzjsRL14AxUSpGWI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:14:14"
+  },
+  {
+    "business_name": "Ambika beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Hindu temple",
+    "all_categories": "Hindu temple",
+    "pincode": "431809",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VVQ3+H75, Dharmabad, Maharashtra 431809",
+    "area": "431809",
+    "latitude": 18.8889446,
+    "longitude": 77.8531689,
+    "place_id": "ChIJi4CfdtIJzjsRGAJu9nOTVWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi4CfdtIJzjsRGAJu9nOTVWE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:14:14"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel New Santoshi",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431717",
+    "phone_number": "+91 90499 45259",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 16,
+    "address": "Besides Vyankateshwara Orthopaedic Hospital & Trauma Centre, Deglur, Maharashtra 431717",
+    "area": "431717",
+    "latitude": 18.5456358,
+    "longitude": 77.5790045,
+    "place_id": "ChIJpyEYcTZnzjsRXYErFRfVLw4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpyEYcTZnzjsRXYErFRfVLw4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:26:53"
+  },
+  {
+    "business_name": "NEW AMARDEEP HOTEL",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "431717",
+    "phone_number": "+91 86377 67595",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 115,
+    "address": "Degloor - Hyderabad Rd, Datta Nagar, Deglur, Maharashtra 431717",
+    "area": "Datta Nagar",
+    "latitude": 18.5443201,
+    "longitude": 77.58650709999999,
+    "place_id": "ChIJY398AN5nzjsR0oYVrmez-vk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY398AN5nzjsR0oYVrmez-vk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:26:56"
+  }
+]

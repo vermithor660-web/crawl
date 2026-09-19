@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Sunil More’s - Samruddhi Speciality Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center, Diabetologist, Health consultant, Doctor, Medical examiner",
+    "pincode": "431811",
+    "phone_number": "+91 95521 01612",
+    "website": "https://drsunilmore.getmy.clinic/?utm_source=gmb&utm_medium=web&utm_campaign=tu",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop no: F - 56 , 1st floor, Destination Center 1, Nanded, Pune, Maharashtra 411068",
+    "area": "Nanded",
+    "latitude": 18.4603492,
+    "longitude": 73.7859936,
+    "place_id": "ChIJv2rFnHGVwjsR9zkwwpqLJ7Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv2rFnHGVwjsR9zkwwpqLJ7Y",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:17:53"
+  },
+  {
+    "business_name": "Shreeyash Clinic",
+    "search_category": "Clinics",
+    "primary_category": "Gynecologist",
+    "all_categories": "Gynecologist, Doctor, Obstetrician-gynecologist",
+    "pincode": "431811",
+    "phone_number": "+91 84840 35959",
+    "website": "https://shreeyashhospital.com/",
+    "rating": 4,
+    "reviews_count": 32,
+    "address": "F6, Destination Center 1, Sinhgad Rd, Nanded Fata, Nanded, Pune, Maharashtra 411068",
+    "area": "Nanded Fata, Nanded",
+    "latitude": 18.4597333,
+    "longitude": 73.7859929,
+    "place_id": "ChIJ8euzEbyVwjsRuPtcPgriOP8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8euzEbyVwjsRuPtcPgriOP8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 08:17:53"
+  }
+]

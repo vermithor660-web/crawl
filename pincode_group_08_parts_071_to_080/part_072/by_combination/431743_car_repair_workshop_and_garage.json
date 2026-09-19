@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shreya Battery",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "431743",
+    "phone_number": "+91 99221 44847",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No1, near Hadgaon Road, Niwdha, Maharashtra 431743",
+    "area": "431743",
+    "latitude": 19.581766899999998,
+    "longitude": 77.56693469999999,
+    "place_id": "ChIJN6c30TCV0TsR5SsN9Fz_gjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN6c30TCV0TsR5SsN9Fz_gjQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:49:56"
+  },
+  {
+    "business_name": "Datta Bapu Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "431743",
+    "phone_number": "+91 90968 61462",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Shop No, 1, Hadgaon - Tamsa Rd, Hadgaon, Maharashtra 431712",
+    "area": "431743",
+    "latitude": 19.4992593,
+    "longitude": 77.6483373,
+    "place_id": "ChIJh-Cx-Tvr0TsRBVnhyNwpBvo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh-Cx-Tvr0TsRBVnhyNwpBvo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:49:56"
+  }
+]

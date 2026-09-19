@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Samad Cycle Store",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "431802",
+    "phone_number": "+91 77699 46594",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1 Samad Cycle Store Darlum, Chouk, Himayatnagar, Maharashtra 431802",
+    "area": "Rukhmini Nagar",
+    "latitude": 19.4248708,
+    "longitude": 77.87726119999999,
+    "place_id": "ChIJ3biI9XX30TsRLYTI4ig5yyU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3biI9XX30TsRLYTI4ig5yyU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:59:53"
+  },
+  {
+    "business_name": "Ali Cycle Repair/Spare",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "431802",
+    "phone_number": "+91 99125 08452",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Tuljaram Nagar, Hyderabad, Telangana 500006",
+    "area": "Tuljaram Nagar",
+    "latitude": 17.369999999999997,
+    "longitude": 78.44676,
+    "place_id": "ChIJozEBgqSXyzsRZgLzTUACrQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJozEBgqSXyzsRZgLzTUACrQ8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:59:55"
+  }
+]

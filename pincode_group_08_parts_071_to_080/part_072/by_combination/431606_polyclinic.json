@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "care point poly clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "431606",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vishnu Nagar, Nanded, Maharashtra 431602",
+    "area": "Vishnu Nagar",
+    "latitude": 19.1647812,
+    "longitude": 77.3118092,
+    "place_id": "ChIJXRursV3W0TsRrrqYQyTQico",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXRursV3W0TsRrrqYQyTQico",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:58:50"
+  },
+  {
+    "business_name": "Akmal Poly Clinic",
+    "search_category": "Polyclinic",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "431606",
+    "phone_number": "+91 94231 38577",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5883+QPH, Opp. Paras Medical Stores, Ganesh Nagar Road, Phule Market, Mahatma Phule Market, Nanded, Maharashtra 431602",
+    "area": "Shivaji Nagar, Vishnu Nagar",
+    "latitude": 19.1669417,
+    "longitude": 77.30434629999999,
+    "place_id": "ChIJq6FsUGHW0TsRpRXonlbQVOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6FsUGHW0TsRpRXonlbQVOs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:58:50"
+  }
+]

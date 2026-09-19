@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AAA Rental LLP",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Equipment rental agency",
+    "all_categories": "Equipment rental agency, Audiovisual equipment rental service, Electronics hire shop, Computer Rental Agency, Event technology service, Office equipment rental service, Sports Equipment Rental Agency, Tool rental service, Video game rental kiosk",
+    "pincode": "431731",
+    "phone_number": "+91 99994 65257",
+    "website": "https://indianrenters.com/",
+    "rating": 4.9,
+    "reviews_count": 378,
+    "address": "Office No.3, 1st Floor Kajale Heights, Paud Phata Road, Karve Rd, Kothrud, Pune, Maharashtra 411052",
+    "area": "Bharatkunj -2, Kothrud",
+    "latitude": 18.505506699999998,
+    "longitude": 73.8250036,
+    "place_id": "ChIJgybkYYS_wjsRFulQk7Sbe6U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgybkYYS_wjsRFulQk7Sbe6U",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:42:17"
+  },
+  {
+    "business_name": "Demos Sound Video Light",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Audiovisual equipment rental service",
+    "all_categories": "Audiovisual equipment rental service, Audio visual equipment supplier, DJ service, DJ supply store, Service establishment, Party equipment rental service",
+    "pincode": "431731",
+    "phone_number": "07708 278535",
+    "website": "https://www.demossvl.com/",
+    "rating": 5,
+    "reviews_count": 39,
+    "address": "Demos Sound Video Light, 431731, India",
+    "area": "431731",
+    "latitude": 51.7985609,
+    "longitude": 0.6384113,
+    "place_id": "ChIJEYrXeiXq2EcRkh44C8jEreg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEYrXeiXq2EcRkh44C8jEreg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:42:18"
+  }
+]

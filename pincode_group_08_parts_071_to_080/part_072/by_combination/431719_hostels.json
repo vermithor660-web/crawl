@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tirupati boys hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "431719",
+    "phone_number": "+91 74988 64188",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tirupati Hostel, Markhel hostel, Markhel, Maharashtra 431718",
+    "area": "431719",
+    "latitude": 18.4302731,
+    "longitude": 77.4712236,
+    "place_id": "ChIJH3cuBK5fzjsRKzHiyUJ8M_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH3cuBK5fzjsRKzHiyUJ8M_A",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:32:07"
+  },
+  {
+    "business_name": "RUTUJA GIRLS HOSTEL",
+    "search_category": "Hostels",
+    "primary_category": "Girls' hostel",
+    "all_categories": "Girls' hostel",
+    "pincode": "431719",
+    "phone_number": "+91 89759 68284",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 35,
+    "address": "Markhel, Maharashtra 431718",
+    "area": "431719",
+    "latitude": 18.4309054,
+    "longitude": 77.4720742,
+    "place_id": "ChIJfTDe5AlfzjsRY-wA3PH47DI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfTDe5AlfzjsRY-wA3PH47DI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:32:07"
+  }
+]

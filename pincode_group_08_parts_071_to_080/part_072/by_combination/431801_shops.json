@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DUDHSAGAR DAIRY & DAILY NEEDS",
+    "search_category": "Shops",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "431801",
+    "phone_number": "+91 95270 70973",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Shop No 1, Bhokar, Maharashtra 431801",
+    "area": "431801",
+    "latitude": 19.2118272,
+    "longitude": 77.67310479999999,
+    "place_id": "ChIJ1dB_-6Hj0TsRLf66O_EFF0E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1dB_-6Hj0TsRLf66O_EFF0E",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:59:02"
+  },
+  {
+    "business_name": "Shafi Paan Shop",
+    "search_category": "Shops",
+    "primary_category": "Tobacco shop",
+    "all_categories": "Tobacco shop, Bakery and Cake Shop",
+    "pincode": "431801",
+    "phone_number": "+91 89995 25850",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "Shop No 1 Dr Ambedkar Square, Bhokar - Kinwat Rd, Ambedkar Square, Bhokar, Maharashtra 431801",
+    "area": "Ambedkar Square",
+    "latitude": 19.220675,
+    "longitude": 77.66985509999999,
+    "place_id": "ChIJfTzeCcLj0TsRi22gGSPPEe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfTzeCcLj0TsRi22gGSPPEe4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 07:59:04"
+  }
+]

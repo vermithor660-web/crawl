@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sana Washing Center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "431540",
+    "phone_number": "+91 78758 45796",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No, 6, Dargah Rd, Kausadi Village, Parbhani, Maharashtra 431401",
+    "area": "Kausadi Village",
+    "latitude": 19.2735603,
+    "longitude": 76.75003099999999,
+    "place_id": "ChIJH0TwCogX0DsRBPF-qRKBwhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH0TwCogX0DsRBPF-qRKBwhA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:44:46"
+  },
+  {
+    "business_name": "Ismail Washing Center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "431540",
+    "phone_number": "+91 90225 71353",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 01, Jintur Rd, near Khadrabad, opp. City Function Hall, Plot, Parbhani, Maharashtra 431401",
+    "area": "Plot",
+    "latitude": 19.2680926,
+    "longitude": 76.76304809999999,
+    "place_id": "ChIJLfxtx_wZ0DsRimnGODTN5tI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLfxtx_wZ0DsRimnGODTN5tI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:44:48"
+  }
+]

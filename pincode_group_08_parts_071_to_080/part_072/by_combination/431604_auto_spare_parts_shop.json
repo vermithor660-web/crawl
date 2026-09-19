@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NEW INDIA AUTOMOBILE",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "431604",
+    "phone_number": "+91 98908 53321",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, Parmar Complex, Bafna T- Point, near National Lassi, Samrat Nagar, Hyder Bagh, Dashmesh Nagar, Harsh Nagar, Nanded, Maharashtra 431604",
+    "area": "Samrat Nagar, Hyder Bagh, Dashmesh Nagar, Harsh Nagar",
+    "latitude": 19.1582298,
+    "longitude": 77.322261,
+    "place_id": "ChIJ02vE7YjX0TsRJriQzy5z5x0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ02vE7YjX0TsRJriQzy5z5x0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:55:24"
+  },
+  {
+    "business_name": "Marathwada Automobile",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "431604",
+    "phone_number": "+91 77219 75928",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Datt nagar apposite Grish gas pump, Hingoli road, Nanded, Maharashtra 431604",
+    "area": "Nandigram Society, Hyder Bagh, Dashmesh Nagar, Harsh Nagar",
+    "latitude": 19.1648025,
+    "longitude": 77.32270319999999,
+    "place_id": "ChIJN24ZZVrX0TsRCzGcXccN6Yk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN24ZZVrX0TsRCzGcXccN6Yk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:55:26"
+  }
+]
