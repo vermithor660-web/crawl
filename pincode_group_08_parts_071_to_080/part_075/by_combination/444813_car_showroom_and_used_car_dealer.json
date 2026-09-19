@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "My Car Wakad showroom",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "DS Automobiles dealer",
+    "all_categories": "DS Automobiles dealer, Service establishment",
+    "pincode": "444813",
+    "phone_number": "+91 93265 30074",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "My Car Wakad showroom, 444813, India",
+    "area": "444813",
+    "latitude": 18.5980019,
+    "longitude": 73.76115089999999,
+    "place_id": "ChIJkwUKZJEDcAkRTCoBhmjPEDo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkwUKZJEDcAkRTCoBhmjPEDo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:23:36"
+  },
+  {
+    "business_name": "Aaditya e vehicle",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Electric motor vehicle dealer",
+    "all_categories": "Electric motor vehicle dealer",
+    "pincode": "444813",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "WHF3+WRQ, Bhimpur, Madhya Pradesh 460330",
+    "area": "444813",
+    "latitude": 21.9247978,
+    "longitude": 77.5544053,
+    "place_id": "ChIJLyxxCAA91jsRQZwxVdDT_aQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLyxxCAA91jsRQZwxVdDT_aQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:23:36"
+  }
+]

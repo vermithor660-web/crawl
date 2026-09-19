@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vighnaharta Multispeciality Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Orthopedic surgeon",
+    "all_categories": "Orthopedic surgeon, Surgeon",
+    "pincode": "445102",
+    "phone_number": "+91 76201 73063",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "8Q5C+G8C, yavatmal road, near Rural Hospital, Darwha, Maharashtra 445202",
+    "area": "445102",
+    "latitude": 20.3138749,
+    "longitude": 77.7770925,
+    "place_id": "ChIJA7w4sWVd0TsRbsJH0t2We78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA7w4sWVd0TsRbsJH0t2We78",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:46:22"
+  },
+  {
+    "business_name": "Shah Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "445102",
+    "phone_number": "+91 72322 41275",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "94PG+QJM Shinde road, 38/183, Arni Rd, near Bust stand, Vidhardh Housing Society, Yavatmal, Maharashtra 445001",
+    "area": "Vidhardh Housing Society",
+    "latitude": 20.3866416,
+    "longitude": 78.1263395,
+    "place_id": "ChIJcQ9Wdrro0zsRALHjngOotxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQ9Wdrro0zsRALHjngOotxc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:46:23"
+  }
+]

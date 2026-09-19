@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tiwari cake house",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "444801",
+    "phone_number": "N/A",
+    "website": "https://chat.whatsapp.com/HaUviqLfJbjHfLqSfe6LGD?s=sh&p=a&mlu=0&ilr=0",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "road, near rajani mangal karaylay, Reosa, Amravati, Maharashtra 444602",
+    "area": "444801",
+    "latitude": 21.0050515,
+    "longitude": 77.7212431,
+    "place_id": "ChIJSWE--_K91jsR_D1a_mkEQDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSWE--_K91jsR_D1a_mkEQDQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:05:24"
+  },
+  {
+    "business_name": "MARKAZ BAKERY",
+    "search_category": "Patisserie",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "444801",
+    "phone_number": "+91 99605 47479",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "no 1, darm kata, Walgaon Rd, Navsaari, Amravati, Maharashtra 444601",
+    "area": "Navsaari",
+    "latitude": 20.952928399999998,
+    "longitude": 77.7384412,
+    "place_id": "ChIJ29K5ZgC91jsR3hzv633KnNQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ29K5ZgC91jsR3hzv633KnNQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:05:24"
+  }
+]

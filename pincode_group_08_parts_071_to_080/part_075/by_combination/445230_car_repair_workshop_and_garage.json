@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vignharta automobiles and motor garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "445230",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MX5V+7PW, Bhawani, Maharashtra 445230",
+    "area": "445230",
+    "latitude": 19.6582301,
+    "longitude": 77.9943282,
+    "place_id": "ChIJfSYND6gn0jsRrwvJuhnF1p4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfSYND6gn0jsRrwvJuhnF1p4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:18:08"
+  },
+  {
+    "business_name": "The Mechanic Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "445230",
+    "phone_number": "+91 72041 71338",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 48,
+    "address": "RV9F+WXQ, Lobo Complex, Bus Stop, Mangalore - Thokkottu - Konaje, University Rd, Thokottu, Permanur, Karnataka 575017",
+    "area": "Thokottu, Permanur",
+    "latitude": 12.819831299999999,
+    "longitude": 74.8749859,
+    "place_id": "ChIJjbPvLcpfozsRXWRQ68BSMHQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjbPvLcpfozsRXWRQ68BSMHQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:18:10"
+  }
+]

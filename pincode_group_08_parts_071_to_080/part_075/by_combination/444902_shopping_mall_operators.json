@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Trendset Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Barbecue restaurant, Bedroom furniture store, Clothing store, Food court, Movie theater, Silk store",
+    "pincode": "444902",
+    "phone_number": "+91 866 665 6658",
+    "website": "http://www.trendsetbuilders.com/trendset-mall.html",
+    "rating": 4.2,
+    "reviews_count": 37415,
+    "address": "No. 40, 1-56, MG Rd, Sai Nagar, Kala Nagar, Acharya Ranga Nagar, Benz Circle, Vijayawada, Andhra Pradesh 520008",
+    "area": "Sai Nagar, Kala Nagar, Acharya Ranga Nagar, Benz Circle",
+    "latitude": 16.498551799999998,
+    "longitude": 80.65346509999999,
+    "place_id": "ChIJGTuMcN36NToRQ03YfFQ3FLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGTuMcN36NToRQ03YfFQ3FLM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:28:11"
+  },
+  {
+    "business_name": "82° EAST SRMT Mall & Multiplex",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Food court, Movie theater",
+    "pincode": "444902",
+    "phone_number": "+91 884 668 8001",
+    "website": "https://srmt82east.com/",
+    "rating": 4.4,
+    "reviews_count": 22920,
+    "address": "4-21, Pithapuram - Kakinada Rd, Ramanayyapeta, Lalitha Nagar, Ramanayyapeta, Andhra Pradesh 533005",
+    "area": "Ramanayyapeta, Lalitha Nagar",
+    "latitude": 16.998074499999998,
+    "longitude": 82.24368009999999,
+    "place_id": "ChIJCwlSi0woODoR80JiQo-zni4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCwlSi0woODoR80JiQo-zni4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:28:11"
+  }
+]

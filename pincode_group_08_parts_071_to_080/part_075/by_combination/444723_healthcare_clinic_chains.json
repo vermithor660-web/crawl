@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Navjivan Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444723",
+    "phone_number": "+91 72126 62822",
+    "website": "https://www.navjivanhospital.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "WQPC+HFF, Shanti Nagar, Kanwar Nagar, Guruchhaya Colony, Dastur Nagar, Amravati, Maharashtra 444602",
+    "area": "Shanti Nagar, Kanwar Nagar, Guruchhaya Colony, Dastur Nagar",
+    "latitude": 20.936448499999997,
+    "longitude": 77.7711862,
+    "place_id": "ChIJv6xSppWk1jsRUaZ0zTJruyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv6xSppWk1jsRUaZ0zTJruyQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:04:01"
+  },
+  {
+    "business_name": "Urban Health Post",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444723",
+    "phone_number": "+91 72125 65753",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WPPV+Q6X, MH SH 200, Paki Pura, Amravati, Maharashtra 444601",
+    "area": "Paki Pura",
+    "latitude": 20.9369923,
+    "longitude": 77.7431144,
+    "place_id": "ChIJf8SZ7aq81jsRUfokYjhSp9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf8SZ7aq81jsRUfokYjhSp9g",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:04:02"
+  }
+]

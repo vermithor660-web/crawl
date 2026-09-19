@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tatoo Studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop",
+    "pincode": "444813",
+    "phone_number": "+91 76006 93089",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "No.2, E-4,1st Floor,Aaditya Enclave, opp. Kabadi, Bhulabhai Park, Ahmedabad, Gujarat 380022",
+    "area": "Bhulabhai Park, Behrampura",
+    "latitude": 23.0071147,
+    "longitude": 72.5877008,
+    "place_id": "ChIJkxhV1BuFXjkRKFHhM3ymwlU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkxhV1BuFXjkRKFHhM3ymwlU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:23:55"
+  },
+  {
+    "business_name": "Irezumi Tattoo Studio - Thiruvanmiyur",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo and piercing shop",
+    "all_categories": "Tattoo and piercing shop",
+    "pincode": "444813",
+    "phone_number": "+91 98846 44477",
+    "website": "http://irezumi.in/",
+    "rating": 4.9,
+    "reviews_count": 138,
+    "address": "Unit A, Ground Floor, Plot No. A10, Thiruvanmiyur Extension Scheme, 1st Ave Rd, Thiruvalluvar Nagar, Thiruvanmiyur, Chennai, Tamil Nadu 600041",
+    "area": "Valmiki Nagar, Thiruvalluvar Nagar, Thiruvanmiyur",
+    "latitude": 12.9772479,
+    "longitude": 80.2623947,
+    "place_id": "ChIJDy1AB8ddUjoReJj56ugsFaM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDy1AB8ddUjoReJj56ugsFaM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:23:56"
+  }
+]

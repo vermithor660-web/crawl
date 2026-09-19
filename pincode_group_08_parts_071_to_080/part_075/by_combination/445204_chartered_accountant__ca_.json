@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PARTH ACCOUNTING",
+    "search_category": "Chartered Accountant (CA)",
+    "primary_category": "Accountant",
+    "all_categories": "Accountant, Consultant",
+    "pincode": "445204",
+    "phone_number": "+91 72332 45072",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Street Address 183, Bhagya Nagar, Nagpur Road, Pusad, Maharashtra 445204",
+    "area": "445204",
+    "latitude": 19.91434,
+    "longitude": 77.570831,
+    "place_id": "ChIJF6K3RUl10TsRwoUHWNUuBtw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF6K3RUl10TsRwoUHWNUuBtw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:03:01"
+  },
+  {
+    "business_name": "PARTH ACCOUNTING SOLUTIONS",
+    "search_category": "Chartered Accountant (CA)",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm",
+    "pincode": "445204",
+    "phone_number": "+91 94236 52014",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shivraj Park, Karla Rd, Pusad, Maharashtra 445215",
+    "area": "445204",
+    "latitude": 19.9011688,
+    "longitude": 77.55891749999999,
+    "place_id": "ChIJMeRXdugL0TsRfLIaoa-K4go",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMeRXdugL0TsRfLIaoa-K4go",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:03:01"
+  }
+]

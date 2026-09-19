@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satish jambhulkar",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials supplier",
+    "all_categories": "Building materials supplier",
+    "pincode": "445101",
+    "phone_number": "+91 99707 04410",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ganori, Maharashtra 445101",
+    "area": "445101",
+    "latitude": 20.5546814,
+    "longitude": 78.1655792,
+    "place_id": "ChIJMVw3F0Dx0zsRFGrS4Ag-nCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMVw3F0Dx0zsRFGrS4Ag-nCw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:44:58"
+  },
+  {
+    "business_name": "Bapuji Hardware and Electric Materials",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "445101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bharat Mata Chauk, TQ, near Bharat Mata Chauk, At post, Kotha, Kalamb, Maharashtra 445101",
+    "area": "At post",
+    "latitude": 20.5244552,
+    "longitude": 78.2747138,
+    "place_id": "ChIJ3bCe3lTz0zsRD9fB7d9yizU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3bCe3lTz0zsRD9fB7d9yizU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:45:00"
+  }
+]

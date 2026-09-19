@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "अश्विनी अमृततुल्य",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "444908",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "F64F+J8V, MSH 10, Jarud, Maharashtra 444908",
+    "area": "444908",
+    "latitude": 21.456633,
+    "longitude": 78.2233239,
+    "place_id": "ChIJeTdedgDL1TsRrnBAJYHhKBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeTdedgDL1TsRrnBAJYHhKBU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:37:12"
+  },
+  {
+    "business_name": "Hot and cold cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "444908",
+    "phone_number": "+91 70201 71174",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Amravati Rd, opp. panchsheel petrol pump, Waddhamna, Maharashtra 440021",
+    "area": "444908",
+    "latitude": 21.13869,
+    "longitude": 78.9462764,
+    "place_id": "ChIJUZsBTfzr1DsRho5O-qB9_Io",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUZsBTfzr1DsRho5O-qB9_Io",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:37:12"
+  }
+]

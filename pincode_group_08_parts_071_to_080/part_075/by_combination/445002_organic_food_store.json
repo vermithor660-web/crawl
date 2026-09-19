@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "thakare vegtables",
+    "search_category": "Organic Food Store",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "445002",
+    "phone_number": "+91 95796 77958",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 21,
+    "address": "C45G+77W, Yerawar layout, Civil Lines, Sai Nagar, Bangar Nagar, Yavatmal, Maharashtra 445001",
+    "area": "Yerawar layout, Civil Lines, Sai Nagar, Bangar Nagar",
+    "latitude": 20.408256899999998,
+    "longitude": 78.1256638,
+    "place_id": "ChIJDbLTahzv0zsROZnxYedbOp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDbLTahzv0zsROZnxYedbOp8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:42:21"
+  },
+  {
+    "business_name": "Shree Renuka Organic Center",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "445002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Datt vihar apartment, Wadgaon Road, Jamb., Yavatmal, Maharashtra 445002",
+    "area": "Wadgaon Road",
+    "latitude": 20.371711599999998,
+    "longitude": 78.1123707,
+    "place_id": "ChIJ-RcmYPHp0zsRqfhwn9vQ8ic",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-RcmYPHp0zsRqfhwn9vQ8ic",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:42:22"
+  }
+]

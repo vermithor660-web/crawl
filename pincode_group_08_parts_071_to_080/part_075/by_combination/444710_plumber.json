@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Keshav plumbering service",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "444710",
+    "phone_number": "+91 97674 21203",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "Moshi pune, Chakan, Maharashtra 410501",
+    "area": "444710",
+    "latitude": 18.7586563,
+    "longitude": 73.8645885,
+    "place_id": "ChIJXQn7Bf7JwjsRdp1YvYWC7bg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXQn7Bf7JwjsRdp1YvYWC7bg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:55:36"
+  },
+  {
+    "business_name": "Balaji Plumbing and Civil Work",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "444710",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Railway Station, Old Mumbai - Pune Hwy, near Chinchwad, Wing F, Mohan Nagar, East, Chinchwad, Pimpri-Chinchwad, Maharashtra 411019",
+    "area": "Wing F, Mohan Nagar, East, Chinchwad",
+    "latitude": 18.6406277,
+    "longitude": 73.7940531,
+    "place_id": "ChIJaxUTusq5wjsR4XY9FG0j9vU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaxUTusq5wjsR4XY9FG0j9vU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:55:36"
+  }
+]

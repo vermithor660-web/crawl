@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Burhan",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "444904",
+    "phone_number": "+91 98900 12712",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Chandur Railway, Maharashtra 444904",
+    "area": "444904",
+    "latitude": 20.8172931,
+    "longitude": 77.9757125,
+    "place_id": "ChIJMfjsJgID1DsRAAAAMGt3yG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMfjsJgID1DsRAAAAMGt3yG4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:30:44"
+  },
+  {
+    "business_name": "Mahendra electricals",
+    "search_category": "Hardware Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "444904",
+    "phone_number": "+91 85548 91555",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RVCG+VFX, Malkhed, Maharashtra 444904",
+    "area": "444904",
+    "latitude": 20.822258899999998,
+    "longitude": 77.8760753,
+    "place_id": "ChIJr-FnEHGp1jsRFqgAtHkd6o4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-FnEHGp1jsRFqgAtHkd6o4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:30:44"
+  }
+]

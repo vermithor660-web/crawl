@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nisarg dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "444905",
+    "phone_number": "+91 80801 18112",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "658Q+X6M, warud road, Ashti, Maharashtra 442202",
+    "area": "444905",
+    "latitude": 21.2176303,
+    "longitude": 78.18763,
+    "place_id": "ChIJf8o_FgA71DsRGKyFGbLWook",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf8o_FgA71DsRGKyFGbLWook",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:31:58"
+  },
+  {
+    "business_name": "Jay Bajarang Hotel",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "444905",
+    "phone_number": "+91 87886 69176",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "F64F+J8V, MH MSH 10, Jarud, Maharashtra 444908",
+    "area": "444905",
+    "latitude": 21.4566221,
+    "longitude": 78.2233064,
+    "place_id": "ChIJQ2-LykDL1TsR_ZLkkmUyWxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ2-LykDL1TsR_ZLkkmUyWxk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:31:59"
+  }
+]

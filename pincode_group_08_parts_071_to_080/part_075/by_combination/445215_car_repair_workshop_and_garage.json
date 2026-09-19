@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhavesh Welding Shop",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "445215",
+    "phone_number": "+91 98507 09400",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "XF6F 895, Jamshetpur, Maharashtra 445215",
+    "area": "445215",
+    "latitude": 19.9632649,
+    "longitude": 77.47478129999999,
+    "place_id": "ChIJOfjSWfYL0TsRzn7VullgGII",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOfjSWfYL0TsRzn7VullgGII",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:14:35"
+  },
+  {
+    "business_name": "TRIMURTI MOTORS",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "445215",
+    "phone_number": "+91 97667 55884",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.12, Raviraj Nagar, Hanuman Ward, Pusad, Maharashtra 445204",
+    "area": "Raviraj Nagar, Hanuman Ward",
+    "latitude": 19.910429,
+    "longitude": 77.5686489,
+    "place_id": "ChIJQ-Gk4Lt10TsRyNAsJ-jHjVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ-Gk4Lt10TsRyNAsJ-jHjVM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:14:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Blade unisex Saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Hair salon",
+    "pincode": "445303",
+    "phone_number": "+91 90497 97479",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 35,
+    "address": "anandawan square, near royal plaza, railway station, road, Warora, Maharashtra 442907",
+    "area": "Indraprasth Nagar",
+    "latitude": 20.2493251,
+    "longitude": 79.01600909999999,
+    "place_id": "ChIJrVWL0x4W0zsRpS9ZpPbAFD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrVWL0x4W0zsRpS9ZpPbAFD0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:23:51"
+  },
+  {
+    "business_name": "Trends hair saloon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "445303",
+    "phone_number": "+91 72189 71494",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Lalguda, Maharashtra 445304",
+    "area": "445303",
+    "latitude": 20.0561851,
+    "longitude": 78.9560724,
+    "place_id": "ChIJrQETyJwf0zsRewmt4BaXyVc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrQETyJwf0zsRewmt4BaXyVc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:23:52"
+  }
+]

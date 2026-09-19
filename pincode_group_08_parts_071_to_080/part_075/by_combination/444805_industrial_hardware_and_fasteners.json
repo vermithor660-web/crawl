@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shriram Hardware",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "444805",
+    "phone_number": "+91 98606 62993",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Chawalmandi, Achalpur, Maharashtra 444806",
+    "area": "Chawalmandi",
+    "latitude": 21.260664,
+    "longitude": 77.51068049999999,
+    "place_id": "ChIJV6YqfKbz1jsRJjump9B0cAU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV6YqfKbz1jsRJjump9B0cAU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:13:54"
+  },
+  {
+    "business_name": "Vidharbh Hardware",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "444805",
+    "phone_number": "+91 95956 75756",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 4, Itwara Bazar Rd, Itwara, Amravati, Maharashtra 444601",
+    "area": "Itwara",
+    "latitude": 20.933223299999998,
+    "longitude": 77.7507662,
+    "place_id": "ChIJUStUpfml1jsRx7wR19Aceo4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUStUpfml1jsRx7wR19Aceo4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:13:54"
+  }
+]

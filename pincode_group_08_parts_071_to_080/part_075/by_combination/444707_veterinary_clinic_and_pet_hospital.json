@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veterinary clinic",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Veterinary pharmacy",
+    "all_categories": "Veterinary pharmacy",
+    "pincode": "444707",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "5J2V+CQQ, Adani, Maharashtra 445302",
+    "area": "444707",
+    "latitude": 20.150481499999998,
+    "longitude": 78.6445325,
+    "place_id": "ChIJsxyUYy6p0zsRvhlFZIRugJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsxyUYy6p0zsRvhlFZIRugJA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:50:05"
+  },
+  {
+    "business_name": "NIRBHAY DOG TRAINING CENTER",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Dog trainer",
+    "all_categories": "Dog trainer, Dog breeder",
+    "pincode": "444707",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "Gajanan nagar, Morshi, Yerla, Maharashtra 444905",
+    "area": "444707",
+    "latitude": 21.3108941,
+    "longitude": 77.9950744,
+    "place_id": "ChIJO1e_iBYp1DsR4l6h-NblSWM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO1e_iBYp1DsR4l6h-NblSWM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:50:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sri Datt Dudh Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store, Milk delivery service",
+    "pincode": "445102",
+    "phone_number": "+91 94218 45297",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "opp. Mahadev Mandir Mahila Vidhyalaya, Peshwe Plot, Yavatmal, Maharashtra 445001",
+    "area": "Peshwe Plot",
+    "latitude": 20.3923415,
+    "longitude": 78.1305062,
+    "place_id": "ChIJV1kdi7bo0zsRk4pj5YgCYao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV1kdi7bo0zsRk4pj5YgCYao",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:45:59"
+  },
+  {
+    "business_name": "Ma Bhawani Dudh Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "445102",
+    "phone_number": "+91 84599 62851",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "SHOP NO 5, Naringe Nagar, Pimpalgaon, Yavatmal, Maharashtra 445001",
+    "area": "Naringe Nagar, Pimpalgaon",
+    "latitude": 20.4116219,
+    "longitude": 78.1401022,
+    "place_id": "ChIJCViN4wfv0zsRIeX4pqDOPQ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCViN4wfv0zsRIeX4pqDOPQ4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:45:59"
+  }
+]

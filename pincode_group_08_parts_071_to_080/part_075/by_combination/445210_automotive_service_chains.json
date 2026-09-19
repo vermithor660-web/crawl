@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maruti Suzuki Authorised Service (M S Services)",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "445210",
+    "phone_number": "+91 93734 22822",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "P!ot 14, Hill Rd, Gandhi Nagar, Nagpur, Maharashtra 440010",
+    "area": "Gandhi Nagar",
+    "latitude": 21.1349982,
+    "longitude": 79.0522075,
+    "place_id": "ChIJAQAAcG_A1DsRJ5qQhYdiJzk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAcG_A1DsRJ5qQhYdiJzk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:11:15"
+  },
+  {
+    "business_name": "The Bombay Garage",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Auto body parts supplier, Auto body shop, Auto bodywork mechanic, Auto painting, Auto radiator repair service, Car repair and maintenance service, Car wash, Mechanic, Garage",
+    "pincode": "445210",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 7,
+    "address": "Sadesatra Nali, Sr. NO.201, DP Road, near Shree Datt Hotel, Chandan Nagar, Amanora Park Town, Hadapsar, Pune, Maharashtra 411028",
+    "area": "Chandan Nagar, Amanora Park Town, Hadapsar",
+    "latitude": 18.5127791,
+    "longitude": 73.9421733,
+    "place_id": "ChIJa-y_PmXDwjsR2GuldNLEBo4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa-y_PmXDwjsR2GuldNLEBo4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:11:16"
+  }
+]

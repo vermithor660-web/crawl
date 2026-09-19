@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mitra Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "444905",
+    "phone_number": "+91 99759 00100",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Morshi Rd, Medshi, Morshi, Maharashtra 444905",
+    "area": "Medshi",
+    "latitude": 21.3369647,
+    "longitude": 78.009985,
+    "place_id": "ChIJ7QRmPp0r1DsR0GD6Sdyu9WY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7QRmPp0r1DsR0GD6Sdyu9WY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:33:02"
+  },
+  {
+    "business_name": "Saraswati Book Centre",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Children's Book Store",
+    "pincode": "444905",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "Gandhi Market Morshi, Morshi, Maharashtra 444905",
+    "area": "Shivaji Nagar, Medshi",
+    "latitude": 21.3361107,
+    "longitude": 78.0101944,
+    "place_id": "ChIJpV0EIWwr1DsRbZaZQCXENCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpV0EIWwr1DsRbZaZQCXENCM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:33:02"
+  }
+]

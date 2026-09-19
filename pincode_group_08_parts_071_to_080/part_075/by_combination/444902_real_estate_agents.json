@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Realtors Group",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real Estate Builders & Construction Company",
+    "all_categories": "Real Estate Builders & Construction Company",
+    "pincode": "444902",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3255+86M, Gurudeonagar, Maharashtra 444902",
+    "area": "444902",
+    "latitude": 21.0583302,
+    "longitude": 78.0080393,
+    "place_id": "ChIJb95XYQAh1DsRF8t69CSaTDw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb95XYQAh1DsRF8t69CSaTDw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:27:56"
+  },
+  {
+    "business_name": "Shridhar Chopkar Home",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Home builder",
+    "all_categories": "Home builder",
+    "pincode": "444902",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "3X5W+FV4, Mojhri, Mozari, Maharashtra 444902",
+    "area": "Mojhri",
+    "latitude": 21.0586421,
+    "longitude": 77.9971968,
+    "place_id": "ChIJA1t6NTgh1DsR_FPJnFOCAWs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA1t6NTgh1DsR_FPJnFOCAWs",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:27:56"
+  }
+]

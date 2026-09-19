@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maya Hotel",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, Restaurant",
+    "pincode": "445202",
+    "phone_number": "+91 82750 56714",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Maya Hotel, opp. Bus Stand, Darwha, Maharashtra 445202",
+    "area": "445202",
+    "latitude": 20.3106436,
+    "longitude": 77.7735366,
+    "place_id": "ChIJQ73Srddd0TsRZjRoq17KwYM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ73Srddd0TsRZjRoq17KwYM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:58:23"
+  },
+  {
+    "business_name": "Rajasthan Sweet Mart Daund",
+    "search_category": "Sweet Stall / Mithai Shop",
+    "primary_category": "Sweet shop",
+    "all_categories": "Sweet shop",
+    "pincode": "445202",
+    "phone_number": "+91 86185 53185",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Harshal Apertment, Ahilya devi holkar chowk, near Chandukaka saraf, Shalimar Chowk, Daund, Maharashtra 413801",
+    "area": "Shalimar Chowk",
+    "latitude": 18.4594003,
+    "longitude": 74.5817046,
+    "place_id": "ChIJTWv7_uIVwzsRSJDsu1h3d9c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTWv7_uIVwzsRSJDsu1h3d9c",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:58:25"
+  }
+]

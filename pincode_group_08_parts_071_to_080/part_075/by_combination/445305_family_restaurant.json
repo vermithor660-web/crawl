@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL & RESORT NH-44 FOOD FOR FAMILY",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "445305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "hyderabad highway, near Jio petrol pump, Nagpur, Pandharkawada, Maharashtra 445302",
+    "area": "445305",
+    "latitude": 20.05498,
+    "longitude": 78.5470524,
+    "place_id": "ChIJP6udcdWv0zsR7BC_U3pHjFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP6udcdWv0zsR7BC_U3pHjFk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:26:45"
+  },
+  {
+    "business_name": "Shiv Shankar Dhaba and Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "445305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Near RTO checkpost, At. parsoda phata, Tal:, Parsoda, Maharashtra 442916",
+    "area": "445305",
+    "latitude": 19.732999799999998,
+    "longitude": 78.8563003,
+    "place_id": "ChIJsznY-Zvv0jsRP2aVVYVhwfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsznY-Zvv0jsRP2aVVYVhwfk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:26:47"
+  }
+]

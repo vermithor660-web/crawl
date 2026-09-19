@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HDFC Securities - Digras",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "445201",
+    "phone_number": "+91 92402 37953",
+    "website": "https://www.hdfcsec.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Upper Ground Floor, Plot No 3, Arni Road, near Dinbai School, Vishnukamal Nagar, Ganga Nagar, Digras, Maharashtra 445203",
+    "area": "Vishnukamal Nagar, Ganga Nagar",
+    "latitude": 20.105274599999998,
+    "longitude": 77.722701,
+    "place_id": "ChIJY5_cFmxv0TsRCOOZ9L1yV8g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY5_cFmxv0TsRCOOZ9L1yV8g",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:57:52"
+  },
+  {
+    "business_name": "Blue chip",
+    "search_category": "Stock Broker and Share Sub-broker",
+    "primary_category": "Investment service",
+    "all_categories": "Investment service, Service establishment",
+    "pincode": "445201",
+    "phone_number": "+91 98230 01223",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Blue chip, 445201, India",
+    "area": "445201",
+    "latitude": 20.5671696,
+    "longitude": 78.5196205,
+    "place_id": "ChIJrzXipwJ70zsRJs1GF9ACWn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrzXipwJ70zsRJs1GF9ACWn8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:57:54"
+  }
+]

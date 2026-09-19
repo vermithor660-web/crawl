@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Magical Wellness Academy",
+    "search_category": "Wellness Center",
+    "primary_category": "Health counselor",
+    "all_categories": "Health counselor",
+    "pincode": "445002",
+    "phone_number": "+91 84839 52062",
+    "website": "https://24x7fitnessnutritionclub.org/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "60, near Rup Nagar, near Amrai, Wadgaon Road, Rup Nagar, Wadgaon, Yavatmal, Maharashtra 445002",
+    "area": "Wadgaon Road, Rup Nagar, Wadgaon",
+    "latitude": 20.3759592,
+    "longitude": 78.102763,
+    "place_id": "ChIJHUyFvTbn0zsRdx5GztzFxoQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHUyFvTbn0zsRdx5GztzFxoQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:43:20"
+  },
+  {
+    "business_name": "Kashyathali Masaj Center",
+    "search_category": "Wellness Center",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "445002",
+    "phone_number": "+91 88050 25580",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 2, near Gajanan Maharaj Mandir, Wadgaon Road, Ganesh Nagar, Yavatmal, Maharashtra 445002",
+    "area": "Wadgaon Road, Ganesh Nagar",
+    "latitude": 20.375596899999998,
+    "longitude": 78.1169041,
+    "place_id": "ChIJ22NAZQHp0zsREp_H3Sjg9QU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ22NAZQHp0zsREp_H3Sjg9QU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:43:22"
+  }
+]

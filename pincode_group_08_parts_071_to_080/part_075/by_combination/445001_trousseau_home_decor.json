@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "TURANKAR FURNITURE MART",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Interior Decorator",
+    "all_categories": "Interior Decorator",
+    "pincode": "445001",
+    "phone_number": "+91 98501 94224",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Paras aqua, near sandip Mangalm, Ganesh Nagar, Gadge nagar, Yavatmal, Maharashtra 445001",
+    "area": "Ganesh Nagar, Gadge nagar",
+    "latitude": 20.4029876,
+    "longitude": 78.1281454,
+    "place_id": "ChIJX2I7hafv0zsR8lYUfO3MYq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX2I7hafv0zsR8lYUfO3MYq4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:41:40"
+  },
+  {
+    "business_name": "Kusum Furniture and Home Appliances",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "445001",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Arni Rd, in front of Narayanrao steel, Wadgaon Road, Darda Nagar, Arni Naka, Yavatmal, Maharashtra 445002",
+    "area": "Wadgaon Road, Darda Nagar, Arni Naka",
+    "latitude": 20.3807598,
+    "longitude": 78.116821,
+    "place_id": "ChIJsZn8lq3p0zsRV5SkjrDyieo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsZn8lq3p0zsRV5SkjrDyieo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:41:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nishant Transport",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "444908",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "4XM3+J59, Unnamed Road, Maharashtra 440021",
+    "area": "444908",
+    "latitude": 21.1340276,
+    "longitude": 78.9529828,
+    "place_id": "ChIJO2JYbG7r1DsR5oAqNHqYtJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO2JYbG7r1DsR5oAqNHqYtJ8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:37:42"
+  },
+  {
+    "business_name": "Bhartiya Transport Company",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "444908",
+    "phone_number": "+91 77740 41304",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Amravati Rd, Waddhamna, Nagpur, Waddhamna, Maharashtra 440021",
+    "area": "Waddhamna",
+    "latitude": 21.1386118,
+    "longitude": 78.951912,
+    "place_id": "ChIJ-f2x1Wrr1DsRKTHWTCDznvE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-f2x1Wrr1DsRKTHWTCDznvE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:37:42"
+  }
+]

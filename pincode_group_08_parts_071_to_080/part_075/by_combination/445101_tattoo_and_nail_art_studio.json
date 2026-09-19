@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tattoo King",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop",
+    "pincode": "445101",
+    "phone_number": "+91 79725 26290",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WH6H+92W, N Dahiwale Rd, Pusad, Maharashtra 445204",
+    "area": "445101",
+    "latitude": 19.910987499999997,
+    "longitude": 77.5775781,
+    "place_id": "ChIJx00NVUd10TsRvO6T0a_l-6M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx00NVUd10TsRvO6T0a_l-6M",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:45:06"
+  },
+  {
+    "business_name": "Monsan Tattoo & Art Studio",
+    "search_category": "Tattoo and Nail Art Studio",
+    "primary_category": "Tattoo and piercing shop",
+    "all_categories": "Tattoo and piercing shop, Tattoo shop",
+    "pincode": "445101",
+    "phone_number": "+91 62327 91582",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 350,
+    "address": "Link Rd, near by Celebration point, Betul, Madhya Pradesh 460001",
+    "area": "445101",
+    "latitude": 21.907125699999998,
+    "longitude": 77.8940435,
+    "place_id": "ChIJDZhU0eoJ1jsRZx6IRVr0zkM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDZhU0eoJ1jsRZx6IRVr0zkM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:45:07"
+  }
+]

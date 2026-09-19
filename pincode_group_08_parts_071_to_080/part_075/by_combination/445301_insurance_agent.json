@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SALIM FASTAG & GPS SERVICES",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agent",
+    "all_categories": "Insurance agent",
+    "pincode": "445301",
+    "phone_number": "+91 86230 47375",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Neharu ward, Pandharkawada, Maharashtra 445302",
+    "area": "445301",
+    "latitude": 20.0206132,
+    "longitude": 78.5435514,
+    "place_id": "ChIJT6ZwfACt0zsRSpZdY6CF5pQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT6ZwfACt0zsRSpZdY6CF5pQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:20:41"
+  },
+  {
+    "business_name": "Secure Life Consultant",
+    "search_category": "Insurance Agent",
+    "primary_category": "Life insurance agency",
+    "all_categories": "Life insurance agency",
+    "pincode": "445301",
+    "phone_number": "+91 89993 21832",
+    "website": "https://sites.google.com/view/insuranceadvisorsandip/home",
+    "rating": null,
+    "reviews_count": null,
+    "address": "At, tq, Pandharkawada, Maharashtra 445302",
+    "area": "445301",
+    "latitude": 20.0230036,
+    "longitude": 78.54900599999999,
+    "place_id": "ChIJ7ZKMGE-t0zsR5RNSSwgzaoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7ZKMGE-t0zsR5RNSSwgzaoA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:20:41"
+  }
+]

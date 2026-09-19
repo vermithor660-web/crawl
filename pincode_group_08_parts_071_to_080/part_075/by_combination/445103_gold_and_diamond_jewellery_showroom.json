@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SANDIP Jewellers",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "445103",
+    "phone_number": "+91 83297 92308",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sarafa bazar, near Dr. Babasaheb Ambedkar statue, Bhim Nagar, Arni, Maharashtra 445103",
+    "area": "Bhim Nagar",
+    "latitude": 20.0641279,
+    "longitude": 77.9516019,
+    "place_id": "ChIJTzVO8eDX0zsRLdV39YXMDXY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTzVO8eDX0zsRLdV39YXMDXY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:48:00"
+  },
+  {
+    "business_name": "VARMA JEWELLERS",
+    "search_category": "Gold and Diamond Jewellery Showroom",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "445103",
+    "phone_number": "+91 84129 16999",
+    "website": "https://www.facebook.com/varmajewellersarni/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Bhim Nagar, Arni, Maharashtra 445103",
+    "area": "Bhim Nagar",
+    "latitude": 20.0644381,
+    "longitude": 77.95193619999999,
+    "place_id": "ChIJAQAAALnX0zsR8WwnDylSjrs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAALnX0zsR8WwnDylSjrs",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:48:00"
+  }
+]

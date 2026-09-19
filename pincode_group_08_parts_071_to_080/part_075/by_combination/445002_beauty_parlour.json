@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saundarya Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "445002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "94VH+FV7, Infront of Postal Ground, Maharashtra 445001",
+    "area": "Pangari",
+    "latitude": 20.393667999999998,
+    "longitude": 78.1296768,
+    "place_id": "ChIJdzRunrbo0zsRlgSRD2ahCcM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdzRunrbo0zsRlgSRD2ahCcM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:43:18"
+  },
+  {
+    "business_name": "Blossom Beauty",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Health and beauty shop",
+    "pincode": "445002",
+    "phone_number": "+91 70667 22100",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 6, Bhave Mangal Karayalay, Poonam Chowk, Pangari, Yavatmal, Maharashtra 445001",
+    "area": "Pangari",
+    "latitude": 20.3949756,
+    "longitude": 78.1308846,
+    "place_id": "ChIJbZCmzLXo0zsRMfrLkKW60bQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZCmzLXo0zsRMfrLkKW60bQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:43:19"
+  }
+]

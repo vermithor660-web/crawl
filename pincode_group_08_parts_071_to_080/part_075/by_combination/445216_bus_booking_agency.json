@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAA SITA TRAVELS",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Airline ticket agency, Bus ticket agency, Bus tour agency, Car leasing service, Industrial real estate agency, Taxi service, Tour operator, Railway Ticket Agent, Transportation service",
+    "pincode": "445216",
+    "phone_number": "+91 96470 41749",
+    "website": "http://www.maasitatravels.in/",
+    "rating": 4.8,
+    "reviews_count": 52,
+    "address": "Chawlkhola Mandarmani Rd, Chawlkhola, Kanchibar, West Bengal 721455",
+    "area": "445216",
+    "latitude": 21.6994436,
+    "longitude": 87.63893829999999,
+    "place_id": "ChIJ4Twt8PwuAzoRsCaUeR96ENA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Twt8PwuAzoRsCaUeR96ENA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:16:28"
+  },
+  {
+    "business_name": "Capital Tours (India) Pvt. Ltd.",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Bus ticket agency",
+    "all_categories": "Bus ticket agency",
+    "pincode": "445216",
+    "phone_number": "+91 99577 38017",
+    "website": "https://capitaltravels.org/",
+    "rating": 3.8,
+    "reviews_count": 257,
+    "address": "403, Assam Trunk Rd, Paltan Bazaar, Guwahati, Assam 781008",
+    "area": "Paltan Bazaar",
+    "latitude": 26.178589799999997,
+    "longitude": 91.7531983,
+    "place_id": "ChIJfRbA9ylaWjcRPgG96mBp-To",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRbA9ylaWjcRPgG96mBp-To",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:16:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dera Stationery House",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Book store",
+    "pincode": "445202",
+    "phone_number": "+91 93169 22338",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 85,
+    "address": "Dera Stationery House, Old Court Main Bazzar, Kilianwali, Mandi Dabwali, Haryana 125104",
+    "area": "Kilianwali",
+    "latitude": 29.965086099999997,
+    "longitude": 74.69725799999999,
+    "place_id": "ChIJ12vwuMjYFjkRxlQEVtLfAAA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ12vwuMjYFjkRxlQEVtLfAAA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:59:24"
+  },
+  {
+    "business_name": "AL-MEHDI STATIONERY HUB",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "445202",
+    "phone_number": "+91 84919 76362",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 61,
+    "address": "Jamia Chowk, Sonpah, Jammu and Kashmir 193411",
+    "area": "445202",
+    "latitude": 34.0107122,
+    "longitude": 74.6046259,
+    "place_id": "ChIJcyHbMfaX4TgRpOSeqhVqM34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcyHbMfaX4TgRpOSeqhVqM34",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:59:24"
+  }
+]

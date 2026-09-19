@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jay Maharashtra Cold Drinks & Juice Centre",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "444806",
+    "phone_number": "+91 90756 51779",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Bus stop, Shahapur, Maharashtra 444303",
+    "area": "444806",
+    "latitude": 20.5121754,
+    "longitude": 76.7509019,
+    "place_id": "ChIJ3blXx3i10DsRCAP-RuLDRi0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3blXx3i10DsRCAP-RuLDRi0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:14:17"
+  },
+  {
+    "business_name": "S K Juice Centre",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "444806",
+    "phone_number": "+91 93731 53599",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, Mantha Rd, near Maharudra Hotel, Ranjani, Viregaon, Maharashtra 431214",
+    "area": "444806",
+    "latitude": 19.7150103,
+    "longitude": 76.13505339999999,
+    "place_id": "ChIJv7gIH92L2jsRlu8jE352hu8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7gIH92L2jsRlu8jE352hu8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:14:18"
+  }
+]

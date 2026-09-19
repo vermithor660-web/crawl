@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Wedding Camera",
+    "search_category": "Media and Event",
+    "primary_category": "Video production service",
+    "all_categories": "Video production service, Photographer, Photography service, Wedding photographer",
+    "pincode": "445305",
+    "phone_number": "+91 96403 46395",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3rd Floor, Arun Ice Cream Building, Bhuktapur, Adilabad, Telangana 504001",
+    "area": "445305",
+    "latitude": 19.672005199999997,
+    "longitude": 78.530486,
+    "place_id": "ChIJ0z2JmABd0jsRCeqKbNxsDWY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0z2JmABd0jsRCeqKbNxsDWY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:27:41"
+  },
+  {
+    "business_name": "The party House",
+    "search_category": "Media and Event",
+    "primary_category": "Theater company",
+    "all_categories": "Theater company",
+    "pincode": "445305",
+    "phone_number": "+91 95509 91110",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 47,
+    "address": "Teachers Colony, Adilabad, Telangana 504001",
+    "area": "Teachers Colony",
+    "latitude": 19.6570654,
+    "longitude": 78.5225988,
+    "place_id": "ChIJud8UVABd0jsRXiESc1P1IJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJud8UVABd0jsRXiESc1P1IJM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:27:41"
+  }
+]

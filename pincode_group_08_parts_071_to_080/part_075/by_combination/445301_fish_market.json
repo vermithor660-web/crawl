@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fish shop",
+    "search_category": "Fish Market",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "445301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "57J9+PXQ, Akpuri ., Maharashtra 445301",
+    "area": "445301",
+    "latitude": 20.1818462,
+    "longitude": 78.2699758,
+    "place_id": "ChIJOW3pZHPH0zsRt7I45YVgz_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOW3pZHPH0zsRt7I45YVgz_w",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:19:24"
+  },
+  {
+    "business_name": "Fish Center",
+    "search_category": "Fish Market",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "445301",
+    "phone_number": "+91 74996 63744",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "At Zatala TQ Ghatanji, Dist, Zatala, Maharashtra 445306",
+    "area": "445301",
+    "latitude": 19.966440799999997,
+    "longitude": 78.29406,
+    "place_id": "ChIJmxQKNOW10zsR4ptKunowtKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmxQKNOW10zsR4ptKunowtKU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:19:24"
+  }
+]

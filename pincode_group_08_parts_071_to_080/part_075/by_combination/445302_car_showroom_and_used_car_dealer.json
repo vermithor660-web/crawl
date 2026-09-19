@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Eros Hyundai",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Hyundai dealer",
+    "all_categories": "Hyundai dealer, Car dealer",
+    "pincode": "445302",
+    "phone_number": "+91 92090 66000",
+    "website": "https://eros.hyundaimotor.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Gayatri Sadan, Ghat Rd, Nagpur, Maharashtra 440018",
+    "area": "Sitabuldi",
+    "latitude": 21.1404072,
+    "longitude": 79.0891603,
+    "place_id": "ChIJzyq8XrzA1DsRMUdVwEIwEn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzyq8XrzA1DsRMUdVwEIwEn8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:21:47"
+  },
+  {
+    "business_name": "CARS24 Network - Sell Car in Yavatmal",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "445302",
+    "phone_number": "+91 89295 06692",
+    "website": "https://www.cars24.com/sell-used-car-yavatmal/?utm_source=gmb&utm_medium=organic&utm_campaign=franchise",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "RK AUTODEAL, Tipu Sultan Chowk, Bhosa Rd, Tarapur, Yavatmal, Maharashtra 445001",
+    "area": "Tarapur",
+    "latitude": 20.3845921,
+    "longitude": 78.1426175,
+    "place_id": "ChIJwdMFp4jp0zsRcd9mMWcKxXE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwdMFp4jp0zsRcd9mMWcKxXE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:21:48"
+  }
+]

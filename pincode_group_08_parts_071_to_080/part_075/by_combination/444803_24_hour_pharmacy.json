@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govind Medical & General Stoers",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "444803",
+    "phone_number": "+91 75880 84010",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gandhinagar, Daryapur Banosa, Maharashtra 444803",
+    "area": "Gandhinagar",
+    "latitude": 20.9280275,
+    "longitude": 77.3196842,
+    "place_id": "ChIJp72hcWjc1jsRGfHXMN43Dqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp72hcWjc1jsRGfHXMN43Dqg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:09:17"
+  },
+  {
+    "business_name": "Sahara Medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "444803",
+    "phone_number": "+91 97661 24271",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 02, Jameel Colony, Transport Nagar, Amravati, Maharashtra 444601",
+    "area": "Jameel Colony, Transport Nagar",
+    "latitude": 20.9442733,
+    "longitude": 77.7424912,
+    "place_id": "ChIJdZKeGgK91jsRi-_r3ySDNs4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdZKeGgK91jsRi-_r3ySDNs4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:09:19"
+  }
+]

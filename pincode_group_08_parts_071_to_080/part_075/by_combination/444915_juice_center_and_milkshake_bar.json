@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THE JUICY SHOP",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "444915",
+    "phone_number": "+91 81509 74488",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Kallianpura - Kemmannu Rd, opp. Nejar Ground, Gopalpura, Mudutonse, Karnataka 576115",
+    "area": "Gopalpura",
+    "latitude": 13.388524799999999,
+    "longitude": 74.7318213,
+    "place_id": "ChIJ21RwYZi9vDsRJtdKA-H-WSM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ21RwYZi9vDsRJtdKA-H-WSM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:38:52"
+  },
+  {
+    "business_name": "Shri Krishna Coldrinks &Dairy",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "444915",
+    "phone_number": "+91 98240 59212",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Panjara Pol, Ambawadi, Ahmedabad, Gujarat 380015",
+    "area": "Panjara Pol, Ambawadi",
+    "latitude": 23.0269868,
+    "longitude": 72.5442778,
+    "place_id": "ChIJLTK2J-iEXjkROZ74xEuMXR4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLTK2J-iEXjkROZ74xEuMXR4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:38:56"
+  }
+]

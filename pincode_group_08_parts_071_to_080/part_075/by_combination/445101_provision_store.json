@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna genral store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "445101",
+    "phone_number": "+91 97642 98563",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unnamed Road, Babhulgaon, Maharashtra 445101",
+    "area": "445101",
+    "latitude": 20.5563675,
+    "longitude": 78.1670322,
+    "place_id": "ChIJixWg0WHx0zsR8RFUVG5Vhy4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJixWg0WHx0zsR8RFUVG5Vhy4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:44:10"
+  },
+  {
+    "business_name": "Aradhya General's",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "445101",
+    "phone_number": "+91 87889 19575",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ward No. 2, Yavatmal Road, At Post, Sarul, Maharashtra 445101",
+    "area": "At Post",
+    "latitude": 20.6467568,
+    "longitude": 78.1456011,
+    "place_id": "ChIJ91IqY7_30zsRzMEa3uzt9Iw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91IqY7_30zsRzMEa3uzt9Iw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:44:10"
+  }
+]

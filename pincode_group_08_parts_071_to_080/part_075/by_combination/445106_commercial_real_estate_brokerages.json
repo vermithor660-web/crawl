@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Excel Realty",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Service establishment",
+    "pincode": "445106",
+    "phone_number": "N/A",
+    "website": "http://www.excelrealtyhomes.net/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Excel Realty, 445106, India",
+    "area": "445106",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJ1ZJwrMczTIYRIe1Sn6rN-Ls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ZJwrMczTIYRIe1Sn6rN-Ls",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:52:38"
+  },
+  {
+    "business_name": "NAGPURPROPERTY.COM",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "445106",
+    "phone_number": "+91 90285 70555",
+    "website": "http://nagpurproperty.com/",
+    "rating": 4.5,
+    "reviews_count": 50,
+    "address": "Vighneshwar Aptts, Renuka Colony, 57/1, Beltarodi Rd, Ring Road, Joginagar, Badil Kheda, Nagpur, Maharashtra 440027",
+    "area": "Ring Road, Joginagar, Badil Kheda",
+    "latitude": 21.1048226,
+    "longitude": 79.0876321,
+    "place_id": "ChIJn1PCDkK_1DsRcsL2Sf3VupI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn1PCDkK_1DsRcsL2Sf3VupI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:52:40"
+  }
+]

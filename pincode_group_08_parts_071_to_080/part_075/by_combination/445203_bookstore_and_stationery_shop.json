@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Roshani General Stores And Stationary Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "445203",
+    "phone_number": "+91 97303 55012",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1 Banusing Naik Complex 2, Digras, Maharashtra 445203",
+    "area": "Suraj Nagar",
+    "latitude": 20.10662,
+    "longitude": 77.71337749999999,
+    "place_id": "ChIJf8AOHAdv0TsRNWEvCfHVgFo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf8AOHAdv0TsRNWEvCfHVgFo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:01:08"
+  },
+  {
+    "business_name": "Bhimashish Zerox",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "445203",
+    "phone_number": "+91 94200 49339",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1 Near BY Tahashil Main Road Arni, Main Road Arni, Maharashtra 445103",
+    "area": "445203",
+    "latitude": 20.0811899,
+    "longitude": 77.9539698,
+    "place_id": "ChIJYS4IbfDX0zsRtTUgNLof_ts",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYS4IbfDX0zsRtTUgNLof_ts",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:01:09"
+  }
+]

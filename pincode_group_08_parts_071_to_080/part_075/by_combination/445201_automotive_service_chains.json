@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivvandana Hightech Automobile Solution",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Chauffeur service",
+    "pincode": "445201",
+    "phone_number": "+91 95525 48881",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "24, Shivvandana, Chhatrapati Shivaji Maharaj Uddan Pul, Yavatmal - Arni Rd, Arni, Yavatmal, Maharashtra 445103",
+    "area": "445201",
+    "latitude": 20.086715599999998,
+    "longitude": 77.9521669,
+    "place_id": "ChIJE3BnIY_X0zsRbDb0Y1Kg0dY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE3BnIY_X0zsRbDb0Y1Kg0dY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:57:14"
+  },
+  {
+    "business_name": "Shree Hari Services",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Car repair and maintenance service",
+    "pincode": "445201",
+    "phone_number": "+91 84829 39498",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 57,
+    "address": "Shop No 9, Jamb, Maharashtra 442301",
+    "area": "445201",
+    "latitude": 20.6179469,
+    "longitude": 78.9302005,
+    "place_id": "ChIJTV97tNFn0zsRryUYGOhgaBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTV97tNFn0zsRryUYGOhgaBI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:57:14"
+  }
+]

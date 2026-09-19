@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jay Mata Di Service Centre",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Two Wheeler Repair Shop",
+    "pincode": "445103",
+    "phone_number": "+91 96570 29804",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Yavatmal - Arni Rd, near by Raajvi Honda Showroom, Wadgaon Road, Wadgaon, Yavatmal, Maharashtra 445002",
+    "area": "Wadgaon Road, Wadgaon",
+    "latitude": 20.3750189,
+    "longitude": 78.1105671,
+    "place_id": "ChIJca0YEWPn0zsRhU7PpQev4gA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJca0YEWPn0zsRhU7PpQev4gA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:48:28"
+  },
+  {
+    "business_name": "कुशल ऑटोमोबाईल्स",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "445103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "94R8+FJR, Waghapur Rd, Bhoyar, Yavatmal, Maharashtra 445001",
+    "area": "445103",
+    "latitude": 20.3912379,
+    "longitude": 78.1165109,
+    "place_id": "ChIJr-fVNKno0zsR5LQi3s8dTBg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-fVNKno0zsR5LQi3s8dTBg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:48:28"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pamla Services",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "445204",
+    "phone_number": "+91 73787 56313",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "Kopra Phata, Umarkhed - Pusad Rd, Borgadi, Maharashtra 445215",
+    "area": "445204",
+    "latitude": 19.878514199999998,
+    "longitude": 77.57445249999999,
+    "place_id": "ChIJs848EBmf0TsRPxP11T3PuCk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs848EBmf0TsRPxP11T3PuCk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:02:53"
+  },
+  {
+    "business_name": "Control Campus",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Service establishment",
+    "pincode": "445204",
+    "phone_number": "N/A",
+    "website": "https://controlcampus.com/",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Control Campus, 445204, India",
+    "area": "445204",
+    "latitude": 20.0621692,
+    "longitude": 75.9856456,
+    "place_id": "ChIJeSWShpvdWWYRA2GYwMQGzZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeSWShpvdWWYRA2GYwMQGzZA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:02:53"
+  }
+]

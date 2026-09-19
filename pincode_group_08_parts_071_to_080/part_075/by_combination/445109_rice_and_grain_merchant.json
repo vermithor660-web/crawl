@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramesh Trading Company",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, Rice wholesaler",
+    "pincode": "445109",
+    "phone_number": "+91 73851 92092",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "APMC, Shop No 1. Building No 8. New Grain Market, Kalmana, Nagpur, Maharashtra 440035",
+    "area": "Kalmana Market, Kalmana",
+    "latitude": 21.1631055,
+    "longitude": 79.1440643,
+    "place_id": "ChIJbScP0gfH1DsRgQNtoxjyrbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbScP0gfH1DsRgQNtoxjyrbk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:53:00"
+  },
+  {
+    "business_name": "Salod, Maharashtra 445109",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "445109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Salod, Maharashtra",
+    "area": "445109",
+    "latitude": 20.1888489,
+    "longitude": 78.13363799999999,
+    "place_id": "ChIJAQPFMSbF0zsRX9Gs06LFoeE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQPFMSbF0zsRX9Gs06LFoeE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:53:02"
+  }
+]

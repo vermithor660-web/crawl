@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "05Malik Tours & Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment",
+    "pincode": "444708",
+    "phone_number": "+91 91529 57737",
+    "website": "https://sites.google.com/view/malik-tours-and-travels?usp=sharing",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "05Malik Tours & Travels, 444708, India",
+    "area": "444708",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJIUinzyTr5zsRFXzw4E2KJrE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIUinzyTr5zsRFXzw4E2KJrE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:51:58"
+  },
+  {
+    "business_name": "Ashtavinayak tours and travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "444708",
+    "phone_number": "+91 90679 73002",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Railway Station Road, Chandur Railway, Maharashtra 444904",
+    "area": "444708",
+    "latitude": 20.8084594,
+    "longitude": 77.981359,
+    "place_id": "ChIJG9WOTB0D1DsR_SnsGeFDb3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG9WOTB0D1DsR_SnsGeFDb3s",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:51:58"
+  }
+]

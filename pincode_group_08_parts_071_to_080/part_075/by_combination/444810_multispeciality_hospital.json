@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grace Hospital",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444810",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "India, Maharashtra, Shirajgaon Mozari, Shirajgaon Mozart-444902 Shirajgaon Mozart -444902, +22邮政编码:, Maharashtra 444902",
+    "area": "444810",
+    "latitude": 21,
+    "longitude": 78,
+    "place_id": "ChIJyUIpxP8f1DsRdPzvrJsnXj0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyUIpxP8f1DsRdPzvrJsnXj0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:21:37"
+  },
+  {
+    "business_name": "Bramhankar Hospital (The Complete Surgical Solution)",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Doctor, Surgeon, Surgical center",
+    "pincode": "444810",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 78,
+    "address": "Railway ward pani tanki turkar CT scan building, Civil Lines, Gondia, Maharashtra 441601",
+    "area": "Civil Lines, Bajaj Nagar",
+    "latitude": 21.4577168,
+    "longitude": 80.203572,
+    "place_id": "ChIJ0fO7pNuvKzoRlcw4MN77dvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0fO7pNuvKzoRlcw4MN77dvc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:21:38"
+  }
+]

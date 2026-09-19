@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Santhosh unisex parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Service establishment",
+    "pincode": "445205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Santhosh unisex parlour, 445205, India",
+    "area": "445205",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJW82MIUXHVDoRlXWMDUJSLOQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW82MIUXHVDoRlXWMDUJSLOQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:04:22"
+  },
+  {
+    "business_name": "Gauri Makeover",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "445205",
+    "phone_number": "+91 74475 66168",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "mahagav road, Umarkhed, Chilli, Maharashtra 445206",
+    "area": "445205",
+    "latitude": 19.6609022,
+    "longitude": 77.7111469,
+    "place_id": "ChIJlThssoqR0TsRkq-W4rEMGKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlThssoqR0TsRkq-W4rEMGKo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:04:25"
+  }
+]

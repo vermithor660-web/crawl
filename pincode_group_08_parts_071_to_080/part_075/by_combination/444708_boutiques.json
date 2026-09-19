@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chaitali fashion",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "444708",
+    "phone_number": "+91 93093 76231",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "shop no 1, Suraj plaza, 2, Chandur Rd, Mund Nishankrao, taluka, Nandgaon Khandeshwar, Maharashtra 444708",
+    "area": "Mund Nishankrao, taluka",
+    "latitude": 20.6799481,
+    "longitude": 77.833568,
+    "place_id": "ChIJ2W6QQTet1jsRYMXtJiJk1is",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2W6QQTet1jsRYMXtJiJk1is",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:51:41"
+  },
+  {
+    "business_name": "Renuka callection",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "444708",
+    "phone_number": "+91 76663 56034",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Chakule complex, bus stand, Mund Nishankrao, Nandgaon Khandeshwar, Maharashtra 444708",
+    "area": "Mund Nishankrao",
+    "latitude": 20.680040599999998,
+    "longitude": 77.832802,
+    "place_id": "ChIJk0PfxUat1jsRgMJ2cNCAiwc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk0PfxUat1jsRgMJ2cNCAiwc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:51:42"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fast Food Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "444803",
+    "phone_number": "+91 81268 67483",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Maanpur Shivpuri, Salarabad, Uttar Pradesh 246761",
+    "area": "444803",
+    "latitude": 29.205811899999997,
+    "longitude": 78.4895257,
+    "place_id": "ChIJN2zoi4G3CzkRwYzX4CB5368",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN2zoi4G3CzkRwYzX4CB5368",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:09:05"
+  },
+  {
+    "business_name": "Hotel Harshal",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "444803",
+    "phone_number": "+91 99708 56101",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No 1, Akola Road, Daryapur Banosa, Babhali, Maharashtra 444803",
+    "area": "444803",
+    "latitude": 20.9254693,
+    "longitude": 77.2983308,
+    "place_id": "ChIJf0LqIfPd1jsRA_UgHEy5tnc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf0LqIfPd1jsRA_UgHEy5tnc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:09:05"
+  }
+]

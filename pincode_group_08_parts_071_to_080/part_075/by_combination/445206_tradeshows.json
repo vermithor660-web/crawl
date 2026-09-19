@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GSG College Umarkhed",
+    "search_category": "Tradeshows",
+    "primary_category": "College",
+    "all_categories": "College",
+    "pincode": "445206",
+    "phone_number": "+91 70382 53900",
+    "website": "http://www.gsgcollege.edu.in/",
+    "rating": 4.3,
+    "reviews_count": 275,
+    "address": "HPX7+P5G, Dhanki Road, Umarkhed, Nagapur, Maharashtra 445206",
+    "area": "445206",
+    "latitude": 19.5993125,
+    "longitude": 77.7129375,
+    "place_id": "ChIJtdM7xsmT0TsRqRv2vx3Qscw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtdM7xsmT0TsRqRv2vx3Qscw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:06:51"
+  },
+  {
+    "business_name": "Laxmi Compters Umarkhed",
+    "search_category": "Tradeshows",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "445206",
+    "phone_number": "+91 92701 88358",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near govenment hospital, Vasant Nagar, Umarkhed, Maharashtra 445206",
+    "area": "Vasant Nagar",
+    "latitude": 19.603812599999998,
+    "longitude": 77.68299569999999,
+    "place_id": "ChIJCfQX2jeT0TsR4HzxfLILYes",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCfQX2jeT0TsR4HzxfLILYes",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:06:51"
+  }
+]

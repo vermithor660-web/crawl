@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VARUN CAR BAZAR",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "445106",
+    "phone_number": "+91 97397 37259",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Plot no 49 ,pnt colony, Street No.1, Medipally, Hyderabad, Telangana 500098",
+    "area": "Medipally, Canara Nagar, Boduppal",
+    "latitude": 17.4088043,
+    "longitude": 78.59801209999999,
+    "place_id": "ChIJafSzLwCfyzsRI6yZ6v5wtlg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJafSzLwCfyzsRI6yZ6v5wtlg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:51:49"
+  },
+  {
+    "business_name": "Morya Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "445106",
+    "phone_number": "+91 98505 36969",
+    "website": "https://moryacars.in/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Sr no 277/4 ,near pcmc school ,Aundh ,Hinjewadi road, Chowk, Wakad, Pune, Maharashtra 411057",
+    "area": "Wakad",
+    "latitude": 18.5918697,
+    "longitude": 73.7630362,
+    "place_id": "ChIJnw3Rt2m5wjsR94ybCaSBpZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnw3Rt2m5wjsR94ybCaSBpZU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:51:49"
+  }
+]

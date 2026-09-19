@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "StromWebs",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer, Service establishment",
+    "pincode": "444801",
+    "phone_number": "+91 91131 29468",
+    "website": "https://www.stromwebs.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "StromWebs, 444801, India",
+    "area": "444801",
+    "latitude": 24.275585799999998,
+    "longitude": 87.2568512,
+    "place_id": "ChIJy1emFgPkQ00RgTUaPAMe4LA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy1emFgPkQ00RgTUaPAMe4LA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:07:03"
+  },
+  {
+    "business_name": "Tally Integration",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Accounting firm",
+    "all_categories": "Accounting firm",
+    "pincode": "444801",
+    "phone_number": "+91 80558 83484",
+    "website": "https://www.tally-integration.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "67/1, Lane No 4, Shiv Chaitanya Colony, Shewalewadi, Pune, Maharashtra 412307",
+    "area": "Shiv Chaitanya Colony, Shewalewadi",
+    "latitude": 18.4925404,
+    "longitude": 73.97002049999999,
+    "place_id": "ChIJp3BAMirpwjsRv2jmP_P_HMQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp3BAMirpwjsRv2jmP_P_HMQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:07:04"
+  }
+]

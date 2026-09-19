@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aman Nasta Point",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "444915",
+    "phone_number": "+91 76204 30073",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 1, Main Road, opp. of General Store, Amravati, Adgaon, Maharashtra 444915",
+    "area": "444915",
+    "latitude": 21.1573143,
+    "longitude": 77.8476268,
+    "place_id": "ChIJ4RLmUZSd1jsR0fbCiRnmPDQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4RLmUZSd1jsR0fbCiRnmPDQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:38:44"
+  },
+  {
+    "business_name": "Manik Enterprices",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "444915",
+    "phone_number": "+91 83906 73167",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Bus Stop, Yawli Shaheed, Yawali, Maharashtra 444901",
+    "area": "Yawli Shaheed",
+    "latitude": 21.1064816,
+    "longitude": 77.85052619999999,
+    "place_id": "ChIJdQeJMm-f1jsRQASdtsXw1qM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdQeJMm-f1jsRQASdtsXw1qM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:38:44"
+  }
+]

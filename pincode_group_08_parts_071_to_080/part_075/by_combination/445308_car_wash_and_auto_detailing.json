@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Elite car wash",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "445308",
+    "phone_number": "+91 95791 50127",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Cidco Square, Ira international Road, Satgaon, Turkmari, Maharashtra 441122",
+    "area": "Satgaon",
+    "latitude": 20.935475,
+    "longitude": 78.9985186,
+    "place_id": "ChIJsRk9HQCX1DsRxx7bf96oi6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsRk9HQCX1DsRxx7bf96oi6Q",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:32:35"
+  },
+  {
+    "business_name": "A1 Car Customs & Detailing Studio",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash",
+    "pincode": "445308",
+    "phone_number": "+91 88880 40952",
+    "website": "https://skratchawayppf.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Yogiraj Housing Society, 6-A/1, Amravati Rd, opp. Canara Bank, Sudarshan Society, Bharatnagar, Nagpur, Maharashtra 440033",
+    "area": "Sudarshan Society, Bharatnagar",
+    "latitude": 21.1483681,
+    "longitude": 79.0460724,
+    "place_id": "ChIJHcaHFxnB1DsRjv4PuwB12_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHcaHFxnB1DsRjv4PuwB12_Q",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:32:35"
+  }
+]

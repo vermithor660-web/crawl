@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dhanashri kirana",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "445105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "94F9+VJG, Ram Mandir Rd, Wadgaon Road, Laxmi Nagar, Yavatmal, Maharashtra 445001",
+    "area": "Wadgaon Road, Laxmi Nagar",
+    "latitude": 20.3746766,
+    "longitude": 78.1190653,
+    "place_id": "ChIJgVcrK4fp0zsRfLqr41ANH6w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgVcrK4fp0zsRfLqr41ANH6w",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:49:28"
+  },
+  {
+    "business_name": "Gayatri grocery store",
+    "search_category": "Departmental Store",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "445105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "83VM+MQ3, Kinhi, Maharashtra 445002",
+    "area": "445105",
+    "latitude": 20.3441351,
+    "longitude": 78.08443249999999,
+    "place_id": "ChIJJY8NdwDn0zsR882xGqDjQAw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJY8NdwDn0zsR882xGqDjQAw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:49:30"
+  }
+]

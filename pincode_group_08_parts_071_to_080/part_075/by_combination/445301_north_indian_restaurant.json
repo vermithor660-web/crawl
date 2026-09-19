@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Punjabi",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Punjabi restaurant",
+    "all_categories": "Punjabi restaurant",
+    "pincode": "445301",
+    "phone_number": "+91 94234 35132",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 64,
+    "address": "Plot No. 42, MH SH 237, Ghatanji, Maharashtra 445301",
+    "area": "445301",
+    "latitude": 20.1507054,
+    "longitude": 78.3062436,
+    "place_id": "ChIJCambihK40zsRGN6Q7oi0Jno",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCambihK40zsRGN6Q7oi0Jno",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:19:30"
+  },
+  {
+    "business_name": "Ashoka Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "445301",
+    "phone_number": "+91 72302 77177",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 141,
+    "address": "near state Bank, Ghatanji, Maharashtra 445301",
+    "area": "445301",
+    "latitude": 20.1477965,
+    "longitude": 78.3084168,
+    "place_id": "ChIJod1gYhG40zsRWLaBE4kknKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJod1gYhG40zsRWLaBE4kknKQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:19:30"
+  }
+]

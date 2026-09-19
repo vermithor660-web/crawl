@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Safa Birds",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "445209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "7Q7J+M6Q, Sambhaji Nagar, Dadarao Plot, Maharashtra 431401",
+    "area": "Vakil Colony",
+    "latitude": 19.2642137,
+    "longitude": 76.7806083,
+    "place_id": "ChIJx-YA468Z0DsRUDECb2eAlxU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx-YA468Z0DsRUDECb2eAlxU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:08:53"
+  },
+  {
+    "business_name": "DK’s Pet villa",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Bird shop",
+    "all_categories": "Bird shop",
+    "pincode": "445209",
+    "phone_number": "+91 94043 13438",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Khamtalao Road, Narkesari ward, Bhandara, Maharashtra 441904",
+    "area": "Narkesari ward",
+    "latitude": 21.1717952,
+    "longitude": 79.6550725,
+    "place_id": "ChIJXXXQwwY_KzoRyNN_lhQJD7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXXXQwwY_KzoRyNN_lhQJD7Q",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:08:53"
+  }
+]

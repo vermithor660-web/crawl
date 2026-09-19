@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mungsaji Mauli Cake Shop",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "444720",
+    "phone_number": "+91 83906 92744",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Bhumika Sachin Bobade, Gujri Bazar, Ambada, Tq, Ambada, Maharashtra 444905",
+    "area": "444720",
+    "latitude": 21.3284764,
+    "longitude": 77.90364199999999,
+    "place_id": "ChIJv9TNWIGB1jsR80Ur6MOufqw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv9TNWIGB1jsR80Ur6MOufqw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:01:50"
+  },
+  {
+    "business_name": "Surekh Cake House",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "444720",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Chincholi patil colony, Maharashtra 444720",
+    "area": "444720",
+    "latitude": 21.332805699999998,
+    "longitude": 77.7287928,
+    "place_id": "ChIJgWeeaCKJ1jsRwQoSQ7g92pk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgWeeaCKJ1jsRwQoSQ7g92pk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:01:50"
+  }
+]

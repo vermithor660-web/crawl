@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ADB EVENTS",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Service establishment",
+    "pincode": "445305",
+    "phone_number": "+91 86392 22250",
+    "website": "https://www.instagram.com/adb_events_/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "ADB EVENTS, 445305, India",
+    "area": "445305",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJLfsj9BqnXIkRF_pbr6q3eys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLfsj9BqnXIkRF_pbr6q3eys",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:27:32"
+  },
+  {
+    "business_name": "Saif events planner",
+    "search_category": "Event Planners/Wedding Planners",
+    "primary_category": "Wedding planner",
+    "all_categories": "Wedding planner, Event planner",
+    "pincode": "445305",
+    "phone_number": "+91 95054 26434",
+    "website": "https://www.instagram.com/mir.saif.ali?igsh=MTQzbXhtdWU5cGx4dA==",
+    "rating": 4.9,
+    "reviews_count": 13,
+    "address": "Dasnapur, Adilabad, Telangana 504001",
+    "area": "Dasnapur",
+    "latitude": 19.6468412,
+    "longitude": 78.5101311,
+    "place_id": "ChIJn1YBDcNd0jsRdQLYcLIJYeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn1YBDcNd0jsRdQLYcLIJYeo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:27:32"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Rugnalaya",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, Optometrist",
+    "pincode": "445204",
+    "phone_number": "+91 94221 68249",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 10,
+    "address": "phone 07231-238409, Sai Rugnalaya, Devi Road, Patil Nagar, Umarkhed, Maharashtra 445206",
+    "area": "Patil Nagar",
+    "latitude": 19.604436,
+    "longitude": 77.68871949999999,
+    "place_id": "ChIJ3YGZcM-T0TsRShNTzeKel-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3YGZcM-T0TsRShNTzeKel-o",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:02:07"
+  },
+  {
+    "business_name": "Shri Varad Eye & Maternity Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Maternity Centre",
+    "all_categories": "Maternity Centre",
+    "pincode": "445204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WH4C+G48, Pusad, Maharashtra 445204",
+    "area": "445204",
+    "latitude": 19.9062752,
+    "longitude": 77.5703345,
+    "place_id": "ChIJnW05aG910TsRyvEVGkE5VlE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnW05aG910TsRyvEVGkE5VlE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:02:07"
+  }
+]

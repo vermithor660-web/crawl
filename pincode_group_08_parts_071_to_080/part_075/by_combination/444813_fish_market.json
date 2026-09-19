@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BAAPI SEA & RIVER FISH",
+    "search_category": "Fish Market",
+    "primary_category": "Fishery",
+    "all_categories": "Fishery, Grocery store",
+    "pincode": "444813",
+    "phone_number": "+91 92001 77774",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 256,
+    "address": "Budhwari Bazar, FISH MARKET, Tarbahar Chowk, Bilaspur, Chhattisgarh 495004",
+    "area": "Budhwari Bazar, FISH MARKET, Tarbahar Chowk",
+    "latitude": 22.0577221,
+    "longitude": 82.1756137,
+    "place_id": "ChIJyYsTotYKKDoRRajbwAqS04s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyYsTotYKKDoRRajbwAqS04s",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:23:02"
+  },
+  {
+    "business_name": "N P Fish company",
+    "search_category": "Fish Market",
+    "primary_category": "Seafood market",
+    "all_categories": "Seafood market",
+    "pincode": "444813",
+    "phone_number": "+91 74101 09066",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Balaji power tools, Gajanan Nagari, Visawa Park, Sadar Bazar, Satara, Pirwadi, Maharashtra 415003",
+    "area": "Gajanan Nagari, Visawa Park, Sadar Bazar",
+    "latitude": 17.695440599999998,
+    "longitude": 74.0248752,
+    "place_id": "ChIJyXo0Fkw5wjsRwITUW9VUyyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXo0Fkw5wjsRwITUW9VUyyE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:23:03"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shop No 444Near, Bus Stand",
+    "search_category": "Boutiques",
+    "primary_category": "Boutiques",
+    "all_categories": "Boutiques",
+    "pincode": "445210",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus Stand, Darwha Rd, BondeGaon, Yavatmal, Bodegaon, Maharashtra 445210",
+    "area": "BondeGaon",
+    "latitude": 20.4010602,
+    "longitude": 77.628453,
+    "place_id": "ChIJAQA5jfJG0TsRXdtQIUAfvlw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQA5jfJG0TsRXdtQIUAfvlw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:10:55"
+  },
+  {
+    "business_name": "GURUKRUPA Medicals And Electronics",
+    "search_category": "Boutiques",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "445210",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 10,
+    "address": "CMP6+P26, Bhagwan Mahavir Marg, Lohi, Maharashtra 445210",
+    "area": "445210",
+    "latitude": 20.436795399999998,
+    "longitude": 77.66002399999999,
+    "place_id": "ChIJp5LG-d1F0TsRYjygHnln4As",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp5LG-d1F0TsRYjygHnln4As",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:10:55"
+  }
+]

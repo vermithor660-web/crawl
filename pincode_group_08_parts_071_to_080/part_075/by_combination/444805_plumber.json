@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay seles",
+    "search_category": "Plumber",
+    "primary_category": "Plumbing supply store",
+    "all_categories": "Plumbing supply store",
+    "pincode": "444805",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8G39+5CF, Mishra Line, Paratwada, Bhoipura, Achalpur, Maharashtra 444805",
+    "area": "Paratwada, Bhoipura",
+    "latitude": 21.302971,
+    "longitude": 77.518532,
+    "place_id": "ChIJkYyIYwD11jsRENx0b_pQ6ME",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkYyIYwD11jsRENx0b_pQ6ME",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:13:11"
+  },
+  {
+    "business_name": "Electrician & Induction work & plumbing work",
+    "search_category": "Plumber",
+    "primary_category": "Electrician",
+    "all_categories": "Electrician",
+    "pincode": "444805",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ward No:2 Mughlaipura, Paratwada, Mughalai, Achalpur, Maharashtra 444805",
+    "area": "Paratwada, Mughalai",
+    "latitude": 21.3064131,
+    "longitude": 77.5206184,
+    "place_id": "ChIJV7okNxv11jsRWjQlspRlg9s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV7okNxv11jsRWjQlspRlg9s",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:13:13"
+  }
+]

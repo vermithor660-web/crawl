@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aishwarya boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Boutique",
+    "all_categories": "Boutique",
+    "pincode": "444905",
+    "phone_number": "+91 96073 21935",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Arvind bank kathiwale complex, Near, Warud, Maharashtra 444906",
+    "area": "444905",
+    "latitude": 21.4743808,
+    "longitude": 78.2691071,
+    "place_id": "ChIJj2PJ79HL1TsRZDKmsVxqhrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj2PJ79HL1TsRZDKmsVxqhrc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:32:13"
+  },
+  {
+    "business_name": "Pehnava Boutique",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "444905",
+    "phone_number": "+91 83907 25685",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near zakir hussain Angwadi, Kazipura, Ashti, Maharashtra 442202",
+    "area": "Kazipura",
+    "latitude": 21.1994623,
+    "longitude": 78.18582889999999,
+    "place_id": "ChIJnwCz5N071DsR7BMEWAU9Nbs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnwCz5N071DsR7BMEWAU9Nbs",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:32:13"
+  }
+]

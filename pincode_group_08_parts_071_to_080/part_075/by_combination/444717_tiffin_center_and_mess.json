@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishwakarma mess hall",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Tiffin Service Provider",
+    "all_categories": "Tiffin Service Provider, Cafe",
+    "pincode": "444717",
+    "phone_number": "+91 72182 95464",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 54,
+    "address": "near holicross school, Paratwada, Gopal Nagar, Achalpur, Maharashtra 444805",
+    "area": "Paratwada, Gopal Nagar",
+    "latitude": 21.305291,
+    "longitude": 77.5109238,
+    "place_id": "ChIJVVVVlWL01jsRhEsxUQV8mXk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVlWL01jsRhEsxUQV8mXk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:58:20"
+  },
+  {
+    "business_name": "MR.YUMMY FOODS AND TIFFIN SERVICES",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Food producer",
+    "all_categories": "Food producer, Service establishment",
+    "pincode": "444717",
+    "phone_number": "+91 91759 54770",
+    "website": "https://mryummyfoods.odoo.com/",
+    "rating": 4.8,
+    "reviews_count": 20,
+    "address": "MR.YUMMY FOODS AND TIFFIN SERVICES, 444717, India",
+    "area": "444717",
+    "latitude": 21.1420145,
+    "longitude": 79.0825922,
+    "place_id": "ChIJF-90oypOJ6ERo9neeUPWMvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF-90oypOJ6ERo9neeUPWMvY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:58:21"
+  }
+]

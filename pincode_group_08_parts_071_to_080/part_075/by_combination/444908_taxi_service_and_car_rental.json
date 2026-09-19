@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chalpe Car Rental",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Car leasing service, Car rental agency, Motoring club",
+    "pincode": "444908",
+    "phone_number": "+91 87888 80219",
+    "website": "https://www.chalpecarrentalnagpur.com/",
+    "rating": 4.9,
+    "reviews_count": 636,
+    "address": "Plot no. 231, opposite chatrapati hall, near peshwe tution classes, Ring Road, Chatrapati Nagar, Nagpur, Maharashtra 440015",
+    "area": "Ring Road, Chatrapati Nagar",
+    "latitude": 21.1111664,
+    "longitude": 79.074112,
+    "place_id": "ChIJMVoHfQq_1DsReRHbLet61To",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMVoHfQq_1DsReRHbLet61To",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:37:39"
+  },
+  {
+    "business_name": "Sai Cabs Car Rental",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport Shuttle Service Provider, Car leasing service, Car rental agency, Minibus taxi service, Transportation service, Travel agency, Van rental agency",
+    "pincode": "444908",
+    "phone_number": "+91 94059 73633",
+    "website": "https://saicabsrental.com/",
+    "rating": 4.9,
+    "reviews_count": 560,
+    "address": "Brijmohan Nivas, behind Police Line Takli, opp. Tirupati Bank, Samadhan Nagar, Jafar Nagar, Police Line Takli, Nagpur, Maharashtra 440013",
+    "area": "Samadhan Nagar, Jafar Nagar, Police Line Takli",
+    "latitude": 21.180985399999997,
+    "longitude": 79.0653306,
+    "place_id": "ChIJ77ctsgHB1DsR2ZkezuEIBpY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ77ctsgHB1DsR2ZkezuEIBpY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:37:39"
+  }
+]

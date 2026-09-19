@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gurumauli Events and decoration",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "444708",
+    "phone_number": "+91 99704 51496",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gurumauli Bichaiyat kendra, mahavir nagar, Amravati, Maharashtra 444607",
+    "area": "mahavir nagar",
+    "latitude": 20.9056896,
+    "longitude": 77.75570019999999,
+    "place_id": "ChIJG6-HDm2l1jsRL5zyI4ELcXc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG6-HDm2l1jsRL5zyI4ELcXc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:52:21"
+  },
+  {
+    "business_name": "Suresh Maharaj Pande Caterers",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "444708",
+    "phone_number": "+91 95612 90899",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "27 ganesh vihar, 2, near krishna arpan colony, Jagdadhe layout, Amravati, Maharashtra 444605",
+    "area": "Jagdadhe layout",
+    "latitude": 20.9115198,
+    "longitude": 77.74567979999999,
+    "place_id": "ChIJh2LZwoyl1jsRirHwO834cX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh2LZwoyl1jsRirHwO834cX4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:52:22"
+  }
+]

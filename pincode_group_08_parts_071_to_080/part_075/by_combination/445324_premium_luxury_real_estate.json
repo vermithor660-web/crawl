@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raffles Park Villas",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Villa",
+    "all_categories": "Villa",
+    "pincode": "445324",
+    "phone_number": "+91 80 4663 0001",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 181,
+    "address": "XQRV+RJ3, Soukya Rd, Whitefield, Bengaluru, Samethanahalli, Karnataka 560117",
+    "area": "Whitefield",
+    "latitude": 12.9920225,
+    "longitude": 77.7940325,
+    "place_id": "ChIJgwbYTYgOrjsRdsKU9P9pjTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgwbYTYgOrjsRdsKU9P9pjTA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:37:11"
+  },
+  {
+    "business_name": "Arvind Uplands",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Villa",
+    "all_categories": "Villa",
+    "pincode": "445324",
+    "phone_number": "+91 79 6826 4049",
+    "website": "https://arvindsmartspaces.com/projects/uplands-one/",
+    "rating": 4.5,
+    "reviews_count": 541,
+    "address": "Thol Rd, opp. Karmabhoomi, near Rancharda, Nasmed, Ahmedabad, Gujarat 382115",
+    "area": "445324",
+    "latitude": 23.107578699999998,
+    "longitude": 72.4007535,
+    "place_id": "ChIJiTTVxUGeXjkRM3ivpSRpPzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiTTVxUGeXjkRM3ivpSRpPzc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:37:11"
+  }
+]

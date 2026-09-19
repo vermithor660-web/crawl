@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maharashtra transport company",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Trucking company",
+    "all_categories": "Trucking company, Transportation service",
+    "pincode": "445209",
+    "phone_number": "+91 98234 88315",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 53,
+    "address": "New Gul Market, Latur Ring Rd, Moti Nagar, Latur, Maharashtra 413512",
+    "area": "Moti Nagar",
+    "latitude": 18.385113999999998,
+    "longitude": 76.5754036,
+    "place_id": "ChIJq6qqXreDzzsRkKjewq4cspc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqXreDzzsRkKjewq4cspc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:09:28"
+  },
+  {
+    "business_name": "shree santosh roadlines",
+    "search_category": "Logistics and Transport Services",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "445209",
+    "phone_number": "+91 94224 69461",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 81,
+    "address": "Near Ratnadeep Talkies, Kava Rd, Latur, Maharashtra 413512",
+    "area": "Majge Nagar",
+    "latitude": 18.39122,
+    "longitude": 76.5810746,
+    "place_id": "ChIJ34_7bQKDzzsR_9lwK3yjS9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ34_7bQKDzzsR_9lwK3yjS9A",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:09:28"
+  }
+]

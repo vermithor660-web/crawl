@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A.F REAL ESTATE",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "445105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Choti Gujri, Chapman Wadi, Yavatmal, Maharashtra 445001",
+    "area": "Choti Gujri, Chapman Wadi",
+    "latitude": 20.389320899999998,
+    "longitude": 78.13653579999999,
+    "place_id": "ChIJi1HNicjo0zsRcTEpg3oyUFk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi1HNicjo0zsRcTEpg3oyUFk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:50:57"
+  },
+  {
+    "business_name": "Homes",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Housing development",
+    "all_categories": "Housing development",
+    "pincode": "445105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "67FQ+HXX, Sukali ., Maharashtra 445301",
+    "area": "445105",
+    "latitude": 20.2239822,
+    "longitude": 78.2899717,
+    "place_id": "ChIJr8GwCQDB0zsRhXU7D4Z2sYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr8GwCQDB0zsRhXU7D4Z2sYU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:50:58"
+  }
+]

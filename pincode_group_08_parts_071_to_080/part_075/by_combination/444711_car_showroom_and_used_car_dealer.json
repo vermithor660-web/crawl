@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Capital Cars",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Consignment shop",
+    "pincode": "444711",
+    "phone_number": "+91 99700 70070",
+    "website": "https://capitalcar.in/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "542F+RV6, Parekh Rd, Near Lakadganj Garden, Lakadganj, Nagpur, Maharashtra 440008",
+    "area": "Near Lakadganj Garden, Lakadganj",
+    "latitude": 21.1520609,
+    "longitude": 79.1246434,
+    "place_id": "ChIJnzrhxMDH1DsRdPpmDabY-u4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnzrhxMDH1DsRdPpmDabY-u4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:57:04"
+  },
+  {
+    "business_name": "Second Hand Car Dealers",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "444711",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "11/85, Mayur Vihar, New Delhi, Delhi 110091",
+    "area": "Pocket 5, Pratap Nagar, Mayur Vihar",
+    "latitude": 28.605403,
+    "longitude": 77.2937156,
+    "place_id": "ChIJRfxGaL38DDkRI2xQrsLG7r8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRfxGaL38DDkRI2xQrsLG7r8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:57:06"
+  }
+]

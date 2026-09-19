@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tayade's Lodge",
+    "search_category": "Resort",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "445203",
+    "phone_number": "+91 77698 45231",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 93,
+    "address": "Tayade's complex, Near shivaji chowk, Digras District, MH SH 197, Bharat Nagar, Digras, Maharashtra 445203",
+    "area": "Bharat Nagar",
+    "latitude": 20.105893,
+    "longitude": 77.71650559999999,
+    "place_id": "ChIJi1CVCsRv0TsR9Pt2Ih-sbpg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi1CVCsRv0TsR9Pt2Ih-sbpg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:00:59"
+  },
+  {
+    "business_name": "shree gurudatta Lodge Pusad(Dormitory+Ac Lodge&Hotel)",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Lodge",
+    "pincode": "445203",
+    "phone_number": "+91 72497 61308",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 27,
+    "address": "New Bas Stand, Pusad, Maharashtra 445204",
+    "area": "445203",
+    "latitude": 19.9086799,
+    "longitude": 77.5664577,
+    "place_id": "ChIJx-crEkx10TsRp3ItxEpRDjM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx-crEkx10TsRp3ItxEpRDjM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:00:59"
+  }
+]

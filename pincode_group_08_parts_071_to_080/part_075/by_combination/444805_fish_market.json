@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tirpal house",
+    "search_category": "Fish Market",
+    "primary_category": "Farmers' market",
+    "all_categories": "Farmers' market",
+    "pincode": "444805",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7GV8+V6W, Paratwada, Civil Lines, Achalpur, Maharashtra 444805",
+    "area": "Paratwada, Civil Lines",
+    "latitude": 21.2947272,
+    "longitude": 77.515585,
+    "place_id": "ChIJkSR4cwD11jsRNEgZw6MMM9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkSR4cwD11jsRNEgZw6MMM9A",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:12:28"
+  },
+  {
+    "business_name": "Paratwada City's Mutton-Chicken-Fish Shopping Area",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "444805",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "MSH 6, Aurangpur, Gopal Nagar, Achalpur, Maharashtra 444806",
+    "area": "Aurangpur, Gopal Nagar",
+    "latitude": 21.3133376,
+    "longitude": 77.51076379999999,
+    "place_id": "ChIJEWteAgD11jsR8nlCu6ewLho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEWteAgD11jsR8nlCu6ewLho",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:12:28"
+  }
+]

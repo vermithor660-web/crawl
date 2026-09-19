@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Express Bees Courier",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "445109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 8,
+    "address": "2XW7+5RM, MH SH 236, Sano George Nagar, Lalguda, Maharashtra 445304",
+    "area": "Sano George Nagar",
+    "latitude": 20.045459599999997,
+    "longitude": 78.96454589999999,
+    "place_id": "ChIJQfz1eO4f0zsRgQ5yibd1MCo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQfz1eO4f0zsRgQ5yibd1MCo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:54:21"
+  },
+  {
+    "business_name": "Naaptol Courier Service",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "445109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "94M7+33X, Wadgaon Road, Bharti Nagar, Yavatmal, Maharashtra 445002",
+    "area": "Wadgaon Road, Bharti Nagar",
+    "latitude": 20.3827283,
+    "longitude": 78.1127326,
+    "place_id": "ChIJka5KEafo0zsRM_vw1nNakUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJka5KEafo0zsRM_vw1nNakUs",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:54:22"
+  }
+]

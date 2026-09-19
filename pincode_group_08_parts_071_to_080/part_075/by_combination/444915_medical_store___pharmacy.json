@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Careplus Pharmacy",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "444915",
+    "phone_number": "+91 70021 91221",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "AK Dev Rd, Fatasil Ambari, Guwahati, Assam 781025",
+    "area": "Fatasil Ambari",
+    "latitude": 26.1565622,
+    "longitude": 91.7321858,
+    "place_id": "ChIJfYx9zMxbWjcRxT2OZuvCK18",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfYx9zMxbWjcRxT2OZuvCK18",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:39:07"
+  },
+  {
+    "business_name": "Nikhil Medical",
+    "search_category": "Medical Store / Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "444915",
+    "phone_number": "+91 83908 43053",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop 1, Adgaon, Maharashtra 444915",
+    "area": "444915",
+    "latitude": 21.1541517,
+    "longitude": 77.84646479999999,
+    "place_id": "ChIJXyE4lq6d1jsR7joosPTvx08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXyE4lq6d1jsR7joosPTvx08",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:39:10"
+  }
+]

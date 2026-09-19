@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pet's Heaven",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "445304",
+    "phone_number": "+91 93566 09784",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "MH MSH 6, Chandni Nagar, Ghugus, Maharashtra 442505",
+    "area": "Chandni Nagar",
+    "latitude": 19.9422429,
+    "longitude": 79.1181067,
+    "place_id": "ChIJEbUQnl3Z0jsRsnM7w3UfLVY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEbUQnl3Z0jsRsnM7w3UfLVY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:24:50"
+  },
+  {
+    "business_name": "Mayur Pet Store",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "445304",
+    "phone_number": "+91 90752 69686",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sarkar Nagar, Tukum, Chandrapur, Maharashtra 442401",
+    "area": "Sarkar Nagar, Tukum",
+    "latitude": 19.9752244,
+    "longitude": 79.3076667,
+    "place_id": "ChIJQxRZZDzV0jsR7dWJ_2JZo_Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQxRZZDzV0jsR7dWJ_2JZo_Y",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:24:51"
+  }
+]

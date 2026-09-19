@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rao Tailors",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "444907",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G7CQ+6GQ, Galache Gothan Rd, Shendurjana Ghat, Maharashtra 444907",
+    "area": "444907",
+    "latitude": 21.5205993,
+    "longitude": 78.28884769999999,
+    "place_id": "ChIJ9XXF6zPL1TsR8QC8KcTrzEk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9XXF6zPL1TsR8QC8KcTrzEk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:35:38"
+  },
+  {
+    "business_name": "Prince Tailors",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "444907",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "G7CQ+7HG Umesh Dahake, Galache Gothan Rd, Shendurjana Ghat, Maharashtra 444907",
+    "area": "444907",
+    "latitude": 21.5206894,
+    "longitude": 78.2889611,
+    "place_id": "ChIJ2ew3tnnL1TsRmILGiv8SoMA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ew3tnnL1TsRmILGiv8SoMA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:35:39"
+  }
+]

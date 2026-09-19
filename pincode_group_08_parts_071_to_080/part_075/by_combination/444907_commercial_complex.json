@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nagar Palika Complex",
+    "search_category": "Commercial Complex",
+    "primary_category": "Outlet mall",
+    "all_categories": "Outlet mall",
+    "pincode": "444907",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "G7FP+FMR, Shendurjana Ghat, Maharashtra 444907",
+    "area": "444907",
+    "latitude": 21.5235961,
+    "longitude": 78.28658329999999,
+    "place_id": "ChIJuRmaQADL1TsRFh8KTnu9Pl8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuRmaQADL1TsRFh8KTnu9Pl8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:36:58"
+  },
+  {
+    "business_name": "Sai Krushi Seva Kendra",
+    "search_category": "Commercial Complex",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "444907",
+    "phone_number": "+91 70282 27984",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 5 Panchpath Chowk, Maharashtra 444907",
+    "area": "444907",
+    "latitude": 21.5219059,
+    "longitude": 78.2923282,
+    "place_id": "ChIJ4afmIXbL1TsRFUGJIK36xmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4afmIXbL1TsRFUGJIK36xmY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:37:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Professional Couriers",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "445102",
+    "phone_number": "+91 88888 56382",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "11, Soman Complex, Datta Chowk, Opposite Ramayan Hotel, Yavatmal, Maharashtra 445001",
+    "area": "Vidhardh Housing Society",
+    "latitude": 20.3874656,
+    "longitude": 78.1294844,
+    "place_id": "ChIJ3zsV2bno0zsRKL8oNrKUg2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3zsV2bno0zsRKL8oNrKUg2A",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:47:23"
+  },
+  {
+    "business_name": "पोस्ट ऑफिस ब्राम्हणवाडा (पूर्व)",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "445102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "GX72+25H, Bramhanwada East, Maharashtra 445102",
+    "area": "445102",
+    "latitude": 20.5125586,
+    "longitude": 77.9504996,
+    "place_id": "ChIJNXm7ii790zsRTj_1lkVobOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNXm7ii790zsRTj_1lkVobOw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:47:24"
+  }
+]

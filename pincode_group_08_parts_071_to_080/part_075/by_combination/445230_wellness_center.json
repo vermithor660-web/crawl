@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "health sub center",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "445230",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "R4M4+JGR, Karanji, Maharashtra 431724",
+    "area": "445230",
+    "latitude": 19.8341055,
+    "longitude": 78.1062503,
+    "place_id": "ChIJ6YODdQAv0jsR0102vHpv8mM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6YODdQAv0jsR0102vHpv8mM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:18:34"
+  },
+  {
+    "business_name": "Health And Wellness Centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Wellness Center",
+    "all_categories": "Wellness Center",
+    "pincode": "445230",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Maniyur, Tamil Nadu 612802",
+    "area": "445230",
+    "latitude": 10.8361124,
+    "longitude": 79.3077934,
+    "place_id": "ChIJlSjWfDTKqjsRr7n-qzmckXQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlSjWfDTKqjsRr7n-qzmckXQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:18:34"
+  }
+]

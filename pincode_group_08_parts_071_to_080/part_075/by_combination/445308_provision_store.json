@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jay Gajanan general Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "445308",
+    "phone_number": "+91 91195 51817",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "Vithalrav kotrange,At ridhora, ta, ralegaon, Maharashtra 445402",
+    "area": "445308",
+    "latitude": 20.282838299999998,
+    "longitude": 78.66033689999999,
+    "place_id": "ChIJVa75lfIL0zsR34lAtfLNyCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVa75lfIL0zsR34lAtfLNyCg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:31:57"
+  },
+  {
+    "business_name": "Pratham General Store",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "445308",
+    "phone_number": "+91 96376 57784",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Shop No 5 At Wadaki, Ralegaon, Maharashtra 445308",
+    "area": "445308",
+    "latitude": 20.276043599999998,
+    "longitude": 78.7171597,
+    "place_id": "ChIJ1ekepHUL0zsRNXtlEHxhFCM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1ekepHUL0zsRNXtlEHxhFCM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:31:57"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meera Xerox Center",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store",
+    "pincode": "445209",
+    "phone_number": "+91 88883 23277",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Guru Gobind Singh Ji Rd, Vivek Nagar, Vishnu Nagar, Nanded, Maharashtra 431605",
+    "area": "Vivek Nagar, Vishnu Nagar",
+    "latitude": 19.1753508,
+    "longitude": 77.30196819999999,
+    "place_id": "ChIJq0Y86YvW0TsR__vz2wP555c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq0Y86YvW0TsR__vz2wP555c",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:09:58"
+  },
+  {
+    "business_name": "MAULI XEROX CENTRE",
+    "search_category": "Xerox and Photostat Center",
+    "primary_category": "Tax consultant",
+    "all_categories": "Tax consultant",
+    "pincode": "445209",
+    "phone_number": "+91 96899 66977",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "SHOP NO 1, Wadwani, Maharashtra 431122",
+    "area": "445209",
+    "latitude": 18.9936448,
+    "longitude": 76.0393445,
+    "place_id": "ChIJ36sk5oI1xTsRJ5r40aOIJoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ36sk5oI1xTsRJ5r40aOIJoc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:09:59"
+  }
+]

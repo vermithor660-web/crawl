@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai General Store and Colddrinks",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "444719",
+    "phone_number": "+91 90756 10921",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "5M25+3C6, Wasali, Maharashtra 444204",
+    "area": "444719",
+    "latitude": 21.1504002,
+    "longitude": 76.65828669999999,
+    "place_id": "ChIJzQDD8pNx1zsRz01Bn96Hodo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzQDD8pNx1zsRz01Bn96Hodo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:59:59"
+  },
+  {
+    "business_name": "Shri Balaji Medical & General Store, Tunki",
+    "search_category": "Provision Store",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store, Pharmacy",
+    "pincode": "444719",
+    "phone_number": "+91 83081 97088",
+    "website": "https://www.instagram.com/shri_balaji_medical.tunki?igsh=MTVmOTFiaGh4MHNjMA==",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Wasali Road, Tunki Bk., Maharashtra 444204",
+    "area": "444719",
+    "latitude": 21.1101362,
+    "longitude": 76.6937289,
+    "place_id": "ChIJZySG2Chv1zsRPPv9R7GzDaY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZySG2Chv1zsRPPv9R7GzDaY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:00:00"
+  }
+]

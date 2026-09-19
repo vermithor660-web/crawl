@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Student Book House",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "445215",
+    "phone_number": "+91 94226 24491",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 118,
+    "address": "Bahekar Complex, Shop No.1 Engg, College Rd, Shrirampur, Maharashtra 445215",
+    "area": "Shrirampur",
+    "latitude": 19.8985433,
+    "longitude": 77.5518831,
+    "place_id": "ChIJyXlME68K0TsRdco_LJQMrX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyXlME68K0TsRdco_LJQMrX8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:15:14"
+  },
+  {
+    "business_name": "Markers Book Shop میکرز بک شاپ",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "445215",
+    "phone_number": "0302 4455042",
+    "website": "http://www.markers.pk/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "basement of Flowers Affairs, 69 CCA Basement DHA Phase 5, 69 CCA, behind Jalal Sons, adjacent to UBL Bank, Commercial Sector C market, Lahore, 54000, Pakistan",
+    "area": "Commercial Sector C market",
+    "latitude": 31.462338199999998,
+    "longitude": 74.41334189999999,
+    "place_id": "ChIJ37u8pwwHGTkRXf3S6UVsex0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ37u8pwwHGTkRXf3S6UVsex0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:15:15"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delhi Flower Decoration",
+    "search_category": "Flower Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "444711",
+    "phone_number": "N/A",
+    "website": "https://www.instagram.com/_dfd.event_?igsh=MWNuMXJ2eTZmaWQ5bw==",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "212/13, Subhash Nagar, Sector 8, Gurugram, Haryana 122001",
+    "area": "Subhash Nagar, Sector 8",
+    "latitude": 28.4636744,
+    "longitude": 77.0223621,
+    "place_id": "ChIJQycCqfwZDTkR1MhWFfuS-cg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQycCqfwZDTkR1MhWFfuS-cg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:57:27"
+  },
+  {
+    "business_name": "Delhi flowers decorater",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower delivery",
+    "all_categories": "Flower delivery, Service establishment",
+    "pincode": "444711",
+    "phone_number": "+91 99282 27065",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Delhi flowers decorater, 444711, India",
+    "area": "444711",
+    "latitude": 29.4870406,
+    "longitude": 74.0824372,
+    "place_id": "ChIJ7TArnERnFjkRXa-_J18cqB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7TArnERnFjkRXa-_J18cqB4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:57:30"
+  }
+]

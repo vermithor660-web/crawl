@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Clean Master Facility Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services, Carpet cleaning service, Floor refinishing service, House cleaning service, Pest control service, Water Tank Cleaners",
+    "pincode": "445216",
+    "phone_number": "+91 72762 63126",
+    "website": "http://www.cleanmasters.co.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Plot.No.40, Bauxite Road, opposite Royal Public school, Basava Colony, Vaibhav Nagar, Belagavi, Karnataka 590010",
+    "area": "Basava Colony, Vaibhav Nagar",
+    "latitude": 15.890242899999999,
+    "longitude": 74.5168283,
+    "place_id": "ChIJ89eY9E1hvzsRXzHGD6XROp8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ89eY9E1hvzsRXzHGD6XROp8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:17:11"
+  },
+  {
+    "business_name": "Pristine plus cleaning services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Janitorial service",
+    "all_categories": "Janitorial service, Carpet cleaning service, Service establishment, Floor refinishing service, House cleaning service",
+    "pincode": "445216",
+    "phone_number": "N/A",
+    "website": "https://www.pristineplus.net/",
+    "rating": 4.9,
+    "reviews_count": 57,
+    "address": "Pristine plus cleaning services, 445216, India",
+    "area": "445216",
+    "latitude": 37.7331735,
+    "longitude": -121.8614085,
+    "place_id": "ChIJNdmhvgBV0oERWtiKgfm8LcU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNdmhvgBV0oERWtiKgfm8LcU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:17:12"
+  }
+]

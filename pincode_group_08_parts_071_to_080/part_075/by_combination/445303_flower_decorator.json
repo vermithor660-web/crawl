@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rajesh Kirana & Balloons Store",
+    "search_category": "Flower Decorator",
+    "primary_category": "Party store",
+    "all_categories": "Party store",
+    "pincode": "445303",
+    "phone_number": "+91 89991 29687",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Gadgebaba Square, Jatra Rd, near Ram Temple, Wani, Maharashtra 445304",
+    "area": "445303",
+    "latitude": 20.0505715,
+    "longitude": 78.95457689999999,
+    "place_id": "ChIJPydp4Acf0zsRfxQOTS3nWG0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPydp4Acf0zsRfxQOTS3nWG0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:23:56"
+  },
+  {
+    "business_name": "Shree Chhatrapati Shivaji Maharaj Garden",
+    "search_category": "Flower Decorator",
+    "primary_category": "Garden",
+    "all_categories": "Garden",
+    "pincode": "445303",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 201,
+    "address": "Kailash bhavan square, Ganeshpur Road, MH SH 233, Wani, Maharashtra 445304",
+    "area": "445303",
+    "latitude": 20.0529749,
+    "longitude": 78.9494139,
+    "place_id": "ChIJvdGuEFwf0zsRlixH7-AiG-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvdGuEFwf0zsRlixH7-AiG-s",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:23:58"
+  }
+]

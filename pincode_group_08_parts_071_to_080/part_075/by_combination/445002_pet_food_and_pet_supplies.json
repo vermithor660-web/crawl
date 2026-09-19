@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yavatmal Dogs",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Dog breeder",
+    "all_categories": "Dog breeder",
+    "pincode": "445002",
+    "phone_number": "+91 72761 16015",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 14,
+    "address": "156, Gurudev Nagar, Yavatmal, Maharashtra 445001",
+    "area": "Gurudev Nagar",
+    "latitude": 20.3778288,
+    "longitude": 78.1256417,
+    "place_id": "ChIJHTs5X9Lp0zsRasynw8g1G24",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHTs5X9Lp0zsRasynw8g1G24",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:42:27"
+  },
+  {
+    "business_name": "Om Sai Aquarium And Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "445002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 13,
+    "address": "Bidakar college complex, Bus stop, road, Main Rd, Sindhi Colony, Hinganghat, Maharashtra 442301",
+    "area": "Sindhi Colony",
+    "latitude": 20.551465099999998,
+    "longitude": 78.8446101,
+    "place_id": "ChIJQdN4Tntl0zsRGNwKWegTJ7I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdN4Tntl0zsRGNwKWegTJ7I",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:42:27"
+  }
+]

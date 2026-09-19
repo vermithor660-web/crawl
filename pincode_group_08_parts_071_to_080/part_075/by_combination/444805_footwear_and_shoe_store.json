@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chetan Foot Wear",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "444805",
+    "phone_number": "+91 99211 78198",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Saped Pul, Chikhaldara Stop, Paratwada, Civil Lines, Achalpur, Maharashtra 444805",
+    "area": "Paratwada, Civil Lines",
+    "latitude": 21.302628499999997,
+    "longitude": 77.515836,
+    "place_id": "ChIJLfti5kD11jsRDhU-6JCGN50",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLfti5kD11jsRDhU-6JCGN50",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:12:43"
+  },
+  {
+    "business_name": "Running shoes shop Jaytsatm",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Running store",
+    "all_categories": "Running store",
+    "pincode": "444805",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7GX6+4X4, Paratwada, Civil Lines, Paratwada, Achalpur, Maharashtra 444805",
+    "area": "Paratwada, Civil Lines",
+    "latitude": 21.2977736,
+    "longitude": 77.51246119999999,
+    "place_id": "ChIJeSqaRQD11jsRJA_H7sCBqEY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeSqaRQD11jsRJA_H7sCBqEY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:12:43"
+  }
+]

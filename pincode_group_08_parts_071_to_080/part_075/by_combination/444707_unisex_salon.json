@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahil's Smart Look Salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "444707",
+    "phone_number": "+91 92267 68163",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Saudagar Complex Amravati Road, Shivaji Chowk, near by Bus Depo, Maharashtra 444905",
+    "area": "Prasanta Colony",
+    "latitude": 21.3267584,
+    "longitude": 78.00652079999999,
+    "place_id": "ChIJa5gkWEgp1DsRj4ISkcMKrzY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa5gkWEgp1DsRj4ISkcMKrzY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:50:26"
+  },
+  {
+    "business_name": "Professional hair salon",
+    "search_category": "Unisex Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "444707",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "MH SH 244, Ashti, Maharashtra 442202",
+    "area": "444707",
+    "latitude": 21.203319699999998,
+    "longitude": 78.1861567,
+    "place_id": "ChIJTW5cfgA71DsRneCc4FEasOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTW5cfgA71DsRneCc4FEasOU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:50:29"
+  }
+]

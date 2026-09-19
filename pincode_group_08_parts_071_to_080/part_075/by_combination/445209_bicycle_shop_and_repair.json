@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madanlal Brothers",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle Shop",
+    "all_categories": "Bicycle Shop",
+    "pincode": "445209",
+    "phone_number": "+91 94210 68016",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 144,
+    "address": "203, Sakhar Peth Rd, Guruwar Peth, Solapur, Maharashtra 413005",
+    "area": "Guruwar Peth",
+    "latitude": 17.6763796,
+    "longitude": 75.9116377,
+    "place_id": "ChIJMZApyGLaxTsRyuAW5Bx2f_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMZApyGLaxTsRyuAW5Bx2f_s",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:09:27"
+  },
+  {
+    "business_name": "Bicycle Repair Shop",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Bicycle repair shop",
+    "all_categories": "Bicycle repair shop",
+    "pincode": "445209",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "5th cross,, Kodihalli Main Rd, HAL 2nd Stage, Kodihalli, Bengaluru, Karnataka 560008",
+    "area": "HAL 2nd Stage, Kodihalli",
+    "latitude": 12.962871199999999,
+    "longitude": 77.64716279999999,
+    "place_id": "ChIJKdqwSgQUrjsRKsNqIx6NK9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKdqwSgQUrjsRKsNqIx6NK9A",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:09:28"
+  }
+]

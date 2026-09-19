@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pankaj Flowers Shop",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "445105",
+    "phone_number": "+91 97309 08999",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "Shop No 1, MIDC, Wardha, Maharashtra 442001",
+    "area": "MIDC",
+    "latitude": 20.7456267,
+    "longitude": 78.60236119999999,
+    "place_id": "ChIJTZKHrGl_1DsRygLC6XqKkD0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTZKHrGl_1DsRygLC6XqKkD0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:50:31"
+  },
+  {
+    "business_name": "Priya Florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Service establishment",
+    "pincode": "445105",
+    "phone_number": "+91 96665 39329",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Priya Florist, 445105, India",
+    "area": "445105",
+    "latitude": 17.4360887,
+    "longitude": 78.4183788,
+    "place_id": "ChIJ7Q5Nhh6ayzsR7IUmH55emc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Q5Nhh6ayzsR7IUmH55emc0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:50:31"
+  }
+]

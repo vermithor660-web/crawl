@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AL-MADNI HOTEL",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "445002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Kalam Chowk, Choti Gujri, Pangari, Yavatmal, Maharashtra 445001",
+    "area": "Choti Gujri, Pangari",
+    "latitude": 20.3912646,
+    "longitude": 78.13963729999999,
+    "place_id": "ChIJVTitAwDp0zsRJKAzYH5nhp4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVTitAwDp0zsRJKAzYH5nhp4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:43:27"
+  },
+  {
+    "business_name": "Karhandla Tigers Farm & Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Guest house, Hotel, Home Stay, Restaurant, Swimming pool, Tourist attraction, Water park, Wildlife and safari park, Wildlife park",
+    "pincode": "445002",
+    "phone_number": "+91 93251 03373",
+    "website": "https://karhandla-tigers-farm.grexa.site/",
+    "rating": 4.7,
+    "reviews_count": 365,
+    "address": "Karhandla Forest Area, Nawegaon (S), UMRED, Maharashtra 441203",
+    "area": "Karhandla Forest Area",
+    "latitude": 20.8311887,
+    "longitude": 79.3819393,
+    "place_id": "ChIJ8yNqHgBVKzoREPclcgx53iY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8yNqHgBVKzoREPclcgx53iY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:43:28"
+  }
+]

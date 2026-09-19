@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yash Collection ( Cloth Store )",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "444902",
+    "phone_number": "+91 94218 24736",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 3,
+    "address": "3224+633, Mojhri, Mozari, Maharashtra 444902",
+    "area": "Mojhri",
+    "latitude": 21.050521999999997,
+    "longitude": 78.0051837,
+    "place_id": "ChIJ5WyVVeIh1DsRXHyRugzUmOs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5WyVVeIh1DsRXHyRugzUmOs",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:26:47"
+  },
+  {
+    "business_name": "Mahi Cloth Centre",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "444902",
+    "phone_number": "+91 70660 22416",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3224 633, Mojhri, Mozari, Maharashtra 444902",
+    "area": "Mojhri",
+    "latitude": 21.0503993,
+    "longitude": 78.005207,
+    "place_id": "ChIJZ0qGpgYh1DsRhborou_jKTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ0qGpgYh1DsRhborou_jKTA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:26:47"
+  }
+]

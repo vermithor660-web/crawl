@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Space Valet - Your Storage Hub",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Self-storage facility",
+    "all_categories": "Self-storage facility, Storage facility",
+    "pincode": "445110",
+    "phone_number": "+91 98922 05793",
+    "website": "https://www.spacevalet.in/",
+    "rating": 4.9,
+    "reviews_count": 261,
+    "address": "Navbharat Estates, Zakaria Bunder Rd, Sewri West, Mumbai, Maharashtra 400015",
+    "area": "Sewri West, Azad Nagar, Sewri",
+    "latitude": 18.9954964,
+    "longitude": 72.852187,
+    "place_id": "ChIJe07k4G7P5zsRR0F66PLowPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe07k4G7P5zsRR0F66PLowPI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:56:15"
+  },
+  {
+    "business_name": "Bangalore Cold Storage",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Meat products store",
+    "all_categories": "Meat products store",
+    "pincode": "445110",
+    "phone_number": "+91 90082 65549",
+    "website": "https://bangalorecoldstorage.com/",
+    "rating": 4.4,
+    "reviews_count": 187,
+    "address": "124, Brigade Rd, Shanti Nagar, Bengaluru, Karnataka 560001",
+    "area": "Shanti Nagar",
+    "latitude": 12.9673322,
+    "longitude": 77.6067709,
+    "place_id": "ChIJE8R9PncWrjsRc06e6AP9tN0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE8R9PncWrjsRc06e6AP9tN0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:56:16"
+  }
+]

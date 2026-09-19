@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Akshaya Eye Care",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "444720",
+    "phone_number": "+91 97040 39363",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "ADCMS Complex, opp. Sub Jail, Dharmavaram, Andhra Pradesh 515671",
+    "area": "Akkpedianera",
+    "latitude": 14.411890699999999,
+    "longitude": 77.718487,
+    "place_id": "ChIJHc9ghCpDsTsRLAIT96qWleI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHc9ghCpDsTsRLAIT96qWleI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:02:10"
+  },
+  {
+    "business_name": "Mahatme Eye Bank and Eye Hospital",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center",
+    "pincode": "444720",
+    "phone_number": "+91 712 228 9103",
+    "website": "https://mahatmehospital.org/",
+    "rating": 4.9,
+    "reviews_count": 3732,
+    "address": "Chintaman Nagar, Jai Prakash Nagar, Somalwada, Nagpur, Maharashtra 440025",
+    "area": "Chintaman Nagar, Jai Prakash Nagar, Somalwada",
+    "latitude": 21.101806099999997,
+    "longitude": 79.0650503,
+    "place_id": "ChIJY--yn3m_1DsRnvEUJfYuMUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY--yn3m_1DsRnvEUJfYuMUo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:02:11"
+  }
+]

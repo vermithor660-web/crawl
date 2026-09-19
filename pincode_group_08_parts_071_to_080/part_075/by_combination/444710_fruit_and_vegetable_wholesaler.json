@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janata vegetables and fruits",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Produce market",
+    "all_categories": "Produce market",
+    "pincode": "444710",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "P4J7+VXJ, Wadhona, Maharashtra 444709",
+    "area": "444710",
+    "latitude": 20.7326953,
+    "longitude": 78.1144885,
+    "place_id": "ChIJ17yT7EoJ1DsR38NLxKAfQTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ17yT7EoJ1DsR38NLxKAfQTk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:54:48"
+  },
+  {
+    "business_name": "Organic vegetables fresh",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market, Service establishment",
+    "pincode": "444710",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Organic vegetables fresh, 444710, India",
+    "area": "444710",
+    "latitude": 19.4625852,
+    "longitude": 72.77800859999999,
+    "place_id": "ChIJSyo79Zur5zsRYF_kiaAsjv4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSyo79Zur5zsRYF_kiaAsjv4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:54:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cafe' YC",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "445202",
+    "phone_number": "+91 72620 94039",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "8Q4H+XC8, Darwha, Maharashtra 445202",
+    "area": "445202",
+    "latitude": 20.3074115,
+    "longitude": 77.77856729999999,
+    "place_id": "ChIJ0WxmGQBd0TsRbccil5fgqKQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0WxmGQBd0TsRbccil5fgqKQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:58:27"
+  },
+  {
+    "business_name": "Shree swami samarth zerox and cyber cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop, Cafe",
+    "pincode": "445202",
+    "phone_number": "+91 77739 18907",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 13,
+    "address": "Darwha, Maharashtra 445202",
+    "area": "445202",
+    "latitude": 20.311596899999998,
+    "longitude": 77.775506,
+    "place_id": "ChIJK1TCaxFd0TsRNOrltS7u7Gg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK1TCaxFd0TsRNOrltS7u7Gg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:58:27"
+  }
+]

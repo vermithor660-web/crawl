@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BUNTY KE CHOLE BHATURE",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "445101",
+    "phone_number": "+91 88301 22602",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 6,
+    "address": "Postal ground, Samta maidan near goli Wada pav, near baheti hospital, Yavatmal, Maharashtra 445001",
+    "area": "Pangari",
+    "latitude": 20.3949869,
+    "longitude": 78.1293267,
+    "place_id": "ChIJ79uv9l3p0zsRieDz_-ZqqTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ79uv9l3p0zsRieDz_-ZqqTI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:44:21"
+  },
+  {
+    "business_name": "हॉटेल मनुहार (सुगोस किचन)",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "445101",
+    "phone_number": "+91 84858 48580",
+    "website": "https://www.tmdigi.co/digimenu/3547",
+    "rating": 3.8,
+    "reviews_count": 117,
+    "address": "4P38+JQ4 Sanskruti Plaza, near Old Bus Stand, Barabhai Mohalla, Digras, Maharashtra 445203",
+    "area": "Barabhai Mohalla",
+    "latitude": 20.105489499999997,
+    "longitude": 77.71732519999999,
+    "place_id": "ChIJpS38kcNv0TsRvpEBuiECvJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpS38kcNv0TsRvpEBuiECvJA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:44:23"
+  }
+]

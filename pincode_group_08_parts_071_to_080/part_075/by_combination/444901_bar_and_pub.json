@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maharana Bar & Family Garden Restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar, Restaurant, Family restaurant",
+    "pincode": "444901",
+    "phone_number": "+91 98602 09623",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Morshi Rd, Nandgaon Peth, Maharashtra 444901",
+    "area": "444901",
+    "latitude": 21.024131399999998,
+    "longitude": 77.8246443,
+    "place_id": "ChIJKW8lcwWi1jsR4geKBdbnNMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKW8lcwWi1jsR4geKBdbnNMI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:24:59"
+  },
+  {
+    "business_name": "Lokesh Bar & Restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "444901",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 18,
+    "address": "2RJV+JV8 SMS company, Narayanpur, Maharashtra 444901",
+    "area": "444901",
+    "latitude": 21.0315424,
+    "longitude": 77.8447008,
+    "place_id": "ChIJ3b-vA3mh1jsRqJAqmamXI5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3b-vA3mh1jsRqJAqmamXI5I",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:24:59"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bansal Associates",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Legal services",
+    "all_categories": "Legal services",
+    "pincode": "444707",
+    "phone_number": "+91 94223 93113",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shilangan Rd, beside Bansal medicals, Patvipura, Amravati, Maharashtra 444605",
+    "area": "Patvipura",
+    "latitude": 20.9231917,
+    "longitude": 77.7483561,
+    "place_id": "ChIJVd93oXKl1jsRVYidX3SqCUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVd93oXKl1jsRVYidX3SqCUg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:50:57"
+  },
+  {
+    "business_name": "Patrikar and Sons Labour Law Consultant (EPF & ESIC)",
+    "search_category": "Financial and Legal Services",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "444707",
+    "phone_number": "+91 79721 36042",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 12,
+    "address": "in front of mahanubhav ashram, near D raj Dudh Dairy, Kanwar Nagar, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "area": "Kanwar Nagar, Vivekanand Colony",
+    "latitude": 20.9182716,
+    "longitude": 77.7595387,
+    "place_id": "ChIJC0JJwqul1jsRRNQOw_WuIOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC0JJwqul1jsRRNQOw_WuIOw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:50:58"
+  }
+]

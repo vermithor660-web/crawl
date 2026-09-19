@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Paratwada Bus Stop And Depot",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "444805",
+    "phone_number": "+91 72232 20177",
+    "website": "https://msrtc.maharashtra.gov.in/",
+    "rating": 3.8,
+    "reviews_count": 2488,
+    "address": "Paratwada, Harde Nagar, Achalpur, Maharashtra 444805",
+    "area": "Paratwada, Harde Nagar",
+    "latitude": 21.2870395,
+    "longitude": 77.51930229999999,
+    "place_id": "ChIJDdN3Jnnz1jsRiblNmRU5FW0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDdN3Jnnz1jsRiblNmRU5FW0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:13:05"
+  },
+  {
+    "business_name": "Shriram Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "444805",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 4,
+    "address": "Paratwada, Civil Lines, Achalpur, Maharashtra 444805",
+    "area": "Paratwada, Civil Lines",
+    "latitude": 21.3006714,
+    "longitude": 77.5152742,
+    "place_id": "ChIJQSOOnC311jsRU_EiZVJqmAg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQSOOnC311jsRU_EiZVJqmAg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:13:05"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahesh nemade",
+    "search_category": "Fish Market",
+    "primary_category": "Fish store",
+    "all_categories": "Fish store",
+    "pincode": "445205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RM23+PGF, Dongargaon, Maharashtra 445215",
+    "area": "445205",
+    "latitude": 19.801824699999997,
+    "longitude": 77.65378319999999,
+    "place_id": "ChIJ38eEKqab0TsRNj4WVsc3MZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ38eEKqab0TsRNj4WVsc3MZ0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:03:30"
+  },
+  {
+    "business_name": "VFC Fish Fry",
+    "search_category": "Fish Market",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "445205",
+    "phone_number": "+91 79729 22144",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "1, Bhave Mangal Karya. Samor Punam Chouk, Maharashtra 445001",
+    "area": "Pangari",
+    "latitude": 20.394889199999998,
+    "longitude": 78.1304339,
+    "place_id": "ChIJy7XP6i_p0zsR9M94sYHsoWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy7XP6i_p0zsR9M94sYHsoWA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:03:33"
+  }
+]

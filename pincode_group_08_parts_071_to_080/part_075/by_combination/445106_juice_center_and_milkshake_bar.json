@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Natural Juice Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "445106",
+    "phone_number": "+91 80555 85504",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "P6HR+9GF SV Food Court Renukanagar, Shree Colony, Kasaba Bawada, Kolhapur, Maharashtra 416006",
+    "area": "Shree Colony, Kasaba Bawada",
+    "latitude": 16.7284431,
+    "longitude": 74.2412913,
+    "place_id": "ChIJGRnKwS8BwTsRuCOe-6hu-gs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRnKwS8BwTsRuCOe-6hu-gs",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:51:23"
+  },
+  {
+    "business_name": "Think Juice",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Restaurant",
+    "pincode": "445106",
+    "phone_number": "+91 73033 33412",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 517,
+    "address": "Shreeji Heights, Shreeji Ville 2, Takandas Kataria Marg, Mainak Wadi, Joshi Vadi, Matunga West, Mumbai, Maharashtra 400016",
+    "area": "Mainak Wadi, Joshi Vadi, Matunga West",
+    "latitude": 19.0306241,
+    "longitude": 72.8453415,
+    "place_id": "ChIJmXUp4cnP5zsR6Zi0upzOtmM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmXUp4cnP5zsR6Zi0upzOtmM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:51:24"
+  }
+]

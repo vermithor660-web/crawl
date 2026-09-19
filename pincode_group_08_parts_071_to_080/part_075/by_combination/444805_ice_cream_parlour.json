@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shahid Kirana",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "444805",
+    "phone_number": "+91 86685 59449",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "8G59+2RR, Ganesh Nagar, Mughalai, Achalpur, Maharashtra 444805",
+    "area": "Ganesh Nagar, Mughalai",
+    "latitude": 21.3076001,
+    "longitude": 77.5195212,
+    "place_id": "ChIJh14u0FL11jsR3CxVZBIMiI8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh14u0FL11jsR3CxVZBIMiI8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:12:36"
+  },
+  {
+    "business_name": "Amrawati",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "444805",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7GWF+8J4, Paratwada, Pensionpura, Kandali, Maharashtra 444805",
+    "area": "Paratwada, Pensionpura",
+    "latitude": 21.2957598,
+    "longitude": 77.5240774,
+    "place_id": "ChIJfSDOZgD11jsR1ROcrbJC6w0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfSDOZgD11jsR1ROcrbJC6w0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:12:38"
+  }
+]

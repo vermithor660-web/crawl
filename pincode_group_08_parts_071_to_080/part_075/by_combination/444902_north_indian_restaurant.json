@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dream's Pizzeria & Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "444902",
+    "phone_number": "+91 95271 59635",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Mumbai - Kolkata Hwy, near State Bank Of India, Mojhri, Mozari, Maharashtra 444902",
+    "area": "Mojhri",
+    "latitude": 21.0550097,
+    "longitude": 77.9994845,
+    "place_id": "ChIJzeotHOMh1DsRSCvnE2jH0OQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzeotHOMh1DsRSCvnE2jH0OQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:26:43"
+  },
+  {
+    "business_name": "Suraj Singh",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Rajasthani Restaurant",
+    "all_categories": "Rajasthani Restaurant",
+    "pincode": "444902",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shirajgaon Mozart-444902 Shirajgaon Mozart -444902, Maldhur, Maharashtra 444902",
+    "area": "444902",
+    "latitude": 21,
+    "longitude": 78,
+    "place_id": "ChIJsXz3JYYf1DsRwDIQj1G3y1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsXz3JYYf1DsRwDIQj1G3y1Q",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:26:43"
+  }
+]

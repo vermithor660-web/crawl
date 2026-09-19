@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Grace SPA Consultant",
+    "search_category": "Spa Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "445230",
+    "phone_number": "+91 70301 04037",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Unit No 126, Kamlesh Apartment, Sher E Punjab Colony, Andheri East, Mumbai, Maharashtra 400069",
+    "area": "Sher E Punjab Colony, Andheri East",
+    "latitude": 19.1244782,
+    "longitude": 72.85324589999999,
+    "place_id": "ChIJZyw_xG7J5zsRtxUPljyEYoo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZyw_xG7J5zsRtxUPljyEYoo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:18:34"
+  },
+  {
+    "business_name": "SPA Business Solutions Private Limited",
+    "search_category": "Spa Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "445230",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gymkhana Rd, Dombivli, Sagarli Gaon, Dombivli East, Kalyan, Maharashtra 421203",
+    "area": "Dombivli, Sagarli Gaon, Dombivli East",
+    "latitude": 19.2099144,
+    "longitude": 73.09984779999999,
+    "place_id": "ChIJC4e990-V5zsRd6bKt7FwR2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC4e990-V5zsRd6bKt7FwR2A",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:18:34"
+  }
+]

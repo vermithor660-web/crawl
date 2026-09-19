@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Minerva Ice Cream",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "445102",
+    "phone_number": "+91 98484 58764",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 290,
+    "address": "Collector chowk, opposite 2 town police station, Satnala Quarters, Sapthagiri Colony, chaitanyapuri, Adilabad, Telangana 504001",
+    "area": "Satnala Quarters, Sapthagiri Colony, chaitanyapuri",
+    "latitude": 19.6634952,
+    "longitude": 78.5287357,
+    "place_id": "ChIJCZ4V0GRc0jsROE7inRgiIF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCZ4V0GRc0jsROE7inRgiIF4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:46:02"
+  },
+  {
+    "business_name": "Purushottam Super Shop",
+    "search_category": "Frozen Food Distributor",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "445102",
+    "phone_number": "+91 95521 56120",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 279,
+    "address": "Umrer Rd, Adarsh Colony, Parsodi, Sainath Nagar, Trimurti Nagar, Nagpur, Maharashtra 440022",
+    "area": "Adarsh Colony, Parsodi, Sainath Nagar, Trimurti Nagar",
+    "latitude": 21.114347499999997,
+    "longitude": 79.0415944,
+    "place_id": "ChIJbZjPuPW_1DsRC8p0wxuPOGs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbZjPuPW_1DsRC8p0wxuPOGs",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:46:03"
+  }
+]

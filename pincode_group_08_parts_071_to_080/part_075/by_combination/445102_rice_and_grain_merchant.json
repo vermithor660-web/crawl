@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAVI TRADERS",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Grocery delivery service",
+    "pincode": "445102",
+    "phone_number": "+91 81808 02143",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "8Q59+2F7, Darwha, Maharashtra 445202",
+    "area": "445102",
+    "latitude": 20.3075293,
+    "longitude": 77.7686722,
+    "place_id": "ChIJHbLdIpNd0TsRyrWx7IjV9SM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHbLdIpNd0TsRyrWx7IjV9SM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:46:02"
+  },
+  {
+    "business_name": "Kolura, Maharashtra 445102",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "445102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kolura, Maharashtra",
+    "area": "445102",
+    "latitude": 20.504534,
+    "longitude": 77.9510209,
+    "place_id": "ChIJbzWB4sVX0TsRD3x9PZ2tsWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbzWB4sVX0TsRD3x9PZ2tsWE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:46:02"
+  }
+]

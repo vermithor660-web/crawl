@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Animal Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "444806",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mali pura, Pathrot, Maharashtra 444808",
+    "area": "Mali pura",
+    "latitude": 21.2141572,
+    "longitude": 77.3633682,
+    "place_id": "ChIJ3dUJbbz71jsR9HX3KbukyoU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3dUJbbz71jsR9HX3KbukyoU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:14:42"
+  },
+  {
+    "business_name": "Government Animal Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "444806",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Bus Stand, to, Road, Pathrot, Maharashtra 444808",
+    "area": "444806",
+    "latitude": 21.216228599999997,
+    "longitude": 77.36964569999999,
+    "place_id": "ChIJxSjqE1j71jsRtm779iltcsk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxSjqE1j71jsRtm779iltcsk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:14:42"
+  }
+]

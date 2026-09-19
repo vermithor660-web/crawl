@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Anil Inn",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "444805",
+    "phone_number": "+91 91561 56811",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 337,
+    "address": "Maharashtra Major State Highway 6, near Bus Stand, Paratwada, Pensionpura, Paratwada, Achalpur, Maharashtra 444805",
+    "area": "Paratwada, Pensionpura",
+    "latitude": 21.292174,
+    "longitude": 77.51741899999999,
+    "place_id": "ChIJgfJJdxvz1jsRj2pb1TfxO3I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgfJJdxvz1jsRj2pb1TfxO3I",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:12:34"
+  },
+  {
+    "business_name": "Pooja South Indian Dis",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "444805",
+    "phone_number": "+91 87665 47269",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Jaistambh - Pensionpura Rd, Paratwada, Civil Lines, Chouk, Achalpur, Maharashtra 444805",
+    "area": "Paratwada, Civil Lines",
+    "latitude": 21.2945781,
+    "longitude": 77.5156659,
+    "place_id": "ChIJzfb3Ds311jsR9d9ABAjIZi0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzfb3Ds311jsR9d9ABAjIZi0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:12:34"
+  }
+]

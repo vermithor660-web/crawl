@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kings tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "445207",
+    "phone_number": "+91 93598 55700",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Railway Station Rd, Kinwat, Bodhadi, Bodhadi Bk., Maharashtra 431810",
+    "area": "Kinwat, Bodhadi",
+    "latitude": 19.4966974,
+    "longitude": 78.1942455,
+    "place_id": "ChIJBbIG5cQX0jsR1SM4u8HUHn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBbIG5cQX0jsR1SM4u8HUHn8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:07:17"
+  },
+  {
+    "business_name": "Karuna Tailors",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "445207",
+    "phone_number": "+91 95799 12040",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 4 Atthawle Le Out, Maharashtra 445001",
+    "area": "Pangari",
+    "latitude": 20.3950064,
+    "longitude": 78.1284416,
+    "place_id": "ChIJWy3g8Znp0zsRNiLu6uNVIUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWy3g8Znp0zsRNiLu6uNVIUs",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:07:20"
+  }
+]

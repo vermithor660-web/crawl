@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanskruti Clothing Shop",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "444711",
+    "phone_number": "+91 87666 68522",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 11,
+    "address": "Sant tukdoji chowk, Pulgaon, Maharashtra 442302",
+    "area": "444711",
+    "latitude": 20.7237577,
+    "longitude": 78.3216329,
+    "place_id": "ChIJW2jBrD911DsRRQNl7J8v5dM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW2jBrD911DsRRQNl7J8v5dM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:56:51"
+  },
+  {
+    "business_name": "Lehengas Heaven",
+    "search_category": "Boutiques",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "444711",
+    "phone_number": "+91 88301 82661",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "opp. Police station, Mangrul Dastagir, Mund Nilkanth Sakharam, Maharashtra 444711",
+    "area": "Mangrul Dastagir",
+    "latitude": 20.831233299999997,
+    "longitude": 78.2394322,
+    "place_id": "ChIJ0cExcAAN1DsRwkgHzPK44QY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0cExcAAN1DsRwkgHzPK44QY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:56:52"
+  }
+]

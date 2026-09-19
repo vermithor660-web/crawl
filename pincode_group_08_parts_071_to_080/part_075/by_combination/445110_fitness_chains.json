@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gaikwad Fitness Club",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym, Fitness center",
+    "pincode": "445110",
+    "phone_number": "+91 82082 21618",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Plot no.1060, Ambedkar Marg Cement road, opposite IDBI BANK ATM, Vaishali Nagar, Nagpur, Maharashtra 440017",
+    "area": "Vaishali Nagar",
+    "latitude": 21.1693429,
+    "longitude": 79.1152465,
+    "place_id": "ChIJM6Kz33PH1DsRk7cK7M3qifA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM6Kz33PH1DsRk7cK7M3qifA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:55:15"
+  },
+  {
+    "business_name": "Powerhouse Body Studio",
+    "search_category": "Fitness Chains",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "445110",
+    "phone_number": "+91 86683 22502",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "water supply road, near Bhim nagar, in front of Gaurakshan, Wani, Maharashtra 445304",
+    "area": "445110",
+    "latitude": 20.0556414,
+    "longitude": 78.9469171,
+    "place_id": "ChIJl5R7yRIf0zsRowJ0k1xrr14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl5R7yRIf0zsRowJ0k1xrr14",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:55:15"
+  }
+]

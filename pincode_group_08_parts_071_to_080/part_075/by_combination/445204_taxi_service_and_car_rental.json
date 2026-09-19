@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Madhav kadam",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Taxi service",
+    "pincode": "445204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rane laxmi bad ward, Umarkhed, Maharashtra 445206",
+    "area": "Patil Nagar",
+    "latitude": 19.6057248,
+    "longitude": 77.6877339,
+    "place_id": "ChIJBz70gMWT0TsRlCzoaXFWB9w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBz70gMWT0TsRlCzoaXFWB9w",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:02:20"
+  },
+  {
+    "business_name": "Md Nawaz Taxi car center",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "445204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "GadiWard, near Jama Masjid, Pusad, Maharashtra 445204",
+    "area": "445204",
+    "latitude": 19.9129433,
+    "longitude": 77.5804308,
+    "place_id": "ChIJ04Ksp2V10TsRSRqLrMnDyCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ04Ksp2V10TsRSRqLrMnDyCw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:02:20"
+  }
+]

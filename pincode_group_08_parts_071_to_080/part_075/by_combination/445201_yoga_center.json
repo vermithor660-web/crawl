@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nimje's Yoga Centre",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga instructor",
+    "all_categories": "Yoga instructor",
+    "pincode": "445201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9W8P+J7H, Jambhora., Maharashtra 445201",
+    "area": "445201",
+    "latitude": 20.3665543,
+    "longitude": 77.93574579999999,
+    "place_id": "ChIJf08KpoPh0zsRF0ehnc7Wssc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf08KpoPh0zsRF0ehnc7Wssc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:57:00"
+  },
+  {
+    "business_name": "Mr. Kishor Nimje",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga Retreat Center",
+    "all_categories": "Yoga Retreat Center",
+    "pincode": "445201",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 2,
+    "address": "9W8P+J8H, Jambhora., Maharashtra 445201",
+    "area": "445201",
+    "latitude": 20.3665508,
+    "longitude": 77.93586239999999,
+    "place_id": "ChIJXaAizYjh0zsRG9M1pwLwxKs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXaAizYjh0zsRG9M1pwLwxKs",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:57:00"
+  }
+]

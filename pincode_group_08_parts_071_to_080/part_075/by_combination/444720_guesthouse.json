@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Al-Kareem Guest House",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Hotel, Lodge, Service Apartment",
+    "pincode": "444720",
+    "phone_number": "+91 788 786 0700",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 312,
+    "address": "Mohammad Ali Rd, Chowk, Mominpura, Nagpur, Maharashtra 440018",
+    "area": "Chowk, Mominpura",
+    "latitude": 21.156671499999998,
+    "longitude": 79.0967892,
+    "place_id": "ChIJ84xeN8XA1DsRAV8lQraxW8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ84xeN8XA1DsRAV8lQraxW8U",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:02:45"
+  },
+  {
+    "business_name": "Gajanan Tourist Lodge",
+    "search_category": "Guesthouse",
+    "primary_category": "Lodge",
+    "all_categories": "Lodge",
+    "pincode": "444720",
+    "phone_number": "+91 72232 20856",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "MH MSH 6, near S.T. Depo, Ghamodiya Plot, Harde Nagar, Achalpur, Maharashtra 444805",
+    "area": "Ghamodiya Plot, Harde Nagar",
+    "latitude": 21.285713299999998,
+    "longitude": 77.5193013,
+    "place_id": "ChIJ0dW1HHnz1jsRQeKGIsfbypk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0dW1HHnz1jsRQeKGIsfbypk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:02:49"
+  }
+]

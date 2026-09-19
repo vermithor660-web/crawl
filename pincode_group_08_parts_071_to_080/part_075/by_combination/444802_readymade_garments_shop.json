@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kuralkar Cloth Store",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "444802",
+    "phone_number": "+91 99707 36825",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "XGM5+QH5, main road, Chandikapur Rd, Maharashtra 444802",
+    "area": "444802",
+    "latitude": 20.984380299999998,
+    "longitude": 77.5089735,
+    "place_id": "ChIJT4ASogzB1jsR1H4DlL2qzIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT4ASogzB1jsR1H4DlL2qzIw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:07:22"
+  },
+  {
+    "business_name": "Seema Family Shop",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "444802",
+    "phone_number": "+91 98227 16737",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 14,
+    "address": "Wathoda Rd, Wathoda Shukleshwar, Maharashtra 444802",
+    "area": "444802",
+    "latitude": 20.997874499999998,
+    "longitude": 77.5366217,
+    "place_id": "ChIJw5OaAmvB1jsRMCPuG8SvhHA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw5OaAmvB1jsRMCPuG8SvhHA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:07:22"
+  }
+]

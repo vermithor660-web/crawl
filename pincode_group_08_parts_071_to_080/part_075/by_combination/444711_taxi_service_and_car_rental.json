@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aarohi tours...",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "444711",
+    "phone_number": "+91 98903 83854",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Arvi naka, Pulgaon, Maharashtra 442302",
+    "area": "444711",
+    "latitude": 20.7237577,
+    "longitude": 78.3216329,
+    "place_id": "ChIJE8YQLUJ11DsRzERWpeQfHpk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE8YQLUJ11DsRzERWpeQfHpk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:57:07"
+  },
+  {
+    "business_name": "Shri Bala Sai Car Rental",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Car leasing service, Minibus taxi service, Taxi service",
+    "pincode": "444711",
+    "phone_number": "+91 93567 00544",
+    "website": "https://www.balasaitours.com/",
+    "rating": 5,
+    "reviews_count": 223,
+    "address": "Jawaharmal Joshi Layout, Plot No : 22, 3rd Bus Stop, Gopal Nagar, Pratap Nagar, Nagpur, Maharashtra 440022",
+    "area": "3rd Bus Stop, Gopal Nagar, Pratap Nagar",
+    "latitude": 21.1177928,
+    "longitude": 79.0490878,
+    "place_id": "ChIJNxAyvQu_1DsRA00dkGtuYyA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNxAyvQu_1DsRA00dkGtuYyA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:57:09"
+  }
+]

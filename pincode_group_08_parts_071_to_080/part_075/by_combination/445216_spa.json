@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ummar Hospital",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "445216",
+    "phone_number": "+91 92843 22556",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Madhukar nagar, Gaimukh Nagar, Maharashtra 445216",
+    "area": "445216",
+    "latitude": 19.929641999999998,
+    "longitude": 77.5657035,
+    "place_id": "ChIJ-0KWK9F10TsRnwFtzjBFGow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-0KWK9F10TsRnwFtzjBFGow",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:16:41"
+  },
+  {
+    "business_name": "Yavatmal Swimming Pool",
+    "search_category": "Spa",
+    "primary_category": "Swimming pool",
+    "all_categories": "Swimming pool",
+    "pincode": "445216",
+    "phone_number": "+91 95118 55278",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "swimming pool, Azad Maidan, Indira Gandhi Market Rd, Pangari, Yavatmal, Maharashtra 445001",
+    "area": "Pangari",
+    "latitude": 20.3931759,
+    "longitude": 78.1325166,
+    "place_id": "ChIJ_97MEbbo0zsRZeq8rutdyuk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_97MEbbo0zsRZeq8rutdyuk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:16:43"
+  }
+]

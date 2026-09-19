@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Breathe Yoga Shala",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Fitness center, Meditation Class",
+    "pincode": "445205",
+    "phone_number": "+91 96575 47865",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 45,
+    "address": "Kotwali ward, C/O Farida Kanchwala, Sarafa Lane, above Quality Ply & Lam, beside Jama Masjid, Chandrapur, Maharashtra 442402",
+    "area": "Samadhi Ward, Bazar Ward",
+    "latitude": 19.9458458,
+    "longitude": 79.2970769,
+    "place_id": "ChIJN-BOWPHV0jsRojW9au0YuF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN-BOWPHV0jsRojW9au0YuF4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:04:02"
+  },
+  {
+    "business_name": "Dhammabimba Vipassana Meditation Centre",
+    "search_category": "Yoga Center",
+    "primary_category": "Meditation center",
+    "all_categories": "Meditation center",
+    "pincode": "445205",
+    "phone_number": "+91 94048 27463",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Balaji Nagar, road, behind shriniwas gas agency, umerkhed, Vidul, Umarkhed, Maharashtra 445206",
+    "area": "umerkhed",
+    "latitude": 19.594103099999998,
+    "longitude": 77.71592009999999,
+    "place_id": "ChIJ-U4HEn6T0TsRc91e8EBRpBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-U4HEn6T0TsRc91e8EBRpBo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:04:03"
+  }
+]

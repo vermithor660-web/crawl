@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Kirana Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store, General store",
+    "pincode": "445211",
+    "phone_number": "+91 73853 26569",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 14,
+    "address": "Shivaji Square Niwgha Bazar, Tq, Hadgaon, Maharashtra 431743",
+    "area": "445211",
+    "latitude": 19.5823726,
+    "longitude": 77.5626541,
+    "place_id": "ChIJMXuKGoqV0TsRiogUUDA1k5s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMXuKGoqV0TsRiogUUDA1k5s",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:12:16"
+  },
+  {
+    "business_name": "Best Choice Raswanti",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "445211",
+    "phone_number": "+91 98500 63528",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Best Choice Raswanti, Niwdha, Maharashtra 431743",
+    "area": "445211",
+    "latitude": 19.5844772,
+    "longitude": 77.5627602,
+    "place_id": "ChIJRUkacnmV0TsRg-s2ZbMQFMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRUkacnmV0TsRg-s2ZbMQFMU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:12:16"
+  }
+]

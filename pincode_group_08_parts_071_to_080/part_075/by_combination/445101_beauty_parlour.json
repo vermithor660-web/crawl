@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Refresh Beauty Studio",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "445101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "azad ganesh gruh nirman society, ganpati mandir, 25A, behind jajoo college, Yavatmal, Maharashtra 445001",
+    "area": "445101",
+    "latitude": 20.412306599999997,
+    "longitude": 78.1418267,
+    "place_id": "ChIJlXz80bTv0zsRX1cWTkQNDOM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlXz80bTv0zsRX1cWTkQNDOM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:45:05"
+  },
+  {
+    "business_name": "Femina beauty salon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "445101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 12,
+    "address": "Darda Nagar, 166, Shre Krishna Nagar, Yavatmal, Maharashtra 445002",
+    "area": "Wadgaon Road, Shre Krishna Nagar",
+    "latitude": 20.384117699999997,
+    "longitude": 78.11157949999999,
+    "place_id": "ChIJxYQn997p0zsR5hmhzMlOdkg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxYQn997p0zsR5hmhzMlOdkg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:45:06"
+  }
+]

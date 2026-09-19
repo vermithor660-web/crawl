@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S K Fruit",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store",
+    "pincode": "444802",
+    "phone_number": "+91 97301 19833",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Mani Road, near Bas Top, Rukmini Nagar, Vivekanand Colony, Amravati, Maharashtra 444606",
+    "area": "Rukmini Nagar, Vivekanand Colony",
+    "latitude": 20.9277347,
+    "longitude": 77.7652947,
+    "place_id": "ChIJc9EqqPml1jsReTndYc9bcZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc9EqqPml1jsReTndYc9bcZY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:07:12"
+  },
+  {
+    "business_name": "Badshah vegetable",
+    "search_category": "Fruit and Vegetable Wholesaler",
+    "primary_category": "Fruit and vegetable store",
+    "all_categories": "Fruit and vegetable store, Vegetable wholesale market",
+    "pincode": "444802",
+    "phone_number": "+91 70282 73344",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "shop no 1, wathoda, Shukleshwar Rd, near jambhe setu kendra, Wathoda Shukleshwar, Maharashtra 444802",
+    "area": "444802",
+    "latitude": 20.996014799999998,
+    "longitude": 77.5360342,
+    "place_id": "ChIJ7zRDNADB1jsRAjY2yn7nImU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7zRDNADB1jsRAjY2yn7nImU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:07:12"
+  }
+]

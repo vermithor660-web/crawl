@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maharashtra 445324",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "445324",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Maharashtra",
+    "area": "445324",
+    "latitude": 19.8993417,
+    "longitude": 78.72494689999999,
+    "place_id": "ChIJq1wFgKr-0jsR_mtYXDAm6d0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq1wFgKr-0jsR_mtYXDAm6d0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:35:44"
+  },
+  {
+    "business_name": "Sardar A Pure Meat Shop",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "445324",
+    "phone_number": "+91 92122 26737",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Rajapur, Pocket 6, Sector 9, Rohini, Delhi, 110085",
+    "area": "Rajapur, Pocket 6, Sector 9, Rohini",
+    "latitude": 28.7115887,
+    "longitude": 77.1245142,
+    "place_id": "ChIJ0XA5CV4BDTkRV_8rFt2Oq8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0XA5CV4BDTkRV_8rFt2Oq8U",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:35:45"
+  }
+]

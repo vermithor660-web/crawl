@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Prince Fashion",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store, Store",
+    "pincode": "444802",
+    "phone_number": "+91 95794 11430",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Wathoda Shukleshwar, Maharashtra 444801",
+    "area": "444802",
+    "latitude": 20.9977678,
+    "longitude": 77.5388646,
+    "place_id": "ChIJu3MHhk3B1jsRaW08jhnCaq0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu3MHhk3B1jsRaW08jhnCaq0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:07:24"
+  },
+  {
+    "business_name": "Bhavani Sport",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "444802",
+    "phone_number": "+91 98602 69189",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Amt Road Shop No 1, Khel Nagawe, Maharashtra 444802",
+    "area": "444802",
+    "latitude": 20.960132299999998,
+    "longitude": 77.5031216,
+    "place_id": "ChIJ7UFiFMDB1jsR-9P8C_zCsvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7UFiFMDB1jsR-9P8C_zCsvk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:07:24"
+  }
+]

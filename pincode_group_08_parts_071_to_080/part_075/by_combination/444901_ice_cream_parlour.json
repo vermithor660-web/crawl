@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amul Icecream Parlour (TUKDYDAS ICE CREAM PARLOUR)",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "444901",
+    "phone_number": "+91 84080 78244",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Shop.No 1, Arjun Nagar, Amravati, Maharashtra 444603",
+    "area": "Arjun Nagar",
+    "latitude": 20.9590066,
+    "longitude": 77.77772039999999,
+    "place_id": "ChIJi6NPM2aj1jsR-3-oyxjYN-k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi6NPM2aj1jsR-3-oyxjYN-k",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:24:57"
+  },
+  {
+    "business_name": "Top N Town Ice Cream Parlour",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "444901",
+    "phone_number": "N/A",
+    "website": "http://www.topntown.in/",
+    "rating": 4.1,
+    "reviews_count": 124,
+    "address": "beside zero degree, near pwd office, camp, Amravati, Maharashtra 444602",
+    "area": "Paranjpe Colony",
+    "latitude": 20.938073,
+    "longitude": 77.7752098,
+    "place_id": "ChIJ0-XMDWKj1jsRqJGr5HHLjKA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0-XMDWKj1jsRqJGr5HHLjKA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:24:58"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sarvadnya events",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "444801",
+    "phone_number": "+91 77578 58121",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ashti, Maharashtra 444801",
+    "area": "444801",
+    "latitude": 21.044211999999998,
+    "longitude": 77.6307018,
+    "place_id": "ChIJRU6vmoqV1jsRDSH-D8FSbeg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRU6vmoqV1jsRDSH-D8FSbeg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:06:56"
+  },
+  {
+    "business_name": "Shree vighnharta events and decoration",
+    "search_category": "Tradeshows",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "444801",
+    "phone_number": "+91 91586 20833",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Bus stop, Nandgaon Peth, Amravati, Maharashtra 444901",
+    "area": "444801",
+    "latitude": 21.0216289,
+    "longitude": 77.8238277,
+    "place_id": "ChIJGXtXWy2j1jsRTvsXT1v1tio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGXtXWy2j1jsRTvsXT1v1tio",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:06:58"
+  }
+]

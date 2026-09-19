@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "one tech corporation",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "445201",
+    "phone_number": "+91 97632 80894",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 2, Rathod Complex, Darwha Rd, near Ekveera Hotel, Lohara, Yavatmal, Bori Kh, Maharashtra 445201",
+    "area": "Lohara",
+    "latitude": 20.3501072,
+    "longitude": 77.8700088,
+    "place_id": "ChIJXe_kce9e0TsRyTKZcMvIs-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXe_kce9e0TsRyTKZcMvIs-Q",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:58:10"
+  },
+  {
+    "business_name": "DS INFO SOLUTION",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Payroll Service Provider",
+    "all_categories": "Payroll Service Provider, Service establishment",
+    "pincode": "445201",
+    "phone_number": "+91 99232 24488",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "DS INFO SOLUTION, 445201, India",
+    "area": "445201",
+    "latitude": 18.8181773,
+    "longitude": 76.7698374,
+    "place_id": "ChIJj-Wpsy7p0zsRqbHU1ZlTpmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj-Wpsy7p0zsRqbHU1ZlTpmk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:58:13"
+  }
+]

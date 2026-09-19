@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HR CONSULTANCY",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "444711",
+    "phone_number": "N/A",
+    "website": "https://www.techhr.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HR CONSULTANCY, 444711, India",
+    "area": "444711",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJWTUdX_P4NA4R-cbnYZHxiS4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWTUdX_P4NA4R-cbnYZHxiS4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:57:51"
+  },
+  {
+    "business_name": "HRhelpdesk",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Recruiter",
+    "all_categories": "Recruiter, Service establishment, Human resource consulting",
+    "pincode": "444711",
+    "phone_number": "N/A",
+    "website": "https://hrhelpdesk.in/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "HRhelpdesk, 444711, India",
+    "area": "444711",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJy9s02SsfDTkRCojjz8TMmfY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy9s02SsfDTkRCojjz8TMmfY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:57:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Little stars development centre",
+    "search_category": "Therapy Center",
+    "primary_category": "Child health care center",
+    "all_categories": "Child health care center",
+    "pincode": "445210",
+    "phone_number": "+91 95116 29449",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop no-1, Little Stars Development Centre, Happiness street, next to Ganga Altus, Thite Nagar, Kharadi, Pune, Maharashtra 411014",
+    "area": "Thite Nagar, Kharadi",
+    "latitude": 18.5425205,
+    "longitude": 73.9360938,
+    "place_id": "ChIJE9H6_zHDwjsRvUcBfddYE7w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE9H6_zHDwjsRvUcBfddYE7w",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:11:32"
+  },
+  {
+    "business_name": "Therapy Central",
+    "search_category": "Therapy Center",
+    "primary_category": "Mental health service",
+    "all_categories": "Mental health service, Service establishment",
+    "pincode": "445210",
+    "phone_number": "N/A",
+    "website": "https://therapyscentral.com/",
+    "rating": 4.7,
+    "reviews_count": 14,
+    "address": "Therapy Central, 445210, India",
+    "area": "445210",
+    "latitude": 27.698638,
+    "longitude": -83.80460099999999,
+    "place_id": "ChIJs5lIjBiw5asROeKmOg2Sqrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs5lIjBiw5asROeKmOg2Sqrg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:11:32"
+  }
+]

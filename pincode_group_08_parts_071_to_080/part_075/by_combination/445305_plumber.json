@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Plumbing services",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "445305",
+    "phone_number": "+91 91824 47922",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Ramnagar Colony, Adilabad, Telangana 504001",
+    "area": "Ramnagar Colony",
+    "latitude": 19.655753,
+    "longitude": 78.5221072,
+    "place_id": "ChIJw6xuFIBd0jsRe3zZsqDML3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw6xuFIBd0jsRe3zZsqDML3s",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:27:19"
+  },
+  {
+    "business_name": "Laborin services",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber, Cleaning Services, Electrician, Service establishment, Electrical engineer",
+    "pincode": "445305",
+    "phone_number": "+91 81219 18702",
+    "website": "https://www.laborin.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Laborin services, 445305, India",
+    "area": "445305",
+    "latitude": 19.5447015,
+    "longitude": 78.5746672,
+    "place_id": "ChIJE6-GahAasYcRoD6oBZEK3JQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE6-GahAasYcRoD6oBZEK3JQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:27:19"
+  }
+]

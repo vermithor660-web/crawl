@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S&P Auto parts and Accessories",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Helmet Shop",
+    "all_categories": "Helmet Shop, Auto Accessories Store, Motorcycle parts store, Motorcycle shop",
+    "pincode": "444801",
+    "phone_number": "+91 98349 34194",
+    "website": "https://www.instagram.com/sp_autoparts_and_accessorys?igsi=MWtyaXp1Z3k4bTA1cg==",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Balaji nagar, pushpak coloney, near gadgadeshar temple, Amravati, Maharashtra 444604",
+    "area": "444801",
+    "latitude": 20.9227898,
+    "longitude": 77.7400797,
+    "place_id": "ChIJo1k5kVK71jsRjFoE63CxuQ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo1k5kVK71jsRjFoE63CxuQ0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:05:54"
+  },
+  {
+    "business_name": "Vatan Auto parts Bike Repairing Center",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "444801",
+    "phone_number": "+91 97666 80023",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Walgaon, Amravati, MSH-6, Morshi Chandur Bazar Road, Chandu Bazar, Chandu Bazar, Maharashtra 444801",
+    "area": "Walgaon",
+    "latitude": 21.007552,
+    "longitude": 77.703507,
+    "place_id": "ChIJf2lOPHS91jsRQ6O9Pqwy3FM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf2lOPHS91jsRQ6O9Pqwy3FM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:05:54"
+  }
+]

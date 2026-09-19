@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Al Khair medical",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "445201",
+    "phone_number": "+91 89999 30062",
+    "website": "https://al-khair-medical.grexa.site/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Aashiyana liaut, Choti Gujri, Pangari, Yavatmal, Maharashtra 445001",
+    "area": "Choti Gujri, Pangari",
+    "latitude": 20.3924815,
+    "longitude": 78.1453301,
+    "place_id": "ChIJpXj7HCjp0zsRFsBFp4UzdVM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpXj7HCjp0zsRFsBFp4UzdVM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:56:50"
+  },
+  {
+    "business_name": "KOHINOOR MEDICAL",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "445201",
+    "phone_number": "+91 95271 23852",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Shop No 1, Kohinoor Chowk, Pandharkawda Road, Almass Nagar, Choti Gujri, Tarapur, Yavatmal, Maharashtra 445001",
+    "area": "Almass Nagar, Choti Gujri, Tarapur",
+    "latitude": 20.387820299999998,
+    "longitude": 78.1470401,
+    "place_id": "ChIJSe7PBTvp0zsRaW3PR6tpA_A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSe7PBTvp0zsRaW3PR6tpA_A",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:56:53"
+  }
+]

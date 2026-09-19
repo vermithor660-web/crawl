@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PATIL TEA & PAN SHOP",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "445307",
+    "phone_number": "+91 82620 51974",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "At gopal malpanli celebration, Rajura - Korpana Rd, opposite indian petroleum chya side la, Gadchandur, Maharashtra 442908",
+    "area": "445307",
+    "latitude": 19.735225099999997,
+    "longitude": 79.1909795,
+    "place_id": "ChIJ2bELboTF0jsRsIYFtti1SNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2bELboTF0jsRsIYFtti1SNg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:30:17"
+  },
+  {
+    "business_name": "Saddam Biriyani",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "445307",
+    "phone_number": "+91 93098 98223",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 20,
+    "address": "P5J9+R6M, Gadchandur, Maharashtra 442908",
+    "area": "445307",
+    "latitude": 19.732084099999998,
+    "longitude": 79.168039,
+    "place_id": "ChIJvz6CxsXF0jsR4hRbBaMKI-I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvz6CxsXF0jsR4hRbBaMKI-I",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:30:17"
+  }
+]

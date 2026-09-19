@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Virat Electrical Shop",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "445203",
+    "phone_number": "+91 98222 66825",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "2RGP+926, Virat Electrical Shop Dehani, Maharashtra 445203",
+    "area": "445203",
+    "latitude": 20.0259104,
+    "longitude": 77.83501,
+    "place_id": "ChIJ1xhmqqh70TsREm3q9dZTpYo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1xhmqqh70TsREm3q9dZTpYo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:00:40"
+  },
+  {
+    "business_name": "Shubham Electricals And General Stores",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "445203",
+    "phone_number": "+91 98500 40318",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2RWP+6JF, Kalgaon, Digras, Maharashtra 445203",
+    "area": "445203",
+    "latitude": 20.0455604,
+    "longitude": 77.8365492,
+    "place_id": "ChIJA1afD7x70TsRmfhwHkyWb9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA1afD7x70TsRmfhwHkyWb9g",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:00:40"
+  }
+]

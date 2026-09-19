@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Suraj Medical",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "445101",
+    "phone_number": "+91 97306 03186",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "Main road, Vijaygopal, Maharashtra 442306",
+    "area": "445101",
+    "latitude": 20.5728127,
+    "longitude": 78.33069189999999,
+    "place_id": "ChIJn6rfzvOM0zsRvREC1EQ5R9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn6rfzvOM0zsRvREC1EQ5R9I",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:44:43"
+  },
+  {
+    "business_name": "Anandi Medical & General Store's",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "445101",
+    "phone_number": "+91 99756 40637",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 2, Main Road, near Pathmic Shala, Vijaygopal, Maharashtra 442306",
+    "area": "445101",
+    "latitude": 20.573070899999998,
+    "longitude": 78.3309511,
+    "place_id": "ChIJYZrmOK6N0zsRUqkeQxXhcrA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYZrmOK6N0zsRUqkeQxXhcrA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:44:43"
+  }
+]

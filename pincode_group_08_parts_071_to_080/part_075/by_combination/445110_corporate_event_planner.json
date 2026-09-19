@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Linkin Minds",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner, Event management company, Wedding planner",
+    "pincode": "445110",
+    "phone_number": "+91 85509 36006",
+    "website": "http://www.linkinminds.com/",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "3rd Floor,Prem Corner,, Opp Balaji Petrol Pump, Pune, Maharashtra 411043",
+    "area": "Shriram Nagar, Kamal Vihar, Suvarnayug Nagar",
+    "latitude": 18.4656937,
+    "longitude": 73.84778949999999,
+    "place_id": "ChIJq6qqqrbqwjsR0WDMNbcsBRI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqqrbqwjsR0WDMNbcsBRI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:55:49"
+  },
+  {
+    "business_name": "Unicorn Event Management and Marketing Pvt. Ltd.",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "445110",
+    "phone_number": "+91 99212 24567",
+    "website": "http://www.unicornevent.com/",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "382, Trikoni Garden, Shankar Nagar, Nagpur, Maharashtra 440010",
+    "area": "Shankar Nagar",
+    "latitude": 21.1320809,
+    "longitude": 79.05749689999999,
+    "place_id": "ChIJy_hC8WHA1DsRibqmutTrZTA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy_hC8WHA1DsRibqmutTrZTA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:55:49"
+  }
+]

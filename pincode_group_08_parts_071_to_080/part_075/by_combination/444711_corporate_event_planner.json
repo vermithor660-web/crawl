@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shambhushesh Disply PULGAON",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "444711",
+    "phone_number": "+91 98603 91441",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Papad kar layout, Panchadhara Rd, Tilak Nagar, Pulgaon, Maharashtra 442302",
+    "area": "Tilak Nagar",
+    "latitude": 20.7188686,
+    "longitude": 78.31241639999999,
+    "place_id": "ChIJIRDvpx511DsRfqCoEK-S1ZE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIRDvpx511DsRfqCoEK-S1ZE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:57:33"
+  },
+  {
+    "business_name": "Vaibhav Event",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "444711",
+    "phone_number": "+91 97634 38211",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "MH SH 243, Subhash Nagar, Wardha, Pulgaon, Maharashtra 442302",
+    "area": "Subhash Nagar",
+    "latitude": 20.719367,
+    "longitude": 78.3255569,
+    "place_id": "ChIJOTK1ucJ11DsRCPKMf2RQPao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOTK1ucJ11DsRCPKMf2RQPao",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:57:33"
+  }
+]

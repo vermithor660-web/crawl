@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kazi Flowers & Decorators",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "445002",
+    "phone_number": "+91 73783 75551",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Choti Gujri, Pangari, Yavatmal, Maharashtra 445001",
+    "area": "Choti Gujri, Pangari",
+    "latitude": 20.3908856,
+    "longitude": 78.1395045,
+    "place_id": "ChIJsVd0Lc_o0zsRnl768qLtzsU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsVd0Lc_o0zsRnl768qLtzsU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:43:24"
+  },
+  {
+    "business_name": "Sk Traders",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "445002",
+    "phone_number": "+91 86684 13006",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WH56 M9P, Pusad, Maharashtra 445204",
+    "area": "445002",
+    "latitude": 19.9087525,
+    "longitude": 77.5607795,
+    "place_id": "ChIJO3Sx0_IL0TsRpDhDo2ty4Mk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO3Sx0_IL0TsRpDhDo2ty4Mk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:43:26"
+  }
+]

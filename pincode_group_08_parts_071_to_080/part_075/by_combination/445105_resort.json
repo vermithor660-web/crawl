@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "UntamedPaws | Luxury Wildlife Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "445105",
+    "phone_number": "+91 93929 09461",
+    "website": "https://www.untamedpaws.in/",
+    "rating": 4.7,
+    "reviews_count": 47,
+    "address": "Gate No 151/1, Sunna, Kelapur, Maharashtra 445305",
+    "area": "445105",
+    "latitude": 19.9160126,
+    "longitude": 78.5227611,
+    "place_id": "ChIJ7VrnCAJT0jsR_ZR2kHy5qKE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7VrnCAJT0jsR_ZR2kHy5qKE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:50:34"
+  },
+  {
+    "business_name": "Tipai - Wildlife Luxuries",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "445105",
+    "phone_number": "+91 96997 86275",
+    "website": "http://wildlifeluxuries.com/",
+    "rating": 4.4,
+    "reviews_count": 188,
+    "address": "Gondwakadi, Maharashtra 445302",
+    "area": "445105",
+    "latitude": 19.9644375,
+    "longitude": 78.52381249999999,
+    "place_id": "ChIJQ4NYzeet0zsRyCcToX05MG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4NYzeet0zsRyCcToX05MG4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:50:34"
+  }
+]

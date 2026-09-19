@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aarambh Yoga Institute",
+    "search_category": "Yoga Center",
+    "primary_category": "Yoga studio",
+    "all_categories": "Yoga studio, Yoga instructor, Yoga Retreat Center",
+    "pincode": "445106",
+    "phone_number": "+91 91361 22892",
+    "website": "https://www.aarambhyoga.org/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Akshara High School, Plot No.124, Shri Swami Samarth CHS, RSC 12 & 13, Sector 8, Kandivali West, Mumbai, Maharashtra 400067",
+    "area": "Shri Swami Samarth CHS, RSC 12 & 13, Sector 8, Kandivali West",
+    "latitude": 19.218497199999998,
+    "longitude": 72.8184623,
+    "place_id": "ChIJbwb9wEWx5zsRvLnKQsFcPpU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbwb9wEWx5zsRvLnKQsFcPpU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:51:48"
+  },
+  {
+    "business_name": "Brahmakumari's Vishwa Shanti Sarovar",
+    "search_category": "Yoga Center",
+    "primary_category": "Meditation center",
+    "all_categories": "Meditation center",
+    "pincode": "445106",
+    "phone_number": "+91 74983 86403",
+    "website": "https://vishwashantisarovar.org/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "VCA Stadium, Near, Wardha Road, Jamtha, Nagpur, Maharashtra 441108",
+    "area": "445106",
+    "latitude": 21.0099706,
+    "longitude": 79.0356955,
+    "place_id": "ChIJJxPSLO-91DsRQtPIhs6-kvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJxPSLO-91DsRQtPIhs6-kvk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:51:48"
+  }
+]

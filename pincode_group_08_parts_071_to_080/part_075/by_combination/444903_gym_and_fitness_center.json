@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fitness gym",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "444903",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "2473+WRW, Akhatwada, Maharashtra 444903",
+    "area": "444903",
+    "latitude": 21.014857,
+    "longitude": 78.104568,
+    "place_id": "ChIJkYzYMQAZ1DsRtn7jbwsM4bo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkYzYMQAZ1DsRtn7jbwsM4bo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:28:46"
+  },
+  {
+    "business_name": "S.M Fitness Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "444903",
+    "phone_number": "+91 70832 54971",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "near Bus stand, Ramdara, Maharashtra 442201",
+    "area": "444903",
+    "latitude": 21.1054989,
+    "longitude": 78.2018818,
+    "place_id": "ChIJ_WzNQCM91DsRR2GK_Da3lyk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_WzNQCM91DsRR2GK_Da3lyk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:28:46"
+  }
+]

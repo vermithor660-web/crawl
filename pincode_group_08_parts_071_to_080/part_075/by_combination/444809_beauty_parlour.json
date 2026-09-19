@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Honey hair saloon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Post office",
+    "pincode": "444809",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Barlinge complex, Paratwada, Kandali, Paratwada, Kandali, Maharashtra 444805",
+    "area": "Paratwada, Kandali",
+    "latitude": 21.3060922,
+    "longitude": 77.5275463,
+    "place_id": "ChIJFQt6APH11jsR4u7clMgWj2g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFQt6APH11jsR4u7clMgWj2g",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:20:22"
+  },
+  {
+    "business_name": "Riddhi Beauty Salon",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "444809",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "9J2F+HH2, Bodad, Maharashtra 444809",
+    "area": "444809",
+    "latitude": 21.3513457,
+    "longitude": 77.6237046,
+    "place_id": "ChIJCTao3zWL1jsRzWou9D9JoxA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCTao3zWL1jsRzWou9D9JoxA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:20:23"
+  }
+]

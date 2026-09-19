@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LEENA OFFSET",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop",
+    "pincode": "445301",
+    "phone_number": "+91 99606 31069",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No. 2, Main Road, near Jalaram Mandir, Ghatanji, Maharashtra 445301",
+    "area": "445301",
+    "latitude": 20.1440982,
+    "longitude": 78.3111431,
+    "place_id": "ChIJgTHpDwy50zsRAG5hNNVMRhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgTHpDwy50zsRAG5hNNVMRhk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:20:34"
+  },
+  {
+    "business_name": "SAI OFFSET PRINTERS",
+    "search_category": "Printing Press and Offset Printer",
+    "primary_category": "Print shop",
+    "all_categories": "Print shop",
+    "pincode": "445301",
+    "phone_number": "+91 96237 61466",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No.1 Post Office Chowk, Ghatanji, Maharashtra 445301",
+    "area": "445301",
+    "latitude": 20.1406656,
+    "longitude": 78.31236,
+    "place_id": "ChIJJzjgiMm50zsRTPMk9XADW3o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJzjgiMm50zsRTPMk9XADW3o",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:20:34"
+  }
+]

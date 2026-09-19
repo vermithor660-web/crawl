@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "445205",
+    "phone_number": "+91 96892 03205",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no 3 Fulsawangi, road, Mahagaon, Maharashtra 445205",
+    "area": "445205",
+    "latitude": 19.7853381,
+    "longitude": 77.7748373,
+    "place_id": "ChIJTYIbGzWF0TsR1x-gMOpV7ZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTYIbGzWF0TsR1x-gMOpV7ZY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:03:56"
+  },
+  {
+    "business_name": "Aai Lab",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "445205",
+    "phone_number": "+91 77758 27484",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gunj, Maharashtra 445205",
+    "area": "445205",
+    "latitude": 19.8559864,
+    "longitude": 77.7253569,
+    "place_id": "ChIJAxr2XA2d0TsRqSO4zQywpW4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAxr2XA2d0TsRqSO4zQywpW4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:03:56"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SRI BALAJI SKIN & ENT HOSPITAL",
+    "search_category": "ENT Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "445110",
+    "phone_number": "+91 99667 72588",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 117,
+    "address": "Doctors Lane opp: ADCC bank, Nirmal, Telangana 504106",
+    "area": "Gandhi Nagar Colony",
+    "latitude": 19.1042153,
+    "longitude": 78.3406014,
+    "place_id": "ChIJserQu4GLzTsRvm4Pe_lWIHw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJserQu4GLzTsRvm4Pe_lWIHw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:55:13"
+  },
+  {
+    "business_name": "CARE ENT",
+    "search_category": "ENT Clinic",
+    "primary_category": "Medical group",
+    "all_categories": "Medical group",
+    "pincode": "445110",
+    "phone_number": "+91 93471 23479",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bhainsa, Telangana 504103",
+    "area": "445110",
+    "latitude": 19.1045575,
+    "longitude": 77.9637218,
+    "place_id": "ChIJg2-l8n7_zTsRhjjNI1kmHcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg2-l8n7_zTsRhjjNI1kmHcI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:55:15"
+  }
+]

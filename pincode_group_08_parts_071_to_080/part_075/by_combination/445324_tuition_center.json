@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mission Maths",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "445324",
+    "phone_number": "+91 89219 84644",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Janardhanapuram, Varkala, Kerala 695141",
+    "area": "Janardhanapuram",
+    "latitude": 8.7271074,
+    "longitude": 76.7274226,
+    "place_id": "ChIJRxL2xyTvBTsRQQTU8EpKDek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxL2xyTvBTsRQQTU8EpKDek",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:36:54"
+  },
+  {
+    "business_name": "VitaSkills Academy",
+    "search_category": "Tuition Center",
+    "primary_category": "Education center",
+    "all_categories": "Education center",
+    "pincode": "445324",
+    "phone_number": "+91 73064 81963",
+    "website": "https://vitaskillsacademy.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "JV9W+V22, Aameen Tower, Pothencode, Keralam 695584",
+    "area": "445324",
+    "latitude": 8.6196875,
+    "longitude": 76.8950625,
+    "place_id": "ChIJud4SqKLABTsRGCgPF4Wo5t8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJud4SqKLABTsRGCgPF4Wo5t8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:36:54"
+  }
+]

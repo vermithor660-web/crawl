@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Mauli",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "444803",
+    "phone_number": "+91 90963 21721",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 100,
+    "address": "1, Daryapur Banosa, Maharashtra 444803",
+    "area": "Babhali",
+    "latitude": 20.9293832,
+    "longitude": 77.3080502,
+    "place_id": "ChIJ1darU7Ld1jsRZN_HCuSj6sI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1darU7Ld1jsRZN_HCuSj6sI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:09:58"
+  },
+  {
+    "business_name": "Hotel Krishnarpan",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "444803",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 21,
+    "address": "W8FG+6R4, Civil Line, Daryapur Banosa, Maharashtra 444803",
+    "area": "Civil Line",
+    "latitude": 20.923001499999998,
+    "longitude": 77.327077,
+    "place_id": "ChIJ2RJ-TmHc1jsRRH4LVb7JzxE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2RJ-TmHc1jsRRH4LVb7JzxE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:09:58"
+  }
+]

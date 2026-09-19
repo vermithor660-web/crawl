@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Global Properties",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant, Real Estate Builders & Construction Company, Industrial real estate agency, Real estate rental agency",
+    "pincode": "444803",
+    "phone_number": "+91 99995 95312",
+    "website": "https://wa.me/919999595312",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "A-84, Main Road, Block A, Rampuri, Surya Nagar, Ghaziabad, Uttar Pradesh 201011",
+    "area": "Block A, Rampuri, Surya Nagar",
+    "latitude": 28.668778099999997,
+    "longitude": 77.3294312,
+    "place_id": "ChIJ25K-PiflDDkRS7IlzslWh5M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ25K-PiflDDkRS7IlzslWh5M",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:10:18"
+  },
+  {
+    "business_name": "REAL PROPERTIES",
+    "search_category": "Commercial Real Estate Brokerages",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency",
+    "pincode": "444803",
+    "phone_number": "+91 99273 64557",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "BP Colony, Adarsh Colony, Civil Lines, Rampur, Uttar Pradesh 244926",
+    "area": "BP Colony, Adarsh Colony, Civil Lines",
+    "latitude": 28.7812245,
+    "longitude": 79.0244336,
+    "place_id": "ChIJT_4IL6qSCjkR8_AgY-qWmRM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJT_4IL6qSCjkR8_AgY-qWmRM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:10:19"
+  }
+]

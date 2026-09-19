@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Satish Boot House..",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "444708",
+    "phone_number": "+91 76201 22201",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Nagar Parishad Complex, Ner, Maharashtra 445102",
+    "area": "444708",
+    "latitude": 20.491381999999998,
+    "longitude": 77.8669437,
+    "place_id": "ChIJ1cr2dDdX0TsRRGYlegYVQ3M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1cr2dDdX0TsRRGYlegYVQ3M",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:51:37"
+  },
+  {
+    "business_name": "MS FOOTWEAR",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "444708",
+    "phone_number": "+91 99239 30072",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nagarpari Complex, Ner Rd, Ner, Maharashtra 445102",
+    "area": "444708",
+    "latitude": 20.4907233,
+    "longitude": 77.8690124,
+    "place_id": "ChIJl8PzRrFX0TsRplJGq58Q8RM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl8PzRrFX0TsRplJGq58Q8RM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:51:37"
+  }
+]

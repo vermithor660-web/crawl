@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sushil clinic",
+    "search_category": "Clinics",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444810",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8MHH+JC9, Shirajgaon Kasba, Maharashtra 444810",
+    "area": "444810",
+    "latitude": 21.329044099999997,
+    "longitude": 77.6786204,
+    "place_id": "ChIJ__2ZzWSJ1jsRi8RLyncaamM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__2ZzWSJ1jsRi8RLyncaamM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:21:37"
+  },
+  {
+    "business_name": "Kamakshi Computerised Clinical Laboratory",
+    "search_category": "Clinics",
+    "primary_category": "Medical clinic",
+    "all_categories": "Medical clinic",
+    "pincode": "444810",
+    "phone_number": "+91 77220 31339",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No A1, Shirajgaon Kasba, Maharashtra 444810",
+    "area": "444810",
+    "latitude": 21.335474299999998,
+    "longitude": 77.6773585,
+    "place_id": "ChIJDXFyLuyJ1jsReAl25HMEJ-g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDXFyLuyJ1jsReAl25HMEJ-g",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:21:37"
+  }
+]

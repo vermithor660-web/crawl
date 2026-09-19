@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sadaf Mobile Shop",
+    "search_category": "Organic Food Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "445307",
+    "phone_number": "+91 95614 04841",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 76,
+    "address": "Ghugus Basti, Ghugus, Maharashtra 442505",
+    "area": "Ghugus Basti",
+    "latitude": 19.940761,
+    "longitude": 79.1115434,
+    "place_id": "ChIJU56amyzZ0jsRjmT9eaXx4VM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU56amyzZ0jsRjmT9eaXx4VM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:30:08"
+  },
+  {
+    "business_name": "Khaparkar Organic Farm Fresh to Kitchen",
+    "search_category": "Organic Food Store",
+    "primary_category": "Agricultural production",
+    "all_categories": "Agricultural production",
+    "pincode": "445307",
+    "phone_number": "+91 86570 66558",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "HOUSE NO.14, TOWN LANDMARK CITY 53, F.B, Shastri Ward, Nandgaon, Maharashtra 442301",
+    "area": "Shastri Ward",
+    "latitude": 20.5432013,
+    "longitude": 78.8212417,
+    "place_id": "ChIJU-jS92V70zsRVLRl-CWbv_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU-jS92V70zsRVLRl-CWbv_M",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:30:08"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhishek Florist",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist, Balloon artist, Balloon store, Flower delivery, Flower designer, Flower market, Gift shop, Party planner, Party store, Wholesale florist",
+    "pincode": "444905",
+    "phone_number": "+91 99779 95727",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Bima Kunj, Shop Number 3, Om Complex, Infront of, Kolar Rd, Bhopal, Madhya Pradesh 462042",
+    "area": "Shirdipuram, Kolar Rd",
+    "latitude": 23.1795321,
+    "longitude": 77.4176825,
+    "place_id": "ChIJ0baGkXNDfDkR8GsbXnfSiPM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0baGkXNDfDkR8GsbXnfSiPM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:32:49"
+  },
+  {
+    "business_name": "UNIQUE DECORATORS",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "444905",
+    "phone_number": "+91 70836 19845",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shop No 1, Main Road, Chatrapati Shivaji Maharaj Chowk, Mitra Nagar, Sawe Wadi, Latur, Maharashtra 413531",
+    "area": "Mitra Nagar, Sawe Wadi",
+    "latitude": 18.3977073,
+    "longitude": 76.56613569999999,
+    "place_id": "ChIJHRuFtkODzzsRlAI0bwxGV3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHRuFtkODzzsRlAI0bwxGV3g",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:32:49"
+  }
+]

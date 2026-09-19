@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khadi India",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "445210",
+    "phone_number": "+91 98689 55309",
+    "website": "http://www.khadinatural.com/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Shop No.2775, 20, Ajmal Khan Rd, near Roshan Di Kulfi, Beadonpura, Karol Bagh, New Delhi, Delhi, 110005",
+    "area": "Beadonpura, Karol Bagh",
+    "latitude": 28.6508559,
+    "longitude": 77.192044,
+    "place_id": "ChIJGyN4yp0CDTkRurtAF5Wp9sE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGyN4yp0CDTkRurtAF5Wp9sE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:10:51"
+  },
+  {
+    "business_name": "Shubhkamna Khadi Bhandar",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "445210",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Abu Lane Chowk, Begum Bridge Road Begum Bridge Road, Meerut, Uttar Pradesh 250001",
+    "area": "Begambagh",
+    "latitude": 28.9845679,
+    "longitude": 77.7064149,
+    "place_id": "ChIJ22yN4AFlDDkRjGvBQhsFk9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ22yN4AFlDDkRjGvBQhsFk9M",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:10:51"
+  }
+]

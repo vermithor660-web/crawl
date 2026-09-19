@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kartikeya Hospital",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "445305",
+    "phone_number": "+91 90638 05454",
+    "website": "http://kartikeyahospital.info/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Door Number 4, 5-55/2, opposite Girls High School, Vidya Nagar, Adilabad, Telangana 504001",
+    "area": "Vidya Nagar",
+    "latitude": 19.6719607,
+    "longitude": 78.52771539999999,
+    "place_id": "ChIJcyt1qHBc0jsRE9RBtG6vtt0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcyt1qHBc0jsRE9RBtG6vtt0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:27:00"
+  },
+  {
+    "business_name": "CHROME HOSPITAL",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "445305",
+    "phone_number": "+91 93986 64430",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "MGGJ+H5V, Unnamed Road, Vidya Nagar, Adilabad, Telangana 504001",
+    "area": "Vidya Nagar",
+    "latitude": 19.6764938,
+    "longitude": 78.5304219,
+    "place_id": "ChIJCTLE__hb0jsRYDPdu8GNnrg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCTLE__hb0jsRYDPdu8GNnrg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:27:00"
+  }
+]

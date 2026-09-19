@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gaurav Pets Center",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Aquarium shop, Bird shop, Goldfish store",
+    "pincode": "445206",
+    "phone_number": "+91 94059 00153",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 185,
+    "address": "Shop Number 11, Krishna Tower, Gurudwara Rd, near jayprakash tailor, Shivaji Nagar, D.G.Tukum, Jairaj Nagar, Tukum, Chandrapur, Maharashtra 442401",
+    "area": "Shivaji Nagar, D.G.Tukum, Jairaj Nagar, Tukum",
+    "latitude": 19.974873,
+    "longitude": 79.30134079999999,
+    "place_id": "ChIJt82IuMTV0jsRQofSZZ59nnw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt82IuMTV0jsRQofSZZ59nnw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:05:23"
+  },
+  {
+    "business_name": "Santkrupa pet store",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "445206",
+    "phone_number": "+91 95798 24540",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 59,
+    "address": "Avduth wadi, near arvind bank saoner, civil lines, Saoner, Maharashtra 441107",
+    "area": "civil lines",
+    "latitude": 21.385729299999998,
+    "longitude": 78.9231341,
+    "place_id": "ChIJnSWIX0rl1DsRRPP_Oh_mQ1w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnSWIX0rl1DsRRPP_Oh_mQ1w",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:05:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Organic farm",
+    "all_categories": "Organic farm",
+    "pincode": "445301",
+    "phone_number": "+91 79723 57123",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Men road, Donger Kharda, Maharashtra 445323",
+    "area": "445301",
+    "latitude": 20.303908699999997,
+    "longitude": 78.4485052,
+    "place_id": "ChIJIyiYO1G90zsRCPvxGxn_R-0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIyiYO1G90zsRCPvxGxn_R-0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:20:39"
+  },
+  {
+    "business_name": "CSC Center Aple Sarkar Seva Kendra",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Community center",
+    "all_categories": "Community center",
+    "pincode": "445301",
+    "phone_number": "+91 73878 63130",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "46WQ+6P5, At.Post Pandhurna kh Hanuman Madir Rod, Padurna Kh, Ghatanji, Maharashtra 445301",
+    "area": "445301",
+    "latitude": 20.1455625,
+    "longitude": 78.2393125,
+    "place_id": "ChIJ1Uokxi3H0zsRvqKNaN5BuAM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1Uokxi3H0zsRvqKNaN5BuAM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:20:39"
+  }
+]

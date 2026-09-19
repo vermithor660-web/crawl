@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NEO KIDZ HOSPITAL",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Children's hospital",
+    "all_categories": "Children's hospital, Neonatal physician, ENT Specialist, Pediatrician",
+    "pincode": "444902",
+    "phone_number": "+91 81435 03766",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "1B,RAMARAOPET, revenue ward 13, Hno 2-2-4/1A, Kokavari street, behind SBI E-CORNER, beside subbaraju garu hospital, Ramarao Peta, Tadepalligudem, Andhra Pradesh 534101",
+    "area": "Ramarao Peta",
+    "latitude": 16.8147348,
+    "longitude": 81.52583589999999,
+    "place_id": "ChIJ9yrkBji1NzoRJJePbi_rJB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9yrkBji1NzoRJJePbi_rJB4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:27:00"
+  },
+  {
+    "business_name": "AVIDEEP MOTHER AND CHILDREN HOSPITAL",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444902",
+    "phone_number": "+91 99599 58453",
+    "website": "http://avideephospital.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Railway Station Rd, Railway Colony, Tadepalligudem, Andhra Pradesh 534101",
+    "area": "Railway Colony",
+    "latitude": 16.8104995,
+    "longitude": 81.52931869999999,
+    "place_id": "ChIJ487rwoO1NzoRbYMXnxd5l44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ487rwoO1NzoRbYMXnxd5l44",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:27:00"
+  }
+]

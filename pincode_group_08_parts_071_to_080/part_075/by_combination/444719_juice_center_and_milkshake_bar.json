@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shubham Juice Centre",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "444719",
+    "phone_number": "+91 93701 63020",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1, Shubham Juice Centre, Kamari, Maharashtra 431802",
+    "area": "444719",
+    "latitude": 19.419028,
+    "longitude": 77.7526398,
+    "place_id": "ChIJYUQvcmrx0TsRSaLc5EnZKFY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYUQvcmrx0TsRSaLc5EnZKFY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:00:07"
+  },
+  {
+    "business_name": "Pineapple Juice Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "444719",
+    "phone_number": "+91 70207 08645",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1, Jamner, Maharashtra 424206",
+    "area": "444719",
+    "latitude": 20.809576399999997,
+    "longitude": 75.7787357,
+    "place_id": "ChIJu2RVCG-f2TsRgxKHUE8isi0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu2RVCG-f2TsRgxKHUE8isi0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:00:07"
+  }
+]

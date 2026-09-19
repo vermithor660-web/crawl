@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Meher Online Service",
+    "search_category": "Shops",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store, Internet shop",
+    "pincode": "445110",
+    "phone_number": "+91 74981 69355",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Yavatmal Road, Darwha, Maharashtra 445202",
+    "area": "445110",
+    "latitude": 20.313097199999998,
+    "longitude": 77.77666719999999,
+    "place_id": "ChIJC2bO9tld0TsRmZwDKXkZtC4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC2bO9tld0TsRmZwDKXkZtC4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:56:29"
+  },
+  {
+    "business_name": "Sm electronic home service",
+    "search_category": "Shops",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "445110",
+    "phone_number": "+91 90223 90837",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8Q59+6XP, Darwha, Maharashtra 445202",
+    "area": "445110",
+    "latitude": 20.3080921,
+    "longitude": 77.76994309999999,
+    "place_id": "ChIJHcWlQQBd0TsRup2_PVHkhhc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHcWlQQBd0TsRup2_PVHkhhc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:56:29"
+  }
+]

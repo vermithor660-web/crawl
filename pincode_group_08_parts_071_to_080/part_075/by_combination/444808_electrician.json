@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna Kanhaiya electrical shop",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "444808",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Paratwada, Civil Lines, Achalpur, Maharashtra 444805",
+    "area": "Paratwada, Civil Lines",
+    "latitude": 21.297573699999997,
+    "longitude": 77.5117599,
+    "place_id": "ChIJgXRmwb711jsRDJHwzfzuqZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgXRmwb711jsRDJHwzfzuqZw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:18:32"
+  },
+  {
+    "business_name": "अंबाडकर निवास",
+    "search_category": "Electrician",
+    "primary_category": "Electrical installation service",
+    "all_categories": "Electrical installation service",
+    "pincode": "444808",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "6977+4F4, Pathrot, Maharashtra 444808",
+    "area": "444808",
+    "latitude": 21.212757399999997,
+    "longitude": 77.36369959999999,
+    "place_id": "ChIJbbEgDAD71jsRVCgYrLRQ_Ds",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbbEgDAD71jsRVCgYrLRQ_Ds",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:18:34"
+  }
+]

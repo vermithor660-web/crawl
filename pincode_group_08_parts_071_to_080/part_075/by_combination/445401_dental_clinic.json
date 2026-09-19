@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "OM DENTAL CLINIC",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "445401",
+    "phone_number": "+91 82628 40767",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "near SBI BANK, WAKE LAYOUT, Kalamb, Maharashtra 445401",
+    "area": "WAKE LAYOUT",
+    "latitude": 20.441718599999998,
+    "longitude": 78.3253144,
+    "place_id": "ChIJpyYr7aST0zsRKT345QhH95A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpyYr7aST0zsRKT345QhH95A",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:37:54"
+  },
+  {
+    "business_name": "Shree Dental Clinic Dr Palkar",
+    "search_category": "Dental Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "445401",
+    "phone_number": "+91 95273 31090",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "CGCC+36C, Ralegaon, Maharashtra 445402",
+    "area": "445401",
+    "latitude": 20.4201963,
+    "longitude": 78.52053,
+    "place_id": "ChIJEZs9AIKZ0zsRj_NTZ4CcOac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEZs9AIKZ0zsRj_NTZ4CcOac",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:37:54"
+  }
+]

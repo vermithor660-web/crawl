@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Health and wellness center Nanda",
+    "search_category": "Wellness Center",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "444813",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "VFMW+39F, Nanda, Madhya Pradesh 460330",
+    "area": "444813",
+    "latitude": 21.8826637,
+    "longitude": 77.4958958,
+    "place_id": "ChIJgxR7rYs91jsRWIimr5KLRuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgxR7rYs91jsRWIimr5KLRuU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:23:59"
+  },
+  {
+    "business_name": "Kunkhedi Health and Wellness Center",
+    "search_category": "Wellness Center",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "444813",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QCXQ+PJ5, Kunkhedi, Bhainsdehi, Kunkhedi, Madhya Pradesh 460220",
+    "area": "Kunkhedi",
+    "latitude": 21.799269,
+    "longitude": 77.4391,
+    "place_id": "ChIJ4XxrpOM41jsR2hdIqCQB8YI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4XxrpOM41jsR2hdIqCQB8YI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:23:59"
+  }
+]

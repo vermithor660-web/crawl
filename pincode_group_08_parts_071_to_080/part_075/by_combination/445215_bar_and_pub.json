@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Maniprabha Bar and Restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "445215",
+    "phone_number": "+91 98812 84350",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "M7QG+4F2, Hingoli, Shiwani Kh., Maharashtra 431702",
+    "area": "445215",
+    "latitude": 19.687751799999997,
+    "longitude": 77.27614489999999,
+    "place_id": "ChIJkeiRRwCt0TsRq05HaGn2u8U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkeiRRwCt0TsRq05HaGn2u8U",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:14:15"
+  },
+  {
+    "business_name": "Hotel yuvraj family. Restorent",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar, Hotel",
+    "pincode": "445215",
+    "phone_number": "+91 96239 49518",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 39,
+    "address": "M6WR+PX, Waspangara, Maharashtra 431702",
+    "area": "445215",
+    "latitude": 19.6968274,
+    "longitude": 77.2424808,
+    "place_id": "ChIJ2zvpY2St0TsRf7w_PDsW-pg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2zvpY2St0TsRf7w_PDsW-pg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:14:15"
+  }
+]

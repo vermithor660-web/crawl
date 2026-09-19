@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tarang Collection",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Bedding store, Jewelry store",
+    "pincode": "444805",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dr, behind Police Station, Pattalwar Line, Maharashtra 444805",
+    "area": "Pattalwar Line, Bhoipura",
+    "latitude": 21.3016438,
+    "longitude": 77.5200534,
+    "place_id": "ChIJTYu0-fH11jsRnXBQlogoCU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTYu0-fH11jsRnXBQlogoCU4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:12:44"
+  },
+  {
+    "business_name": "Mukhtar Bilenkit",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "444805",
+    "phone_number": "+91 93737 61526",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Betul Road, Paratwada, Kandali, Maharashtra 444806",
+    "area": "Paratwada",
+    "latitude": 21.3103625,
+    "longitude": 77.52889379999999,
+    "place_id": "ChIJz4MlQ_v11jsRCDwxinb1U3c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4MlQ_v11jsRCDwxinb1U3c",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:12:45"
+  }
+]

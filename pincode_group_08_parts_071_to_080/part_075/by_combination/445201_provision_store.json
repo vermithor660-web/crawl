@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wasim Shop",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "445201",
+    "phone_number": "+91 93077 59262",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bori arab 445201, Shop Number 2 At Post, Maharashtra 445201",
+    "area": "445201",
+    "latitude": 20.3492891,
+    "longitude": 77.8631312,
+    "place_id": "ChIJM8prFsBf0TsRFvqbuOFkxEU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM8prFsBf0TsRFvqbuOFkxEU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:56:28"
+  },
+  {
+    "business_name": "King Anda Rice",
+    "search_category": "Provision Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "445201",
+    "phone_number": "+91 88050 42323",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Shop Number 1, Darwha Rd, Yavatmal, Kamtwada., Maharashtra 445201",
+    "area": "445201",
+    "latitude": 20.3384635,
+    "longitude": 77.96074019999999,
+    "place_id": "ChIJRbCjcTPh0zsROqhL_tM08G0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRbCjcTPh0zsROqhL_tM08G0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:56:30"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rupam Vastralaya",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "444810",
+    "phone_number": "+91 74985 79526",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Shirajgaon Kasba, Maharashtra 444810",
+    "area": "444810",
+    "latitude": 21.3305871,
+    "longitude": 77.6798154,
+    "place_id": "ChIJC1dT5hSJ1jsRAAAAsCJZlwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJC1dT5hSJ1jsRAAAAsCJZlwo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:21:27"
+  },
+  {
+    "business_name": "Luxury men’s clothing",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "444810",
+    "phone_number": "+91 81808 25655",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 20,
+    "address": "Ganesh Nagar Sawani marath mandir, Swami Samarth Mandir Ln, near by Rohit wadewale, Wadgaon Sheri, Pune, Maharashtra 411014",
+    "area": "Hanuman Nagar, Wadgaon Sheri",
+    "latitude": 18.5571177,
+    "longitude": 73.9262692,
+    "place_id": "ChIJecHVKNfBwjsR5nabpWCQD0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJecHVKNfBwjsR5nabpWCQD0A",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:21:30"
+  }
+]

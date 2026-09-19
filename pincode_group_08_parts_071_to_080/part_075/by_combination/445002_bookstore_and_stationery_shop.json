@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KAUSHALYA BOOK DEPOT",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store, Electronics store",
+    "pincode": "445002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Dr Ambedkar Square, Shastri Nagar, Arni, Maharashtra 445103",
+    "area": "Shastri Nagar",
+    "latitude": 20.0696907,
+    "longitude": 77.9553045,
+    "place_id": "ChIJb75bFYrX0zsRWEory1TL7q4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb75bFYrX0zsRWEory1TL7q4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:43:36"
+  },
+  {
+    "business_name": "Penshanwar General Store& Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "445002",
+    "phone_number": "+91 94044 13609",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Maheshwari Complex, Chock, Tajpura, Bhagatsingh Ward, Umarkhed, Maharashtra 445206",
+    "area": "Tajpura, Bhagatsingh Ward",
+    "latitude": 19.601203599999998,
+    "longitude": 77.6878578,
+    "place_id": "ChIJlz7xTM-T0TsRxDPbBebe8vY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlz7xTM-T0TsRxDPbBebe8vY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:43:38"
+  }
+]

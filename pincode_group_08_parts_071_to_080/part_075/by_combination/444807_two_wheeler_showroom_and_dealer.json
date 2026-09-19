@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Nice Bike Rental Services",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Two Wheeler Rental Agency",
+    "all_categories": "Two Wheeler Rental Agency",
+    "pincode": "444807",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Ghatang Road, Chikhaldara, Shahapur, Maharashtra 444807",
+    "area": "444807",
+    "latitude": 21.4056647,
+    "longitude": 77.3357987,
+    "place_id": "ChIJlw-TVyhX1jsRWssh6ne3ko8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlw-TVyhX1jsRWssh6ne3ko8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:16:32"
+  },
+  {
+    "business_name": "DAHIKAR AUTO WORK",
+    "search_category": "Two Wheeler Showroom and Dealer",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "444807",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SARANDI, Bhainsdehi, Sarandai, Madhya Pradesh 460220",
+    "area": "SARANDI",
+    "latitude": 21.660746,
+    "longitude": 77.6026917,
+    "place_id": "ChIJvcBh-Fhp1jsR9yOR8G1TpZs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvcBh-Fhp1jsR9yOR8G1TpZs",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:16:32"
+  }
+]

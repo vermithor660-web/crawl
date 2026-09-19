@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jaiswal (Civil Engineer & Interior Designer)",
+    "search_category": "Interior Designers",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "445103",
+    "phone_number": "+91 95529 77411",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Priydeep Coplex, Arni Bypass, beside Barde Setu, near Tahsil Office, Arni, Maharashtra 445103",
+    "area": "445103",
+    "latitude": 20.0800333,
+    "longitude": 77.9538054,
+    "place_id": "ChIJZV2IrmbX0zsRAWOlduZfXTs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZV2IrmbX0zsRAWOlduZfXTs",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:48:32"
+  },
+  {
+    "business_name": "Vastushilpi Design Studio",
+    "search_category": "Interior Designers",
+    "primary_category": "Architecture firm",
+    "all_categories": "Architecture firm",
+    "pincode": "445103",
+    "phone_number": "+91 90964 47515",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Suchak Nagar, Mahadev Mandir Rd, Yavatmal, Maharashtra 445001",
+    "area": "Pangari",
+    "latitude": 20.390924599999998,
+    "longitude": 78.1314024,
+    "place_id": "ChIJcQbuk8_p0zsR_epX4kOIwMI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQbuk8_p0zsR_epX4kOIwMI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:48:35"
+  }
+]

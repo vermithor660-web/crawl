@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Amol Electricals Zari",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "445324",
+    "phone_number": "+91 94048 25772",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "zari jamni amol, Maharashtra 445324",
+    "area": "445324",
+    "latitude": 19.862003599999998,
+    "longitude": 78.7264213,
+    "place_id": "ChIJGQA5uVH50jsRH_8EDvr4G8Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQA5uVH50jsRH_8EDvr4G8Y",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:36:30"
+  },
+  {
+    "business_name": "DM ELECTRICAL & PLUMBING WORK",
+    "search_category": "Electrician",
+    "primary_category": "Electric motor repair shop",
+    "all_categories": "Electric motor repair shop, Plumbing supply store",
+    "pincode": "445324",
+    "phone_number": "+91 90228 56606",
+    "website": "https://dm-electrical-plumbing.grexa.site/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Pravesh Nagar, Pili Nadi, Nagpur, Maharashtra 440026",
+    "area": "Pravesh Nagar, Pili Nadi",
+    "latitude": 21.179176899999998,
+    "longitude": 79.12885279999999,
+    "place_id": "ChIJRfSmiDXH1DsR-2NVHCEa3rk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRfSmiDXH1DsR-2NVHCEa3rk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:36:31"
+  }
+]

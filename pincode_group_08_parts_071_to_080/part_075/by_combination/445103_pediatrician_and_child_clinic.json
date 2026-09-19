@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dudhe Child Care Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "445103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near, Dr Sunil Rathod Hospital, Shivaji Chowk, Pusad, Maharashtra 445204",
+    "area": "Hanuman Ward",
+    "latitude": 19.9105201,
+    "longitude": 77.56865839999999,
+    "place_id": "ChIJGXUjA0d10TsR1_oEvWdbrYA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGXUjA0d10TsR1_oEvWdbrYA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:48:12"
+  },
+  {
+    "business_name": "MANKAR CHILD CLINIC",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, General practitioner",
+    "pincode": "445103",
+    "phone_number": "+91 88306 37254",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 18,
+    "address": "opposite to government college of Engineering, New Khapri, Khapri, Maharashtra 441108",
+    "area": "New Khapri",
+    "latitude": 21.051203899999997,
+    "longitude": 79.05996259999999,
+    "place_id": "ChIJtS0qzma_1DsRg6Z-gYZmJ04",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtS0qzma_1DsRg6Z-gYZmJ04",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:48:13"
+  }
+]

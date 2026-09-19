@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pushpa-Prabha Children Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician",
+    "pincode": "445206",
+    "phone_number": "+91 90755 23206",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "infront of SEVA maternity and Sonography Centre, New place is, behind Saniya complex, Rukhmini Nagar, Himayatnagar, Maharashtra 431802",
+    "area": "Rukhmini Nagar",
+    "latitude": 19.423342599999998,
+    "longitude": 77.8725419,
+    "place_id": "ChIJ7RTSGnT30TsRI3-DP79aShc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7RTSGnT30TsRI3-DP79aShc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:05:43"
+  },
+  {
+    "business_name": "Akshay Child Hospital",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Children's hospital",
+    "pincode": "445206",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Yavatmal, SH-197, Arani Digras Road, Digras, Digras, Maharashtra 445203",
+    "area": "Shivaji Nagar",
+    "latitude": 20.104996,
+    "longitude": 77.719375,
+    "place_id": "ChIJpX7ArMNv0TsRsn8nxv1eQjs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpX7ArMNv0TsRsn8nxv1eQjs",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:05:44"
+  }
+]

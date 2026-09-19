@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "E Zone Services CSC Center",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Government office",
+    "all_categories": "Government office, Aadhaar center, Central Government Office, Home help service agency, Internet shop, Legal services, Money transfer service, Passport Agent",
+    "pincode": "444810",
+    "phone_number": "+91 90979 89992",
+    "website": "https://e-zone-services-csc.grexa.site/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "21-1-403/1, near Gupta Hospital, Gulzar Houz, Rikab Gunj, Ghansi Bazaar, Hyderabad, Telangana 500002",
+    "area": "Gulzar Houz, Rikab Gunj, Ghansi Bazaar",
+    "latitude": 17.366180399999998,
+    "longitude": 78.4732464,
+    "place_id": "ChIJAaeO68mXyzsRD_8t6gVEhRw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAaeO68mXyzsRD_8t6gVEhRw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:22:25"
+  },
+  {
+    "business_name": "Maha E Seva Kendra",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Aadhaar center",
+    "all_categories": "Aadhaar center",
+    "pincode": "444810",
+    "phone_number": "+91 98500 42644",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "1545, Tilak Rd, Ramashram Society, Sadashiv Peth, Pune, Maharashtra 411030",
+    "area": "Ramashram Society, Sadashiv Peth",
+    "latitude": 18.5102391,
+    "longitude": 73.84630369999999,
+    "place_id": "ChIJkYlVanTAwjsRuaS_9fGI5bk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkYlVanTAwjsRuaS_9fGI5bk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:22:25"
+  }
+]

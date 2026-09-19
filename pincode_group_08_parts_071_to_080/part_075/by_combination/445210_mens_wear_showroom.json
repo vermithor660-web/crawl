@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pallu Collection",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "445210",
+    "phone_number": "+91 89997 06265",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pallu Collection, Govt Hospital, 1, Lohi, Maharashtra 445210",
+    "area": "445210",
+    "latitude": 20.4409124,
+    "longitude": 77.6598929,
+    "place_id": "ChIJjd5T9FlF0TsRjAkfmbXdwe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjd5T9FlF0TsRjAkfmbXdwe4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:10:44"
+  },
+  {
+    "business_name": "Mens Wear",
+    "search_category": "Mens Wear Showroom",
+    "primary_category": "Fabric store",
+    "all_categories": "Fabric store",
+    "pincode": "445210",
+    "phone_number": "+91 72195 30416",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "3, Darwha Rd, Darwa Road, near BHARTI BUILDIND, Wadgaon Road, Bharti Nagar, Yavatmal, Maharashtra 445001",
+    "area": "Wadgaon Road, Bharti Nagar",
+    "latitude": 20.3873434,
+    "longitude": 78.11142939999999,
+    "place_id": "ChIJmag_z07p0zsR_yrgHTcex9o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmag_z07p0zsR_yrgHTcex9o",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:10:47"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "JABBAR BODY BUILDER",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "445302",
+    "phone_number": "+91 70664 14847",
+    "website": "N/A",
+    "rating": 2.7,
+    "reviews_count": null,
+    "address": "A2 N.H 7 Kashish Hotel Kay Side May, Maharashtra 445302",
+    "area": "445302",
+    "latitude": 20.0367837,
+    "longitude": 78.5489444,
+    "place_id": "ChIJoYslXRut0zsRoml9JmmLcto",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoYslXRut0zsRoml9JmmLcto",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:21:50"
+  },
+  {
+    "business_name": "S.K AUTO ELECTRICAL",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto electrical service",
+    "all_categories": "Auto electrical service",
+    "pincode": "445302",
+    "phone_number": "+91 99591 23795",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main Line, NH 44, Pandharkawada, Maharashtra 445302",
+    "area": "445302",
+    "latitude": 20.030506199999998,
+    "longitude": 78.54806669999999,
+    "place_id": "ChIJE6nGhjet0zsRpR04fJr6aX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE6nGhjet0zsRpR04fJr6aX4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:21:50"
+  }
+]

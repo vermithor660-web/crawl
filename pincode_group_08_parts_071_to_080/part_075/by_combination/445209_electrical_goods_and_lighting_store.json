@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Sangita Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical equipment supplier",
+    "all_categories": "Electrical equipment supplier",
+    "pincode": "445209",
+    "phone_number": "+91 98601 02708",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bhuleshwar market, Yevat, Maharashtra 412214",
+    "area": "445209",
+    "latitude": 18.4760018,
+    "longitude": 74.2681424,
+    "place_id": "ChIJU2c-BwEfwzsRQ_vH_0Mkgmk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU2c-BwEfwzsRQ_vH_0Mkgmk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:09:30"
+  },
+  {
+    "business_name": "Multideal Corporation",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Air conditioning contractor, Air conditioning repair service, Refrigerator store",
+    "pincode": "445209",
+    "phone_number": "+91 712 688 8081",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "40/42/4F, Central Bazar Road, beside anjani eye hospital, Ramdaspeth, Nagpur, Maharashtra 440010",
+    "area": "Ramdaspeth",
+    "latitude": 21.1348838,
+    "longitude": 79.07753129999999,
+    "place_id": "ChIJAQAAAI_A1DsR4v3Yc2IFw2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAAI_A1DsR4v3Yc2IFw2A",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:09:30"
+  }
+]

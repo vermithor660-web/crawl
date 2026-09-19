@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BABU BRAND MART",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Market, Outlet mall, Shop supermarket furniture store, Shopping mall, Smart shop, Store, Store equipment supplier",
+    "pincode": "445101",
+    "phone_number": "+91 99235 23550",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "royal tower, in front of post office, Darwha, Maharashtra 445202",
+    "area": "445101",
+    "latitude": 20.3124851,
+    "longitude": 77.7683662,
+    "place_id": "ChIJ52g2cfBd0TsRspGPB500DMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ52g2cfBd0TsRspGPB500DMU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:44:10"
+  },
+  {
+    "business_name": "Sachin Bhati Grocery Shop",
+    "search_category": "Departmental Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "445101",
+    "phone_number": "+91 76206 54001",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Byati Shop, Sukali, Maharashtra 445001",
+    "area": "445101",
+    "latitude": 20.483600199999998,
+    "longitude": 78.15513399999999,
+    "place_id": "ChIJx7JwHwDv0zsRKxB24_hd1DY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx7JwHwDv0zsRKxB24_hd1DY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:44:10"
+  }
+]

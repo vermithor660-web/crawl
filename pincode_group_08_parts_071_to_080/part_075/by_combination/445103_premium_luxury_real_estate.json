@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Directors House",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Apartment building",
+    "all_categories": "Apartment building",
+    "pincode": "445103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "94RJ+M3W, Pangari, Yavatmal, Maharashtra 445001",
+    "area": "Pangari",
+    "latitude": 20.3917342,
+    "longitude": 78.1302078,
+    "place_id": "ChIJr7iFFWfp0zsRckRTb8kNutE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr7iFFWfp0zsRckRTb8kNutE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:49:10"
+  },
+  {
+    "business_name": "ARM PROPERTY DEALER",
+    "search_category": "Premium Luxury Real Estate",
+    "primary_category": "Real estate consultant",
+    "all_categories": "Real estate consultant",
+    "pincode": "445103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "94QJ+X7F, Vidhardh Housing Society, Yavatmal, Maharashtra 445001",
+    "area": "Vidhardh Housing Society",
+    "latitude": 20.3899385,
+    "longitude": 78.1306846,
+    "place_id": "ChIJPxUhyv7p0zsR9vwLON9Est4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPxUhyv7p0zsR9vwLON9Est4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:49:10"
+  }
+]

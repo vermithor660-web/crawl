@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sonu Mangalam",
+    "search_category": "Banquet Hall",
+    "primary_category": "Wedding venue",
+    "all_categories": "Wedding venue",
+    "pincode": "445301",
+    "phone_number": "+91 91301 15500",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Anji raod, Vasanth Nagar, Ghatanji, Maharashtra 445301",
+    "area": "Vasanth Nagar",
+    "latitude": 20.136812499999998,
+    "longitude": 78.3045625,
+    "place_id": "ChIJ2csrExK50zsR3SxpnByFxMU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2csrExK50zsR3SxpnByFxMU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:20:20"
+  },
+  {
+    "business_name": "Rahul hall",
+    "search_category": "Banquet Hall",
+    "primary_category": "Banquet hall",
+    "all_categories": "Banquet hall, Wedding venue",
+    "pincode": "445301",
+    "phone_number": "+91 75885 90311",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "2GJW+4RQ, Pandharkawada, Maharashtra 445302",
+    "area": "445301",
+    "latitude": 20.0303336,
+    "longitude": 78.5471177,
+    "place_id": "ChIJESKs6RSs0zsR3ymgMRTfzFA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJESKs6RSs0zsR3ymgMRTfzFA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:20:20"
+  }
+]

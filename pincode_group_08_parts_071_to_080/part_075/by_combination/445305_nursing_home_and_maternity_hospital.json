@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VIJAYA NURSING HOME",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Nursing home",
+    "all_categories": "Nursing home",
+    "pincode": "445305",
+    "phone_number": "+91 63012 02307",
+    "website": "https://vijayanursing.com/",
+    "rating": 4.1,
+    "reviews_count": 46,
+    "address": "Dwaraka Nagar, Ravindra Nagar Colony, Adilabad, Telangana 504001",
+    "area": "Dwaraka Nagar, Ravindra Nagar Colony",
+    "latitude": 19.6694861,
+    "longitude": 78.5319662,
+    "place_id": "ChIJ40I0i7td0jsRBdoPOWpd-Y4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ40I0i7td0jsRBdoPOWpd-Y4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:26:58"
+  },
+  {
+    "business_name": "Sneha Nursing Home",
+    "search_category": "Nursing Home and Maternity Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "445305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 21,
+    "address": "4-3-68/2, Hameed Pura, Bhuktapur, Telangana 504001",
+    "area": "Hameed Pura",
+    "latitude": 19.671289299999998,
+    "longitude": 78.53062349999999,
+    "place_id": "ChIJz8XXlHlc0jsRsQdqrmjA7as",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz8XXlHlc0jsRsQdqrmjA7as",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:27:01"
+  }
+]

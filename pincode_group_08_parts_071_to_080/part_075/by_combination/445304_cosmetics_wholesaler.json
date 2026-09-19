@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mandar Pharma and surgicals",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Pharmaceutical Products Wholesaler",
+    "all_categories": "Pharmaceutical Products Wholesaler",
+    "pincode": "445304",
+    "phone_number": "+91 94218 45869",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "3X66+63J, Unnamed Road, Pragati Nagar, Wani, Maharashtra 445304",
+    "area": "Pragati Nagar",
+    "latitude": 20.0605978,
+    "longitude": 78.96015109999999,
+    "place_id": "ChIJ9VPaCDIf0zsRaaInXW51iyg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9VPaCDIf0zsRaaInXW51iyg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:25:40"
+  },
+  {
+    "business_name": "Shree Medicos",
+    "search_category": "Cosmetics Wholesaler",
+    "primary_category": "Surgical Products Wholesaler",
+    "all_categories": "Surgical Products Wholesaler",
+    "pincode": "445304",
+    "phone_number": "+91 87939 04420",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Adinath Colony, Subhash Ward, Plot no. 6, Warora, Maharashtra 442907",
+    "area": "Buddha Vihar",
+    "latitude": 20.2267971,
+    "longitude": 78.997998,
+    "place_id": "ChIJKSxXRqUX0zsRPAfvboq4bmE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKSxXRqUX0zsRPAfvboq4bmE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:25:43"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gruhini the cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Meal delivery",
+    "all_categories": "Meal delivery",
+    "pincode": "445204",
+    "phone_number": "N/A",
+    "website": "https://gruhinikitchen.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "vithal mandir, Kakaddati, Pusad, Maharashtra 445215",
+    "area": "vithal mandir",
+    "latitude": 19.887867099999998,
+    "longitude": 77.5448329,
+    "place_id": "ChIJiwFJ1Uyh0TsRcG_hRa4FkE0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiwFJ1Uyh0TsRcG_hRa4FkE0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:01:52"
+  },
+  {
+    "business_name": "Gruhini the cloud kitchen",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "445204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "landmark, Kakaddati, Pusad, Maharashtra 445215",
+    "area": "landmark",
+    "latitude": 19.882143499999998,
+    "longitude": 77.553344,
+    "place_id": "ChIJg1zTl-eh0TsRBqqEV5tso3M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg1zTl-eh0TsRBqqEV5tso3M",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:01:52"
+  }
+]

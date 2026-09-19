@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "अनिल बेले",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "445205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MR9H+2MG, Ningnur Gahagir, Maharashtra 445206",
+    "area": "445205",
+    "latitude": 19.667555099999998,
+    "longitude": 77.8292144,
+    "place_id": "ChIJX_GuTwCP0TsRhSQ_ENyqgWE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX_GuTwCP0TsRhSQ_ENyqgWE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:03:33"
+  },
+  {
+    "business_name": "Shubham Shop",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop, Service establishment",
+    "pincode": "445205",
+    "phone_number": "+91 788 758 3985",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shubham Shop, 445205, India",
+    "area": "445205",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJw94sRt110TsRgwHembnuCj4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJw94sRt110TsRgwHembnuCj4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:03:36"
+  }
+]

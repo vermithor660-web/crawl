@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Jay Bhawani Biryani House",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "444720",
+    "phone_number": "+91 95793 96002",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "SH143, Umbraj, Maharashtra 415109",
+    "area": "444720",
+    "latitude": 17.4001977,
+    "longitude": 74.1005794,
+    "place_id": "ChIJK6jCBuApwjsRYLDpIayXD_k",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK6jCBuApwjsRYLDpIayXD_k",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:01:53"
+  },
+  {
+    "business_name": "Hydrabadi chikan Biryaniwala",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "444720",
+    "phone_number": "+91 98607 69890",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 11,
+    "address": "6QQ2+8JF, Chandur Bazar, Maharashtra 444704",
+    "area": "444720",
+    "latitude": 21.2383059,
+    "longitude": 77.7515372,
+    "place_id": "ChIJ83lH0F2F1jsRsDvNZZ518D4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ83lH0F2F1jsRsDvNZZ518D4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:01:56"
+  }
+]

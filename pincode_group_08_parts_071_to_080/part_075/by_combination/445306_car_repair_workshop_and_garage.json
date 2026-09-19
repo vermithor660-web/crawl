@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saqlain Garage",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "445306",
+    "phone_number": "+91 75177 12398",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Pandharkawada Rd, in front of Jio Petroleum, Choti Gujri, Pangari, Yavatmal, Maharashtra 445001",
+    "area": "Choti Gujri, Pangari",
+    "latitude": 20.388880399999998,
+    "longitude": 78.1418396,
+    "place_id": "ChIJiXtWU_Dp0zsRAfV7ZqSOucE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiXtWU_Dp0zsRAfV7ZqSOucE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:28:53"
+  },
+  {
+    "business_name": "The Car Mechanic",
+    "search_category": "Car Repair Workshop and Garage",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "445306",
+    "phone_number": "+91 91799 79047",
+    "website": "https://tangerine-tartufo-c8afef.netlify.app/#about",
+    "rating": 4.8,
+    "reviews_count": 31,
+    "address": "Mull rod, near fatemi ice factory, Bangalicamp, MSEB Colony, Urja Nagar, Chandrapur, Maharashtra 442401",
+    "area": "Bangalicamp, MSEB Colony, Urja Nagar",
+    "latitude": 19.9661851,
+    "longitude": 79.30714809999999,
+    "place_id": "ChIJHSjwD73X0jsRUF3zzDzppJA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHSjwD73X0jsRUF3zzDzppJA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:28:54"
+  }
+]

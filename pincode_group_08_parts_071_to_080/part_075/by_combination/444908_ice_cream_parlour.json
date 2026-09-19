@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "अन्नदाता किराणा शॉप",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "444908",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C63H+QJV, Mangruli, Maharashtra 444908",
+    "area": "444908",
+    "latitude": 21.404477699999997,
+    "longitude": 78.22899269999999,
+    "place_id": "ChIJi3mKXgA11DsRBHJqV1mgJV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi3mKXgA11DsRBHJqV1mgJV0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:37:13"
+  },
+  {
+    "business_name": "MH 27 Daily Needs & SODA shop",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "444908",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Benoda, Maharashtra 444908",
+    "area": "444908",
+    "latitude": 21.4556619,
+    "longitude": 78.1827346,
+    "place_id": "ChIJLUK_EknN1TsRo4csYLLUPJc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLUK_EknN1TsRo4csYLLUPJc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:37:13"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MNC JOB WALA",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Business management consultant",
+    "all_categories": "Business management consultant, Service establishment",
+    "pincode": "444802",
+    "phone_number": "+91 82758 71106",
+    "website": "https://mncjobwala.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "MNC JOB WALA, 444802, India",
+    "area": "444802",
+    "latitude": 18.5933824,
+    "longitude": 73.7324165,
+    "place_id": "ChIJ80GIOwxiaEoRVwemPs-BWeo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ80GIOwxiaEoRVwemPs-BWeo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:08:31"
+  },
+  {
+    "business_name": "Polished Profile HR Services",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Resume service",
+    "all_categories": "Resume service, Service establishment",
+    "pincode": "444802",
+    "phone_number": "+91 93257 06148",
+    "website": "https://polishedprofile.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Polished Profile HR Services, 444802, India",
+    "area": "444802",
+    "latitude": 20.9141126,
+    "longitude": 77.7684455,
+    "place_id": "ChIJP34O_XU9_2YRzKj9neFOWdc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP34O_XU9_2YRzKj9neFOWdc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:08:33"
+  }
+]

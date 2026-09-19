@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SP Facilities",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "445210",
+    "phone_number": "+91 91303 45556",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 103,
+    "address": "office number 02, susham heritage, panch banglow, E Ward, Shahupuri, Kolhapur, Maharashtra 416001",
+    "area": "E Ward, Shahupuri",
+    "latitude": 16.700538299999998,
+    "longitude": 74.2414371,
+    "place_id": "ChIJQ4foBRMBwTsRUnbw-HQqb78",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ4foBRMBwTsRUnbw-HQqb78",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:11:55"
+  },
+  {
+    "business_name": "Shine Master Cleaning Services",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "445210",
+    "phone_number": "+91 98220 74526",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shivaji Park, Kolhapur, Maharashtra 416001",
+    "area": "Shivaji Park",
+    "latitude": 16.7018684,
+    "longitude": 74.247621,
+    "place_id": "ChIJAf-y8l4BwTsRbpWyO6uJ3r4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAf-y8l4BwTsRbpWyO6uJ3r4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:11:55"
+  }
+]

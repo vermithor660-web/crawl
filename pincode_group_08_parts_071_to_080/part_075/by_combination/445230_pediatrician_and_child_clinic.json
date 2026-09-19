@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharada Clinic(Children's Clinic)",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatric clinic",
+    "all_categories": "Pediatric clinic, Doctor",
+    "pincode": "445230",
+    "phone_number": "+91 93425 45817",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "2nd Cross Rd, Kothnur, Gaurav Nagar, JP Nagar 7th Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+    "area": "Kothnur, Gaurav Nagar, JP Nagar 7th Phase, J. P. Nagar",
+    "latitude": 12.885622399999999,
+    "longitude": 77.5821464,
+    "place_id": "ChIJn8jU--4VrjsRo9DOlX8OKX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn8jU--4VrjsRo9DOlX8OKX8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:18:04"
+  },
+  {
+    "business_name": "Kids Care Clinic",
+    "search_category": "Pediatrician and Child Clinic",
+    "primary_category": "Pediatrician",
+    "all_categories": "Pediatrician, Medical clinic",
+    "pincode": "445230",
+    "phone_number": "+91 93418 18457",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "9th Cross Rd, Kothnur, RBI Layout, JP Nagar 7th Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+    "area": "Kothnur, RBI Layout, JP Nagar 7th Phase, J. P. Nagar",
+    "latitude": 12.8881705,
+    "longitude": 77.5791685,
+    "place_id": "ChIJs1SozEcVrjsRe-COsMDhXPo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs1SozEcVrjsRe-COsMDhXPo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:18:04"
+  }
+]

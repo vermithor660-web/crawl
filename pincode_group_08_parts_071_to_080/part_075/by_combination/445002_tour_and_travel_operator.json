@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Travelkar Holiday Services - Yavatmal",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Service establishment, Tour agency, Tour operator, Tourist information center",
+    "pincode": "445002",
+    "phone_number": "+91 83089 87070",
+    "website": "https://travelkar.in/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Travelkar Holiday Services - Yavatmal, 445002, India",
+    "area": "445002",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJIU50M7bl0zsRUAySzqtUI7s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIU50M7bl0zsRUAySzqtUI7s",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:43:02"
+  },
+  {
+    "business_name": "Palash Tour and Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Tour agency",
+    "all_categories": "Tour agency",
+    "pincode": "445002",
+    "phone_number": "+91 76208 40352",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sunil, Bhosa, More Nagar, Yavatmal, Maharashtra 445001",
+    "area": "Bhosa, More Nagar",
+    "latitude": 20.380419399999997,
+    "longitude": 78.1478542,
+    "place_id": "ChIJL51YFePp0zsR2YhDQpKxye0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL51YFePp0zsR2YhDQpKxye0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:43:04"
+  }
+]

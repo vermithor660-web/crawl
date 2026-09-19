@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Royal Watch Center",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store",
+    "pincode": "444813",
+    "phone_number": "+91 788 766 6881",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "HPRQ+Q7R, Hinjawadi, Pune, Maharashtra 411057",
+    "area": "Hinjawadi",
+    "latitude": 18.5919991,
+    "longitude": 73.7381254,
+    "place_id": "ChIJqQTi5Ny7wjsRBKBhLZCwTK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqQTi5Ny7wjsRBKBhLZCwTK0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:23:18"
+  },
+  {
+    "business_name": "Watch Works",
+    "search_category": "Watch Showroom and Repair",
+    "primary_category": "Watch store",
+    "all_categories": "Watch store, Watch repair service",
+    "pincode": "444813",
+    "phone_number": "+91 99373 20201",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 11,
+    "address": "Sarbahal Rd, Marwari Para, Jharsuguda, Odisha 768201",
+    "area": "Marwari Para",
+    "latitude": 21.849624499999997,
+    "longitude": 84.0134279,
+    "place_id": "ChIJO8DAEVbnIDoRkz4nK9X110M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO8DAEVbnIDoRkz4nK9X110M",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:23:18"
+  }
+]

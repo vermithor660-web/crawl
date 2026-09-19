@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sadique Paint Mart",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Hardware store, Painter, Paintings store, Pest control service",
+    "pincode": "444907",
+    "phone_number": "+91 80 4278 1693",
+    "website": "https://www.sadiquepaintmart.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "94/95, Manewada Ring Road, beside Greenland Hotel, Lavkush Nagar, Manewada, Nagpur, Maharashtra 440034",
+    "area": "Lavkush Nagar, Manewada",
+    "latitude": 21.1052601,
+    "longitude": 79.10598089999999,
+    "place_id": "ChIJuyvRc0y_1DsRHuSax6chfBo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuyvRc0y_1DsRHuSax6chfBo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:36:02"
+  },
+  {
+    "business_name": "EZZY HARDWARE",
+    "search_category": "Paint and Putty Dealer",
+    "primary_category": "Paint store",
+    "all_categories": "Paint store, Hardware store",
+    "pincode": "444907",
+    "phone_number": "+91 98603 69831",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 216,
+    "address": "188, Nandanvan Main Rd, Shiv Nagar, Azamshah Layout, Nagpur, Maharashtra 440024",
+    "area": "Shiv Nagar, Azamshah Layout",
+    "latitude": 21.132284199999997,
+    "longitude": 79.11925699999999,
+    "place_id": "ChIJq6qqalvH1DsR2qp8E8Bj0As",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqalvH1DsR2qp8E8Bj0As",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:36:04"
+  }
+]

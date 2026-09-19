@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hiwari, vilas home, fish",
+    "search_category": "Fish Market",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "445306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "RC8Q+8RP, Unnamed Road, Hiwari, Maharashtra 445305",
+    "area": "445306",
+    "latitude": 19.8158444,
+    "longitude": 78.4395734,
+    "place_id": "ChIJ4_i9dI5P0jsRqA_7Ll7KL_M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4_i9dI5P0jsRqA_7Ll7KL_M",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:28:23"
+  },
+  {
+    "business_name": "RKS Fish merchant",
+    "search_category": "Fish Market",
+    "primary_category": "Fishery",
+    "all_categories": "Fishery, Fishing store",
+    "pincode": "445306",
+    "phone_number": "+91 88062 05062",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "At post, Jiwanapur, Maharashtra 441210",
+    "area": "445306",
+    "latitude": 20.9423779,
+    "longitude": 79.51873549999999,
+    "place_id": "ChIJa8PTEE1RKzoRG1uJfeI4VTY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa8PTEE1RKzoRG1uJfeI4VTY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:28:25"
+  }
+]

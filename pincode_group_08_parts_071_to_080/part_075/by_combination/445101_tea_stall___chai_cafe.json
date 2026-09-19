@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tea Cafe",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "445101",
+    "phone_number": "+91 94223 63253",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No .1 KALAM CHOWK Kalam Chouk, Maharashtra 445001",
+    "area": "Choti Gujri, Pangari",
+    "latitude": 20.3912651,
+    "longitude": 78.1396378,
+    "place_id": "ChIJKe2QiTvp0zsRsQjf99pR16M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKe2QiTvp0zsRsQjf99pR16M",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:44:21"
+  },
+  {
+    "business_name": "Painkiller chaiwala",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea Wholesaler",
+    "all_categories": "Tea Wholesaler",
+    "pincode": "445101",
+    "phone_number": "+91 99210 30659",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Painkiller chaiwala, tiranga chowk, near postal ground, Pangari, Yavatmal, Maharashtra 445001",
+    "area": "Pangari",
+    "latitude": 20.393625399999998,
+    "longitude": 78.129277,
+    "place_id": "ChIJr-PEIVbp0zsR0RSRhLhAXvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr-PEIVbp0zsR0RSRhLhAXvI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:44:21"
+  }
+]

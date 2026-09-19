@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "445215",
+    "phone_number": "+91 94229 70776",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Januna, Maharashtra 445215",
+    "area": "445215",
+    "latitude": 19.933325,
+    "longitude": 77.444891,
+    "place_id": "ChIJyWOfi2oJ0TsRug8TcShNCcc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyWOfi2oJ0TsRug8TcShNCcc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:15:20"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "445215",
+    "phone_number": "+91 94225 27961",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "MOHAN CHAVHAN, RAMPUR, Pandhurna Kh ., Rampur, Maharashtra 445204",
+    "area": "RAMPUR",
+    "latitude": 19.9902828,
+    "longitude": 77.3913345,
+    "place_id": "ChIJo0r2q94P0TsRSa7w4qhNajs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo0r2q94P0TsRSa7w4qhNajs",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:15:20"
+  }
+]

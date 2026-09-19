@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dynamic Academy of Music",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Music school",
+    "all_categories": "Music school",
+    "pincode": "444711",
+    "phone_number": "+91 91614 95834",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "633/k 131-c, Kantipuram Rd, nearby narmadeshwar mandir Kantipuram, Khand -2, Matiyari, Kamta, Lucknow, Uttar Pradesh 226028",
+    "area": "Khand -2, Matiyari, Kamta",
+    "latitude": 26.887626299999997,
+    "longitude": 81.0409372,
+    "place_id": "ChIJf1zpDfzjmzkRLNnCMeLvfzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf1zpDfzjmzkRLNnCMeLvfzU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:57:40"
+  },
+  {
+    "business_name": "Dance & Music Studio",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Dance school",
+    "all_categories": "Dance school, Music school",
+    "pincode": "444711",
+    "phone_number": "+91 99101 96228",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1127, opposite, Gali Number 13, near delhi corporative bank, Wazirabad, Delhi, 110084",
+    "area": "Wazirabad",
+    "latitude": 28.727713299999998,
+    "longitude": 77.22322799999999,
+    "place_id": "ChIJFRfSixf_DDkRgtdLr1ijoNo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFRfSixf_DDkRgtdLr1ijoNo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:57:40"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Srikar mart",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "445305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 29,
+    "address": "PQ99+2HH, Bela, Telangana 504309",
+    "area": "445305",
+    "latitude": 19.7175723,
+    "longitude": 78.7689789,
+    "place_id": "ChIJUZwQ3hvx0jsRgo1CztXE-3g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUZwQ3hvx0jsRgo1CztXE-3g",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:26:32"
+  },
+  {
+    "business_name": "Trupti Supermarket",
+    "search_category": "Departmental Store",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "445305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop no 5, nagar parishad complex, Tehsil square, Pandharkawada, Maharashtra 445302",
+    "area": "445305",
+    "latitude": 20.023381099999998,
+    "longitude": 78.54672,
+    "place_id": "ChIJ9fSlvkWt0zsR8aCAFAyps54",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9fSlvkWt0zsR8aCAFAyps54",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:26:34"
+  }
+]

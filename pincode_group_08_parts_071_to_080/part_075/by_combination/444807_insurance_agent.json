@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fino Payments Bank",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency, ATM, Financial institution, Money transfer service",
+    "pincode": "444807",
+    "phone_number": "+91 95526 65341",
+    "website": "https://www.finobank.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "At.Amzari.Post, Ta, Chikhaldara, Maharashtra 444807",
+    "area": "444807",
+    "latitude": 21.4256167,
+    "longitude": 77.342145,
+    "place_id": "ChIJs_CLwZBX1jsRs0jeACY85N0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs_CLwZBX1jsRs0jeACY85N0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:17:18"
+  },
+  {
+    "business_name": "Shriram Finance Limited",
+    "search_category": "Insurance Agent",
+    "primary_category": "Financial institution",
+    "all_categories": "Financial institution, Agricultural Loan Agency, Car finance and loan company, Financial planner, Insurance company, Investment service, Loan agency, Motorcycle insurance agency",
+    "pincode": "444807",
+    "phone_number": "+91 1800 410 7711",
+    "website": "https://nearme.shriramfinance.in/madhya-pradesh/betul/bhainsdehi-branch",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ground Floor Khasra No. 546/120, Main, Bhainsdehi - Multai Rd, Gotma Colony, Tehsil, Bhainsdehi, Madhya Pradesh 460220",
+    "area": "Gotma Colony, Tehsil",
+    "latitude": 21.644413999999998,
+    "longitude": 77.6372183,
+    "place_id": "ChIJveEwi6lv1jsRPS_W9HB5JaQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJveEwi6lv1jsRPS_W9HB5JaQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:17:19"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shreekrishna Car Bazar",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "445101",
+    "phone_number": "+91 93709 88903",
+    "website": "https://wa.me/c/919370988903",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Mankapur Ring Rd, Nagarjun Colony, Jagrut Nagar, Jaripatka, Nagpur, Maharashtra 440014",
+    "area": "Nagarjun Colony, Jagrut Nagar, Jaripatka",
+    "latitude": 21.1886977,
+    "longitude": 79.0989225,
+    "place_id": "ChIJ7bp_0HLB1DsRUUoFbC8GyHM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7bp_0HLB1DsRUUoFbC8GyHM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:44:47"
+  },
+  {
+    "business_name": "SHREE RAM CAR BAZAR",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer",
+    "pincode": "445101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 63,
+    "address": "Metro piller no 28, Automotive Chowk, Shree ram car bazar, Kamptee Rd, opp. DEEP TYRES, Bank Colony, Nagpur, Maharashtra 440026",
+    "area": "Bank Colony",
+    "latitude": 21.183507199999998,
+    "longitude": 79.115755,
+    "place_id": "ChIJ8yzI803H1DsRWAMJ1OqyHhw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8yzI803H1DsRWAMJ1OqyHhw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:44:48"
+  }
+]

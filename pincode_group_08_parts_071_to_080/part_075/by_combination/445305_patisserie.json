@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHARMA FOODS",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "445305",
+    "phone_number": "+91 98493 04051",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 41,
+    "address": "near rani sathiji temple, Kumarpet, Mahalaxmiwada, Adilabad, Telangana 504001",
+    "area": "Kumarpet, Mahalaxmiwada",
+    "latitude": 19.6736373,
+    "longitude": 78.5366828,
+    "place_id": "ChIJMeFKfKFd0jsRUaYe3IA3Hho",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMeFKfKFd0jsRUaYe3IA3Hho",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:26:40"
+  },
+  {
+    "business_name": "Aaryasvi Industries Mukutban",
+    "search_category": "Patisserie",
+    "primary_category": "Manufacturer",
+    "all_categories": "Manufacturer, Wholesale bakery",
+    "pincode": "445305",
+    "phone_number": "+91 83299 80551",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Aaryasvi Industries, 334/1, Wani - Mukutban Rd, behind Om Nagari, Mukutban, Maharashtra 445304",
+    "area": "445305",
+    "latitude": 19.8067167,
+    "longitude": 78.8463278,
+    "place_id": "ChIJoStT4erl0jsRVtfe-wDZYv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoStT4erl0jsRVtfe-wDZYv0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:26:42"
+  }
+]

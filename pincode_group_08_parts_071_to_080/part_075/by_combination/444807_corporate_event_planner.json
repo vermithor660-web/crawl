@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanket Event",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event management company",
+    "all_categories": "Event management company",
+    "pincode": "444807",
+    "phone_number": "+91 82753 34144",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Bhuddha Vihar, Chikhdra Rod, Dhamangaon Gadhi, Maharashtra 444717",
+    "area": "444807",
+    "latitude": 21.3436552,
+    "longitude": 77.44108299999999,
+    "place_id": "ChIJAXak7lb31jsR7hMpJIkJJGU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAXak7lb31jsR7hMpJIkJJGU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:17:05"
+  },
+  {
+    "business_name": "Lalit patankar",
+    "search_category": "Corporate Event Planner",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "444807",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "9G8X+Q8P, Pandhari, Maharashtra 444806",
+    "area": "444807",
+    "latitude": 21.3669731,
+    "longitude": 77.5483282,
+    "place_id": "ChIJnctXYQD11jsROWA4olS7Yyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnctXYQD11jsROWA4olS7Yyc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:17:07"
+  }
+]

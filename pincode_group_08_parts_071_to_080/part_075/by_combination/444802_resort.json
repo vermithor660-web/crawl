@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Red Rabbit Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel, Cottage rental, Lodge, Hotel, Restaurant",
+    "pincode": "444802",
+    "phone_number": "+91 91681 61696",
+    "website": "http://www.redrabbitresorts.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Khawasa-Tirodi Road, Tehsil, Village Bahdawad, Kurai, Madhya Pradesh 480881",
+    "area": "Tehsil",
+    "latitude": 21.707732699999998,
+    "longitude": 79.49582529999999,
+    "place_id": "ChIJ7Zch9N7RKjoRR5LCSpnTx2M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7Zch9N7RKjoRR5LCSpnTx2M",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:08:11"
+  },
+  {
+    "business_name": "NJ Farms & Resort",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "444802",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "At post, Weltur road, Patansaongi, Yeltur, Maharashtra 441113",
+    "area": "444802",
+    "latitude": 21.3326881,
+    "longitude": 79.0453129,
+    "place_id": "ChIJ9c0mlard1DsR-QWSg3tkolo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9c0mlard1DsR-QWSg3tkolo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:08:11"
+  }
+]

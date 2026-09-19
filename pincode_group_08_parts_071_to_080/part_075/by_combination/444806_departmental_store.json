@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Yash Vilas Thorat",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "444806",
+    "phone_number": "+91 97652 79456",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Main Road, opp. of Chawal Mandi Road, Chawalmandi, Achalpur, Maharashtra 444806",
+    "area": "Chawalmandi",
+    "latitude": 21.2635146,
+    "longitude": 77.51098209999999,
+    "place_id": "ChIJDfsSKwbz1jsRkyQ_M6y_7dw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDfsSKwbz1jsRkyQ_M6y_7dw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:14:08"
+  },
+  {
+    "business_name": "N.G.Methi kirana stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "444806",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 2,
+    "address": "7G46+FRM, Bilanpura, Achalpur, Maharashtra 444806",
+    "area": "Bilanpura",
+    "latitude": 21.2562218,
+    "longitude": 77.51206169999999,
+    "place_id": "ChIJXc3comTz1jsRuMGXaaxp9Ak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXc3comTz1jsRuMGXaaxp9Ak",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:14:08"
+  }
+]

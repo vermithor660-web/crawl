@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sahil's Sea Delights",
+    "search_category": "Fish Market",
+    "primary_category": "Fish processing",
+    "all_categories": "Fish processing",
+    "pincode": "445109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Athodi bazaar fish market, Vidhardh Housing Society, Yavatmal, Maharashtra 445001",
+    "area": "Vidhardh Housing Society",
+    "latitude": 20.3899385,
+    "longitude": 78.1306846,
+    "place_id": "ChIJ1aRekmzp0zsRvFb022N-M34",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1aRekmzp0zsRvFb022N-M34",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:53:01"
+  },
+  {
+    "business_name": "Fish market",
+    "search_category": "Fish Market",
+    "primary_category": "Tropical fish store",
+    "all_categories": "Tropical fish store",
+    "pincode": "445109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "48R7+RH7, Ghatanji, Maharashtra 445301",
+    "area": "445109",
+    "latitude": 20.142031799999998,
+    "longitude": 78.31392249999999,
+    "place_id": "ChIJjfgNaYK50zsRlkpE84G_Fe4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjfgNaYK50zsRlkpE84G_Fe4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:53:03"
+  }
+]

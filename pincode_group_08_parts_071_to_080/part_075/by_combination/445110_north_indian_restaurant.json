@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Daivat Hotel Darwha",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "445110",
+    "phone_number": "+91 84218 53312",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "8Q6J+X8, Darwha, Maharashtra 445202",
+    "area": "445110",
+    "latitude": 20.312412899999998,
+    "longitude": 77.7806969,
+    "place_id": "ChIJX0srHgBd0TsRmWs-G1tN3kI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX0srHgBd0TsRmWs-G1tN3kI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:54:52"
+  },
+  {
+    "business_name": "Ark - Indian Kitchen",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "445110",
+    "phone_number": "+91 84460 83968",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 57,
+    "address": "Gupta House, Ravindra Nath Tagore Marg, Sita Kunj, Civil Lines, Nagpur, Maharashtra 440001",
+    "area": "Sita Kunj, Civil Lines",
+    "latitude": 21.1504087,
+    "longitude": 79.07472159999999,
+    "place_id": "ChIJdVWxLtLB1DsRy8MfF1jP9-U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdVWxLtLB1DsRy8MfF1jP9-U",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:54:54"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "King Mobile Gallary Repearing Center",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Mobile phone repair shop",
+    "all_categories": "Mobile phone repair shop",
+    "pincode": "445202",
+    "phone_number": "+91 99609 38693",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, SatyaNarayan Layout, Darwha, Maharashtra 445202",
+    "area": "SatyaNarayan Layout",
+    "latitude": 20.3101141,
+    "longitude": 77.77589789999999,
+    "place_id": "ChIJG4heYA9d0TsRB2-GqJnGtS0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG4heYA9d0TsRB2-GqJnGtS0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:59:29"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "445202",
+    "phone_number": "+91 75882 31569",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Lohi, Maharashtra 445210",
+    "area": "445202",
+    "latitude": 20.43959,
+    "longitude": 77.66046,
+    "place_id": "ChIJl-v_G6pF0TsRlKX2jgF8J_w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl-v_G6pF0TsRlKX2jgF8J_w",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:59:29"
+  }
+]

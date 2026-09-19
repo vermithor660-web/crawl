@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Agrawal Home Appliances",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store, Countertop store, Kitchen supply store, Wholesaler household appliances",
+    "pincode": "445202",
+    "phone_number": "+91 90283 15280",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Badri Niwas, Opp. Gajanan Mandir, Near Lakdipul, Mahal, Nagpur, Maharashtra 440032",
+    "area": "Opp. Gajanan Mandir, Near Lakdipul, Mahal",
+    "latitude": 21.1476625,
+    "longitude": 79.1115027,
+    "place_id": "ChIJBbjZazXH1DsRu5nLMaUaE7Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBbjZazXH1DsRu5nLMaUaE7Q",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:58:28"
+  },
+  {
+    "business_name": "M S Pande & Sons",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store, Baking supply store, Cell phone store, Countertop store, Equipment supplier, Glassware store, Hotel supply store, Restaurant supply store, Water Filter Supplier",
+    "pincode": "445202",
+    "phone_number": "+91 95950 50604",
+    "website": "https://pandesons.com/",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Shop no.9, Glocal Square, Main Rd, Variety Square, Sitabuldi, Nagpur, Maharashtra 440012",
+    "area": "Variety Square, Sitabuldi",
+    "latitude": 21.143622699999998,
+    "longitude": 79.08175729999999,
+    "place_id": "ChIJlyT7QALG1DsRMHaroFjYb2E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlyT7QALG1DsRMHaroFjYb2E",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:58:28"
+  }
+]

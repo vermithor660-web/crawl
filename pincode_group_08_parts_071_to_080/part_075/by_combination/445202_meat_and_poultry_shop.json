@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bajrang gavran poultry farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "445202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8Q2M+PXV, Darwha, Maharashtra 445202",
+    "area": "445202",
+    "latitude": 20.3014576,
+    "longitude": 77.7843461,
+    "place_id": "ChIJhRZnYgBd0TsRtpQkT6VYHxc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhRZnYgBd0TsRtpQkT6VYHxc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:58:19"
+  },
+  {
+    "business_name": "IRWE MUTTON AND CHICKEN CENTER",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "445202",
+    "phone_number": "+91 77099 69199",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "Darwha, Maharashtra 445202",
+    "area": "445202",
+    "latitude": 20.309869199999998,
+    "longitude": 77.7760648,
+    "place_id": "ChIJV30h0BNd0TsRrZLHkFDuD5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV30h0BNd0TsRrZLHkFDuD5I",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:58:19"
+  }
+]

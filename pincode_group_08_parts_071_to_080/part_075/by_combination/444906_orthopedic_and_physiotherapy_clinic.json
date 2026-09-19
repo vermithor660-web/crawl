@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dr. Faizan",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Orthopedic surgeon",
+    "all_categories": "Orthopedic surgeon, Hospital, Medical clinic, Orthopedic clinic, Private hospital, Spine surgeon",
+    "pincode": "444906",
+    "phone_number": "+91 93259 21235",
+    "website": "https://www.nagpurspinesurgeon.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mankapur Ring Rd, opposite Alf Automobile, Jafar Nagar, New Mankapur, Nagpur, Maharashtra 440013",
+    "area": "Jafar Nagar, New Mankapur",
+    "latitude": 21.1866715,
+    "longitude": 79.0673241,
+    "place_id": "ChIJrVAvtOPA1DsRirvoHZ7cG0A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrVAvtOPA1DsRirvoHZ7cG0A",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:34:04"
+  },
+  {
+    "business_name": "Dr Romil Rathi",
+    "search_category": "Orthopedic and Physiotherapy Clinic",
+    "primary_category": "Orthopedic clinic",
+    "all_categories": "Orthopedic clinic, Doctor, Emergency care physician, Medical Center, Orthopedic surgeon, Pain management physician, Private hospital, Rheumatologist, Sports medicine physician",
+    "pincode": "444906",
+    "phone_number": "+91 99757 68365",
+    "website": "https://www.drromilrathi.com/",
+    "rating": 4.9,
+    "reviews_count": 1340,
+    "address": "Ground Floor, Medicure Multispeciality clinic, near Lokmat Square, Ramdaspeth, Nagpur, Maharashtra 440010",
+    "area": "Ramdaspeth",
+    "latitude": 21.1347007,
+    "longitude": 79.0774797,
+    "place_id": "ChIJkfGaOZDA1DsR5AYt9SIEypg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkfGaOZDA1DsR5AYt9SIEypg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:34:05"
+  }
+]

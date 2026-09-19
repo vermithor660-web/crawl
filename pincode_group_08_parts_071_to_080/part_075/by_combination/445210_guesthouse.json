@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Mauli Residency Tipeshwar",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Restaurant",
+    "pincode": "445210",
+    "phone_number": "+91 91568 99222",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 430,
+    "address": "Chalbardi Rd, behind Mauli Celebration, Shastri Ward, Pandharkawada, Maharashtra 445302",
+    "area": "Shastri Ward",
+    "latitude": 20.0155626,
+    "longitude": 78.5473126,
+    "place_id": "ChIJn0RXk4ut0zsR9pbUqsqjhU4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn0RXk4ut0zsR9pbUqsqjhU4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:11:34"
+  },
+  {
+    "business_name": "OYO Hotel Galaxy Pandharkawda",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "445210",
+    "phone_number": "+91 124 620 1126",
+    "website": "https://www.oyorooms.com/230510/",
+    "rating": 3.8,
+    "reviews_count": 19,
+    "address": "2GMX+G6J, Aurangabad - Nagpur Rd, Pandharkawada, Maharashtra 445302",
+    "area": "445210",
+    "latitude": 20.0338599,
+    "longitude": 78.54802889999999,
+    "place_id": "ChIJf_GBFgCt0zsRETRwj16shsk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf_GBFgCt0zsRETRwj16shsk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:11:34"
+  }
+]

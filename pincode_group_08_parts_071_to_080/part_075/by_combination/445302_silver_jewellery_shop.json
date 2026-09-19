@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Balaji Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "445302",
+    "phone_number": "+91 94234 36196",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 9,
+    "address": "Sarafa Line, Pandharkawada, Maharashtra 445302",
+    "area": "445302",
+    "latitude": 20.0195698,
+    "longitude": 78.5462683,
+    "place_id": "ChIJtRBLPACt0zsRRTmEXL7gaQU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtRBLPACt0zsRRTmEXL7gaQU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:21:28"
+  },
+  {
+    "business_name": "S N MAHAMUNI JEWELLERY",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "445302",
+    "phone_number": "+91 97677 32111",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Pandharkawada, Maharashtra 445302",
+    "area": "445302",
+    "latitude": 20.0205174,
+    "longitude": 78.5464837,
+    "place_id": "ChIJUQiQ_eet0zsRG-X2f-vyYbU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUQiQ_eet0zsRG-X2f-vyYbU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:21:29"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Triveni Krushi Kendra",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agricultural Seed Store",
+    "all_categories": "Agricultural Seed Store, Agricultural service",
+    "pincode": "445303",
+    "phone_number": "+91 96230 16656",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Borda Road, chowk, Rajiv Gandhi ward, Warora, Maharashtra 442907",
+    "area": "Padmalaya Nagar",
+    "latitude": 20.231348,
+    "longitude": 79.01483379999999,
+    "place_id": "ChIJTVplFgoX0zsRMim9fLLTvV4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTVplFgoX0zsRMim9fLLTvV4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:24:29"
+  },
+  {
+    "business_name": "PADMA AGRO TRADERS",
+    "search_category": "Fertilizer and Pesticide Dealer",
+    "primary_category": "Agrochemicals Supplier",
+    "all_categories": "Agrochemicals Supplier",
+    "pincode": "445303",
+    "phone_number": "+91 89834 09519",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 11,
+    "address": "PADMA AGRO TRADERS, MAIN ROAD, Buddha Vihar, Warora, Maharashtra 442907",
+    "area": "Buddha Vihar",
+    "latitude": 20.2303469,
+    "longitude": 79.00294869999999,
+    "place_id": "ChIJXck9MDEW0zsRf52kpSTvAZY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXck9MDEW0zsRf52kpSTvAZY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:24:31"
+  }
+]

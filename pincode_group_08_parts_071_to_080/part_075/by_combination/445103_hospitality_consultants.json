@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raut Hotel",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "445103",
+    "phone_number": "+91 78756 23998",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jinig Point, Lonbehal, Maharashtra 445103",
+    "area": "445103",
+    "latitude": 19.9689224,
+    "longitude": 77.9290576,
+    "place_id": "ChIJY7MXa4XV0zsR77eZBOWlc9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY7MXa4XV0zsR77eZBOWlc9A",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:48:48"
+  },
+  {
+    "business_name": "Taj Sarkar Hotel",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "445103",
+    "phone_number": "+91 76209 50454",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Road, Mangrul, Taroda, Maharashtra 445105",
+    "area": "445103",
+    "latitude": 20.1860409,
+    "longitude": 77.9831963,
+    "place_id": "ChIJy_MvEcDZ0zsRa2JYhxpT0gM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy_MvEcDZ0zsRa2JYhxpT0gM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:48:48"
+  }
+]

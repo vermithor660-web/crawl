@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Primary Health Centre, Mahuli Jahagir",
+    "search_category": "Wellness Center",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "444915",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Mahuli Jahagir, Maharashtra 444901",
+    "area": "444915",
+    "latitude": 21.0568208,
+    "longitude": 77.8624936,
+    "place_id": "ChIJnxvurWuf1jsR0Fx5Mit4AqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnxvurWuf1jsR0Fx5Mit4AqY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:39:46"
+  },
+  {
+    "business_name": "Primary Health Centre, Yawali",
+    "search_category": "Wellness Center",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital, Hospital",
+    "pincode": "444915",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "4V53+C52, Yawali, Maharashtra 444915",
+    "area": "444915",
+    "latitude": 21.1085131,
+    "longitude": 77.8528755,
+    "place_id": "ChIJkxNk4FOf1jsRy8Fc5PXZjek",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkxNk4FOf1jsRy8Fc5PXZjek",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:39:46"
+  }
+]

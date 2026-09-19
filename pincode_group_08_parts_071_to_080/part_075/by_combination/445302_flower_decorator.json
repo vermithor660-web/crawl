@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Roaor Agro Farms",
+    "search_category": "Flower Decorator",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel, Farmstay, Home Stay, Resort hotel",
+    "pincode": "445302",
+    "phone_number": "+91 92261 71618",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Safari gate, Tipeshwar Wildlife Sanctuary, Pandarkawda, Sunna, Maharashtra 445305",
+    "area": "445302",
+    "latitude": 19.919660699999998,
+    "longitude": 78.5307557,
+    "place_id": "ChIJHayG9vhT0jsRPOEQyy9dE7o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJHayG9vhT0jsRPOEQyy9dE7o",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:22:09"
+  },
+  {
+    "business_name": "PK FLOWER DECORATION",
+    "search_category": "Flower Decorator",
+    "primary_category": "Housing complex",
+    "all_categories": "Housing complex",
+    "pincode": "445302",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RC33+86V, Dhanora, Telangana 504312",
+    "area": "445302",
+    "latitude": 19.802764099999997,
+    "longitude": 78.4026868,
+    "place_id": "ChIJ4UTAz21P0jsRbGJW8gD8bg4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4UTAz21P0jsRbGJW8gD8bg4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:22:09"
+  }
+]

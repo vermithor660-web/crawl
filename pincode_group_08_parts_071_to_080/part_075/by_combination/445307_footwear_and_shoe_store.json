@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Robin parkhi",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "445307",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W4X5+J8H, WCL Colony, Ghugus, Maharashtra 442505",
+    "area": "WCL Colony",
+    "latitude": 19.9490673,
+    "longitude": 79.1083448,
+    "place_id": "ChIJuw0sOQDf0jsRP0ANa14Naes",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuw0sOQDf0jsRP0ANa14Naes",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:30:26"
+  },
+  {
+    "business_name": "Raj Boot House",
+    "search_category": "Footwear and Shoe Store",
+    "primary_category": "Shoe store",
+    "all_categories": "Shoe store",
+    "pincode": "445307",
+    "phone_number": "+91 77688 28170",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shivaji Nagar, Nandata, Nanda Fata, Maharashtra 442917",
+    "area": "Shivaji Nagar",
+    "latitude": 19.7736022,
+    "longitude": 79.1369428,
+    "place_id": "ChIJM9Kr5uXF0jsR1cA4qTFV6JA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM9Kr5uXF0jsR1cA4qTFV6JA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:30:26"
+  }
+]

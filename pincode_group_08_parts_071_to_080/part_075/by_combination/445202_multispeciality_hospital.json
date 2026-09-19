@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bhavee Hospital - Gynaecology & Laparoscopic Surgery Center, Darwha.",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "445202",
+    "phone_number": "+91 88301 63603",
+    "website": "https://bhaveehospital.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ekata Chouk, near central bank of India, Darvha, Darwha, Maharashtra 445202",
+    "area": "Darvha",
+    "latitude": 20.3103448,
+    "longitude": 77.7698551,
+    "place_id": "ChIJN6m5Y_Rd0TsRH5uM6Kw9imo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN6m5Y_Rd0TsRH5uM6Kw9imo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:58:40"
+  },
+  {
+    "business_name": "Sub District Hospital, Darwha",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Government hospital",
+    "all_categories": "Government hospital",
+    "pincode": "445202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": 8,
+    "address": "Goverment Hospital, Darwha, Maharashtra 445202",
+    "area": "445202",
+    "latitude": 20.3157474,
+    "longitude": 77.7782865,
+    "place_id": "ChIJed37EBFd0TsRkg7VTsJuTIY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJed37EBFd0TsRkg7VTsJuTIY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:58:40"
+  }
+]

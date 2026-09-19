@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zamzam Medical",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "445207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "J642+RG7, Bhokar - Kinwat Rd, Gokunda, Maharashtra 431811",
+    "area": "445207",
+    "latitude": 19.6070284,
+    "longitude": 78.201285,
+    "place_id": "ChIJf88JUtU90jsRP2ifh9EA2pk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJf88JUtU90jsRP2ifh9EA2pk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:07:35"
+  },
+  {
+    "business_name": "Matoshree med",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "445207",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C285+2WG, Islapur, Maharashtra 431803",
+    "area": "445207",
+    "latitude": 19.4150213,
+    "longitude": 78.0098182,
+    "place_id": "ChIJu7vpGAAd0jsRyHj8RRofT3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu7vpGAAd0jsRyHj8RRofT3U",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:07:35"
+  }
+]

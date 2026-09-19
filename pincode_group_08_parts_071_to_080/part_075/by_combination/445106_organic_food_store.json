@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Abhinav Vegetables",
+    "search_category": "Organic Food Store",
+    "primary_category": "Vegetable wholesale market",
+    "all_categories": "Vegetable wholesale market",
+    "pincode": "445106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "At, Sasani, Maharashtra 445301",
+    "area": "At",
+    "latitude": 20.114463,
+    "longitude": 78.2330923,
+    "place_id": "ChIJmfgL1hfJ0zsRAQKR74HWyIg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmfgL1hfJ0zsRAQKR74HWyIg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:51:18"
+  },
+  {
+    "business_name": "GAU SHAKTI Organic vegetables",
+    "search_category": "Organic Food Store",
+    "primary_category": "Farm",
+    "all_categories": "Farm",
+    "pincode": "445106",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "94Q6+2F8 Shre Krishna Nagar, Darwha Rd, Wadgaon Road, Shre Krishna Nagar, Yavatmal, Maharashtra 445001",
+    "area": "Wadgaon Road, Shre Krishna Nagar",
+    "latitude": 20.3876259,
+    "longitude": 78.1112782,
+    "place_id": "ChIJK5KzDwDp0zsRh_7KxO70rl0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK5KzDwDp0zsRh_7KxO70rl0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:51:18"
+  }
+]

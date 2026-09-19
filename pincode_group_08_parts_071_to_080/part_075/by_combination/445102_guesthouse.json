@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRAVIN",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "445102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "CXJC+HHP, Yavatmal Road, Swonwdona, Swonvadona, Uttarwadhona, Maharashtra 445102",
+    "area": "Swonwdona, Swonvadona",
+    "latitude": 20.4314614,
+    "longitude": 77.97145259999999,
+    "place_id": "ChIJJ55mlkLj0zsRGEq-kCnmRco",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ55mlkLj0zsRGEq-kCnmRco",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:47:03"
+  },
+  {
+    "business_name": "Swagat Manglam",
+    "search_category": "Guesthouse",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "445102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 24,
+    "address": "FVW4+XWJ, Pimpalad, Ner, Maharashtra 445102",
+    "area": "445102",
+    "latitude": 20.4974711,
+    "longitude": 77.8572525,
+    "place_id": "ChIJl128zytX0TsR4ne1CuQRMXA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl128zytX0TsR4ne1CuQRMXA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:47:03"
+  }
+]

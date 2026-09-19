@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gurukrupa Atomobails",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "445109",
+    "phone_number": "+91 85549 76345",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "548W, 8XP, Akola Bazar, Maharashtra 445109",
+    "area": "8XP",
+    "latitude": 20.1658133,
+    "longitude": 78.1475895,
+    "place_id": "ChIJGVPxtKLF0zsR4WGVxZAoalA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGVPxtKLF0zsR4WGVxZAoalA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:53:34"
+  },
+  {
+    "business_name": "Shahezad motors",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Truck parts supplier",
+    "all_categories": "Truck parts supplier",
+    "pincode": "445109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "95J5+MR5, Bhosa, Yavatmal, Maharashtra 445001",
+    "area": "Bhosa",
+    "latitude": 20.3816384,
+    "longitude": 78.1596205,
+    "place_id": "ChIJs_k3BgDp0zsR36CvX1GlFUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs_k3BgDp0zsR36CvX1GlFUk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:53:34"
+  }
+]

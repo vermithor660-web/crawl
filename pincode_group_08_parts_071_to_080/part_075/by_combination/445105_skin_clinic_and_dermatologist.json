@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "La Skinnovita",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Alternative medicine practitioner, Hair removal service, Hair transplantation clinic, Laser hair removal service, Dermatologist",
+    "pincode": "445105",
+    "phone_number": "+91 98712 17300",
+    "website": "http://www.laskinnovita.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "C6-1049, opp. DLF Summit Road, DLF Phase 5, Sector 54, Gurugram, Haryana 122009",
+    "area": "DLF Phase 5, Sector 54",
+    "latitude": 28.4453917,
+    "longitude": 77.1055592,
+    "place_id": "ChIJv5zpJEYYDTkRstqqqN9wfao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv5zpJEYYDTkRstqqqN9wfao",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:49:57"
+  },
+  {
+    "business_name": "Dermcos Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Skin care clinic",
+    "all_categories": "Skin care clinic, Cosmetic surgeon, Dermatologist, Hair transplantation clinic, Laser hair removal service, Medical clinic, Pediatric dermatologist, Plastic surgeon, Plastic surgery clinic",
+    "pincode": "445105",
+    "phone_number": "+91 99101 24566",
+    "website": "https://dermcosskincare.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "972/18, Civil Line Rd, Mor Chowk, Sector 15, Gurugram, Haryana 122001",
+    "area": "Mor Chowk, Sector 15",
+    "latitude": 28.4577809,
+    "longitude": 77.033112,
+    "place_id": "ChIJ01cd4TcYDTkRgGQIawKAxyU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01cd4TcYDTkRgGQIawKAxyU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:49:57"
+  }
+]

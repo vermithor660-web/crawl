@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ram Bharose dhaba and Family Gaurden restorant",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "445206",
+    "phone_number": "+91 75177 51375",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "NH 361, Ambala, Maharashtra 431712",
+    "area": "445206",
+    "latitude": 19.5110454,
+    "longitude": 77.6188422,
+    "place_id": "ChIJb8IokP7r0TsRtXBuWYw0PjQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJb8IokP7r0TsRtXBuWYw0PjQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:05:24"
+  },
+  {
+    "business_name": "Sharma Punjabi Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "445206",
+    "phone_number": "+91 60068 88667",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Kopamandavi, Maharashtra 445305",
+    "area": "445206",
+    "latitude": 19.8966214,
+    "longitude": 78.5410358,
+    "place_id": "ChIJdSGPBr1T0jsRWZlCVGBcTPY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdSGPBr1T0jsRWZlCVGBcTPY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:05:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHAUDHARI medical and general store.",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "444708",
+    "phone_number": "+91 94034 58567",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "near Hanuman mandir Toli pura, highway, Ner, Maharashtra 445102",
+    "area": "highway",
+    "latitude": 20.492201899999998,
+    "longitude": 77.8657901,
+    "place_id": "ChIJlcdjMDJX0TsR3d8IOaTAR1o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlcdjMDJX0TsR3d8IOaTAR1o",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:51:51"
+  },
+  {
+    "business_name": "Swastik Medical",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical supply store",
+    "all_categories": "Medical supply store",
+    "pincode": "444708",
+    "phone_number": "+91 94046 89008",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Atharva Hospital, Shivaji Maharaj Statue Road, Shivaji Nagar, Ner, Maharashtra 445102",
+    "area": "Shivaji Nagar",
+    "latitude": 20.4937436,
+    "longitude": 77.8659121,
+    "place_id": "ChIJZXgH5XlX0TsRiBqiC-nub-o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZXgH5XlX0TsRiBqiC-nub-o",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:51:51"
+  }
+]

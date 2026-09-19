@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HEALTH CARE CLINIC",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "444720",
+    "phone_number": "+91 98346 42122",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 01, Oppside Main Road, near HEALTH CARE CLINIC, Bhalwani, Maharashtra 415311",
+    "area": "444720",
+    "latitude": 17.220637999999997,
+    "longitude": 74.44102149999999,
+    "place_id": "ChIJSS9NjGBvwTsRfY_BTBxPqks",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSS9NjGBvwTsRfY_BTBxPqks",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:02:17"
+  },
+  {
+    "business_name": "Gramin Health Care Polyclinic",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "444720",
+    "phone_number": "+91 510 210 5226",
+    "website": "http://www.graminhealthcare.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C7CW+826, Hamidwada, Maharashtra 416235",
+    "area": "444720",
+    "latitude": 16.4207857,
+    "longitude": 74.2950105,
+    "place_id": "ChIJTYsjm5f3wDsRqdzKc1svZJs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTYsjm5f3wDsRqdzKc1svZJs",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:02:17"
+  }
+]

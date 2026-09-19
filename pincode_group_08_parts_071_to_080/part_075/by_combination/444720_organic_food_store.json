@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sattva foods",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store",
+    "pincode": "444720",
+    "phone_number": "+91 88064 20420",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Bhagya Nagar Road, Uday Nagar 2, Irrigation Colony, Peer Burhan Nagar, kaman, Nanded, Maharashtra 431605",
+    "area": "Uday Nagar 2, Irrigation Colony, Peer Burhan Nagar",
+    "latitude": 19.177305999999998,
+    "longitude": 77.30934429999999,
+    "place_id": "ChIJvzWYZhDX0TsRtULwJIDBQ5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvzWYZhDX0TsRtULwJIDBQ5E",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:01:45"
+  },
+  {
+    "business_name": "Sree SaiRam Organics",
+    "search_category": "Organic Food Store",
+    "primary_category": "Organic food store",
+    "all_categories": "Organic food store, Cosmetics store, Indian grocery store, Natural goods store",
+    "pincode": "444720",
+    "phone_number": "+91 99512 33577",
+    "website": "https://sreesairamorganics.com/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Main Rd, beside tipsy topsy, Danavai Peta, Rajamahendravaram, Andhra Pradesh 533103",
+    "area": "Danavai Peta",
+    "latitude": 17.0064106,
+    "longitude": 81.7805738,
+    "place_id": "ChIJ__-Qje6jNzoRzkitSssb-eE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ__-Qje6jNzoRzkitSssb-eE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:01:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Supreme Luxe Autos",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car detailing service",
+    "all_categories": "Car detailing service, Service establishment",
+    "pincode": "445210",
+    "phone_number": "07438 523595",
+    "website": "http://www.supremeluxeautos.co.uk/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Supreme Luxe Autos, 445210, India",
+    "area": "445210",
+    "latitude": 52.2397844,
+    "longitude": -0.8803981999999999,
+    "place_id": "ChIJyY6xVfnPVAARLbD12RkzzZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyY6xVfnPVAARLbD12RkzzZU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:11:07"
+  },
+  {
+    "business_name": "Eraa Diamond",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto care products store",
+    "all_categories": "Auto care products store",
+    "pincode": "445210",
+    "phone_number": "+91 78409 78817",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "रोड, Shastri Nagar, Kolhapur, Maharashtra 416008",
+    "area": "Shastri Nagar",
+    "latitude": 16.6897219,
+    "longitude": 74.2391556,
+    "place_id": "ChIJ03UtmBcAwTsRnrVQF_Xq38Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ03UtmBcAwTsRnrVQF_Xq38Y",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:11:07"
+  }
+]

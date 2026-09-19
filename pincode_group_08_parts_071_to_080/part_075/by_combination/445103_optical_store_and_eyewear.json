@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S K Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "445103",
+    "phone_number": "+91 72788 18786",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 543 Fazlani Layout Ha, Yavatmal - Arni Rd, Yavatmal, Maharashtra 445103",
+    "area": "Shastri Nagar",
+    "latitude": 20.0672315,
+    "longitude": 77.9527007,
+    "place_id": "ChIJa2bgIbnX0zsRDh0-LHTRTK8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJa2bgIbnX0zsRDh0-LHTRTK8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:48:05"
+  },
+  {
+    "business_name": "New Taj Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "445103",
+    "phone_number": "+91 93714 58694",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1, Arni, Kelzara, Maharashtra 445103",
+    "area": "445103",
+    "latitude": 20.0653456,
+    "longitude": 77.9479866,
+    "place_id": "ChIJp2HdcmrX0zsRd-o_TKXDTgI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp2HdcmrX0zsRd-o_TKXDTgI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:48:08"
+  }
+]

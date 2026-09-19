@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Xenorio Industries",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Web hosting company",
+    "all_categories": "Web hosting company, Computer support and services, Service establishment",
+    "pincode": "445101",
+    "phone_number": "0160 8978834",
+    "website": "https://xenorio.xyz/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Xenorio Industries, 445101, India",
+    "area": "445101",
+    "latitude": 51.175807,
+    "longitude": 10.4541194,
+    "place_id": "ChIJazZjc4R1vUcRoVSR-eKnPIQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJazZjc4R1vUcRoVSR-eKnPIQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:45:54"
+  },
+  {
+    "business_name": "Arcuess Solutions",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Engineering consultant",
+    "all_categories": "Engineering consultant, Electronics Company, Service establishment, Industrial design company, Industrial equipment supplier",
+    "pincode": "445101",
+    "phone_number": "+91 83560 44101",
+    "website": "http://www.arcuess.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Arcuess Solutions, 445101, India",
+    "area": "445101",
+    "latitude": 19.681179699999998,
+    "longitude": 75.4815892,
+    "place_id": "ChIJZ8FF4EHwzSwRb9RU76y3pLo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ8FF4EHwzSwRb9RU76y3pLo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:45:54"
+  }
+]

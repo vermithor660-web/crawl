@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rahul Garden And Family Restaurant purveg",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant, South Indian restaurant, Vegetarian restaurant",
+    "pincode": "445002",
+    "phone_number": "+91 88885 04242",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 10,
+    "address": "19, Main Road, near Rajlaxmo Bank, Ghatanji, Maharashtra 445301",
+    "area": "445002",
+    "latitude": 20.148330599999998,
+    "longitude": 78.3084519,
+    "place_id": "ChIJ5Ru0-Ae50zsR0ILE3LJJ4c0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5Ru0-Ae50zsR0ILE3LJJ4c0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:42:31"
+  },
+  {
+    "business_name": "Krishna Food Corner",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "445002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 16,
+    "address": "near Suyog Mangal Karyalay, Wadgaon Road, Wadgaon, Yavatmal, Maharashtra 445002",
+    "area": "Wadgaon Road, Wadgaon",
+    "latitude": 20.375011,
+    "longitude": 78.1114338,
+    "place_id": "ChIJE4YfCvjp0zsRSRZop-Yxi2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJE4YfCvjp0zsRSRZop-Yxi2A",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:42:31"
+  }
+]

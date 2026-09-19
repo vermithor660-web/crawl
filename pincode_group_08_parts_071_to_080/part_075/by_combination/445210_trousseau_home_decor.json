@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PS Gift Shopee",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Gift shop",
+    "all_categories": "Gift shop, Acrylic Dealer, Aluminum frames supplier, Bag shop, Florist, Key duplication service, Photo agency, Picture frame shop, Plastic Products Supplier, Sign shop",
+    "pincode": "445210",
+    "phone_number": "+91 94220 43749",
+    "website": "http://psgiftshopee.com/",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "F no 07, Vardhman Hights, Rupa Bhavani Rd, Vardhman nagar, Bhavani Peth, Solapur, Maharashtra 413002",
+    "area": "Vardhman nagar, Bhavani Peth",
+    "latitude": 17.689308699999998,
+    "longitude": 75.9078464,
+    "place_id": "ChIJpxaln9zbxTsRWWeq_g9K3VI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpxaln9zbxTsRWWeq_g9K3VI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:11:36"
+  },
+  {
+    "business_name": "Aanant kraft",
+    "search_category": "Trousseau Home Decor",
+    "primary_category": "Handicraft",
+    "all_categories": "Handicraft",
+    "pincode": "445210",
+    "phone_number": "+91 91529 55115",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Guru Krupa Niwas, 982, near T. B. Hospital, beside Central Bank of India, Jagnath Budhwari, Nagpur, Maharashtra 440002",
+    "area": "Jagnath Budhwari, Tandapeth",
+    "latitude": 21.161714099999998,
+    "longitude": 79.1128664,
+    "place_id": "ChIJhf0e5hjH1DsRsh_7R0_4A6A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhf0e5hjH1DsRsh_7R0_4A6A",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:11:36"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ishwari Mini Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "444810",
+    "phone_number": "+91 95614 90446",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Shirajgaon Kasba, Maharashtra 444810",
+    "area": "444810",
+    "latitude": 21.333846899999998,
+    "longitude": 77.6773694,
+    "place_id": "ChIJmceKhyeJ1jsRgXkF22VLas0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmceKhyeJ1jsRgXkF22VLas0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:21:50"
+  },
+  {
+    "business_name": "Choice Holidays India",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "444810",
+    "phone_number": "+91 98271 44487",
+    "website": "http://www.choiceholidaysindia.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Opp. Vivekanad ashram, Great Eastern Rd, near Hanuman Temple, Raipur, Chhattisgarh 492001",
+    "area": "444810",
+    "latitude": 21.241301099999998,
+    "longitude": 81.6208142,
+    "place_id": "ChIJn3Gjx5PdKDoR02GWAoPIIVo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn3Gjx5PdKDoR02GWAoPIIVo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:21:50"
+  }
+]

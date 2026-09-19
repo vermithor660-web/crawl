@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gajanan",
+    "search_category": "Boutiques",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "444717",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "646M+4V4, Vastapur, Mankari, Maharashtra 444101",
+    "area": "Vastapur",
+    "latitude": 21.210264799999997,
+    "longitude": 77.1347159,
+    "place_id": "ChIJbTewYgAD1zsRSCNSM_QiMCg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbTewYgAD1zsRSCNSM_QiMCg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:58:34"
+  },
+  {
+    "business_name": "Jannat Collection",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "444717",
+    "phone_number": "+91 90216 27403",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Shop Number 1, Anjangaon,Bhaldar Pura, Anjangaon, Maharashtra 444705",
+    "area": "Barganpura, Anjangaon Surji",
+    "latitude": 21.1639835,
+    "longitude": 77.3137005,
+    "place_id": "ChIJ5cTeB8vl1jsRuJUE1WzZb9A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5cTeB8vl1jsRuJUE1WzZb9A",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:58:35"
+  }
+]

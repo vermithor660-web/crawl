@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "बजरंगी ढाबा & रेस्टॉरंट",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "444908",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "C36P+Q93, MH, MSH 10, Bopalawadi, Maharashtra 444905",
+    "area": "MH",
+    "latitude": 21.4118885,
+    "longitude": 78.0859239,
+    "place_id": "ChIJZ7YIeQAt1DsRpc48U9yRnQo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZ7YIeQAt1DsRpc48U9yRnQo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:37:13"
+  },
+  {
+    "business_name": "Shetkari wada",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "444908",
+    "phone_number": "+91 77200 02581",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 6,
+    "address": "F64F+29C, Jarud, Maharashtra 444908",
+    "area": "444908",
+    "latitude": 21.457103699999998,
+    "longitude": 78.23001959999999,
+    "place_id": "ChIJK-83VQDL1TsRWCz8G3nFRoA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK-83VQDL1TsRWCz8G3nFRoA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:37:13"
+  }
+]

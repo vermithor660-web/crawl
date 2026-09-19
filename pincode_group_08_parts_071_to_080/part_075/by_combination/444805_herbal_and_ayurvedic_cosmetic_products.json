@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayurwedics General",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "444805",
+    "phone_number": "+91 99216 15067",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Paratwada, Partvada, Amravati, Achalpur, Maharashtra 444805",
+    "area": "Paratwada, Partvada",
+    "latitude": 21.303864,
+    "longitude": 77.5193295,
+    "place_id": "ChIJ14DMyYH11jsR08SjqcGSF9U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ14DMyYH11jsR08SjqcGSF9U",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:13:19"
+  },
+  {
+    "business_name": "Zeeshan Unani &Ayurvedic",
+    "search_category": "Herbal and Ayurvedic Cosmetic Products",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "444805",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "First Floor of, Hitler Men's Wear Mughlai Chowk, Paratwada, Mughalai, Achalpur, Maharashtra 444805",
+    "area": "Paratwada, Mughalai",
+    "latitude": 21.306474599999998,
+    "longitude": 77.5193597,
+    "place_id": "ChIJzfeh7gn11jsRH4K9X_DZTGY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzfeh7gn11jsRH4K9X_DZTGY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:13:21"
+  }
+]

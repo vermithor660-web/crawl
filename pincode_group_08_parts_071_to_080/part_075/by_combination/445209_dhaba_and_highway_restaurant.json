@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Hotel Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "445209",
+    "phone_number": "+91 97636 22313",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Sai Hotel Dhaba, Near Jairam Petrol Pump,Sonegaon Lodhi, Nagpur Gramin NH-7, Mancherial Chandrapur Nagpur Road, Nagpur Gramin 441108, Maharashtra 440001",
+    "area": "445209",
+    "latitude": 20.7875591,
+    "longitude": 78.9565609,
+    "place_id": "ChIJz2b3JPSe1DsRE_e8jCFxPOk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz2b3JPSe1DsRE_e8jCFxPOk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:08:56"
+  },
+  {
+    "business_name": "Farm to Table Farms & Kitchen",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "445209",
+    "phone_number": "+91 75877 26757",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 147,
+    "address": "53, Mumbai - Kolkata Hwy, Uraidabri, Chhattisgarh 491557",
+    "area": "445209",
+    "latitude": 21.0739079,
+    "longitude": 80.7815588,
+    "place_id": "ChIJD2gHDQDjKzoRB72vpyeCzPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD2gHDQDjKzoRB72vpyeCzPE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:08:57"
+  }
+]

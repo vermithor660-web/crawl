@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shrirampur Post Office",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "445215",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 20,
+    "address": "VHX2+8HV, MH SH 215, Shrirampur, Maharashtra 445215",
+    "area": "Shrirampur",
+    "latitude": 19.898373199999998,
+    "longitude": 77.5514293,
+    "place_id": "ChIJP7eYa68K0TsRR0bH5BOLep4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP7eYa68K0TsRR0bH5BOLep4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:15:25"
+  },
+  {
+    "business_name": "Kunal jadhao",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "445215",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "WFGG+G9V, Gajipur, Maharashtra 445215",
+    "area": "445215",
+    "latitude": 19.9263718,
+    "longitude": 77.47592019999999,
+    "place_id": "ChIJS88lEgAL0TsRAIc_FbqYY98",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS88lEgAL0TsRAIc_FbqYY98",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:15:25"
+  }
+]

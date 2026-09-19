@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayan biryani centre",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Biryani restaurant",
+    "all_categories": "Biryani restaurant",
+    "pincode": "445401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C8RC+PWR, Kalamb, Maharashtra 445401",
+    "area": "445401",
+    "latitude": 20.4418671,
+    "longitude": 78.3222681,
+    "place_id": "ChIJQVplbgCT0zsR6ba3ee8s3Fs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQVplbgCT0zsR6ba3ee8s3Fs",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:37:38"
+  },
+  {
+    "business_name": "Shree Chintamani Restaurant & Dhaba",
+    "search_category": "Non-Veg Biryani Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "445401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 16,
+    "address": "F88R+X93, Yavatmal, Kalamb, Maharashtra 445401",
+    "area": "445401",
+    "latitude": 20.4673804,
+    "longitude": 78.3409118,
+    "place_id": "ChIJTSX7MTuT0zsRsIEl6oHVBZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTSX7MTuT0zsRsIEl6oHVBZ4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:37:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHRADDHA COLLECTION",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "445002",
+    "phone_number": "+91 77199 57605",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1, Wadgaon Road, Yavatmal, Maharashtra 445002",
+    "area": "Wadgaon Road",
+    "latitude": 20.379552999999998,
+    "longitude": 78.1241015,
+    "place_id": "ChIJGd441pLp0zsRVjQkU4S1AUg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGd441pLp0zsRVjQkU4S1AUg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:42:20"
+  },
+  {
+    "business_name": "Shrikrushna Provision",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "445002",
+    "phone_number": "+91 98607 60746",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Shop No 1, Gilani Nagar, near Post Office, Gurudev Nagar, Yavatmal, Maharashtra 445002",
+    "area": "Gurudev Nagar",
+    "latitude": 20.379903,
+    "longitude": 78.12681789999999,
+    "place_id": "ChIJF4ykKzXp0zsRM44klLNSe5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF4ykKzXp0zsRM44klLNSe5A",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:42:20"
+  }
+]

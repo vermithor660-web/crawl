@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sainath Traders",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier",
+    "pincode": "444707",
+    "phone_number": "+91 95611 00711",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "pandhurna road, opposite shree Krupa hotel and bar, opposite amravati complex, Warud, Maharashtra 444906",
+    "area": "444707",
+    "latitude": 21.4764065,
+    "longitude": 78.27496099999999,
+    "place_id": "ChIJeWPfFZLK1TsRbCXmtzp8Bn8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJeWPfFZLK1TsRbCXmtzp8Bn8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:50:18"
+  },
+  {
+    "business_name": "ULTRATECH CEMENT GODOWN",
+    "search_category": "Cement and Sand Supplier",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "444707",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "XQR3+WW3, Kathora Rd, Kathora, Maharashtra 444602",
+    "area": "444707",
+    "latitude": 20.9921617,
+    "longitude": 77.7552994,
+    "place_id": "ChIJMVtUVuej1jsRrbXD-C9_3k4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMVtUVuej1jsRrbXD-C9_3k4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:50:19"
+  }
+]

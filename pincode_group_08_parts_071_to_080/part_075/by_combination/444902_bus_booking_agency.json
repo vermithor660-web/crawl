@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Padmini Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "444902",
+    "phone_number": "+91 98663 18017",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Eluru Rd, Seetarampeta, Ramachandraraopeta, Venkatasubbayya Colony, Tadepalligudem, Andhra Pradesh 534102",
+    "area": "Seetarampeta, Ramachandraraopeta, Venkatasubbayya Colony",
+    "latitude": 16.807898599999998,
+    "longitude": 81.5281251,
+    "place_id": "ChIJRUgHuTS1NzoRBdeqE3PDZVw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRUgHuTS1NzoRBdeqE3PDZVw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:27:11"
+  },
+  {
+    "business_name": "24 Hours Driver Available Amravati",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "444902",
+    "phone_number": "+91 90289 53791",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus Stop, Mahuli Jahagir, Maharashtra 444901",
+    "area": "444902",
+    "latitude": 21.0581542,
+    "longitude": 77.8624545,
+    "place_id": "ChIJDWKWeQmf1jsR2KAtD3Ojfeg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDWKWeQmf1jsR2KAtD3Ojfeg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:27:11"
+  }
+]

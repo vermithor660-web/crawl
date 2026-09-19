@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wood Palace Plywood and Hardware",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "445205",
+    "phone_number": "+91 94225 65538",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "WH2F+C8C, Pusad, Maharashtra 445204",
+    "area": "445205",
+    "latitude": 19.9010599,
+    "longitude": 77.5732649,
+    "place_id": "ChIJt_THQAB10TsR353VDcgUe7g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt_THQAB10TsR353VDcgUe7g",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:04:15"
+  },
+  {
+    "business_name": "Krishna Timber Mart",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Lumber store",
+    "all_categories": "Lumber store",
+    "pincode": "445205",
+    "phone_number": "+91 98504 84831",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Nagri - Madheli Rd, Madheli, Maharashtra 442907",
+    "area": "445205",
+    "latitude": 20.3108103,
+    "longitude": 78.85472639999999,
+    "place_id": "ChIJDS_sZIkS0zsR1gRkhLXVvMM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDS_sZIkS0zsR1gRkhLXVvMM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:04:16"
+  }
+]

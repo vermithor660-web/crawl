@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sumit Event",
+    "search_category": "Media and Event",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "444723",
+    "phone_number": "+91 95037 54592",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Bhugaon, Maharashtra 444723",
+    "area": "444723",
+    "latitude": 21.2139731,
+    "longitude": 77.5531381,
+    "place_id": "ChIJ4d-HPvfz1jsR51eKiU4QVi4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4d-HPvfz1jsR51eKiU4QVi4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:04:34"
+  },
+  {
+    "business_name": "Evolution Marketing Services",
+    "search_category": "Media and Event",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "444723",
+    "phone_number": "+91 98208 49478",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ground Floor, Next To Ghori Complex, Gandhi chowk, Amravati, Maharashtra 444601",
+    "area": "Gandhi chowk",
+    "latitude": 20.9283747,
+    "longitude": 77.7479341,
+    "place_id": "ChIJ4a3IMFSl1jsRcopTnkbcnlA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4a3IMFSl1jsRcopTnkbcnlA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:04:36"
+  }
+]

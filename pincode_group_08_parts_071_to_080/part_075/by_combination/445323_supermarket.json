@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SARVANDY TRADERS",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "445323",
+    "phone_number": "+91 70389 37999",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Shop Numbers 1, Yavatmal Road, Watbori, Maharashtra 445002",
+    "area": "445323",
+    "latitude": 20.294135,
+    "longitude": 78.326898,
+    "place_id": "ChIJB6W4nCK_0zsR7QK39m2Abxk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB6W4nCK_0zsR7QK39m2Abxk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:33:45"
+  },
+  {
+    "business_name": "Shantanu Provisions",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "445323",
+    "phone_number": "+91 94200 47813",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Ralegaon, Maharashtra 445402",
+    "area": "445323",
+    "latitude": 20.4166875,
+    "longitude": 78.5236875,
+    "place_id": "ChIJD0Z-rXmZ0zsRx8RhFmGggbc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD0Z-rXmZ0zsRx8RhFmGggbc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:33:46"
+  }
+]

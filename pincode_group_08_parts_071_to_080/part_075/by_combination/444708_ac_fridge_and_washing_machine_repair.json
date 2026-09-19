@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cool point",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Refrigerator repair service",
+    "all_categories": "Refrigerator repair service, Electronic parts supplier",
+    "pincode": "444708",
+    "phone_number": "+91 94221 58272",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "C11 AMC Market, Walgaon Rd, opposite of transport nagar, Amravati, Maharashtra 444601",
+    "area": "Wahdat Nagar",
+    "latitude": 20.946931199999998,
+    "longitude": 77.7425143,
+    "place_id": "ChIJIWs_TPu91jsRyEGzgDf7Jmw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIWs_TPu91jsRyEGzgDf7Jmw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:52:07"
+  },
+  {
+    "business_name": "Shri Mahalaxmi Home Appliances, Sales and Services.",
+    "search_category": "AC Fridge and Washing Machine Repair",
+    "primary_category": "Refrigerator repair service",
+    "all_categories": "Refrigerator repair service, Air conditioning repair service, Washer & dryer repair service, Water Filter Supplier",
+    "pincode": "444708",
+    "phone_number": "+91 98811 92021",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 15,
+    "address": "353 New Khapri, Wardha Rd, Punarvsan, Khapri, Maharashtra 441108",
+    "area": "New Khapri, Punarvsan",
+    "latitude": 21.053067199999997,
+    "longitude": 79.0606044,
+    "place_id": "ChIJyZyyIiu_1DsRxFvKStjKq5I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyZyyIiu_1DsRxFvKStjKq5I",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:52:08"
+  }
+]

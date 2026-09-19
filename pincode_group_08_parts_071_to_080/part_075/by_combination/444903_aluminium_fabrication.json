@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sanjari Aluminium Works",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer",
+    "pincode": "444903",
+    "phone_number": "+91 95791 10709",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 02, Old Moter Stand, Gandhi Chowk, Amrawati Tahsil, Amravati, Maharashtra 444601",
+    "area": "Amrawati Tahsil",
+    "latitude": 20.9292394,
+    "longitude": 77.75079629999999,
+    "place_id": "ChIJ612V2lCl1jsRSyPUdgMnXs0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ612V2lCl1jsRSyPUdgMnXs0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:29:44"
+  },
+  {
+    "business_name": "Shramik fabrication",
+    "search_category": "Aluminium Fabrication",
+    "primary_category": "Fabrication Engineer",
+    "all_categories": "Fabrication Engineer, Aluminum frames supplier, Steel fabricator",
+    "pincode": "444903",
+    "phone_number": "+91 96658 80775",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 7,
+    "address": "near priyanti school, Tarodi Bk, Maharashtra 441202",
+    "area": "444903",
+    "latitude": 21.1205171,
+    "longitude": 79.1789888,
+    "place_id": "ChIJc_jLzC251DsR06QPFHk75l8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc_jLzC251DsR06QPFHk75l8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:29:44"
+  }
+]

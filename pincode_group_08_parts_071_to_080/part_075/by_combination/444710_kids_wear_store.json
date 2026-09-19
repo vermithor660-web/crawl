@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Samarth Sweet Mart",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "444710",
+    "phone_number": "+91 90962 84983",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Talegaon Dashasar, Maharashtra 444710",
+    "area": "444710",
+    "latitude": 20.680191699999998,
+    "longitude": 78.0951943,
+    "place_id": "ChIJGUfpk9oH1DsRZuH2tR2QXNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGUfpk9oH1DsRZuH2tR2QXNY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:55:06"
+  },
+  {
+    "business_name": "Ayushi Pan Centre",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "444710",
+    "phone_number": "+91 99750 48038",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Q4CR F65, Dattapur, Maharashtra 444709",
+    "area": "444710",
+    "latitude": 20.7692731,
+    "longitude": 78.1388054,
+    "place_id": "ChIJ3yNx5sIJ1DsRgtpW3PmJKrc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3yNx5sIJ1DsRgtpW3PmJKrc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:55:07"
+  }
+]

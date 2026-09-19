@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Sangram Daily Needs And Cold Drink",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "444901",
+    "phone_number": "+91 72184 37073",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "Shop No 5, Athavadi Bazar, Teosa, Maharashtra 444903",
+    "area": "444901",
+    "latitude": 21.0852674,
+    "longitude": 78.0630192,
+    "place_id": "ChIJkU8HEqgj1DsRyP2SRrpvqCw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkU8HEqgj1DsRyP2SRrpvqCw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:26:21"
+  },
+  {
+    "business_name": "Akash Cold Drinks",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "444901",
+    "phone_number": "+91 93079 13748",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "01akash, Amt Road, Shikshak Colony, Amravati, Nandgaon Peth, Maharashtra 444901",
+    "area": "Shikshak Colony",
+    "latitude": 21.0236683,
+    "longitude": 77.8258417,
+    "place_id": "ChIJV3FEotOj1jsRC_vNfH5ezYU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV3FEotOj1jsRC_vNfH5ezYU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:26:21"
+  }
+]

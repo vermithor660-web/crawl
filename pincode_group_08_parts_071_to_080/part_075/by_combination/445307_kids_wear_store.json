@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ganraj Sports and Plastic",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Sportswear store",
+    "all_categories": "Sportswear store, Gift shop, Toy store",
+    "pincode": "445307",
+    "phone_number": "+91 83297 52329",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bonde Complex, Chandrapur Road, near MSEDCL office, Ghugus, Maharashtra 442505",
+    "area": "445307",
+    "latitude": 19.9415701,
+    "longitude": 79.1190812,
+    "place_id": "ChIJzxLlDi_Z0jsRkyUnJDX4Eps",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzxLlDi_Z0jsRkyUnJDX4Eps",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:30:23"
+  },
+  {
+    "business_name": "Laxmi Garments & Malekar Kapad Kendra",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "445307",
+    "phone_number": "+91 73507 40116",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Nr.Nagar Panchayat, Square, Korpana, Maharashtra 442916",
+    "area": "445307",
+    "latitude": 19.7389564,
+    "longitude": 78.9914478,
+    "place_id": "ChIJq6qqGrrp0jsRgBxWUlhXsbk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq6qqGrrp0jsRgBxWUlhXsbk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:30:25"
+  }
+]

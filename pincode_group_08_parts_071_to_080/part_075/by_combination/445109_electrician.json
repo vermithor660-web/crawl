@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anand Associate",
+    "search_category": "Electrician",
+    "primary_category": "Electrical installation service",
+    "all_categories": "Electrical installation service",
+    "pincode": "445109",
+    "phone_number": "+91 70203 09858",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Pandhurna khu, Ghatanji, Maharashtra 445301",
+    "area": "445109",
+    "latitude": 20.1440677,
+    "longitude": 78.24137329999999,
+    "place_id": "ChIJmx4HBPvH0zsRq4xfVf__yhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmx4HBPvH0zsRq4xfVf__yhA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:53:46"
+  },
+  {
+    "business_name": "Kanvar Vidyut Electrical",
+    "search_category": "Electrician",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "445109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Near, Bus Stand Rd, Pangari, Yavatmal, Maharashtra 445001",
+    "area": "Pangari",
+    "latitude": 20.389875399999998,
+    "longitude": 78.12777109999999,
+    "place_id": "ChIJ26G8zzvp0zsRHPFy-XBJZ1E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ26G8zzvp0zsRHPFy-XBJZ1E",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:53:46"
+  }
+]

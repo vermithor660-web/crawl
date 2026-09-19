@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Devgadh",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "445102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 82,
+    "address": "94Q3+C73, Lohara, Rocko City, Lohara, Maharashtra 445002",
+    "area": "Lohara, Rocko City",
+    "latitude": 20.388504899999997,
+    "longitude": 78.1031685,
+    "place_id": "ChIJ5edqTinn0zsRBA0RhlMWqok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5edqTinn0zsRBA0RhlMWqok",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:46:07"
+  },
+  {
+    "business_name": "Indian Chinese",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "445102",
+    "phone_number": "+91 70667 22786",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No.1, Ekveera Chouk, in front of Ekveera Hotel, Lohara, Rocko City, Lohara, Maharashtra 445002",
+    "area": "Lohara, Rocko City",
+    "latitude": 20.3886736,
+    "longitude": 78.1017677,
+    "place_id": "ChIJzYmXgtbn0zsRPgL-vypmiq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzYmXgtbn0zsRPgL-vypmiq4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:46:07"
+  }
+]

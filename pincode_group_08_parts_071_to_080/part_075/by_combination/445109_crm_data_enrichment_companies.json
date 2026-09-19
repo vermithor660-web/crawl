@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Choure's Tech",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Home automation company",
+    "all_categories": "Home automation company",
+    "pincode": "445109",
+    "phone_number": "N/A",
+    "website": "http://www.chourestech.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Vishwas Nagar, Shre Krishna Nagar, Yavatmal, Maharashtra 445002",
+    "area": "Vishwas Nagar, Shre Krishna Nagar",
+    "latitude": 20.380214199999998,
+    "longitude": 78.1080261,
+    "place_id": "ChIJYZi7Xg_n0zsRvz2ljdQEmGE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYZi7Xg_n0zsRvz2ljdQEmGE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:54:37"
+  },
+  {
+    "business_name": "OneUIX Enterprise",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Service establishment",
+    "pincode": "445109",
+    "phone_number": "+91 80106 44047",
+    "website": "https://oneuix.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "OneUIX Enterprise, 445109, India",
+    "area": "445109",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJyzp39Lka9S0RR9_fli27dao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyzp39Lka9S0RR9_fli27dao",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:54:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nanda Medicals",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "444904",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "RX6H+6VC, Railway Station Road, Chandur Railway, Maharashtra 444904",
+    "area": "444904",
+    "latitude": 20.810551099999998,
+    "longitude": 77.97963299999999,
+    "place_id": "ChIJH27sAQAD1DsRxnvvYckZW1c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJH27sAQAD1DsRxnvvYckZW1c",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:30:30"
+  },
+  {
+    "business_name": "General Diagnostic Sabale clinical laboratory",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Diagnostic center",
+    "all_categories": "Diagnostic center",
+    "pincode": "444904",
+    "phone_number": "+91 98505 42496",
+    "website": "https://www.gd-lab.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Chaprashipura square, Chandur Railway Rd, near dr Iqbal clinic, Chaprasi Pura, Apratim Colony, Amravati, Maharashtra 444602",
+    "area": "Chaprasi Pura, Apratim Colony",
+    "latitude": 20.9306445,
+    "longitude": 77.7851388,
+    "place_id": "ChIJZyE-Hpml1jsR00QN2S9jSkc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZyE-Hpml1jsR00QN2S9jSkc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:30:30"
+  }
+]

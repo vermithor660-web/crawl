@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Govt. ITI Antargaon",
+    "search_category": "Driving School",
+    "primary_category": "Training center",
+    "all_categories": "Training center",
+    "pincode": "445323",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "7CRM+HX2, Antargaon, Maharashtra 445323",
+    "area": "445323",
+    "latitude": 20.291396499999998,
+    "longitude": 78.434883,
+    "place_id": "ChIJGbSxozW90zsRfQJtkDJB1RA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGbSxozW90zsRfQJtkDJB1RA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:34:31"
+  },
+  {
+    "business_name": "Sunny kinnake",
+    "search_category": "Driving School",
+    "primary_category": "Driving school",
+    "all_categories": "Driving school",
+    "pincode": "445323",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "89V9+JG7, Unnamed Road, Nanza, Maharashtra 445002",
+    "area": "445323",
+    "latitude": 20.3440452,
+    "longitude": 78.36878519999999,
+    "place_id": "ChIJX8M33SCV0zsRumVfAI2NVoc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX8M33SCV0zsRumVfAI2NVoc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:34:31"
+  }
+]

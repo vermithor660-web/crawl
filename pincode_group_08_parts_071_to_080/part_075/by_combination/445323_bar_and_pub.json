@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saki Bar & Restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Bar",
+    "all_categories": "Bar",
+    "pincode": "445323",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": 2,
+    "address": "CGH4+2FJ, Ralegaon, Maharashtra 445402",
+    "area": "445323",
+    "latitude": 20.4275856,
+    "longitude": 78.506149,
+    "place_id": "ChIJ13agPwCb0zsRLr8fbbnSzjU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ13agPwCb0zsRLr8fbbnSzjU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:34:00"
+  },
+  {
+    "business_name": "Hotel Amrut Winebar And Restaurant",
+    "search_category": "Bar and Pub",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Bar, Wine bar",
+    "pincode": "445323",
+    "phone_number": "+91 70574 33444",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "123 Manin Nagar Nagapur, Nagpur, Maharashtra 445402",
+    "area": "445323",
+    "latitude": 20.421080699999997,
+    "longitude": 78.5296639,
+    "place_id": "ChIJpTibg3yZ0zsR8AI7wQkEho4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpTibg3yZ0zsR8AI7wQkEho4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:34:03"
+  }
+]

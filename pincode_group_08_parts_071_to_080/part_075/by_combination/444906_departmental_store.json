@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aditya Provision",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "444906",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "G954+2VW, Pusla, Maharashtra 444906",
+    "area": "444906",
+    "latitude": 21.5076158,
+    "longitude": 78.3572136,
+    "place_id": "ChIJOfzCqfy11TsRmN8LjzXxXQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOfzCqfy11TsRmN8LjzXxXQE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:33:34"
+  },
+  {
+    "business_name": "Ashirwad All in One Store",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "444906",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Chinchargavan Weir, Chinchargavhan Main Road, Chichargavhan, Maharashtra 444906",
+    "area": "444906",
+    "latitude": 21.4145334,
+    "longitude": 78.2914248,
+    "place_id": "ChIJ6dI8Pxo11DsR65iwhiKkZ3Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6dI8Pxo11DsR65iwhiKkZ3Q",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:33:34"
+  }
+]

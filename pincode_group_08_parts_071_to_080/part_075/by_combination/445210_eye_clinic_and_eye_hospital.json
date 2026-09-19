@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MAULI EYE HOSPITAL",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "445210",
+    "phone_number": "+91 94216 45220",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Agastya tower, Plot no.4, Paithan Rd, opp. Shanti nursing home, Kanchanwadi, Chhatrapati Sambhajinagar, Maharashtra 431011",
+    "area": "Kanchanwadi",
+    "latitude": 19.836278999999998,
+    "longitude": 75.2924199,
+    "place_id": "ChIJ3-etVOyZ2zsRDKY_Ab4jn1Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3-etVOyZ2zsRDKY_Ab4jn1Q",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:11:00"
+  },
+  {
+    "business_name": "Mundada ENT & Eye Care Center",
+    "search_category": "Eye Clinic and Eye Hospital",
+    "primary_category": "Eye care center",
+    "all_categories": "Eye care center, ENT Specialist",
+    "pincode": "445210",
+    "phone_number": "+91 240 236 0331",
+    "website": "http://www.mundadaentandeyecare.com/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "172-A, Shastri Nagar Manik Hospital Road, behind Hedgewar Hospital, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "Ashok Nagar, Garkheda",
+    "latitude": 19.8675829,
+    "longitude": 75.34769299999999,
+    "place_id": "ChIJj-b7uYai2zsRGM1pEXROMYg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj-b7uYai2zsRGM1pEXROMYg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:11:00"
+  }
+]

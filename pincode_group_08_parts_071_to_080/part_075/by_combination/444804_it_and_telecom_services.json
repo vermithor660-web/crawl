@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "444804",
+    "phone_number": "+91 94219 70177",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "00,BILANPURA, TAKKAR CHUCK, ACHALPUR, Purna Nagar, Maharashtra 444806",
+    "area": "444804",
+    "latitude": 21.100043499999998,
+    "longitude": 77.5764219,
+    "place_id": "ChIJycu2OE-V1jsRf8wHpTDTsc0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJycu2OE-V1jsRf8wHpTDTsc0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:11:55"
+  },
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "444804",
+    "phone_number": "+91 75889 73874",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "4, Achalpur, Yelki, Maharashtra 444804",
+    "area": "Achalpur",
+    "latitude": 21.1062558,
+    "longitude": 77.5640303,
+    "place_id": "ChIJXWyzzmiV1jsRlFj7jrKubKU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXWyzzmiV1jsRlFj7jrKubKU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:11:55"
+  }
+]

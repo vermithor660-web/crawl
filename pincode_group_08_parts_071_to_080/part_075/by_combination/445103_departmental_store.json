@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "(Sk groceries shop",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "445103",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mominpura, Arni, Maharashtra 445103",
+    "area": "Mominpura",
+    "latitude": 20.0739836,
+    "longitude": 77.95390569999999,
+    "place_id": "ChIJvb97olDX0zsR0vvdBKvXjwk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvb97olDX0zsR0vvdBKvXjwk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:47:44"
+  },
+  {
+    "business_name": "Lifestyle Men's Wear",
+    "search_category": "Departmental Store",
+    "primary_category": "Men's clothing store",
+    "all_categories": "Men's clothing store",
+    "pincode": "445103",
+    "phone_number": "+91 80076 83053",
+    "website": "https://www.lifestylestores.com/in/en/department/men",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Front of State bank of india, Shastri Nagar, Arni, Maharashtra 445103",
+    "area": "Shastri Nagar",
+    "latitude": 20.0739827,
+    "longitude": 77.9541741,
+    "place_id": "ChIJQcEcg_jX0zsRbDhTy5c5taA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQcEcg_jX0zsRbDhTy5c5taA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:47:46"
+  }
+]

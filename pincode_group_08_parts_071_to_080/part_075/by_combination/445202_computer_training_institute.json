@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Expert Computer Sales & Services",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer Training Institute",
+    "all_categories": "Computer Training Institute",
+    "pincode": "445202",
+    "phone_number": "+91 91753 69411",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Infront of New Court, Yavatmal Road, Darwha, Maharashtra 445202",
+    "area": "445202",
+    "latitude": 20.3122722,
+    "longitude": 77.7761968,
+    "place_id": "ChIJ5QJbDBFd0TsRv-xPeA9l4us",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5QJbDBFd0TsRv-xPeA9l4us",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:59:23"
+  },
+  {
+    "business_name": "Royal Computer Systems",
+    "search_category": "Computer Training Institute",
+    "primary_category": "Computer service",
+    "all_categories": "Computer service",
+    "pincode": "445202",
+    "phone_number": "+91 97632 72018",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "old digras road, near Varsha talkies, Darwha, Maharashtra 445202",
+    "area": "445202",
+    "latitude": 20.3089725,
+    "longitude": 77.7708596,
+    "place_id": "ChIJ8UbtU8Jd0TsRTu60JiID97s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8UbtU8Jd0TsRTu60JiID97s",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:59:23"
+  }
+]

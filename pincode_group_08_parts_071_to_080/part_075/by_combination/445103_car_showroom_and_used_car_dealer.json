@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CHAVHAN AUTO",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Chauffeur service",
+    "all_categories": "Chauffeur service",
+    "pincode": "445103",
+    "phone_number": "+91 92846 78370",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No,8 At Post Borgaon Tq Arni, Yavatmal, Maharashtra 445103",
+    "area": "445103",
+    "latitude": 20.0747216,
+    "longitude": 78.0584497,
+    "place_id": "ChIJOSb1a9DR0zsRUKnCwt_b3Rc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOSb1a9DR0zsRUKnCwt_b3Rc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:48:18"
+  },
+  {
+    "business_name": "SHIVVANDANA AUTOMOBILE SOLUTION",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "445103",
+    "phone_number": "+91 95525 48881",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Arni Bypass, Arni, Maharashtra 445103",
+    "area": "445103",
+    "latitude": 20.086684599999998,
+    "longitude": 77.9522085,
+    "place_id": "ChIJwwIwr_zX0zsRnNsvXnrrukk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwwIwr_zX0zsRnNsvXnrrukk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:48:18"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kanchan Veg",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Banquet hall, Breakfast restaurant, Event venue, North Indian restaurant, Punjabi restaurant, South Indian restaurant, Maharashtrian Restaurant",
+    "pincode": "445105",
+    "phone_number": "+91 97656 00500",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Pune - Solapur Rd, Doragewadi, Yevat, Maharashtra 412214",
+    "area": "445105",
+    "latitude": 18.4790672,
+    "longitude": 74.2530709,
+    "place_id": "ChIJsfs737EfwzsRw09H_3PmVh0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsfs737EfwzsRw09H_3PmVh0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:49:37"
+  },
+  {
+    "business_name": "Ghevar",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Rajasthani Restaurant",
+    "all_categories": "Rajasthani Restaurant, Gujarati restaurant, Restaurant",
+    "pincode": "445105",
+    "phone_number": "+91 70300 06477",
+    "website": "http://www.ghevarthali.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Tiranga Chouk, LG 16, Panache Mall, Datta Nagar Rd, Shriram Nagar, Katraj, Pune, Maharashtra 411046",
+    "area": "Shriram Nagar, Katraj",
+    "latitude": 18.451947399999998,
+    "longitude": 73.8517786,
+    "place_id": "ChIJ3zlgu5brwjsRvZeFx6jvcUU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3zlgu5brwjsRvZeFx6jvcUU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:49:37"
+  }
+]

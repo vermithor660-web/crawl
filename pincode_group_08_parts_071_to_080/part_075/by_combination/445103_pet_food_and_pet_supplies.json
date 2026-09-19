@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Guru Mauli Pet Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "445103",
+    "phone_number": "+91 99608 82552",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1, Yavatmal - Arni Rd, Yavatmal, Mangrul, Maharashtra 445105",
+    "area": "445103",
+    "latitude": 20.2081744,
+    "longitude": 78.0020399,
+    "place_id": "ChIJNYKTvJff0zsRd9nwGq_DIAk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNYKTvJff0zsRd9nwGq_DIAk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:47:49"
+  },
+  {
+    "business_name": "MY Pet shop, PUSAD",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "445103",
+    "phone_number": "+91 93243 62436",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 289,
+    "address": "Pusad, Maharashtra 445204",
+    "area": "445103",
+    "latitude": 19.9081875,
+    "longitude": 77.5660625,
+    "place_id": "ChIJQ_1J64110TsRndz7uc2GSuo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ_1J64110TsRndz7uc2GSuo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:47:52"
+  }
+]

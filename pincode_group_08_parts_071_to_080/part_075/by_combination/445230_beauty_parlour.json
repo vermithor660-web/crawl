@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raj Jents Parlour, Fulsawangi",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Barber shop",
+    "all_categories": "Barber shop",
+    "pincode": "445230",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "PVFH+754, Fulsawangi, Maharashtra 445230",
+    "area": "445230",
+    "latitude": 19.723135499999998,
+    "longitude": 77.8779617,
+    "place_id": "ChIJG81DCwCJ0TsR_7mTjY1_KfQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG81DCwCJ0TsR_7mTjY1_KfQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:18:27"
+  },
+  {
+    "business_name": "Manisha Beauty Parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "445230",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "MVC2+W2V, Ningnur Gahagir, Maharashtra 445230",
+    "area": "445230",
+    "latitude": 19.6723659,
+    "longitude": 77.8500401,
+    "place_id": "ChIJqcvcn3yJ0TsRzlL46G4dzkY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqcvcn3yJ0TsRzlL46G4dzkY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:18:30"
+  }
+]

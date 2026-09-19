@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "चंदेले house 🏠",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Laundry service",
+    "all_categories": "Laundry service",
+    "pincode": "444806",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "32/154, Bilanpura, Achalpur, Maharashtra 444806",
+    "area": "Bilanpura",
+    "latitude": 21.2607079,
+    "longitude": 77.51249589999999,
+    "place_id": "ChIJz4nIdgDz1jsRw25PXDSrPr4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz4nIdgDz1jsRw25PXDSrPr4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:15:33"
+  },
+  {
+    "business_name": "Dayalkar Laundry & Drycleaners",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Laundry service",
+    "all_categories": "Laundry service",
+    "pincode": "444806",
+    "phone_number": "+91 82630 41016",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Thakre Complex, Mills Colony, Harde Nagar, Achalpur, Kheldeomali, Maharashtra 444805",
+    "area": "Mills Colony, Harde Nagar",
+    "latitude": 21.2722964,
+    "longitude": 77.5258155,
+    "place_id": "ChIJDwb6CADz1jsR7EEKW5GIwhw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDwb6CADz1jsR7EEKW5GIwhw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:15:33"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gokhale Fitness Club",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "444806",
+    "phone_number": "+91 95189 55365",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 3,
+    "address": "Juna Sarafa, Bilanpura, Achalpur, Maharashtra 444806",
+    "area": "Bilanpura",
+    "latitude": 21.2566381,
+    "longitude": 77.51309169999999,
+    "place_id": "ChIJTaB1YKjz1jsRAawDRf4ZbrA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTaB1YKjz1jsRAawDRf4ZbrA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:14:41"
+  },
+  {
+    "business_name": "EAGLE FITNESS CLUB",
+    "search_category": "Gym and Fitness Center",
+    "primary_category": "Gym",
+    "all_categories": "Gym",
+    "pincode": "444806",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Paratwada, Mughalai, Achalpur, Maharashtra 444805",
+    "area": "Paratwada, Mughalai",
+    "latitude": 21.3056737,
+    "longitude": 77.5213713,
+    "place_id": "ChIJP9znqYj01jsRSxlI3a5N1t8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP9znqYj01jsRSxlI3a5N1t8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:14:43"
+  }
+]

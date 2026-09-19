@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ruchir Restaurant and Lodging",
+    "search_category": "Hotel",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "444904",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "ChaprashiPura, Christian Pura, Shivneri Colony, Amravati, Maharashtra 444602",
+    "area": "Christian Pura, Shivneri Colony",
+    "latitude": 20.9310625,
+    "longitude": 77.7843125,
+    "place_id": "ChIJPbEVxpul1jsRqn8e_RY36vs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPbEVxpul1jsRqn8e_RY36vs",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:31:07"
+  },
+  {
+    "business_name": "Hotel Tamraa",
+    "search_category": "Hotel",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "444904",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "MH SH 297, Chandur Railway, Maharashtra 444904",
+    "area": "444904",
+    "latitude": 20.814085199999997,
+    "longitude": 77.9710795,
+    "place_id": "ChIJQ2JLpakD1DsRCYBAJulaAx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ2JLpakD1DsRCYBAJulaAx0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:31:07"
+  }
+]

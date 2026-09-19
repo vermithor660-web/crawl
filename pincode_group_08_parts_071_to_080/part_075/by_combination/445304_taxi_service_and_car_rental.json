@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Karan Tours and Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service, Taxi service",
+    "pincode": "445304",
+    "phone_number": "+91 84119 98830",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "ward no 6, Shanti Colony, Nanda Fata, Maharashtra 442917",
+    "area": "Shanti Colony",
+    "latitude": 19.770828899999998,
+    "longitude": 79.1410949,
+    "place_id": "ChIJGTx11fzF0jsRZME5LVPQ9Kw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGTx11fzF0jsRZME5LVPQ9Kw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:25:24"
+  },
+  {
+    "business_name": "Om tours and travels 24 * 7 days",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "445304",
+    "phone_number": "+91 76201 43989",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "UltraTech Cement work, Tahsil . Korpana, Shanti coloney, Nanda Fata, Awalpur, Maharashtra 442917",
+    "area": "Shanti coloney",
+    "latitude": 19.7738528,
+    "longitude": 79.1365083,
+    "place_id": "ChIJNd4yGtTF0jsR9Et3JX1nBrk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNd4yGtTF0jsR9Et3JX1nBrk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:25:25"
+  }
+]

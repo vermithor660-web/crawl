@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DADA KA DHABA",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Indian restaurant",
+    "pincode": "445323",
+    "phone_number": "+91 90113 55114",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "opp. to Dutta Mandir, Hinganghat, Ghatsavli, Maharashtra 442307",
+    "area": "445323",
+    "latitude": 20.4984957,
+    "longitude": 78.7859789,
+    "place_id": "ChIJn5lwIQBx0zsRfxV2NFrLNL4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn5lwIQBx0zsRfxV2NFrLNL4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:33:56"
+  },
+  {
+    "business_name": "Taj Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "445323",
+    "phone_number": "+91 97657 75419",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "GRPM+H34, Jawade, Nandgaon, Maharashtra 442301",
+    "area": "Jawade",
+    "latitude": 20.536399499999998,
+    "longitude": 78.8327181,
+    "place_id": "ChIJpy_tQDpx0zsRCUZt89RyXqs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpy_tQDpx0zsRCUZt89RyXqs",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:33:56"
+  }
+]

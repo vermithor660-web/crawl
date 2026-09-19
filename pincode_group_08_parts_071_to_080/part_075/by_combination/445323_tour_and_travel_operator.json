@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SIDHANT TOUR AND TRAVELS",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "445323",
+    "phone_number": "+91 77218 38028",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "SHOP NO. 08, Ralegaon, Maharashtra 445402",
+    "area": "445323",
+    "latitude": 20.420184,
+    "longitude": 78.5151501,
+    "place_id": "ChIJo9lQwC6Z0zsRM3ctXqFdjnU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo9lQwC6Z0zsRM3ctXqFdjnU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:34:31"
+  },
+  {
+    "business_name": "EKTA TRAVELS",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "445323",
+    "phone_number": "+91 98225 84812",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1, Dhanora, Ralegaon, Maharashtra 445402",
+    "area": "445323",
+    "latitude": 20.4203598,
+    "longitude": 78.51876,
+    "place_id": "ChIJySdarhuZ0zsRygAovDf4kaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJySdarhuZ0zsRygAovDf4kaw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:34:31"
+  }
+]

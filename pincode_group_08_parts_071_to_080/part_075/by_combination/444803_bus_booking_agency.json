@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aashish Travel Agency Mzr",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "444803",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "P9F9+3MM, Mumbai - Kolkata Hwy, Vrundavan Nagar, Hatgaon, Maharashtra 444107",
+    "area": "Vrundavan Nagar",
+    "latitude": 20.722709,
+    "longitude": 77.3691777,
+    "place_id": "ChIJS0iHIz7R1jsR_9ivMang9T4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJS0iHIz7R1jsR_9ivMang9T4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:09:33"
+  },
+  {
+    "business_name": "Daryapur Bus Stand",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Transportation service",
+    "all_categories": "Transportation service",
+    "pincode": "444803",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Chhatrapati Shivaji Maharaj Chowk, Shiwarkar Nagar, Daryapur Banosa, Maharashtra 444803",
+    "area": "Shiwarkar Nagar",
+    "latitude": 20.9231804,
+    "longitude": 77.3264933,
+    "place_id": "ChIJ8QDltWbc1jsRWGqbQhC1hhQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8QDltWbc1jsRWGqbQhC1hhQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:09:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Perfect Haircut Saloon",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "444902",
+    "phone_number": "+91 96653 39729",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "1 Varha, Maharashtra 444902",
+    "area": "444902",
+    "latitude": 20.9987012,
+    "longitude": 77.9738649,
+    "place_id": "ChIJaf4LoOsf1DsR7U9oBFYKB9I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaf4LoOsf1DsR7U9oBFYKB9I",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:27:25"
+  },
+  {
+    "business_name": "Unique Family Hair And Spa Saloon",
+    "search_category": "Spa",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "444902",
+    "phone_number": "+91 98906 05361",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1 Nagpur Highway, Main, Road, Mozari, Maharashtra 444902",
+    "area": "Mojhri",
+    "latitude": 21.0554801,
+    "longitude": 78.0003176,
+    "place_id": "ChIJadrCrXoh1DsR00VEfrjjXd0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJadrCrXoh1DsR00VEfrjjXd0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:27:25"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Chavan Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "445204",
+    "phone_number": "+91 72332 47401",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "WH49+8MH, near shani mandi, Moti Nagar, Pusad, Maharashtra 445204",
+    "area": "Moti Nagar",
+    "latitude": 19.9058013,
+    "longitude": 77.5692188,
+    "place_id": "ChIJUQjuQk510TsRoQQkHoeZvQM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUQjuQk510TsRoQQkHoeZvQM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:02:10"
+  },
+  {
+    "business_name": "PATANGE HOSPITAL pusad",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "445204",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WH69+5FC, Hanuman Ward, Pusad, Maharashtra 445204",
+    "area": "Hanuman Ward",
+    "latitude": 19.910425699999998,
+    "longitude": 77.568649,
+    "place_id": "ChIJhxLnXpp10TsRwRQFsNGd45U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhxLnXpp10TsRwRQFsNGd45U",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:02:10"
+  }
+]

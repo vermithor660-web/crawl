@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DR. Satish Pawar Shifa Hospital Wadgaon road Yavatmal",
+    "search_category": "Doctors",
+    "primary_category": "Hospital department",
+    "all_categories": "Hospital department",
+    "pincode": "445105",
+    "phone_number": "+91 96046 58535",
+    "website": "http://www.dcarc.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Dr Sheikh hospital, Wadgaon Road, Shri Krishna Society, Yavatmal, Maharashtra 445002",
+    "area": "Wadgaon Road, Shri Krishna Society",
+    "latitude": 20.3808157,
+    "longitude": 78.1127444,
+    "place_id": "ChIJ9SRT-cvp0zsRPveSWjT7DaI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9SRT-cvp0zsRPveSWjT7DaI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:49:55"
+  },
+  {
+    "business_name": "NAVJIVAN CLINIC",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "445105",
+    "phone_number": "+91 98818 17203",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Aatwdi bazar road jawala, ta.arni, Jawala, Maharashtra 445105",
+    "area": "445105",
+    "latitude": 20.1463796,
+    "longitude": 77.9563072,
+    "place_id": "ChIJzWN-A-jZ0zsRY6ct2XQH-kw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzWN-A-jZ0zsRY6ct2XQH-kw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:49:56"
+  }
+]

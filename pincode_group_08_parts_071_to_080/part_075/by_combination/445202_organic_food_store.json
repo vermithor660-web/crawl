@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RAM AGRO AGENCY DARWAH",
+    "search_category": "Organic Food Store",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "445202",
+    "phone_number": "+91 98811 47782",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Yavatmal road, Darwha, Maharashtra 445202",
+    "area": "445202",
+    "latitude": 20.3115253,
+    "longitude": 77.77518839999999,
+    "place_id": "ChIJe2GHmc5d0TsRSdWUYi3KZF4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe2GHmc5d0TsRSdWUYi3KZF4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:58:16"
+  },
+  {
+    "business_name": "Mauli Provision Gurudev Nagar Digras",
+    "search_category": "Organic Food Store",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "445202",
+    "phone_number": "+91 88884 62268",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "4P6F+2Q8, Gurudev Nagar Rd, Gurudev Nagar, Digras, Maharashtra 445203",
+    "area": "Gurudev Nagar",
+    "latitude": 20.1094155,
+    "longitude": 77.7239025,
+    "place_id": "ChIJPdgRSOpv0TsRFjPlKYHM65w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJPdgRSOpv0TsRFjPlKYHM65w",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:58:17"
+  }
+]

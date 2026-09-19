@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cloudy Solution",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "445205",
+    "phone_number": "+91 80871 92915",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot No -154, Revati Nagar, Besa, Besa Pipla, Maharashtra 440037",
+    "area": "Revati Nagar, Besa",
+    "latitude": 21.0883809,
+    "longitude": 79.091461,
+    "place_id": "ChIJW1PVNTK_1DsRq4xfVfyWnPw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW1PVNTK_1DsRq4xfVfyWnPw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:05:11"
+  },
+  {
+    "business_name": "CRM Masters Infotech LLP",
+    "search_category": "CRM Data Enrichment Companies",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "445205",
+    "phone_number": "+91 98108 24033",
+    "website": "http://www.crm-masters.com/",
+    "rating": 5,
+    "reviews_count": 95,
+    "address": "529-532, Fifth Floor, Vipul Trade Center, Sector 48, Gurugram, Haryana 122018",
+    "area": "Sector 48",
+    "latitude": 28.4068234,
+    "longitude": 77.0419737,
+    "place_id": "ChIJZU-BQqIjDTkRtYBx9mpOPzU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZU-BQqIjDTkRtYBx9mpOPzU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:05:13"
+  }
+]

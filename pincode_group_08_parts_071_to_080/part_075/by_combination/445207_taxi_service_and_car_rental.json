@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency, Chauffeur service, Minibus taxi service, Taxi service",
+    "pincode": "445207",
+    "phone_number": "+91 94239 59655",
+    "website": "https://nagpurtaxi.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "P. No. 63, Jagrutti nagar, opp. Garjana Bar, Jaripatka, Nagpur, Maharashtra 440014",
+    "area": "Jaripatka",
+    "latitude": 21.1820557,
+    "longitude": 79.0859952,
+    "place_id": "ChIJR45h4DvB1DsRVRhgPlW2SKo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR45h4DvB1DsRVRhgPlW2SKo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:07:41"
+  },
+  {
+    "business_name": "Samarth Tour and Travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "445207",
+    "phone_number": "+91 91307 87535",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 31,
+    "address": "At kinwat tq, dist, Kinwat, Maharashtra 431804",
+    "area": "445207",
+    "latitude": 19.624594899999998,
+    "longitude": 78.1963404,
+    "place_id": "ChIJ8_ijuJ890jsRECvxP7wWAfA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8_ijuJ890jsRECvxP7wWAfA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:07:43"
+  }
+]

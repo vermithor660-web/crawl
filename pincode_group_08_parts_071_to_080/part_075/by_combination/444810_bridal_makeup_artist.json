@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nikhil's Professional Beauty Studio",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "444810",
+    "phone_number": "+91 99225 55805",
+    "website": "https://www.instagram.com/nikhilsprobeautystudio/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "MIDC, Bigone Road, Vidya Nagari, Baramati, Maharashtra 413133",
+    "area": "Vidya Nagari",
+    "latitude": 18.176102699999998,
+    "longitude": 74.6055812,
+    "place_id": "ChIJq0VNgV91wzsRIS9jsTogVhk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJq0VNgV91wzsRIS9jsTogVhk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:22:05"
+  },
+  {
+    "business_name": "B A TATTOO",
+    "search_category": "Bridal Makeup Artist",
+    "primary_category": "Tattoo shop",
+    "all_categories": "Tattoo shop, Hair extension technician, Hair removal service, Hair replacement service, Laser hair removal service, Tattoo and piercing shop, Tattoo artist, Tattoo removal service, Hairdresser",
+    "pincode": "444810",
+    "phone_number": "+91 90964 34160",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Shop no 14, Nita Pride building, Suryanagari, Motanagar, Baramati Midc, M Cl, Baramati, Maharashtra 413133",
+    "area": "Baramati Midc, M Cl",
+    "latitude": 18.1755217,
+    "longitude": 74.6065261,
+    "place_id": "ChIJiUaTwWSfwzsRqbATRTnp9A4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiUaTwWSfwzsRqbATRTnp9A4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:22:06"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Soma Spa & Shraddha Ayurved Clinic",
+    "search_category": "Spa",
+    "primary_category": "Spa",
+    "all_categories": "Spa, Day spa",
+    "pincode": "445324",
+    "phone_number": "+91 88055 90900",
+    "website": "http://www.somaspa.in/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Flat No. 7, Kapil Apartment, Shivtej Road, behind Mantri Park, Tejas Nagar, Dahanukar Colony, Kothrud, Pune, Maharashtra 411038",
+    "area": "Tejas Nagar, Dahanukar Colony, Kothrud",
+    "latitude": 18.4993452,
+    "longitude": 73.8111059,
+    "place_id": "ChIJ21Vmbty_wjsRq7_wGP9qM6Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ21Vmbty_wjsRq7_wGP9qM6Y",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:36:38"
+  },
+  {
+    "business_name": "MAULI AYURVEDIC MASSAGE THERAPY",
+    "search_category": "Spa",
+    "primary_category": "Massage therapist",
+    "all_categories": "Massage therapist",
+    "pincode": "445324",
+    "phone_number": "+91 91569 72622",
+    "website": "https://www.maulispa.com/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Shop No 112, First Floor, The Business Hub, Karve Rd, opposite Mirch Masala Restaurant, Happy Colony, Kothrud, Pune, Maharashtra 411038",
+    "area": "Happy Colony, Kothrud",
+    "latitude": 18.4936974,
+    "longitude": 73.8147709,
+    "place_id": "ChIJnWPZyxG_wjsRegPx9CC-Ki0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnWPZyxG_wjsRegPx9CC-Ki0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:36:38"
+  }
+]

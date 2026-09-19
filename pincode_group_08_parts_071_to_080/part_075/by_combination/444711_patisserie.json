@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahakali bakery and daily needs",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "444711",
+    "phone_number": "+91 70575 05737",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Bus stop At post rohana ta, dist, arvi, Rohna, Maharashtra 442302",
+    "area": "444711",
+    "latitude": 20.853393,
+    "longitude": 78.325608,
+    "place_id": "ChIJpzr2wdZz1DsRNTRRf6W05aw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpzr2wdZz1DsRNTRRf6W05aw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:56:38"
+  },
+  {
+    "business_name": "Bachelours Biryaani",
+    "search_category": "Patisserie",
+    "primary_category": "Cake shop",
+    "all_categories": "Cake shop",
+    "pincode": "444711",
+    "phone_number": "+91 93569 04706",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, near Bay Om General Stor, Lunavat Nagar, Dattapur Dhamangaon, Shahapur, Maharashtra 444709",
+    "area": "Lunavat Nagar",
+    "latitude": 20.8226104,
+    "longitude": 78.1405163,
+    "place_id": "ChIJp_i_pdYP1DsRQGxNAlAxN0c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp_i_pdYP1DsRQGxNAlAxN0c",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:56:38"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ambika Jewellers (Nakul Ashok Goyal)",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "444723",
+    "phone_number": "+91 90286 61991",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shree niwas marg, Sadar Bazar, Bhoipura, Achalpur, Maharashtra 444805",
+    "area": "Sadar Bazar, Bhoipura",
+    "latitude": 21.301382399999998,
+    "longitude": 77.5189225,
+    "place_id": "ChIJCfs_RXr11jsRMCieZbIEzhA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCfs_RXr11jsRMCieZbIEzhA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:03:44"
+  },
+  {
+    "business_name": "Bhansali Abhushan",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "444723",
+    "phone_number": "+91 86683 36041",
+    "website": "http://www.facebook.com/bhansaliabhushan-116167959827577/",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shriniwas Marg, Paratwada, Tilak chowk, Achalpur, Maharashtra 444805",
+    "area": "Paratwada, Tilak chowk",
+    "latitude": 21.301309,
+    "longitude": 77.5187696,
+    "place_id": "ChIJ7WBNTAT11jsRh99MIaMZMh8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7WBNTAT11jsRh99MIaMZMh8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:03:46"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sinfolix Technologies",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Marketing agency",
+    "all_categories": "Marketing agency, Graphic designer, Advertising agency, Software company, Video editing service",
+    "pincode": "445106",
+    "phone_number": "+91 73857 61537",
+    "website": "https://sinfolix.com/",
+    "rating": 4.9,
+    "reviews_count": 181,
+    "address": "Dighori, Nagpur, Maharashtra 440034",
+    "area": "Dighori",
+    "latitude": 21.114814199999998,
+    "longitude": 79.1340536,
+    "place_id": "ChIJwykyvmm51DsRV3wemV-nQpI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwykyvmm51DsRV3wemV-nQpI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:52:51"
+  },
+  {
+    "business_name": "Ganesh Anda Rais Center",
+    "search_category": "Telemarketing Firms",
+    "primary_category": "Food court",
+    "all_categories": "Food court, Marketing consultant",
+    "pincode": "445106",
+    "phone_number": "+91 70382 93683",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Water Tank, Yavatmal Road, Shastri Nagar, Arni, Maharashtra 445103",
+    "area": "Shastri Nagar",
+    "latitude": 20.0743069,
+    "longitude": 77.9541316,
+    "place_id": "ChIJoz7lBmjX0zsRBFUbJBqyXys",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoz7lBmjX0zsRBFUbJBqyXys",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:52:51"
+  }
+]

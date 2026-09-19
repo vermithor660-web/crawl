@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Success Telecom",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Internet service provider",
+    "all_categories": "Internet service provider",
+    "pincode": "445324",
+    "phone_number": "+91 73387 00522",
+    "website": "https://www.successtelecom.co.in/",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "No.1, Muppadai Nagar, New Vellanur, Tamil Nadu 600062",
+    "area": "Muppadai Nagar",
+    "latitude": 13.160637699999999,
+    "longitude": 80.0998202,
+    "place_id": "ChIJicajbwBjUjoRri6DSeLD1do",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJicajbwBjUjoRri6DSeLD1do",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:37:03"
+  },
+  {
+    "business_name": "Sama Broadband",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Internet service provider",
+    "all_categories": "Internet service provider",
+    "pincode": "445324",
+    "phone_number": "+91 84622 40999",
+    "website": "https://www.samabroadband.com/",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "opp: Zilla Praja Parishad, Subhash Nagar, Nizamabad, Telangana 503002",
+    "area": "Subhash Nagar",
+    "latitude": 18.684306,
+    "longitude": 78.108604,
+    "place_id": "ChIJWU7lATTbzTsRotcTU6una0Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWU7lATTbzTsRotcTU6una0Q",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:37:03"
+  }
+]

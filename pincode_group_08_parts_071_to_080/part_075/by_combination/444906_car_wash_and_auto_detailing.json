@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Car Service center",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "444906",
+    "phone_number": "+91 87678 28176",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Shankar Nagar, Pandhurna, Madhya Pradesh 480334",
+    "area": "Shankar Nagar",
+    "latitude": 21.5870057,
+    "longitude": 78.5399912,
+    "place_id": "ChIJQ26G57yv1TsRkruBWNb0Gnk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ26G57yv1TsRkruBWNb0Gnk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:34:09"
+  },
+  {
+    "business_name": "viman com",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Internet cafe, Computer software store",
+    "pincode": "444906",
+    "phone_number": "+91 87188 10997",
+    "website": "https://www.youtube.com/channel/UCcuQDIC2Rv8DNasbp-ksnCA",
+    "rating": 5,
+    "reviews_count": 31,
+    "address": "Maske Building,infrunt, Raod, off patanjali Shop, near Karwade Dr.Clinic, Bhopal, Pandhurna, Madhya Pradesh 480334",
+    "area": "Meghanath Ward",
+    "latitude": 21.595513,
+    "longitude": 78.5227572,
+    "place_id": "ChIJO-FBrwCv1TsRnEUG9Tis6t0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO-FBrwCv1TsRnEUG9Tis6t0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:34:10"
+  }
+]

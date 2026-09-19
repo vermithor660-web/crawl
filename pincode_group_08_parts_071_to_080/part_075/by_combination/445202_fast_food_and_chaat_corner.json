@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Darshna Fastfood",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Fast food restaurant",
+    "all_categories": "Fast food restaurant",
+    "pincode": "445202",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Godhani Rd, near Nehru Stadium, Chapman Wadi, Yavatmal, Maharashtra 445001",
+    "area": "Chapman Wadi",
+    "latitude": 20.382802599999998,
+    "longitude": 78.13327199999999,
+    "place_id": "ChIJefPMrrjo0zsR_FETbx4Nd3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJefPMrrjo0zsR_FETbx4Nd3U",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:58:26"
+  },
+  {
+    "business_name": "Fast Food Corner",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "445202",
+    "phone_number": "+91 96533 24008",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Chahal Khurd, Punjab 143506",
+    "area": "445202",
+    "latitude": 31.7672694,
+    "longitude": 75.2366703,
+    "place_id": "ChIJ7WYODPrDGzkRNejND8OMnSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7WYODPrDGzkRNejND8OMnSg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:58:27"
+  }
+]

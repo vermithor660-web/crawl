@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SUNIL 2",
+    "search_category": "Supermarket",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store, Market",
+    "pincode": "445302",
+    "phone_number": "+91 87671 52632",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 2, Yavatmal Ghatnji Rd, Pandharkawada, Maharashtra 445302",
+    "area": "445302",
+    "latitude": 20.021593499999998,
+    "longitude": 78.5519541,
+    "place_id": "ChIJqXTsXHmt0zsRulzroXjTJis",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqXTsXHmt0zsRulzroXjTJis",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:21:09"
+  },
+  {
+    "business_name": "shri super market",
+    "search_category": "Supermarket",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket, Store",
+    "pincode": "445302",
+    "phone_number": "+91 94228 67856",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shree Super Market, Main Road, Patanbori, Bori, Maharashtra 445305",
+    "area": "Patanbori",
+    "latitude": 19.8618614,
+    "longitude": 78.56674749999999,
+    "place_id": "ChIJ8b57fABV0jsRng9fCgXswww",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8b57fABV0jsRng9fCgXswww",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:21:10"
+  }
+]

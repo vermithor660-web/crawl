@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vedant Ayurvedik juice center",
+    "search_category": "Wellness Center",
+    "primary_category": "Nutritionist",
+    "all_categories": "Nutritionist",
+    "pincode": "445103",
+    "phone_number": "+91 83084 70613",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Tahsil Road, Shastri Nagar, Arni, Maharashtra 445103",
+    "area": "Shastri Nagar",
+    "latitude": 20.0739836,
+    "longitude": 77.95390569999999,
+    "place_id": "ChIJjZw8bCHX0zsRTksA0qLSwH4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjZw8bCHX0zsRTksA0qLSwH4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:48:40"
+  },
+  {
+    "business_name": "ALFA Wellness",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "445103",
+    "phone_number": "+91 91585 45602",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "18, Renuka Nagari, Rd, Renuka Nagar, Rd Number 2, Paras Nagari, Yavatmal, Maharashtra 445001",
+    "area": "Wadgaon Road, Paras Nagari",
+    "latitude": 20.391319799999998,
+    "longitude": 78.1131169,
+    "place_id": "ChIJnRdRmKno0zsRWywK3Q_4-nQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnRdRmKno0zsRWywK3Q_4-nQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:48:41"
+  }
+]

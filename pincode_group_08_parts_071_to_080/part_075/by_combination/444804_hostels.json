@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Galaxy Boys Hostel",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "444804",
+    "phone_number": "+91 84128 33105",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 326,
+    "address": "opposite ycce college, Amar Nagar, Wanadongri ct, Wanadongri, Maharashtra 441110",
+    "area": "Amar Nagar, Wanadongri ct",
+    "latitude": 21.0990872,
+    "longitude": 78.9795307,
+    "place_id": "ChIJA0EXhCaV1DsRdrc23WbqRck",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA0EXhCaV1DsRdrc23WbqRck",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:11:41"
+  },
+  {
+    "business_name": "Shree Agrasen Chhatrawas",
+    "search_category": "Hostels",
+    "primary_category": "Student dormitory",
+    "all_categories": "Student dormitory",
+    "pincode": "444804",
+    "phone_number": "+91 712 253 3404",
+    "website": "http://agrasenchhatrawas.aforumfree.com/",
+    "rating": 4.3,
+    "reviews_count": 508,
+    "address": "Agrasen Bhavan, Amravati Rd, Ravi Nagar, Ram Nagar, Nagpur, Maharashtra 440033",
+    "area": "Ravi Nagar, Ram Nagar",
+    "latitude": 21.1473439,
+    "longitude": 79.0543205,
+    "place_id": "ChIJFTWBxTvA1DsRnnndQp9hELk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFTWBxTvA1DsRnnndQp9hELk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:11:41"
+  }
+]

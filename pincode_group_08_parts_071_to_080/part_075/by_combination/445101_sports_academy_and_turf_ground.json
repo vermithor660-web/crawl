@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The DJ Arena",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Soccer practice",
+    "all_categories": "Soccer practice, Arena, Cricket ground",
+    "pincode": "445101",
+    "phone_number": "+91 98812 83739",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "VGRX+F52, K.D, Jadhao Nagar, Kakaddati, Pusad, Maharashtra 445215",
+    "area": "Jadhao Nagar",
+    "latitude": 19.8906587,
+    "longitude": 77.5476881,
+    "place_id": "ChIJ4wIKHW0L0TsRZJ_EZqPhFK0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4wIKHW0L0TsRZJ_EZqPhFK0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:45:23"
+  },
+  {
+    "business_name": "play ground P.N college",
+    "search_category": "Sports Academy and Turf Ground",
+    "primary_category": "Playground",
+    "all_categories": "Playground",
+    "pincode": "445101",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 35,
+    "address": "WHFF+RCX, Itawa, Maharashtra 445216",
+    "area": "445101",
+    "latitude": 19.9246212,
+    "longitude": 77.5736069,
+    "place_id": "ChIJr1XzgDp10TsR9U7gC_aXKQk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr1XzgDp10TsR9U7gC_aXKQk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:45:25"
+  }
+]

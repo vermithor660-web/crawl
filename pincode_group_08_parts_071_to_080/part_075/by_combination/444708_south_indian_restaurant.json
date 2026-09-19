@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Nandagav",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant",
+    "pincode": "444708",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2.3,
+    "reviews_count": 6,
+    "address": "JVG9+FJ, Gavner talegaon, Shevani, Maharashtra 444708",
+    "area": "444708",
+    "latitude": 20.6261786,
+    "longitude": 77.869081,
+    "place_id": "ChIJj8xjXABV0TsR6ki7tSpLaNI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj8xjXABV0TsR6ki7tSpLaNI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:51:27"
+  },
+  {
+    "business_name": "Swaad Sisters",
+    "search_category": "South Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "444708",
+    "phone_number": "+91 84830 29200",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "bellow, LIC Office, Tayade Complex, Chandur Railway Rd, Amravati, Maharashtra 444708",
+    "area": "Mund Nishankrao",
+    "latitude": 20.6813894,
+    "longitude": 77.8331987,
+    "place_id": "ChIJdWLPfJmt1jsRKTlunDq7OkE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdWLPfJmt1jsRKTlunDq7OkE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:51:27"
+  }
+]

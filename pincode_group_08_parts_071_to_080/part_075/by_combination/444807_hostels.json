@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gawande's Home Stay",
+    "search_category": "Hostels",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "444807",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "Mhada Colony, Chikhaldara, Maharashtra 444807",
+    "area": "Mhada Colony",
+    "latitude": 21.4027657,
+    "longitude": 77.3293345,
+    "place_id": "ChIJsW36t-xX1jsRIxn-jh1Z0ss",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsW36t-xX1jsRIxn-jh1Z0ss",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:17:00"
+  },
+  {
+    "business_name": "Govt. TRIBAL BOYS HOSTEL CHIKHALDARA",
+    "search_category": "Hostels",
+    "primary_category": "Boys' hostel",
+    "all_categories": "Boys' hostel",
+    "pincode": "444807",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "C84J+FPX, AMBEDKAR NAGAR, Chikhaldara, Shahapur, Maharashtra 444807",
+    "area": "AMBEDKAR NAGAR",
+    "latitude": 21.4062369,
+    "longitude": 77.3318444,
+    "place_id": "ChIJMXE6pA5X1jsRVo0xLd1u7aw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMXE6pA5X1jsRVo0xLd1u7aw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:17:02"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Delicious food",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Soup kitchen",
+    "all_categories": "Soup kitchen",
+    "pincode": "444806",
+    "phone_number": "+91 97233 06033",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "near MH MSH, Deorankar Nagar, 6.Amravati, Amravati, Maharashtra 444605",
+    "area": "Deorankar Nagar, 6.Amravati",
+    "latitude": 20.9170281,
+    "longitude": 77.75303,
+    "place_id": "ChIJzWs9ZQCl1jsRhTWvDU7z8BI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzWs9ZQCl1jsRhTWvDU7z8BI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:14:22"
+  },
+  {
+    "business_name": "Sauth Kitchen Express",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "444806",
+    "phone_number": "+91 96997 69998",
+    "website": "N/A",
+    "rating": 2.5,
+    "reviews_count": null,
+    "address": "Jayant Complex, Gadge Nagar, Amravati, Maharashtra 444603",
+    "area": "Gadge Nagar",
+    "latitude": 20.9470569,
+    "longitude": 77.7646668,
+    "place_id": "ChIJxX36Baij1jsRT6rqrVKxs7M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxX36Baij1jsRT6rqrVKxs7M",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:14:22"
+  }
+]

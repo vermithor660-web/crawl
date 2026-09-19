@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SK auto Electrical work",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto electrical service",
+    "all_categories": "Auto electrical service",
+    "pincode": "445306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Pandarkawda road power house, Maharashtra 445001",
+    "area": "Tarapur",
+    "latitude": 20.3841389,
+    "longitude": 78.15419469999999,
+    "place_id": "ChIJLz09Bx_p0zsRKallq_KP4V8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLz09Bx_p0zsRKallq_KP4V8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:29:00"
+  },
+  {
+    "business_name": "Mavin auto Electrical",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "445306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "power house, Tarapur, Yavatmal, Maharashtra 445001",
+    "area": "Tarapur",
+    "latitude": 20.387138099999998,
+    "longitude": 78.1538377,
+    "place_id": "ChIJ_a-EagDp0zsRdmeS1TyyCIw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_a-EagDp0zsRdmeS1TyyCIw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:29:00"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vatan Dresses",
+    "search_category": "Boutiques",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "445201",
+    "phone_number": "+91 86007 08166",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop 2, 8VX7 QPJ, Main Road, Bori, Maharashtra 445201",
+    "area": "Bori",
+    "latitude": 20.3494749,
+    "longitude": 77.8642347,
+    "place_id": "ChIJ17lg-Tlf0TsRx3HlWkMYJNg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ17lg-Tlf0TsRx3HlWkMYJNg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:56:51"
+  },
+  {
+    "business_name": "Navdurga Mobile Shop",
+    "search_category": "Boutiques",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "445201",
+    "phone_number": "+91 75176 35143",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No .1, Darwha Rd, near Bas Stop, At Post, Ladkhed ., Yavatmal, Maharashtra 445201",
+    "area": "At Post",
+    "latitude": 20.3452181,
+    "longitude": 77.9172959,
+    "place_id": "ChIJmxrru4Rf0TsRJCNDK7dJe5c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmxrru4Rf0TsRJCNDK7dJe5c",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:56:51"
+  }
+]

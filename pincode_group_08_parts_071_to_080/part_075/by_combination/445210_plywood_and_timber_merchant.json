@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Timber Trading Company",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Lumber store",
+    "all_categories": "Lumber store",
+    "pincode": "445210",
+    "phone_number": "+91 98660 17747",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 15,
+    "address": "4, New Bhoiguda Timber Depot Ln, M.I.G.H colony, New Bhoiguda, Bhoiguda, Secunderabad, Telangana 500003",
+    "area": "M.I.G.H colony, New Bhoiguda, Bhoiguda",
+    "latitude": 17.427540999999998,
+    "longitude": 78.4996838,
+    "place_id": "ChIJFzx-lIqZyzsRm2NlPw5iv08",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFzx-lIqZyzsRm2NlPw5iv08",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:11:17"
+  },
+  {
+    "business_name": "Dev Plywood & Hardware",
+    "search_category": "Plywood and Timber Merchant",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "445210",
+    "phone_number": "+91 96733 33551",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No. 6, Build. no, 2, Jalna Rd, Apna Bazar, Nyay Nagar, Chhatrapati Sambhajinagar, Maharashtra 431005",
+    "area": "Apna Bazar, Nyay Nagar",
+    "latitude": 19.875985699999998,
+    "longitude": 75.3468606,
+    "place_id": "ChIJBU6VoB6j2zsRqPDt7eKiZeQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBU6VoB6j2zsRqPDt7eKiZeQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:11:18"
+  }
+]

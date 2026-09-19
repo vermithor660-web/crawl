@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aayu Hair Salon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "444807",
+    "phone_number": "+91 94236 67840",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 01, Main Road Basti, Doma, Maharashtra 444807",
+    "area": "444807",
+    "latitude": 21.5468613,
+    "longitude": 77.5663745,
+    "place_id": "ChIJG0kZUQRn1jsR0zRFXpVbHyc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG0kZUQRn1jsR0zRFXpVbHyc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:16:50"
+  },
+  {
+    "business_name": "Shree Saloon",
+    "search_category": "Salon",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "444807",
+    "phone_number": "+91 94223 51653",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Nagar Parishad Market, Chikhaldara, Maharashtra 444807",
+    "area": "444807",
+    "latitude": 21.400353,
+    "longitude": 77.32722439999999,
+    "place_id": "ChIJdcRdTBFX1jsR8O142URcDBs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdcRdTBFX1jsR8O142URcDBs",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:16:50"
+  }
+]

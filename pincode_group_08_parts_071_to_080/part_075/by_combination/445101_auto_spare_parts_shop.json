@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Khandoba Automobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "445101",
+    "phone_number": "+91 98228 29209",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Darwha Road, Yavatmal, SH-237, Yavatmal Babulgaon Road, Yavatmal, Yavatmal, Maharashtra 445001",
+    "area": "Wadgaon Road, Shre Krishna Nagar",
+    "latitude": 20.387372499999998,
+    "longitude": 78.11124749999999,
+    "place_id": "ChIJjcZUG6jo0zsRiA8B2rq9wqc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjcZUG6jo0zsRiA8B2rq9wqc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:44:49"
+  },
+  {
+    "business_name": "Vijay Automobiles",
+    "search_category": "Auto Spare Parts Shop",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "445101",
+    "phone_number": "+91 72322 45203",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 14,
+    "address": "49C-131, Juni Main Line, Choti Gujri, Pangari, Yavatmal, Maharashtra 445001",
+    "area": "Choti Gujri, Pangari",
+    "latitude": 20.3915948,
+    "longitude": 78.13377559999999,
+    "place_id": "ChIJJ89n1sno0zsR4UipUf2Wfm0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ89n1sno0zsR4UipUf2Wfm0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:44:49"
+  }
+]

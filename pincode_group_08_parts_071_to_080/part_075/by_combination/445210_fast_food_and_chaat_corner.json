@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The City Food Court",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Food court",
+    "all_categories": "Food court, Restaurant",
+    "pincode": "445210",
+    "phone_number": "+91 751 401 9463",
+    "website": "http://www.facebook.com/TheCityFoodCourt",
+    "rating": 3.7,
+    "reviews_count": 379,
+    "address": "3rd Floor, Din Dayal City Mall,M.L.B Road,, Gwalior, Madhya Pradesh 474002",
+    "area": "Phool Bagh, Shinde Ki Chhawani",
+    "latitude": 26.209842,
+    "longitude": 78.166609,
+    "place_id": "ChIJYxr9QSjEdjkReVJ9H0j3BTo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYxr9QSjEdjkReVJ9H0j3BTo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:10:41"
+  },
+  {
+    "business_name": "The Vintage Kitchen",
+    "search_category": "Fast Food and Chaat Corner",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "445210",
+    "phone_number": "+91 95183 16017",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 91,
+    "address": "5XPV+VCV, near Reliance petrol pump, behind Sainath medical, Revenue Colony, Hanuman, Gadchiroli, Maharashtra 442605",
+    "area": "Revenue Colony, Hanuman",
+    "latitude": 20.1870621,
+    "longitude": 79.99500499999999,
+    "place_id": "ChIJhVfKMGf7LDoRH0XGPllFNAE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhVfKMGf7LDoRH0XGPllFNAE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:10:41"
+  }
+]

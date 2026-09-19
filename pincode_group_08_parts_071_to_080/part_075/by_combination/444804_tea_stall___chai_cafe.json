@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Raut Tea Canteen",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "444804",
+    "phone_number": "+91 96043 83070",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SHOP NO 01 ATHOLI BAZAAR, Mangrulpir, Maharashtra 444403",
+    "area": "444804",
+    "latitude": 20.309716299999998,
+    "longitude": 77.3446538,
+    "place_id": "ChIJ-0SNKS4j0TsR0By67YoLW4s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-0SNKS4j0TsR0By67YoLW4s",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:10:48"
+  },
+  {
+    "business_name": "Tea shop",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "444804",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Q9X8+GF, Renkapur, Maharashtra 442302",
+    "area": "444804",
+    "latitude": 20.7985758,
+    "longitude": 78.3665953,
+    "place_id": "ChIJl2gPGutz1DsRvDNfllf2W74",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl2gPGutz1DsRvDNfllf2W74",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:10:48"
+  }
+]

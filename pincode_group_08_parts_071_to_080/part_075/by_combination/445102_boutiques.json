@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "KHAN welding work shop",
+    "search_category": "Boutiques",
+    "primary_category": "Wedding store",
+    "all_categories": "Wedding store",
+    "pincode": "445102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "FVJG+J3R, Yavatmal Road, Ashok Nagar, Ner, Maharashtra 445102",
+    "area": "Ashok Nagar",
+    "latitude": 20.481613,
+    "longitude": 77.8751496,
+    "place_id": "ChIJP8k4EABX0TsRHewPxDXBL-Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP8k4EABX0TsRHewPxDXBL-Q",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:46:19"
+  },
+  {
+    "business_name": "Yelne Wine Shop",
+    "search_category": "Boutiques",
+    "primary_category": "Wine store",
+    "all_categories": "Wine store",
+    "pincode": "445102",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 138,
+    "address": "Pathan Pura, Maade pura, Ner, Maharashtra 445102",
+    "area": "Pathan Pura, Maade pura",
+    "latitude": 20.4902865,
+    "longitude": 77.8680754,
+    "place_id": "ChIJe2Gz-G5X0TsRgOVqccLux4U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe2Gz-G5X0TsRgOVqccLux4U",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:46:21"
+  }
+]

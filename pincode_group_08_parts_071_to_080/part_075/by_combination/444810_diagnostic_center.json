@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LOTUS DIAGNOSTIC CENTRE BELAPUR",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical diagnostic imaging center",
+    "all_categories": "Medical diagnostic imaging center",
+    "pincode": "444810",
+    "phone_number": "+91 91564 13416",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "बेलापूर, Belapur Rd, Shrirampur, Maharashtra 413715",
+    "area": "444810",
+    "latitude": 19.5703502,
+    "longitude": 74.64861979999999,
+    "place_id": "ChIJmZ448sCN3DsR2rZ0naY3Dbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmZ448sCN3DsR2rZ0naY3Dbg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:21:40"
+  },
+  {
+    "business_name": "Dr. Gaikwad Speciality Diagnostics",
+    "search_category": "Diagnostic Center",
+    "primary_category": "Medical diagnostic imaging center",
+    "all_categories": "Medical diagnostic imaging center, MRI center, Radiologist",
+    "pincode": "444810",
+    "phone_number": "+91 73918 09191",
+    "website": "http://gaikwaddiagnostics.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Indapur Rd, Dinprabha Apartment, Baramati, Maharashtra 413102",
+    "area": "Dinprabha Apartment",
+    "latitude": 18.1463221,
+    "longitude": 74.5844637,
+    "place_id": "ChIJi8I1HQChwzsREHtRCmjoAFM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi8I1HQChwzsREHtRCmjoAFM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:21:42"
+  }
+]

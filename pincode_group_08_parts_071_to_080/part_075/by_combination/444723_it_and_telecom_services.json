@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BSNL Store",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Telecommunications service provider",
+    "all_categories": "Telecommunications service provider",
+    "pincode": "444723",
+    "phone_number": "+91 82750 91190",
+    "website": "https://bsnl.co.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "WARD NO 3, NAWAB PURA, BHATTI CHOWK, Karajgaon, Maharashtra 444809",
+    "area": "444723",
+    "latitude": 21.323847,
+    "longitude": 77.60903499999999,
+    "place_id": "ChIJiQVcSEOL1jsRPqwu4sFqg5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiQVcSEOL1jsRPqwu4sFqg5g",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:04:46"
+  },
+  {
+    "business_name": "BC Technologies Services",
+    "search_category": "IT and Telecom Services",
+    "primary_category": "Internet service provider",
+    "all_categories": "Internet service provider",
+    "pincode": "444723",
+    "phone_number": "+91 94041 10007",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 9,
+    "address": "mahatma fule square, Approach Rd, Warud, Maharashtra 444906",
+    "area": "444723",
+    "latitude": 21.4720729,
+    "longitude": 78.2694027,
+    "place_id": "ChIJYTK6pOzK1TsRDEQuF0wtMNI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYTK6pOzK1TsRDEQuF0wtMNI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:04:47"
+  }
+]

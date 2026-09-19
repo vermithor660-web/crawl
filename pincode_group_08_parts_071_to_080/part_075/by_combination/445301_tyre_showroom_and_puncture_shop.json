@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "THAKARE TYRE WORK",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "445301",
+    "phone_number": "+91 93224 13665",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "kelapur bypass, Chalbardi Rd, Pandharkawada, Tatapur, Maharashtra 445302",
+    "area": "445301",
+    "latitude": 20.0013509,
+    "longitude": 78.5497304,
+    "place_id": "ChIJX-LSuamt0zsRNxQVEyMp87A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX-LSuamt0zsRNxQVEyMp87A",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:19:57"
+  },
+  {
+    "business_name": "KUSHAGRA TYRES",
+    "search_category": "Tyre Showroom and Puncture Shop",
+    "primary_category": "Tire shop",
+    "all_categories": "Tire shop",
+    "pincode": "445301",
+    "phone_number": "+91 98908 13901",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Pandharkawada, Maharashtra 445302",
+    "area": "445301",
+    "latitude": 20.0276033,
+    "longitude": 78.547596,
+    "place_id": "ChIJ6V9QP2us0zsRBgXaUWUCpLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6V9QP2us0zsRBgXaUWUCpLw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:19:59"
+  }
+]

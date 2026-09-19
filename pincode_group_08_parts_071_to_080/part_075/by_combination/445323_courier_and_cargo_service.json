@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Post office loni",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Post office",
+    "all_categories": "Post office",
+    "pincode": "445323",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "7G8V+C82, At post loni ,TQ, dist, Ralegaon, Maharashtra 445323",
+    "area": "445323",
+    "latitude": 20.2660135,
+    "longitude": 78.5432507,
+    "place_id": "ChIJV0O3Jvij0zsRDBXhZ57SBbo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV0O3Jvij0zsRDBXhZ57SBbo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:35:15"
+  },
+  {
+    "business_name": "DTDC COURIER OFFICE 14TH MILE GONDKHIRY",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service",
+    "pincode": "445323",
+    "phone_number": "+91 80075 02787",
+    "website": "http://www.dtdc.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Dinesh Kirana Store, C/O, 14th mile, Gondakhairi, Chinchbhuwan, Maharashtra 440023",
+    "area": "445323",
+    "latitude": 21.139335199999998,
+    "longitude": 78.88154949999999,
+    "place_id": "ChIJEV2FJQ7t1DsRN5YgBvbtOVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEV2FJQ7t1DsRN5YgBvbtOVE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:35:15"
+  }
+]

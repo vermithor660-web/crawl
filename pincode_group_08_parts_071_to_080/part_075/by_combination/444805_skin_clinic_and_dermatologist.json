@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Tawakkal Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "444805",
+    "phone_number": "+91 89832 51265",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Suryalaxmi, Paratwada, Pensionpura, Achalpur, Maharashtra 444805",
+    "area": "Paratwada, Pensionpura",
+    "latitude": 21.2981137,
+    "longitude": 77.5204935,
+    "place_id": "ChIJj9Ix_YD01jsRNyB4Hof6hTI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj9Ix_YD01jsRNyB4Hof6hTI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:12:51"
+  },
+  {
+    "business_name": "Dafale Hospital",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "444805",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1.6,
+    "reviews_count": 13,
+    "address": "7GP8+CMQ, Paratwada, Harde Nagar, Achalpur, Maharashtra 444805",
+    "area": "Paratwada, Harde Nagar",
+    "latitude": 21.2860955,
+    "longitude": 77.5167276,
+    "place_id": "ChIJi7k3mHjz1jsR0zg1Im_cPcI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi7k3mHjz1jsR0zg1Im_cPcI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:12:53"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Rubab Restaurants",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "445204",
+    "phone_number": "+91 96238 62001",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Marsul Phata, Umarkhed, Maharashtra 445206",
+    "area": "445204",
+    "latitude": 19.6358297,
+    "longitude": 77.656168,
+    "place_id": "ChIJm_v8ETWR0TsRJwG4k-nj570",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm_v8ETWR0TsRJwG4k-nj570",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:02:46"
+  },
+  {
+    "business_name": "Shivraj Hotel",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Marketing consultant",
+    "all_categories": "Marketing consultant",
+    "pincode": "445204",
+    "phone_number": "+91 93228 26069",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gsg College, Dhanki Road, Umarkhed, Nagapur, Maharashtra 445206",
+    "area": "445204",
+    "latitude": 19.599319599999998,
+    "longitude": 77.70926229999999,
+    "place_id": "ChIJk_CVRqiT0TsRmU3Ft8oALV8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk_CVRqiT0TsRmU3Ft8oALV8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:02:46"
+  }
+]

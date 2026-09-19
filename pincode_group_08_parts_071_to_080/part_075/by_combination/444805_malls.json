@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Golden plaza",
+    "search_category": "Malls",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "444805",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1, near OAS Furniture, Paratwada, Kandali, Maharashtra 444805",
+    "area": "Paratwada, Kandali",
+    "latitude": 21.3047784,
+    "longitude": 77.5215147,
+    "place_id": "ChIJD9C0IwD11jsRFPGn0d6_mLQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJD9C0IwD11jsRFPGn0d6_mLQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:14:04"
+  },
+  {
+    "business_name": "SAI LABELS AND PRINTERS",
+    "search_category": "Malls",
+    "primary_category": "Computer Hardware Company",
+    "all_categories": "Computer Hardware Company, Computer store, Manufacturer, Paper store",
+    "pincode": "444805",
+    "phone_number": "+91 99708 62542",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 10,
+    "address": "Shop No 4, And 5, Kavitha Stop Gokul Sankul, Paratwada, Maharashtra 444805",
+    "area": "Paratwada, Kandali",
+    "latitude": 21.2998093,
+    "longitude": 77.5226646,
+    "place_id": "ChIJz2SCMU711jsRI7IT9fnJExo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz2SCMU711jsRI7IT9fnJExo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:14:04"
+  }
+]

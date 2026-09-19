@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Harne Rice Mill",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Rice mill",
+    "all_categories": "Rice mill",
+    "pincode": "445306",
+    "phone_number": "+91 88052 32423",
+    "website": "http://www.harneinternational.com/",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "near Gramin Vikas Vidyalaya, Petgaon, Maharashtra 441224",
+    "area": "445306",
+    "latitude": 20.1943911,
+    "longitude": 79.6512254,
+    "place_id": "ChIJR8cIYqDcLDoRdsNMC12bh6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJR8cIYqDcLDoRdsNMC12bh6c",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:28:22"
+  },
+  {
+    "business_name": "Parva, Maharashtra 445306",
+    "search_category": "Rice and Grain Merchant",
+    "primary_category": "Postal code",
+    "all_categories": "Postal code",
+    "pincode": "445306",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Parva, Maharashtra",
+    "area": "445306",
+    "latitude": 19.9635519,
+    "longitude": 78.2703951,
+    "place_id": "ChIJDSbAZMbK0zsRLeiTEI6Mxf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDSbAZMbK0zsRLeiTEI6Mxf0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:28:24"
+  }
+]

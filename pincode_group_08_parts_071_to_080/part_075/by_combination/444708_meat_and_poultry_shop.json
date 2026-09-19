@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ramsingh kachave goat farm",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "444708",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Mogra, Jawala, Maharashtra 444904",
+    "area": "444708",
+    "latitude": 20.6655269,
+    "longitude": 77.9776473,
+    "place_id": "ChIJIwLnue__0zsRgctLbCRsSX4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIwLnue__0zsRgctLbCRsSX4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:51:21"
+  },
+  {
+    "business_name": "SK AGRO AND POULTRY FARM (shrikant khadase)",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "444708",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 8,
+    "address": "Main Road Satephal Ta, Chandur Railway, Maharashtra 444904",
+    "area": "444708",
+    "latitude": 20.7298805,
+    "longitude": 78.01372719999999,
+    "place_id": "ChIJYVuVDG0B1DsRlHxrjCYvaSs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYVuVDG0B1DsRlHxrjCYvaSs",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:51:21"
+  }
+]

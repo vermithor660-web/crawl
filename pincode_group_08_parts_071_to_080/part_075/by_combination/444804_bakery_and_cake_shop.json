@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai Colddrink",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "444804",
+    "phone_number": "+91 95615 30976",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1, At Purnanagar Stop, Road, Maharashtra 444804",
+    "area": "444804",
+    "latitude": 21.1060604,
+    "longitude": 77.5931774,
+    "place_id": "ChIJF25P9JKV1jsRtLTMx-JvAac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF25P9JKV1jsRtLTMx-JvAac",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:10:45"
+  },
+  {
+    "business_name": "Fresh bake",
+    "search_category": "Bakery and Cake Shop",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "444804",
+    "phone_number": "+91 83909 99906",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Sunderlal chowk, Fejarpura, Maltekdi, Amravati, Maharashtra 444602",
+    "area": "Fejarpura, Maltekdi",
+    "latitude": 20.931806599999998,
+    "longitude": 77.7773742,
+    "place_id": "ChIJ8YDTAq-l1jsRcTmRvnkcJtY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8YDTAq-l1jsRcTmRvnkcJtY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:10:46"
+  }
+]

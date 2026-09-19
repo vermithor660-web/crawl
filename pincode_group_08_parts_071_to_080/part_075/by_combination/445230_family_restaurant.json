@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "LE - RELAX A/C BAR & FAMILY RESTAURANT TIPESHWAR",
+    "search_category": "Family Restaurant",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Restaurant",
+    "pincode": "445230",
+    "phone_number": "+91 70209 13186",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Plot no 9, chintamani layout ,DP road, in front of NH7, Pandharkawada, Maharashtra 445302",
+    "area": "445230",
+    "latitude": 20.0302763,
+    "longitude": 78.5488829,
+    "place_id": "ChIJowMHkYGt0zsR69YvqzzwOpE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJowMHkYGt0zsR69YvqzzwOpE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:17:49"
+  },
+  {
+    "business_name": "Jagdamb Family Restaurant",
+    "search_category": "Family Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "445230",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QQM5+JQQ, Mahagaon, Maharashtra 445205",
+    "area": "445230",
+    "latitude": 19.7840922,
+    "longitude": 77.75949349999999,
+    "place_id": "ChIJB2SdUQCF0TsRn7FTgOmyZZw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJB2SdUQCF0TsRn7FTgOmyZZw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:17:51"
+  }
+]

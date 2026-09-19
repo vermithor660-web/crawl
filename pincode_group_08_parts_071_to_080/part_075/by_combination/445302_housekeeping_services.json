@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "S MART",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Home goods store",
+    "all_categories": "Home goods store",
+    "pincode": "445302",
+    "phone_number": "+91 95271 76117",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": null,
+    "address": "A57 At. Pandharkawada, Tq, Kelapur, Maharashtra 445302",
+    "area": "Shiwaji Ward No 3",
+    "latitude": 20.0266075,
+    "longitude": 78.5564584,
+    "place_id": "ChIJpbwl3u6t0zsR50iyeFEos1Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpbwl3u6t0zsR50iyeFEos1Y",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:22:34"
+  },
+  {
+    "business_name": "Tanmay janral's & cool drink",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Janitorial service",
+    "all_categories": "Janitorial service",
+    "pincode": "445302",
+    "phone_number": "+91 88884 64737",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Ad Sawargao, Ghatnaji, Mangi, Maharashtra 445306",
+    "area": "Ad Sawargao",
+    "latitude": 19.9128275,
+    "longitude": 78.3739195,
+    "place_id": "ChIJuUbUyjhL0jsR4Z3fQfp9jow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuUbUyjhL0jsR4Z3fQfp9jow",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:22:36"
+  }
+]

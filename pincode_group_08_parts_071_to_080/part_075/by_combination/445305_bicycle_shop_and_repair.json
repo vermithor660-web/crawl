@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kundan Automobiles",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "445305",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "VHCF+HVG, Bori Main Rd, Bori, Maharashtra 445305",
+    "area": "445305",
+    "latitude": 19.871431299999998,
+    "longitude": 78.5747184,
+    "place_id": "ChIJkfeWf01V0jsR1OCfOb2fjJE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkfeWf01V0jsR1OCfOb2fjJE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:27:12"
+  },
+  {
+    "business_name": "NEW N.K. CYCLES SALES & SERVICE",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "445305",
+    "phone_number": "+91 98497 17456",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "01, Vinayak Chowk Rd, Shanti Nagar, Adilabad, Telangana 504001",
+    "area": "Shanti Nagar",
+    "latitude": 19.669858299999998,
+    "longitude": 78.5355507,
+    "place_id": "ChIJafHeieFd0jsRWDjXqpH8g1A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJafHeieFd0jsRWDjXqpH8g1A",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:27:13"
+  }
+]

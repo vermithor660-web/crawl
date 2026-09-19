@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Khadi Sale",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Sportswear store",
+    "all_categories": "Sportswear store",
+    "pincode": "444707",
+    "phone_number": "+91 83799 49967",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Science Core Maidan, Bus Depot, opposite by Rukmini Nagar, Maltekdi, Amravati, Maharashtra 444606",
+    "area": "Maltekdi",
+    "latitude": 20.9289028,
+    "longitude": 77.76592269999999,
+    "place_id": "ChIJVfPYcDel1jsRVmIoDMyWTWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVfPYcDel1jsRVmIoDMyWTWc",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:49:51"
+  },
+  {
+    "business_name": "Kanchita Sarees",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Children's clothing store",
+    "pincode": "444707",
+    "phone_number": "+91 94048 57800",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Lane L-1 26/28, Busyland Complex, Nandgaon Peth, Maharashtra 444901",
+    "area": "444707",
+    "latitude": 21.0216048,
+    "longitude": 77.8239026,
+    "place_id": "ChIJkzYc3kai1jsRTaPFAXKdENU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkzYc3kai1jsRTaPFAXKdENU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:49:52"
+  }
+]

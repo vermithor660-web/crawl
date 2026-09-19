@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saarathi Computers & mobile Store",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "445215",
+    "phone_number": "+91 99234 77117",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 565, Karla Road, near Bus Stop, Pusad, Maharashtra 445204",
+    "area": "445215",
+    "latitude": 19.9085937,
+    "longitude": 77.5672476,
+    "place_id": "ChIJuZn7-3sL0TsR6GxkuFCRaLw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuZn7-3sL0TsR6GxkuFCRaLw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:15:18"
+  },
+  {
+    "business_name": "Prachi Online Seva Kendra",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "445215",
+    "phone_number": "+91 84858 68925",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Prachi Online Seva Kendra Itawa, Hanuman Ward, Itawa, Maharashtra 445216",
+    "area": "445215",
+    "latitude": 19.9192566,
+    "longitude": 77.5753537,
+    "place_id": "ChIJm_dDZ_910TsR1gjTa_rsQZ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm_dDZ_910TsR1gjTa_rsQZ0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:15:19"
+  }
+]

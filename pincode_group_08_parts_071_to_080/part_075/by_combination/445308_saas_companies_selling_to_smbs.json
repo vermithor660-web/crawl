@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Stackmint Private Limited",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company, Design agency",
+    "pincode": "445308",
+    "phone_number": "+91 70201 51937",
+    "website": "https://www.stackmint.com/",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "2nd floor, Commercial Building, Pleasant Park Ln, above Dr. Electricwala Hospital, Jambhulkar Mala, Wanowrie, Pune, Maharashtra 411013",
+    "area": "Jambhulkar Mala, Wanowrie",
+    "latitude": 18.5080311,
+    "longitude": 73.9027273,
+    "place_id": "ChIJTQI7w7-_wjsRJb8vgCrnbCA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJTQI7w7-_wjsRJb8vgCrnbCA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:33:42"
+  },
+  {
+    "business_name": "Computer",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Computer support and services",
+    "all_categories": "Computer support and services",
+    "pincode": "445308",
+    "phone_number": "+91 93091 43052",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Suresh Kondekar, Deodhari, Maharashtra 445308",
+    "area": "445308",
+    "latitude": 20.2110074,
+    "longitude": 78.6877744,
+    "place_id": "ChIJBdIVUVkJ0zsRr8aDVIad1-E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBdIVUVkJ0zsRr8aDVIad1-E",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:33:44"
+  }
+]

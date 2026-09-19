@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AADHAR HOSPITAL FULSAWANGI",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "445230",
+    "phone_number": "+91 94051 52544",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Bus stand, near Mahagaon, auto point, Mahagao, Fulsawangi, Maharashtra 445230",
+    "area": "auto point",
+    "latitude": 19.723665999999998,
+    "longitude": 77.8771857,
+    "place_id": "ChIJz-S0a0KJ0TsRST9PujaR0z4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz-S0a0KJ0TsRST9PujaR0z4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:18:01"
+  },
+  {
+    "business_name": "धनवंतरी समर्थ हॉस्पिटल महागाव रोड फुलसावंगी फुलसावंगी",
+    "search_category": "Doctors",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "445230",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "PVFG+PHM, Fulsawangi, Maharashtra 445230",
+    "area": "445230",
+    "latitude": 19.724334199999998,
+    "longitude": 77.8764273,
+    "place_id": "ChIJ48k2SACJ0TsR8ssc90WpDOU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ48k2SACJ0TsR8ssc90WpDOU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:18:02"
+  }
+]

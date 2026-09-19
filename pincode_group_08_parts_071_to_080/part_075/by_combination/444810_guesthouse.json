@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "GARIB NAWAZ GUEST HOUSE",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house",
+    "pincode": "444810",
+    "phone_number": "+91 99703 26548",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "near aurangazeb tomb, Hamal Wadi, Mohalla farsh alang galli, Khuldabad, Chhatrapati Sambhajinagar, Maharashtra 431101",
+    "area": "Hamal Wadi, Mohalla farsh alang galli",
+    "latitude": 20.0053675,
+    "longitude": 75.1909869,
+    "place_id": "ChIJieqeOzeS2zsROpo-By6FK5U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJieqeOzeS2zsROpo-By6FK5U",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:22:13"
+  },
+  {
+    "business_name": "Krushiraj Lodge",
+    "search_category": "Guesthouse",
+    "primary_category": "Guest house",
+    "all_categories": "Guest house, Bed & breakfast, Lodge, Hotel, Motel, Religious lodging",
+    "pincode": "444810",
+    "phone_number": "+91 90755 55500",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Sr no 728 and 729, krushiraj Building, Cinema Road, opposite Mota garments, Baramati Rural, Baramati, Maharashtra 413102",
+    "area": "Baramati Rural",
+    "latitude": 18.1481835,
+    "longitude": 74.5747581,
+    "place_id": "ChIJk_QgMd6hwzsR4FG2_I18IXo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk_QgMd6hwzsR4FG2_I18IXo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:22:13"
+  }
+]

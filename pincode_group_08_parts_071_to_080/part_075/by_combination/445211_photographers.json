@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalinka Photo Studio",
+    "search_category": "Photographers",
+    "primary_category": "Photography studio",
+    "all_categories": "Photography studio",
+    "pincode": "445211",
+    "phone_number": "+91 77198 14245",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1, Nivgha Road, Koli, Maharashtra 431743",
+    "area": "445211",
+    "latitude": 19.586059,
+    "longitude": 77.50867749999999,
+    "place_id": "ChIJhR9pgOe_0TsR2h-Eqt0OoAY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJhR9pgOe_0TsR2h-Eqt0OoAY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:13:17"
+  },
+  {
+    "business_name": "Photo frame working",
+    "search_category": "Photographers",
+    "primary_category": "Photographer",
+    "all_categories": "Photographer, Photography studio",
+    "pincode": "445211",
+    "phone_number": "+91 96234 97642",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Saishradha studio, Nanded Road, Umarkhed, Maharashtra 445206",
+    "area": "Umarkhed",
+    "latitude": 19.6009721,
+    "longitude": 77.688901,
+    "place_id": "ChIJzdr-JgCT0TsRdAOXtbDBfWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJzdr-JgCT0TsRdAOXtbDBfWA",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:13:20"
+  }
+]

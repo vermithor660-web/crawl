@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kaivalya Pool's",
+    "search_category": "Spa",
+    "primary_category": "Swimming pool",
+    "all_categories": "Swimming pool",
+    "pincode": "445201",
+    "phone_number": "+91 99606 06852",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "MH 210, Arni road, near Shantiniketan English Medium School, Bagwadi, Maharashtra 445202",
+    "area": "445201",
+    "latitude": 20.3045564,
+    "longitude": 77.7868101,
+    "place_id": "ChIJg_6nx3Rd0TsRfLimXbRvQTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg_6nx3Rd0TsRfLimXbRvQTk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:57:25"
+  },
+  {
+    "business_name": "Samarth Gents Parlour",
+    "search_category": "Spa",
+    "primary_category": "Hair salon",
+    "all_categories": "Hair salon",
+    "pincode": "445201",
+    "phone_number": "+91 80073 41929",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No, 4, Alandi Rd, Wadgaon Road, Agashivnagar, Karad, Yavatmal, Maharashtra 445002",
+    "area": "Wadgaon Road, Agashivnagar",
+    "latitude": 20.3716954,
+    "longitude": 78.1079532,
+    "place_id": "ChIJgTMwhc_n0zsR9Yxw0fbtAjk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgTMwhc_n0zsR9Yxw0fbtAjk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:57:26"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mahakali Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency, Bus tour agency",
+    "pincode": "445101",
+    "phone_number": "+91 7172 253 211",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Opp Water Tank, near Head Post Office, Civil Lines, Chandrapur, Maharashtra 442401",
+    "area": "Civil Lines",
+    "latitude": 19.9625071,
+    "longitude": 79.2957072,
+    "place_id": "ChIJBXikk2fV0jsRPGkIr15iV44",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBXikk2fV0jsRPGkIr15iV44",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:44:51"
+  },
+  {
+    "business_name": "Yavatmalkar Travels",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "445101",
+    "phone_number": "+91 80 4633 3629",
+    "website": "http://www.yavatmalkarbus.com/",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop no, 84, Best bus Stop, Teen Hath Naka Flyover, near Eternity mall, Kashish Park, W, Thane, Maharashtra 400604",
+    "area": "Kashish Park, W",
+    "latitude": 19.187781299999997,
+    "longitude": 72.9630595,
+    "place_id": "ChIJ6RhWa8m55zsRhAnqhodPLlE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ6RhWa8m55zsRhAnqhodPLlE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:44:51"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pratik’s Kitchen",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "445203",
+    "phone_number": "+91 83799 61432",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 30,
+    "address": "Umarkhed - Pusad Rd, Pusad, Maharashtra 445204",
+    "area": "445203",
+    "latitude": 19.904716,
+    "longitude": 77.5749488,
+    "place_id": "ChIJ5RNvSwB10TsRDQ8H9sNSH2A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5RNvSwB10TsRDQ8H9sNSH2A",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:00:08"
+  },
+  {
+    "business_name": "Chairman Lassi And Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "445203",
+    "phone_number": "+91 84089 56672",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "1, Digras, Maharashtra 445203",
+    "area": "Gurudev Nagar",
+    "latitude": 20.1060582,
+    "longitude": 77.7225845,
+    "place_id": "ChIJv7X4dSZv0TsRMLVtLwfIKok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv7X4dSZv0TsRMLVtLwfIKok",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:00:09"
+  }
+]

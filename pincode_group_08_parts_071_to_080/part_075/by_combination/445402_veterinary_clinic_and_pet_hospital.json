@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Government Veterinary Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "445402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 5,
+    "address": "Central Railway, Saoner, Maharashtra 441107",
+    "area": "445402",
+    "latitude": 21.3873332,
+    "longitude": 78.9224818,
+    "place_id": "ChIJOTOZqAbk1DsRCztQ2JPuGgM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOTOZqAbk1DsRCztQ2JPuGgM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:39:42"
+  },
+  {
+    "business_name": "Veternary Hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "445402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "7PJ8+QMP, Wadki, Maharashtra 445308",
+    "area": "445402",
+    "latitude": 20.2819503,
+    "longitude": 78.716709,
+    "place_id": "ChIJt2ZTtLsL0zsRmkiZT-4Jbzw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt2ZTtLsL0zsRmkiZT-4Jbzw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:39:46"
+  }
+]

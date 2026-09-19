@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Cream n crunch",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "445002",
+    "phone_number": "+91 81499 14378",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 258,
+    "address": "94VC+JQ3, Yavatmal, Maharashtra 445001",
+    "area": "445002",
+    "latitude": 20.3940011,
+    "longitude": 78.12192979999999,
+    "place_id": "ChIJvd5hIrLo0zsRXmEqWFHSJMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvd5hIrLo0zsRXmEqWFHSJMo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:42:34"
+  },
+  {
+    "business_name": "Prashant ice cream and cycle repear",
+    "search_category": "Ice Cream Parlour",
+    "primary_category": "Ice cream shop",
+    "all_categories": "Ice cream shop",
+    "pincode": "445002",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 23,
+    "address": "CGC9+59M, Ralegaon, Maharashtra 445402",
+    "area": "445002",
+    "latitude": 20.420468,
+    "longitude": 78.5184345,
+    "place_id": "ChIJvbvRxHCZ0zsRs8eaJ5r5R9M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvbvRxHCZ0zsRs8eaJ5r5R9M",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:42:36"
+  }
+]

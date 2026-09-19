@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mewati dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "445402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "CPPV+XR3, Srinagar - Kanyakumari Hwy, kasai, Wadner, Maharashtra 442307",
+    "area": "kasai",
+    "latitude": 20.437382,
+    "longitude": 78.7445599,
+    "place_id": "ChIJGZDiyel10zsR_kqfRAbhb9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZDiyel10zsR_kqfRAbhb9Y",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:39:22"
+  },
+  {
+    "business_name": "Nagpuri saoji dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "445402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Srinagar - Kanyakumari Hwy, Wadki, Maharashtra 445308",
+    "area": "445402",
+    "latitude": 20.2782192,
+    "longitude": 78.7177548,
+    "place_id": "ChIJOx9OHVYL0zsRDq3iGyveaLM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOx9OHVYL0zsRDq3iGyveaLM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:39:22"
+  }
+]

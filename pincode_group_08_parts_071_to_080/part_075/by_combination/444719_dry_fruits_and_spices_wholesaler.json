@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rashmi Traders",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "444719",
+    "phone_number": "+91 76660 09902",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Vasant Niwas Building, 1/2, MG Road, Mulund, Mulund West, Mumbai, Maharashtra 400080",
+    "area": "Mulund, Mulund West",
+    "latitude": 19.177746499999998,
+    "longitude": 72.950493,
+    "place_id": "ChIJL_ytsDq55zsRCWCBAVSoQCQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL_ytsDq55zsRCWCBAVSoQCQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:00:03"
+  },
+  {
+    "business_name": "The Daga & Co.",
+    "search_category": "Dry Fruits and Spices Wholesaler",
+    "primary_category": "Dry Fruit Store",
+    "all_categories": "Dry Fruit Store",
+    "pincode": "444719",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 17,
+    "address": "Rahul Market, Inside Jawahar Gate, Sakkarsath, Amravati, Maharashtra 444601",
+    "area": "Sakkarsath",
+    "latitude": 20.932447699999997,
+    "longitude": 77.7482639,
+    "place_id": "ChIJ120aORil1jsReCPVjhQJTvY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ120aORil1jsReCPVjhQJTvY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:00:04"
+  }
+]

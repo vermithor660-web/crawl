@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "AQUABATH",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Bathroom supply store",
+    "all_categories": "Bathroom supply store, Pipes Wholesaler, Tile store",
+    "pincode": "445204",
+    "phone_number": "+91 73990 75171",
+    "website": "https://aquabath.co.in/",
+    "rating": 4,
+    "reviews_count": 45,
+    "address": "NH 27, nr. stone india Boragoan, Tetelia, Guwahati, Assam 781011",
+    "area": "Tetelia",
+    "latitude": 26.1344963,
+    "longitude": 91.67305499999999,
+    "place_id": "ChIJyVvEPxBbWjcRBOQuqBlZams",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyVvEPxBbWjcRBOQuqBlZams",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:02:24"
+  },
+  {
+    "business_name": "Shrutisandhya home appliances and electronics",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "445204",
+    "phone_number": "+91 90218 70919",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "government hospital, Old, opposite vishal dresses, near bharati maind bank, Pusad, Maharashtra 445204",
+    "area": "445204",
+    "latitude": 19.910251799999998,
+    "longitude": 77.57777829999999,
+    "place_id": "ChIJv0QTHQB10TsRdHVJS9akTFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv0QTHQB10TsRdHVJS9akTFw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:02:24"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SIT Yavatmal",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Tour operator",
+    "all_categories": "Tour operator",
+    "pincode": "445109",
+    "phone_number": "N/A",
+    "website": "https://www.sitlatur.com/",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "VIJAY TOURS AND TRAVELS, Arni Rd, opp. mseb office, Bharti Nagar, Yavatmal, Maharashtra 445001",
+    "area": "Bharti Nagar",
+    "latitude": 20.389278299999997,
+    "longitude": 78.12664989999999,
+    "place_id": "ChIJ98zNGyfp0zsRnl4RgS3XJqI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ98zNGyfp0zsRnl4RgS3XJqI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:53:37"
+  },
+  {
+    "business_name": "Hmmm Holidays India",
+    "search_category": "Bus Booking Agency",
+    "primary_category": "Travel agency",
+    "all_categories": "Travel agency",
+    "pincode": "445109",
+    "phone_number": "+91 87910 90818",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "2nd Floor, Sai Darshan Plaza, Sai Mandir Rd, Bajoriya Nagar, Yavatmal, Maharashtra 445001",
+    "area": "Bajoriya Nagar",
+    "latitude": 20.383903399999998,
+    "longitude": 78.1353444,
+    "place_id": "ChIJh_uEkrvp0zsR-_2ARs_9OvE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJh_uEkrvp0zsR-_2ARs_9OvE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:53:38"
+  }
+]

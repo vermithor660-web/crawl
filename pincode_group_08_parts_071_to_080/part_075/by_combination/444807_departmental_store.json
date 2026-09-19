@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PRAVIN OMKAR MUNDE",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "444807",
+    "phone_number": "+91 90223 01132",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 01, Main Road, Basti Deyandri, Dahendri, Maharashtra 444807",
+    "area": "Basti Deyandri",
+    "latitude": 21.631165,
+    "longitude": 77.5450749,
+    "place_id": "ChIJZS5PzrxD1jsRTkubifeb6Vk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZS5PzrxD1jsRTkubifeb6Vk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:15:57"
+  },
+  {
+    "business_name": "Atul Kirana",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "444807",
+    "phone_number": "+91 96231 02261",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Athawadi Bazar, Paratwada, Pensionpura, Achalpur, Maharashtra 444805",
+    "area": "Paratwada, Pensionpura",
+    "latitude": 21.291918199999998,
+    "longitude": 77.51738209999999,
+    "place_id": "ChIJqYMIutTz1jsRUNpiSRrO0vk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqYMIutTz1jsRUNpiSRrO0vk",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:15:59"
+  }
+]

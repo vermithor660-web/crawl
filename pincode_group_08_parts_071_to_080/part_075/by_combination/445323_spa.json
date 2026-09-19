@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Golden Glow Buty Parlour Mohada",
+    "search_category": "Spa",
+    "primary_category": "Massage spa",
+    "all_categories": "Massage spa",
+    "pincode": "445323",
+    "phone_number": "+91 95270 13059",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 5, near Aathawadi Bazar, Mohada, Maharashtra 445323",
+    "area": "445323",
+    "latitude": 20.2142238,
+    "longitude": 78.46471559999999,
+    "place_id": "ChIJGQjphyq70zsRpD8MIkYe99w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGQjphyq70zsRpD8MIkYe99w",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:34:43"
+  },
+  {
+    "business_name": "Maheshwari Traders",
+    "search_category": "Spa",
+    "primary_category": "Wholesaler",
+    "all_categories": "Wholesaler",
+    "pincode": "445323",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sharda Chowk, Nagpur - Tuljapur Hwy, Choti Gujri, Pangari, Yavatmal, Maharashtra 445001",
+    "area": "Choti Gujri, Pangari",
+    "latitude": 20.389053999999998,
+    "longitude": 78.1399732,
+    "place_id": "ChIJGRuEuDXp0zsRtDqAb0kaGv0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGRuEuDXp0zsRtDqAb0kaGv0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:34:45"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mauli Krushi Seva Kendr Talni",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Used car dealer",
+    "all_categories": "Used car dealer, Farm shop",
+    "pincode": "445211",
+    "phone_number": "+91 97666 61794",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Mauli Seva Kendr, Talni, Maharashtra 431743",
+    "area": "445211",
+    "latitude": 19.6401271,
+    "longitude": 77.52985,
+    "place_id": "ChIJZV5WNLS90TsRd1b7-Zknm5A",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZV5WNLS90TsRd1b7-Zknm5A",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:12:51"
+  },
+  {
+    "business_name": "A-1 Auto Deals",
+    "search_category": "Car Showroom and Used Car Dealer",
+    "primary_category": "Car dealer",
+    "all_categories": "Car dealer",
+    "pincode": "445211",
+    "phone_number": "+91 90222 29291",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "445206, Arab Colony, Bhagatsingh Ward, Umarkhed, Maharashtra 445206",
+    "area": "Arab Colony, Bhagatsingh Ward",
+    "latitude": 19.598221,
+    "longitude": 77.6833887,
+    "place_id": "ChIJu7HsF1eT0TsR880ixvJdNDY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu7HsF1eT0TsR880ixvJdNDY",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:12:53"
+  }
+]

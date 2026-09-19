@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mohini Tasteaurant",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Chinese restaurant",
+    "all_categories": "Chinese restaurant",
+    "pincode": "444810",
+    "phone_number": "+91 77450 19676",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 28,
+    "address": "Shop no. 10, Arihant Atlantis, Nachane Rd, Narhar Colony, Nachane, Maharashtra 415639",
+    "area": "Narhar Colony",
+    "latitude": 16.9882713,
+    "longitude": 73.3189938,
+    "place_id": "ChIJ-0S3vhUN6jsRW09svFUdsmQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-0S3vhUN6jsRW09svFUdsmQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:21:20"
+  },
+  {
+    "business_name": "Khandesh Amruttulya",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "444810",
+    "phone_number": "+91 90966 11400",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Karvand Naka, near ARP CBSE School, Shirpur, Varvade, Shirpur-Warwade, Maharashtra 425405",
+    "area": "Shirpur, Varvade",
+    "latitude": 21.353736299999998,
+    "longitude": 74.8914478,
+    "place_id": "ChIJN9lHgBwt3zsRSMJr-NhRXbQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJN9lHgBwt3zsRSMJr-NhRXbQ",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:21:21"
+  }
+]

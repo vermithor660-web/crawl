@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "ANUPAM SHARMA",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "445305",
+    "phone_number": "+91 88401 30270",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 2, Yavatmal, Pandharkawada, Maharashtra 445302",
+    "area": "445305",
+    "latitude": 20.0208835,
+    "longitude": 78.5462782,
+    "place_id": "ChIJGVOy4qKt0zsRv65GEAXVGBM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGVOy4qKt0zsRv65GEAXVGBM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:26:44"
+  },
+  {
+    "business_name": "High Line Cafe",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Cafe",
+    "all_categories": "Cafe",
+    "pincode": "445305",
+    "phone_number": "+91 95502 42045",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 152,
+    "address": "2-22/12, opp. Nayara Petrol Pump, Dwaraka Nagar, Ravindra Nagar Colony, Adilabad, Telangana 504001",
+    "area": "Dwaraka Nagar, Ravindra Nagar Colony",
+    "latitude": 19.6673805,
+    "longitude": 78.5302292,
+    "place_id": "ChIJc4e3Q2Nd0jsR4iANQrTh7W8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJc4e3Q2Nd0jsR4iANQrTh7W8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:26:44"
+  }
+]

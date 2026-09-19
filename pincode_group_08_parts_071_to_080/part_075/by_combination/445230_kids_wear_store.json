@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "T A L R",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "445230",
+    "phone_number": "+91 96378 10746",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "Kupti (Nahoor), Maharashtra 431804",
+    "area": "445230",
+    "latitude": 19.7418846,
+    "longitude": 77.9608374,
+    "place_id": "ChIJJznu3gop0jsR1d_CnlrX_J8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJznu3gop0jsR1d_CnlrX_J8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:17:51"
+  },
+  {
+    "business_name": "New Update Kids Wear",
+    "search_category": "Kids Wear Store",
+    "primary_category": "Women's clothing store",
+    "all_categories": "Women's clothing store",
+    "pincode": "445230",
+    "phone_number": "+91 97636 48465",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "QQRC+WH5, Sarafa Line Mahagaon, Mahagaon, Maharashtra 445205",
+    "area": "445230",
+    "latitude": 19.7922549,
+    "longitude": 77.77149229999999,
+    "place_id": "ChIJRWDUfGiF0TsRCPyhwmPyA5E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRWDUfGiF0TsRCPyhwmPyA5E",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:17:53"
+  }
+]

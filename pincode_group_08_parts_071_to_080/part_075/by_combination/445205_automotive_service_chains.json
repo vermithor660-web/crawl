@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "MECH HEADS MOTORING",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic",
+    "pincode": "445205",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Choti Gujri, Aathodi bazar, Yavatmal, Maharashtra 445001",
+    "area": "Choti Gujri, Aathodi bazar",
+    "latitude": 20.3882305,
+    "longitude": 78.13615039999999,
+    "place_id": "ChIJ-btbBmnp0zsRel5uLlfGlGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-btbBmnp0zsRel5uLlfGlGI",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:04:14"
+  },
+  {
+    "business_name": "Shantosh Auto Service",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "445205",
+    "phone_number": "+91 90114 27686",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "94PQ+R26 Electronic Zone, Hongna Road, Choti Gujri, Chapman Wadi, Nagpur, Yavatmal, Maharashtra 445001",
+    "area": "Choti Gujri, Chapman Wadi",
+    "latitude": 20.387040799999998,
+    "longitude": 78.13750259999999,
+    "place_id": "ChIJXYzVADPp0zsRll0-Lcl-qVE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXYzVADPp0zsRll0-Lcl-qVE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:04:14"
+  }
+]

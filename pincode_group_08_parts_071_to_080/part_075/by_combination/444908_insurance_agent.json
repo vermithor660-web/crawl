@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aadarsh Multi Insurance services",
+    "search_category": "Insurance Agent",
+    "primary_category": "Auto insurance agency",
+    "all_categories": "Auto insurance agency",
+    "pincode": "444908",
+    "phone_number": "+91 89567 22575",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Rest House Rd, Ward Number 8, Mul, Maharashtra 441224",
+    "area": "Ward Number 8",
+    "latitude": 20.064512,
+    "longitude": 79.6751197,
+    "place_id": "ChIJoWcoJ3jfLDoR1YRjPmjFNDg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoWcoJ3jfLDoR1YRjPmjFNDg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:38:20"
+  },
+  {
+    "business_name": "Yog Insurance Services",
+    "search_category": "Insurance Agent",
+    "primary_category": "Life insurance agency",
+    "all_categories": "Life insurance agency",
+    "pincode": "444908",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gujari Bazar, Jarud, Maharashtra 444908",
+    "area": "444908",
+    "latitude": 21.454516299999998,
+    "longitude": 78.2223092,
+    "place_id": "ChIJJR4WQF_L1TsReGnCEeIPkZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJR4WQF_L1TsReGnCEeIPkZU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:38:22"
+  }
+]

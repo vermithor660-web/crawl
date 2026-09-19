@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Belly Ladies Special Beauty parlor",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "445109",
+    "phone_number": "+91 93097 39492",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Arni Rd, Wadgaon Road, Bharti Nagar, Yavatmal, Maharashtra 445002",
+    "area": "Wadgaon Road, Bharti Nagar",
+    "latitude": 20.3803046,
+    "longitude": 78.1154468,
+    "place_id": "ChIJEzs8eXzp0zsRdIMdj81f2OE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEzs8eXzp0zsRdIMdj81f2OE",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:53:51"
+  },
+  {
+    "business_name": "Vaishnavi Beauty Collection",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Cosmetics store",
+    "all_categories": "Cosmetics store",
+    "pincode": "445109",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Ambedkar Chowk, Waman Ghat Road, near Dhume Medical, Wani, Maharashtra 445304",
+    "area": "445109",
+    "latitude": 20.0545172,
+    "longitude": 78.95253679999999,
+    "place_id": "ChIJbdEuRbUf0zsRgUZgZCsNcjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbdEuRbUf0zsRgUZgZCsNcjg",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:53:53"
+  }
+]

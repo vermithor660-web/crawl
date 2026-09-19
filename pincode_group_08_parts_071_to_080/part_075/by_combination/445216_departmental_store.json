@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vidarbh",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "445216",
+    "phone_number": "+91 80075 98981",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 1,
+    "address": "90, Pusad, Maharashtra 445204",
+    "area": "445216",
+    "latitude": 19.9040659,
+    "longitude": 77.5712236,
+    "place_id": "ChIJX1L9L9N10TsRCxyL7Mfx18s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX1L9L9N10TsRCxyL7Mfx18s",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:15:47"
+  },
+  {
+    "business_name": "Patanjali Arogya Kendra",
+    "search_category": "Departmental Store",
+    "primary_category": "Department store",
+    "all_categories": "Department store",
+    "pincode": "445216",
+    "phone_number": "+91 94221 28020",
+    "website": "https://patanjalistores.patanjaliayurved.org/patanjali-arogya-kendra-gurukrupa-patanjali-arogya-kendra-grocery-stores-naik-chowk-pusad-260837/Home?utm_source=locator&utm_medium=googleplaces",
+    "rating": 4.1,
+    "reviews_count": 28,
+    "address": "Ground Floor, Naik Chowk, Nain Road, Pusad, Maharashtra 445204",
+    "area": "445216",
+    "latitude": 19.9116468,
+    "longitude": 77.57904359999999,
+    "place_id": "ChIJ072gq0x10TsRkHQvu2FYjW8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ072gq0x10TsRkHQvu2FYjW8",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:15:49"
+  }
+]

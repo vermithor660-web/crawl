@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Tours & Travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Bus company",
+    "all_categories": "Bus company",
+    "pincode": "445105",
+    "phone_number": "+91 98813 73713",
+    "website": "http://vijaytoursntravels.in/",
+    "rating": 3.7,
+    "reviews_count": 3,
+    "address": "Bus Stand, Square, opp. M.S.E.B Office, Wadgaon Road, SatyaNarayan Layout, Yavatmal, Maharashtra 445002",
+    "area": "Wadgaon Road, SatyaNarayan Layout",
+    "latitude": 20.3789589,
+    "longitude": 78.1112275,
+    "place_id": "ChIJVVVVmaDo0zsRwNTAJp1VnZM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVmaDo0zsRwNTAJp1VnZM",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:50:09"
+  },
+  {
+    "business_name": "Jijai tours and travels",
+    "search_category": "Tour and Travel Operator",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "445105",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "32J9+44H, Dabhadi, Maharashtra 445103",
+    "area": "445105",
+    "latitude": 20.080316099999997,
+    "longitude": 78.0178531,
+    "place_id": "ChIJ0QvRQgDX0zsREahwklxcIUo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0QvRQgDX0zsREahwklxcIUo",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:50:11"
+  }
+]

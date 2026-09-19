@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Patil Pets",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "444710",
+    "phone_number": "+91 70282 93838",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "Shop No 4, Sahyadri Appartment, Waghapur Rd, near Idbi Bank, Waghapur, Yavatmal, Maharashtra 445002",
+    "area": "Waghapur",
+    "latitude": 20.3909831,
+    "longitude": 78.1082851,
+    "place_id": "ChIJG5s4TADn0zsR4Lxw-AuTg28",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG5s4TADn0zsR4Lxw-AuTg28",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:54:54"
+  },
+  {
+    "business_name": "Unique pet shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Pet store",
+    "pincode": "444710",
+    "phone_number": "+91 93266 22123",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 116,
+    "address": "Ground Floor, Plot No. 20, Niyogi Complex, Abhyankar Marg, Mehadia Square, Dhantoli, Nagpur, Maharashtra 440012",
+    "area": "Mehadia Square, Dhantoli",
+    "latitude": 21.136917,
+    "longitude": 79.08246799999999,
+    "place_id": "ChIJJae5wpbA1DsRZ9rgxvhuNuU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJae5wpbA1DsRZ9rgxvhuNuU",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 06:54:55"
+  }
+]

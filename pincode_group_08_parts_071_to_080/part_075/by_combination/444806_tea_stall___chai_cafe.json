@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Om namah shivay hotel",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "444806",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 25,
+    "address": "9C2V+Q4V, Dhamangaon Gadhi, Maharashtra 444717",
+    "area": "444806",
+    "latitude": 21.351976099999998,
+    "longitude": 77.44279329999999,
+    "place_id": "ChIJsSmAXoH31jsRl9AVCGivEak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsSmAXoH31jsRl9AVCGivEak",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:14:16"
+  },
+  {
+    "business_name": "Hotel Anil And Refreshment,and Restaurant",
+    "search_category": "Tea Stall / Chai Cafe",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "444806",
+    "phone_number": "+91 94054 23226",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "Shop No 1, Road, near by Achal Naka, Achal Naka, Amravati, Achalpur, Maharashtra 444806",
+    "area": "Achal Naka",
+    "latitude": 21.2536173,
+    "longitude": 77.52908049999999,
+    "place_id": "ChIJ-d7HIwDz1jsRj5ny9RT2sG4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-d7HIwDz1jsRj5ny9RT2sG4",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 07:14:18"
+  }
+]

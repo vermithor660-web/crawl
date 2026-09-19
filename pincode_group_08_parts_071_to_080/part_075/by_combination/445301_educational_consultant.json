@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Head office",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant",
+    "pincode": "445301",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "36FX+HVX, Shiroli, Maharashtra 445301",
+    "area": "445301",
+    "latitude": 20.0738651,
+    "longitude": 78.249719,
+    "place_id": "ChIJRWDbSgDJ0zsRF-Irx8Ngmrw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRWDbSgDJ0zsRF-Irx8Ngmrw",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:20:34"
+  },
+  {
+    "business_name": "Abroad Directions",
+    "search_category": "Educational Consultant",
+    "primary_category": "Educational consultant",
+    "all_categories": "Educational consultant, Service establishment",
+    "pincode": "445301",
+    "phone_number": "+91 76808 01429",
+    "website": "http://www.abroaddirections.com/",
+    "rating": 4.6,
+    "reviews_count": 10,
+    "address": "Abroad Directions, 445301, India",
+    "area": "445301",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJm7UPkmj7NToR3WW_ljH32s0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm7UPkmj7NToR3WW_ljH32s0",
+    "part_id": "part_075",
+    "crawled_at": "2026-09-19 08:20:34"
+  }
+]
