@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Swami Flour Mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "431521",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "7Q2Q+FRR, Bhagyalakshmi Nagar, Parbhani, Maharashtra 431401",
+    "area": "Bhagyalakshmi Nagar",
+    "latitude": 19.2512321,
+    "longitude": 76.78950739999999,
+    "place_id": "ChIJ808oF2oZ0DsRML6QDALhTX8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ808oF2oZ0DsRML6QDALhTX8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:35:29"
+  },
+  {
+    "business_name": "H.KGN floar mill",
+    "search_category": "Flour and Oil Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "431521",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "P438+FX7, Sasewadi, Maharashtra 431513",
+    "area": "431521",
+    "latitude": 19.7036622,
+    "longitude": 77.1174163,
+    "place_id": "ChIJrS_vjAxT0DsRhIEcymIfsz4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrS_vjAxT0DsRhIEcymIfsz4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:35:29"
+  }
+]

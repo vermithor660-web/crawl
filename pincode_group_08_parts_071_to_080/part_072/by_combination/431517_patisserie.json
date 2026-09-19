@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Balaji Khawa Paneer Senter",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "431517",
+    "phone_number": "+91 90112 85444",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 1, Ambajogai - Pangaon Rd, Prashant Nagar, Jaywanti Nagar, Ambajogai, Maharashtra 431515",
+    "area": "Prashant Nagar, Jaywanti Nagar",
+    "latitude": 18.7304632,
+    "longitude": 76.388868,
+    "place_id": "ChIJtb47u91fxTsRPes6HMDK_To",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtb47u91fxTsRPes6HMDK_To",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:27:25"
+  },
+  {
+    "business_name": "Shakti Beakery",
+    "search_category": "Patisserie",
+    "primary_category": "Bakery and Cake Shop",
+    "all_categories": "Bakery and Cake Shop",
+    "pincode": "431517",
+    "phone_number": "+91 86688 03052",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shakti Beakrey 1, Gawli Pura, Chanai, Ambajogai, Maharashtra 431515",
+    "area": "Gawli Pura",
+    "latitude": 18.7339517,
+    "longitude": 76.3906676,
+    "place_id": "ChIJuVjfiPVexTsRPNdDOZ4Y1JA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuVjfiPVexTsRPNdDOZ4Y1JA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:27:27"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Gozo Cabs – Outstation, Airport & Local Rentals",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service, Airport Shuttle Service Provider, Car leasing service, Tour operator, Transportation service",
+    "pincode": "431502",
+    "phone_number": "N/A",
+    "website": "https://www.gozocabs.com/",
+    "rating": 4.2,
+    "reviews_count": null,
+    "address": "F - 210, UGF, Sushant shopping arcade, Sushant Lok Phase I, Sector 43, Gurugram, Haryana 122009",
+    "area": "Sushant Lok Phase I, Sector 43",
+    "latitude": 28.460606,
+    "longitude": 77.078813,
+    "place_id": "ChIJd8WFlTAZDTkRsr32DBHP7es",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd8WFlTAZDTkRsr32DBHP7es",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:02:22"
+  },
+  {
+    "business_name": "CabBazar",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "431502",
+    "phone_number": "N/A",
+    "website": "https://cabbazar.com/city/pune",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "2nd Floor, Montclaire, B-Wing, Unit No 201-205, Baner - Pashan Link Rd, Pune, Maharashtra 411021",
+    "area": "Pashan",
+    "latitude": 18.5448934,
+    "longitude": 73.7937637,
+    "place_id": "ChIJd5mM5VC_wjsRGs1nh0A6baM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd5mM5VC_wjsRGs1nh0A6baM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:02:22"
+  }
+]

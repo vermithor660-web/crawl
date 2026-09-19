@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "A To Z Bag House",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "431508",
+    "phone_number": "+91 98817 87760",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 01, Chhatrapati Shivaji Maharaj Rd, near Janta Market, Shah Inayat Mohalla, Shastri Nagar, Parbhani, Maharashtra 431401",
+    "area": "Shah Inayat Mohalla, Shastri Nagar",
+    "latitude": 19.2693267,
+    "longitude": 76.77072299999999,
+    "place_id": "ChIJZajyB6AZ0DsR-oXSpV32G-s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZajyB6AZ0DsR-oXSpV32G-s",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:12:13"
+  },
+  {
+    "business_name": "Taranjeet bag house",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "431508",
+    "phone_number": "+91 89563 57833",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 7,
+    "address": "front of malani hospital, Mondha, Sailu, Maharashtra 431503",
+    "area": "Mondha",
+    "latitude": 19.451146599999998,
+    "longitude": 76.4389301,
+    "place_id": "ChIJy5E1eACf2jsRBTCx4LX2pvc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy5E1eACf2jsRBTCx4LX2pvc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:12:14"
+  }
+]

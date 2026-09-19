@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Alpha Superspeciality Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital, Cardiologist, Cardiovascular and thoracic surgeon, Emergency care service, Intensivist, Orthopedic surgeon, Radiologist, Surgeon, Surgical oncologist, Urologist",
+    "pincode": "431517",
+    "phone_number": "+91 2382 228 283",
+    "website": "http://alphahospital.com/",
+    "rating": 4.6,
+    "reviews_count": 1590,
+    "address": "Ambajogai Road, Shyam Nagar Rd, near Muktai Mangal Karyalay, Latur, Maharashtra 413531",
+    "area": "Netaji Nagar",
+    "latitude": 18.4051786,
+    "longitude": 76.5653086,
+    "place_id": "ChIJRTw_FOmDzzsRNPLR3yD9Xsw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRTw_FOmDzzsRNPLR3yD9Xsw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:27:48"
+  },
+  {
+    "business_name": "Galaxy Hospital And Critical Care Center Latur. (GHCCC MULTISPECIALITY HOSPITAL PRIVATE LIMITED )",
+    "search_category": "Polyclinic",
+    "primary_category": "Emergency care physician",
+    "all_categories": "Emergency care physician, Cardiologist, Nephrologist, Neurologist",
+    "pincode": "431517",
+    "phone_number": "+91 2382 251 452",
+    "website": "https://galaxyhospitallatur.com/",
+    "rating": 4.8,
+    "reviews_count": 2814,
+    "address": "Deenanath nagar, near Diwanaji mangal karyalay, Sawe Wadi, Latur, Maharashtra 413512",
+    "area": "Sawe Wadi",
+    "latitude": 18.402126499999998,
+    "longitude": 76.5721283,
+    "place_id": "ChIJX2utm-qDzzsRL2AsF3hDXfE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX2utm-qDzzsRL2AsF3hDXfE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:27:48"
+  }
+]

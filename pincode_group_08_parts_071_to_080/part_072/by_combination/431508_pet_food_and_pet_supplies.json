@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Pratik pets",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "431508",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 23,
+    "address": "Karla Rd, Shrirampur, Pusad, Maharashtra 445215",
+    "area": "Shrirampur",
+    "latitude": 19.901516,
+    "longitude": 77.556816,
+    "place_id": "ChIJu6zJaAAL0TsRuJI9mqzNBAs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu6zJaAAL0TsRuJI9mqzNBAs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:12:01"
+  },
+  {
+    "business_name": "Angel Fish Aquarium",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "431508",
+    "phone_number": "+91 94237 19428",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 223,
+    "address": "near Nana Nani Park, Osmanpura, Sawe Wadi, Latur, Maharashtra 413512",
+    "area": "Osmanpura, Sawe Wadi",
+    "latitude": 18.399286699999998,
+    "longitude": 76.5752321,
+    "place_id": "ChIJ8bCBmZWDzzsRoSW0Jk4d_Ug",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8bCBmZWDzzsRoSW0Jk4d_Ug",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:12:01"
+  }
+]

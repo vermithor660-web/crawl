@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "King Clothing",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431517",
+    "phone_number": "+91 99608 88757",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 3, Bld.no.1, Devi Road, Ambajogai, Maharashtra 431517",
+    "area": "431517",
+    "latitude": 18.7396675,
+    "longitude": 76.38742479999999,
+    "place_id": "ChIJYwA1CHxfxTsRptcIXi6QHvw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYwA1CHxfxTsRptcIXi6QHvw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:27:41"
+  },
+  {
+    "business_name": "Digvijay Collection",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431517",
+    "phone_number": "N/A",
+    "website": "https://digvijay-collection.grexa.site/",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "Bus stand, road, Dindrud, Maharashtra 431128",
+    "area": "Dindrud",
+    "latitude": 18.9900177,
+    "longitude": 76.2489623,
+    "place_id": "ChIJM2MeEvdNxTsR_JroFU5JgJ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM2MeEvdNxTsR_JroFU5JgJ4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:27:41"
+  }
+]

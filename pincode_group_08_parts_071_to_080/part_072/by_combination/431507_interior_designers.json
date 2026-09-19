@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anmol Decoreters",
+    "search_category": "Interior Designers",
+    "primary_category": "Painter",
+    "all_categories": "Painter",
+    "pincode": "431507",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "F8WX+V4V Sadhana, Satona Kh., Maharashtra 431502",
+    "area": "431507",
+    "latitude": 19.4972393,
+    "longitude": 76.3478097,
+    "place_id": "ChIJQ_jgHDmZ2jsRikV0XGLlDFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ_jgHDmZ2jsRikV0XGLlDFw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:11:01"
+  },
+  {
+    "business_name": "Shreya Home Interior Designing",
+    "search_category": "Interior Designers",
+    "primary_category": "Interior designer",
+    "all_categories": "Interior designer, Carpenter",
+    "pincode": "431507",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "S/O Awad Vishwanath, 45 Jalalpur Road, Haridas Nagar, Jalalpur, Maharashtra 431515",
+    "area": "431507",
+    "latitude": 18.847206999999997,
+    "longitude": 76.51081289999999,
+    "place_id": "ChIJj0aB1_33zzsR64KO2fWUgEc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJj0aB1_33zzsR64KO2fWUgEc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:11:02"
+  }
+]

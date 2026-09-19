@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kavya Medical",
+    "search_category": "Spa",
+    "primary_category": "Health spa",
+    "all_categories": "Health spa",
+    "pincode": "431521",
+    "phone_number": "+91 70579 70477",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 01, Sanmitra Colony, Rahul Nagar, Parbhani, Maharashtra 431401",
+    "area": "Sanmitra Colony, Rahul Nagar",
+    "latitude": 19.2645648,
+    "longitude": 76.7843809,
+    "place_id": "ChIJGZH9K8wZ0DsR3qPgR8gLaZ4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGZH9K8wZ0DsR3qPgR8gLaZ4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:34:50"
+  },
+  {
+    "business_name": "Riddhi Beauty Beauty Spa And Hd Makeup Studio",
+    "search_category": "Spa",
+    "primary_category": "Make-up artist",
+    "all_categories": "Make-up artist",
+    "pincode": "431521",
+    "phone_number": "+91 81808 89450",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No1 Mantri Nagar Near Jio Tower Line Opp Tahagath Nagar Road Mahera Kirana Parbhani 431401, Parbhani, Maharashtra 431401",
+    "area": "Tathagat Nagar",
+    "latitude": 19.2601601,
+    "longitude": 76.7554018,
+    "place_id": "ChIJmyM1F5QZ0DsRZpn_iPasGFw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmyM1F5QZ0DsRZpn_iPasGFw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:34:50"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shreeji Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer support and services, Computer store",
+    "pincode": "431502",
+    "phone_number": "+91 93256 01450",
+    "website": "https://shreeji-computers.grexa.site/",
+    "rating": 4.2,
+    "reviews_count": 103,
+    "address": "SHREEJI HOUSE, BH-1/30, Thakare Nagar Rd, near RAJMATA JIJAU CHOWK, Maya Nagar, N 2, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Maya Nagar, N 2, Cidco",
+    "latitude": 19.8693563,
+    "longitude": 75.3699366,
+    "place_id": "ChIJGxDb4vOi2zsRMwlv0xvl3dE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJGxDb4vOi2zsRMwlv0xvl3dE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:02:56"
+  },
+  {
+    "business_name": "One Touch Solutions",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service, Computer accessories store, Computer store",
+    "pincode": "431502",
+    "phone_number": "+91 94239 24962",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Near, Athwadi Bazar walur Road, near Datta Nagar, Athwadi Bazzar, Sailu, Maharashtra 431503",
+    "area": "Athwadi Bazzar",
+    "latitude": 19.4496984,
+    "longitude": 76.4411638,
+    "place_id": "ChIJ8R8EC2-f2jsRa3VcgZTciL8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8R8EC2-f2jsRa3VcgZTciL8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:02:56"
+  }
+]

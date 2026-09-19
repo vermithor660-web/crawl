@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dadge Cold Storage and Warehouse",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Warehouse",
+    "all_categories": "Warehouse",
+    "pincode": "431515",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "HJ4W+8J, Mohagaon, Maharashtra 413527",
+    "area": "431515",
+    "latitude": 18.555781,
+    "longitude": 76.646517,
+    "place_id": "ChIJqX_QMwCRzzsRlgwQVGpstgA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqX_QMwCRzzsRlgwQVGpstgA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:25:25"
+  },
+  {
+    "business_name": "Shri Mahalaxmi Udyog (Cold Storage and Ice Factory)",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility, Ice supplier",
+    "pincode": "431515",
+    "phone_number": "+91 98229 31799",
+    "website": "http://www.icelings.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W - 7, MIDC area, Beed, Maharashtra 431122",
+    "area": "MIDC area",
+    "latitude": 19.0060796,
+    "longitude": 75.7663132,
+    "place_id": "ChIJk9JdN00rxTsR708H5W-quWA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk9JdN00rxTsR708H5W-quWA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:25:25"
+  }
+]

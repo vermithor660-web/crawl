@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Padole Trading Company",
+    "search_category": "Tradeshows",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "431512",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Washim, Hingoli - Washim - Akola Rd, sbi bank, Tirupati Nagar, Hingoli, Maharashtra 431513",
+    "area": "sbi bank, Tirupati Nagar",
+    "latitude": 19.7320034,
+    "longitude": 77.1540689,
+    "place_id": "ChIJnxpKdAZT0DsR9pRVSgSjyPE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJnxpKdAZT0DsR9pRVSgSjyPE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:20:18"
+  },
+  {
+    "business_name": "Store",
+    "search_category": "Tradeshows",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "431512",
+    "phone_number": "+91 99751 20699",
+    "website": "https://www.sheelafoam.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Narayan Nagar, near Bus Stop, Choudhari Nagar, Mohalla Paltan, Siddharth Nagar, Hingoli, Maharashtra 431513",
+    "area": "Choudhari Nagar, Mohalla Paltan, Siddharth Nagar",
+    "latitude": 19.7130193,
+    "longitude": 77.1464149,
+    "place_id": "ChIJic5aFY9T0DsRE4ZkbRVgUz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJic5aFY9T0DsRE4ZkbRVgUz8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:20:18"
+  }
+]

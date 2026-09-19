@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shriraj farm house",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "431514",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "XPRC+8HQ, Gangakhed, Gangakhed R, Maharashtra 431514",
+    "area": "431514",
+    "latitude": 18.9908471,
+    "longitude": 76.7214869,
+    "place_id": "ChIJk5oJOwDlzzsRM0FhINHRm6c",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk5oJOwDlzzsRM0FhINHRm6c",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:23:14"
+  },
+  {
+    "business_name": "Parli naka",
+    "search_category": "Resort",
+    "primary_category": "Tourist attraction",
+    "all_categories": "Tourist attraction",
+    "pincode": "431514",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "XP9V+3FH, Bhagya Nagar, Gangakhed, Maharashtra 431514",
+    "area": "Bhagya Nagar",
+    "latitude": 18.9676869,
+    "longitude": 76.7437412,
+    "place_id": "ChIJYd5qxW3nzzsRPRpF0gzeB6Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYd5qxW3nzzsRPRpF0gzeB6Q",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:23:17"
+  }
+]

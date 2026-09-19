@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aadhar Hospital",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431506",
+    "phone_number": "+91 75884 01010",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "aadhar hospital, krushnai green park, Plot no 72, Gangakhed Rd, Apana Nagar, Parbhani, Maharashtra 431401",
+    "area": "Apana Nagar",
+    "latitude": 19.254887,
+    "longitude": 76.7621774,
+    "place_id": "ChIJaeDZZ0MZ0DsRpmEkmIBo3jM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaeDZZ0MZ0DsRpmEkmIBo3jM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:09:00"
+  },
+  {
+    "business_name": "PARIHAR ACCIDENT HOSPITAL",
+    "search_category": "Polyclinic",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431506",
+    "phone_number": "+91 2457 237 420",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 4,
+    "address": "JM4Q+F4R, Jintur, Maharashtra 431509",
+    "area": "431506",
+    "latitude": 19.6062261,
+    "longitude": 76.6877695,
+    "place_id": "ChIJG8ckAQhv0DsRdt0390jQths",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG8ckAQhv0DsRdt0390jQths",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:09:02"
+  }
+]

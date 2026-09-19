@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SANAP HOSPITAL",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic",
+    "pincode": "431510",
+    "phone_number": "+91 88881 35388",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 3, Main Road, Kurhadi, Maharashtra 431510",
+    "area": "431510",
+    "latitude": 19.695664,
+    "longitude": 76.6024582,
+    "place_id": "ChIJP6plNjN70DsRt3eY-k1MDok",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP6plNjN70DsRt3eY-k1MDok",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:15:44"
+  },
+  {
+    "business_name": "Mauli Clinica Labora",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Hospital",
+    "pincode": "431510",
+    "phone_number": "+91 88050 76874",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop No 2, Men Rod, near by Nagnath Mandir, Pipals Bank, Sengaon, Maharashtra 431542",
+    "area": "Pipals Bank",
+    "latitude": 19.795368099999997,
+    "longitude": 76.8897143,
+    "place_id": "ChIJsf4r5eFe0DsRq4KRpA5dESo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJsf4r5eFe0DsRq4KRpA5dESo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:15:47"
+  }
+]

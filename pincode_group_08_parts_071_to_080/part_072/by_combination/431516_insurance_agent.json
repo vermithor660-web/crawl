@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Angel One (Authorised Person )",
+    "search_category": "Insurance Agent",
+    "primary_category": "Stock broker",
+    "all_categories": "Stock broker",
+    "pincode": "431516",
+    "phone_number": "+91 74993 69112",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 4,
+    "address": "near Narsimha Temple, Pokharni, Maharashtra 431521",
+    "area": "431516",
+    "latitude": 19.1164441,
+    "longitude": 76.7069891,
+    "place_id": "ChIJCc8U5Tcd0DsRYaryqExJzIE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCc8U5Tcd0DsRYaryqExJzIE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:26:55"
+  },
+  {
+    "business_name": "NATIONAL INSURANCE COMPANY LTD.",
+    "search_category": "Insurance Agent",
+    "primary_category": "Insurance agency",
+    "all_categories": "Insurance agency",
+    "pincode": "431516",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "4M87+2RF, Sector 4, Npcc colony, Jayant, Madhya Pradesh 486890",
+    "area": "Sector 4, Npcc colony",
+    "latitude": 24.1150693,
+    "longitude": 82.6645558,
+    "place_id": "ChIJBScVyN4wjzkRForD-DJj_PY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBScVyN4wjzkRForD-DJj_PY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:26:57"
+  }
+]

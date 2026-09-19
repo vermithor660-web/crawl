@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sai multispeciality Hospital. Ashti",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Doctor",
+    "all_categories": "Doctor",
+    "pincode": "431507",
+    "phone_number": "+91 95279 22796",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Majalgaon Rd, near sai hospital, Ashti, Maharashtra 431507",
+    "area": "431507",
+    "latitude": 19.372887199999997,
+    "longitude": 76.2181848,
+    "place_id": "ChIJSZs8Hhe92jsRFxzngysUmdU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJSZs8Hhe92jsRFxzngysUmdU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:10:37"
+  },
+  {
+    "business_name": "Bhagyodaya Hospital Dr.Patale",
+    "search_category": "Multispeciality Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431507",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "96GF+WCQ, Ashti, Maharashtra 431507",
+    "area": "431507",
+    "latitude": 19.3773466,
+    "longitude": 76.2236212,
+    "place_id": "ChIJo19pFKq92jsRPw9AcMnePSg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo19pFKq92jsRPw9AcMnePSg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:10:37"
+  }
+]

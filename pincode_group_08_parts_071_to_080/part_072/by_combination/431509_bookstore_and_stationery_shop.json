@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Books and Stationars",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Baby store",
+    "all_categories": "Baby store",
+    "pincode": "431509",
+    "phone_number": "+91 95036 87225",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 06, Old Pedgaon Rd, near Post Office, opp. Pawan Tailor, Prabhavati Nagar, Parbhani, Maharashtra 431401",
+    "area": "Prabhavati Nagar",
+    "latitude": 19.2750886,
+    "longitude": 76.7590811,
+    "place_id": "ChIJOco4J6wX0DsRPhr9pb-z9ZA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJOco4J6wX0DsRPhr9pb-z9ZA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:14:48"
+  },
+  {
+    "business_name": "Uma Book Stall And General Stores",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, General store, Book store",
+    "pincode": "431509",
+    "phone_number": "+91 98497 98277",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 445,
+    "address": "XJQ3+W7M, Desaipet Rd, Pochamma Maidan, Krishna Nagar, LB Nagar, Warangal, Telangana 506002",
+    "area": "Pochamma Maidan, Krishna Nagar, LB Nagar",
+    "latitude": 17.9898262,
+    "longitude": 79.6031565,
+    "place_id": "ChIJP3M-qB1FMzoRGGu5h6qLBOw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP3M-qB1FMzoRGGu5h6qLBOw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:14:50"
+  }
+]

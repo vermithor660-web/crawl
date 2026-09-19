@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vishal Provisions and General Stores",
+    "search_category": "Departmental Store",
+    "primary_category": "Indian grocery store",
+    "all_categories": "Indian grocery store",
+    "pincode": "431506",
+    "phone_number": "+91 79720 03583",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "69F9+WC3, Dhalegaon, Maharashtra 431506",
+    "area": "431506",
+    "latitude": 19.2247742,
+    "longitude": 76.3685318,
+    "place_id": "ChIJYVbnMI6p2jsRYNOFgjbBy-8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYVbnMI6p2jsRYNOFgjbBy-8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:08:31"
+  },
+  {
+    "business_name": "kailas Bhausaheb Dukare",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "431506",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 3,
+    "address": "892W+6CG, Unnamed Road, Khedula, Maharashtra 431506",
+    "area": "431506",
+    "latitude": 19.3005614,
+    "longitude": 76.3960906,
+    "place_id": "ChIJbzO7gI6n2jsRIiFI-tibUyw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbzO7gI6n2jsRIiFI-tibUyw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:08:31"
+  }
+]

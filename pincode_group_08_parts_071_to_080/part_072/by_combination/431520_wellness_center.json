@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Wellness Holistic Healing Centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "431520",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HQXC+X2G, Kaspate Wasti, Wakad, Pimpri-Chinchwad, Maharashtra 411057",
+    "area": "Kaspate Wasti, Wakad",
+    "latitude": 18.599931299999998,
+    "longitude": 73.770084,
+    "place_id": "ChIJQdDOS7-5wjsRxhJnjDPGJ7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQdDOS7-5wjsRxhJnjDPGJ7E",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:33:11"
+  },
+  {
+    "business_name": "Parli Vaijnath Health Unit",
+    "search_category": "Wellness Center",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431520",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "RAILWAY STATION, Vidyanagar, Parli Vaijnath, Maharashtra 431515",
+    "area": "Vidyanagar",
+    "latitude": 18.852733399999998,
+    "longitude": 76.5261013,
+    "place_id": "ChIJfQARIQD3zzsRwTAxoKpksUk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfQARIQD3zzsRwTAxoKpksUk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:33:11"
+  }
+]

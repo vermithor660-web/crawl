@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL PALACE (GUEST HOUSE BAR AND RESTAURANT)",
+    "search_category": "Hotel",
+    "primary_category": "Indian restaurant",
+    "all_categories": "Indian restaurant, Lodge",
+    "pincode": "431510",
+    "phone_number": "+91 84848 40126",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "Risod:444506, Risod, Maharashtra 444506",
+    "area": "431510",
+    "latitude": 19.976495999999997,
+    "longitude": 76.79616299999999,
+    "place_id": "ChIJO-Sm8R2N0DsRABUY7OOP7gI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO-Sm8R2N0DsRABUY7OOP7gI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:16:18"
+  },
+  {
+    "business_name": "Hotel Sairaj EV pump",
+    "search_category": "Hotel",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "431510",
+    "phone_number": "+91 97630 20270",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": 55,
+    "address": "HMWC+2X9, Parbhani, Jintur, Maharashtra 431509",
+    "area": "431510",
+    "latitude": 19.5950478,
+    "longitude": 76.6724826,
+    "place_id": "ChIJQZFFGrNv0DsRC0EfrYER_b4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQZFFGrNv0DsRC0EfrYER_b4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:16:21"
+  }
+]

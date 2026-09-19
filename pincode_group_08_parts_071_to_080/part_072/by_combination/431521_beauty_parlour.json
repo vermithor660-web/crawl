@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sayli beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour, Service establishment",
+    "pincode": "431521",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Sayli beauty parlour, 431521, India",
+    "area": "431521",
+    "latitude": 19.267879399999998,
+    "longitude": 76.7795215,
+    "place_id": "ChIJr_BXtCgZ0DsRMYUmwHKTOvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJr_BXtCgZ0DsRMYUmwHKTOvA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:34:49"
+  },
+  {
+    "business_name": "Anandi beauty parlour",
+    "search_category": "Beauty Parlour",
+    "primary_category": "Beauty Parlour",
+    "all_categories": "Beauty Parlour",
+    "pincode": "431521",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "7Q34+VVM, Indira Gandhi Nagar, Parbhani, Maharashtra 431401",
+    "area": "Indira Gandhi Nagar",
+    "latitude": 19.2547192,
+    "longitude": 76.7571636,
+    "place_id": "ChIJU6tBLAAZ0DsRC1rg1oe-a9Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJU6tBLAAZ0DsRC1rg1oe-a9Y",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:34:53"
+  }
+]

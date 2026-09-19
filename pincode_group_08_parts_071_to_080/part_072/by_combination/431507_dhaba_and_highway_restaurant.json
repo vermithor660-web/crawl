@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Highway Delight Family Restaurant and Dhaba.",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431507",
+    "phone_number": "+91 95955 61722",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Kuhi, Bhandarbodi, Maharashtra 441202",
+    "area": "431507",
+    "latitude": 21.0007532,
+    "longitude": 79.3980641,
+    "place_id": "ChIJW-GMCraz1DsRqStDWaGeFgc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-GMCraz1DsRqStDWaGeFgc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:10:24"
+  },
+  {
+    "business_name": "New Highway Star Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "431507",
+    "phone_number": "+91 89991 76404",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "6755+FF3, beside kanhan river bypass Nagpur, Maharashtra, Khandala(Ghatate), Maharashtra 441401",
+    "area": "431507",
+    "latitude": 21.2086324,
+    "longitude": 79.2586867,
+    "place_id": "ChIJWYdJbTvJ1DsRPJXC2MkhSSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWYdJbTvJ1DsRPJXC2MkhSSQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:10:24"
+  }
+]

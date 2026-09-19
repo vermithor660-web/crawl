@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Goyal Properties",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Real estate agency",
+    "all_categories": "Real estate agency, Service establishment",
+    "pincode": "431510",
+    "phone_number": "N/A",
+    "website": "https://goyalproperty.com/",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Goyal Properties, 431510, India",
+    "area": "431510",
+    "latitude": 28.6440837,
+    "longitude": 77.0932314,
+    "place_id": "ChIJJy2krAzpbE0Rmubg0cLRKns",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJy2krAzpbE0Rmubg0cLRKns",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:16:43"
+  },
+  {
+    "business_name": "Parth Mobile shopy & Grahak Seva Kendra",
+    "search_category": "Real Estate Agents",
+    "primary_category": "Mobile home rental agency",
+    "all_categories": "Mobile home rental agency, Electronics store",
+    "pincode": "431510",
+    "phone_number": "+91 86981 12727",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 6,
+    "address": "Main road, Loni Bk., Maharashtra 444506",
+    "area": "431510",
+    "latitude": 19.9140048,
+    "longitude": 76.6224783,
+    "place_id": "ChIJv44C38aH0DsRPgCuQeB8yl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv44C38aH0DsRPgCuQeB8yl4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:16:44"
+  }
+]

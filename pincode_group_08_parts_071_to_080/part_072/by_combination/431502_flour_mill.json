@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Jain Flour Mill",
+    "search_category": "Flour Mill",
+    "primary_category": "Food bank",
+    "all_categories": "Food bank",
+    "pincode": "431502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Main road, Moregaon, Maharashtra 431503",
+    "area": "431502",
+    "latitude": 19.5154328,
+    "longitude": 76.45355359999999,
+    "place_id": "ChIJNWBGaTaf2jsRuZJ23xZjKLk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNWBGaTaf2jsRuZJ23xZjKLk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:01:46"
+  },
+  {
+    "business_name": "Sai Flour Mill Yashwant Nagar",
+    "search_category": "Flour Mill",
+    "primary_category": "Flour mill",
+    "all_categories": "Flour mill",
+    "pincode": "431502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": 1,
+    "address": "FC3J+J2G, Selu, Sailu, Maharashtra 431503",
+    "area": "Selu",
+    "latitude": 19.454052,
+    "longitude": 76.4300726,
+    "place_id": "ChIJt1QxXpSf2jsRMjecjakYqvk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt1QxXpSf2jsRMjecjakYqvk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:01:46"
+  }
+]

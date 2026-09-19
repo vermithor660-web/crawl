@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Juice Junction",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "431517",
+    "phone_number": "+91 824 298 6666",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 2632,
+    "address": "Emjays complex, Balmatta Rd, Balmatta, Mangaluru, Karnataka 575001",
+    "area": "Balmatta",
+    "latitude": 12.8734395,
+    "longitude": 74.8511228,
+    "place_id": "ChIJ01uYm2JbozsRghOhBKfkqvA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ01uYm2JbozsRghOhBKfkqvA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:27:27"
+  },
+  {
+    "business_name": "Lokmanya Juice Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop",
+    "pincode": "431517",
+    "phone_number": "+91 92709 55242",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 02, In Front Bustand, Sonpeth, Maharashtra 431516",
+    "area": "431517",
+    "latitude": 19.0278629,
+    "longitude": 76.4768746,
+    "place_id": "ChIJdbn7pNL_zzsRXeQWzR2LreQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJdbn7pNL_zzsRXeQWzR2LreQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:27:28"
+  }
+]

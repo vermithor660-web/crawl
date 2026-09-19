@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Taxi service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car rental agency",
+    "all_categories": "Car rental agency",
+    "pincode": "431513",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Adoli, Maharashtra 444505",
+    "area": "431513",
+    "latitude": 20.037129699999998,
+    "longitude": 77.05534779999999,
+    "place_id": "ChIJl_775hb70DsRz3Rwm569pQs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl_775hb70DsRz3Rwm569pQs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:21:08"
+  },
+  {
+    "business_name": "divyanshu Tour and travels",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "431513",
+    "phone_number": "+91 95189 49674",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jilha parshad school, Devda Nagar, Mohalla Paltan, Siddharth Nagar, Hingoli, Maharashtra 431513",
+    "area": "Devda Nagar, Mohalla Paltan, Siddharth Nagar",
+    "latitude": 19.7136331,
+    "longitude": 77.14860089999999,
+    "place_id": "ChIJrwPLpz5T0DsR3azMfiJrT1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrwPLpz5T0DsR3azMfiJrT1g",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:21:08"
+  }
+]

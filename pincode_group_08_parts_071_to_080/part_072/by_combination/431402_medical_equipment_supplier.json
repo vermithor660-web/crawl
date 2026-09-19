@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shulkon Healthcare Pvt Ltd",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical Equipment Manufacturer",
+    "all_categories": "Medical Equipment Manufacturer, Cosmetic Products Manufacturer, Pharmaceutical company, Surgical Products Wholesaler",
+    "pincode": "431402",
+    "phone_number": "+91 88285 08828",
+    "website": "https://www.shulkonhealthcare.com/",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Pavaneshva Flyover, MIDC Industrial Area, Pawne, Navi Mumbai, Maharashtra 400703",
+    "area": "MIDC Industrial Area, Pawne",
+    "latitude": 19.0836446,
+    "longitude": 73.0176903,
+    "place_id": "ChIJG_Nem_LB5zsR-bkdynBBj14",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG_Nem_LB5zsR-bkdynBBj14",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:58:48"
+  },
+  {
+    "business_name": "Global Hospital solutions- Best Service Provider",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Hospital equipment and supplies",
+    "all_categories": "Hospital equipment and supplies",
+    "pincode": "431402",
+    "phone_number": "+91 99704 44274",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Datta Nagar, Trimurti Nagar, Parbhani, Maharashtra 431401",
+    "area": "Datta Nagar, Trimurti Nagar",
+    "latitude": 19.2761086,
+    "longitude": 76.7617727,
+    "place_id": "ChIJlX8RPKgX0DsR0Zca62YkQ3U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlX8RPKgX0DsR0Zca62YkQ3U",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:58:50"
+  }
+]

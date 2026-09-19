@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Flora Stationers",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Handbags shop",
+    "pincode": "431510",
+    "phone_number": "+91 93015 55252",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "2, 2, Greater Kailash Road, New Palasia, Indore, Madhya Pradesh 452018",
+    "area": "New Palasia",
+    "latitude": 22.7256067,
+    "longitude": 75.8892632,
+    "place_id": "ChIJCaCyi3P9YjkRirS6GfNcPTQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCaCyi3P9YjkRirS6GfNcPTQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:16:30"
+  },
+  {
+    "business_name": "Winner Book Centre",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Art supply store, Children's Book Store, Educational supply store, Office supply store, Rare book store, Book store, Stationery wholesaler",
+    "pincode": "431510",
+    "phone_number": "+91 98671 38983",
+    "website": "https://winnerbookcentre.in/",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Opp.Bhartiya Vidya Bhuvan, Chowpatty, Mumbai, Maharashtra 400007",
+    "area": "Dadi Sheth Wadi, Malabar Hill",
+    "latitude": 18.957156299999998,
+    "longitude": 72.81022209999999,
+    "place_id": "ChIJMUDrsg7O5zsR6EazG1dsXTE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMUDrsg7O5zsR6EazG1dsXTE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:16:32"
+  }
+]

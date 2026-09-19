@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FARUKH AUTO ELECTRIC WORKS",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "431518",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Belhatthi, Uttar Pradesh 231217",
+    "area": "431518",
+    "latitude": 24.234694899999997,
+    "longitude": 83.0537013,
+    "place_id": "ChIJMcW73RnbjjkR0aYqfjeFGV0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMcW73RnbjjkR0aYqfjeFGV0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:29:36"
+  },
+  {
+    "business_name": "Shree Motors",
+    "search_category": "Auto Electrician and AC Repair",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop, Repair service",
+    "pincode": "431518",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Ambejogai Road, Kaij, Pisegaon, Maharashtra 431123",
+    "area": "431518",
+    "latitude": 18.7138498,
+    "longitude": 76.10422319999999,
+    "place_id": "ChIJKWISfWhBxTsR0DZFxd4Ss1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKWISfWhBxTsR0DZFxd4Ss1g",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:29:36"
+  }
+]

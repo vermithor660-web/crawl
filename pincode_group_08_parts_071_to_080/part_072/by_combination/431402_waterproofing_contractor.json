@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Saleem Painting contractor",
+    "search_category": "Waterproofing Contractor",
+    "primary_category": "Painting",
+    "all_categories": "Painting",
+    "pincode": "431402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Super Market, Rahim nagar, Karegaon Rd, Vakil Colony, Parbhani, Maharashtra 431401",
+    "area": "Vakil Colony",
+    "latitude": 19.2641435,
+    "longitude": 76.78313539999999,
+    "place_id": "ChIJcVhEESEZ0DsRGFCwxVJHnJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcVhEESEZ0DsRGFCwxVJHnJU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:59:07"
+  },
+  {
+    "business_name": "Ram Gavhane contractors",
+    "search_category": "Waterproofing Contractor",
+    "primary_category": "Contractor",
+    "all_categories": "Contractor",
+    "pincode": "431402",
+    "phone_number": "+91 84216 67397",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Mannath nagar, Gangakhed, Maharashtra 431514",
+    "area": "Irrigation Colony",
+    "latitude": 18.9560462,
+    "longitude": 76.7468145,
+    "place_id": "ChIJ2ys4O3vnzzsRs1Nw4fHZvyU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2ys4O3vnzzsRs1Nw4fHZvyU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:59:07"
+  }
+]

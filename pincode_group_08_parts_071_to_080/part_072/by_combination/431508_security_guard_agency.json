@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Piyush Agencies security services",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Security guard service",
+    "all_categories": "Security guard service",
+    "pincode": "431508",
+    "phone_number": "+91 93254 87808",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Plot no.132, Om Nagar, Isasani Rd, Hingna, Wagdara, Maharashtra 441110",
+    "area": "431508",
+    "latitude": 21.0863613,
+    "longitude": 78.9876137,
+    "place_id": "ChIJMSS1R36V1DsRGhqpf9dNZ6I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMSS1R36V1DsRGhqpf9dNZ6I",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:13:18"
+  },
+  {
+    "business_name": "Security",
+    "search_category": "Security Guard Agency",
+    "primary_category": "Computer security service",
+    "all_categories": "Computer security service",
+    "pincode": "431508",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sagar Nagar, Vidya Nagar, Parbhani, Maharashtra 431401",
+    "area": "Sagar Nagar, Vidya Nagar",
+    "latitude": 19.278536199999998,
+    "longitude": 76.7686477,
+    "place_id": "ChIJKWFuc5IX0DsRGAR7pMEvlLg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKWFuc5IX0DsRGAR7pMEvlLg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:13:19"
+  }
+]

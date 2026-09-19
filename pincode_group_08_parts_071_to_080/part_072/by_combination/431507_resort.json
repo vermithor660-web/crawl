@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "तुळजाभवानी हॉटेल",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431507",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "87FX+F3Q, Warkheda, Maharashtra 431506",
+    "area": "431507",
+    "latitude": 19.3237006,
+    "longitude": 76.2977274,
+    "place_id": "ChIJlZBuSgCl2jsRJDxf2MDJp1g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJlZBuSgCl2jsRJDxf2MDJp1g",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:11:14"
+  },
+  {
+    "business_name": "Caves County",
+    "search_category": "Resort",
+    "primary_category": "Resort hotel",
+    "all_categories": "Resort hotel",
+    "pincode": "431507",
+    "phone_number": "+91 87999 58461",
+    "website": "https://cavescountyresort.com/",
+    "rating": 4,
+    "reviews_count": 969,
+    "address": "19/1 VIHOLI, Mumbai - Nashik Expy, near OCTROI NAKA, next to Bharat Petrol Pump, Vilholi, Maharashtra 422010",
+    "area": "431507",
+    "latitude": 19.9335526,
+    "longitude": 73.7301665,
+    "place_id": "ChIJW-sVw92T3TsRp1hohHjdCNw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW-sVw92T3TsRp1hohHjdCNw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:11:14"
+  }
+]

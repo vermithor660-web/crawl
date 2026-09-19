@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "M T MEDICAL",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "431507",
+    "phone_number": "+91 89758 66789",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "Shop No.1, Road, near by Dimaond Digital, Markandey Nagar, Gandhinagar, Burhan Nagar, Jalna, Maharashtra 431203",
+    "area": "Markandey Nagar, Gandhinagar, Burhan Nagar",
+    "latitude": 19.8397149,
+    "longitude": 75.912277,
+    "place_id": "ChIJ_V7q_dRZ2jsRIIcAGXrE-pE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_V7q_dRZ2jsRIIcAGXrE-pE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:10:37"
+  },
+  {
+    "business_name": "Netmeds Pharmacy",
+    "search_category": "24 Hour Pharmacy",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "431507",
+    "phone_number": "+91 95277 61100",
+    "website": "https://www.netmeds.com/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gf Bharti Lawns, Tehsil Jalna Distt, Muncipality, Saklecha Nagar, Jalna, Maharashtra 431203",
+    "area": "Saklecha Nagar",
+    "latitude": 19.8516255,
+    "longitude": 75.8866228,
+    "place_id": "ChIJ9y8WlotX2jsRpXo7MTBO41E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ9y8WlotX2jsRpXo7MTBO41E",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:10:37"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vijay Narayanro",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "431401",
+    "phone_number": "+91 96576 95813",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 01, near Jintur Road, New Mondha, Parbhani, Maharashtra 431401",
+    "area": "New Mondha",
+    "latitude": 19.2641773,
+    "longitude": 76.7646172,
+    "place_id": "ChIJwzuoRYUZ0DsR0lCMzFcNhd4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJwzuoRYUZ0DsR0lCMzFcNhd4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:57:32"
+  },
+  {
+    "business_name": "Shri Swami Samarth Canteen",
+    "search_category": "Caterer and Event Planner",
+    "primary_category": "Caterer",
+    "all_categories": "Caterer",
+    "pincode": "431401",
+    "phone_number": "+91 70201 03977",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "R P Hospital, Pathri Rod, Teacher's Colony, Pedgaon, Maharashtra 431402",
+    "area": "Teacher's Colony",
+    "latitude": 19.2995339,
+    "longitude": 76.69470729999999,
+    "place_id": "ChIJaVmsxewR0DsRlZT66-ui8K8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaVmsxewR0DsRlZT66-ui8K8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:57:34"
+  }
+]

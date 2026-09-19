@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ford Automotive Repair",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Car repair and maintenance service",
+    "all_categories": "Car repair and maintenance service, Service establishment",
+    "pincode": "431502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ford Automotive Repair, 431502, India",
+    "area": "431502",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJ16JsSo55ToYRHpHQLDTUT7E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ16JsSo55ToYRHpHQLDTUT7E",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:02:27"
+  },
+  {
+    "business_name": "Chief here mobile mechanic and service",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Mechanic",
+    "all_categories": "Mechanic, Service establishment",
+    "pincode": "431502",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Chief here mobile mechanic and service, 431502, India",
+    "area": "431502",
+    "latitude": 46.423669,
+    "longitude": -129.9427086,
+    "place_id": "ChIJszcC-qjZZIgR93gBkDlCxAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJszcC-qjZZIgR93gBkDlCxAI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:02:27"
+  }
+]

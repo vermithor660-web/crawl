@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "NAZRANA HOTEL AND COLD DRINK",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Tea store",
+    "all_categories": "Tea store",
+    "pincode": "431505",
+    "phone_number": "+91 90117 78617",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8F2X 8MP, near Markaz Masjeed, Manwath, Maharashtra 431505",
+    "area": "431505",
+    "latitude": 19.3011695,
+    "longitude": 76.4993681,
+    "place_id": "ChIJZQdjzg8J0DsRIrXMiJO0cmY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJZQdjzg8J0DsRIrXMiJO0cmY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:08:19"
+  },
+  {
+    "business_name": "Chandrama Agro Industries",
+    "search_category": "Warehouse and Cold Storage",
+    "primary_category": "Cold storage facility",
+    "all_categories": "Cold storage facility",
+    "pincode": "431505",
+    "phone_number": "+91 98223 90544",
+    "website": "N/A",
+    "rating": 4.2,
+    "reviews_count": 12,
+    "address": "AT POST SAKORE MIG TAL. NIPHAD, DIST. NASHIK, Sakore MIG, Maharashtra 422207",
+    "area": "431505",
+    "latitude": 20.1406387,
+    "longitude": 73.9494684,
+    "place_id": "ChIJXSVINfHF3TsRAaiCpdtf49U",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXSVINfHF3TsRAaiCpdtf49U",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:08:20"
+  }
+]

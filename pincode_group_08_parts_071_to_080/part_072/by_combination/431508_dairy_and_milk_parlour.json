@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Dairy Farm",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Milk delivery service",
+    "all_categories": "Milk delivery service",
+    "pincode": "431508",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": 2,
+    "address": "6RW7+66, Madhav Nagar, Parbhani, Maharashtra 431402",
+    "area": "Madhav Nagar",
+    "latitude": 19.2455909,
+    "longitude": 76.8130956,
+    "place_id": "ChIJyccsegAZ0DsRTIazo2kY6fQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyccsegAZ0DsRTIazo2kY6fQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:11:56"
+  },
+  {
+    "business_name": "Patel Doodh Dairy",
+    "search_category": "Dairy and Milk Parlour",
+    "primary_category": "Dairy store",
+    "all_categories": "Dairy store",
+    "pincode": "431508",
+    "phone_number": "+91 90282 03934",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 10, Dhar Rd, near Khandoba Bazar Road, opp. Auto Line, Mumtaz Nagar, Parbhani, Maharashtra 431401",
+    "area": "Mumtaz Nagar",
+    "latitude": 19.2725482,
+    "longitude": 76.781565,
+    "place_id": "ChIJ8YlBWvAZ0DsRY_yaoHGzLz8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8YlBWvAZ0DsRY_yaoHGzLz8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:11:56"
+  }
+]

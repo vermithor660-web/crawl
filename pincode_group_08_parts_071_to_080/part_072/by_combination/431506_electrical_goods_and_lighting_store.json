@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sharda electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Lighting store",
+    "all_categories": "Lighting store, Light bulb supplier, Electrical equipment supplier, Pipe supplier",
+    "pincode": "431506",
+    "phone_number": "+91 94040 21901",
+    "website": "https://instagram.com/sharda_electricals?utm_medium=copy_link",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Post Office Rd, Phule Nagar, Sirsat Galli, Majalgaon, Maharashtra 431131",
+    "area": "Phule Nagar, Sirsat Galli",
+    "latitude": 19.1537328,
+    "longitude": 76.21293229999999,
+    "place_id": "ChIJQ2SLEjKx2jsRyAt3PsvasPo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJQ2SLEjKx2jsRyAt3PsvasPo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:09:13"
+  },
+  {
+    "business_name": "Surya Electronics",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store, Electrical supply store",
+    "pincode": "431506",
+    "phone_number": "+91 98604 63815",
+    "website": "N/A",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "Beed Road, Shivaji Nagar, Majalgaon, Maharashtra 431131",
+    "area": "Shivaji Nagar",
+    "latitude": 19.159999799999998,
+    "longitude": 76.2082563,
+    "place_id": "ChIJ7UmViWyx2jsRhNq-IQ84974",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7UmViWyx2jsRhNq-IQ84974",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:09:14"
+  }
+]

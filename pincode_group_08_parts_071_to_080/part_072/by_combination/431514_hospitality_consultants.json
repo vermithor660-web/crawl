@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anviyaa hospitality",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "431514",
+    "phone_number": "+91 98199 52811",
+    "website": "https://www.anviyaahospitality.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2062,gr, RUSTOMJEE EAZE ZONE MALL, Eaze Zone Mall, Malad, Sunder Nagar, Malad West, Mumbai, Maharashtra 400064",
+    "area": "Malad, Sunder Nagar, Malad West",
+    "latitude": 19.1743553,
+    "longitude": 72.8413538,
+    "place_id": "ChIJDcRouyu35zsRHoFy8Ao5j6E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJDcRouyu35zsRHoFy8Ao5j6E",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:23:17"
+  },
+  {
+    "business_name": "AVM Consultancy",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Lodging",
+    "all_categories": "Lodging",
+    "pincode": "431514",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "XP5X+RQ5, Venkteshnagar Colony Rd, Sant Janabai Colony, Gangakhed, Maharashtra 431514",
+    "area": "Sant Janabai Colony",
+    "latitude": 18.9595174,
+    "longitude": 76.74948409999999,
+    "place_id": "ChIJu3QGvpHmzzsRsFBSGMZcIlA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu3QGvpHmzzsRsFBSGMZcIlA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:23:17"
+  }
+]

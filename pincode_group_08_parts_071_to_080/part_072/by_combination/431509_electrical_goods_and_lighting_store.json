@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Deepak Electrical",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electronics store",
+    "all_categories": "Electronics store",
+    "pincode": "431509",
+    "phone_number": "+91 98608 79979",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Shop No, 02, Nehru Rd, Gandhi Park, Parbhani, Maharashtra 431401",
+    "area": "Gandhi Park",
+    "latitude": 19.2634538,
+    "longitude": 76.77182069999999,
+    "place_id": "ChIJ54KngSsZ0DsRnovguryHUtw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ54KngSsZ0DsRnovguryHUtw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:14:22"
+  },
+  {
+    "business_name": "New Pritam Electricals",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "431509",
+    "phone_number": "+91 99707 06699",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 8,
+    "address": "Mahavir Chowk, Hingoli, Maharashtra 431513",
+    "area": "Mahavir Chowk",
+    "latitude": 19.7156921,
+    "longitude": 77.14156109999999,
+    "place_id": "ChIJM3zO5lNS0DsROJAY3NXz1mk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM3zO5lNS0DsROJAY3NXz1mk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:14:23"
+  }
+]

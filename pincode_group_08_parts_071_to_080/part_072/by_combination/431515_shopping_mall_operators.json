@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "K.P. Mall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "431515",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 28,
+    "address": "XQR2+2V7, Chatrapati Shivaji Maharaj Chowk, Nagar Road, Beed, Maharashtra 431122",
+    "area": "Nagar Road",
+    "latitude": 18.9900263,
+    "longitude": 75.7521604,
+    "place_id": "ChIJJXXeUwArxTsRvrQxGVHpvuk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJXXeUwArxTsRvrQxGVHpvuk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:25:34"
+  },
+  {
+    "business_name": "Kedareshwar Udyog Samuh",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Bus tour agency",
+    "all_categories": "Bus tour agency",
+    "pincode": "431515",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Deshmukh Complex, Mondha Market, near Paliwal Complex, Azad Nagar, Parli Vaijnath, Maharashtra 431515",
+    "area": "Azad Nagar",
+    "latitude": 18.851069199999998,
+    "longitude": 76.5297575,
+    "place_id": "ChIJXVNEnen3zzsRz9ANw38KSJY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXVNEnen3zzsRz9ANw38KSJY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:25:35"
+  }
+]

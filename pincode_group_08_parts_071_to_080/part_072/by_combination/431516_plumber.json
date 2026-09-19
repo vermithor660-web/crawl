@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shashi plumber",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "431516",
+    "phone_number": "+91 83698 49246",
+    "website": "https://plambar.com/8369849246",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Chhatrapati Shivaji Maharaj Chowk, thana naka, Line Ali, Old Panvel, Panvel, karanjade, Panvel, Maharashtra 410206",
+    "area": "thana naka, Line Ali, Old Panvel, Panvel",
+    "latitude": 18.987753899999998,
+    "longitude": 73.11236199999999,
+    "place_id": "ChIJMYd-LWbp5zsRRhsx1UZyEBg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMYd-LWbp5zsRRhsx1UZyEBg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:26:23"
+  },
+  {
+    "business_name": "Keerti Enterprises",
+    "search_category": "Plumber",
+    "primary_category": "Pipes Wholesaler",
+    "all_categories": "Pipes Wholesaler, Agricultural service",
+    "pincode": "431516",
+    "phone_number": "+91 77700 18441",
+    "website": "http://www.keertionline.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Yash Plaza, Kawa Rd, near Shivneri Gate, near Punjab National Bank, Jay Nagar, Moti Nagar, Latur, Maharashtra 413512",
+    "area": "Jay Nagar, Moti Nagar",
+    "latitude": 18.3947654,
+    "longitude": 76.5816231,
+    "place_id": "ChIJtwCR7LyDzzsRiEAS4jkwRl4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJtwCR7LyDzzsRiEAS4jkwRl4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:26:24"
+  }
+]

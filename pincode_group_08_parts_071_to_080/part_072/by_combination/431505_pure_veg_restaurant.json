@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mauli pure veg family restaurant",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431505",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "69G9+2CF, State Highway 148, Dhalegaon, Maharashtra 431506",
+    "area": "431505",
+    "latitude": 19.2250649,
+    "longitude": 76.36855179999999,
+    "place_id": "ChIJ41t-J_Kp2jsRQdreFOHYvWc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ41t-J_Kp2jsRQdreFOHYvWc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:07:00"
+  },
+  {
+    "business_name": "Hotel Sant Kripa And Rasvanti Gruh",
+    "search_category": "Pure Veg Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Tea store",
+    "pincode": "431505",
+    "phone_number": "+91 82375 24399",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No 1 New By Bass, near Jijau School, Manwat Road, Maharashtra 431505",
+    "area": "431505",
+    "latitude": 19.351667799999998,
+    "longitude": 76.5306829,
+    "place_id": "ChIJ5VoeRXQL0DsRnnlqoEiPAGw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ5VoeRXQL0DsRnnlqoEiPAGw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:07:01"
+  }
+]

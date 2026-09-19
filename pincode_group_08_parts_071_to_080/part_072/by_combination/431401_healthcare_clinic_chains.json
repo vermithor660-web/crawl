@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Manwatkar Chest Hospital",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "Gavhane Rd, New Mondha, Parbhani, Maharashtra 431401",
+    "area": "New Mondha",
+    "latitude": 19.2641813,
+    "longitude": 76.7685644,
+    "place_id": "ChIJcfU8d9AZ0DsRFWCT4X8q1ac",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcfU8d9AZ0DsRFWCT4X8q1ac",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:57:04"
+  },
+  {
+    "business_name": "SANE HOSPITAL",
+    "search_category": "Healthcare Clinic Chains",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431401",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Unnamed Road, Aziziya Nagar, Parbhani, Maharashtra 431401",
+    "area": "Aziziya Nagar",
+    "latitude": 19.262182,
+    "longitude": 76.75819659999999,
+    "place_id": "ChIJMetyON0Z0DsRaLaKSw4TKJk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMetyON0Z0DsRaLaKSw4TKJk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:57:05"
+  }
+]

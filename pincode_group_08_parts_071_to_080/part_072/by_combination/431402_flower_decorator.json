@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mazhar flowers Shop",
+    "search_category": "Flower Decorator",
+    "primary_category": "Florist",
+    "all_categories": "Florist",
+    "pincode": "431402",
+    "phone_number": "+91 82375 17017",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 15,
+    "address": "8F2W+M3R, Manwath, Maharashtra 431505",
+    "area": "431402",
+    "latitude": 19.3017354,
+    "longitude": 76.4951499,
+    "place_id": "ChIJbwqL6qwJ0DsRVJAshuiOE6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbwqL6qwJ0DsRVJAshuiOE6s",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:59:15"
+  },
+  {
+    "business_name": "Sai Flower merchant",
+    "search_category": "Flower Decorator",
+    "primary_category": "Flower designer",
+    "all_categories": "Flower designer",
+    "pincode": "431402",
+    "phone_number": "+91 99237 33446",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": 11,
+    "address": "75MJ+3CG Besides Janata sahakari bank , Datta chowk, ST stand road Mangalwar Peth, Karad, Maharashtra 415110",
+    "area": "Mangalwar Peth",
+    "latitude": 17.282693899999998,
+    "longitude": 74.1810781,
+    "place_id": "ChIJk1JGx9mDwTsRE4IIaJygeUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJk1JGx9mDwTsRE4IIaJygeUs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:59:18"
+  }
+]

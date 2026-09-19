@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "saicom network",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Software company",
+    "all_categories": "Software company",
+    "pincode": "431521",
+    "phone_number": "+91 98238 59399",
+    "website": "https://saicomnetwork.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "HF24+HM9, MH SH 33, Dabhadi, Maharashtra 423201",
+    "area": "431521",
+    "latitude": 20.5514154,
+    "longitude": 74.4567221,
+    "place_id": "ChIJe0k45mCa3jsR533jy2KgNvI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe0k45mCa3jsR533jy2KgNvI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:35:37"
+  },
+  {
+    "business_name": "SMB Engineers",
+    "search_category": "SaaS Companies Selling to SMBs",
+    "primary_category": "Corporate office",
+    "all_categories": "Corporate office",
+    "pincode": "431521",
+    "phone_number": "+91 91292 56786",
+    "website": "https://smbengineers.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "C-234, MIDC, Waluj, Pandharpur, Maharashtra 431136",
+    "area": "MIDC, Waluj",
+    "latitude": 19.8305976,
+    "longitude": 75.2472074,
+    "place_id": "ChIJNaRb7d-b2zsRYxuWJ_xvRPg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJNaRb7d-b2zsRYxuWJ_xvRPg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:35:37"
+  }
+]

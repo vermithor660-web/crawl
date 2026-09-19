@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Babu Cycle Stores",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Motorcycle shop",
+    "all_categories": "Motorcycle shop",
+    "pincode": "431503",
+    "phone_number": "+91 91300 27830",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "SHOP NO 3, Nehru Rd, opp. Shahi Masjid, Gandhi Park, Parbhani, Maharashtra 431401",
+    "area": "Gandhi Park",
+    "latitude": 19.2656544,
+    "longitude": 76.77438479999999,
+    "place_id": "ChIJe-HO6jYZ0DsRWvgPlNnBBO8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe-HO6jYZ0DsRWvgPlNnBBO8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:04:03"
+  },
+  {
+    "business_name": "Cycle-Stand",
+    "search_category": "Bicycle Shop and Repair",
+    "primary_category": "Parking lot for bicycles",
+    "all_categories": "Parking lot for bicycles",
+    "pincode": "431503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 2,
+    "address": "Bal Vidyamandir Highschool, Nanalpeth, Shastri Nagar, Parbhani, Maharashtra 431401",
+    "area": "Nanalpeth, Shastri Nagar",
+    "latitude": 19.2734856,
+    "longitude": 76.77012979999999,
+    "place_id": "ChIJEZkA3NcZ0DsRuAv_CxAlG-Y",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJEZkA3NcZ0DsRuAv_CxAlG-Y",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:04:04"
+  }
+]

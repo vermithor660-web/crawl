@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Lazziz Pizza",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Pizza restaurant",
+    "all_categories": "Pizza restaurant, Fast food restaurant, Vegetarian restaurant",
+    "pincode": "431517",
+    "phone_number": "+91 2446 247 450",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 334,
+    "address": "P9HP+7M7, Prashant Nagar, Saigon Naka, Morewadi, Ambajogai, Maharashtra 431515",
+    "area": "Prashant Nagar, Saigon Naka, Morewadi",
+    "latitude": 18.7281504,
+    "longitude": 76.3866795,
+    "place_id": "ChIJif5mqGBexTsRjXjLgGZNaNY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJif5mqGBexTsRjXjLgGZNaNY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:27:29"
+  },
+  {
+    "business_name": "Radhe krishna tiffin service and mess",
+    "search_category": "Tiffin Center and Mess",
+    "primary_category": "Student union",
+    "all_categories": "Student union",
+    "pincode": "431517",
+    "phone_number": "+91 70209 92770",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Hanuman mandir sawargaon, Gandhi Nagar, Kalamb, Maharashtra 413507",
+    "area": "Gandhi Nagar",
+    "latitude": 18.575700299999998,
+    "longitude": 76.02468449999999,
+    "place_id": "ChIJYdEcQ9IVxTsRxbF-1fjYPaw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYdEcQ9IVxTsRxbF-1fjYPaw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:27:31"
+  }
+]

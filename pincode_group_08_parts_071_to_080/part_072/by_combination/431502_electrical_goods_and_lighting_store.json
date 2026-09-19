@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "National Electronics",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Appliance store",
+    "all_categories": "Appliance store",
+    "pincode": "431502",
+    "phone_number": "+91 94035 30473",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "National Elctronics, Opp Z P Office , Aurangpura, Aura, near Amba Apsara Theathre, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Naralibag",
+    "latitude": 19.885003299999997,
+    "longitude": 75.32622719999999,
+    "place_id": "ChIJKZKKCxOY2zsR67Gytbw8vY8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKZKKCxOY2zsR67Gytbw8vY8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:02:27"
+  },
+  {
+    "business_name": "JD Exide Care and Batteries",
+    "search_category": "Electrical Goods and Lighting Store",
+    "primary_category": "Electrical supply store",
+    "all_categories": "Electrical supply store",
+    "pincode": "431502",
+    "phone_number": "+91 98221 41771",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 16,
+    "address": "FC5M+MPP, front of rest house, Selu,, Sarvodaya Nagar, Sailu, Maharashtra 431503",
+    "area": "Sarvodaya Nagar",
+    "latitude": 19.459215999999998,
+    "longitude": 76.43432709999999,
+    "place_id": "ChIJn9dxGcCf2jsR47TfZeERhx0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn9dxGcCf2jsR47TfZeERhx0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:02:28"
+  }
+]

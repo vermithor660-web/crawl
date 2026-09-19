@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivmalhar Amrutulya",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "431516",
+    "phone_number": "+91 90223 29300",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop No 01, Tel Bhare Chok, Parli Road, Sonpeth, Maharashtra 431516",
+    "area": "431516",
+    "latitude": 19.0274063,
+    "longitude": 76.47733219999999,
+    "place_id": "ChIJfRFLDAX_zzsRnRWVuz1U00M",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJfRFLDAX_zzsRnRWVuz1U00M",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:25:51"
+  },
+  {
+    "business_name": "Shinde hotel sonpeth",
+    "search_category": "Cafe and Coffee Shop",
+    "primary_category": "Coffee shop",
+    "all_categories": "Coffee shop",
+    "pincode": "431516",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2FGG+WQF, Sonpeth, Maharashtra 431516",
+    "area": "431516",
+    "latitude": 19.027302799999998,
+    "longitude": 76.4769309,
+    "place_id": "ChIJu5LRxML_zzsRFIY5oD1pJrY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu5LRxML_zzsRFIY5oD1pJrY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:25:51"
+  }
+]

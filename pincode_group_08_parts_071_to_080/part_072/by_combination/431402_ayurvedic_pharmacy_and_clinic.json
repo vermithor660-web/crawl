@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ayurveda Clinic",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Pharmacy",
+    "all_categories": "Pharmacy",
+    "pincode": "431402",
+    "phone_number": "+91 98992 99009",
+    "website": "N/A",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "73, Vasant Kunj Rd, K-Block, Andheria Mor Village, New, South, New Delhi, Delhi 110037",
+    "area": "K-Block, Andheria Mor Village, New, South",
+    "latitude": 28.5436442,
+    "longitude": 77.1284756,
+    "place_id": "ChIJG1sTBz8cDTkR-5iqgITN2u0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJG1sTBz8cDTkR-5iqgITN2u0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:58:41"
+  },
+  {
+    "business_name": "Sagar medical",
+    "search_category": "Ayurvedic Pharmacy and Clinic",
+    "primary_category": "Medical Center",
+    "all_categories": "Medical Center",
+    "pincode": "431402",
+    "phone_number": "+91 99700 78697",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 3,
+    "address": "Dr. Zaker Husaain College Rd, Dr.Zakir Hussain Nagar, Parbhani, Maharashtra 431401",
+    "area": "Dr.Zakir Hussain Nagar",
+    "latitude": 19.271442399999998,
+    "longitude": 76.7769667,
+    "place_id": "ChIJMSxfgikZ0DsRGI4VWh_6MBI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMSxfgikZ0DsRGI4VWh_6MBI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:58:42"
+  }
+]

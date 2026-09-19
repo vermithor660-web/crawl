@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Veterinary hospital",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431513",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "W5CF+QM8, Hingoli, Phalegaon, Maharashtra 431513",
+    "area": "431513",
+    "latitude": 19.921917399999998,
+    "longitude": 77.1742184,
+    "place_id": "ChIJMQlLLJD_0DsR5qTZTCHniLA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMQlLLJD_0DsR5qTZTCHniLA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:20:56"
+  },
+  {
+    "business_name": "पशु वैद्यकीय दवाखाना, मोघाळी",
+    "search_category": "Veterinary Clinic and Pet Hospital",
+    "primary_category": "Animal hospital",
+    "all_categories": "Animal hospital",
+    "pincode": "431513",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "4MFQ+5FC, Dharjani, Road, Moghali, Bhokar, Maharashtra 431801",
+    "area": "431513",
+    "latitude": 19.1229486,
+    "longitude": 77.6886335,
+    "place_id": "ChIJCYBtNgAdzjsRetmmL2jQLKI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCYBtNgAdzjsRetmmL2jQLKI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:20:59"
+  }
+]

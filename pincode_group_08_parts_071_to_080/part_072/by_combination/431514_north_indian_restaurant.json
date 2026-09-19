@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Janai Hotel",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant",
+    "pincode": "431514",
+    "phone_number": "+91 97679 79705",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Gangakhed, Margalwadi, Maharashtra 431514",
+    "area": "431514",
+    "latitude": 18.9511796,
+    "longitude": 76.7386793,
+    "place_id": "ChIJWaKz4oPmzzsR1T2z_9C3-vg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJWaKz4oPmzzsR1T2z_9C3-vg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:22:22"
+  },
+  {
+    "business_name": "Curry Leaf Family Restaurant",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431514",
+    "phone_number": "+91 76664 75919",
+    "website": "N/A",
+    "rating": 4.8,
+    "reviews_count": 534,
+    "address": "NH 361, behind the petrol pump, Malakoli, Maharashtra 431708",
+    "area": "431514",
+    "latitude": 18.883085299999998,
+    "longitude": 77.062863,
+    "place_id": "ChIJ27gyZzPPzzsR9bJ9XRijY_Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ27gyZzPPzzsR9bJ9XRijY_Q",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:22:23"
+  }
+]

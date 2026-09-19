@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "DTDC Courier",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Courier service",
+    "all_categories": "Courier service, Service establishment",
+    "pincode": "431521",
+    "phone_number": "+91 97668 25796",
+    "website": "N/A",
+    "rating": 3.1,
+    "reviews_count": null,
+    "address": "DTDC Courier, 431521, India",
+    "area": "431521",
+    "latitude": 21.0680074,
+    "longitude": 82.7525294,
+    "place_id": "ChIJV5giy40Z0DsRyU2OsniSKQ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV5giy40Z0DsRyU2OsniSKQ8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:35:21"
+  },
+  {
+    "business_name": "DTDC Kuriyar Sewa",
+    "search_category": "Courier and Cargo Service",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "431521",
+    "phone_number": "+91 86260 12344",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No1, Jintur Rd, Shivaji Nagar, Parbhani, Maharashtra 431401",
+    "area": "Shivaji Nagar",
+    "latitude": 19.2735208,
+    "longitude": 76.76078129999999,
+    "place_id": "ChIJe3g22q8X0DsR2-a7i_pGZAI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe3g22q8X0DsR2-a7i_pGZAI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:35:21"
+  }
+]

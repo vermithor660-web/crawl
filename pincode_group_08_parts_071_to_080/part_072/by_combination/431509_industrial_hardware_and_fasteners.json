@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kalinka Hardware And Machinery",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store, Agricultural service, Safety equipment supplier",
+    "pincode": "431509",
+    "phone_number": "+91 90118 31955",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 2,
+    "address": "Sengaon, Maharashtra 431542",
+    "area": "431509",
+    "latitude": 19.7910543,
+    "longitude": 76.8843964,
+    "place_id": "ChIJ91iM2hJf0DsR3PhMcPyr1lg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ91iM2hJf0DsR3PhMcPyr1lg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:15:06"
+  },
+  {
+    "business_name": "Vikas Machinery & Riwanding",
+    "search_category": "Industrial Hardware and Fasteners",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "431509",
+    "phone_number": "+91 75881 61988",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No, 01, Yeldari Road, New Mondha, Jintur, Parbhani, Maharashtra 431401",
+    "area": "New Mondha",
+    "latitude": 19.2642874,
+    "longitude": 76.7664045,
+    "place_id": "ChIJ00btPS4Z0DsRxtbsc-Ehjao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ00btPS4Z0DsRxtbsc-Ehjao",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:15:07"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kuku chickens",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Poultry farm",
+    "all_categories": "Poultry farm",
+    "pincode": "431509",
+    "phone_number": "N/A",
+    "website": "https://replit.com/@ingolevaibhav67/Gopal-Poultry-Farm",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "मारोती मंदीर, Jawala Bk., Maharashtra 431513",
+    "area": "431509",
+    "latitude": 19.8311006,
+    "longitude": 77.0020737,
+    "place_id": "ChIJ8W3uCMlZ0DsRUe_RMxFGNg0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ8W3uCMlZ0DsRUe_RMxFGNg0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:13:43"
+  },
+  {
+    "business_name": "Biriyani Hotel",
+    "search_category": "Meat and Poultry Shop",
+    "primary_category": "Chicken & Mutton Shop",
+    "all_categories": "Chicken & Mutton Shop",
+    "pincode": "431509",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Paltan Masjid Tabela, near by Ambekar Hall, Siddharth Nagar, Hingoli, Maharashtra 431513",
+    "area": "Siddharth Nagar",
+    "latitude": 19.7169773,
+    "longitude": 77.14356269999999,
+    "place_id": "ChIJX4yzfQBT0DsRMw_hDAvRl30",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJX4yzfQBT0DsRMw_hDAvRl30",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:13:43"
+  }
+]

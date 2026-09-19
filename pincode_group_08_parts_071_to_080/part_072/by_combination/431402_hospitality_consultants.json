@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "VISHWAJEET SCIENCE ACADEMY",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Educational institution",
+    "all_categories": "Educational institution, Service establishment",
+    "pincode": "431402",
+    "phone_number": "+91 88304 61980",
+    "website": "https://vsag.com/",
+    "rating": 1,
+    "reviews_count": null,
+    "address": "VISHWAJEET SCIENCE ACADEMY, 431402, India",
+    "area": "431402",
+    "latitude": 18.9678962,
+    "longitude": 76.751897,
+    "place_id": "ChIJF4fXe-4BtSgRF92cR4OcCMo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF4fXe-4BtSgRF92cR4OcCMo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:59:21"
+  },
+  {
+    "business_name": "IRAROOT HOSPITALITY PRIVATE LIMITED",
+    "search_category": "Hospitality Consultants",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant",
+    "pincode": "431402",
+    "phone_number": "+91 70570 57111",
+    "website": "https://iraroot.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "Unnamed Road, Kanerkar Nagar, Kolhapur, Maharashtra 416010",
+    "area": "Kanerkar Nagar",
+    "latitude": 16.674216899999998,
+    "longitude": 74.1919226,
+    "place_id": "ChIJY8PV44mrwTsRGnbGN_RYKR0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJY8PV44mrwTsRGnbGN_RYKR0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:59:23"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Somani Computers",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "431517",
+    "phone_number": "+91 97300 67909",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": 18,
+    "address": "P378+9FQ, Kaij, Maharashtra 431123",
+    "area": "431517",
+    "latitude": 18.7134727,
+    "longitude": 76.06623859999999,
+    "place_id": "ChIJqwxWUx0_xTsRB6JAZeBVmak",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqwxWUx0_xTsRB6JAZeBVmak",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:28:32"
+  },
+  {
+    "business_name": "Vaibhav Computer sale & sarvices",
+    "search_category": "Computer Sales and Laptop Repair",
+    "primary_category": "Computer repair service",
+    "all_categories": "Computer repair service",
+    "pincode": "431517",
+    "phone_number": "+91 95616 53520",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "Kaij - Sabla Rd, Kaij, Maharashtra 431123",
+    "area": "431517",
+    "latitude": 18.717383599999998,
+    "longitude": 76.066367,
+    "place_id": "ChIJp-PpvnM_xTsRIUMAxzDl-9g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJp-PpvnM_xTsRIUMAxzDl-9g",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:28:33"
+  }
+]

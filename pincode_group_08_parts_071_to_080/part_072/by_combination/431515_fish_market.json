@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fish Market",
+    "search_category": "Fish Market",
+    "primary_category": "Supermarket",
+    "all_categories": "Supermarket",
+    "pincode": "431515",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "VG3H+378, Vidyanagar, Parli Vaijnath, Maharashtra 431515",
+    "area": "Vidyanagar",
+    "latitude": 18.8526685,
+    "longitude": 76.5282096,
+    "place_id": "ChIJm5LQtT33zzsR1pP29yhbiuk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm5LQtT33zzsR1pP29yhbiuk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:24:00"
+  },
+  {
+    "business_name": "Sk fish shop",
+    "search_category": "Fish Market",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "431515",
+    "phone_number": "+91 72761 00383",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Housing society, Jaywanti Nagar, Ambajogai, Maharashtra 431517",
+    "area": "Jaywanti Nagar",
+    "latitude": 18.728832,
+    "longitude": 76.3877092,
+    "place_id": "ChIJecLRcYVfxTsR0TO3nNvtAow",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJecLRcYVfxTsR0TO3nNvtAow",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:24:01"
+  }
+]

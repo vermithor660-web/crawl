@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "FRESH O JUICE & SHAKES",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "Juice shop",
+    "all_categories": "Juice shop, Cafe",
+    "pincode": "431521",
+    "phone_number": "+91 70388 16289",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Daiva Bharti Hospital, Kanchanwadi, Chhatrapati Sambhajinagar, Maharashtra 431011",
+    "area": "Kanchanwadi",
+    "latitude": 19.8327112,
+    "longitude": 75.28952699999999,
+    "place_id": "ChIJrazLwg-Z2zsR3yIb1qNfgyM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrazLwg-Z2zsR3yIb1qNfgyM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:34:06"
+  },
+  {
+    "business_name": "Shree Juice & Rasvanti Center",
+    "search_category": "Juice Center and Milkshake Bar",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431521",
+    "phone_number": "+91 94040 41116",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "Shop 7, Main Road, Mahavir Nagar, Purna, Maharashtra 431511",
+    "area": "Mahavir Nagar",
+    "latitude": 19.1834418,
+    "longitude": 77.03863559999999,
+    "place_id": "ChIJ4Y4jXusp0DsRWpSmr4jrFf0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4Y4jXusp0DsRWpSmr4jrFf0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:34:07"
+  }
+]

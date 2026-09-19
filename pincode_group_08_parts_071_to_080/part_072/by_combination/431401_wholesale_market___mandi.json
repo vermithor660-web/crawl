@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Market (Thursday)",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "431401",
+    "phone_number": "+91 78208 01092",
+    "website": "N/A",
+    "rating": 4.7,
+    "reviews_count": null,
+    "address": "Shop No 7, Murtuza Colony, Khassab Galli, Pathri, Manwat Rural, Maharashtra 431505",
+    "area": "431401",
+    "latitude": 19.2903281,
+    "longitude": 76.5085762,
+    "place_id": "ChIJqzL6MOan2jsRWZnVhTzUViQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJqzL6MOan2jsRWZnVhTzUViQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:58:15"
+  },
+  {
+    "business_name": "Ayyub Enterprises",
+    "search_category": "Wholesale Market / Mandi",
+    "primary_category": "Market",
+    "all_categories": "Market",
+    "pincode": "431401",
+    "phone_number": "+91 98227 97186",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Shop No 01, Chand Tara Chowk, opp. Star Pan Shop, Police Colony, Gangakhed, Maharashtra 431514",
+    "area": "Police Colony",
+    "latitude": 18.966285799999998,
+    "longitude": 76.7505054,
+    "place_id": "ChIJy32-UgjnzzsR6szD4_RKAEo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy32-UgjnzzsR6szD4_RKAEo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:58:15"
+  }
+]

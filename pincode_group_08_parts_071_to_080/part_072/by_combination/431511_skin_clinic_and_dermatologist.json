@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bagal Hospital",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "Hospital",
+    "all_categories": "Hospital",
+    "pincode": "431511",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "85H3+3JP, Mondha Rd, Khajipura, Basmat, Maharashtra 431512",
+    "area": "Khajipura",
+    "latitude": 19.327712299999998,
+    "longitude": 77.1540924,
+    "place_id": "ChIJF2sZgfQy0DsRNRfYb91ZPjg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF2sZgfQy0DsRNRfYb91ZPjg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:17:25"
+  },
+  {
+    "business_name": "Sanghai Clinic",
+    "search_category": "Skin Clinic and Dermatologist",
+    "primary_category": "ENT Specialist",
+    "all_categories": "ENT Specialist",
+    "pincode": "431511",
+    "phone_number": "+91 98504 19716",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": null,
+    "address": "Shop no 1, Mama chauk, Mama Chowk Vasmat, Basmat, Maharashtra 431512",
+    "area": "Khajipura",
+    "latitude": 19.327282399999998,
+    "longitude": 77.15543579999999,
+    "place_id": "ChIJRxy6AZgz0DsRROYeJmIT9so",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJRxy6AZgz0DsRROYeJmIT9so",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:17:25"
+  }
+]

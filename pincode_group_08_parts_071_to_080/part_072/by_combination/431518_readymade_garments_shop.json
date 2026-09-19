@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SACHIN CLOTH CENTRE",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431518",
+    "phone_number": "+91 96370 51492",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shoo No 5, Main Road, Chanai, Warapgaon, Maharashtra 431517",
+    "area": "431518",
+    "latitude": 18.676423099999997,
+    "longitude": 76.3035206,
+    "place_id": "ChIJJSDpxbNnxTsRP1Nr0G8HfA0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJSDpxbNnxTsRP1Nr0G8HfA0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:29:14"
+  },
+  {
+    "business_name": "Saheli Shoppee",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431518",
+    "phone_number": "+91 83560 09980",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 5,
+    "address": "Ground Floor, Shop 1 Dc Lodha Square, Subash Rd, near Sathe Chowk, Beed, Maharashtra 431122",
+    "area": "Bir",
+    "latitude": 18.9936527,
+    "longitude": 75.7543711,
+    "place_id": "ChIJmwOH7_IrxTsR2_1erZQ9YyE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJmwOH7_IrxTsR2_1erZQ9YyE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:29:14"
+  }
+]

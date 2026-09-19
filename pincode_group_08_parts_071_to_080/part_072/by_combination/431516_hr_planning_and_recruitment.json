@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Peoplewise Solutions Ltd",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "431516",
+    "phone_number": "N/A",
+    "website": "https://www.peoplewisesolutions.co.uk/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Peoplewise Solutions Ltd, 431516, India",
+    "area": "431516",
+    "latitude": 51.6794308,
+    "longitude": -0.7490213,
+    "place_id": "ChIJkwAloe1c9GcRWKHeGZ8VJ6o",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkwAloe1c9GcRWKHeGZ8VJ6o",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:26:58"
+  },
+  {
+    "business_name": "Clark Human Resources",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "431516",
+    "phone_number": "07503 742237",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Clark Human Resources, 431516, India",
+    "area": "431516",
+    "latitude": 47.73855,
+    "longitude": 12.508827499999999,
+    "place_id": "ChIJO-9cHdC4tUURkoUcqSqMYTc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJO-9cHdC4tUURkoUcqSqMYTc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:26:59"
+  }
+]

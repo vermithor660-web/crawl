@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Student Book Depot",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Book store",
+    "all_categories": "Book store",
+    "pincode": "431519",
+    "phone_number": "+91 94158 82282",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": 6,
+    "address": "627M+3WR, Renukoot, Uttar Pradesh 231217",
+    "area": "431519",
+    "latitude": 24.2127277,
+    "longitude": 83.0347551,
+    "place_id": "ChIJ0zd7uFfajjkRr4e_zTnN4n0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ0zd7uFfajjkRr4e_zTnN4n0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:31:46"
+  },
+  {
+    "business_name": "Abhishek Pustak Bhandar",
+    "search_category": "Bookstore and Stationery Shop",
+    "primary_category": "Stationery store",
+    "all_categories": "Stationery store, Beverage Store, Plastic Bags Wholesaler",
+    "pincode": "431519",
+    "phone_number": "+91 95988 52381",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Ranipur, Uttar Pradesh 233234",
+    "area": "431519",
+    "latitude": 25.587563499999998,
+    "longitude": 83.8390015,
+    "place_id": "ChIJUQWoD5wJkjkRnz97fYn0lJg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJUQWoD5wJkjkRnz97fYn0lJg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:31:46"
+  }
+]

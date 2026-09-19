@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vinayak Mobile",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store, Electronics store",
+    "pincode": "431509",
+    "phone_number": "+91 94036 66111",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Maharana Pratap Chowk, Maharashtra 431513",
+    "area": "Bhatt Colony, Siddharth Nagar",
+    "latitude": 19.7178585,
+    "longitude": 77.1433115,
+    "place_id": "ChIJkzqg9lRS0DsRPXDy3u5FYr8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkzqg9lRS0DsRPXDy3u5FYr8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:14:55"
+  },
+  {
+    "business_name": "Mi Store (Indira Agencies)",
+    "search_category": "Mobile Phone Sales and Repair",
+    "primary_category": "Cell phone store",
+    "all_categories": "Cell phone store",
+    "pincode": "431509",
+    "phone_number": "+91 94046 29900",
+    "website": "N/A",
+    "rating": 4.6,
+    "reviews_count": null,
+    "address": "Post Office Rd, near Axis Bank - Hingoli, Bhatt Colony, Siddharth Nagar, Hingoli, Maharashtra 431513",
+    "area": "Bhatt Colony, Siddharth Nagar",
+    "latitude": 19.717914699999998,
+    "longitude": 77.1436447,
+    "place_id": "ChIJM0IZeM1T0DsRN69763huCb0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJM0IZeM1T0DsRN69763huCb0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:14:55"
+  }
+]

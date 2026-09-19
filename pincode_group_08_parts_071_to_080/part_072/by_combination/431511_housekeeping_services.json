@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Rudrayani",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Cleaning Services",
+    "all_categories": "Cleaning Services",
+    "pincode": "431511",
+    "phone_number": "+91 96575 37000",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "C/o GOPALSA VANKOBASA, PURUSHARTHI H. SOCIETY, Maharashtra 431605",
+    "area": "431511",
+    "latitude": 19.186128399999998,
+    "longitude": 77.17152279999999,
+    "place_id": "ChIJ_____z8r0DsRSiRQiKgm_Ls",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_____z8r0DsRSiRQiKgm_Ls",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:18:20"
+  },
+  {
+    "business_name": "VITS Bharat Nanded",
+    "search_category": "Housekeeping Services",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431511",
+    "phone_number": "+91 87670 15550",
+    "website": "https://www.vitshotels.com/nanded/",
+    "rating": 4.1,
+    "reviews_count": null,
+    "address": "Bharat E-square Multiplex Building, Canal Road, near D-Mart, Dyaneshwer Nagar, Tirumala Nagar, Nanded, Wadi Bk., Maharashtra 431605",
+    "area": "Dyaneshwer Nagar, Tirumala Nagar",
+    "latitude": 19.1951188,
+    "longitude": 77.2795379,
+    "place_id": "ChIJ2RRWKIbV0TsRcb3ukljjHio",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ2RRWKIbV0TsRcb3ukljjHio",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:18:23"
+  }
+]

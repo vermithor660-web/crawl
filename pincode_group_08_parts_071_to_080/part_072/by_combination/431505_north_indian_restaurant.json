@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Hotel Green Forest",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant",
+    "pincode": "431505",
+    "phone_number": "+91 92096 36250",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "8F2R+VF, Manwath, Maharashtra 431505",
+    "area": "431505",
+    "latitude": 19.301018499999998,
+    "longitude": 76.49105329999999,
+    "place_id": "ChIJW5iJC0IJ0DsRhnPg-hiAR_E",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJW5iJC0IJ0DsRhnPg-hiAR_E",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:07:02"
+  },
+  {
+    "business_name": "Beldar Function Hall",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Gujarati restaurant",
+    "all_categories": "Gujarati restaurant",
+    "pincode": "431505",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "7GX2+R84, Manwath, Maharashtra 431505",
+    "area": "431505",
+    "latitude": 19.2995227,
+    "longitude": 76.5008252,
+    "place_id": "ChIJoyDONw8J0DsRo425CAD0lPI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoyDONw8J0DsRo425CAD0lPI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:07:02"
+  }
+]

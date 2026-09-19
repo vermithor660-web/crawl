@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Tax Consultants",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Chartered accountant",
+    "all_categories": "Chartered accountant",
+    "pincode": "431504",
+    "phone_number": "+91 89832 82878",
+    "website": "https://thetaxconsultants.in/",
+    "rating": 5,
+    "reviews_count": 15,
+    "address": "Ramesh Khade Nagar, near Bus Stand, Jamkhed, Maharashtra 413201",
+    "area": "431504",
+    "latitude": 18.737230399999998,
+    "longitude": 75.30872029999999,
+    "place_id": "ChIJ3d9amYW5xDsRen-kX9XwrLU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3d9amYW5xDsRen-kX9XwrLU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:06:26"
+  },
+  {
+    "business_name": "Income Tax Office",
+    "search_category": "Tax and GST Consultant",
+    "primary_category": "Tax department",
+    "all_categories": "Tax department",
+    "pincode": "431504",
+    "phone_number": "+91 2482 225 076",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": 17,
+    "address": "RVM6+HQG, Wardha Rd, Jalna Industrial Area MIDC, Jalna, Maharashtra 431213",
+    "area": "Jalna Industrial Area MIDC",
+    "latitude": 19.833928699999998,
+    "longitude": 75.8619475,
+    "place_id": "ChIJm2pli2lX2jsROXkOqkkPvuA",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJm2pli2lX2jsROXkOqkkPvuA",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:06:26"
+  }
+]

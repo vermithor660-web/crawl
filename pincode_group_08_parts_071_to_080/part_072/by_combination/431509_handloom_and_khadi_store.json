@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Bombay Khadi Handloom",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431509",
+    "phone_number": "+91 94155 54074",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "477, Gonda - Utraula Rd, Patel Nagar, Gonda, Uttar Pradesh 271003",
+    "area": "Patel Nagar",
+    "latitude": 27.1321199,
+    "longitude": 81.966044,
+    "place_id": "ChIJCW575SjvmTkR7ggYAumJUC0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCW575SjvmTkR7ggYAumJUC0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:14:00"
+  },
+  {
+    "business_name": "Khadi Mohstav",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "431509",
+    "phone_number": "+91 81778 08484",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No, Akhare Medical, 1, Post Office Rd, Bhatt Colony, Siddharth Nagar, Hingoli, Maharashtra 431513",
+    "area": "Bhatt Colony, Siddharth Nagar",
+    "latitude": 19.7187251,
+    "longitude": 77.1447554,
+    "place_id": "ChIJP0A2bjVT0DsRQIc4ykWlNTk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP0A2bjVT0DsRQIc4ykWlNTk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:14:01"
+  }
+]

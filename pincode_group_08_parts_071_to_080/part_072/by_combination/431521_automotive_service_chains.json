@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Ranjit Auto Services",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "431521",
+    "phone_number": "+91 70664 15298",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Grand Corner, near Madni Hotel, opp. Ak Workshop, Gandhi Park, Parbhani, Maharashtra 431401",
+    "area": "Gandhi Park",
+    "latitude": 19.269367,
+    "longitude": 76.77627199999999,
+    "place_id": "ChIJP9z-AbYZ0DsRSiqP2EutjXM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJP9z-AbYZ0DsRSiqP2EutjXM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:34:42"
+  },
+  {
+    "business_name": "Chinmay Auto Repair Shop",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto repair shop",
+    "all_categories": "Auto repair shop",
+    "pincode": "431521",
+    "phone_number": "+91 96654 95942",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 2, Corner, Wangi Rd, near Hudco Road, opp. Smith Mandap, Parvathi Nagar, Parbhani, Maharashtra 431401",
+    "area": "Parvathi Nagar",
+    "latitude": 19.269692799999998,
+    "longitude": 76.79009119999999,
+    "place_id": "ChIJ-QRg57cZ0DsRzBH1AgP_VrI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ-QRg57cZ0DsRzBH1AgP_VrI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:34:42"
+  }
+]

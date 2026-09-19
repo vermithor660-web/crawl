@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "PG Academy",
+    "search_category": "PG",
+    "primary_category": "Studying center",
+    "all_categories": "Studying center",
+    "pincode": "431505",
+    "phone_number": "+91 99709 78007",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "8F3R+RRG, Manwath, Maharashtra 431505",
+    "area": "431505",
+    "latitude": 19.3045525,
+    "longitude": 76.4920661,
+    "place_id": "ChIJI4gM7K0J0DsRxDtol3kUrT4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJI4gM7K0J0DsRxDtol3kUrT4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:07:52"
+  },
+  {
+    "business_name": "Yoo Hostels Luxury Stays",
+    "search_category": "PG",
+    "primary_category": "Student housing center",
+    "all_categories": "Student housing center, Student dormitory",
+    "pincode": "431505",
+    "phone_number": "+91 97676 66835",
+    "website": "https://www.instagram.com/yoohostelsluxurystays?igsh=MWN0NWlhN3EyYTJwZA==",
+    "rating": 3.4,
+    "reviews_count": null,
+    "address": "G.R. Tapdiya Complex, Hingoli Naka, Anand Nagar, Nanded, Maharashtra 431605",
+    "area": "Hingoli Naka, Anand Nagar",
+    "latitude": 19.172508699999998,
+    "longitude": 77.32249019999999,
+    "place_id": "ChIJo1dAbuXX0TsRkY8GMFPNrFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJo1dAbuXX0TsRkY8GMFPNrFU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:07:53"
+  }
+]

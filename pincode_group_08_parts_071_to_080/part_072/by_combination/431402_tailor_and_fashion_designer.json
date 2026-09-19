@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Fashion Tailor",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Tailor",
+    "all_categories": "Tailor",
+    "pincode": "431402",
+    "phone_number": "+91 77962 62976",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Manwath, Maharashtra 431505",
+    "area": "431402",
+    "latitude": 19.2999475,
+    "longitude": 76.4936427,
+    "place_id": "ChIJKTnw7R8J0DsRkSCUahwLlzc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKTnw7R8J0DsRkSCUahwLlzc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:58:32"
+  },
+  {
+    "business_name": "Ruby Bagga Designs",
+    "search_category": "Tailor and Fashion Designer",
+    "primary_category": "Designer Clothing Store",
+    "all_categories": "Designer Clothing Store",
+    "pincode": "431402",
+    "phone_number": "+91 98905 33000",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": 33,
+    "address": "295-296, near Manyavar, Kamgar Chowk, N 3, Cidco, Chhatrapati Sambhajinagar, Maharashtra 431003",
+    "area": "Kamgar Chowk, N 3, Cidco",
+    "latitude": 19.873936,
+    "longitude": 75.3616586,
+    "place_id": "ChIJvRPa_EOj2zsRU9J-1oNpkH0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvRPa_EOj2zsRU9J-1oNpkH0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:58:35"
+  }
+]

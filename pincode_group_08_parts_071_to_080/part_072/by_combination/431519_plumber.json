@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SB Distributors",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "431519",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "near Bagwan Transport, Shastri Nagar, Malkapur, Karad, Maharashtra 415110",
+    "area": "Shastri Nagar",
+    "latitude": 17.2680527,
+    "longitude": 74.1819781,
+    "place_id": "ChIJjyl20YaDwTsRaj9ZVQGyaao",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjyl20YaDwTsRaj9ZVQGyaao",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:31:24"
+  },
+  {
+    "business_name": "Keshav plumbering service",
+    "search_category": "Plumber",
+    "primary_category": "Plumber",
+    "all_categories": "Plumber",
+    "pincode": "431519",
+    "phone_number": "+91 97674 21203",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": null,
+    "address": "Moshi pune, Chakan, Maharashtra 410501",
+    "area": "431519",
+    "latitude": 18.7586563,
+    "longitude": 73.8645885,
+    "place_id": "ChIJXQn7Bf7JwjsRdp1YvYWC7bg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJXQn7Bf7JwjsRdp1YvYWC7bg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:31:24"
+  }
+]

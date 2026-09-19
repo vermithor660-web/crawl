@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Dance Academy",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Hip Hop Dance Class",
+    "all_categories": "Hip Hop Dance Class",
+    "pincode": "431519",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "P93C+3XG, Mukhed, Maharashtra 431715",
+    "area": "431519",
+    "latitude": 18.7027,
+    "longitude": 77.3724561,
+    "place_id": "ChIJd5A1Ns1JzjsRdbJ7Jhq8iIU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJd5A1Ns1JzjsRdbJ7Jhq8iIU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:31:44"
+  },
+  {
+    "business_name": "Nyanaraj Music",
+    "search_category": "Music and Dance Academy",
+    "primary_category": "Music store",
+    "all_categories": "Music store",
+    "pincode": "431519",
+    "phone_number": "+91 86006 04041",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Chousala, Maharashtra 431126",
+    "area": "431519",
+    "latitude": 18.7133832,
+    "longitude": 75.6939581,
+    "place_id": "ChIJkwjo0uvfxDsRb7vZi9yq2RY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkwjo0uvfxDsRb7vZi9yq2RY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:31:46"
+  }
+]

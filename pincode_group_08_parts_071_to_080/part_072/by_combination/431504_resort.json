@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krishna lodge lonar",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431504",
+    "phone_number": "+91 95957 23237",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Mehkar Road, in front of Bus stand, Nai Nagri, Lonar, Maharashtra 443302",
+    "area": "Nai Nagri",
+    "latitude": 19.987803,
+    "longitude": 76.5224744,
+    "place_id": "ChIJVYsMc4B32jsRkcxTeMTPZHQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVYsMc4B32jsRkcxTeMTPZHQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:06:10"
+  },
+  {
+    "business_name": "SPOT ON 62979 Gitam Guest House",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431504",
+    "phone_number": "+91 124 620 1513",
+    "website": "https://www.oyorooms.com/84869/",
+    "rating": 3.5,
+    "reviews_count": null,
+    "address": "1, Mehkar Road, near SBI bank, Wadgaon, Lonar, Maharashtra 443302",
+    "area": "Wadgaon",
+    "latitude": 19.990139,
+    "longitude": 76.523823,
+    "place_id": "ChIJ_fHtPOWD0DsRW0DR-sVmrdE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_fHtPOWD0DsRW0DR-sVmrdE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:06:11"
+  }
+]

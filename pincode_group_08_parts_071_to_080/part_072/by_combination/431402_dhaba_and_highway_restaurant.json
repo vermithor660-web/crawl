@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shivar Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "431402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "8M3H+PMP, NH 61, Pedgaon, Maharashtra 431537",
+    "area": "431402",
+    "latitude": 19.304346199999998,
+    "longitude": 76.6791918,
+    "place_id": "ChIJz0kfvZ4R0DsRPV2i2TOB_DY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz0kfvZ4R0DsRPV2i2TOB_DY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:58:25"
+  },
+  {
+    "business_name": "Jay Maharashtra Dhaba",
+    "search_category": "Dhaba and Highway Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431402",
+    "phone_number": "+91 97307 27394",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "Shop No, 1, Shiv Rd, Taroda Kh., Ayodya Nagri, Nanded, Maharashtra 431605",
+    "area": "Taroda Kh., Ayodya Nagri",
+    "latitude": 19.206428499999998,
+    "longitude": 77.2932314,
+    "place_id": "ChIJaZ2yFRrX0TsRu3eT-aqhyJ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJaZ2yFRrX0TsRu3eT-aqhyJ8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:58:27"
+  }
+]

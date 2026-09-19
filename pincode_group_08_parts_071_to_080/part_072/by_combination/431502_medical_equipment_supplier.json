@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Garg Life Care",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Hospital equipment and supplies, Medical supply store, Surgical Products Wholesaler, Surgical supply store",
+    "pincode": "431502",
+    "phone_number": "+91 96654 23269",
+    "website": "https://www.garglifecare.com/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Ghole Bhawan, Plot No. 70 A, Medical Chowk, beside VR Mall, Medical Chowk, Rambagh Layout, Untkhana, Nagpur, Maharashtra 440009",
+    "area": "Medical Chowk, Rambagh Layout, Untkhana",
+    "latitude": 21.132312499999998,
+    "longitude": 79.0970944,
+    "place_id": "ChIJn9NkWL3B1DsRYWIw0G9Ukfk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn9NkWL3B1DsRYWIw0G9Ukfk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:02:17"
+  },
+  {
+    "business_name": "JUSTMED SOLUTIONS",
+    "search_category": "Medical Equipment Supplier",
+    "primary_category": "Medical equipment supplier",
+    "all_categories": "Medical equipment supplier, Hospital equipment and supplies",
+    "pincode": "431502",
+    "phone_number": "+91 72187 87876",
+    "website": "https://www.justmedsolutions.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "2nd floor, Samarth recidency, chatrapati chauk, b, Taroda Kh., Nanded, Maharashtra 431605",
+    "area": "Taroda Kh., Tirumala Nagar",
+    "latitude": 19.1889115,
+    "longitude": 77.2872301,
+    "place_id": "ChIJx2W4fTXX0TsRduVdBdnoWbg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx2W4fTXX0TsRduVdBdnoWbg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:02:17"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shree Swami Automobiles And Service Centre",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Auto parts store",
+    "all_categories": "Auto parts store",
+    "pincode": "431402",
+    "phone_number": "+91 70208 39485",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Laddha Complex, Nanded Rd, beside Basmath, Harsh Nagar, Asegaon, Basmat, Maharashtra 431512",
+    "area": "Harsh Nagar",
+    "latitude": 19.3216063,
+    "longitude": 77.1643832,
+    "place_id": "ChIJl78ygdEz0DsRZVirOaGxhUs",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJl78ygdEz0DsRZVirOaGxhUs",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:59:00"
+  },
+  {
+    "business_name": "Khan chain",
+    "search_category": "Automotive Service Chains",
+    "primary_category": "Garage",
+    "all_categories": "Garage",
+    "pincode": "431402",
+    "phone_number": "+91 97666 51735",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Kankhed road, Vijay Nagar, Railway Colony, Purna, Maharashtra 431511",
+    "area": "Vijay Nagar, Railway Colony",
+    "latitude": 19.176358699999998,
+    "longitude": 77.0198205,
+    "place_id": "ChIJ1QU_nugp0DsRU71ws4pmLjo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1QU_nugp0DsRU71ws4pmLjo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:59:01"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Mauli Opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "431507",
+    "phone_number": "+91 73500 86343",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "New Mondga Road, near by Full Station, Ashti, Maharashtra 431507",
+    "area": "431507",
+    "latitude": 19.383248299999998,
+    "longitude": 76.2196225,
+    "place_id": "ChIJMaVDDfS92jsRZvWTI2ZOrdo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJMaVDDfS92jsRZvWTI2ZOrdo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:10:34"
+  },
+  {
+    "business_name": "Mitali opticals",
+    "search_category": "Optical Store and Eyewear",
+    "primary_category": "Optician",
+    "all_categories": "Optician",
+    "pincode": "431507",
+    "phone_number": "+91 79720 01754",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 42,
+    "address": "Jalna Rd, beside akash institute, Opp. Akashwani, Kailash Nagar, Mondha, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Opp. Akashwani, Kailash Nagar, Mondha",
+    "latitude": 19.8764127,
+    "longitude": 75.3437563,
+    "place_id": "ChIJVc7BxdCj2zsRYEBq6b7vvZ8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVc7BxdCj2zsRYEBq6b7vvZ8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:10:34"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Christy Sounds",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "431506",
+    "phone_number": "+91 98222 95612",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Hill Mist Garden Cooperative Housing Society, off NIBM Road, near Kausar baug, Kausar Baugh, Kondhwa, Pune, Maharashtra 411048",
+    "area": "Kausar Baugh, Kondhwa",
+    "latitude": 18.4758262,
+    "longitude": 73.8923186,
+    "place_id": "ChIJ3U3D0HzqwjsRf8mrQuidzBQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ3U3D0HzqwjsRf8mrQuidzBQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:09:30"
+  },
+  {
+    "business_name": "Kuber Events",
+    "search_category": "Sound and Light Rental",
+    "primary_category": "Balloon artist",
+    "all_categories": "Balloon artist, Air conditioning contractor, Band, Canoe & kayak rental service, Caterer, Event management company, Event planner, Outdoor activity organiser, Party planner, Summer camp organizer",
+    "pincode": "431506",
+    "phone_number": "+91 82861 31122",
+    "website": "http://kuberevents.in/",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "UNIT NO 1 AND 2, near Ins Tower, G Block BKC, Bandra Kurla Complex, Bandra East, Mumbai, Maharashtra 400051",
+    "area": "G Block BKC, Bandra Kurla Complex, Bandra East",
+    "latitude": 19.0669523,
+    "longitude": 72.866502,
+    "place_id": "ChIJy4wbXXTJ5zsRWUyDPmLJxy4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy4wbXXTJ5zsRWUyDPmLJxy4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:09:30"
+  }
+]

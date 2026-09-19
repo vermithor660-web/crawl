@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Golden Papaya - Digital Marketing Agency",
+    "search_category": "Local SEO Agencies",
+    "primary_category": "Internet marketing service",
+    "all_categories": "Internet marketing service, Marketing agency, Marketing consultant",
+    "pincode": "431515",
+    "phone_number": "+91 99224 44038",
+    "website": "https://goldenpapaya.in/",
+    "rating": 5,
+    "reviews_count": 25,
+    "address": "Liberty II, A5, N Main Rd, opp. Lane 5, Liberty Phase 2, Ragvilas Society, Koregaon Park, Pune, Maharashtra 411001",
+    "area": "Liberty Phase 2, Ragvilas Society, Koregaon Park",
+    "latitude": 18.5395116,
+    "longitude": 73.89698369999999,
+    "place_id": "ChIJYzATKQTBwjsRbd2yPREYV3s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJYzATKQTBwjsRbd2yPREYV3s",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:25:29"
+  },
+  {
+    "business_name": "Activebit Technologies",
+    "search_category": "Local SEO Agencies",
+    "primary_category": "Website designer",
+    "all_categories": "Website designer, Internet marketing service, Marketing agency, Software company, Web hosting company",
+    "pincode": "431515",
+    "phone_number": "+91 99229 91028",
+    "website": "https://activebit.in/",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "Next Kailash Jeevan Factory, Nisarga Sterling III, Dhayari Phata, Pune, Maharashtra 411041",
+    "area": "Sterling Nisarga II, Dhayari Phata",
+    "latitude": 18.4478926,
+    "longitude": 73.81631039999999,
+    "place_id": "ChIJF5MKsBeVwjsR-JPewN6A3SE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJF5MKsBeVwjsR-JPewN6A3SE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:25:30"
+  }
+]

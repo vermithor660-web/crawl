@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Shri Balaji taxi rent car",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Taxi service",
+    "all_categories": "Taxi service",
+    "pincode": "431511",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Gurudwara gate number 2, Nanded, Pimpala Bhatya, Maharashtra 431605",
+    "area": "431511",
+    "latitude": 19.186128399999998,
+    "longitude": 77.17152279999999,
+    "place_id": "ChIJJyaLyR8r0DsRDxaxJywyU5g",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJyaLyR8r0DsRDxaxJywyU5g",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:17:38"
+  },
+  {
+    "business_name": "Aditya Car Cab and taxi service",
+    "search_category": "Taxi Service and Car Rental",
+    "primary_category": "Car leasing service",
+    "all_categories": "Car leasing service",
+    "pincode": "431511",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3,
+    "reviews_count": 2,
+    "address": "jotriling temple, Vidyanagar, Parli Vaijnath, Parali, Maharashtra 431515",
+    "area": "Vidyanagar",
+    "latitude": 18.8453169,
+    "longitude": 76.5198462,
+    "place_id": "ChIJAy5RU0n3zzsRQVhAulRpU6s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAy5RU0n3zzsRQVhAulRpU6s",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:17:39"
+  }
+]

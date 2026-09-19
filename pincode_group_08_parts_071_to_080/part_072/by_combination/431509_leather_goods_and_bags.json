@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Sunny Bag House",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Bag shop",
+    "all_categories": "Bag shop",
+    "pincode": "431509",
+    "phone_number": "+91 73878 13671",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Jawahar Rd, Siddharth Nagar, Hingoli, Maharashtra 431513",
+    "area": "Siddharth Nagar",
+    "latitude": 19.717043,
+    "longitude": 77.1420206,
+    "place_id": "ChIJjWeYAtVT0DsR50Gckpl300I",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJjWeYAtVT0DsR50Gckpl300I",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:13:58"
+  },
+  {
+    "business_name": "Cabrini Luxury Goods",
+    "search_category": "Leather Goods and Bags",
+    "primary_category": "Leather goods store",
+    "all_categories": "Leather goods store",
+    "pincode": "431509",
+    "phone_number": "+91 95551 64486",
+    "website": "http://cabrini.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Shop 001, Jay Ganga CHS, 707-708, opp. Sai Aashirwad Hospital, Bharti Nagar, Mira Road East, Mira Bhayandar, Maharashtra 401107",
+    "area": "Bharti Nagar, Mira Road East",
+    "latitude": 19.2849991,
+    "longitude": 72.8630414,
+    "place_id": "ChIJx9u7ewCx5zsRORZPqc-s3xI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJx9u7ewCx5zsRORZPqc-s3xI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:13:59"
+  }
+]

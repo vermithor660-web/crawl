@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Zara online services",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Store",
+    "all_categories": "Store, Internet shop",
+    "pincode": "431514",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "CHAND TARA CHOWK NEAR GOV.REST HOUSE, near IDBI Bank, Gangakhed, Maharashtra 431514",
+    "area": "Police Colony",
+    "latitude": 18.966500099999998,
+    "longitude": 76.7503919,
+    "place_id": "ChIJz6HYIoznzzsR3no-J5oXMB4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJz6HYIoznzzsR3no-J5oXMB4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:23:50"
+  },
+  {
+    "business_name": "Devi Job Consultancy & Internet",
+    "search_category": "B2B Appointment-Setting Agencies",
+    "primary_category": "Consultant",
+    "all_categories": "Consultant, Copy shop, Internet cafe",
+    "pincode": "431514",
+    "phone_number": "+91 94402 93330",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "6-13-42, Namdevwada, Nizamabad, Telangana 503003",
+    "area": "Namdevwada",
+    "latitude": 18.680479,
+    "longitude": 78.0990875,
+    "place_id": "ChIJxxQ6dzrbzTsR-HYa5X5Ycws",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJxxQ6dzrbzTsR-HYa5X5Ycws",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:23:52"
+  }
+]

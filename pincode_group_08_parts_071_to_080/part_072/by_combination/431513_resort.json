@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SHIVLILA PALACE",
+    "search_category": "Resort",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431513",
+    "phone_number": "+91 84460 35175",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "SHOP NO 01, Akola Rd, behind HERO SHOWROOM, Tirupati Nagar, Hingoli, Maharashtra 431513",
+    "area": "Tirupati Nagar",
+    "latitude": 19.7299153,
+    "longitude": 77.1542348,
+    "place_id": "ChIJiWalJIpT0DsRIHRc6yEpsq4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJiWalJIpT0DsRIHRc6yEpsq4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:21:29"
+  },
+  {
+    "business_name": "Hotel Rushi Inn",
+    "search_category": "Resort",
+    "primary_category": "Hotel",
+    "all_categories": "Hotel",
+    "pincode": "431513",
+    "phone_number": "+91 82753 47373",
+    "website": "N/A",
+    "rating": 3.7,
+    "reviews_count": null,
+    "address": "wine, hotel, Rushi Inn, Raghunandan Colony, Karwadi, Hingoli, Maharashtra 431513",
+    "area": "Raghunandan Colony",
+    "latitude": 19.7053252,
+    "longitude": 77.1691925,
+    "place_id": "ChIJcQIfgulS0DsRtVU4SOjbXrw",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJcQIfgulS0DsRtVU4SOjbXrw",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:21:29"
+  }
+]

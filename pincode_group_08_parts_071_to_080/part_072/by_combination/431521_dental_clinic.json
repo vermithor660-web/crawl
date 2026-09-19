@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Matoshri Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dental clinic",
+    "all_categories": "Dental clinic, Cosmetic dentist, Dental implants provider, Dentist, Endodontist, Oral and maxillofacial surgeon, Oral surgeon, Orthodontist, Prosthodontist",
+    "pincode": "431521",
+    "phone_number": "+91 94221 75670",
+    "website": "http://matoshri.dentalclinic.net.in/",
+    "rating": 4.3,
+    "reviews_count": 10,
+    "address": "Doctor Lane, Bus Stand Rd, near Bus Stand, New Mondha, Parbhani, Maharashtra 431401",
+    "area": "New Mondha",
+    "latitude": 19.2597845,
+    "longitude": 76.7715166,
+    "place_id": "ChIJJ3sEbM4Z0DsRXeVrX2H7BIc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJJ3sEbM4Z0DsRXeVrX2H7BIc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:34:25"
+  },
+  {
+    "business_name": "Arshaque Dental Clinic",
+    "search_category": "Dental Clinic",
+    "primary_category": "Dentist",
+    "all_categories": "Dentist",
+    "pincode": "431521",
+    "phone_number": "+91 99705 14832",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 4,
+    "address": "Mumtaz Nagar, corner, Dhar Rd, Parbhani, Maharashtra 431401",
+    "area": "Mumtaz Nagar",
+    "latitude": 19.272688,
+    "longitude": 76.781685,
+    "place_id": "ChIJedLW7ioY0DsRO8AfM4Nv5p4",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJedLW7ioY0DsRO8AfM4Nv5p4",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:34:26"
+  }
+]

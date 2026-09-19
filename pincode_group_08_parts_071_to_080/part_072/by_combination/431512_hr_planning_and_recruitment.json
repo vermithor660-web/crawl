@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Kuber Solutions",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Employment center",
+    "all_categories": "Employment center",
+    "pincode": "431512",
+    "phone_number": "+91 77099 93964",
+    "website": "https://kubersforum.com/",
+    "rating": 4.8,
+    "reviews_count": null,
+    "address": "1 St Floor, Muthiyan Builders, near M G Medical, beside Shivaji High School, Abhishek Vihar, Vijaynagar, Ajabnagar, Chhatrapati Sambhajinagar, Maharashtra 431001",
+    "area": "Abhishek Vihar, Vijaynagar, Ajabnagar",
+    "latitude": 19.8773955,
+    "longitude": 75.33084579999999,
+    "place_id": "ChIJrxMS072Z2zsReyA5echA1RY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrxMS072Z2zsReyA5echA1RY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:20:06"
+  },
+  {
+    "business_name": "HR Consultancy Group",
+    "search_category": "HR Planning and Recruitment",
+    "primary_category": "Human resource consulting",
+    "all_categories": "Human resource consulting, Service establishment",
+    "pincode": "431512",
+    "phone_number": "N/A",
+    "website": "https://www.hrconsultancygroup.com.au/",
+    "rating": 5,
+    "reviews_count": 11,
+    "address": "HR Consultancy Group, 431512, India",
+    "area": "431512",
+    "latitude": -33.832001999999996,
+    "longitude": 150.93197469999998,
+    "place_id": "ChIJe9uDv--kKwURaAKOdfDUCTM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJe9uDv--kKwURaAKOdfDUCTM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:20:07"
+  }
+]

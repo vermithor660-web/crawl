@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Krushna traders pangaon",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Building materials store",
+    "all_categories": "Building materials store",
+    "pincode": "431519",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "JJJJ+MW7, Pangaon, Maharashtra 431522",
+    "area": "431519",
+    "latitude": 18.6317286,
+    "longitude": 76.6323346,
+    "place_id": "ChIJyxdW-xGNzzsR1uy42BBmV8w",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJyxdW-xGNzzsR1uy42BBmV8w",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:31:22"
+  },
+  {
+    "business_name": "Sidheshwar traders",
+    "search_category": "Building Material Supplier",
+    "primary_category": "Cement Supplier",
+    "all_categories": "Cement Supplier",
+    "pincode": "431519",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": 5,
+    "address": "PM5P+MH8, Bhatanwadi - Ujani Rd, Bhatanwadi, Ujani, Maharashtra 431519",
+    "area": "431519",
+    "latitude": 18.7091749,
+    "longitude": 76.6864422,
+    "place_id": "ChIJs3Hm2C7tzzsR0WF2cPzsaT8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs3Hm2C7tzzsR0WF2cPzsaT8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:31:24"
+  }
+]

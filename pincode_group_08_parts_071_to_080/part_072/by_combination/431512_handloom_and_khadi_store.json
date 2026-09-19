@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aravalli Khadi Handloom",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431512",
+    "phone_number": "+91 75720 00550",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No 1, Multipurpose High School, Vazirabad, Nanded, Maharashtra 431601",
+    "area": "Vazirabad",
+    "latitude": 19.151349,
+    "longitude": 77.3128219,
+    "place_id": "ChIJuUrgLk3X0TsRg2rs8bqw-FM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJuUrgLk3X0TsRg2rs8bqw-FM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:19:00"
+  },
+  {
+    "business_name": "Maharashtra Emporium",
+    "search_category": "Handloom and Khadi Store",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Clothing Accessories Store",
+    "pincode": "431512",
+    "phone_number": "+91 88065 66877",
+    "website": "N/A",
+    "rating": 4.1,
+    "reviews_count": 268,
+    "address": "Main Rd, Sitabuldi, Nagpur, Maharashtra 440012",
+    "area": "Sitabuldi",
+    "latitude": 21.1440506,
+    "longitude": 79.08258339999999,
+    "place_id": "ChIJgcHSp5TA1DsRjeWbW8QLKqg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgcHSp5TA1DsRjeWbW8QLKqg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:19:00"
+  }
+]

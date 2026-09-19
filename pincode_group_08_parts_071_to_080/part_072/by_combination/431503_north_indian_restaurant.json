@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "HOTEL SHIV KRUPA",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant",
+    "pincode": "431503",
+    "phone_number": "+91 86004 08336",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Village, Selu - Parbhani Rd, Manwat Road, Maharashtra 431505",
+    "area": "431503",
+    "latitude": 19.3591791,
+    "longitude": 76.5411596,
+    "place_id": "ChIJs3NpTPoL0DsReS-cBJh1rGI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJs3NpTPoL0DsReS-cBJh1rGI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:03:35"
+  },
+  {
+    "business_name": "Hotel Vaibhav Palace Family Restarunt",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Family restaurant",
+    "all_categories": "Family restaurant, Bar",
+    "pincode": "431503",
+    "phone_number": "+91 94238 35151",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "7FC7+XCP, pathri manwath road, NH 222, Maharashtra 431505",
+    "area": "431503",
+    "latitude": 19.2724628,
+    "longitude": 76.4635835,
+    "place_id": "ChIJgXiAwhgI0DsRSdogNp6Dfms",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgXiAwhgI0DsRSdogNp6Dfms",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:03:36"
+  }
+]

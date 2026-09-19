@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "SBM Toilet",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Public bathroom",
+    "all_categories": "Public bathroom",
+    "pincode": "431508",
+    "phone_number": "+91 80071 07665",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Sahara Colony, Parbhani, Maharashtra 431402",
+    "area": "Sahara Colony",
+    "latitude": 19.2563369,
+    "longitude": 76.80168499999999,
+    "place_id": "ChIJVVVVNj4Y0DsRLjI3xxWVrPc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJVVVVNj4Y0DsRLjI3xxWVrPc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:12:38"
+  },
+  {
+    "business_name": "SBM Toilet",
+    "search_category": "Sanitaryware and Bathroom Fittings",
+    "primary_category": "Public bathroom",
+    "all_categories": "Public bathroom",
+    "pincode": "431508",
+    "phone_number": "+91 1800 11 1969",
+    "website": "N/A",
+    "rating": 2,
+    "reviews_count": 1,
+    "address": "At Nehru Garden, Maharashtra 431401",
+    "area": "New Mondha",
+    "latitude": 19.2655311,
+    "longitude": 76.7681061,
+    "place_id": "ChIJAQAAedoZ0DsRxT6C0GbtjJ0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJAQAAedoZ0DsRxT6C0GbtjJ0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:12:38"
+  }
+]

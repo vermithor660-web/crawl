@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "STAR FURNITURE AND ELECTRONIC",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Store",
+    "all_categories": "Store",
+    "pincode": "431517",
+    "phone_number": "+91 99753 79289",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Parli - Ambajogai Rd, fata, Magarwadi, Ambajogai, Maharashtra 431517",
+    "area": "fata",
+    "latitude": 18.7387715,
+    "longitude": 76.4329467,
+    "place_id": "ChIJoYboaotfxTsRRxG-TsuoWqY",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoYboaotfxTsRRxG-TsuoWqY",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:28:10"
+  },
+  {
+    "business_name": "Ganesh furniture Mall",
+    "search_category": "Furniture Showroom",
+    "primary_category": "Furniture store",
+    "all_categories": "Furniture store",
+    "pincode": "431517",
+    "phone_number": "+91 94219 22112",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 13,
+    "address": "Kalamb Road, near Mauli Cinema Gruh, Kaij, Maharashtra 431123",
+    "area": "431517",
+    "latitude": 18.6995065,
+    "longitude": 76.0616544,
+    "place_id": "ChIJBQ0DVAA_xTsRiTTGulidwAQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJBQ0DVAA_xTsRiTTGulidwAQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:28:10"
+  }
+]

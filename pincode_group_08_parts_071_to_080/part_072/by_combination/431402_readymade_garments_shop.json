@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Appa cloth centre",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store",
+    "pincode": "431402",
+    "phone_number": "+91 78759 88830",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": 65,
+    "address": "shop no 01, oppo Lakshmi ganaral store, main road, Pokharni, Maharashtra 431521",
+    "area": "431402",
+    "latitude": 19.1157573,
+    "longitude": 76.70976089999999,
+    "place_id": "ChIJ_TbDb7gd0DsRAuK8oDcK7LQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_TbDb7gd0DsRAuK8oDcK7LQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:58:30"
+  },
+  {
+    "business_name": "Clothing",
+    "search_category": "Readymade Garments Shop",
+    "primary_category": "Dress store",
+    "all_categories": "Dress store",
+    "pincode": "431402",
+    "phone_number": "+91 94051 18555",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "Gandhi Park, Parbhani, Maharashtra 431401",
+    "area": "Gandhi Park",
+    "latitude": 19.2694471,
+    "longitude": 76.7727493,
+    "place_id": "ChIJ_1iIhX0Z0DsRZ2m2ccwQXZU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ_1iIhX0Z0DsRZ2m2ccwQXZU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:58:32"
+  }
+]

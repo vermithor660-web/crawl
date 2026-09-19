@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "RR DETAILERS",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto painting, Auto restoration service",
+    "pincode": "431516",
+    "phone_number": "+91 91567 33939",
+    "website": "https://rrdetailers.com/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "BK, Ground Floor, Survey No 105 Manjari, behind Shivshahi Hotel, Gopal Patti, Hadapsar, Pune, Maharashtra 412307",
+    "area": "Gopal Patti, Takale Nagar, Hadapsar",
+    "latitude": 18.5113549,
+    "longitude": 73.964122,
+    "place_id": "ChIJIUBIZyjDwjsRShoL8PJ9LyQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJIUBIZyjDwjsRShoL8PJ9LyQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:26:11"
+  },
+  {
+    "business_name": "MAHALAXMI AUTOMOTIVE & WASHING CENTER",
+    "search_category": "Car Wash and Auto Detailing",
+    "primary_category": "Car wash",
+    "all_categories": "Car wash, Auto painting, Auto repair shop",
+    "pincode": "431516",
+    "phone_number": "+91 97301 08132",
+    "website": "http://mahalaxmiautomotive.in/",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "besides ashapura hotel, Service Rd, near Chellaram Hospital, Sunarwadi, Patil Nagar, Bavdhan, mumbai, Pune, Maharashtra 411021",
+    "area": "Sunarwadi, Patil Nagar, Bavdhan",
+    "latitude": 18.5219566,
+    "longitude": 73.7701132,
+    "place_id": "ChIJCVzf0mO_wjsRMmGGUfIyR5Q",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJCVzf0mO_wjsRMmGGUfIyR5Q",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:26:11"
+  }
+]

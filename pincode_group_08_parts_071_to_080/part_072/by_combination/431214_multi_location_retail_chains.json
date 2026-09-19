@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Reliance Smart Point",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "431214",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": 57,
+    "address": "VV2P+MJ6, Saklecha Nagar, Jalna, Maharashtra 431203",
+    "area": "Saklecha Nagar",
+    "latitude": 19.8518105,
+    "longitude": 75.886584,
+    "place_id": "ChIJvffs7X1X2jsR57rkUYYUiKg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJvffs7X1X2jsR57rkUYYUiKg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:54:41"
+  },
+  {
+    "business_name": "MR.DIY Krishna Mall Jalna",
+    "search_category": "Multi-location Retail Chains",
+    "primary_category": "Home improvement store",
+    "all_categories": "Home improvement store",
+    "pincode": "431214",
+    "phone_number": "+91 1800 532 2829",
+    "website": "https://www.mrdiy.co.in/",
+    "rating": 4.5,
+    "reviews_count": 128,
+    "address": "PIot No,4, part),268 (partJ, shop no 105,106,107,108,109,110,132,133 on FF Krishna Mall, GF Shop no-1 & FF Shop No-1 Survey No.267, near Mantha Road, Chowk, Jalna, Maharashtra 431203",
+    "area": "Chowk",
+    "latitude": 19.8324168,
+    "longitude": 75.9122276,
+    "place_id": "ChIJrZGfcgBZ2jsReCwWTqv5CAo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJrZGfcgBZ2jsReCwWTqv5CAo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:54:41"
+  }
+]

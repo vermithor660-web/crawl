@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Gajanan Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "431510",
+    "phone_number": "+91 90754 49577",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 3,
+    "address": "Bus Stand Rd, near bajar samiti, beside gurukrupa electrical, Sengaon, Maharashtra 431542",
+    "area": "431510",
+    "latitude": 19.793358899999998,
+    "longitude": 76.8908675,
+    "place_id": "ChIJn8ycRr1f0DsRisZ5OILAPsQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJn8ycRr1f0DsRisZ5OILAPsQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:15:36"
+  },
+  {
+    "business_name": "Chiddarwar Jewellers",
+    "search_category": "Silver Jewellery Shop",
+    "primary_category": "Jewelry store",
+    "all_categories": "Jewelry store",
+    "pincode": "431510",
+    "phone_number": "+91 78880 47331",
+    "website": "http://www.chiddarwarjewellers.com/",
+    "rating": 4.3,
+    "reviews_count": 118,
+    "address": "Devi Ward, Pusad, Maharashtra 445204",
+    "area": "Devi Ward",
+    "latitude": 19.912395099999998,
+    "longitude": 77.5765964,
+    "place_id": "ChIJpRTe-UZ10TsRrPGxyYx4dwo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJpRTe-UZ10TsRrPGxyYx4dwo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:15:37"
+  }
+]

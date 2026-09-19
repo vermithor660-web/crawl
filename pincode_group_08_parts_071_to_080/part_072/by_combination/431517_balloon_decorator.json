@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Anuj Art Events",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Event planner",
+    "all_categories": "Event planner",
+    "pincode": "431517",
+    "phone_number": "+91 72180 84111",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 22,
+    "address": "Chhatrapati Shivaji Maharaj chowk, Kalamb, Maharashtra 413507",
+    "area": "431517",
+    "latitude": 18.5766348,
+    "longitude": 76.0228046,
+    "place_id": "ChIJFe-M9yAVxTsRh4oZ1bjYHFU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJFe-M9yAVxTsRh4oZ1bjYHFU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:28:16"
+  },
+  {
+    "business_name": "The Party Shop & Events",
+    "search_category": "Balloon Decorator",
+    "primary_category": "Balloon store",
+    "all_categories": "Balloon store, Party store, Gift shop",
+    "pincode": "431517",
+    "phone_number": "+91 98345 91191",
+    "website": "https://wa.me/919834591191?text=Namaste,%20I%20have%20an%20enquiry%20about%20decoration",
+    "rating": 4.9,
+    "reviews_count": 518,
+    "address": "Kesnand Rd, Wagholi, Pune, Maharashtra 412207",
+    "area": "Wagholi",
+    "latitude": 18.5782041,
+    "longitude": 73.9945491,
+    "place_id": "ChIJL8dlDw3DwjsRIPIvS_zDNkk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJL8dlDw3DwjsRIPIvS_zDNkk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:28:18"
+  }
+]

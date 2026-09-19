@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "CSC Center - Ram Sahebrao Jadhao",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "431510",
+    "phone_number": "N/A",
+    "website": "http://csc.gov.in/",
+    "rating": null,
+    "reviews_count": null,
+    "address": "X8XG+2Q9, Shelu Bk., Maharashtra 444507",
+    "area": "431510",
+    "latitude": 19.997534899999998,
+    "longitude": 77.32697999999999,
+    "place_id": "ChIJy2DM_A8F0TsRxx8eXfoMDQE",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJy2DM_A8F0TsRxx8eXfoMDQE",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:16:34"
+  },
+  {
+    "business_name": "CSC Washim",
+    "search_category": "Common Service Center (CSC) / E-Seva",
+    "primary_category": "Government office",
+    "all_categories": "Government office",
+    "pincode": "431510",
+    "phone_number": "+91 96379 68067",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 5,
+    "address": "1, Kata Rd, Yojana Colony, Kata Rd, Yojana Colony, Washim, Maharashtra 444505",
+    "area": "Yojana Colony",
+    "latitude": 20.128990899999998,
+    "longitude": 77.1293901,
+    "place_id": "ChIJ92f94dzj0DsR2XDFHtJqZRU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ92f94dzj0DsR2XDFHtJqZRU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:16:34"
+  }
+]

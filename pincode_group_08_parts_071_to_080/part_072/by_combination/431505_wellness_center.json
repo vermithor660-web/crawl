@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Vaishnavi's aloe wellness",
+    "search_category": "Wellness Center",
+    "primary_category": "Health consultant",
+    "all_categories": "Health consultant",
+    "pincode": "431505",
+    "phone_number": "+91 84218 55885",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "sant savta, Mali Galli, in front of bhagyalakshmi bank, Manwath, Maharashtra 431505",
+    "area": "431505",
+    "latitude": 19.3070353,
+    "longitude": 76.496164,
+    "place_id": "ChIJkyiVbLMJ0DsRplJmslGM5q0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJkyiVbLMJ0DsRplJmslGM5q0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:07:47"
+  },
+  {
+    "business_name": "Karanji Primary Health Sub Centre",
+    "search_category": "Wellness Center",
+    "primary_category": "Medical laboratory",
+    "all_categories": "Medical laboratory",
+    "pincode": "431505",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": null,
+    "address": "9G82+JHR, Karanji, Pathri, Maharashtra 431505",
+    "area": "431505",
+    "latitude": 19.3666096,
+    "longitude": 76.5013816,
+    "place_id": "ChIJoz6_wzQK0DsRtIonx9p2Fro",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJoz6_wzQK0DsRtIonx9p2Fro",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:07:48"
+  }
+]

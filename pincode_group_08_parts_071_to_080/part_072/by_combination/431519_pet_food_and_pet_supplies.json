@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Narayana Pashu Khadya",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Animal feed store",
+    "all_categories": "Animal feed store",
+    "pincode": "431519",
+    "phone_number": "+91 98608 78386",
+    "website": "N/A",
+    "rating": 3.6,
+    "reviews_count": null,
+    "address": "Parli - Ambajogai Rd, Kanherwadi, Maharashtra 431515",
+    "area": "431519",
+    "latitude": 18.8322313,
+    "longitude": 76.49533559999999,
+    "place_id": "ChIJ7QHSblP2zzsRe6mmx0gTA_s",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ7QHSblP2zzsRe6mmx0gTA_s",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:30:45"
+  },
+  {
+    "business_name": "Samruddhi Pet's & Aquarium",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store",
+    "pincode": "431519",
+    "phone_number": "+91 94219 56731",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": 100,
+    "address": "Delhi Gate, Delhi Gate Rd, Sarjepura city, Ahilyanagar, Maharashtra 414001",
+    "area": "Sarjepura city",
+    "latitude": 19.0972087,
+    "longitude": 74.7325845,
+    "place_id": "ChIJA2vqxomw3DsRUGoXpeL7IJM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJA2vqxomw3DsRUGoXpeL7IJM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:30:46"
+  }
+]

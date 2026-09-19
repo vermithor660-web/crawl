@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Triveg Fashion",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing manufacturer",
+    "all_categories": "Clothing manufacturer",
+    "pincode": "431503",
+    "phone_number": "+91 84467 23976",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Rowhouse line, near Andharwada Maroti Mandir, Manwath, Manwat Rural, Maharashtra 431505",
+    "area": "431503",
+    "latitude": 19.3220442,
+    "longitude": 76.5043851,
+    "place_id": "ChIJ57530zYJ0DsReIWCVwiPTy0",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ57530zYJ0DsReIWCVwiPTy0",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:03:44"
+  },
+  {
+    "business_name": "Shine Pvt Ltd",
+    "search_category": "Uniform Manufacturer",
+    "primary_category": "Clothing manufacturer",
+    "all_categories": "Clothing manufacturer",
+    "pincode": "431503",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Adarsh Nagar, Selu, Sailu, Maharashtra 431503",
+    "area": "Adarsh Nagar, Selu",
+    "latitude": 19.4502064,
+    "longitude": 76.4324488,
+    "place_id": "ChIJi5vq4Yef2jsRh2ZiMiGFKuc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJi5vq4Yef2jsRh2ZiMiGFKuc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:03:44"
+  }
+]

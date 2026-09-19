@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "BALAJI MESS",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Restaurant",
+    "all_categories": "Restaurant, Breakfast restaurant",
+    "pincode": "431510",
+    "phone_number": "+91 83419 62432",
+    "website": "N/A",
+    "rating": 4.4,
+    "reviews_count": null,
+    "address": "S N 4-66, opp. Bustand, Khaleelwadi, Nizamabad, Telangana 503003",
+    "area": "Tilak Gardens, Khaleelwadi",
+    "latitude": 18.6750437,
+    "longitude": 78.1009953,
+    "place_id": "ChIJu2r56S_bzTsRomzJAfTZpSo",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJu2r56S_bzTsRomzJAfTZpSo",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:15:31"
+  },
+  {
+    "business_name": "Sri Panchami Mess",
+    "search_category": "Cloud Kitchen",
+    "primary_category": "Vegetarian restaurant",
+    "all_categories": "Vegetarian restaurant, Tiffin Service Provider, Restaurant supply store",
+    "pincode": "431510",
+    "phone_number": "+91 85558 84959",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "Hno 5-6-105/1, Tirumala talkies Road, Dwaraka Nagar, Nizamabad, Telangana 503003",
+    "area": "Dwaraka Nagar",
+    "latitude": 18.669995,
+    "longitude": 78.10440779999999,
+    "place_id": "ChIJLwsCRinbzTsRVez3abHMswI",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJLwsCRinbzTsRVez3abHMswI",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:15:31"
+  }
+]

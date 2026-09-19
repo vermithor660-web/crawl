@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Famous collection",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Clothing store",
+    "all_categories": "Clothing store, Dress store",
+    "pincode": "431515",
+    "phone_number": "+91 75885 66763",
+    "website": "N/A",
+    "rating": 5,
+    "reviews_count": 1,
+    "address": "Shop no 1, narwade complex, Shivaji Nagar, Majalgaon, Maharashtra 431131",
+    "area": "Shivaji Nagar",
+    "latitude": 19.1592998,
+    "longitude": 76.208664,
+    "place_id": "ChIJt2sDi2yx2jsR5u-KKdCtLHk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJt2sDi2yx2jsR5u-KKdCtLHk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:24:20"
+  },
+  {
+    "business_name": "Breath by shital waghmare",
+    "search_category": "Luxury Clothing Shops",
+    "primary_category": "Fashion designer",
+    "all_categories": "Fashion designer",
+    "pincode": "431515",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.9,
+    "reviews_count": null,
+    "address": "Rahi-kunj,amrut nagar,yashwantrao chavan, chouk, Morewadi, Maharashtra 431517",
+    "area": "Morewadi",
+    "latitude": 18.7160978,
+    "longitude": 76.3726932,
+    "place_id": "ChIJg2wAFUdfxTsRD3WFcYZZCxM",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJg2wAFUdfxTsRD3WFcYZZCxM",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:24:20"
+  }
+]

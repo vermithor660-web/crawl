@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Varad General Store",
+    "search_category": "Shops",
+    "primary_category": "General store",
+    "all_categories": "General store",
+    "pincode": "431501",
+    "phone_number": "+91 75073 31151",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop No. 1, Ashti - Partur Rd, near by Shree Ram Pan Shop, Partur, Maharashtra 431501",
+    "area": "431501",
+    "latitude": 19.577289099999998,
+    "longitude": 76.20982699999999,
+    "place_id": "ChIJbz5WMgaR2jsRUNtNXU3Q510",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJbz5WMgaR2jsRUNtNXU3Q510",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:01:42"
+  },
+  {
+    "business_name": "Payal Computers",
+    "search_category": "Shops",
+    "primary_category": "Computer store",
+    "all_categories": "Computer store",
+    "pincode": "431501",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4.5,
+    "reviews_count": null,
+    "address": "H6V7+GFR, Main Rd, Partur, Maharashtra 431501",
+    "area": "431501",
+    "latitude": 19.5938709,
+    "longitude": 76.21365229999999,
+    "place_id": "ChIJ1RCqBdCR2jsR3zVNUKg5Zc8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ1RCqBdCR2jsR3zVNUKg5Zc8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:01:43"
+  }
+]

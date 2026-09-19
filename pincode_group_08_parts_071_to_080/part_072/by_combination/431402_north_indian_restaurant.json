@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "New Neelkamal Dhaba",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "Dhaba",
+    "all_categories": "Dhaba",
+    "pincode": "431402",
+    "phone_number": "+91 99706 00708",
+    "website": "N/A",
+    "rating": 3.3,
+    "reviews_count": null,
+    "address": "7R68+WFQ, Satkar Colony, Karegaon, Maharashtra 431402",
+    "area": "Satkar Colony",
+    "latitude": 19.262341499999998,
+    "longitude": 76.8162239,
+    "place_id": "ChIJefj1Sw4Y0DsRqqlIaxhu_go",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJefj1Sw4Y0DsRqqlIaxhu_go",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:58:28"
+  },
+  {
+    "business_name": "The Malgudi Junction",
+    "search_category": "North Indian Restaurant",
+    "primary_category": "North Indian restaurant",
+    "all_categories": "North Indian restaurant",
+    "pincode": "431402",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "near SBI Bank, Vaibhav Nagar, Parbhani, Maharashtra 431401",
+    "area": "Vaibhav Nagar",
+    "latitude": 19.2546326,
+    "longitude": 76.7896176,
+    "place_id": "ChIJKULXhr0Z0DsRieEi-TCQNtk",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJKULXhr0Z0DsRieEi-TCQNtk",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 05:58:28"
+  }
+]

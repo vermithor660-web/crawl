@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "The Puppy Shop",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet supply store",
+    "all_categories": "Pet supply store, Animal feed store",
+    "pincode": "431510",
+    "phone_number": "+91 88883 84828",
+    "website": "N/A",
+    "rating": 3.8,
+    "reviews_count": null,
+    "address": "opp. Hotel City Pride, Ramdaspeth, Akola, Maharashtra 444005",
+    "area": "Ramdaspeth",
+    "latitude": 20.721216599999998,
+    "longitude": 77.00627759999999,
+    "place_id": "ChIJV48qwd4x1zsRmTVjFtU_2h8",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJV48qwd4x1zsRmTVjFtU_2h8",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:15:27"
+  },
+  {
+    "business_name": "Pet's Zone",
+    "search_category": "Pet Food and Pet Supplies",
+    "primary_category": "Pet store",
+    "all_categories": "Pet store, Bird shop, Dog breeder, Dog trainer, Kennel, Pet groomer, Pet sitter",
+    "pincode": "431510",
+    "phone_number": "+91 90961 93999",
+    "website": "N/A",
+    "rating": 4.3,
+    "reviews_count": null,
+    "address": "Ward No.A3, Satva Chowk, Jatharpeth, Akola, Maharashtra 444005",
+    "area": "Jatharpeth",
+    "latitude": 20.717975,
+    "longitude": 77.0154676,
+    "place_id": "ChIJv-Eu8CEu1zsRTxYyDG_LQDc",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv-Eu8CEu1zsRTxYyDG_LQDc",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:15:27"
+  }
+]

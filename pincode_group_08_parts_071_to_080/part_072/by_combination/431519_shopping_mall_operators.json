@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Aeromall",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall, Food court, Public parking space",
+    "pincode": "431519",
+    "phone_number": "+91 92260 89640",
+    "website": "https://aeromallpune.com/",
+    "rating": 4.2,
+    "reviews_count": 8767,
+    "address": "333, DOMESTIC, Airport Rd, Pune International Airport Area, Lohegaon, Pune, Maharashtra 411032",
+    "area": "Survey Number 235, Pune International Airport Area, Lohegaon",
+    "latitude": 18.5779514,
+    "longitude": 73.9073102,
+    "place_id": "ChIJK7gtTDfBwjsRI3iOqOm4iJU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJK7gtTDfBwjsRI3iOqOm4iJU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:32:12"
+  },
+  {
+    "business_name": "DMS Complex Malkapur",
+    "search_category": "Shopping Mall Operators",
+    "primary_category": "Shopping mall",
+    "all_categories": "Shopping mall",
+    "pincode": "431519",
+    "phone_number": "+91 72184 09074",
+    "website": "N/A",
+    "rating": 3.9,
+    "reviews_count": null,
+    "address": "756H+258, Malkapur, Maharashtra 415539",
+    "area": "431519",
+    "latitude": 17.2600493,
+    "longitude": 74.17795339999999,
+    "place_id": "ChIJ4eiZnvuCwTsRpugmIIfDKBU",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJ4eiZnvuCwTsRpugmIIfDKBU",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:32:13"
+  }
+]

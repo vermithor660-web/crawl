@@ -1,0 +1,40 @@
+[
+  {
+    "business_name": "Laxmi Narsimha Prasadalay",
+    "search_category": "Departmental Store",
+    "primary_category": "Grocery store",
+    "all_categories": "Grocery store",
+    "pincode": "431521",
+    "phone_number": "+91 96651 49770",
+    "website": "N/A",
+    "rating": null,
+    "reviews_count": null,
+    "address": "Shop 04 Near Narsimha Temple Pokharni, Nr, Parbhani, Maharashtra 431521",
+    "area": "431521",
+    "latitude": 19.116642799999997,
+    "longitude": 76.7070885,
+    "place_id": "ChIJv_y6Qlgd0DsRGa68ujqTVSQ",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJv_y6Qlgd0DsRGa68ujqTVSQ",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:33:57"
+  },
+  {
+    "business_name": "Supermarket",
+    "search_category": "Departmental Store",
+    "primary_category": "Hardware store",
+    "all_categories": "Hardware store",
+    "pincode": "431521",
+    "phone_number": "N/A",
+    "website": "N/A",
+    "rating": 4,
+    "reviews_count": 1,
+    "address": "7Q7M+R28, Gautam Nagar, Vakil Colony, Parbhani, Maharashtra 431401",
+    "area": "Gautam Nagar, Vakil Colony",
+    "latitude": 19.2645093,
+    "longitude": 76.7825905,
+    "place_id": "ChIJgczFTQAZ0DsRIcNOZzzAuvg",
+    "place_url": "https://www.google.com/maps/place/?q=place_id:ChIJgczFTQAZ0DsRIcNOZzzAuvg",
+    "part_id": "part_072",
+    "crawled_at": "2026-09-19 06:33:59"
+  }
+]
